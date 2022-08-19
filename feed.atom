@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T06:30:22.161Z</id>
+    <id>urn:2022-08-19T01:07:49.121Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-18T06:30:22.161Z</updated>
+    <updated>2022-08-19T01:07:49.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Spin Coherence in Optically Addressable Molecular Qubits through Host-Matrix Control]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.031028</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.031028"/>
+        <updated>2022-08-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. L. Bayliss, P. Deb, D. W. Laorenza, M. Onizhuk, G. Galli, D. E. Freedman, and D. D. Awschalom
+The spin state of molecular qubits can be made more stable by changing the chemical environment in which the qubits sit.
+
+[Phys. Rev. X 12, 031028] Published Thu Aug 18, 2022]]></summary>
+        <author>
+            <name>S. L. Bayliss, P. Deb, D. W. Laorenza, M. Onizhuk, G. Galli, D. E. Freedman, and D. D. Awschalom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solitons in Overdamped Brownian Dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.080601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.080601"/>
+        <updated>2022-08-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander P. Antonov, Artem Ryabov, and Philipp Maass
+Soliton propagation in driven overdamped Brownian motion allows particle transport in overcrowded systems.
+
+[Phys. Rev. Lett. 129, 080601] Published Thu Aug 18, 2022]]></summary>
+        <author>
+            <name>Alexander P. Antonov, Artem Ryabov, and Philipp Maass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ion-Induced Surface Charge Dynamics in Freestanding Monolayers of Graphene and ${\mathrm{MoS}}_{2}$ Probed by the Emission of Electrons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.086802</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.086802"/>
+        <updated>2022-08-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Anna Niggas, Janine Schwestka, Karsten Balzer, David Weichselbaum, Niclas Schlünzen, René Heller, Sascha Creutzburg, Heena Inani, Mukesh Tripathi, Carsten Speckmann, Niall McEvoy, Toma Susi, Jani Kotakoski, Ziyang Gan, Antony George, Andrey Turchanin, Michael Bonitz, Friedrich Aumayr, and Richard A. Wilhelm
+Studies of the surface charge dynamics on the femtosecond timescale in 2D materials following ion impact yield six times higher electron emission for graphene in comparison to MoS2, bridging the gap from ultrafast laser physics to ion beams.
+
+[Phys. Rev. Lett. 129, 086802] Published Thu Aug 18, 2022]]></summary>
+        <author>
+            <name>Anna Niggas, Janine Schwestka, Karsten Balzer, David Weichselbaum, Niclas Schlünzen, René Heller, Sascha Creutzburg, Heena Inani, Mukesh Tripathi, Carsten Speckmann, Niall McEvoy, Toma Susi, Jani Kotakoski, Ziyang Gan, Antony George, Andrey Turchanin, Michael Bonitz, Friedrich Aumayr, and Richard A. Wilhelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triple nodal points characterized by their nodal-line structure in all magnetic space groups]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.085128</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.085128"/>
+        <updated>2022-08-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Patrick M. Lenggenhager, Xiaoxiong Liu, Titus Neupert, and Tomáš Bzdušek
+Triple nodal points are threefold degeneracies of energy bands in momentum space and therefore constitute intermediates between Dirac and Weyl points. Here, the authors study these band nodes in spinless band structures arising in any space group, possibly magnetic and nonsymmorphic, and derive a complete symmetry classification according to the nodal-line structure in the vicinity of the triple nodal point. This provides criteria for the stability of such band nodes and predicts the intricate nodal structures observed in data obtained by first-principles calculations for real materials.
+
+[Phys. Rev. B 106, 085128] Published Thu Aug 18, 2022]]></summary>
+        <author>
+            <name>Patrick M. Lenggenhager, Xiaoxiong Liu, Titus Neupert, and Tomáš Bzdušek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Observing the Influence of Reduced Dimensionality on Fermionic Superfluids]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.083601</id>
@@ -1238,71 +1290,6 @@ The diffusion constant of sticky particles can depend on particle mass in the ov
 [Phys. Rev. Lett. 129, 048003] Published Thu Jul 21, 2022]]></summary>
         <author>
             <name>Sophie Marbach and Miranda Holmes-Cerfon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthesis and electronic properties of epitaxial ${\mathrm{SrNiO}}_{3}/{\mathrm{SrTiO}}_{3}$ superlattices]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.075006</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.075006"/>
-        <updated>2022-07-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Le Wang, Jiali Zhao, Cheng-Tai Kuo, Bethany E. Matthews, Marjolein T. Oostrom, Steven R. Spurgeon, Zhenzhong Yang, Mark E. Bowden, Linda W. Wangoh, Sang-Jun Lee, Jun-Sik Lee, Er-Jia Guo, Jiaou Wang, Scott A. Chambers, and Yingge Du
-The functionality of materials is critically dependent on structures and electronic properties. The valence of transition metal (TM) cations in complex oxides is key and each TM exhibits a fixed range of stable values. For Ni, the formal oxidation state is 2+, but can reach 3+ for certain compositions. By limiting SrNiO3 film thickness to 1 unit cell in (SrNiO3)1/(SrTiO3)n superlattices, the authors demonstrate that the Ni valence exceeds 3+ whereas the Ti valence remains at 4+, and that neither valence changes with n. This work demonstrates that the structural environment can be controlled to achieve electronic properties not normally found in bulk materials by means of superlattice formation.
-
-[Phys. Rev. Materials 6, 075006] Published Wed Jul 20, 2022]]></summary>
-        <author>
-            <name>Le Wang, Jiali Zhao, Cheng-Tai Kuo, Bethany E. Matthews, Marjolein T. Oostrom, Steven R. Spurgeon, Zhenzhong Yang, Mark E. Bowden, Linda W. Wangoh, Sang-Jun Lee, Jun-Sik Lee, Er-Jia Guo, Jiaou Wang, Scott A. Chambers, and Yingge Du</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Thermalization]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.040602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.040602"/>
-        <updated>2022-07-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kamil Korzekwa and Matteo Lostaglio
-By combining continuous and discrete theoretical approaches, researchers show how to plot an optimal path from one nonequilibrium quantum state to another.
-
-[Phys. Rev. Lett. 129, 040602] Published Wed Jul 20, 2022]]></summary>
-        <author>
-            <name>Kamil Korzekwa and Matteo Lostaglio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision Determination of the Neutral Weak Form Factor of $^{48}\mathrm{Ca}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.042501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.042501"/>
-        <updated>2022-07-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. Adhikari et al. (CREX Collaboration)
-A precision measurement of the neutral weak form factor of 48Ca provides a determination of its neutron skin thickness and constrains the symmetry energy of nuclear matter.
-
-[Phys. Rev. Lett. 129, 042501] Published Wed Jul 20, 2022]]></summary>
-        <author>
-            <name>D. Adhikari &lt;em&gt;et al.&lt;/em&gt; (CREX Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gunwale bobbing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.074804</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.074804"/>
-        <updated>2022-07-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Graham P. Benham, Olivier Devauchelle, Stephen W. Morris, and Jerome A. Neufeld
-A canoe can be propelled without paddling by forcing it into oscillation by standing on its gunwales and pumping with one’s legs, a technique known as gunwale bobbing. We present the first hydrodynamic model of gunwale bobbing, using theoretical ideas developed for “walking” droplets on a vibrated bath.
-
-[Phys. Rev. Fluids 7, 074804] Published Wed Jul 20, 2022]]></summary>
-        <author>
-            <name>Graham P. Benham, Olivier Devauchelle, Stephen W. Morris, and Jerome A. Neufeld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generalized Gibbs ensemble description of real-space entanglement spectra of $(2+1)$-dimensional chiral topological systems with SU(2) symmetry]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.035138</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.035138"/>
-        <updated>2022-07-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mark J. Arildsen and Andreas W. W. Ludwig
-Li and Haldane observed that low-lying entanglement spectra of ground states of (2+1)D chiral topological phases display characteristic degeneracies of the (1+1)D conformal field theory (CFT) appearing at a physical boundary. This work explains the finite-size splittings of these degeneracies by irrelevant deformations of a (1+0)D boundary of the CFT, representing the ground state. These intriguingly arise from operators of fractional dimension in certain entanglement spectra. This approach has applications for diagnosing chirality in topological projected entangled pair states (PEPS).
-
-[Phys. Rev. B 106, 035138] Published Wed Jul 20, 2022]]></summary>
-        <author>
-            <name>Mark J. Arildsen and Andreas W. W. Ludwig</name>
         </author>
     </entry>
 </feed>
