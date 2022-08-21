@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-20T01:04:08.345Z</id>
+    <id>urn:2022-08-21T01:04:43.980Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-20T01:04:08.345Z</updated>
+    <updated>2022-08-21T01:04:43.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1199,71 +1199,6 @@ In certain instances, the particle paths predicted by Bohmian mechanics are cons
 [Phys. Rev. A 106, L010203] Published Mon Jul 25, 2022]]></summary>
         <author>
             <name>Valeri Frumkin, David Darrow, John W. M. Bush, and Ward Struyve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defect structure in quantum-cutting ${\mathrm{Yb}}^{3+}$-doped $\mathrm{CsPb}{\mathrm{Cl}}_{3}$ perovskites probed by x-ray absorption and atomic pair distribution function analysis]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.074601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.074601"/>
-        <updated>2022-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kyle T. Kluherz, Sebastian T. Mergelsberg, David E. Sommer, Joo Yeon D. Roh, Sarah A. Saslow, Daniel Biner, Karl W. Krämer, Scott T. Dunham, James J. De Yoreo, and Daniel R. Gamelin
-Lead halide perovskite materials doped with lanthanides can exhibit over 100% luminescence quantum yield due to quantum cutting. Defect states related to these dopants are known to play a role in the quantum cutting mechanism, but the structural changes and charge compensation mechanisms induced by these dopants have not been fully explored. Here, the authors use a combination of advanced x-ray techniques and computational modeling to elucidate the structural impact of ytterbium doping in CsPbCl3. The authors find that Yb3+, exclusively in the +3 oxidation state, replaces Pb2+ in the octahedral site with charge compensated by Pb2+ vacancies, providing clear experimental verification of a hypothesized structure.
-
-[Phys. Rev. Materials 6, 074601] Published Fri Jul 22, 2022]]></summary>
-        <author>
-            <name>Kyle T. Kluherz, Sebastian T. Mergelsberg, David E. Sommer, Joo Yeon D. Roh, Sarah A. Saslow, Daniel Biner, Karl W. Krämer, Scott T. Dunham, James J. De Yoreo, and Daniel R. Gamelin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spirographic motion in a vortex]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.074402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.074402"/>
-        <updated>2022-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sumithra Reddy Yerasi, Rama Govindarajan, and Dario Vincenzi
-The present study investigates the dynamics of an inertialess rigid dumbbell in a steady two-dimensional vortex. This system goes beyond the point-particle approximation but remains analytically solvable. For any vortex, the dynamics of the dumbbell follows from the existence of a constant of motion that is independent of the form of the vortex. In particular, if the fluid angular velocity decreases with the radial distance, the dumbbell performs spirographic trajectories around the vortex center, the shape of which is highly sensitive to the initial position and orientation of the dumbbell.
-
-[Phys. Rev. Fluids 7, 074402] Published Fri Jul 22, 2022]]></summary>
-        <author>
-            <name>Sumithra Reddy Yerasi, Rama Govindarajan, and Dario Vincenzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phonon background from gamma rays in sub-GeV dark matter detectors]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.023026</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.023026"/>
-        <updated>2022-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kim V. Berghaus, Rouven Essig, Yonit Hochberg, Yutaro Shoji, and Mukul Sholapurkar
-Semiconductor based searches for dark matter are a promising route to look for low-mass (sub-GeV) particles, but they present challenges due to their sensitivity. This article analyzes the background from radiogenic photons, which can leave a phonon signal in the detector. The authors find this is a significant effect, which will require active veto strategies to ameliorate.
-
-[Phys. Rev. D 106, 023026] Published Fri Jul 22, 2022]]></summary>
-        <author>
-            <name>Kim V. Berghaus, Rouven Essig, Yonit Hochberg, Yutaro Shoji, and Mukul Sholapurkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electric and chiral response to a pseudoelectric field in Weyl materials]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.045132</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.045132"/>
-        <updated>2022-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. A. Herasymchuk, P. O. Sukhachov, and E. V. Gorbar
-One of the unique features of Weyl and Dirac materials is the possibility to realize effective pseudo-electromagnetic (axial) fields by perturbing the band structure. These fields couple with a different sign to quasiparticles of different chirality. Here, the authors show that a dynamical pseudoelectric field allows for a Hall-like electric current response resembling the celebrated anomalous Hall effect. The conductivity for this nondissipative response is determined by the wave vector of perturbation, for example, sound.
-
-[Phys. Rev. B 106, 045132] Published Fri Jul 22, 2022]]></summary>
-        <author>
-            <name>A. A. Herasymchuk, P. O. Sukhachov, and E. V. Gorbar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antichiral order and spin reorientation transitions of triangle-based antiferromagnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L020403</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L020403"/>
-        <updated>2022-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Leon Balents
-Antiferromagnetically coupled spins on a triangle tend to order at 120° angles to one another. When confined to a plane, the pattern is antichiral if the spins rotate counterclockwise while traversing the triangle clockwise. The author shows that in this situation spin reorientation transitions generically occur as an applied field is increased, with spins rotating in the same/opposite sense as the field for high/low fields. The complex spin evolution provides tunability for magnetic and spintronic applications.
-
-[Phys. Rev. B 106, L020403] Published Fri Jul 22, 2022]]></summary>
-        <author>
-            <name>Leon Balents</name>
         </author>
     </entry>
 </feed>
