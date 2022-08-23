@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.090502",
+          "author": "Feng Pan, Keyang Chen, and Pan Zhang",
+          "description": "Author(s): Feng Pan, Keyang Chen, and Pan Zhang\nA classical simulation method is used to solve the uncorrelated sampling problem for the Google Sycamore quantum circuits in 15 hours on a computational cluster with 512 GPUs.\n\n[Phys. Rev. Lett. 129, 090502] Published Mon Aug 22, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.090502",
+          "publishedOn": "2022-08-22T10:00:00.000Z",
+          "wordCount": 1139,
+          "title": "Solving the Sampling Problem of the Sycamore Quantum Circuits",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.090502.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.094501",
+          "author": "Angela M. Jaramillo-Granada, A. D. Reyes-Figueroa, and J. C. Ruiz-Suárez",
+          "description": "Author(s): Angela M. Jaramillo-Granada, A. D. Reyes-Figueroa, and J. C. Ruiz-Suárez\nDynamic light scattering experiments reveal that “blob” domains of nanostructured xenon and krypton gas form inside depressurized water instead of the expected nanobubbles.\n\n[Phys. Rev. Lett. 129, 094501] Published Mon Aug 22, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.094501",
+          "publishedOn": "2022-08-22T10:00:00.000Z",
+          "wordCount": 1074,
+          "title": "Xenon and Krypton Dissolved in Water Form Nanoblobs: No Evidence for Nanobubbles",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.094501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.046007",
+          "author": "Vijay Balasubramanian, Pawel Caputa, Javier M. Magan, and Qingyue Wu",
+          "description": "Author(s): Vijay Balasubramanian, Pawel Caputa, Javier M. Magan, and Qingyue Wu\nComplexity plays an important role in the study of black holes in quantum gravity, and of interacting many-body systems in condensed matter physics. The authors propose a definition of quantum state complexity, which agrees with earlier definitions under certain conditions. They compute the complexity in various models and show physically reasonable behaviors which can be connected with quantum chaos.\n\n[Phys. Rev. D 106, 046007] Published Mon Aug 22, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.046007",
+          "publishedOn": "2022-08-22T10:00:00.000Z",
+          "wordCount": 2390,
+          "title": "Quantum chaos and the complexity of spread of states",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.046007.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024059",
+          "author": "Wenjun Wen, Zhiyu Chen, Liangliang Lu, Wenhan Yan, Wenyi Xue, Peiyu Zhang, Yanqing Lu, Shining Zhu, and Xiao-song Ma",
+          "description": "Author(s): Wenjun Wen, Zhiyu Chen, Liangliang Lu, Wenhan Yan, Wenyi Xue, Peiyu Zhang, Yanqing Lu, Shining Zhu, and Xiao-song Ma\nFully connected quantum networks have been realized with bulk nonlinear crystals and passive filters, but this traditional optical platform limits a network’s scalability in terms of photon-pair number and brightness, compatibility with quantum memory, and cost effectiveness. The authors address all of those challenges by employing an integrated SiN microring resonator to generate energy-time-entangled quantum frequency microcombs with a wide frequency span and narrow bandwidth modes. Photon pairs are selected and distributed to form a fully and simultaneously connected multiuser quantum network, paving the way to turnkey solutions for large entanglement-based quantum networks.\n\n[Phys. Rev. Applied 18, 024059] Published Mon Aug 22, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024059",
+          "publishedOn": "2022-08-22T10:00:00.000Z",
+          "wordCount": 1509,
+          "title": "Realizing an Entanglement-Based Multiuser Quantum Network with Integrated Photonics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024059.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.023115",
+          "author": "C. Drago and J. E. Sipe",
+          "description": "Author(s): C. Drago and J. E. Sipe\nThe authors present a theoretical analysis of two-photon absorption of classical and squeezed light that is valid for arbitrary intensity, both pulsed and cw light, and absorption both resonant and far-off-resonance from an intermediate state. Among other results, they find closed-form expressions for the cross sections and the scaling of the absorption with intensity.\n\n[Phys. Rev. A 106, 023115] Published Mon Aug 22, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.023115",
+          "publishedOn": "2022-08-22T10:00:00.000Z",
+          "wordCount": 1447,
+          "title": "Aspects of two-photon absorption of squeezed light: The continuous-wave limit",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.023115.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.031029",
           "author": "Tomasz Kacprzak and Janis Fluri",
           "description": "Author(s): Tomasz Kacprzak and Janis Fluri\nCosmological constraints can be improved by applying machine learning to a combination of data from two leading probes of the large-scale structure of the Universe.\n\n[Phys. Rev. X 12, 031029] Published Fri Aug 19, 2022",
@@ -201,7 +251,7 @@
           "description": "Author(s): Philippe Bourrianne, Paul R. Kaneelil, Manouk Abkarian, and Howard A. Stone\nIn an unlikely collaboration, physicists and professional musicians studied how to limit COVID-19’s spread during operatic performances. Hint, it involves instruments wearing masks.\n\n[Phys. Rev. Applied 18, 024042] Published Tue Aug 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024042",
           "publishedOn": "2022-08-16T10:00:00.000Z",
-          "wordCount": 1869,
+          "wordCount": 1845,
           "title": "Air Flows in Opera",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024042.png"
         },
@@ -211,7 +261,7 @@
           "description": "Author(s): Bo Peng, Daniel Bennett, Ivona Bravić, and Bartomeu Monserrat\nPhotostriction, the name given to volume changes upon illumination, has recently been observed in halide perovskites. However, the microscopic mechanism remains unclear. In this letter, the authors propose that the orbital character of the electronic bands near the Fermi level determine the photostriction behavior. They find that photoexciting electrons from strong antibonding valence states to weaker antibonding conduction states leads to lattice contraction as a result of weakened antibonding interaction. Interestingly, using higher excitation energies promotes electrons from deeper nonbonding valence states to antibonding conduction states, resulting in giant lattice expansion. These results rationalize the experimentally observed tunable photostriction in halide perovskites.\n\n[Phys. Rev. Materials 6, L082401] Published Mon Aug 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.L082401",
           "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 836,
+          "wordCount": 835,
           "title": "Tunable photostriction of halide perovskites through energy dependent photoexcitation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.L082401.png"
         },
@@ -301,7 +351,7 @@
           "description": "Author(s): Young R. Yi and Jeffrey R. Koseff\nGlobal and regional ocean simulations rely on eddy viscosities and diffusivities to account for irreversible mixing of momentum and scalars due to unresolved scales of motion. These closures are often sensitive to the values of the mixing coefficient, whose shape has been well characterized in terms of turbulence parameters. In this paper, we connect this well-established shape of the mixing coefficient curve to the underlying physics of stably stratified turbulence as a function of the turbulent Froude number.\n\n[Phys. Rev. Fluids 7, 084801] Published Fri Aug 12, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.084801",
           "publishedOn": "2022-08-12T10:00:00.000Z",
-          "wordCount": 1357,
+          "wordCount": 1299,
           "title": "Dynamics and energetics underlying mixing efficiency in homogeneous stably stratified turbulence",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.084801.png"
         },
@@ -421,7 +471,7 @@
           "description": "Author(s): Matthew R. Edwards and Pierre Michel\nA compact, high-power laser could be made using gratings made of plasma.\n\n[Phys. Rev. Applied 18, 024026] Published Tue Aug 09, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024026",
           "publishedOn": "2022-08-09T10:00:00.000Z",
-          "wordCount": 1425,
+          "wordCount": 1401,
           "title": "Plasma Transmission Gratings for Compression of High-Intensity Laser Pulses",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024026.png"
         },
@@ -451,7 +501,7 @@
           "description": "Author(s): Yu Zhao and Haitao Xu\nAn object inserted in a fast-flowing soap film can cause shock-like structures in the film. We show by laser interference that the film thicknesses remain the same across those shocks. The shock fronts are due to the bending of soap films, like pleats in a curtain, rather than increases of film thickness. These shocks are actually caused by antisymmetric waves, rather than elastic symmetric waves.\n\n[Phys. Rev. Fluids 7, L082001] Published Mon Aug 08, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082001",
           "publishedOn": "2022-08-08T10:00:00.000Z",
-          "wordCount": 1059,
+          "wordCount": 1117,
           "title": "Observation of antisymmetric shock waves in soap-film flows",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L082001.png"
         },
@@ -541,7 +591,7 @@
           "description": "Author(s): Jeffrey R. Carpenter, Yu Liang, Mary-Louise Timmermans, and Eyal Heifetz\nIn many convective flows of geophysical relevance the Earth’s rotation is able to provide a control on the rate of heat transfer. The physical mechanisms of this process are the subject of this paper, where a linear model is used to break down the onset of convection into understandable elements that can be quantified and compared. The physical processes acting to control the onset of convection in rotating flows are found to differ depending on the parameters of the problem. Thus no simple universal mechanism can be identified.\n\n[Phys. Rev. Fluids 7, 083501] Published Thu Aug 04, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.083501",
           "publishedOn": "2022-08-04T10:00:00.000Z",
-          "wordCount": 1235,
+          "wordCount": 1293,
           "title": "Physical mechanisms of the linear stabilization of convection by rotation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.083501.png"
         },
@@ -641,7 +691,7 @@
           "description": "Author(s): Alexander G. Squires, Daniel W. Davies, Sunghyun Kim, David O. Scanlon, Aron Walsh, and Benjamin J. Morgan\nThe formation of lithium dendrites in solid-state lithium-ion batteries leads to short-circuiting and cell failure. One proposed mechanism for dendrite growth is the direct reduction of lithium ions, due to residual electronic conductivity in the nominally insulating solid electrolyte. This article presents a fully first-principles scheme for modeling the electronic conductivity of nominally insulating materials, such as solid electrolytes, as a function of synthesis protocol, and applies this to the prototypical lithium-ion solid electrolyte Li7La3Zr2O2 (LLZO). LLZO is predicted to have low bulk electronic carrier mobilities and negligible carrier concentrations. This suggests that the bulk electronic conductivity of LLZO is not sufficiently high to enable lithium-dendrite growth, implicating extended defects and surface contributions in any non-negligible electronic conductivity in lithium garnet solid electrolytes.\n\n[Phys. Rev. Materials 6, 085401] Published Mon Aug 01, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.085401",
           "publishedOn": "2022-08-01T10:00:00.000Z",
-          "wordCount": 1207,
+          "wordCount": 1208,
           "title": "Low electronic conductivity of ${\\mathrm{Li}}_{7}{\\mathrm{La}}_{3}{\\mathrm{Zr}}_{2}{\\mathrm{O}}_{12}$ solid electrolytes from first principles",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.085401.png"
         },
@@ -761,7 +811,7 @@
           "description": "Author(s): Maximilian F. Eggl and Peter J. Schmid\nWe present a numerical study of enhanced stirrer shapes and temporal velocity protocols for mixing an initially unmixed incompressible binary fluid in a two-dimensional circular container in a non-turbulent but inertial flow regime. A gradient-based and PDE-constrained optimization approach is combined with modern mixing metrics. The largest efficiency enhancement, by a factor of more than two, comes from simultaneously optimizing stirrer shapes and velocity trajectories, leading to counter-intuitive and complex stirring protocols that benefit from vortex generation, interaction, and collisions. Many challenges remain, but opportunities arise for extending this approach to more realistic configurations.\n\n[Phys. Rev. Fluids 7, 073904] Published Wed Jul 27, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.073904",
           "publishedOn": "2022-07-27T10:00:00.000Z",
-          "wordCount": 1600,
+          "wordCount": 1658,
           "title": "Mixing by stirring: Optimizing shapes and strategies",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.073904.png"
         },
@@ -911,7 +961,7 @@
           "description": "Author(s): Hermann A.G. Schenk, Anton Melnikov, Franziska Wall, Matthieu Gaudet, Michael Stolz, David Schuffenhauer, and Bert Kaiser\nThe analytical modeling of electrically driven microbeams is essential to designing the silicon sensors and actuators behind much of the functionality in smartphones, for example. Such modeling is a challenge, because Coulomb forces acting on elastic structures typically yield complex dynamical behavior. This study applies ideas regarding the Central Limit Theorem of analytical probability theory to evaluate relevant Coulomb integrals, leading to a surprisingly accurate model with a single degree of freedom. The approach can presumably be generalized beyond the context of micromachines, to the calculation of a broad class of integrals with kernels close to a singularity.\n\n[Phys. Rev. Applied 18, 014059] Published Mon Jul 25, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.014059",
           "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 1659,
+          "wordCount": 1635,
           "title": "Electrically Actuated Microbeams: An Explicit Calculation of the Coulomb Integral in the Entire Stable and Unstable Regimes Using a Chebyshev-Edgeworth Approach",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.014059.png"
         },
