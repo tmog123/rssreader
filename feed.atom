@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-23T01:16:11.940Z</id>
+    <id>urn:2022-08-24T01:09:49.476Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T01:16:11.940Z</updated>
+    <updated>2022-08-24T01:09:49.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring the SMEFT at dimension eight with Drell-Yan transverse momentum measurements]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.036020</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.036020"/>
+        <updated>2022-08-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Radja Boughezal, Yingsheng Huang, and Frank Petriello
+Effective field theories (EFTs) are used to parameterize searches for new physics in a largely model-independent way. Here, the authors study Drell-Yan processes at the LHC including terms up to dimension 8 in the EFT expansion. They find that these higher-dimension operators can be probed in the future and are potentially important in distinguishing different models.
+
+[Phys. Rev. D 106, 036020] Published Tue Aug 23, 2022]]></summary>
+        <author>
+            <name>Radja Boughezal, Yingsheng Huang, and Frank Petriello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broadband Continuous-Variable Entanglement Generation Using a Kerr-Free Josephson Metamaterial]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063"/>
+        <updated>2022-08-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen
+Generation of quantum resources like entanglement is pivotal for quantum technology. This work uses superconducting Josephson metamaterials to generate color-entangled photons from vacuum fluctuations at a high rate, showing the presented system to be a superb microwave entanglement generator with remarkable bandwidth. Successful squeezing of the light is also demonstrated. These results are quite promising for quantum computing, sensing, and communication with superconducting devices.
+
+[Phys. Rev. Applied 18, 024063] Published Tue Aug 23, 2022]]></summary>
+        <author>
+            <name>M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time-Dependent Multistate Switching of Topological Antiferromagnetic Order in ${\mathrm{Mn}}_{3}\mathrm{Sn}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064"/>
+        <updated>2022-08-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella
+Noncollinear antiferromagnets (AFMs) with topological electronic properties attract great interest, as they allow for all-electrical readout and manipulation of AFM order. The mechanisms and timescales to reverse AFM order are not known, though. In this study of current-driven switching of chiral AFM order in the classic Weyl semimetal Mn3Sn, time-resolved measurements show that switching is incoherent and occurs over several nanoseconds, owing to self-heating and then cooling of AFM domains in the presence of a Pt overlayer. These results unravel the spin dynamics of chiral AFMs and highlight the possibility of multilevel switching based on the temporal profile of current pulses.
+
+[Phys. Rev. Applied 18, 024064] Published Tue Aug 23, 2022]]></summary>
+        <author>
+            <name>Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solving the Sampling Problem of the Sycamore Quantum Circuits]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.090502</id>
@@ -1160,110 +1199,6 @@ This paper investigates transport characteristics in superfluid–normal-state j
 [Phys. Rev. A 106, L011303] Published Tue Jul 26, 2022]]></summary>
         <author>
             <name>Shun Uchino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entanglement Estimation in Tensor Network States via Sampling]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.030312</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.3.030312"/>
-        <updated>2022-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Noa Feldman, Augustine Kshetrimayum, Jens Eisert, and Moshe Goldstein
-A new method allows for the estimation of entanglement in quantum states represented by high dimensional tensor networks, extending the size of tractable systems beyond exact methods.
-
-[PRX Quantum 3, 030312] Published Mon Jul 25, 2022]]></summary>
-        <author>
-            <name>Noa Feldman, Augustine Kshetrimayum, Jens Eisert, and Moshe Goldstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanofocused x-ray photon correlation spectroscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.L032012</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.L032012"/>
-        <updated>2022-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sharon Berkowicz, Sudipta Das, Mario Reiser, Mariia Filianina, Maddalena Bin, Giulio Crevatin, Franz Hennies, Clemens Weninger, Alexander Björling, Paul Bell, and Fivos Perakis
-The authors show that nanofocused x-ray photon correlation spectroscopy can enhance sensitivity to nanoscale spatial fluctuations and yields a multi-fold increase in speckle contrast.
-
-[Phys. Rev. Research 4, L032012] Published Mon Jul 25, 2022]]></summary>
-        <author>
-            <name>Sharon Berkowicz, Sudipta Das, Mario Reiser, Mariia Filianina, Maddalena Bin, Giulio Crevatin, Franz Hennies, Clemens Weninger, Alexander Björling, Paul Bell, and Fivos Perakis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Squeezed Light from a Levitated Nanoparticle at Room Temperature]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.053601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.053601"/>
-        <updated>2022-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lorenzo Magrini, Victor A. Camarena-Chávez, Constanze Bach, Aisling Johnson, and Markus Aspelmeyer
-A trapped nanoparticle interacting with a laser provides a simple way to generate squeezed light, which has an unusually low level of fluctuations.
-
-[Phys. Rev. Lett. 129, 053601] Published Mon Jul 25, 2022]]></summary>
-        <author>
-            <name>Lorenzo Magrini, Victor A. Camarena-Chávez, Constanze Bach, Aisling Johnson, and Markus Aspelmeyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponderomotive Squeezing of Light by a Levitated Nanoparticle in Free Space]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.053602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.053602"/>
-        <updated>2022-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andrei Militaru, Massimiliano Rossi, Felix Tebbenjohanns, Oriol Romero-Isart, Martin Frimmer, and Lukas Novotny
-A trapped nanoparticle interacting with a laser provides a simple way to generate squeezed light, which has an unusually low level of fluctuations.
-
-[Phys. Rev. Lett. 129, 053602] Published Mon Jul 25, 2022]]></summary>
-        <author>
-            <name>Andrei Militaru, Massimiliano Rossi, Felix Tebbenjohanns, Oriol Romero-Isart, Martin Frimmer, and Lukas Novotny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Force Generation in Confined Active Fluids: The Role of Microstructure]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.058001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.058001"/>
-        <updated>2022-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Shuvojit Paul, Ashreya Jayaram, N Narinder, Thomas Speck, and Clemens Bechinger
-Measurements of the attractive force experienced by a passive particle in a bath of active ones and of the microstructure of that system, raise the tantalizing possibility of simple and generic quantitative descriptions of the organization of objects within active and living systems.
-
-[Phys. Rev. Lett. 129, 058001] Published Mon Jul 25, 2022]]></summary>
-        <author>
-            <name>Shuvojit Paul, Ashreya Jayaram, N Narinder, Thomas Speck, and Clemens Bechinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skyrmion superconductivity: DMRG evidence for a topological route to superconductivity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.035421</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.035421"/>
-        <updated>2022-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Shubhayu Chatterjee, Matteo Ippoliti, and Michael P. Zaletel
-Superconductivity is caused by the binding of electrons into Cooper pairs, which requires an attractive “pairing glue” to overcome Coulomb repulsion. Usually this attraction is mediated by bosonic fluctuations such as phonons or spin waves. Here, the authors numerically demonstrate the viability of another possibility: band topology can force electrons to bind into charge-2e topological textures, skyrmions. Using density matrix renormalization group calculations to solve for the ground state of the Coulomb interaction projected into topological bands, the authors show that the lowest-energy charged excitations are skyrmions that superconduct at finite density, thereby illustrating a distinct all-electronic mechanism for superconductivity.
-
-[Phys. Rev. B 106, 035421] Published Mon Jul 25, 2022]]></summary>
-        <author>
-            <name>Shubhayu Chatterjee, Matteo Ippoliti, and Michael P. Zaletel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electrically Actuated Microbeams: An Explicit Calculation of the Coulomb Integral in the Entire Stable and Unstable Regimes Using a Chebyshev-Edgeworth Approach]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.014059</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.014059"/>
-        <updated>2022-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hermann A.G. Schenk, Anton Melnikov, Franziska Wall, Matthieu Gaudet, Michael Stolz, David Schuffenhauer, and Bert Kaiser
-The analytical modeling of electrically driven microbeams is essential to designing the silicon sensors and actuators behind much of the functionality in smartphones, for example. Such modeling is a challenge, because Coulomb forces acting on elastic structures typically yield complex dynamical behavior. This study applies ideas regarding the Central Limit Theorem of analytical probability theory to evaluate relevant Coulomb integrals, leading to a surprisingly accurate model with a single degree of freedom. The approach can presumably be generalized beyond the context of micromachines, to the calculation of a broad class of integrals with kernels close to a singularity.
-
-[Phys. Rev. Applied 18, 014059] Published Mon Jul 25, 2022]]></summary>
-        <author>
-            <name>Hermann A.G. Schenk, Anton Melnikov, Franziska Wall, Matthieu Gaudet, Michael Stolz, David Schuffenhauer, and Bert Kaiser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real surreal trajectories in pilot-wave hydrodynamics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.L010203</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.L010203"/>
-        <updated>2022-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Valeri Frumkin, David Darrow, John W. M. Bush, and Ward Struyve
-In certain instances, the particle paths predicted by Bohmian mechanics are considered to be at odds with classical intuition, and so deemed to be “surreal.” Through a combined experimental and numerical study, the authors demonstrate that individual trajectories in the hydrodynamic pilot-wave system exhibit the key features of their surreal Bohmian counterparts.
-
-[Phys. Rev. A 106, L010203] Published Mon Jul 25, 2022]]></summary>
-        <author>
-            <name>Valeri Frumkin, David Darrow, John W. M. Bush, and Ward Struyve</name>
         </author>
     </entry>
 </feed>

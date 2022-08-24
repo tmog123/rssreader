@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.036020",
+          "author": "Radja Boughezal, Yingsheng Huang, and Frank Petriello",
+          "description": "Author(s): Radja Boughezal, Yingsheng Huang, and Frank Petriello\nEffective field theories (EFTs) are used to parameterize searches for new physics in a largely model-independent way. Here, the authors study Drell-Yan processes at the LHC including terms up to dimension 8 in the EFT expansion. They find that these higher-dimension operators can be probed in the future and are potentially important in distinguishing different models.\n\n[Phys. Rev. D 106, 036020] Published Tue Aug 23, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.036020",
+          "publishedOn": "2022-08-23T10:00:00.000Z",
+          "wordCount": 1346,
+          "title": "Exploring the SMEFT at dimension eight with Drell-Yan transverse momentum measurements",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.036020.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063",
+          "author": "M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen",
+          "description": "Author(s): M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen\nGeneration of quantum resources like entanglement is pivotal for quantum technology. This work uses superconducting Josephson metamaterials to generate color-entangled photons from vacuum fluctuations at a high rate, showing the presented system to be a superb microwave entanglement generator with remarkable bandwidth. Successful squeezing of the light is also demonstrated. These results are quite promising for quantum computing, sensing, and communication with superconducting devices.\n\n[Phys. Rev. Applied 18, 024063] Published Tue Aug 23, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063",
+          "publishedOn": "2022-08-23T10:00:00.000Z",
+          "wordCount": 1760,
+          "title": "Broadband Continuous-Variable Entanglement Generation Using a Kerr-Free Josephson Metamaterial",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024063.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064",
+          "author": "Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella",
+          "description": "Author(s): Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella\nNoncollinear antiferromagnets (AFMs) with topological electronic properties attract great interest, as they allow for all-electrical readout and manipulation of AFM order. The mechanisms and timescales to reverse AFM order are not known, though. In this study of current-driven switching of chiral AFM order in the classic Weyl semimetal Mn3Sn, time-resolved measurements show that switching is incoherent and occurs over several nanoseconds, owing to self-heating and then cooling of AFM domains in the presence of a Pt overlayer. These results unravel the spin dynamics of chiral AFMs and highlight the possibility of multilevel switching based on the temporal profile of current pulses.\n\n[Phys. Rev. Applied 18, 024064] Published Tue Aug 23, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064",
+          "publishedOn": "2022-08-23T10:00:00.000Z",
+          "wordCount": 1156,
+          "title": "Time-Dependent Multistate Switching of Topological Antiferromagnetic Order in ${\\mathrm{Mn}}_{3}\\mathrm{Sn}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024064.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.090502",
           "author": "Feng Pan, Keyang Chen, and Pan Zhang",
           "description": "Author(s): Feng Pan, Keyang Chen, and Pan Zhang\nA classical simulation method is used to solve the uncorrelated sampling problem for the Google Sycamore quantum circuits in 15 hours on a computational cluster with 512 GPUs.\n\n[Phys. Rev. Lett. 129, 090502] Published Mon Aug 22, 2022",
@@ -41,7 +71,7 @@
           "description": "Author(s): Wenjun Wen, Zhiyu Chen, Liangliang Lu, Wenhan Yan, Wenyi Xue, Peiyu Zhang, Yanqing Lu, Shining Zhu, and Xiao-song Ma\nFully connected quantum networks have been realized with bulk nonlinear crystals and passive filters, but this traditional optical platform limits a network’s scalability in terms of photon-pair number and brightness, compatibility with quantum memory, and cost effectiveness. The authors address all of those challenges by employing an integrated SiN microring resonator to generate energy-time-entangled quantum frequency microcombs with a wide frequency span and narrow bandwidth modes. Photon pairs are selected and distributed to form a fully and simultaneously connected multiuser quantum network, paving the way to turnkey solutions for large entanglement-based quantum networks.\n\n[Phys. Rev. Applied 18, 024059] Published Mon Aug 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024059",
           "publishedOn": "2022-08-22T10:00:00.000Z",
-          "wordCount": 1509,
+          "wordCount": 1533,
           "title": "Realizing an Entanglement-Based Multiuser Quantum Network with Integrated Photonics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024059.png"
         },
@@ -71,7 +101,7 @@
           "description": "Author(s): Marko Šimić, Doris Auer, Christian Neuper, Nikola Šimić, Gerhard Prossliner, Ruth Prassl, Christian Hill, and Ulrich Hohenester\nA novel method for measuring nanoparticle size could have applications in industry and basic materials science research.\n\n[Phys. Rev. Applied 18, 024056] Published Fri Aug 19, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024056",
           "publishedOn": "2022-08-19T10:00:00.000Z",
-          "wordCount": 1647,
+          "wordCount": 1623,
           "title": "Real-Time Nanoparticle Characterization Through Optofluidic Force Induction",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024056.png"
         },
@@ -251,7 +281,7 @@
           "description": "Author(s): Philippe Bourrianne, Paul R. Kaneelil, Manouk Abkarian, and Howard A. Stone\nIn an unlikely collaboration, physicists and professional musicians studied how to limit COVID-19’s spread during operatic performances. Hint, it involves instruments wearing masks.\n\n[Phys. Rev. Applied 18, 024042] Published Tue Aug 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024042",
           "publishedOn": "2022-08-16T10:00:00.000Z",
-          "wordCount": 1845,
+          "wordCount": 1903,
           "title": "Air Flows in Opera",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024042.png"
         },
@@ -261,7 +291,7 @@
           "description": "Author(s): Bo Peng, Daniel Bennett, Ivona Bravić, and Bartomeu Monserrat\nPhotostriction, the name given to volume changes upon illumination, has recently been observed in halide perovskites. However, the microscopic mechanism remains unclear. In this letter, the authors propose that the orbital character of the electronic bands near the Fermi level determine the photostriction behavior. They find that photoexciting electrons from strong antibonding valence states to weaker antibonding conduction states leads to lattice contraction as a result of weakened antibonding interaction. Interestingly, using higher excitation energies promotes electrons from deeper nonbonding valence states to antibonding conduction states, resulting in giant lattice expansion. These results rationalize the experimentally observed tunable photostriction in halide perovskites.\n\n[Phys. Rev. Materials 6, L082401] Published Mon Aug 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.L082401",
           "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 835,
+          "wordCount": 836,
           "title": "Tunable photostriction of halide perovskites through energy dependent photoexcitation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.L082401.png"
         },
@@ -331,7 +361,7 @@
           "description": "Author(s): Christopher Trainer, Olivia R. Armitage, Harry Lane, Luke C. Rhodes, Edmond Chan, Izidor Benedičič, J. A. Rodriguez-Rivera, O. Fabelo, Chris Stock, and Peter Wahl\nInformation about the magnetic properties of van der Waals ferromagnets comes so far largely from macroscopic techniques, with much less being known about the magnetism at the microscopic level. By comparing atomic-scale imaging of domain walls at the surface of the van der Waals ferromagnet Fe3−xGeTe2 with inelastic neutron scattering measurements of the magnon dispersion in the bulk, the authors elucidate here the interplay between the bulk and surface magnetism and image the low-energy electronic structure.\n\n[Phys. Rev. B 106, L081405] Published Mon Aug 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L081405",
           "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 1888,
+          "wordCount": 1889,
           "title": "Relating spin-polarized STM imaging and inelastic neutron scattering in the van der Waals ferromagnet ${\\mathrm{Fe}}_{3}{\\mathrm{GeTe}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L081405.png"
         },
@@ -471,7 +501,7 @@
           "description": "Author(s): Matthew R. Edwards and Pierre Michel\nA compact, high-power laser could be made using gratings made of plasma.\n\n[Phys. Rev. Applied 18, 024026] Published Tue Aug 09, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024026",
           "publishedOn": "2022-08-09T10:00:00.000Z",
-          "wordCount": 1401,
+          "wordCount": 1425,
           "title": "Plasma Transmission Gratings for Compression of High-Intensity Laser Pulses",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024026.png"
         },
@@ -501,7 +531,7 @@
           "description": "Author(s): Yu Zhao and Haitao Xu\nAn object inserted in a fast-flowing soap film can cause shock-like structures in the film. We show by laser interference that the film thicknesses remain the same across those shocks. The shock fronts are due to the bending of soap films, like pleats in a curtain, rather than increases of film thickness. These shocks are actually caused by antisymmetric waves, rather than elastic symmetric waves.\n\n[Phys. Rev. Fluids 7, L082001] Published Mon Aug 08, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082001",
           "publishedOn": "2022-08-08T10:00:00.000Z",
-          "wordCount": 1117,
+          "wordCount": 1059,
           "title": "Observation of antisymmetric shock waves in soap-film flows",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L082001.png"
         },
@@ -601,7 +631,7 @@
           "description": "Author(s): Pieter Gypens, Naëmi Leo, Matteo Menniti, Paolo Vavassori, and Jonathan Leliaert\nIn advancing beyond the von Neumann architecture, nanomagnetic logic offers an attractive approach to in-memory computation by exploiting the energy hierarchy of coupled nanomagnets. However, low-power operation is largely incompatible with deterministic logic, because the temperature required for fast operation reduces the coupling too much. This study overcomes that problem using local, selective plasmon-assisted photoheating of individual nanomagnets to drive a logic gate deterministically toward the desired low-energy output state, on nanosecond time scales. This approach demonstrates the possibility of computational metamaterials and could have immediate technological relevance.\n\n[Phys. Rev. Applied 18, 024014] Published Thu Aug 04, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024014",
           "publishedOn": "2022-08-04T10:00:00.000Z",
-          "wordCount": 2107,
+          "wordCount": 2083,
           "title": "Thermoplasmonic Nanomagnetic Logic Gates",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024014.png"
         },
@@ -791,7 +821,7 @@
           "description": "Author(s): Sihao Wang, Likai Yang, Rufus L. Cone, Charles W. Thiel, and Hong X. Tang\nIn one branch of quantum information processing, high cooperativity between spins and a resonator is essential. Planar superconducting resonators present an opportunity for miniaturization and fully integrated circuitry, but unfortunately their cooperativity is a fraction of that of their bulk counterparts. This study designs a planar microwave resonator to achieve homogeneous magnetic field, and utilizes the anisotropic g-factor tensor of erbium spins in yttrium orthosilicate for maximum spin-photon coupling. Cooperativity on par with that of a three-dimensional cavity is achieved, marking an exciting step toward integrated circuits for spin quantum information processing.\n\n[Phys. Rev. Applied 18, 014071] Published Thu Jul 28, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.014071",
           "publishedOn": "2022-07-28T10:00:00.000Z",
-          "wordCount": 1245,
+          "wordCount": 1303,
           "title": "High-Cooperativity Coupling of Rare-Earth Spins to a Planar Superconducting Resonator",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.014071.png"
         },
@@ -811,7 +841,7 @@
           "description": "Author(s): Maximilian F. Eggl and Peter J. Schmid\nWe present a numerical study of enhanced stirrer shapes and temporal velocity protocols for mixing an initially unmixed incompressible binary fluid in a two-dimensional circular container in a non-turbulent but inertial flow regime. A gradient-based and PDE-constrained optimization approach is combined with modern mixing metrics. The largest efficiency enhancement, by a factor of more than two, comes from simultaneously optimizing stirrer shapes and velocity trajectories, leading to counter-intuitive and complex stirring protocols that benefit from vortex generation, interaction, and collisions. Many challenges remain, but opportunities arise for extending this approach to more realistic configurations.\n\n[Phys. Rev. Fluids 7, 073904] Published Wed Jul 27, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.073904",
           "publishedOn": "2022-07-27T10:00:00.000Z",
-          "wordCount": 1658,
+          "wordCount": 1600,
           "title": "Mixing by stirring: Optimizing shapes and strategies",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.073904.png"
         },
@@ -894,86 +924,6 @@
           "wordCount": 854,
           "title": "Asymmetry and nonlinearity of current-bias characteristics in superfluid–normal-state junctions of weakly interacting Bose gases",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.L011303.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.030312",
-          "author": "Noa Feldman, Augustine Kshetrimayum, Jens Eisert, and Moshe Goldstein",
-          "description": "Author(s): Noa Feldman, Augustine Kshetrimayum, Jens Eisert, and Moshe Goldstein\nA new method allows for the estimation of entanglement in quantum states represented by high dimensional tensor networks, extending the size of tractable systems beyond exact methods.\n\n[PRX Quantum 3, 030312] Published Mon Jul 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.3.030312",
-          "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 2259,
-          "title": "Entanglement Estimation in Tensor Network States via Sampling",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.3.030312.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.L032012",
-          "author": "Sharon Berkowicz, Sudipta Das, Mario Reiser, Mariia Filianina, Maddalena Bin, Giulio Crevatin, Franz Hennies, Clemens Weninger, Alexander Björling, Paul Bell, and Fivos Perakis",
-          "description": "Author(s): Sharon Berkowicz, Sudipta Das, Mario Reiser, Mariia Filianina, Maddalena Bin, Giulio Crevatin, Franz Hennies, Clemens Weninger, Alexander Björling, Paul Bell, and Fivos Perakis\nThe authors show that nanofocused x-ray photon correlation spectroscopy can enhance sensitivity to nanoscale spatial fluctuations and yields a multi-fold increase in speckle contrast.\n\n[Phys. Rev. Research 4, L032012] Published Mon Jul 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.L032012",
-          "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 1180,
-          "title": "Nanofocused x-ray photon correlation spectroscopy",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.L032012.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.053601",
-          "author": "Lorenzo Magrini, Victor A. Camarena-Chávez, Constanze Bach, Aisling Johnson, and Markus Aspelmeyer",
-          "description": "Author(s): Lorenzo Magrini, Victor A. Camarena-Chávez, Constanze Bach, Aisling Johnson, and Markus Aspelmeyer\nA trapped nanoparticle interacting with a laser provides a simple way to generate squeezed light, which has an unusually low level of fluctuations.\n\n[Phys. Rev. Lett. 129, 053601] Published Mon Jul 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.053601",
-          "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 1240,
-          "title": "Squeezed Light from a Levitated Nanoparticle at Room Temperature",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.053601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.053602",
-          "author": "Andrei Militaru, Massimiliano Rossi, Felix Tebbenjohanns, Oriol Romero-Isart, Martin Frimmer, and Lukas Novotny",
-          "description": "Author(s): Andrei Militaru, Massimiliano Rossi, Felix Tebbenjohanns, Oriol Romero-Isart, Martin Frimmer, and Lukas Novotny\nA trapped nanoparticle interacting with a laser provides a simple way to generate squeezed light, which has an unusually low level of fluctuations.\n\n[Phys. Rev. Lett. 129, 053602] Published Mon Jul 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.053602",
-          "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 1181,
-          "title": "Ponderomotive Squeezing of Light by a Levitated Nanoparticle in Free Space",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.053602.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.058001",
-          "author": "Shuvojit Paul, Ashreya Jayaram, N Narinder, Thomas Speck, and Clemens Bechinger",
-          "description": "Author(s): Shuvojit Paul, Ashreya Jayaram, N Narinder, Thomas Speck, and Clemens Bechinger\nMeasurements of the attractive force experienced by a passive particle in a bath of active ones and of the microstructure of that system, raise the tantalizing possibility of simple and generic quantitative descriptions of the organization of objects within active and living systems.\n\n[Phys. Rev. Lett. 129, 058001] Published Mon Jul 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.058001",
-          "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 1256,
-          "title": "Force Generation in Confined Active Fluids: The Role of Microstructure",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.058001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.035421",
-          "author": "Shubhayu Chatterjee, Matteo Ippoliti, and Michael P. Zaletel",
-          "description": "Author(s): Shubhayu Chatterjee, Matteo Ippoliti, and Michael P. Zaletel\nSuperconductivity is caused by the binding of electrons into Cooper pairs, which requires an attractive “pairing glue” to overcome Coulomb repulsion. Usually this attraction is mediated by bosonic fluctuations such as phonons or spin waves. Here, the authors numerically demonstrate the viability of another possibility: band topology can force electrons to bind into charge-2e topological textures, skyrmions. Using density matrix renormalization group calculations to solve for the ground state of the Coulomb interaction projected into topological bands, the authors show that the lowest-energy charged excitations are skyrmions that superconduct at finite density, thereby illustrating a distinct all-electronic mechanism for superconductivity.\n\n[Phys. Rev. B 106, 035421] Published Mon Jul 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.035421",
-          "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 2068,
-          "title": "Skyrmion superconductivity: DMRG evidence for a topological route to superconductivity",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.035421.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.014059",
-          "author": "Hermann A.G. Schenk, Anton Melnikov, Franziska Wall, Matthieu Gaudet, Michael Stolz, David Schuffenhauer, and Bert Kaiser",
-          "description": "Author(s): Hermann A.G. Schenk, Anton Melnikov, Franziska Wall, Matthieu Gaudet, Michael Stolz, David Schuffenhauer, and Bert Kaiser\nThe analytical modeling of electrically driven microbeams is essential to designing the silicon sensors and actuators behind much of the functionality in smartphones, for example. Such modeling is a challenge, because Coulomb forces acting on elastic structures typically yield complex dynamical behavior. This study applies ideas regarding the Central Limit Theorem of analytical probability theory to evaluate relevant Coulomb integrals, leading to a surprisingly accurate model with a single degree of freedom. The approach can presumably be generalized beyond the context of micromachines, to the calculation of a broad class of integrals with kernels close to a singularity.\n\n[Phys. Rev. Applied 18, 014059] Published Mon Jul 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.014059",
-          "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 1635,
-          "title": "Electrically Actuated Microbeams: An Explicit Calculation of the Coulomb Integral in the Entire Stable and Unstable Regimes Using a Chebyshev-Edgeworth Approach",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.014059.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.L010203",
-          "author": "Valeri Frumkin, David Darrow, John W. M. Bush, and Ward Struyve",
-          "description": "Author(s): Valeri Frumkin, David Darrow, John W. M. Bush, and Ward Struyve\nIn certain instances, the particle paths predicted by Bohmian mechanics are considered to be at odds with classical intuition, and so deemed to be “surreal.” Through a combined experimental and numerical study, the authors demonstrate that individual trajectories in the hydrodynamic pilot-wave system exhibit the key features of their surreal Bohmian counterparts.\n\n[Phys. Rev. A 106, L010203] Published Mon Jul 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.L010203",
-          "publishedOn": "2022-07-25T10:00:00.000Z",
-          "wordCount": 1231,
-          "title": "Real surreal trajectories in pilot-wave hydrodynamics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.L010203.png"
         }
       ]
     }
