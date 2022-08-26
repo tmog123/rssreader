@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.090601",
+          "author": "Erik Kalz, Hidde Derk Vuijk, Iman Abdoli, Jens-Uwe Sommer, Hartmut Löwen, and Abhinav Sharma",
+          "description": "Author(s): Erik Kalz, Hidde Derk Vuijk, Iman Abdoli, Jens-Uwe Sommer, Hartmut Löwen, and Abhinav Sharma\nDue to an inherent curving effect in systems with odd diffusivity, the motion of particles is facilitated instead of hindered by collisions, leading to a mutual rolling effect.\n\n[Phys. Rev. Lett. 129, 090601] Published Thu Aug 25, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.090601",
+          "publishedOn": "2022-08-25T10:00:00.000Z",
+          "wordCount": 1227,
+          "title": "Collisions Enhance Self-Diffusion in Odd-Diffusive Systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.090601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.054431",
+          "author": "H. Lane, M. Songvilay, R. A. Ewings, and C. Stock",
+          "description": "Author(s): H. Lane, M. Songvilay, R. A. Ewings, and C. Stock\nConventional spin-wave theory of magnetic insulators deals with the investigation of transverse excitations of magnetic moments of fixed length. However, when single-ion energetics such as spin-orbit coupling are relevant, such symmetries are not necessarily present, allowing fluctuations of the magnitude of the magnetic moment. These excitations are termed amplitude modes. Here, the authors develop and investigate a theory for such excitations applied to neutron spectroscopy. They focus their attention on magnetic excitations in the low-temperature phase of RbFe2+Fe3+F6 which is based on a noncollinear arrangement of Fe3+ (S=5/2, l≈0) and orbitally active Fe2+(S = 2, l =1) magnetic moments. Conditions for the existence and the observation of amplitude modes are discussed, establishing a convention for predicting and analyzing neutron spectra when spin-orbit coupling is a pertinent energy scale.\n\n[Phys. Rev. B 106, 054431] Published Thu Aug 25, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.054431",
+          "publishedOn": "2022-08-25T10:00:00.000Z",
+          "wordCount": 1560,
+          "title": "Excitonic transverse and amplitude fluctuations in noncollinear and charge-ordered ${\\mathrm{RbFe}}^{2+}{\\mathrm{Fe}}^{3+}{\\mathrm{F}}_{6}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.054431.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024067",
+          "author": "Gwenaelle Vest, Peter Freiwang, Jannik Luhn, Tobias Vogl, Markus Rau, Lukas Knips, Wenjamin Rosenfeld, and Harald Weinfurter",
+          "description": "Author(s): Gwenaelle Vest, Peter Freiwang, Jannik Luhn, Tobias Vogl, Markus Rau, Lukas Knips, Wenjamin Rosenfeld, and Harald Weinfurter\nLiving the revolution: Quantum key distribution over free-space channels offers a multitude of different application scenarios—provided it can be combined with conventional communication systems. This study presents a miniaturized sender module with all necessary optics fitting in the palm of a hand, and enabling quantum key exchange with a tracking receiver. Such rugged sender optics can facilitate many other use cases, e.g. by combining it with a free-space optical system in an urban area, or by using it aboard a microsatellite for global key exchange.\n\n[Phys. Rev. Applied 18, 024067] Published Thu Aug 25, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024067",
+          "publishedOn": "2022-08-25T10:00:00.000Z",
+          "wordCount": 1542,
+          "title": "Quantum key Distribution with a Hand-Held Sender Unit",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024067.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024068",
+          "author": "Vinay Tripathi, Huo Chen, Mostafa Khezri, Ka-Wa Yip, E.M. Levenson-Falk, and Daniel A. Lidar",
+          "description": "Author(s): Vinay Tripathi, Huo Chen, Mostafa Khezri, Ka-Wa Yip, E.M. Levenson-Falk, and Daniel A. Lidar\nCrosstalk suppression is a key requirement for scalable implementations of fault-tolerant quantum computing, in particular using superconducting devices. This study demonstrates a simple, effective, and easily scalable scheme for dynamical decoupling to slash crosstalk. The scheme uses existing logic gates and does not require any additional calibrations or complexity. Apart from showing significant improvements in quantum memory experiments with multiqubit commercial processors, this approach also boosts the performance of single- and two-qubit gates. This method is suitable for immediate incorporation into both near-term NISQ and longer-term fault-tolerant systems.\n\n[Phys. Rev. Applied 18, 024068] Published Thu Aug 25, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024068",
+          "publishedOn": "2022-08-25T10:00:00.000Z",
+          "wordCount": 2285,
+          "title": "Suppression of Crosstalk in Superconducting Qubits Using Dynamical Decoupling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024068.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024069",
+          "author": "Davide Giambastiani, Cosimo Tommasi, Federica Bianco, Filippo Fabbri, Camilla Coletti, Alessandro Tredicucci, Alessandro Pitanti, and Stefano Roddaro",
+          "description": "Author(s): Davide Giambastiani, Cosimo Tommasi, Federica Bianco, Filippo Fabbri, Camilla Coletti, Alessandro Tredicucci, Alessandro Pitanti, and Stefano Roddaro\nCorrugations strongly affect the electronic and optical properties of two-dimensional materials, and could be used to develop e.g. ultrathin pressure sensors, electronic waveguides, or hydrogen-storage devices. That requires fine control of the structure and geometry of the wrinkles, and thus a reliable and flexible method to generate them. This work shows how polymeric microactuators can be used to induce ordered arrays of wrinkles on graphene. Moreover, its proof-of-concept experiment demonstrates the potential of mechanical actuators to tune the corrugation of other two-dimensional materials as well.\n\n[Phys. Rev. Applied 18, 024069] Published Thu Aug 25, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024069",
+          "publishedOn": "2022-08-25T10:00:00.000Z",
+          "wordCount": 1538,
+          "title": "Strain-Engineered Wrinkles on Graphene Using Polymeric Actuators",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024069.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.083803",
           "author": "Aaron D. Kaplan and John P. Perdew",
           "description": "Author(s): Aaron D. Kaplan and John P. Perdew\nModern meta-GGAs based on the local kinetic energy density can predict properties of diverse systems with near experimental accuracy, but unexpectedly describe properties of metallic solids poorly due to their underestimation of screening in metals. In this work, the authors replace the kinetic energy dependence of a sophisticated meta-GGA with an approximation based on the electronic density gradient and Laplacian. This Laplacian-level meta-GGA is tested on a diverse set of solid-state properties: geometries, cohesive energies, bulk moduli, ferromagnetic moments, monovacancy formation energies, and formation enthalpies. Most deficiencies of the parent meta-GGA in describing metals are remedied with its Laplacian-level variant.\n\n[Phys. Rev. Materials 6, 083803] Published Wed Aug 24, 2022",
@@ -151,7 +201,7 @@
           "description": "Author(s): M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen\nGeneration of quantum resources like entanglement is pivotal for quantum technology. This work uses superconducting Josephson metamaterials to generate color-entangled photons from vacuum fluctuations at a high rate, showing the presented system to be a superb microwave entanglement generator with remarkable bandwidth. Successful squeezing of the light is also demonstrated. These results are quite promising for quantum computing, sensing, and communication with superconducting devices.\n\n[Phys. Rev. Applied 18, 024063] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1726,
+          "wordCount": 1702,
           "title": "Broadband Continuous-Variable Entanglement Generation Using a Kerr-Free Josephson Metamaterial",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024063.png"
         },
@@ -161,7 +211,7 @@
           "description": "Author(s): Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella\nNoncollinear antiferromagnets (AFMs) with topological electronic properties attract great interest, as they allow for all-electrical readout and manipulation of AFM order. The mechanisms and timescales to reverse AFM order are not known, though. In this study of current-driven switching of chiral AFM order in the classic Weyl semimetal Mn3Sn, time-resolved measurements show that switching is incoherent and occurs over several nanoseconds, owing to self-heating and then cooling of AFM domains in the presence of a Pt overlayer. These results unravel the spin dynamics of chiral AFMs and highlight the possibility of multilevel switching based on the temporal profile of current pulses.\n\n[Phys. Rev. Applied 18, 024064] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1190,
+          "wordCount": 1132,
           "title": "Time-Dependent Multistate Switching of Topological Antiferromagnetic Order in ${\\mathrm{Mn}}_{3}\\mathrm{Sn}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024064.png"
         },
@@ -201,7 +251,7 @@
           "description": "Author(s): Wenjun Wen, Zhiyu Chen, Liangliang Lu, Wenhan Yan, Wenyi Xue, Peiyu Zhang, Yanqing Lu, Shining Zhu, and Xiao-song Ma\nFully connected quantum networks have been realized with bulk nonlinear crystals and passive filters, but this traditional optical platform limits a network’s scalability in terms of photon-pair number and brightness, compatibility with quantum memory, and cost effectiveness. The authors address all of those challenges by employing an integrated SiN microring resonator to generate energy-time-entangled quantum frequency microcombs with a wide frequency span and narrow bandwidth modes. Photon pairs are selected and distributed to form a fully and simultaneously connected multiuser quantum network, paving the way to turnkey solutions for large entanglement-based quantum networks.\n\n[Phys. Rev. Applied 18, 024059] Published Mon Aug 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024059",
           "publishedOn": "2022-08-22T10:00:00.000Z",
-          "wordCount": 1533,
+          "wordCount": 1567,
           "title": "Realizing an Entanglement-Based Multiuser Quantum Network with Integrated Photonics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024059.png"
         },
@@ -411,7 +461,7 @@
           "description": "Author(s): Philippe Bourrianne, Paul R. Kaneelil, Manouk Abkarian, and Howard A. Stone\nIn an unlikely collaboration, physicists and professional musicians studied how to limit COVID-19’s spread during operatic performances. Hint, it involves instruments wearing masks.\n\n[Phys. Rev. Applied 18, 024042] Published Tue Aug 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024042",
           "publishedOn": "2022-08-16T10:00:00.000Z",
-          "wordCount": 1869,
+          "wordCount": 1845,
           "title": "Air Flows in Opera",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024042.png"
         },
@@ -511,7 +561,7 @@
           "description": "Author(s): Young R. Yi and Jeffrey R. Koseff\nGlobal and regional ocean simulations rely on eddy viscosities and diffusivities to account for irreversible mixing of momentum and scalars due to unresolved scales of motion. These closures are often sensitive to the values of the mixing coefficient, whose shape has been well characterized in terms of turbulence parameters. In this paper, we connect this well-established shape of the mixing coefficient curve to the underlying physics of stably stratified turbulence as a function of the turbulent Froude number.\n\n[Phys. Rev. Fluids 7, 084801] Published Fri Aug 12, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.084801",
           "publishedOn": "2022-08-12T10:00:00.000Z",
-          "wordCount": 1357,
+          "wordCount": 1299,
           "title": "Dynamics and energetics underlying mixing efficiency in homogeneous stably stratified turbulence",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.084801.png"
         },
@@ -631,7 +681,7 @@
           "description": "Author(s): Matthew R. Edwards and Pierre Michel\nA compact, high-power laser could be made using gratings made of plasma.\n\n[Phys. Rev. Applied 18, 024026] Published Tue Aug 09, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024026",
           "publishedOn": "2022-08-09T10:00:00.000Z",
-          "wordCount": 1401,
+          "wordCount": 1425,
           "title": "Plasma Transmission Gratings for Compression of High-Intensity Laser Pulses",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024026.png"
         },
@@ -661,7 +711,7 @@
           "description": "Author(s): Yu Zhao and Haitao Xu\nAn object inserted in a fast-flowing soap film can cause shock-like structures in the film. We show by laser interference that the film thicknesses remain the same across those shocks. The shock fronts are due to the bending of soap films, like pleats in a curtain, rather than increases of film thickness. These shocks are actually caused by antisymmetric waves, rather than elastic symmetric waves.\n\n[Phys. Rev. Fluids 7, L082001] Published Mon Aug 08, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082001",
           "publishedOn": "2022-08-08T10:00:00.000Z",
-          "wordCount": 1117,
+          "wordCount": 1059,
           "title": "Observation of antisymmetric shock waves in soap-film flows",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L082001.png"
         },
@@ -751,7 +801,7 @@
           "description": "Author(s): Jeffrey R. Carpenter, Yu Liang, Mary-Louise Timmermans, and Eyal Heifetz\nIn many convective flows of geophysical relevance the Earth’s rotation is able to provide a control on the rate of heat transfer. The physical mechanisms of this process are the subject of this paper, where a linear model is used to break down the onset of convection into understandable elements that can be quantified and compared. The physical processes acting to control the onset of convection in rotating flows are found to differ depending on the parameters of the problem. Thus no simple universal mechanism can be identified.\n\n[Phys. Rev. Fluids 7, 083501] Published Thu Aug 04, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.083501",
           "publishedOn": "2022-08-04T10:00:00.000Z",
-          "wordCount": 1235,
+          "wordCount": 1293,
           "title": "Physical mechanisms of the linear stabilization of convection by rotation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.083501.png"
         },
@@ -761,7 +811,7 @@
           "description": "Author(s): Pieter Gypens, Naëmi Leo, Matteo Menniti, Paolo Vavassori, and Jonathan Leliaert\nIn advancing beyond the von Neumann architecture, nanomagnetic logic offers an attractive approach to in-memory computation by exploiting the energy hierarchy of coupled nanomagnets. However, low-power operation is largely incompatible with deterministic logic, because the temperature required for fast operation reduces the coupling too much. This study overcomes that problem using local, selective plasmon-assisted photoheating of individual nanomagnets to drive a logic gate deterministically toward the desired low-energy output state, on nanosecond time scales. This approach demonstrates the possibility of computational metamaterials and could have immediate technological relevance.\n\n[Phys. Rev. Applied 18, 024014] Published Thu Aug 04, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024014",
           "publishedOn": "2022-08-04T10:00:00.000Z",
-          "wordCount": 2083,
+          "wordCount": 2107,
           "title": "Thermoplasmonic Nanomagnetic Logic Gates",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024014.png"
         },
@@ -911,7 +961,7 @@
           "description": "Author(s): Mu-Kun Lee and Masahito Mochizuki\nThe application of spintronics to physical reservoir computing has great potential, but development still suffers from inevitable technical complications in nanofabrication. This numerical study considers spin waves excited in a self-organized skyrmion lattice under a magnetic field in a chiral magnet—which would not require advanced manufacturing in practice—to make progress on the problem. Such a skyrmion lattice offers great levels of generalizability, memory capacity, and nonlinearity, fulfilling the fundamental requirements of reservoir computing. The results will promote engineering solutions to pave the way toward reliable, energy-conserving reservoir computing.\n\n[Phys. Rev. Applied 18, 014074] Published Fri Jul 29, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.014074",
           "publishedOn": "2022-07-29T10:00:00.000Z",
-          "wordCount": 2188,
+          "wordCount": 2164,
           "title": "Reservoir Computing with Spin Waves in a Skyrmion Crystal",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.014074.png"
         },
@@ -951,59 +1001,9 @@
           "description": "Author(s): Sihao Wang, Likai Yang, Rufus L. Cone, Charles W. Thiel, and Hong X. Tang\nIn one branch of quantum information processing, high cooperativity between spins and a resonator is essential. Planar superconducting resonators present an opportunity for miniaturization and fully integrated circuitry, but unfortunately their cooperativity is a fraction of that of their bulk counterparts. This study designs a planar microwave resonator to achieve homogeneous magnetic field, and utilizes the anisotropic g-factor tensor of erbium spins in yttrium orthosilicate for maximum spin-photon coupling. Cooperativity on par with that of a three-dimensional cavity is achieved, marking an exciting step toward integrated circuits for spin quantum information processing.\n\n[Phys. Rev. Applied 18, 014071] Published Thu Jul 28, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.014071",
           "publishedOn": "2022-07-28T10:00:00.000Z",
-          "wordCount": 1245,
+          "wordCount": 1269,
           "title": "High-Cooperativity Coupling of Rare-Earth Spins to a Planar Superconducting Resonator",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.014071.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.050502",
-          "author": "Wen-Zhao Liu, Yu-Zhe Zhang, Yi-Zheng Zhen, Ming-Han Li, Yang Liu, Jingyun Fan, Feihu Xu, Qiang Zhang, and Jian-Wei Pan",
-          "description": "Author(s): Wen-Zhao Liu, Yu-Zhe Zhang, Yi-Zheng Zhen, Ming-Han Li, Yang Liu, Jingyun Fan, Feihu Xu, Qiang Zhang, and Jian-Wei Pan\nA proof-of-concept demonstration of device-independent quantum key distribution is achieved in a photonic setup in the asymptotic limit.\n\n[Phys. Rev. Lett. 129, 050502] Published Wed Jul 27, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.050502",
-          "publishedOn": "2022-07-27T10:00:00.000Z",
-          "wordCount": 1381,
-          "title": "Toward a Photonic Demonstration of Device-Independent Quantum Key Distribution",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.050502.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.073904",
-          "author": "Maximilian F. Eggl and Peter J. Schmid",
-          "description": "Author(s): Maximilian F. Eggl and Peter J. Schmid\nWe present a numerical study of enhanced stirrer shapes and temporal velocity protocols for mixing an initially unmixed incompressible binary fluid in a two-dimensional circular container in a non-turbulent but inertial flow regime. A gradient-based and PDE-constrained optimization approach is combined with modern mixing metrics. The largest efficiency enhancement, by a factor of more than two, comes from simultaneously optimizing stirrer shapes and velocity trajectories, leading to counter-intuitive and complex stirring protocols that benefit from vortex generation, interaction, and collisions. Many challenges remain, but opportunities arise for extending this approach to more realistic configurations.\n\n[Phys. Rev. Fluids 7, 073904] Published Wed Jul 27, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.073904",
-          "publishedOn": "2022-07-27T10:00:00.000Z",
-          "wordCount": 1658,
-          "title": "Mixing by stirring: Optimizing shapes and strategies",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.073904.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.014212",
-          "author": "P. Subramanian, E. Knobloch, and P. G. Kevrekidis",
-          "description": "Author(s): P. Subramanian, E. Knobloch, and P. G. Kevrekidis\nA ring of coupled oscillators can form rogue waves, large-amplitude bursts that are localized in space and time. This paper provides an alternative mechanism for the formation of rogue waves in a dissipative nonlinear lattice system, and describes the effect of varying the coupling strength.\n\n[Phys. Rev. E 106, 014212] Published Wed Jul 27, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.014212",
-          "publishedOn": "2022-07-27T10:00:00.000Z",
-          "wordCount": 1675,
-          "title": "Forced symmetry breaking as a mechanism for rogue bursts in a dissipative nonlinear dynamical lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.014212.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.014406",
-          "author": "Kevin Ng Chau, Jason T. George, José N. Onuchic, Xingcheng Lin, and Herbert Levine",
-          "description": "Author(s): Kevin Ng Chau, Jason T. George, José N. Onuchic, Xingcheng Lin, and Herbert Levine\nThis paper introduces a contact map to take into account three-dimensional aspects of the interaction between T-cell receptors and peptide histocompatibility complexes. Interactions of these proteins, which are critical to the immune response, had been modeled in previous studies as interactions of linear chains of amino acids. This work demonstrates how incorporating crystal-structure-informed contact maps may affect probabilities for distinguishing foreign from self antigens.\n\n[Phys. Rev. E 106, 014406] Published Wed Jul 27, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.014406",
-          "publishedOn": "2022-07-27T10:00:00.000Z",
-          "wordCount": 1466,
-          "title": "Contact map dependence of a T-cell receptor binding repertoire",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.014406.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L041116",
-          "author": "Ajesh Kumar, Nai Chao Hu, Allan H. MacDonald, and Andrew C. Potter",
-          "description": "Author(s): Ajesh Kumar, Nai Chao Hu, Allan H. MacDonald, and Andrew C. Potter\nThe authors propose a transition metal dichalcogenide moiré heterostructure that realizes a Kondo lattice and is capable of tuning across a quantum phase transition corresponding to the breakdown of Kondo screening. For a dual-gated setup, they theoretically identify the requisite gating conditions and find a quantum critical scenario where the local moments in a chiral spin-liquid state dissolve in the conduction electron Fermi sea to form an anomalous Hall heavy-fermion liquid. They discuss how the proposed gate-tunable Kondo lattice simulator can experimentally distinguish between various competing scenarios for the quantum phase transition, and thereby enable progress in the understanding of heavy-fermion quantum criticality.\n\n[Phys. Rev. B 106, L041116] Published Wed Jul 27, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L041116",
-          "publishedOn": "2022-07-27T10:00:00.000Z",
-          "wordCount": 1276,
-          "title": "Gate-tunable heavy fermion quantum criticality in a moiré Kondo lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L041116.png"
         }
       ]
     }
