@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.104501",
+          "author": "Bin Zhang, Vatsal Sanjay, Songlin Shi, Yinggang Zhao, Cunjing Lv, Xi-Qiao Feng, and Detlef Lohse",
+          "description": "Author(s): Bin Zhang, Vatsal Sanjay, Songlin Shi, Yinggang Zhao, Cunjing Lv, Xi-Qiao Feng, and Detlef Lohse\nHigh-speed imaging captures the impact of a water droplet on a superhydrophobic surface and uncovers the effects of a time-delayed secondary force that lifts the droplet off the surface.\n\n[Phys. Rev. Lett. 129, 104501] Published Mon Aug 29, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.104501",
+          "publishedOn": "2022-08-29T10:00:00.000Z",
+          "wordCount": 1368,
+          "title": "Impact Forces of Water Drops Falling on Superhydrophobic Surfaces",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.104501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.106801",
+          "author": "Alexander J. Fairchild, Varghese A. Chirayath, Randall W. Gladen, Ali R. Koymen, Alex H. Weiss, and Bernardo Barbiellini",
+          "description": "Author(s): Alexander J. Fairchild, Varghese A. Chirayath, Randall W. Gladen, Ali R. Koymen, Alex H. Weiss, and Bernardo Barbiellini\nResearchers have demonstrated a way of measuring the electronic states of a material’s surface while avoiding signal contaminations from deeper layers.\n\n[Phys. Rev. Lett. 129, 106801] Published Mon Aug 29, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.106801",
+          "publishedOn": "2022-08-29T10:00:00.000Z",
+          "wordCount": 1207,
+          "title": "Photoemission Spectroscopy Using Virtual Photons Emitted by Positron Sticking: A Complementary Probe for Top-Layer Surface Electronic Structures",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.106801.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L081410",
+          "author": "Chang-An Li, Song-Bo Zhang, Jan Carl Budich, and Björn Trauzettel",
+          "description": "Author(s): Chang-An Li, Song-Bo Zhang, Jan Carl Budich, and Björn Trauzettel\nRandom flux can drive a phase transition from a metal to a higher-order topological insulator in the two-dimensional Su-Schrieffer-Heeger model. This transition happens in the vicinity of zero energy which is surprising when compared to the influence of random flux on a simple square-lattice model. The authors analytically discover the importance of sublattice degrees of freedom for the transition to happen.\n\n[Phys. Rev. B 106, L081410] Published Mon Aug 29, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L081410",
+          "publishedOn": "2022-08-29T10:00:00.000Z",
+          "wordCount": 1122,
+          "title": "Transition from metal to higher-order topological insulator driven by random flux",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L081410.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.097205",
           "author": "Pietro Bonfà, Jonathan Frassineti, John M. Wilkinson, Giacomo Prando, Muhammad Maikudi Isah, Chennan Wang, Tiziana Spina, Boby Joseph, Vesna F. Mitrović, Roberto De Renzi, Stephen J. Blundell, and Samuele Sanna",
           "description": "Author(s): Pietro Bonfà, Jonathan Frassineti, John M. Wilkinson, Giacomo Prando, Muhammad Maikudi Isah, Chennan Wang, Tiziana Spina, Boby Joseph, Vesna F. Mitrović, Roberto De Renzi, Stephen J. Blundell, and Samuele Sanna\nThe observed quantum coherence between the spins of muons and quadrupolar nuclei is highly sensitive to a local charge environment, and can thus be used as an environmental sensor.\n\n[Phys. Rev. Lett. 129, 097205] Published Fri Aug 26, 2022",
@@ -81,7 +111,7 @@
           "description": "Author(s): Gwenaelle Vest, Peter Freiwang, Jannik Luhn, Tobias Vogl, Markus Rau, Lukas Knips, Wenjamin Rosenfeld, and Harald Weinfurter\nLiving the revolution: Quantum key distribution over free-space channels offers a multitude of different application scenarios—provided it can be combined with conventional communication systems. This study presents a miniaturized sender module with all necessary optics fitting in the palm of a hand, and enabling quantum key exchange with a tracking receiver. Such rugged sender optics can facilitate many other use cases, e.g. by combining it with a free-space optical system in an urban area, or by using it aboard a microsatellite for global key exchange.\n\n[Phys. Rev. Applied 18, 024067] Published Thu Aug 25, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024067",
           "publishedOn": "2022-08-25T10:00:00.000Z",
-          "wordCount": 1576,
+          "wordCount": 1518,
           "title": "Quantum key Distribution with a Hand-Held Sender Unit",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024067.png"
         },
@@ -141,7 +171,7 @@
           "description": "Author(s): Sebastian Dehe, Maximilian Hartmann, Aditya Bandopadhyay, and Steffen Hardt\nWe present an experimental study of the electrostatic Faraday instability at the interface between a dielectric and a conducting liquid. We study the response of the interface to an ac electric field, which is superposed by either a second ac field of different frequency, or by a dc field. An important control parameter is the mixing ratio, which denotes the relative amplitudes of the different components of the driving signal. For ac/ac driving, gradual variations of the mixing ratio can induce a jump of the pattern wavelength, and for ac/dc driving, the response wavelength can be tuned continuously by adjusting the mixing ratio.\n\n[Phys. Rev. Fluids 7, L082002] Published Wed Aug 24, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082002",
           "publishedOn": "2022-08-24T10:00:00.000Z",
-          "wordCount": 1204,
+          "wordCount": 1146,
           "title": "Controlling the electrostatic Faraday instability using superposed electric fields",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L082002.png"
         },
@@ -251,7 +281,7 @@
           "description": "Author(s): M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen\nGeneration of quantum resources like entanglement is pivotal for quantum technology. This work uses superconducting Josephson metamaterials to generate color-entangled photons from vacuum fluctuations at a high rate, showing the presented system to be a superb microwave entanglement generator with remarkable bandwidth. Successful squeezing of the light is also demonstrated. These results are quite promising for quantum computing, sensing, and communication with superconducting devices.\n\n[Phys. Rev. Applied 18, 024063] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1702,
+          "wordCount": 1760,
           "title": "Broadband Continuous-Variable Entanglement Generation Using a Kerr-Free Josephson Metamaterial",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024063.png"
         },
@@ -261,7 +291,7 @@
           "description": "Author(s): Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella\nNoncollinear antiferromagnets (AFMs) with topological electronic properties attract great interest, as they allow for all-electrical readout and manipulation of AFM order. The mechanisms and timescales to reverse AFM order are not known, though. In this study of current-driven switching of chiral AFM order in the classic Weyl semimetal Mn3Sn, time-resolved measurements show that switching is incoherent and occurs over several nanoseconds, owing to self-heating and then cooling of AFM domains in the presence of a Pt overlayer. These results unravel the spin dynamics of chiral AFMs and highlight the possibility of multilevel switching based on the temporal profile of current pulses.\n\n[Phys. Rev. Applied 18, 024064] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1156,
+          "wordCount": 1190,
           "title": "Time-Dependent Multistate Switching of Topological Antiferromagnetic Order in ${\\mathrm{Mn}}_{3}\\mathrm{Sn}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024064.png"
         },
@@ -301,7 +331,7 @@
           "description": "Author(s): Wenjun Wen, Zhiyu Chen, Liangliang Lu, Wenhan Yan, Wenyi Xue, Peiyu Zhang, Yanqing Lu, Shining Zhu, and Xiao-song Ma\nFully connected quantum networks have been realized with bulk nonlinear crystals and passive filters, but this traditional optical platform limits a network’s scalability in terms of photon-pair number and brightness, compatibility with quantum memory, and cost effectiveness. The authors address all of those challenges by employing an integrated SiN microring resonator to generate energy-time-entangled quantum frequency microcombs with a wide frequency span and narrow bandwidth modes. Photon pairs are selected and distributed to form a fully and simultaneously connected multiuser quantum network, paving the way to turnkey solutions for large entanglement-based quantum networks.\n\n[Phys. Rev. Applied 18, 024059] Published Mon Aug 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024059",
           "publishedOn": "2022-08-22T10:00:00.000Z",
-          "wordCount": 1533,
+          "wordCount": 1509,
           "title": "Realizing an Entanglement-Based Multiuser Quantum Network with Integrated Photonics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024059.png"
         },
@@ -511,7 +541,7 @@
           "description": "Author(s): Philippe Bourrianne, Paul R. Kaneelil, Manouk Abkarian, and Howard A. Stone\nIn an unlikely collaboration, physicists and professional musicians studied how to limit COVID-19’s spread during operatic performances. Hint, it involves instruments wearing masks.\n\n[Phys. Rev. Applied 18, 024042] Published Tue Aug 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024042",
           "publishedOn": "2022-08-16T10:00:00.000Z",
-          "wordCount": 1845,
+          "wordCount": 1903,
           "title": "Air Flows in Opera",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024042.png"
         },
@@ -731,7 +761,7 @@
           "description": "Author(s): Matthew R. Edwards and Pierre Michel\nA compact, high-power laser could be made using gratings made of plasma.\n\n[Phys. Rev. Applied 18, 024026] Published Tue Aug 09, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024026",
           "publishedOn": "2022-08-09T10:00:00.000Z",
-          "wordCount": 1459,
+          "wordCount": 1401,
           "title": "Plasma Transmission Gratings for Compression of High-Intensity Laser Pulses",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024026.png"
         },
@@ -761,7 +791,7 @@
           "description": "Author(s): Yu Zhao and Haitao Xu\nAn object inserted in a fast-flowing soap film can cause shock-like structures in the film. We show by laser interference that the film thicknesses remain the same across those shocks. The shock fronts are due to the bending of soap films, like pleats in a curtain, rather than increases of film thickness. These shocks are actually caused by antisymmetric waves, rather than elastic symmetric waves.\n\n[Phys. Rev. Fluids 7, L082001] Published Mon Aug 08, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082001",
           "publishedOn": "2022-08-08T10:00:00.000Z",
-          "wordCount": 1117,
+          "wordCount": 1059,
           "title": "Observation of antisymmetric shock waves in soap-film flows",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L082001.png"
         },
@@ -851,7 +881,7 @@
           "description": "Author(s): Jeffrey R. Carpenter, Yu Liang, Mary-Louise Timmermans, and Eyal Heifetz\nIn many convective flows of geophysical relevance the Earth’s rotation is able to provide a control on the rate of heat transfer. The physical mechanisms of this process are the subject of this paper, where a linear model is used to break down the onset of convection into understandable elements that can be quantified and compared. The physical processes acting to control the onset of convection in rotating flows are found to differ depending on the parameters of the problem. Thus no simple universal mechanism can be identified.\n\n[Phys. Rev. Fluids 7, 083501] Published Thu Aug 04, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.083501",
           "publishedOn": "2022-08-04T10:00:00.000Z",
-          "wordCount": 1293,
+          "wordCount": 1235,
           "title": "Physical mechanisms of the linear stabilization of convection by rotation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.083501.png"
         },
@@ -974,16 +1004,6 @@
           "wordCount": 976,
           "title": "Quantum scattering theory of spin transfer torque, spin pumping, and fluctuations",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.064402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.023501",
-          "author": "Vincent Michaud-Belleau, Eric R. Numkam Fokoua, Peter Horak, Natalie V. Wheeler, Shuichiro Rikimi, Thomas D. Bradley, David J. Richardson, Francesco Poletti, Jérôme Genest, and Radan Slavík",
-          "description": "Author(s): Vincent Michaud-Belleau, Eric R. Numkam Fokoua, Peter Horak, Natalie V. Wheeler, Shuichiro Rikimi, Thomas D. Bradley, David J. Richardson, Francesco Poletti, Jérôme Genest, and Radan Slavík\nTo understand the effect of fundamental thermal noise in hollow-core optical fibers, the authors propose an adapted noise model and compare it to careful measurements. They find that the use of evacuated hollow cores could allow for an order-of-magnitude improvement in phase sensitivity with respect to standard fiber, enabling better precision in interferometric applications such as fiber gyroscopes and laser frequency stabilization.\n\n[Phys. Rev. A 106, 023501] Published Mon Aug 01, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.023501",
-          "publishedOn": "2022-08-01T10:00:00.000Z",
-          "wordCount": 2216,
-          "title": "Fundamental thermal noise in antiresonant hollow-core fibers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.023501.png"
         }
       ]
     }

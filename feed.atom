@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T01:17:55.106Z</id>
+    <id>urn:2022-08-30T01:18:44.600Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T01:17:55.106Z</updated>
+    <updated>2022-08-30T01:18:44.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Impact Forces of Water Drops Falling on Superhydrophobic Surfaces]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.104501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.104501"/>
+        <updated>2022-08-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bin Zhang, Vatsal Sanjay, Songlin Shi, Yinggang Zhao, Cunjing Lv, Xi-Qiao Feng, and Detlef Lohse
+High-speed imaging captures the impact of a water droplet on a superhydrophobic surface and uncovers the effects of a time-delayed secondary force that lifts the droplet off the surface.
+
+[Phys. Rev. Lett. 129, 104501] Published Mon Aug 29, 2022]]></summary>
+        <author>
+            <name>Bin Zhang, Vatsal Sanjay, Songlin Shi, Yinggang Zhao, Cunjing Lv, Xi-Qiao Feng, and Detlef Lohse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoemission Spectroscopy Using Virtual Photons Emitted by Positron Sticking: A Complementary Probe for Top-Layer Surface Electronic Structures]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.106801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.106801"/>
+        <updated>2022-08-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander J. Fairchild, Varghese A. Chirayath, Randall W. Gladen, Ali R. Koymen, Alex H. Weiss, and Bernardo Barbiellini
+Researchers have demonstrated a way of measuring the electronic states of a material’s surface while avoiding signal contaminations from deeper layers.
+
+[Phys. Rev. Lett. 129, 106801] Published Mon Aug 29, 2022]]></summary>
+        <author>
+            <name>Alexander J. Fairchild, Varghese A. Chirayath, Randall W. Gladen, Ali R. Koymen, Alex H. Weiss, and Bernardo Barbiellini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transition from metal to higher-order topological insulator driven by random flux]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L081410</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L081410"/>
+        <updated>2022-08-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chang-An Li, Song-Bo Zhang, Jan Carl Budich, and Björn Trauzettel
+Random flux can drive a phase transition from a metal to a higher-order topological insulator in the two-dimensional Su-Schrieffer-Heeger model. This transition happens in the vicinity of zero energy which is surprising when compared to the influence of random flux on a simple square-lattice model. The authors analytically discover the importance of sublattice degrees of freedom for the transition to happen.
+
+[Phys. Rev. B 106, L081410] Published Mon Aug 29, 2022]]></summary>
+        <author>
+            <name>Chang-An Li, Song-Bo Zhang, Jan Carl Budich, and Björn Trauzettel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entanglement between Muon and $I&gt;\frac{1}{2}$ Nuclear Spins as a Probe of Charge Environment]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.097205</id>
@@ -1266,19 +1305,6 @@ Spin transfer torque and spin pumping are central reciprocal phenomena in spintr
 [Phys. Rev. B 106, 064402] Published Mon Aug 01, 2022]]></summary>
         <author>
             <name>Arne Brataas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fundamental thermal noise in antiresonant hollow-core fibers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.023501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.023501"/>
-        <updated>2022-08-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Vincent Michaud-Belleau, Eric R. Numkam Fokoua, Peter Horak, Natalie V. Wheeler, Shuichiro Rikimi, Thomas D. Bradley, David J. Richardson, Francesco Poletti, Jérôme Genest, and Radan Slavík
-To understand the effect of fundamental thermal noise in hollow-core optical fibers, the authors propose an adapted noise model and compare it to careful measurements. They find that the use of evacuated hollow cores could allow for an order-of-magnitude improvement in phase sensitivity with respect to standard fiber, enabling better precision in interferometric applications such as fiber gyroscopes and laser frequency stabilization.
-
-[Phys. Rev. A 106, 023501] Published Mon Aug 01, 2022]]></summary>
-        <author>
-            <name>Vincent Michaud-Belleau, Eric R. Numkam Fokoua, Peter Horak, Natalie V. Wheeler, Shuichiro Rikimi, Thomas D. Bradley, David J. Richardson, Francesco Poletti, Jérôme Genest, and Radan Slavík</name>
         </author>
     </entry>
 </feed>
