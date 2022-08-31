@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-30T01:18:44.600Z</id>
+    <id>urn:2022-08-31T01:20:19.223Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-30T01:18:44.600Z</updated>
+    <updated>2022-08-31T01:20:19.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dissipative Superradiant Spin Amplifier for Enhanced Quantum Sensing]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.030330</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.3.030330"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Martin Koppenhöfer, Peter Groszkowski, Hoi-Kwan Lau, and A.A. Clerk
+A new quantum metrological protocol achieves high sensitivity despite the imperfections of realistic noisy solid-state spin readout.
+
+[PRX Quantum 3, 030330] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>Martin Koppenhöfer, Peter Groszkowski, Hoi-Kwan Lau, and A.A. Clerk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological spin memory of antiferromagnetically coupled skyrmion pairs in Co/Gd/Pt multilayers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.084412</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.084412"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xiao Wang, Alexandra R. Stuart, Mitchell S. Swyt, Carla M. Quispe Flores, Andy T. Clark, Adzo Fiagbenu, Rajesh V. Chopdekar, Pavel N. Lapa, Zhuyun Xiao, Dava Keavney, Richard Rosenberg, Michael Vogel, John E. Pearson, Suzanne G. E. te Velthuis, Axel Hoffmann, Kristen S. Buchanan, and Xuemei M. Cheng
+Magnetic skyrmions are topologically protected spin textures that have attracted considerable interest recently. This paper reports the discovery of a topological spin memory effect, which provides a promising new avenue for information encryption and recovery. The authors demonstrate experimentally that antiferromagnetically (AFM)-coupled bubble skyrmion pairs stabilized in a Co/Gd/Pt multilayered film at room temperature evolve into complex in-plane spin textures as the temperature is lowered and then reform completely when warmed back up. Simulations show that Dzyaloshinskii-Moriya interactions play a key role in this spin memory effect and reveal that the topological charge is preserved throughout the spin reorientation transition and recovery.
+
+[Phys. Rev. Materials 6, 084412] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>Xiao Wang, Alexandra R. Stuart, Mitchell S. Swyt, Carla M. Quispe Flores, Andy T. Clark, Adzo Fiagbenu, Rajesh V. Chopdekar, Pavel N. Lapa, Zhuyun Xiao, Dava Keavney, Richard Rosenberg, Michael Vogel, John E. Pearson, Suzanne G. E. te Velthuis, Axel Hoffmann, Kristen S. Buchanan, and Xuemei M. Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating Second-Order Phase Transitions with Diagrammatic Monte Carlo: Néel Transition in the Doped Three-Dimensional Hubbard Model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.107202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.107202"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Connor Lenihan, Aaram J. Kim, Fedor Šimkovic, IV, and Evgeny Kozik
+A new technique based on Diagrammatic Monte Carlo is used to probe second-order phase transitions, allowing one to obtain phase diagrams with controlled error bars in hitherto inaccessible regimes.
+
+[Phys. Rev. Lett. 129, 107202] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>Connor Lenihan, Aaram J. Kim, Fedor Šimkovic, IV, and Evgeny Kozik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical limits of dictionary learning: Random matrix theory and the spectral replica method]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.024136</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.024136"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jean Barbier and Nicolas Macris
+Dictionary learning, a machine learning technique using a representation in terms of dictionary elements, is commonly used for problems where the number of elements is small. Here, the authors use a replica method to address the case where the number of elements is large and scales with the system size, resulting in a more tractable calculation.
+
+[Phys. Rev. E 106, 024136] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>Jean Barbier and Nicolas Macris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailoring optical excitation to control magnetic skyrmion nucleation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.054435</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.054435"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): L.-M. Kern, B. Pfau, M. Schneider, K. Gerlinger, V. Deinhart, S. Wittrock, T. Sidiropoulos, D. Engel, I. Will, C. M. Günther, K. Litzius, S. Wintz, M. Weigand, F. Büttner, and S. Eisebitt
+A single laser pulse can create nanometer-scale magnetic skyrmions in a thin film ferromagnet. However, the skyrmions appear randomly distributed within the excited film area hampering application of the process. Here, the authors present a reliable approach to gain nanometer spatial control over the skyrmions’ positions: reflective masks fabricated on the material’s backside locally affect the optical excitation amplitudes reached. The backside masks precisely define preferred and inhibited regions for skyrmion nucleation while maintaining frontside access to the magnetic film.
+
+[Phys. Rev. B 106, 054435] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>L.-M. Kern, B. Pfau, M. Schneider, K. Gerlinger, V. Deinhart, S. Wittrock, T. Sidiropoulos, D. Engel, I. Will, C. M. Günther, K. Litzius, S. Wintz, M. Weigand, F. Büttner, and S. Eisebitt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local imaging of diamagnetism in proximity-coupled niobium nanoisland arrays on gold thin films]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.054521</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.054521"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Logan Bishop-Van Horn, Irene P. Zhang, Emily N. Waite, Ian Mondragon-Shem, Scott Jensen, Junseok Oh, Tom Lippman, Malcolm Durkin, Taylor L. Hughes, Nadya Mason, Kathryn A. Moler, and Ilya Sochnikov
+Using scanning SQUID susceptometry, the authors measure the local magnetic response of arrays of proximity-coupled superconducting nanoislands with engineered spatial disorder. The measurements, along with detailed numerical simulations, reveal a magnetic susceptibility that is nonlinear, spatially inhomogeneous, and strongly dependent on disorder. This work demonstrates the design, control, and measurement of a model superconducting system to simulate the spatial evolution of superfluid density and phase coherence in 2D superconductors with micron-scale disorder.
+
+[Phys. Rev. B 106, 054521] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>Logan Bishop-Van Horn, Irene P. Zhang, Emily N. Waite, Ian Mondragon-Shem, Scott Jensen, Junseok Oh, Tom Lippman, Malcolm Durkin, Taylor L. Hughes, Nadya Mason, Kathryn A. Moler, and Ilya Sochnikov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation of a multitude of correlated states at the surface of bulk $1T\text{−}{\mathrm{TaSe}}_{2}$ crystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.075153</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.075153"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yi Chen, Wei Ruan, Jeffrey D. Cain, Ryan L. Lee, Salman Kahn, Caihong Jia, Alex Zettl, and Michael F. Crommie
+Is it possible to have a single crystal that hosts a variety of correlated surface states? Layered transition metal dichalcogenides such as bulk 1T-TaSe2 offer a unique platform for accomplishing this since the electrons in each charge density wave (CDW) unit cell are susceptible to both Coulomb repulsion and interlayer coupling. By using scanning tunneling microscopy and spectroscopy, the authors identify here a multitude of correlated surface states that exist on bulk 1T-TaSe2 with properties ranging all the way from Mott insulating to strongly metallic Kondo behavior. 1T-TaSe2 thus simulates the full range of the periodic Anderson model within a single crystal by combining electron correlations with variable interlayer coupling.
+
+[Phys. Rev. B 106, 075153] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>Yi Chen, Wei Ruan, Jeffrey D. Cain, Ryan L. Lee, Salman Kahn, Caihong Jia, Alex Zettl, and Michael F. Crommie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proximity-induced superconductivity generated by thin films: Effects of Fermi surface mismatch and disorder in the superconductor]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.085429</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.085429"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tudor D. Stanescu and Sankar Das Sarma
+Detailed understanding of proximity-induced superconductivity generated by thin films has become critical in the context of recent efforts to realize topological quantum states in superconductor-based hybrid structures. Using a 3D microscopic model, the authors demonstrate here that disorder in the film is both essential for inducing robust superconductivity and potentially detrimental, as it generates “induced disorder”. Films with surface roughness are shown to induce uniform-enough topological superconductivity in a semiconductor, provided the coupling of the two subsystems is sufficiently weak.
+
+[Phys. Rev. B 106, 085429] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>Tudor D. Stanescu and Sankar Das Sarma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatiotemporal Dynamics of Coral Polyps on a Fluidic Platform]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.024078</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.024078"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shuaifeng Li, Liza M. Roger, Judith Klein-Seetharaman, Nastassja A. Lewinski, and Jinkyu Yang
+Human activities threaten coral survival. A better understanding of the coral behaviors in response to environmental changes may lead to a rescue plan but remains challenging. The authors demonstrate quantitative features of coral motion—a key trait of coral polyps—through real-time microscopy on a fluidic platform, and discover the correlated fractional Brownian motion of coral polyps under different light and temperature conditions. Numerical analysis and theoretical modeling are performed to interpret the observed coral dynamics. This work provides systematic techniques to study coral polyp motions and advances our knowledge of their behavior under climate change.
+
+[Phys. Rev. Applied 18, 024078] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>Shuaifeng Li, Liza M. Roger, Judith Klein-Seetharaman, Nastassja A. Lewinski, and Jinkyu Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin-momentum locking in optical rectification]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.023521</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.023521"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): P. Moroshkin, J. Plumitallo, T. Ochiai, R. Osgood, III, and J. M. Xu
+The authors report the direct electrical detection of spin-momentum locking, a mechanism underlying the surface-plasmon-polariton waves, via direct measurement of the optical rectification current induced in an asymmetric metallic grating by a circularly polarized light. The work could potentially be useful for the surface-plasmon-mediated electrical detection of chiral objects to distinguish enantiomers that are otherwise indistinguishable.
+
+[Phys. Rev. A 106, 023521] Published Tue Aug 30, 2022]]></summary>
+        <author>
+            <name>P. Moroshkin, J. Plumitallo, T. Ochiai, R. Osgood, III, and J. M. Xu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Impact Forces of Water Drops Falling on Superhydrophobic Surfaces]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.104501</id>
@@ -1175,136 +1305,6 @@ A new model suggests that lattice defects are responsible for the way some semic
 [Phys. Rev. Lett. 129, 065501] Published Wed Aug 03, 2022]]></summary>
         <author>
             <name>Jiahao Dong, Yifei Li, Yuying Zhou, Alan Schwartzman, Haowei Xu, Bilal Azhar, Joseph Bennett, Ju Li, and R. Jaramillo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improved measurement of neutrino oscillation parameters by the NOvA experiment]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.032004</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.032004"/>
-        <updated>2022-08-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. A. Acero et al. (The NOvA Collaboration)
-Long-baseline neutrino experiments are paving the way for the solution of two outstanding puzzles in neutrino physics—mass ordering and charge-parity violation.
-
-[Phys. Rev. D 106, 032004] Published Wed Aug 03, 2022]]></summary>
-        <author>
-            <name>M. A. Acero &lt;em&gt;et al.&lt;/em&gt; (The NOvA Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phonon-mediated Migdal effect in semiconductor detectors]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.043004</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.043004"/>
-        <updated>2022-08-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zheng-Liang Liang, Chongjie Mo, Fawei Zheng, and Ping Zhang
-This paper presents a novel treatment of the dark matter induced Migdal effect in solids, providing a full theoretical description of it as a phonon mediated process. This allows the authors to make reliable predictions for dark matter masses below 50 MeV, where the previously used approximation of assuming the nuclei to be freely recoiling breaks down.
-
-[Phys. Rev. D 106, 043004] Published Wed Aug 03, 2022]]></summary>
-        <author>
-            <name>Zheng-Liang Liang, Chongjie Mo, Fawei Zheng, and Ping Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlocal measurement of quasiparticle charge and energy relaxation in proximitized semiconductor nanowires using quantum dots]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.064503</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.064503"/>
-        <updated>2022-08-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Guanzhong Wang, Tom Dvir, Nick van Loo, Grzegorz P. Mazur, Sasa Gazibegovic, Ghada Badawy, Erik P. A. M. Bakkers, Leo P. Kouwenhoven, and Gijs de Lange
-The nonlocal conductance of semiconductor-superconductor heterostructures is increasingly used to study the bulk properties of such systems. However, the microscopic details governing this conductance are poorly understood. Here, the authors fabricate a three-terminal device, based on an InSb nanowire proximitized by a thin Al layer. They show that the measured nonlocal conductance is a nonequilibrium process carried by charge-neutral quasiparticles, taking place at the energy of the superconducting gap.
-
-[Phys. Rev. B 106, 064503] Published Wed Aug 03, 2022]]></summary>
-        <author>
-            <name>Guanzhong Wang, Tom Dvir, Nick van Loo, Grzegorz P. Mazur, Sasa Gazibegovic, Ghada Badawy, Erik P. A. M. Bakkers, Leo P. Kouwenhoven, and Gijs de Lange</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Students’ perspectives on computational challenges in physics class]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.18.020109</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.18.020109"/>
-        <updated>2022-08-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Paul C. Hamerski, Daryl McPadden, Marcos D. Caballero, and Paul W. Irving
-A computation-integrated curriculum for high school physics can make science learning more authentic for students who are familiar with computation, and can generate frustration and an aversion towards physics for students who are not.
-
-[Phys. Rev. Phys. Educ. Res. 18, 020109] Published Tue Aug 02, 2022]]></summary>
-        <author>
-            <name>Paul C. Hamerski, Daryl McPadden, Marcos D. Caballero, and Paul W. Irving</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excitations of Quantum Many-Body Systems via Purified Ensembles: A Unitary-Coupled-Cluster-Based Approach]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.066401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.066401"/>
-        <updated>2022-08-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Carlos L. Benavides-Riveros, Lipeng Chen, Christian Schilling, Sebastián Mantilla, and Stefano Pittalis
-Quantum computers may efficiently investigate many-body systems through mapping a variational calculation of many excitations onto one for a single state.
-
-[Phys. Rev. Lett. 129, 066401] Published Tue Aug 02, 2022]]></summary>
-        <author>
-            <name>Carlos L. Benavides-Riveros, Lipeng Chen, Christian Schilling, Sebastián Mantilla, and Stefano Pittalis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dirac nodal lines and nodal loops in the topological kagome superconductor ${\mathrm{CsV}}_{3}{\mathrm{Sb}}_{5}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L081101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L081101"/>
-        <updated>2022-08-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zhanyang Hao, Yongqing Cai, Yixuan Liu, Yuan Wang, Xuelei Sui, Xiao-Ming Ma, Zecheng Shen, Zhicheng Jiang, Yichen Yang, Wanling Liu, Qi Jiang, Zhengtai Liu, Mao Ye, Dawei Shen, Yi Liu, Shengtao Cui, Jiabin Chen, Le Wang, Cai Liu, Junhao Lin, Jianfeng Wang, Bing Huang, Jia-Wei Mei, and Chaoyu Chen
-Recently, V-based kagome superconductors have emerged as a new research topic in condensed matter physics by intertwining superconductivity, charge density wave, and strong correlation. Here, the authors identify CsV3Sb5 as a Dirac nodal-line semimetal by determining multiple Dirac nodal lines and loops close to the Fermi level with the help of ARPES and first-principles calculations. These nodal lines and loops could provide yet another source for obtaining larger Berry curvature and, hence, larger anomalous Hall conductivity, thus offering essential insight into the exotic transport behavior observed.
-
-[Phys. Rev. B 106, L081101] Published Tue Aug 02, 2022]]></summary>
-        <author>
-            <name>Zhanyang Hao, Yongqing Cai, Yixuan Liu, Yuan Wang, Xuelei Sui, Xiao-Ming Ma, Zecheng Shen, Zhicheng Jiang, Yichen Yang, Wanling Liu, Qi Jiang, Zhengtai Liu, Mao Ye, Dawei Shen, Yi Liu, Shengtao Cui, Jiabin Chen, Le Wang, Cai Liu, Junhao Lin, Jianfeng Wang, Bing Huang, Jia-Wei Mei, and Chaoyu Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single-Atom Trapping in a Metasurface-Lens Optical Tweezer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.030316</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.3.030316"/>
-        <updated>2022-08-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T.-W. Hsu, W. Zhu, T. Thiele, M. O. Brown, S. B. Papp, A. Agrawal, and C. A. Regal
-A metasurface lens is used to trap and image single atoms, showing that complex quantum information experiments may leverage the multifunctional performance offered by optimized photonic metasurfaces.
-
-[PRX Quantum 3, 030316] Published Mon Aug 01, 2022]]></summary>
-        <author>
-            <name>T.-W. Hsu, W. Zhu, T. Thiele, M. O. Brown, S. B. Papp, A. Agrawal, and C. A. Regal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low electronic conductivity of ${\mathrm{Li}}_{7}{\mathrm{La}}_{3}{\mathrm{Zr}}_{2}{\mathrm{O}}_{12}$ solid electrolytes from first principles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.085401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.085401"/>
-        <updated>2022-08-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alexander G. Squires, Daniel W. Davies, Sunghyun Kim, David O. Scanlon, Aron Walsh, and Benjamin J. Morgan
-The formation of lithium dendrites in solid-state lithium-ion batteries leads to short-circuiting and cell failure. One proposed mechanism for dendrite growth is the direct reduction of lithium ions, due to residual electronic conductivity in the nominally insulating solid electrolyte. This article presents a fully first-principles scheme for modeling the electronic conductivity of nominally insulating materials, such as solid electrolytes, as a function of synthesis protocol, and applies this to the prototypical lithium-ion solid electrolyte Li7La3Zr2O2 (LLZO). LLZO is predicted to have low bulk electronic carrier mobilities and negligible carrier concentrations. This suggests that the bulk electronic conductivity of LLZO is not sufficiently high to enable lithium-dendrite growth, implicating extended defects and surface contributions in any non-negligible electronic conductivity in lithium garnet solid electrolytes.
-
-[Phys. Rev. Materials 6, 085401] Published Mon Aug 01, 2022]]></summary>
-        <author>
-            <name>Alexander G. Squires, Daniel W. Davies, Sunghyun Kim, David O. Scanlon, Aron Walsh, and Benjamin J. Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Identification of a CMB Lensing Signal Produced by 1.5 Million Galaxies at $z∼4$: Constraints on Matter Density Fluctuations at High Redshift]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.061301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.061301"/>
-        <updated>2022-08-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hironao Miyatake, Yuichi Harikane, Masami Ouchi, Yoshiaki Ono, Nanaka Yamamoto, Atsushi J. Nishizawa, Neta Bahcall, Satoshi Miyazaki, and Andrés A. Plazas Malagón
-Gravitational lensing of the cosmic microwave background has been used to probe the distribution of dark matter around some of the earliest galaxies in the Universe.
-
-[Phys. Rev. Lett. 129, 061301] Published Mon Aug 01, 2022]]></summary>
-        <author>
-            <name>Hironao Miyatake, Yuichi Harikane, Masami Ouchi, Yoshiaki Ono, Nanaka Yamamoto, Atsushi J. Nishizawa, Neta Bahcall, Satoshi Miyazaki, and Andrés A. Plazas Malagón</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum scattering theory of spin transfer torque, spin pumping, and fluctuations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.064402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.064402"/>
-        <updated>2022-08-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Arne Brataas
-Spin transfer torque and spin pumping are central reciprocal phenomena in spintronics. The author demonstrates a way to understand these effects within a quantum out-of-equilibrium path-integral model. At a finite temperature, frequency, or spin accumulation, the magnet also experiences fluctuating torques. In the quantum regime, transport coefficients related to electron shot noise caused by the discrete spin angular momentum of electrons govern the fluctuations at low temperatures. The results open a path for exploring low-temperature magnetization dynamics and spin caloritronics.
-
-[Phys. Rev. B 106, 064402] Published Mon Aug 01, 2022]]></summary>
-        <author>
-            <name>Arne Brataas</name>
         </author>
     </entry>
 </feed>
