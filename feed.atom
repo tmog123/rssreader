@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T01:20:19.223Z</id>
+    <id>urn:2022-09-01T01:05:49.079Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T01:20:19.223Z</updated>
+    <updated>2022-09-01T01:05:49.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Superconducting Cavity Electromechanics: The Realization of an Acoustic Frequency Comb at Microwave Frequencies]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.107701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.107701"/>
+        <updated>2022-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xu Han, Chang-Ling Zou, Wei Fu, Mingrui Xu, Yuntao Xu, and Hong X. Tang
+Researchers have combined a mechanical oscillator with a superconducting resonator to create a system that vibrates at GHz frequencies.
+
+[Phys. Rev. Lett. 129, 107701] Published Wed Aug 31, 2022]]></summary>
+        <author>
+            <name>Xu Han, Chang-Ling Zou, Wei Fu, Mingrui Xu, Yuntao Xu, and Hong X. Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Competition between spin ordering and superconductivity near the pseudogap boundary in ${\mathrm{La}}_{2\text{−}x}{\mathrm{Sr}}_{x}{\mathrm{CuO}}_{4}$: Insights from NMR]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.054522</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.054522"/>
+        <updated>2022-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): I. Vinograd, R. Zhou, H. Mayaffre, S. Krämer, S. K. Ramakrishna, A. P. Reyes, T. Kurosawa, N. Momono, M. Oda, S. Komiya, S. Ono, M. Horio, J. Chang, and M.-H. Julien
+Spin-stripe order is a property of the high-Tc cuprate La2−xSrxCuO4 that is observed for x ≤ 0.13 but not at larger doping because it is nullified by superconducting order. However, it can be restored by applying intense magnetic fields that erase superconductivity. The present analysis of NMR data sheds light on how glasslike freezing of spin stripes emerges from the field-induced vortex cores and how such field-induced magnetism matters for the interpretation of any experiment below the pseudogap boundary at x = 0.19.
+
+[Phys. Rev. B 106, 054522] Published Wed Aug 31, 2022]]></summary>
+        <author>
+            <name>I. Vinograd, R. Zhou, H. Mayaffre, S. Krämer, S. K. Ramakrishna, A. P. Reyes, T. Kurosawa, N. Momono, M. Oda, S. Komiya, S. Ono, M. Horio, J. Chang, and M.-H. Julien</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dissipative Superradiant Spin Amplifier for Enhanced Quantum Sensing]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.030330</id>
@@ -1279,32 +1305,6 @@ In many convective flows of geophysical relevance the Earth’s rotation is able
 [Phys. Rev. Fluids 7, 083501] Published Thu Aug 04, 2022]]></summary>
         <author>
             <name>Jeffrey R. Carpenter, Yu Liang, Mary-Louise Timmermans, and Eyal Heifetz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermoplasmonic Nanomagnetic Logic Gates]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.024014</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.024014"/>
-        <updated>2022-08-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pieter Gypens, Naëmi Leo, Matteo Menniti, Paolo Vavassori, and Jonathan Leliaert
-In advancing beyond the von Neumann architecture, nanomagnetic logic offers an attractive approach to in-memory computation by exploiting the energy hierarchy of coupled nanomagnets. However, low-power operation is largely incompatible with deterministic logic, because the temperature required for fast operation reduces the coupling too much. This study overcomes that problem using local, selective plasmon-assisted photoheating of individual nanomagnets to drive a logic gate deterministically toward the desired low-energy output state, on nanosecond time scales. This approach demonstrates the possibility of computational metamaterials and could have immediate technological relevance.
-
-[Phys. Rev. Applied 18, 024014] Published Thu Aug 04, 2022]]></summary>
-        <author>
-            <name>Pieter Gypens, Naëmi Leo, Matteo Menniti, Paolo Vavassori, and Jonathan Leliaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giant and Controllable Photoplasticity and Photoelasticity in Compound Semiconductors]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.065501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.065501"/>
-        <updated>2022-08-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jiahao Dong, Yifei Li, Yuying Zhou, Alan Schwartzman, Haowei Xu, Bilal Azhar, Joseph Bennett, Ju Li, and R. Jaramillo
-A new model suggests that lattice defects are responsible for the way some semiconductors become harder under illumination.
-
-[Phys. Rev. Lett. 129, 065501] Published Wed Aug 03, 2022]]></summary>
-        <author>
-            <name>Jiahao Dong, Yifei Li, Yuying Zhou, Alan Schwartzman, Haowei Xu, Bilal Azhar, Joseph Bennett, Ju Li, and R. Jaramillo</name>
         </author>
     </entry>
 </feed>
