@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T01:05:49.079Z</id>
+    <id>urn:2022-09-02T01:10:14.955Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-01T01:05:49.079Z</updated>
+    <updated>2022-09-02T01:10:14.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nonequilibrium Prethermal States in a Two-Dimensional Photon Fluid]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.100602</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.100602"/>
+        <updated>2022-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Murad Abuzarli, Nicolas Cherroret, Tom Bienaimé, and Quentin Glorieux
+Quenching a 2D photon fluid may produce thermalization dynamics that resemble those of thermal superfluids.
+
+[Phys. Rev. Lett. 129, 100602] Published Thu Sep 01, 2022]]></summary>
+        <author>
+            <name>Murad Abuzarli, Nicolas Cherroret, Tom Bienaimé, and Quentin Glorieux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation of Spectral Structures in the Flux of Cosmic-Ray Protons from 50 GeV to 60 TeV with the Calorimetric Electron Telescope on the International Space Station]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.101102</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.101102"/>
+        <updated>2022-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): O. Adriani et al. (CALET Collaboration)
+Precise measurements of the cosmic-ray proton spectrum by CALET on the International Space Station confirm two prominent spectral features.
+
+[Phys. Rev. Lett. 129, 101102] Published Thu Sep 01, 2022]]></summary>
+        <author>
+            <name>O. Adriani &lt;em&gt;et al.&lt;/em&gt; (CALET Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation of Interaction-Induced Mobility Edge in an Atomic Aubry-André Wire]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.103401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.103401"/>
+        <updated>2022-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yunfei Wang, Jia-Hui Zhang, Yuqing Li, Jizhou Wu, Wenliang Liu, Feng Mei, Ying Hu, Liantuan Xiao, Jie Ma, Cheng Chin, and Suotang Jia
+A cold-atom experiment suggests that interactions between particles can induce the coexistence of localized and extended states in a quantum wire.
+
+[Phys. Rev. Lett. 129, 103401] Published Thu Sep 01, 2022]]></summary>
+        <author>
+            <name>Yunfei Wang, Jia-Hui Zhang, Yuqing Li, Jizhou Wu, Wenliang Liu, Feng Mei, Ying Hu, Liantuan Xiao, Jie Ma, Cheng Chin, and Suotang Jia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Direct Visualization of Surface Spin-Flip Transition in ${\mathrm{MnBi}}_{4}{\mathrm{Te}}_{7}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.107204</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.107204"/>
+        <updated>2022-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wenbo Ge, Jinwoong Kim, Ying-Ting Chan, David Vanderbilt, Jiaqiang Yan, and Weida Wu
+Magnetic Force Microscopy experiments on natural superlattice compound MnBi4Te7, consisting of alternating MnBi2Te4 and Bi2Te3 layers, show a clear surface spin-flip transition, raising hopes of the robustness of the surface magnetism.
+
+[Phys. Rev. Lett. 129, 107204] Published Thu Sep 01, 2022]]></summary>
+        <author>
+            <name>Wenbo Ge, Jinwoong Kim, Ying-Ting Chan, David Vanderbilt, Jiaqiang Yan, and Weida Wu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Superconducting Cavity Electromechanics: The Realization of an Acoustic Frequency Comb at Microwave Frequencies]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.107701</id>
@@ -1253,58 +1305,6 @@ Researchers have optically synced the motion of two micrometer-sized objects sep
 [Phys. Rev. Lett. 129, 063605] Published Fri Aug 05, 2022]]></summary>
         <author>
             <name>Jin Li, Zhong-Hao Zhou, Shuai Wan, Yan-Lei Zhang, Zhen Shen, Ming Li, Chang-Ling Zou, Guang-Can Guo, and Chun-Hua Dong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surfing on Turbulence: A Strategy for Planktonic Navigation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.064502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.064502"/>
-        <updated>2022-08-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Rémi Monthiller, Aurore Loisy, Mimi A. R. Koehl, Benjamin Favier, and Christophe Eloy
-Simulations indicate that plankton can gain quicker access to food by riding ascending turbulent ocean currents.
-
-[Phys. Rev. Lett. 129, 064502] Published Fri Aug 05, 2022]]></summary>
-        <author>
-            <name>Rémi Monthiller, Aurore Loisy, Mimi A. R. Koehl, Benjamin Favier, and Christophe Eloy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tunable transport in the mass-imbalanced Fermi-Hubbard model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.075115</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.075115"/>
-        <updated>2022-08-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Philip Zechmann, Alvise Bastianello, and Michael Knap
-Transport dominates the late-time dynamics of quantum many-body systems with conserved quantities and is described by the laws of hydrodynamics. Within the framework of a quantum kinetic theory, the authors study the recently experimentally realized mass-imbalanced Fermi-Hubbard model in one dimension and investigate the emergence of diffusive hydrodynamics. Excellent agreement with both tensor network computations and experimental data is found. Furthermore, they analyze the influence of external potentials and show that the presence of a tilt gives rise to a more exotic type of subdiffusive transport.
-
-[Phys. Rev. B 106, 075115] Published Fri Aug 05, 2022]]></summary>
-        <author>
-            <name>Philip Zechmann, Alvise Bastianello, and Michael Knap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of $WWW$ Production in $pp$ Collisions at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$ with the ATLAS Detector]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.061803</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.061803"/>
-        <updated>2022-08-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): G. Aad et al. (ATLAS Collaboration)
-The ATLAS Collaboration has detected triple W-boson production—a rare event that could eventually offer signs of new physics.
-
-[Phys. Rev. Lett. 129, 061803] Published Thu Aug 04, 2022]]></summary>
-        <author>
-            <name>G. Aad &lt;em&gt;et al.&lt;/em&gt; (ATLAS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physical mechanisms of the linear stabilization of convection by rotation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.083501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.083501"/>
-        <updated>2022-08-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jeffrey R. Carpenter, Yu Liang, Mary-Louise Timmermans, and Eyal Heifetz
-In many convective flows of geophysical relevance the Earth’s rotation is able to provide a control on the rate of heat transfer. The physical mechanisms of this process are the subject of this paper, where a linear model is used to break down the onset of convection into understandable elements that can be quantified and compared. The physical processes acting to control the onset of convection in rotating flows are found to differ depending on the parameters of the problem. Thus no simple universal mechanism can be identified.
-
-[Phys. Rev. Fluids 7, 083501] Published Thu Aug 04, 2022]]></summary>
-        <author>
-            <name>Jeffrey R. Carpenter, Yu Liang, Mary-Louise Timmermans, and Eyal Heifetz</name>
         </author>
     </entry>
 </feed>
