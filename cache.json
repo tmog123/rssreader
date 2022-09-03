@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.030332",
+          "author": "Lee R. Liu, P. Bryan Changala, Marissa L. Weichman, Qizhong Liang, Jutta Toscano, Jacek Kłos, Svetlana Kotochigova, David J. Nesbitt, and Jun Ye",
+          "description": "Author(s): Lee R. Liu, P. Bryan Changala, Marissa L. Weichman, Qizhong Liang, Jutta Toscano, Jacek Kłos, Svetlana Kotochigova, David J. Nesbitt, and Jun Ye\nHigh-resolution experiments show how to determine the rotational and vibrational inelastic collision cross sections of a very large molecule, providing guidance toward probing novel quantum dynamics.\n\n[PRX Quantum 3, 030332] Published Fri Sep 02, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.3.030332",
+          "publishedOn": "2022-09-02T10:00:00.000Z",
+          "wordCount": 2164,
+          "title": "Collision-Induced ${\\mathrm{C}}_{60}$ Rovibrational Relaxation Probed by State-Resolved Nonlinear Spectroscopy",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.3.030332.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.031033",
+          "author": "Mathias Pont, Riccardo Albiero, Sarah E. Thomas, Nicolò Spagnolo, Francesco Ceccarelli, Giacomo Corrielli, Alexandre Brieussel, Niccolo Somaschi, Hêlio Huet, Abdelmounaim Harouri, Aristide Lemaître, Isabelle Sagnes, Nadia Belabas, Fabio Sciarrino, Roberto Osellame, Pascale Senellart, and Andrea Crespi",
+          "description": "Author(s): Mathias Pont, Riccardo Albiero, Sarah E. Thomas, Nicolò Spagnolo, Francesco Ceccarelli, Giacomo Corrielli, Alexandre Brieussel, Niccolo Somaschi, Hêlio Huet, Abdelmounaim Harouri, Aristide Lemaître, Isabelle Sagnes, Nadia Belabas, Fabio Sciarrino, Roberto Osellame, Pascale Senellart, and Andrea Crespi\nA new optical device measures photon indistinguishability—an important property for future light-based quantum computers.\n\n[Phys. Rev. X 12, 031033] Published Fri Sep 02, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.031033",
+          "publishedOn": "2022-09-02T10:00:00.000Z",
+          "wordCount": 2460,
+          "title": "Quantifying $n$-Photon Indistinguishability with a Cyclic Integrated Interferometer",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.031033.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.106.035801",
+          "author": "K. D. Marquez, M. R. Pelicer, S. Ghosh, J. Peterson, D. Chatterjee, V. Dexheimer, and D. P. Menezes",
+          "description": "Author(s): K. D. Marquez, M. R. Pelicer, S. Ghosh, J. Peterson, D. Chatterjee, V. Dexheimer, and D. P. Menezes\nStrong magnetic fields can modify the microscopic composition of matter affecting also the properties and evolution of massive objects such as compact stars. This paper explores the combined effect of heavy baryons—hyperons and Δ’s—on the structure of neutron stars with strong magnetic fields, so-called magnetars. The authors show that Δ’s are favored over hyperons and that contrary to expectations they do not make the nuclear matter equation of state softer.\n\n[Phys. Rev. C 106, 035801] Published Fri Sep 02, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.106.035801",
+          "publishedOn": "2022-09-02T10:00:00.000Z",
+          "wordCount": 1265,
+          "title": "Exploring the effects of $\\mathrm{Δ}$ baryons in magnetars",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.106.035801.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.100602",
           "author": "Murad Abuzarli, Nicolas Cherroret, Tom Bienaimé, and Quentin Glorieux",
           "description": "Author(s): Murad Abuzarli, Nicolas Cherroret, Tom Bienaimé, and Quentin Glorieux\nQuenching a 2D photon fluid may produce thermalization dynamics that resemble those of thermal superfluids.\n\n[Phys. Rev. Lett. 129, 100602] Published Thu Sep 01, 2022",
@@ -781,7 +811,7 @@
           "description": "Author(s): Christopher Trainer, Olivia R. Armitage, Harry Lane, Luke C. Rhodes, Edmond Chan, Izidor Benedičič, J. A. Rodriguez-Rivera, O. Fabelo, Chris Stock, and Peter Wahl\nInformation about the magnetic properties of van der Waals ferromagnets comes so far largely from macroscopic techniques, with much less being known about the magnetism at the microscopic level. By comparing atomic-scale imaging of domain walls at the surface of the van der Waals ferromagnet Fe3−xGeTe2 with inelastic neutron scattering measurements of the magnon dispersion in the bulk, the authors elucidate here the interplay between the bulk and surface magnetism and image the low-energy electronic structure.\n\n[Phys. Rev. B 106, L081405] Published Mon Aug 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L081405",
           "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 1737,
+          "wordCount": 1736,
           "title": "Relating spin-polarized STM imaging and inelastic neutron scattering in the van der Waals ferromagnet ${\\mathrm{Fe}}_{3}{\\mathrm{GeTe}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L081405.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 2288,
           "title": "Design of an inertial fusion experiment exceeding the Lawson criterion for ignition",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.025201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.025202",
-          "author": "A. B. Zylstra <em>et al.</em>",
-          "description": "Author(s): A. B. Zylstra et al.\nExperimental measurements from last year’s igniting plasma experiment at NIF are presented. The results are consistent with self-heating as the dominant term in the power balance.\n\n[Phys. Rev. E 106, 025202] Published Mon Aug 08, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.025202",
-          "publishedOn": "2022-08-08T10:00:00.000Z",
-          "wordCount": 1244,
-          "title": "Experimental achievement and signatures of ignition at the National Ignition Facility",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.025202.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.075118",
-          "author": "J. M. Wilde, A. Sapkota, W. Tian, S. L. Bud'ko, R. A. Ribeiro, A. Kreyssig, and P. C. Canfield",
-          "description": "Author(s): J. M. Wilde, A. Sapkota, W. Tian, S. L. Bud'ko, R. A. Ribeiro, A. Kreyssig, and P. C. Canfield\nThe authors investigate the low-moment magnetic phases of La2Ni7 using neutron diffraction on single crystals. At intermediate temperatures, there are two incommensurate magnetic phases with the same temperature-dependent propagation vector, but different magnetic-moment directions. At low temperatures, the magnetic structure abruptly becomes a uniaxial commensurate antiferromagnet through a first-order transition. These properties make La2Ni7 an interesting candidate in the search for interesting phenomena such as superconductivity via suppressing weak magnetic order through pressure and/or chemical substitution.\n\n[Phys. Rev. B 106, 075118] Published Mon Aug 08, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.075118",
-          "publishedOn": "2022-08-08T10:00:00.000Z",
-          "wordCount": 1202,
-          "title": "Weak itinerant magnetic phases of ${\\mathrm{La}}_{2}{\\mathrm{Ni}}_{7}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.075118.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.063605",
-          "author": "Jin Li, Zhong-Hao Zhou, Shuai Wan, Yan-Lei Zhang, Zhen Shen, Ming Li, Chang-Ling Zou, Guang-Can Guo, and Chun-Hua Dong",
-          "description": "Author(s): Jin Li, Zhong-Hao Zhou, Shuai Wan, Yan-Lei Zhang, Zhen Shen, Ming Li, Chang-Ling Zou, Guang-Can Guo, and Chun-Hua Dong\nResearchers have optically synced the motion of two micrometer-sized objects separated by 5 km, a distance around a hundred million times longer than previous demonstrations.\n\n[Phys. Rev. Lett. 129, 063605] Published Fri Aug 05, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.063605",
-          "publishedOn": "2022-08-05T10:00:00.000Z",
-          "wordCount": 1104,
-          "title": "All-Optical Synchronization of Remote Optomechanical Systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.063605.png"
         }
       ]
     }
