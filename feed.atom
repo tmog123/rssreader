@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-09T01:16:53.836Z</id>
+    <id>urn:2022-09-10T01:15:34.943Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-09T01:16:53.836Z</updated>
+    <updated>2022-09-10T01:15:34.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Analysis of Ringdown Overtones in GW150914]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.111102</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.111102"/>
+        <updated>2022-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Roberto Cotesta, Gregorio Carullo, Emanuele Berti, and Vitor Cardoso
+A new analysis questions whether researchers found so-called overtones in the first detected gravitational-wave signal from a black hole merger.
+
+[Phys. Rev. Lett. 129, 111102] Published Fri Sep 09, 2022]]></summary>
+        <author>
+            <name>Roberto Cotesta, Gregorio Carullo, Emanuele Berti, and Vitor Cardoso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moiré Landau Fans and Magic Zeros]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.116804</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.116804"/>
+        <updated>2022-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Nisarga Paul, Philip J. D. Crowley, Trithep Devakul, and Liang Fu
+Universal conditions under which electrons of generic dispersion in a moiré superlattice and magnetic field realize perfectly flat Chern bands have been identified.
+
+[Phys. Rev. Lett. 129, 116804] Published Fri Sep 09, 2022]]></summary>
+        <author>
+            <name>Nisarga Paul, Philip J. D. Crowley, Trithep Devakul, and Liang Fu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotation-Time Symmetry Breaking in Frustrated Chiral Nematic Driven by a Pulse-Train Waveform]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.117801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.117801"/>
+        <updated>2022-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Vitaly P. Panov, Jiseon Yang, L. K. Migara, Hyun-Jin Yoon, and Jang-Kun Song
+A liquid crystal can support traveling waves that demonstrate a new ability to control the molecules’ orientations.
+
+[Phys. Rev. Lett. 129, 117801] Published Fri Sep 09, 2022]]></summary>
+        <author>
+            <name>Vitaly P. Panov, Jiseon Yang, L. K. Migara, Hyun-Jin Yoon, and Jang-Kun Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waveforms from amplitudes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.056007</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.056007"/>
+        <updated>2022-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Andrea Cristofoli, Riccardo Gonzo, David A. Kosower, and Donal O’Connell
+Waveforms play an important role in the detection of gravitational-wave events from binary mergers. A useful formalism to deal with the two-body problem in gravity is to use quantum scattering amplitudes in a particular expansion and extract classical observables. As an extension to previous work, the authors incorporate massless bosonic particles in the initial states into the formalism and show that in the classical limit they emerge from coherent states due to their nature as superpositions of multiparticle states.
+
+[Phys. Rev. D 106, 056007] Published Fri Sep 09, 2022]]></summary>
+        <author>
+            <name>Andrea Cristofoli, Riccardo Gonzo, David A. Kosower, and Donal O’Connell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pairing symmetry of twisted bilayer graphene: A phenomenological synthesis]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.104506</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.104506"/>
+        <updated>2022-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ethan Lake, Adarsh S. Patri, and T. Senthil
+The nature of the superconductor in twisted bilayer graphene has remained a mystery ever since its discovery. Microscopic theoretical approaches are difficult to control, and there has been no single decisive experiment able to completely fix the pairing symmetry. In spite of this, this work shows that by carefully drawing on information from a diverse array of existing experiments – and using some minimal and general input from theory – the nature of the pairing can be almost uniquely determined.
+
+[Phys. Rev. B 106, 104506] Published Fri Sep 09, 2022]]></summary>
+        <author>
+            <name>Ethan Lake, Adarsh S. Patri, and T. Senthil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Search for Dark Matter Annihilation Signals in the H.E.S.S. Inner Galaxy Survey]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.111101</id>
@@ -1240,71 +1305,6 @@ The recently developed “honeycomb code,” an example of a Floquet code, is a 
 [Phys. Rev. B 106, 085122] Published Mon Aug 15, 2022]]></summary>
         <author>
             <name>David Aasen, Zhenghan Wang, and Matthew B. Hastings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surface Luttinger arcs in Weyl semimetals]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L081112</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L081112"/>
-        <updated>2022-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Osakpolor Eki Obakpolor and Pavan Hosur
-Weyl semimetals famously host a surface topological metal containing open Fermi arcs instead of closed Fermi surfaces. Here, the authors predict another surface feature, Luttinger arcs, that form closed loops with the Fermi arcs in undoped Weyl semimetals. Luttinger arcs are common, albeit experimentally inaccessible, for strongly interacting electrons. Here, they occur even without interactions and switch places with Fermi arcs for different surface terminations – a property the authors exploit to pinpoint Luttinger arcs for Co and Sn terminations in Co3Sn2S2.
-
-[Phys. Rev. B 106, L081112] Published Mon Aug 15, 2022]]></summary>
-        <author>
-            <name>Osakpolor Eki Obakpolor and Pavan Hosur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relating spin-polarized STM imaging and inelastic neutron scattering in the van der Waals ferromagnet ${\mathrm{Fe}}_{3}{\mathrm{GeTe}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L081405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L081405"/>
-        <updated>2022-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Christopher Trainer, Olivia R. Armitage, Harry Lane, Luke C. Rhodes, Edmond Chan, Izidor Benedičič, J. A. Rodriguez-Rivera, O. Fabelo, Chris Stock, and Peter Wahl
-Information about the magnetic properties of van der Waals ferromagnets comes so far largely from macroscopic techniques, with much less being known about the magnetism at the microscopic level. By comparing atomic-scale imaging of domain walls at the surface of the van der Waals ferromagnet Fe3−xGeTe2 with inelastic neutron scattering measurements of the magnon dispersion in the bulk, the authors elucidate here the interplay between the bulk and surface magnetism and image the low-energy electronic structure.
-
-[Phys. Rev. B 106, L081405] Published Mon Aug 15, 2022]]></summary>
-        <author>
-            <name>Christopher Trainer, Olivia R. Armitage, Harry Lane, Luke C. Rhodes, Edmond Chan, Izidor Benedičič, J. A. Rodriguez-Rivera, O. Fabelo, Chris Stock, and Peter Wahl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Dirac fermions in moiré superlattices: A route towards topological flat minibands and correlated topological insulators]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.L032024</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.L032024"/>
-        <updated>2022-08-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ying Su, Heqiu Li, Chuanwei Zhang, Kai Sun, and Shi-Zeng Lin
-A general model to realize topological flat minibands by considering massive Dirac fermions confined in a periodic potential can be realized in various moiré systems and survive to arbitrarily large Dirac band gap.
-
-[Phys. Rev. Research 4, L032024] Published Fri Aug 12, 2022]]></summary>
-        <author>
-            <name>Ying Su, Heqiu Li, Chuanwei Zhang, Kai Sun, and Shi-Zeng Lin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics and energetics underlying mixing efficiency in homogeneous stably stratified turbulence]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.084801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.084801"/>
-        <updated>2022-08-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Young R. Yi and Jeffrey R. Koseff
-Global and regional ocean simulations rely on eddy viscosities and diffusivities to account for irreversible mixing of momentum and scalars due to unresolved scales of motion. These closures are often sensitive to the values of the mixing coefficient, whose shape has been well characterized in terms of turbulence parameters. In this paper, we connect this well-established shape of the mixing coefficient curve to the underlying physics of stably stratified turbulence as a function of the turbulent Froude number.
-
-[Phys. Rev. Fluids 7, 084801] Published Fri Aug 12, 2022]]></summary>
-        <author>
-            <name>Young R. Yi and Jeffrey R. Koseff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms for Spontaneous Symmetry Breaking in Developing Visual Cortex]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.031024</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.031024"/>
-        <updated>2022-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Francesco Fumarola, Bettina Hein, and Kenneth D. Miller
-Scientists may have answered a longstanding question in biophysics: how the brain learns to recognize features in images before a newborn even opens its eyes.
-
-[Phys. Rev. X 12, 031024] Published Thu Aug 11, 2022]]></summary>
-        <author>
-            <name>Francesco Fumarola, Bettina Hein, and Kenneth D. Miller</name>
         </author>
     </entry>
 </feed>

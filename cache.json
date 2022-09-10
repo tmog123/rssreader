@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.111102",
+          "author": "Roberto Cotesta, Gregorio Carullo, Emanuele Berti, and Vitor Cardoso",
+          "description": "Author(s): Roberto Cotesta, Gregorio Carullo, Emanuele Berti, and Vitor Cardoso\nA new analysis questions whether researchers found so-called overtones in the first detected gravitational-wave signal from a black hole merger.\n\n[Phys. Rev. Lett. 129, 111102] Published Fri Sep 09, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.111102",
+          "publishedOn": "2022-09-09T10:00:00.000Z",
+          "wordCount": 1143,
+          "title": "Analysis of Ringdown Overtones in GW150914",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.111102.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.116804",
+          "author": "Nisarga Paul, Philip J. D. Crowley, Trithep Devakul, and Liang Fu",
+          "description": "Author(s): Nisarga Paul, Philip J. D. Crowley, Trithep Devakul, and Liang Fu\nUniversal conditions under which electrons of generic dispersion in a moiré superlattice and magnetic field realize perfectly flat Chern bands have been identified.\n\n[Phys. Rev. Lett. 129, 116804] Published Fri Sep 09, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.116804",
+          "publishedOn": "2022-09-09T10:00:00.000Z",
+          "wordCount": 1019,
+          "title": "Moiré Landau Fans and Magic Zeros",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.116804.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.117801",
+          "author": "Vitaly P. Panov, Jiseon Yang, L. K. Migara, Hyun-Jin Yoon, and Jang-Kun Song",
+          "description": "Author(s): Vitaly P. Panov, Jiseon Yang, L. K. Migara, Hyun-Jin Yoon, and Jang-Kun Song\nA liquid crystal can support traveling waves that demonstrate a new ability to control the molecules’ orientations.\n\n[Phys. Rev. Lett. 129, 117801] Published Fri Sep 09, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.117801",
+          "publishedOn": "2022-09-09T10:00:00.000Z",
+          "wordCount": 1332,
+          "title": "Rotation-Time Symmetry Breaking in Frustrated Chiral Nematic Driven by a Pulse-Train Waveform",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.117801.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.056007",
+          "author": "Andrea Cristofoli, Riccardo Gonzo, David A. Kosower, and Donal O’Connell",
+          "description": "Author(s): Andrea Cristofoli, Riccardo Gonzo, David A. Kosower, and Donal O’Connell\nWaveforms play an important role in the detection of gravitational-wave events from binary mergers. A useful formalism to deal with the two-body problem in gravity is to use quantum scattering amplitudes in a particular expansion and extract classical observables. As an extension to previous work, the authors incorporate massless bosonic particles in the initial states into the formalism and show that in the classical limit they emerge from coherent states due to their nature as superpositions of multiparticle states.\n\n[Phys. Rev. D 106, 056007] Published Fri Sep 09, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.056007",
+          "publishedOn": "2022-09-09T10:00:00.000Z",
+          "wordCount": 1050,
+          "title": "Waveforms from amplitudes",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.056007.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.104506",
+          "author": "Ethan Lake, Adarsh S. Patri, and T. Senthil",
+          "description": "Author(s): Ethan Lake, Adarsh S. Patri, and T. Senthil\nThe nature of the superconductor in twisted bilayer graphene has remained a mystery ever since its discovery. Microscopic theoretical approaches are difficult to control, and there has been no single decisive experiment able to completely fix the pairing symmetry. In spite of this, this work shows that by carefully drawing on information from a diverse array of existing experiments – and using some minimal and general input from theory – the nature of the pairing can be almost uniquely determined.\n\n[Phys. Rev. B 106, 104506] Published Fri Sep 09, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.104506",
+          "publishedOn": "2022-09-09T10:00:00.000Z",
+          "wordCount": 1466,
+          "title": "Pairing symmetry of twisted bilayer graphene: A phenomenological synthesis",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.104506.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.111101",
           "author": "H. Abdalla <em>et al.</em> (H.E.S.S. Collaboration)",
           "description": "Author(s): H. Abdalla et al. (H.E.S.S. Collaboration)\nA search for dark matter annihilation signals from a new gamma-ray survey of the Galactic Center sets new exclusion limits on the annihilation cross section.\n\n[Phys. Rev. Lett. 129, 111101] Published Thu Sep 08, 2022",
@@ -111,7 +161,7 @@
           "description": "Author(s): M. Checchin, D. Frolov, A. Lunin, A. Grassellino, and A. Romanenko\nEven though silicon is widely used in superconducting quantum processors as the substrate upon which qubits are fabricated, the effect of silicon on the performance of the qubits is not fully understood. Using ultrahigh-quality microwave cavities to measure dielectric loss with parts-per-billion precision, the authors clearly show that using silicon is detrimental to qubit coherence time. The loss tangent found here is an order of magnitude worse than previously measured. This study sheds light on the physical mechanisms behind dissipation in silicon, and highlights the need for further work to fully understand the origin of these losses, and how to mitigate them.\n\n[Phys. Rev. Applied 18, 034013] Published Wed Sep 07, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034013",
           "publishedOn": "2022-09-07T10:00:00.000Z",
-          "wordCount": 1177,
+          "wordCount": 1211,
           "title": "Measurement of the Low-Temperature Loss Tangent of High-Resistivity Silicon Using a High-$Q$ Superconducting Resonator",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034013.png"
         },
@@ -341,7 +391,7 @@
           "description": "Author(s): Shuaifeng Li, Liza M. Roger, Judith Klein-Seetharaman, Nastassja A. Lewinski, and Jinkyu Yang\nHuman activities threaten coral survival. A better understanding of the coral behaviors in response to environmental changes may lead to a rescue plan but remains challenging. The authors demonstrate quantitative features of coral motion—a key trait of coral polyps—through real-time microscopy on a fluidic platform, and discover the correlated fractional Brownian motion of coral polyps under different light and temperature conditions. Numerical analysis and theoretical modeling are performed to interpret the observed coral dynamics. This work provides systematic techniques to study coral polyp motions and advances our knowledge of their behavior under climate change.\n\n[Phys. Rev. Applied 18, 024078] Published Tue Aug 30, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024078",
           "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1708,
+          "wordCount": 1742,
           "title": "Spatiotemporal Dynamics of Coral Polyps on a Fluidic Platform",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024078.png"
         },
@@ -471,7 +521,7 @@
           "description": "Author(s): Vinay Tripathi, Huo Chen, Mostafa Khezri, Ka-Wa Yip, E.M. Levenson-Falk, and Daniel A. Lidar\nCrosstalk suppression is a key requirement for scalable implementations of fault-tolerant quantum computing, in particular using superconducting devices. This study demonstrates a simple, effective, and easily scalable scheme for dynamical decoupling to slash crosstalk. The scheme uses existing logic gates and does not require any additional calibrations or complexity. Apart from showing significant improvements in quantum memory experiments with multiqubit commercial processors, this approach also boosts the performance of single- and two-qubit gates. This method is suitable for immediate incorporation into both near-term NISQ and longer-term fault-tolerant systems.\n\n[Phys. Rev. Applied 18, 024068] Published Thu Aug 25, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024068",
           "publishedOn": "2022-08-25T10:00:00.000Z",
-          "wordCount": 2309,
+          "wordCount": 2343,
           "title": "Suppression of Crosstalk in Superconducting Qubits Using Dynamical Decoupling",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024068.png"
         },
@@ -481,7 +531,7 @@
           "description": "Author(s): Davide Giambastiani, Cosimo Tommasi, Federica Bianco, Filippo Fabbri, Camilla Coletti, Alessandro Tredicucci, Alessandro Pitanti, and Stefano Roddaro\nCorrugations strongly affect the electronic and optical properties of two-dimensional materials, and could be used to develop e.g. ultrathin pressure sensors, electronic waveguides, or hydrogen-storage devices. That requires fine control of the structure and geometry of the wrinkles, and thus a reliable and flexible method to generate them. This work shows how polymeric microactuators can be used to induce ordered arrays of wrinkles on graphene. Moreover, its proof-of-concept experiment demonstrates the potential of mechanical actuators to tune the corrugation of other two-dimensional materials as well.\n\n[Phys. Rev. Applied 18, 024069] Published Thu Aug 25, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024069",
           "publishedOn": "2022-08-25T10:00:00.000Z",
-          "wordCount": 1538,
+          "wordCount": 1514,
           "title": "Strain-Engineered Wrinkles on Graphene Using Polymeric Actuators",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024069.png"
         },
@@ -641,7 +691,7 @@
           "description": "Author(s): Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella\nNoncollinear antiferromagnets (AFMs) with topological electronic properties attract great interest, as they allow for all-electrical readout and manipulation of AFM order. The mechanisms and timescales to reverse AFM order are not known, though. In this study of current-driven switching of chiral AFM order in the classic Weyl semimetal Mn3Sn, time-resolved measurements show that switching is incoherent and occurs over several nanoseconds, owing to self-heating and then cooling of AFM domains in the presence of a Pt overlayer. These results unravel the spin dynamics of chiral AFMs and highlight the possibility of multilevel switching based on the temporal profile of current pulses.\n\n[Phys. Rev. Applied 18, 024064] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1190,
+          "wordCount": 1156,
           "title": "Time-Dependent Multistate Switching of Topological Antiferromagnetic Order in ${\\mathrm{Mn}}_{3}\\mathrm{Sn}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024064.png"
         },
@@ -681,7 +731,7 @@
           "description": "Author(s): Wenjun Wen, Zhiyu Chen, Liangliang Lu, Wenhan Yan, Wenyi Xue, Peiyu Zhang, Yanqing Lu, Shining Zhu, and Xiao-song Ma\nFully connected quantum networks have been realized with bulk nonlinear crystals and passive filters, but this traditional optical platform limits a network’s scalability in terms of photon-pair number and brightness, compatibility with quantum memory, and cost effectiveness. The authors address all of those challenges by employing an integrated SiN microring resonator to generate energy-time-entangled quantum frequency microcombs with a wide frequency span and narrow bandwidth modes. Photon pairs are selected and distributed to form a fully and simultaneously connected multiuser quantum network, paving the way to turnkey solutions for large entanglement-based quantum networks.\n\n[Phys. Rev. Applied 18, 024059] Published Mon Aug 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024059",
           "publishedOn": "2022-08-22T10:00:00.000Z",
-          "wordCount": 1509,
+          "wordCount": 1533,
           "title": "Realizing an Entanglement-Based Multiuser Quantum Network with Integrated Photonics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024059.png"
         },
@@ -711,7 +761,7 @@
           "description": "Author(s): Marko Šimić, Doris Auer, Christian Neuper, Nikola Šimić, Gerhard Prossliner, Ruth Prassl, Christian Hill, and Ulrich Hohenester\nA novel method for measuring nanoparticle size could have applications in industry and basic materials science research.\n\n[Phys. Rev. Applied 18, 024056] Published Fri Aug 19, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024056",
           "publishedOn": "2022-08-19T10:00:00.000Z",
-          "wordCount": 1647,
+          "wordCount": 1681,
           "title": "Real-Time Nanoparticle Characterization Through Optofluidic Force Induction",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024056.png"
         },
@@ -851,7 +901,7 @@
           "description": "Author(s): Yuchen Ma and W. R. Peltier\nThe thermohaline staircase structure, which is characterized by a series of remarkably homogeneous layers of temperature and salinity separated by sharp interfaces, widely exists in the Arctic Ocean’s main thermocline. In our most recent work (Ma and Peltier (2022), JFM), we have proposed a stratified turbulence-based theory to describe the formation mechanism of the staircase structure. In this work, we test the effectiveness of such theory using a series of body-forced direct numerical simulations. We show that the staircase structure spontaneously forms in our simulations in a way that is consistent with our theoretical predictions.\n\n[Phys. Rev. Fluids 7, 083801] Published Tue Aug 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.083801",
           "publishedOn": "2022-08-16T10:00:00.000Z",
-          "wordCount": 1603,
+          "wordCount": 1545,
           "title": "Thermohaline-turbulence instability and thermohaline staircase formation in the polar oceans",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.083801.png"
         },
@@ -891,7 +941,7 @@
           "description": "Author(s): Philippe Bourrianne, Paul R. Kaneelil, Manouk Abkarian, and Howard A. Stone\nIn an unlikely collaboration, physicists and professional musicians studied how to limit COVID-19’s spread during operatic performances. Hint, it involves instruments wearing masks.\n\n[Phys. Rev. Applied 18, 024042] Published Tue Aug 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024042",
           "publishedOn": "2022-08-16T10:00:00.000Z",
-          "wordCount": 1845,
+          "wordCount": 1903,
           "title": "Air Flows in Opera",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024042.png"
         },
@@ -954,56 +1004,6 @@
           "wordCount": 1701,
           "title": "Adiabatic paths of Hamiltonians, symmetries of topological order, and automorphism codes",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.085122.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L081112",
-          "author": "Osakpolor Eki Obakpolor and Pavan Hosur",
-          "description": "Author(s): Osakpolor Eki Obakpolor and Pavan Hosur\nWeyl semimetals famously host a surface topological metal containing open Fermi arcs instead of closed Fermi surfaces. Here, the authors predict another surface feature, Luttinger arcs, that form closed loops with the Fermi arcs in undoped Weyl semimetals. Luttinger arcs are common, albeit experimentally inaccessible, for strongly interacting electrons. Here, they occur even without interactions and switch places with Fermi arcs for different surface terminations – a property the authors exploit to pinpoint Luttinger arcs for Co and Sn terminations in Co3Sn2S2.\n\n[Phys. Rev. B 106, L081112] Published Mon Aug 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L081112",
-          "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 1130,
-          "title": "Surface Luttinger arcs in Weyl semimetals",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L081112.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L081405",
-          "author": "Christopher Trainer, Olivia R. Armitage, Harry Lane, Luke C. Rhodes, Edmond Chan, Izidor Benedičič, J. A. Rodriguez-Rivera, O. Fabelo, Chris Stock, and Peter Wahl",
-          "description": "Author(s): Christopher Trainer, Olivia R. Armitage, Harry Lane, Luke C. Rhodes, Edmond Chan, Izidor Benedičič, J. A. Rodriguez-Rivera, O. Fabelo, Chris Stock, and Peter Wahl\nInformation about the magnetic properties of van der Waals ferromagnets comes so far largely from macroscopic techniques, with much less being known about the magnetism at the microscopic level. By comparing atomic-scale imaging of domain walls at the surface of the van der Waals ferromagnet Fe3−xGeTe2 with inelastic neutron scattering measurements of the magnon dispersion in the bulk, the authors elucidate here the interplay between the bulk and surface magnetism and image the low-energy electronic structure.\n\n[Phys. Rev. B 106, L081405] Published Mon Aug 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L081405",
-          "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 1888,
-          "title": "Relating spin-polarized STM imaging and inelastic neutron scattering in the van der Waals ferromagnet ${\\mathrm{Fe}}_{3}{\\mathrm{GeTe}}_{2}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L081405.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.L032024",
-          "author": "Ying Su, Heqiu Li, Chuanwei Zhang, Kai Sun, and Shi-Zeng Lin",
-          "description": "Author(s): Ying Su, Heqiu Li, Chuanwei Zhang, Kai Sun, and Shi-Zeng Lin\nA general model to realize topological flat minibands by considering massive Dirac fermions confined in a periodic potential can be realized in various moiré systems and survive to arbitrarily large Dirac band gap.\n\n[Phys. Rev. Research 4, L032024] Published Fri Aug 12, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.L032024",
-          "publishedOn": "2022-08-12T10:00:00.000Z",
-          "wordCount": 1233,
-          "title": "Massive Dirac fermions in moiré superlattices: A route towards topological flat minibands and correlated topological insulators",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.L032024.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.084801",
-          "author": "Young R. Yi and Jeffrey R. Koseff",
-          "description": "Author(s): Young R. Yi and Jeffrey R. Koseff\nGlobal and regional ocean simulations rely on eddy viscosities and diffusivities to account for irreversible mixing of momentum and scalars due to unresolved scales of motion. These closures are often sensitive to the values of the mixing coefficient, whose shape has been well characterized in terms of turbulence parameters. In this paper, we connect this well-established shape of the mixing coefficient curve to the underlying physics of stably stratified turbulence as a function of the turbulent Froude number.\n\n[Phys. Rev. Fluids 7, 084801] Published Fri Aug 12, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.084801",
-          "publishedOn": "2022-08-12T10:00:00.000Z",
-          "wordCount": 1299,
-          "title": "Dynamics and energetics underlying mixing efficiency in homogeneous stably stratified turbulence",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.084801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.031024",
-          "author": "Francesco Fumarola, Bettina Hein, and Kenneth D. Miller",
-          "description": "Author(s): Francesco Fumarola, Bettina Hein, and Kenneth D. Miller\nScientists may have answered a longstanding question in biophysics: how the brain learns to recognize features in images before a newborn even opens its eyes.\n\n[Phys. Rev. X 12, 031024] Published Thu Aug 11, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.031024",
-          "publishedOn": "2022-08-11T10:00:00.000Z",
-          "wordCount": 2820,
-          "title": "Mechanisms for Spontaneous Symmetry Breaking in Developing Visual Cortex",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.031024.png"
         }
       ]
     }
