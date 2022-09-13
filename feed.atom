@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T01:15:55.265Z</id>
+    <id>urn:2022-09-13T01:15:23.199Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-12T01:15:55.265Z</updated>
+    <updated>2022-09-13T01:15:23.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nanoscale Magnetism Probed in a Matter-Wave Interferometer]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.123001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.123001"/>
+        <updated>2022-09-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yaakov Y. Fein, Sebastian Pedalino, Armin Shayeghi, Filip Kiałka, Stefan Gerlich, and Markus Arndt
+A matter-wave interferometer can probe the magnetism of a broad range of species, from single atoms to very large, weakly magnetic molecules.
+
+[Phys. Rev. Lett. 129, 123001] Published Mon Sep 12, 2022]]></summary>
+        <author>
+            <name>Yaakov Y. Fein, Sebastian Pedalino, Armin Shayeghi, Filip Kiałka, Stefan Gerlich, and Markus Arndt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free rising skirt bubbles]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601"/>
+        <updated>2022-09-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Dominique Legendre
+Direct numerical simulation of a rising skirt bubble reveals for the first time two toroidal vortices in the wake (left) as well as vorticity concentrated inside the skirt film (right).
+
+[Phys. Rev. Fluids 7, 093601] Published Mon Sep 12, 2022]]></summary>
+        <author>
+            <name>Dominique Legendre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinetic field theory: Higher-order perturbation theory]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.063513</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.063513"/>
+        <updated>2022-09-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra
+The authors develop a perturbative approach to cosmic structure formation based on Feynman diagrams in close analogy to quantum field theory. This is based on a previously developed path integral formulation for classical systems (Kinetic Field Theory) that includes averaging over probability distributions of initial conditions.
+
+[Phys. Rev. D 106, 063513] Published Mon Sep 12, 2022]]></summary>
+        <author>
+            <name>Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analysis of Ringdown Overtones in GW150914]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.111102</id>
@@ -1266,45 +1305,6 @@ The authors provide innovative approaches to improve numerical stability in simu
 [Phys. Rev. D 106, 043522] Published Mon Aug 15, 2022]]></summary>
         <author>
             <name>Mary Gerhardinger, John T. Giblin, Jr., Andrew J. Tolley, and Mark Trodden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capacitive probing of electronic phase separation in an oxide two-dimensional electron system]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.054205</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.054205"/>
-        <updated>2022-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sander Smink, Hans Boschker, Alexander Brinkman, Jochen Mannhart, and Hans Hilgenkamp
-Electronic phase separation strongly affects the rich phenomenology of two-dimensional electron systems in complex oxides, but its origins and magnitude are not fully understood. Here, the authors use capacitance measurements to quantify the lateral variation of the carrier density associated with EPS at the LaAlO3/SrTiO3 interface. The very high value of several 1013 cm−2 and the pattern of capacitance variation imply that charged defects are the main factor causing phase separation. Measurements of the full superconducting dome show that phase separation suppresses global Tc, especially at low nominal carrier density.
-
-[Phys. Rev. B 106, 054205] Published Mon Aug 15, 2022]]></summary>
-        <author>
-            <name>Sander Smink, Hans Boschker, Alexander Brinkman, Jochen Mannhart, and Hans Hilgenkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surface critical properties of the three-dimensional clock model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.064420</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.064420"/>
-        <updated>2022-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xuan Zou, Shuo Liu, and Wenan Guo
-Surface effects are significant at the bulk critical point due to divergence of the correlation length. Recently, a novel extraordinary-log surface critical behavior was proposed in a 3D O(N) model. Here, the authors study the surface properties of the 3D q-state clock model, where the Zq anisotropy is a prototype of dangerously irrelevant perturbation. They identify the existence of an extraordinary-log phase between ordinary and extraordinary phases at the bulk critical point as the consequence of the emergent O(2) symmetry.
-
-[Phys. Rev. B 106, 064420] Published Mon Aug 15, 2022]]></summary>
-        <author>
-            <name>Xuan Zou, Shuo Liu, and Wenan Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adiabatic paths of Hamiltonians, symmetries of topological order, and automorphism codes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.085122</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.085122"/>
-        <updated>2022-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): David Aasen, Zhenghan Wang, and Matthew B. Hastings
-The recently developed “honeycomb code,” an example of a Floquet code, is a new type of fault-tolerant quantum memory distinguished by its dynamically generated logical qubits. In this work, the authors present a general framework to understand the honeycomb code by employing adiabatic paths of gapped Hamiltonians. The topology of the space of gapped Hamiltonians in two dimensions is examined, and the first few homotopy groups are conjectured, supported by several examples. Finally, the authors use this framework to design a new Floquet code, “the em-automorphism code.”
-
-[Phys. Rev. B 106, 085122] Published Mon Aug 15, 2022]]></summary>
-        <author>
-            <name>David Aasen, Zhenghan Wang, and Matthew B. Hastings</name>
         </author>
     </entry>
 </feed>

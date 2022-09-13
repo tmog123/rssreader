@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.123001",
+          "author": "Yaakov Y. Fein, Sebastian Pedalino, Armin Shayeghi, Filip Kiałka, Stefan Gerlich, and Markus Arndt",
+          "description": "Author(s): Yaakov Y. Fein, Sebastian Pedalino, Armin Shayeghi, Filip Kiałka, Stefan Gerlich, and Markus Arndt\nA matter-wave interferometer can probe the magnetism of a broad range of species, from single atoms to very large, weakly magnetic molecules.\n\n[Phys. Rev. Lett. 129, 123001] Published Mon Sep 12, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.123001",
+          "publishedOn": "2022-09-12T10:00:00.000Z",
+          "wordCount": 1341,
+          "title": "Nanoscale Magnetism Probed in a Matter-Wave Interferometer",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.123001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601",
+          "author": "Dominique Legendre",
+          "description": "Author(s): Dominique Legendre\nDirect numerical simulation of a rising skirt bubble reveals for the first time two toroidal vortices in the wake (left) as well as vorticity concentrated inside the skirt film (right).\n\n[Phys. Rev. Fluids 7, 093601] Published Mon Sep 12, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601",
+          "publishedOn": "2022-09-12T10:00:00.000Z",
+          "wordCount": 2021,
+          "title": "Free rising skirt bubbles",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.093601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.063513",
+          "author": "Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra",
+          "description": "Author(s): Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra\nThe authors develop a perturbative approach to cosmic structure formation based on Feynman diagrams in close analogy to quantum field theory. This is based on a previously developed path integral formulation for classical systems (Kinetic Field Theory) that includes averaging over probability distributions of initial conditions.\n\n[Phys. Rev. D 106, 063513] Published Mon Sep 12, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.063513",
+          "publishedOn": "2022-09-12T10:00:00.000Z",
+          "wordCount": 1247,
+          "title": "Kinetic field theory: Higher-order perturbation theory",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.063513.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.111102",
           "author": "Roberto Cotesta, Gregorio Carullo, Emanuele Berti, and Vitor Cardoso",
           "description": "Author(s): Roberto Cotesta, Gregorio Carullo, Emanuele Berti, and Vitor Cardoso\nA new analysis questions whether researchers found so-called overtones in the first detected gravitational-wave signal from a black hole merger.\n\n[Phys. Rev. Lett. 129, 111102] Published Fri Sep 09, 2022",
@@ -101,7 +131,7 @@
           "description": "Author(s): Yash Shah and Serhiy Yarusevych\nPolymer injection in trip-wire induced laminar-to-turbulent transition regions in flat-plate boundary layers is studied experimentally. It is shown that the transition process which is initiated by the amplification of perturbations in a separated shear layer downstream of the trip wire is accelerated by the injection of polymer leading to an earlier breakdown to turbulence. However, significant levels of polymer induced drag reduction are noted in the mid-to-late transitioning regions highlighting a critical shear stress based onset criteria for activation of drag reduction.\n\n[Phys. Rev. Fluids 7, 093901] Published Thu Sep 08, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.093901",
           "publishedOn": "2022-09-08T10:00:00.000Z",
-          "wordCount": 1801,
+          "wordCount": 1743,
           "title": "Effect of polymer injection on the development of a trip-wire-induced bypass transitioning boundary layer",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.093901.png"
         },
@@ -161,7 +191,7 @@
           "description": "Author(s): M. Checchin, D. Frolov, A. Lunin, A. Grassellino, and A. Romanenko\nEven though silicon is widely used in superconducting quantum processors as the substrate upon which qubits are fabricated, the effect of silicon on the performance of the qubits is not fully understood. Using ultrahigh-quality microwave cavities to measure dielectric loss with parts-per-billion precision, the authors clearly show that using silicon is detrimental to qubit coherence time. The loss tangent found here is an order of magnitude worse than previously measured. This study sheds light on the physical mechanisms behind dissipation in silicon, and highlights the need for further work to fully understand the origin of these losses, and how to mitigate them.\n\n[Phys. Rev. Applied 18, 034013] Published Wed Sep 07, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034013",
           "publishedOn": "2022-09-07T10:00:00.000Z",
-          "wordCount": 1177,
+          "wordCount": 1153,
           "title": "Measurement of the Low-Temperature Loss Tangent of High-Resistivity Silicon Using a High-$Q$ Superconducting Resonator",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034013.png"
         },
@@ -391,7 +421,7 @@
           "description": "Author(s): Shuaifeng Li, Liza M. Roger, Judith Klein-Seetharaman, Nastassja A. Lewinski, and Jinkyu Yang\nHuman activities threaten coral survival. A better understanding of the coral behaviors in response to environmental changes may lead to a rescue plan but remains challenging. The authors demonstrate quantitative features of coral motion—a key trait of coral polyps—through real-time microscopy on a fluidic platform, and discover the correlated fractional Brownian motion of coral polyps under different light and temperature conditions. Numerical analysis and theoretical modeling are performed to interpret the observed coral dynamics. This work provides systematic techniques to study coral polyp motions and advances our knowledge of their behavior under climate change.\n\n[Phys. Rev. Applied 18, 024078] Published Tue Aug 30, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024078",
           "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1684,
+          "wordCount": 1742,
           "title": "Spatiotemporal Dynamics of Coral Polyps on a Fluidic Platform",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024078.png"
         },
@@ -531,7 +561,7 @@
           "description": "Author(s): Davide Giambastiani, Cosimo Tommasi, Federica Bianco, Filippo Fabbri, Camilla Coletti, Alessandro Tredicucci, Alessandro Pitanti, and Stefano Roddaro\nCorrugations strongly affect the electronic and optical properties of two-dimensional materials, and could be used to develop e.g. ultrathin pressure sensors, electronic waveguides, or hydrogen-storage devices. That requires fine control of the structure and geometry of the wrinkles, and thus a reliable and flexible method to generate them. This work shows how polymeric microactuators can be used to induce ordered arrays of wrinkles on graphene. Moreover, its proof-of-concept experiment demonstrates the potential of mechanical actuators to tune the corrugation of other two-dimensional materials as well.\n\n[Phys. Rev. Applied 18, 024069] Published Thu Aug 25, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024069",
           "publishedOn": "2022-08-25T10:00:00.000Z",
-          "wordCount": 1514,
+          "wordCount": 1572,
           "title": "Strain-Engineered Wrinkles on Graphene Using Polymeric Actuators",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024069.png"
         },
@@ -571,7 +601,7 @@
           "description": "Author(s): Sebastian Dehe, Maximilian Hartmann, Aditya Bandopadhyay, and Steffen Hardt\nWe present an experimental study of the electrostatic Faraday instability at the interface between a dielectric and a conducting liquid. We study the response of the interface to an ac electric field, which is superposed by either a second ac field of different frequency, or by a dc field. An important control parameter is the mixing ratio, which denotes the relative amplitudes of the different components of the driving signal. For ac/ac driving, gradual variations of the mixing ratio can induce a jump of the pattern wavelength, and for ac/dc driving, the response wavelength can be tuned continuously by adjusting the mixing ratio.\n\n[Phys. Rev. Fluids 7, L082002] Published Wed Aug 24, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082002",
           "publishedOn": "2022-08-24T10:00:00.000Z",
-          "wordCount": 1204,
+          "wordCount": 1146,
           "title": "Controlling the electrostatic Faraday instability using superposed electric fields",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L082002.png"
         },
@@ -681,7 +711,7 @@
           "description": "Author(s): M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen\nGeneration of quantum resources like entanglement is pivotal for quantum technology. This work uses superconducting Josephson metamaterials to generate color-entangled photons from vacuum fluctuations at a high rate, showing the presented system to be a superb microwave entanglement generator with remarkable bandwidth. Successful squeezing of the light is also demonstrated. These results are quite promising for quantum computing, sensing, and communication with superconducting devices.\n\n[Phys. Rev. Applied 18, 024063] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1726,
+          "wordCount": 1760,
           "title": "Broadband Continuous-Variable Entanglement Generation Using a Kerr-Free Josephson Metamaterial",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024063.png"
         },
@@ -691,7 +721,7 @@
           "description": "Author(s): Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella\nNoncollinear antiferromagnets (AFMs) with topological electronic properties attract great interest, as they allow for all-electrical readout and manipulation of AFM order. The mechanisms and timescales to reverse AFM order are not known, though. In this study of current-driven switching of chiral AFM order in the classic Weyl semimetal Mn3Sn, time-resolved measurements show that switching is incoherent and occurs over several nanoseconds, owing to self-heating and then cooling of AFM domains in the presence of a Pt overlayer. These results unravel the spin dynamics of chiral AFMs and highlight the possibility of multilevel switching based on the temporal profile of current pulses.\n\n[Phys. Rev. Applied 18, 024064] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1190,
+          "wordCount": 1156,
           "title": "Time-Dependent Multistate Switching of Topological Antiferromagnetic Order in ${\\mathrm{Mn}}_{3}\\mathrm{Sn}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024064.png"
         },
@@ -731,7 +761,7 @@
           "description": "Author(s): Wenjun Wen, Zhiyu Chen, Liangliang Lu, Wenhan Yan, Wenyi Xue, Peiyu Zhang, Yanqing Lu, Shining Zhu, and Xiao-song Ma\nFully connected quantum networks have been realized with bulk nonlinear crystals and passive filters, but this traditional optical platform limits a network’s scalability in terms of photon-pair number and brightness, compatibility with quantum memory, and cost effectiveness. The authors address all of those challenges by employing an integrated SiN microring resonator to generate energy-time-entangled quantum frequency microcombs with a wide frequency span and narrow bandwidth modes. Photon pairs are selected and distributed to form a fully and simultaneously connected multiuser quantum network, paving the way to turnkey solutions for large entanglement-based quantum networks.\n\n[Phys. Rev. Applied 18, 024059] Published Mon Aug 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024059",
           "publishedOn": "2022-08-22T10:00:00.000Z",
-          "wordCount": 1509,
+          "wordCount": 1567,
           "title": "Realizing an Entanglement-Based Multiuser Quantum Network with Integrated Photonics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024059.png"
         },
@@ -761,7 +791,7 @@
           "description": "Author(s): Marko Šimić, Doris Auer, Christian Neuper, Nikola Šimić, Gerhard Prossliner, Ruth Prassl, Christian Hill, and Ulrich Hohenester\nA novel method for measuring nanoparticle size could have applications in industry and basic materials science research.\n\n[Phys. Rev. Applied 18, 024056] Published Fri Aug 19, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024056",
           "publishedOn": "2022-08-19T10:00:00.000Z",
-          "wordCount": 1681,
+          "wordCount": 1647,
           "title": "Real-Time Nanoparticle Characterization Through Optofluidic Force Induction",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024056.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 1510,
           "title": "Well-posed UV completion for simulating scalar Galileons",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.043522.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.054205",
-          "author": "Sander Smink, Hans Boschker, Alexander Brinkman, Jochen Mannhart, and Hans Hilgenkamp",
-          "description": "Author(s): Sander Smink, Hans Boschker, Alexander Brinkman, Jochen Mannhart, and Hans Hilgenkamp\nElectronic phase separation strongly affects the rich phenomenology of two-dimensional electron systems in complex oxides, but its origins and magnitude are not fully understood. Here, the authors use capacitance measurements to quantify the lateral variation of the carrier density associated with EPS at the LaAlO3/SrTiO3 interface. The very high value of several 1013 cm−2 and the pattern of capacitance variation imply that charged defects are the main factor causing phase separation. Measurements of the full superconducting dome show that phase separation suppresses global Tc, especially at low nominal carrier density.\n\n[Phys. Rev. B 106, 054205] Published Mon Aug 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.054205",
-          "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 1671,
-          "title": "Capacitive probing of electronic phase separation in an oxide two-dimensional electron system",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.054205.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.064420",
-          "author": "Xuan Zou, Shuo Liu, and Wenan Guo",
-          "description": "Author(s): Xuan Zou, Shuo Liu, and Wenan Guo\nSurface effects are significant at the bulk critical point due to divergence of the correlation length. Recently, a novel extraordinary-log surface critical behavior was proposed in a 3D O(N) model. Here, the authors study the surface properties of the 3D q-state clock model, where the Zq anisotropy is a prototype of dangerously irrelevant perturbation. They identify the existence of an extraordinary-log phase between ordinary and extraordinary phases at the bulk critical point as the consequence of the emergent O(2) symmetry.\n\n[Phys. Rev. B 106, 064420] Published Mon Aug 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.064420",
-          "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 1123,
-          "title": "Surface critical properties of the three-dimensional clock model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.064420.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.085122",
-          "author": "David Aasen, Zhenghan Wang, and Matthew B. Hastings",
-          "description": "Author(s): David Aasen, Zhenghan Wang, and Matthew B. Hastings\nThe recently developed “honeycomb code,” an example of a Floquet code, is a new type of fault-tolerant quantum memory distinguished by its dynamically generated logical qubits. In this work, the authors present a general framework to understand the honeycomb code by employing adiabatic paths of gapped Hamiltonians. The topology of the space of gapped Hamiltonians in two dimensions is examined, and the first few homotopy groups are conjectured, supported by several examples. Finally, the authors use this framework to design a new Floquet code, “the em-automorphism code.”\n\n[Phys. Rev. B 106, 085122] Published Mon Aug 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.085122",
-          "publishedOn": "2022-08-15T10:00:00.000Z",
-          "wordCount": 1701,
-          "title": "Adiabatic paths of Hamiltonians, symmetries of topological order, and automorphism codes",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.085122.png"
         }
       ]
     }
