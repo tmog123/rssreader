@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-15T01:18:52.914Z</id>
+    <id>urn:2022-09-16T01:20:37.614Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-15T01:18:52.914Z</updated>
+    <updated>2022-09-16T01:20:37.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Topological Order, Quantum Codes, and Quantum Computation on Fractal Geometries]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.030338</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.3.030338"/>
+        <updated>2022-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Guanyu Zhu, Tomas Jochym-O’Connor, and Arpit Dua
+A thorough investigation of topological order on fractal geometries and exotic gapped boundaries in 3D is performed, uncovering valuable applications in fault-tolerant quantum computation and mathematical contributions to systolic geometry on fractals.
+
+[PRX Quantum 3, 030338] Published Thu Sep 15, 2022]]></summary>
+        <author>
+            <name>Guanyu Zhu, Tomas Jochym-O’Connor, and Arpit Dua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perturbative Quantum Simulation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.120505</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.120505"/>
+        <updated>2022-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jinzhao Sun, Suguru Endo, Huiping Lin, Patrick Hayden, Vlatko Vedral, and Xiao Yuan
+In this protocol, the main component of the Hamiltonian is simulated on a quantum computer, and classical perturbation theory is used to approximate interactions.
+
+[Phys. Rev. Lett. 129, 120505] Published Thu Sep 15, 2022]]></summary>
+        <author>
+            <name>Jinzhao Sun, Suguru Endo, Huiping Lin, Patrick Hayden, Vlatko Vedral, and Xiao Yuan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineering Symmetry-Selective Couplings of a Superconducting Artificial Molecule to Microwave Waveguides]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.123604</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.123604"/>
+        <updated>2022-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mohammed Ali Aamir, Claudia Castillo Moreno, Simon Sundelin, Janka Biznárová, Marco Scigliuzzo, Kowshik Erappaji Patel, Amr Osman, D. P. Lozano, Ingrid Strandberg, and Simone Gasparinetti
+Considering symmetry in waveguide couplings to transmon qubits, quasiselection rules are implemented in superconducting quantum optics.
+
+[Phys. Rev. Lett. 129, 123604] Published Thu Sep 15, 2022]]></summary>
+        <author>
+            <name>Mohammed Ali Aamir, Claudia Castillo Moreno, Simon Sundelin, Janka Biznárová, Marco Scigliuzzo, Kowshik Erappaji Patel, Amr Osman, D. P. Lozano, Ingrid Strandberg, and Simone Gasparinetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Direct measurement of the aerotactic response in a bacterial suspension]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.034404</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.034404"/>
+        <updated>2022-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. Bouvard, C. Douarche, P. Mergaert, H. Auradou, and F. Moisy
+Many bacteria have the ability to move towards sources of oxygen. The authors’ experiments show that for such motion the response to an oxygen gradient scales as a power law with the oxygen concentration, which is in good agreement with existing models based on the biochemistry of bacterial membrane receptors.
+
+[Phys. Rev. E 106, 034404] Published Thu Sep 15, 2022]]></summary>
+        <author>
+            <name>J. Bouvard, C. Douarche, P. Mergaert, H. Auradou, and F. Moisy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic angles in twisted bilayer graphene near commensuration: Towards a hypermagic regime]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.115418</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.115418"/>
+        <updated>2022-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Michael G. Scheer, Kaiyuan Gu, and Biao Lian
+The authors show here that twisted bilayer graphene near an arbitrary commensurate configuration is described by a generalization of the Bistritzer-MacDonald continuum model. They furthermore find magic angles near commensurate configurations that yield flat moiré bands. Additionally, they reveal a hypermagic parameter regime of this model in which numerous moiré bands become flat simultaneously. Some bands in this regime resemble those of kagome lattice or honeycomb lattice px, py tight-binding models, paving the way for future moiré realizations of such systems.
+
+[Phys. Rev. B 106, 115418] Published Thu Sep 15, 2022]]></summary>
+        <author>
+            <name>Michael G. Scheer, Kaiyuan Gu, and Biao Lian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double-Transmon Coupler: Fast Two-Qubit Gate with No Residual Coupling for Highly Detuned Superconducting Qubits]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.034038</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.034038"/>
+        <updated>2022-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hayato Goto
+Tunable couplers, which turn on and off the interaction between qubits, have emerged as a key means to achieve low error rates in superconducting quantum computers. Conventional devices using one transmon qubit exhibit unwanted residual coupling, though, especially at the high detuning that is desirable for suppressing crosstalk errors. To solve this critical problem, the author proposes a tunable coupler based on two transmons that satisfies the ideal conditions of no residual coupling and fast two-qubit gate operations at high detuning. This double-transmon coupler is expected to become standard for superconducting architectures by eliminating unwanted coupling during idle time.
+
+[Phys. Rev. Applied 18, 034038] Published Thu Sep 15, 2022]]></summary>
+        <author>
+            <name>Hayato Goto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compact Michelson Interferometers with Subpicometer Sensitivity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.034040</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.034040"/>
+        <updated>2022-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jiri Smetana, Rebecca Walters, Sophie Bauchinger, Amit Singh Ubhi, Sam Cooper, David Hoyland, Richard Abbott, Christoph Baune, Peter Fritchel, Oliver Gerberding, Semjon Köhnke, Haixing Miao, Sebastian Rode, and Denis Martynov
+A sensor containing thumbnail-sized interferometers might help astronomers detect gravitational waves emitted from certain black hole mergers.
+
+[Phys. Rev. Applied 18, 034040] Published Thu Sep 15, 2022]]></summary>
+        <author>
+            <name>Jiri Smetana, Rebecca Walters, Sophie Bauchinger, Amit Singh Ubhi, Sam Cooper, David Hoyland, Richard Abbott, Christoph Baune, Peter Fritchel, Oliver Gerberding, Semjon Köhnke, Haixing Miao, Sebastian Rode, and Denis Martynov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$MICROSCOPE$ Mission: Final Results of the Test of the Equivalence Principle]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.121102</id>
@@ -63,7 +154,7 @@ Semilocal density functional theory generally fails in stabilizing polarons, bec
         <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.125413"/>
         <updated>2022-09-14T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Anand Manaparambil, Andreas Weichselbaum, Jan von Delft, and Ireneusz Weymann
-Accurate quantitative calculation of nonequilibrium transport properties of nanoscale junctions, with exact treatment of all correlations, presents a formidable challenge. Here, the authors use a recently developed hybrid renormalization group thermofield quench approach to provide reliable predictions for spintronic transport through Kondo-correlated quantum dots and molecules coupled to ferromagnetic leads in far-from-equilibrium conditions. The work reveals the effects of competition between the electronic correlations giving rise to the Kondo phenomenon and the ferromagnetic-contact-induced exchange field, which acts as a local magnetic field controlled by the gate potential.
+The accurate quantitative description of the nonequilibrium transport in interacting nanoscale junctions presents a formidable challenge. Tensor network methods have entered the arena as a highly competitive, versatile, and well-controlled approach. Here, in particular, the authors use a recently developed hybrid renormalization group thermofield quench approach. With this, they obtain reliable predictions for spintronic transport through a Kondo-correlated quantum dot coupled to magnetic leads in far-from-equilibrium conditions. The work focuses on the effects of the induced exchange field. As a key result, they demonstrate that an additional external magnetic field can be utilized to achieve a full Kondo revival in an out-of-equilibrium setting.
 
 [Phys. Rev. B 106, 125413] Published Wed Sep 14, 2022]]></summary>
         <author>
@@ -1214,97 +1305,6 @@ Triple nodal points are threefold degeneracies of energy bands in momentum space
 [Phys. Rev. B 106, 085128] Published Thu Aug 18, 2022]]></summary>
         <author>
             <name>Patrick M. Lenggenhager, Xiaoxiong Liu, Titus Neupert, and Tomáš Bzdušek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observing the Influence of Reduced Dimensionality on Fermionic Superfluids]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.083601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.083601"/>
-        <updated>2022-08-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lennart Sobirey, Hauke Biss, Niclas Luick, Markus Bohlen, Henning Moritz, and Thomas Lompe
-Measurements of the excitation spectrum and superfluid gap of quasi-2D Fermi gases indicate that there is no inherent difference in the stability of two-dimensional and three-dimensional fermionic superfluids.
-
-[Phys. Rev. Lett. 129, 083601] Published Wed Aug 17, 2022]]></summary>
-        <author>
-            <name>Lennart Sobirey, Hauke Biss, Niclas Luick, Markus Bohlen, Henning Moritz, and Thomas Lompe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Realization of Weyl Exceptional Rings in a Synthetic Three-Dimensional Non-Hermitian Phononic Crystal]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.084301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.084301"/>
-        <updated>2022-08-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jing-jing Liu, Zheng-wei Li, Ze-Guo Chen, Weiyuan Tang, An Chen, Bin Liang, Guancong Ma, and Jian-Chun Cheng
-A synthetic Weyl exceptional ring is experimentally demonstrated in a 1D phononic crystal with non-Hermiticity introduced by active acoustic components.
-
-[Phys. Rev. Lett. 129, 084301] Published Wed Aug 17, 2022]]></summary>
-        <author>
-            <name>Jing-jing Liu, Zheng-wei Li, Ze-Guo Chen, Weiyuan Tang, An Chen, Bin Liang, Guancong Ma, and Jian-Chun Cheng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Hermitian Physics without Gain or Loss: The Skin Effect of Reflected Waves]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.086601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.086601"/>
-        <updated>2022-08-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Selma Franca, Viktor Könye, Fabian Hassler, Jeroen van den Brink, and Cosma Fulga
-Waves reflected from the boundaries of topological insulators exhibit phenomena usually associated with non-Hermitian systems.
-
-[Phys. Rev. Lett. 129, 086601] Published Wed Aug 17, 2022]]></summary>
-        <author>
-            <name>Selma Franca, Viktor Könye, Fabian Hassler, Jeroen van den Brink, and Cosma Fulga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imaging the Breakdown of Ohmic Transport in Graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.087701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.087701"/>
-        <updated>2022-08-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alec Jenkins, Susanne Baumann, Haoxin Zhou, Simon A. Meynell, Yang Daipeng, Kenji Watanabe, Takashi Taniguchi, Andrew Lucas, Andrea F. Young, and Ania C. Bleszynski Jayich
-A special microscope has visualized changes of electron current distribution that clearly indicate a transition from ohmic to viscous electron flow in graphene.
-
-[Phys. Rev. Lett. 129, 087701] Published Wed Aug 17, 2022]]></summary>
-        <author>
-            <name>Alec Jenkins, Susanne Baumann, Haoxin Zhou, Simon A. Meynell, Yang Daipeng, Kenji Watanabe, Takashi Taniguchi, Andrew Lucas, Andrea F. Young, and Ania C. Bleszynski Jayich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct Measurements of Surface Strain-Mediated Lateral Interactions between Adsorbates in Colloidal Heteroepitaxy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.088003</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.088003"/>
-        <updated>2022-08-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Manodeep Mondal and Rajesh Ganapathy
-By epitaxially growing films from colloids, researchers show that they can monitor interactions and behaviors of the particles that are difficult—and sometimes impossible—to capture for similar films grown from atoms.
-
-[Phys. Rev. Lett. 129, 088003] Published Wed Aug 17, 2022]]></summary>
-        <author>
-            <name>Manodeep Mondal and Rajesh Ganapathy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early dark sector, the Hubble tension, and the swampland]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.043525</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.043525"/>
-        <updated>2022-08-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Evan McDonough, Meng-Xiang Lin, J. Colin Hill, Wayne Hu, and Shengjia Zhou
-This work investigates the interplay of the Hubble tension, Early Dark Energy (EDE), and the swampland distance conjecture. The latter predicts a tower of light states for large field excursions, while EDE is a scalar field model to alleviate the Hubble tension which indeed requires Planckian field excursions, but also leads to tensions with large-scale structure (LSS) probes. The authors consider exponentially EDE-dependent masses of dark matter with the distance conjecture constant, which supposedly is a positive constant of O(1), as a free parameter. Using a large set of different catalogs of experiments, fitting also LSS data, a mild tension with the swampland distance conjecture is observed that constrains the constant to be significantly less than one. Modifications of the heuristic EDE potential may resolve this conflict.
-
-[Phys. Rev. D 106, 043525] Published Wed Aug 17, 2022]]></summary>
-        <author>
-            <name>Evan McDonough, Meng-Xiang Lin, J. Colin Hill, Wayne Hu, and Shengjia Zhou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exact Schur index in closed form]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.045017</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.045017"/>
-        <updated>2022-08-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yiwen Pan and Wolfger Peelaers
-The superconformal index encodes important information about the protected spectrum of a superconformal theory (SCFT), with the special case of the Schur Index counting objects with enhanced supersymmetry. The authors provide for the first time an explicit formula for this index for a large class of important SCFTs by integrating numerous (almost) elliptical integrals. This allows them to provide several applications like the computation of the index for non-Lagrangian theories through dualities, explicit properties of Vertex Operator Algebras, etc.
-
-[Phys. Rev. D 106, 045017] Published Wed Aug 17, 2022]]></summary>
-        <author>
-            <name>Yiwen Pan and Wolfger Peelaers</name>
         </author>
     </entry>
 </feed>
