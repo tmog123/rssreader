@@ -31,7 +31,7 @@
           "description": "Author(s): Yitong Fan, Weipeng Li, and Sergio Pirozzoli\nA new framework to quantitatively describe the energy exchange in high-speed turbulent flows is presented. The routes of energy exchange in hypersonic boundary-layer flows are highlighted and quantified, with special attention paid to effects of wall cooling. We expect that the present study can help the development of physics-informed models for compressible turbulence in the class of RANS (Reynolds-averaged Navier-Stokes) and LES (large-eddy-simulation), which currently heavily hinge on variable-density extrapolation of their incompressible counterparts.\n\n[Phys. Rev. Fluids 7, L092601] Published Fri Sep 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L092601",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 826,
+          "wordCount": 768,
           "title": "Energy exchanges in hypersonic flows",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L092601.png"
         },
@@ -61,7 +61,7 @@
           "description": "Author(s): Dotan Ilssar, Michael Pukshansky, Yizhar Or, and Amir D. Gat\nReconfigurable metamaterials have attracted significant attention due to their cross-disciplinary importance, with applications from deployable space structures to soft robots. These applications might benefit from high-dimensional stable deformations under minimal actuation, which known structures have not demonstrated. The authors present a comprehensive dynamical model and experiments based on pressurized strawlike elements, which are lattices of ungrounded unit cells with high-order multistability. These elements can maintain a myriad of complex stable configurations and exhibit complex dynamical transitions—properties that pave the way toward significant engineering advances.\n\n[Phys. Rev. Applied 18, 034041] Published Fri Sep 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034041",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 1470,
+          "wordCount": 1528,
           "title": "Dynamics of Reconfigurable Strawlike Elements",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034041.png"
         },
@@ -121,7 +121,7 @@
           "description": "Author(s): Hayato Goto\nTunable couplers, which turn on and off the interaction between qubits, have emerged as a key means to achieve low error rates in superconducting quantum computers. Conventional devices using one transmon qubit exhibit unwanted residual coupling, though, especially at the high detuning that is desirable for suppressing crosstalk errors. To solve this critical problem, the author proposes a tunable coupler based on two transmons that satisfies the ideal conditions of no residual coupling and fast two-qubit gate operations at high detuning. This double-transmon coupler is expected to become standard for superconducting architectures by eliminating unwanted coupling during idle time.\n\n[Phys. Rev. Applied 18, 034038] Published Thu Sep 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034038",
           "publishedOn": "2022-09-15T10:00:00.000Z",
-          "wordCount": 1290,
+          "wordCount": 1256,
           "title": "Double-Transmon Coupler: Fast Two-Qubit Gate with No Residual Coupling for Highly Detuned Superconducting Qubits",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034038.png"
         },
@@ -131,7 +131,7 @@
           "description": "Author(s): Jiri Smetana, Rebecca Walters, Sophie Bauchinger, Amit Singh Ubhi, Sam Cooper, David Hoyland, Richard Abbott, Christoph Baune, Peter Fritchel, Oliver Gerberding, Semjon Köhnke, Haixing Miao, Sebastian Rode, and Denis Martynov\nA sensor containing thumbnail-sized interferometers might help astronomers detect gravitational waves emitted from certain black hole mergers.\n\n[Phys. Rev. Applied 18, 034040] Published Thu Sep 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034040",
           "publishedOn": "2022-09-15T10:00:00.000Z",
-          "wordCount": 1230,
+          "wordCount": 1206,
           "title": "Compact Michelson Interferometers with Subpicometer Sensitivity",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034040.png"
         },
@@ -191,7 +191,7 @@
           "description": "Author(s): S.G. Robson, P. Räcke, A.M. Jakob, N. Collins, H.R. Firgau, V. Schmitt, V. Mourik, A. Morello, E. Mayes, D. Spemann, and D.N. Jamieson\nAlready a building block of modern life, silicon is also poised to power the next leap in information technology, in which the quantum mechanical properties of single impurities located just beneath its surface can be used to create vastly more powerful computers. Here a multinational team presents a specialized microscope to better understand the inner workings of such silicon chips, by scanning a finely focused beam of ultralow-energy ions across the surface. The tiny “click” that each ion makes when it hits the chip is detected and mapped, enabling the identification of manufacturing defects; these results can then be fed back to improve the fabrication process.\n\n[Phys. Rev. Applied 18, 034037] Published Wed Sep 14, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034037",
           "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 1692,
+          "wordCount": 1716,
           "title": "Near-Surface Electrical Characterization of Silicon Electronic Devices Using Focused keV-Range Ions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034037.png"
         },
@@ -211,7 +211,7 @@
           "description": "Author(s): Wladimir Sarlin, Cyprien Morize, Alban Sauret, and Philippe Gondret\nSudden large-scale geophysical flows such as cliff collapses, rockfalls, or massive landslides are known to be tsunamigenic and constitute a significant hazard for coastal populations and infrastructures. A key challenge is to be able to predict a priori the amplitude of the tsunami wave that would be engendered by a given cliff collapse. In this study, we introduce a comprehensive model of shallow water waves generated by the subaerial collapse of a granular column. The proposed model is able to capture the role of the geometry of the collapse as well as the water depth and is successfully compared to a large dataset of experiments.\n\n[Phys. Rev. Fluids 7, 094801] Published Tue Sep 13, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.094801",
           "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 1359,
+          "wordCount": 1417,
           "title": "From granular collapses to shallow water waves: A predictive model for tsunami generation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.094801.png"
         },
@@ -361,7 +361,7 @@
           "description": "Author(s): Yash Shah and Serhiy Yarusevych\nPolymer injection in trip-wire induced laminar-to-turbulent transition regions in flat-plate boundary layers is studied experimentally. It is shown that the transition process which is initiated by the amplification of perturbations in a separated shear layer downstream of the trip wire is accelerated by the injection of polymer leading to an earlier breakdown to turbulence. However, significant levels of polymer induced drag reduction are noted in the mid-to-late transitioning regions highlighting a critical shear stress based onset criteria for activation of drag reduction.\n\n[Phys. Rev. Fluids 7, 093901] Published Thu Sep 08, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.093901",
           "publishedOn": "2022-09-08T10:00:00.000Z",
-          "wordCount": 1743,
+          "wordCount": 1801,
           "title": "Effect of polymer injection on the development of a trip-wire-induced bypass transitioning boundary layer",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.093901.png"
         },
@@ -771,7 +771,7 @@
           "description": "Author(s): Gwenaelle Vest, Peter Freiwang, Jannik Luhn, Tobias Vogl, Markus Rau, Lukas Knips, Wenjamin Rosenfeld, and Harald Weinfurter\nLiving the revolution: Quantum key distribution over free-space channels offers a multitude of different application scenarios—provided it can be combined with conventional communication systems. This study presents a miniaturized sender module with all necessary optics fitting in the palm of a hand, and enabling quantum key exchange with a tracking receiver. Such rugged sender optics can facilitate many other use cases, e.g. by combining it with a free-space optical system in an urban area, or by using it aboard a microsatellite for global key exchange.\n\n[Phys. Rev. Applied 18, 024067] Published Thu Aug 25, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024067",
           "publishedOn": "2022-08-25T10:00:00.000Z",
-          "wordCount": 1542,
+          "wordCount": 1518,
           "title": "Quantum key Distribution with a Hand-Held Sender Unit",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024067.png"
         },
@@ -801,7 +801,7 @@
           "description": "Author(s): Aaron D. Kaplan and John P. Perdew\nModern meta-GGAs based on the local kinetic energy density can predict properties of diverse systems with near experimental accuracy, but unexpectedly describe properties of metallic solids poorly due to their underestimation of screening in metals. In this work, the authors replace the kinetic energy dependence of a sophisticated meta-GGA with an approximation based on the electronic density gradient and Laplacian. This Laplacian-level meta-GGA is tested on a diverse set of solid-state properties: geometries, cohesive energies, bulk moduli, ferromagnetic moments, monovacancy formation energies, and formation enthalpies. Most deficiencies of the parent meta-GGA in describing metals are remedied with its Laplacian-level variant.\n\n[Phys. Rev. Materials 6, 083803] Published Wed Aug 24, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.083803",
           "publishedOn": "2022-08-24T10:00:00.000Z",
-          "wordCount": 1394,
+          "wordCount": 1395,
           "title": "Laplacian-level meta-generalized gradient approximation for solid and liquid metals",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.083803.png"
         },
@@ -941,7 +941,7 @@
           "description": "Author(s): M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen\nGeneration of quantum resources like entanglement is pivotal for quantum technology. This work uses superconducting Josephson metamaterials to generate color-entangled photons from vacuum fluctuations at a high rate, showing the presented system to be a superb microwave entanglement generator with remarkable bandwidth. Successful squeezing of the light is also demonstrated. These results are quite promising for quantum computing, sensing, and communication with superconducting devices.\n\n[Phys. Rev. Applied 18, 024063] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1726,
+          "wordCount": 1760,
           "title": "Broadband Continuous-Variable Entanglement Generation Using a Kerr-Free Josephson Metamaterial",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024063.png"
         },
@@ -951,7 +951,7 @@
           "description": "Author(s): Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella\nNoncollinear antiferromagnets (AFMs) with topological electronic properties attract great interest, as they allow for all-electrical readout and manipulation of AFM order. The mechanisms and timescales to reverse AFM order are not known, though. In this study of current-driven switching of chiral AFM order in the classic Weyl semimetal Mn3Sn, time-resolved measurements show that switching is incoherent and occurs over several nanoseconds, owing to self-heating and then cooling of AFM domains in the presence of a Pt overlayer. These results unravel the spin dynamics of chiral AFMs and highlight the possibility of multilevel switching based on the temporal profile of current pulses.\n\n[Phys. Rev. Applied 18, 024064] Published Tue Aug 23, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064",
           "publishedOn": "2022-08-23T10:00:00.000Z",
-          "wordCount": 1156,
+          "wordCount": 1190,
           "title": "Time-Dependent Multistate Switching of Topological Antiferromagnetic Order in ${\\mathrm{Mn}}_{3}\\mathrm{Sn}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024064.png"
         },
@@ -991,7 +991,7 @@
           "description": "Author(s): Wenjun Wen, Zhiyu Chen, Liangliang Lu, Wenhan Yan, Wenyi Xue, Peiyu Zhang, Yanqing Lu, Shining Zhu, and Xiao-song Ma\nFully connected quantum networks have been realized with bulk nonlinear crystals and passive filters, but this traditional optical platform limits a network’s scalability in terms of photon-pair number and brightness, compatibility with quantum memory, and cost effectiveness. The authors address all of those challenges by employing an integrated SiN microring resonator to generate energy-time-entangled quantum frequency microcombs with a wide frequency span and narrow bandwidth modes. Photon pairs are selected and distributed to form a fully and simultaneously connected multiuser quantum network, paving the way to turnkey solutions for large entanglement-based quantum networks.\n\n[Phys. Rev. Applied 18, 024059] Published Mon Aug 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024059",
           "publishedOn": "2022-08-22T10:00:00.000Z",
-          "wordCount": 1509,
+          "wordCount": 1567,
           "title": "Realizing an Entanglement-Based Multiuser Quantum Network with Integrated Photonics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024059.png"
         },
