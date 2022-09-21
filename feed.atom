@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-20T01:15:50.640Z</id>
+    <id>urn:2022-09-21T01:18:19.905Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-20T01:15:50.640Z</updated>
+    <updated>2022-09-21T01:18:19.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Driven Disordered Systems Approach to Biological Evolution in Changing Environments]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.031040</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.031040"/>
+        <updated>2022-09-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Suman G. Das, Joachim Krug, and Muhittin Mungan
+A bacterial genome’s evolution under changing drug concentrations displays effects of memory formation and mimics how disordered solids respond to external forces.
+
+[Phys. Rev. X 12, 031040] Published Tue Sep 20, 2022]]></summary>
+        <author>
+            <name>Suman G. Das, Joachim Krug, and Muhittin Mungan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry Adaptation of Protrusion and Polarity Dynamics in Confined Cell Migration]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.031041</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.031041"/>
+        <updated>2022-09-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): David B. Brückner, Matthew Schmitt, Alexandra Fink, Georg Ladurner, Johannes Flommersfeld, Nicolas Arlt, Edouard Hannezo, Joachim O. Rädler, and Chase P. Broedersz
+Experiments demonstrate that biological cells actively change shape to respond to their surroundings when moving in confined regions.
+
+[Phys. Rev. X 12, 031041] Published Tue Sep 20, 2022]]></summary>
+        <author>
+            <name>David B. Brückner, Matthew Schmitt, Alexandra Fink, Georg Ladurner, Johannes Flommersfeld, Nicolas Arlt, Edouard Hannezo, Joachim O. Rädler, and Chase P. Broedersz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-medium $\mathrm{Λ}$ isospin impurity from charge symmetry breaking in the ${}_{\mathrm{Λ}}^{4}\mathrm{H}\text{−}{}_{\mathrm{Λ}}^{4}\mathrm{He}$ mirror hypernuclei]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.106.L031001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.106.L031001"/>
+        <updated>2022-09-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Schäfer, N. Barnea, and A. Gal
+Charge-symmetry breaking, or CSB, is a fundamental concept in nuclear physics. Adding a Λ hyperon, a sibling of the nucleon with a strange quark, to light nuclei promises new insights as its isospin impurity must impact CSB in mirror hypernuclei, where the only good data available are for A=4. The authors use an ansatz that relates the charge-symmetry-breaking ΛN interaction to the ΛN↔ΣN strong-interaction coupling via the small isospin-one admixture the Λ obtains from the Σ0, as both are members of an SU(3) baryon octet and have an u-d-s quark structure. Once the large CSB observed in mirror hypernuclei Λ4H and Λ4He is reproduced, the deduced isospin-one admixture of the Λ when inside these hypernuclei matches that in free space, provided SU(3) symmetry is partially conserved for these baryons. This approach can be tested in heavier hypernuclei when precise data for CSB become available.
+
+[Phys. Rev. C 106, L031001] Published Tue Sep 20, 2022]]></summary>
+        <author>
+            <name>M. Schäfer, N. Barnea, and A. Gal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Force-Detected Magnetic Resonance Imaging of Influenza Viruses in the Overcoupled Sensor Regime]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.034052</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.034052"/>
+        <updated>2022-09-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Marc-Dominik Krass, Nils Prumbaum, Raphael Pachlatko, Urs Grob, Hiroki Takahashi, Yohei Yamauchi, Christian L. Degen, and Alexander Eichler
+Ultrasensitive nanomechanical sensors are envisioned to enable nanoscale magnetic resonance imaging (nano-MRI) and other scanning force microscopy applications. However, their sensitivity to very small forces makes such sensors susceptible to unwanted tip-surface interactions that cause bending and instability. This study shows how these noncontact interactions affect the scanning force measurements. The authors present strategies to overcome the challenges of overcoupling, which lead to the successful demonstration of faithful nano-MRI reconstruction of individual influenza viruses.
+
+[Phys. Rev. Applied 18, 034052] Published Tue Sep 20, 2022]]></summary>
+        <author>
+            <name>Marc-Dominik Krass, Nils Prumbaum, Raphael Pachlatko, Urs Grob, Hiroki Takahashi, Yohei Yamauchi, Christian L. Degen, and Alexander Eichler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nonuniversality of quantum noise in optical amplifiers operating at exceptional points]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.033226</id>
@@ -1253,58 +1305,6 @@ The magnetic structure of thin films of ferrimagnetic metallic Mn4N differs from
 [Phys. Rev. B 106, L060409] Published Wed Aug 24, 2022]]></summary>
         <author>
             <name>Yangkun He, Simon Lenne, Zsolt Gercsi, Gwenael Atcheson, Jack O'Brien, Daniel Fruchart, Karsten Rode, and J. M. D. Coey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$c$-axis transport in ${\mathrm{UTe}}_{2}$: Evidence of three-dimensional conductivity component]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L060505</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L060505"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yun Suk Eo, Shouzheng Liu, Shanta R. Saha, Hyunsoo Kim, Sheng Ran, Jarryd A. Horn, Halyna Hodovanets, John Collini, Tristin Metz, Wesley T. Fuhrman, Andriy H. Nevidomskyy, Jonathan D. Denlinger, Nicholas P. Butch, Michael S. Fuhrer, L. Andrew Wray, and Johnpierre Paglione
-The recently discvoered topological spin-triplet superconductor UTe2 is thought to have anisotropic electronic band structure, yet measurements of normal-state electrical transport anisotropy have remained elusive. In this study, the authors develop and employ a generalized Montgomery resistance measurement technique to fully characterize the absolute transport anisotropy of UTe2, finding that the c-axis resistivity is surprisingly not quantitatively anisotropic, but rather qualitatively different from a−b plane resistivities.
-
-[Phys. Rev. B 106, L060505] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Yun Suk Eo, Shouzheng Liu, Shanta R. Saha, Hyunsoo Kim, Sheng Ran, Jarryd A. Horn, Halyna Hodovanets, John Collini, Tristin Metz, Wesley T. Fuhrman, Andriy H. Nevidomskyy, Jonathan D. Denlinger, Nicholas P. Butch, Michael S. Fuhrer, L. Andrew Wray, and Johnpierre Paglione</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the SMEFT at dimension eight with Drell-Yan transverse momentum measurements]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.036020</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.036020"/>
-        <updated>2022-08-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Radja Boughezal, Yingsheng Huang, and Frank Petriello
-Effective field theories (EFTs) are used to parameterize searches for new physics in a largely model-independent way. Here, the authors study Drell-Yan processes at the LHC including terms up to dimension 8 in the EFT expansion. They find that these higher-dimension operators can be probed in the future and are potentially important in distinguishing different models.
-
-[Phys. Rev. D 106, 036020] Published Tue Aug 23, 2022]]></summary>
-        <author>
-            <name>Radja Boughezal, Yingsheng Huang, and Frank Petriello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broadband Continuous-Variable Entanglement Generation Using a Kerr-Free Josephson Metamaterial]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.024063"/>
-        <updated>2022-08-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen
-Generation of quantum resources like entanglement is pivotal for quantum technology. This work uses superconducting Josephson metamaterials to generate color-entangled photons from vacuum fluctuations at a high rate, showing the presented system to be a superb microwave entanglement generator with remarkable bandwidth. Successful squeezing of the light is also demonstrated. These results are quite promising for quantum computing, sensing, and communication with superconducting devices.
-
-[Phys. Rev. Applied 18, 024063] Published Tue Aug 23, 2022]]></summary>
-        <author>
-            <name>M.R. Perelshtein, K.V. Petrovnin, V. Vesterinen, S. Hamedani Raja, I. Lilja, M. Will, A. Savin, S. Simbierowicz, R.N. Jabdaraghi, J.S. Lehtinen, L. Grönberg, J. Hassel, M.P. Prunnila, J. Govenius, G.S. Paraoanu, and P.J. Hakonen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time-Dependent Multistate Switching of Topological Antiferromagnetic Order in ${\mathrm{Mn}}_{3}\mathrm{Sn}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.024064"/>
-        <updated>2022-08-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella
-Noncollinear antiferromagnets (AFMs) with topological electronic properties attract great interest, as they allow for all-electrical readout and manipulation of AFM order. The mechanisms and timescales to reverse AFM order are not known, though. In this study of current-driven switching of chiral AFM order in the classic Weyl semimetal Mn3Sn, time-resolved measurements show that switching is incoherent and occurs over several nanoseconds, owing to self-heating and then cooling of AFM domains in the presence of a Pt overlayer. These results unravel the spin dynamics of chiral AFMs and highlight the possibility of multilevel switching based on the temporal profile of current pulses.
-
-[Phys. Rev. Applied 18, 024064] Published Tue Aug 23, 2022]]></summary>
-        <author>
-            <name>Gunasheel Kauwtilyaa Krishnaswamy, Giacomo Sala, Benjamin Jacot, Charles-Henri Lambert, Richard Schlitz, Marta D. Rossell, Paul Nöel, and Pietro Gambardella</name>
         </author>
     </entry>
 </feed>
