@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T01:18:19.905Z</id>
+    <id>urn:2022-09-22T01:13:26.623Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-21T01:18:19.905Z</updated>
+    <updated>2022-09-22T01:13:26.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Information Engine that Optimally Exploits Noisy Measurements]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.130601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.130601"/>
+        <updated>2022-09-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer
+A “filtering” algorithm allows information engines to perform efficiently even when they are subjected to high noise.
+
+[Phys. Rev. Lett. 129, 130601] Published Wed Sep 21, 2022]]></summary>
+        <author>
+            <name>Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covariant density functional theory with localized exchange terms]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.106.034315</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.106.034315"/>
+        <updated>2022-09-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Qiang Zhao (赵强), Zhengxue Ren (任政学), Pengwei Zhao (赵鹏巍), and Jie Meng (孟杰)
+The authors derive a new density-dependent point-coupling covariant density functional (PCF-PK1) with exchange terms that are local and can be included in a standard relativistic mean-field calculation. This saves a considerable amount of computing time over relativistic Hartree-Fock calculations with nonlocal potentials. The PCF-PK1 is obtained by fitting nuclear matter and finite nuclei, including the results of ab-initio calculations; it eliminates spurious shell closures at Z=58 and 92; and it accurately reproduces Gamow-Teller resonances in closed-shell nuclei. This new covariant density functional PCF-PK1 with exchange correlation is expected to provide a unified and consistent description for both nuclear ground states and excited states, in particular for unstable nuclei far from stability.
+
+[Phys. Rev. C 106, 034315] Published Wed Sep 21, 2022]]></summary>
+        <author>
+            <name>Qiang Zhao (赵强), Zhengxue Ren (任政学), Pengwei Zhao (赵鹏巍), and Jie Meng (孟杰)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Driven Disordered Systems Approach to Biological Evolution in Changing Environments]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.12.031040</id>
@@ -50,7 +76,7 @@ Charge-symmetry breaking, or CSB, is a fundamental concept in nuclear physics. A
         <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.034052"/>
         <updated>2022-09-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Marc-Dominik Krass, Nils Prumbaum, Raphael Pachlatko, Urs Grob, Hiroki Takahashi, Yohei Yamauchi, Christian L. Degen, and Alexander Eichler
-Ultrasensitive nanomechanical sensors are envisioned to enable nanoscale magnetic resonance imaging (nano-MRI) and other scanning force microscopy applications. However, their sensitivity to very small forces makes such sensors susceptible to unwanted tip-surface interactions that cause bending and instability. This study shows how these noncontact interactions affect the scanning force measurements. The authors present strategies to overcome the challenges of overcoupling, which lead to the successful demonstration of faithful nano-MRI reconstruction of individual influenza viruses.
+Ultrasensitive nanomechanical sensors are envisioned to enable nanoscale magnetic resonance imaging (nano-MRI) and other scanning force microscopy applications. However, their sensitivity to very small forces makes such sensors susceptible to unwanted tip-surface interactions that cause bending and instability. This study shows how these noncontact interactions affect scanning force measurements. The authors present strategies to overcome the challenges of overcoupling, which lead to the successful demonstration of faithful nano-MRI reconstruction of individual influenza viruses.
 
 [Phys. Rev. Applied 18, 034052] Published Tue Sep 20, 2022]]></summary>
         <author>
@@ -1279,32 +1305,6 @@ Non-Fermi-liquid behavior of correlated metals is one of the central problems in
 [Phys. Rev. B 106, 085133] Published Wed Aug 24, 2022]]></summary>
         <author>
             <name>Gihyeon Ahn, M. Zingl, S. J. Noh, M. Brahlek, Joseph D. Roth, Roman Engel-Herbert, A. J. Millis, and S. J. Moon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaps in topological magnon spectra: Intrinsic versus extrinsic effects]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L060408</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L060408"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Seung-Hwan Do, Joseph A. M. Paddison, Gabriele Sala, Travis J. Williams, Koji Kaneko, Keitaro Kuwahara, Andrew F. May, Jiaqiang Yan, Michael A. McGuire, Matthew B. Stone, Mark D. Lumsden, and Andrew D. Christianson
-Using inelastic neutron scattering measurements of a high-quality single crystal of the prototype honeycomb-lattice ferromagnet CrCl3, the authors highlight critical issues in determining the sizes of topological gaps in magnon spectra. In particular, when the spin excitation spectrum contains a singularity such as a Dirac magnon crossing point, the measured spin-wave dispersion is extremely sensitive to experimental conditions such as sample mosaic, resolution, and data integration range. This work resolves an apparent dichotomy between measured and predicted gaps at Dirac crossing points, and provides guidelines for accurate measurement of magnon gap sizes in candidate materials for magnon spintronics applications.
-
-[Phys. Rev. B 106, L060408] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Seung-Hwan Do, Joseph A. M. Paddison, Gabriele Sala, Travis J. Williams, Koji Kaneko, Keitaro Kuwahara, Andrew F. May, Jiaqiang Yan, Michael A. McGuire, Matthew B. Stone, Mark D. Lumsden, and Andrew D. Christianson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noncollinear ferrimagnetism and anomalous Hall effects in ${\mathrm{Mn}}_{4}\mathrm{N}$ thin films]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L060409</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L060409"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yangkun He, Simon Lenne, Zsolt Gercsi, Gwenael Atcheson, Jack O'Brien, Daniel Fruchart, Karsten Rode, and J. M. D. Coey
-The magnetic structure of thin films of ferrimagnetic metallic Mn4N differs from the triangular ferrimagnetism of the bulk. Based on distance-dependence of Mn-Mn exchange and magnetic structures of other Mn3XN perovskites, a topological noncollinear spin structure is proposed for [001] Mn4N films with perpendicular anisotropy, which is confirmed by temperature-independent anomalous Hall conductivity coexisting with a normal temperature-dependent contribution. The study shows how a small symmetry change in the spin structure can influence magnetotransport properties of frustrated ferrimagnetic films.
-
-[Phys. Rev. B 106, L060409] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Yangkun He, Simon Lenne, Zsolt Gercsi, Gwenael Atcheson, Jack O'Brien, Daniel Fruchart, Karsten Rode, and J. M. D. Coey</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.130601",
+          "author": "Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer",
+          "description": "Author(s): Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer\nA “filtering” algorithm allows information engines to perform efficiently even when they are subjected to high noise.\n\n[Phys. Rev. Lett. 129, 130601] Published Wed Sep 21, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.130601",
+          "publishedOn": "2022-09-21T10:00:00.000Z",
+          "wordCount": 1136,
+          "title": "Bayesian Information Engine that Optimally Exploits Noisy Measurements",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.130601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.106.034315",
+          "author": "Qiang Zhao (赵强), Zhengxue Ren (任政学), Pengwei Zhao (赵鹏巍), and Jie Meng (孟杰)",
+          "description": "Author(s): Qiang Zhao (赵强), Zhengxue Ren (任政学), Pengwei Zhao (赵鹏巍), and Jie Meng (孟杰)\nThe authors derive a new density-dependent point-coupling covariant density functional (PCF-PK1) with exchange terms that are local and can be included in a standard relativistic mean-field calculation. This saves a considerable amount of computing time over relativistic Hartree-Fock calculations with nonlocal potentials. The PCF-PK1 is obtained by fitting nuclear matter and finite nuclei, including the results of ab-initio calculations; it eliminates spurious shell closures at Z=58 and 92; and it accurately reproduces Gamow-Teller resonances in closed-shell nuclei. This new covariant density functional PCF-PK1 with exchange correlation is expected to provide a unified and consistent description for both nuclear ground states and excited states, in particular for unstable nuclei far from stability.\n\n[Phys. Rev. C 106, 034315] Published Wed Sep 21, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.106.034315",
+          "publishedOn": "2022-09-21T10:00:00.000Z",
+          "wordCount": 1553,
+          "title": "Covariant density functional theory with localized exchange terms",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.106.034315.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.031040",
           "author": "Suman G. Das, Joachim Krug, and Muhittin Mungan",
           "description": "Author(s): Suman G. Das, Joachim Krug, and Muhittin Mungan\nA bacterial genome’s evolution under changing drug concentrations displays effects of memory formation and mimics how disordered solids respond to external forces.\n\n[Phys. Rev. X 12, 031040] Published Tue Sep 20, 2022",
@@ -38,10 +58,10 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034052",
           "author": "Marc-Dominik Krass, Nils Prumbaum, Raphael Pachlatko, Urs Grob, Hiroki Takahashi, Yohei Yamauchi, Christian L. Degen, and Alexander Eichler",
-          "description": "Author(s): Marc-Dominik Krass, Nils Prumbaum, Raphael Pachlatko, Urs Grob, Hiroki Takahashi, Yohei Yamauchi, Christian L. Degen, and Alexander Eichler\nUltrasensitive nanomechanical sensors are envisioned to enable nanoscale magnetic resonance imaging (nano-MRI) and other scanning force microscopy applications. However, their sensitivity to very small forces makes such sensors susceptible to unwanted tip-surface interactions that cause bending and instability. This study shows how these noncontact interactions affect the scanning force measurements. The authors present strategies to overcome the challenges of overcoupling, which lead to the successful demonstration of faithful nano-MRI reconstruction of individual influenza viruses.\n\n[Phys. Rev. Applied 18, 034052] Published Tue Sep 20, 2022",
+          "description": "Author(s): Marc-Dominik Krass, Nils Prumbaum, Raphael Pachlatko, Urs Grob, Hiroki Takahashi, Yohei Yamauchi, Christian L. Degen, and Alexander Eichler\nUltrasensitive nanomechanical sensors are envisioned to enable nanoscale magnetic resonance imaging (nano-MRI) and other scanning force microscopy applications. However, their sensitivity to very small forces makes such sensors susceptible to unwanted tip-surface interactions that cause bending and instability. This study shows how these noncontact interactions affect scanning force measurements. The authors present strategies to overcome the challenges of overcoupling, which lead to the successful demonstration of faithful nano-MRI reconstruction of individual influenza viruses.\n\n[Phys. Rev. Applied 18, 034052] Published Tue Sep 20, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034052",
           "publishedOn": "2022-09-20T10:00:00.000Z",
-          "wordCount": 1791,
+          "wordCount": 1767,
           "title": "Force-Detected Magnetic Resonance Imaging of Influenza Viruses in the Overcoupled Sensor Regime",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034052.png"
         },
@@ -121,7 +141,7 @@
           "description": "Author(s): Yitong Fan, Weipeng Li, and Sergio Pirozzoli\nA new framework to quantitatively describe the energy exchange in high-speed turbulent flows is presented. The routes of energy exchange in hypersonic boundary-layer flows are highlighted and quantified, with special attention paid to effects of wall cooling. We expect that the present study can help the development of physics-informed models for compressible turbulence in the class of RANS (Reynolds-averaged Navier-Stokes) and LES (large-eddy-simulation), which currently heavily hinge on variable-density extrapolation of their incompressible counterparts.\n\n[Phys. Rev. Fluids 7, L092601] Published Fri Sep 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L092601",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 768,
+          "wordCount": 826,
           "title": "Energy exchanges in hypersonic flows",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L092601.png"
         },
@@ -211,7 +231,7 @@
           "description": "Author(s): Hayato Goto\nTunable couplers, which turn on and off the interaction between qubits, have emerged as a key means to achieve low error rates in superconducting quantum computers. Conventional devices using one transmon qubit exhibit unwanted residual coupling, though, especially at the high detuning that is desirable for suppressing crosstalk errors. To solve this critical problem, the author proposes a tunable coupler based on two transmons that satisfies the ideal conditions of no residual coupling and fast two-qubit gate operations at high detuning. This double-transmon coupler is expected to become standard for superconducting architectures by eliminating unwanted coupling during idle time.\n\n[Phys. Rev. Applied 18, 034038] Published Thu Sep 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034038",
           "publishedOn": "2022-09-15T10:00:00.000Z",
-          "wordCount": 1256,
+          "wordCount": 1232,
           "title": "Double-Transmon Coupler: Fast Two-Qubit Gate with No Residual Coupling for Highly Detuned Superconducting Qubits",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034038.png"
         },
@@ -221,7 +241,7 @@
           "description": "Author(s): Jiri Smetana, Rebecca Walters, Sophie Bauchinger, Amit Singh Ubhi, Sam Cooper, David Hoyland, Richard Abbott, Christoph Baune, Peter Fritchel, Oliver Gerberding, Semjon Köhnke, Haixing Miao, Sebastian Rode, and Denis Martynov\nA sensor containing thumbnail-sized interferometers might help astronomers detect gravitational waves emitted from certain black hole mergers.\n\n[Phys. Rev. Applied 18, 034040] Published Thu Sep 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034040",
           "publishedOn": "2022-09-15T10:00:00.000Z",
-          "wordCount": 1230,
+          "wordCount": 1264,
           "title": "Compact Michelson Interferometers with Subpicometer Sensitivity",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034040.png"
         },
@@ -281,7 +301,7 @@
           "description": "Author(s): S.G. Robson, P. Räcke, A.M. Jakob, N. Collins, H.R. Firgau, V. Schmitt, V. Mourik, A. Morello, E. Mayes, D. Spemann, and D.N. Jamieson\nAlready a building block of modern life, silicon is also poised to power the next leap in information technology, in which the quantum mechanical properties of single impurities located just beneath its surface can be used to create vastly more powerful computers. Here a multinational team presents a specialized microscope to better understand the inner workings of such silicon chips, by scanning a finely focused beam of ultralow-energy ions across the surface. The tiny “click” that each ion makes when it hits the chip is detected and mapped, enabling the identification of manufacturing defects; these results can then be fed back to improve the fabrication process.\n\n[Phys. Rev. Applied 18, 034037] Published Wed Sep 14, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034037",
           "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 1692,
+          "wordCount": 1716,
           "title": "Near-Surface Electrical Characterization of Silicon Electronic Devices Using Focused keV-Range Ions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034037.png"
         },
@@ -301,7 +321,7 @@
           "description": "Author(s): Wladimir Sarlin, Cyprien Morize, Alban Sauret, and Philippe Gondret\nSudden large-scale geophysical flows such as cliff collapses, rockfalls, or massive landslides are known to be tsunamigenic and constitute a significant hazard for coastal populations and infrastructures. A key challenge is to be able to predict a priori the amplitude of the tsunami wave that would be engendered by a given cliff collapse. In this study, we introduce a comprehensive model of shallow water waves generated by the subaerial collapse of a granular column. The proposed model is able to capture the role of the geometry of the collapse as well as the water depth and is successfully compared to a large dataset of experiments.\n\n[Phys. Rev. Fluids 7, 094801] Published Tue Sep 13, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.094801",
           "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 1359,
+          "wordCount": 1417,
           "title": "From granular collapses to shallow water waves: A predictive model for tsunami generation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.094801.png"
         },
@@ -311,7 +331,7 @@
           "description": "Author(s): Ross Shillito, Alexandru Petrescu, Joachim Cohen, Jackson Beall, Markus Hauru, Martin Ganahl, Adam G.M. Lewis, Guifre Vidal, and Alexandre Blais\nQubit measurement is an essential step in any quantum computation. In circuit quantum electrodynamics, a leading quantum computer architecture, qubit readout is commonly one of the longest and lowest-fidelity processes. The authors numerically explore the dynamics of a driven transmon-resonator system under strong, nearly resonant measurement drives to better understand this issue. They find clear signs of transmon “ionization”, in which the qubit escapes its confining potential under the influence of the drive, and semiclassical methods then reveal the mechanism. This approach can be used to optimize circuit parameters, suppress these spurious effects, and increase readout fidelity.\n\n[Phys. Rev. Applied 18, 034031] Published Tue Sep 13, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034031",
           "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 1618,
+          "wordCount": 1676,
           "title": "Dynamics of Transmon Ionization",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034031.png"
         },
@@ -521,7 +541,7 @@
           "description": "Author(s): Masaya Arahata, Yu Mukai, Toshiyuki Tashima, Ryo Okamoto, and Shigeki Takeuchi\nInfrared quantum absorption spectroscopy (IRQAS) enables the estimation of a sample’s optical properties in the infrared region, using only a visible light source and detectors, which is technologically favorable. So far, spectral coverage of IRQAS systems has been limited to less than 1 µm. This work reports a wavelength-tunable IRQAS system and an efficient measurement scheme to achieve broadband spectroscopy in a short acquisition time. The successful demonstration of rapid spectral measurement over a wide midinfrared window (1.9–5.2 µm) exhibits the great potential of this technique and paves the way for the use of IRQAS in real-world applications.\n\n[Phys. Rev. Applied 18, 034015] Published Wed Sep 07, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034015",
           "publishedOn": "2022-09-07T10:00:00.000Z",
-          "wordCount": 1274,
+          "wordCount": 1298,
           "title": "Wavelength-Tunable Quantum Absorption Spectroscopy in the Broadband Midinfrared Region",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034015.png"
         },
@@ -921,7 +941,7 @@
           "description": "Author(s): Sebastian Dehe, Maximilian Hartmann, Aditya Bandopadhyay, and Steffen Hardt\nWe present an experimental study of the electrostatic Faraday instability at the interface between a dielectric and a conducting liquid. We study the response of the interface to an ac electric field, which is superposed by either a second ac field of different frequency, or by a dc field. An important control parameter is the mixing ratio, which denotes the relative amplitudes of the different components of the driving signal. For ac/ac driving, gradual variations of the mixing ratio can induce a jump of the pattern wavelength, and for ac/dc driving, the response wavelength can be tuned continuously by adjusting the mixing ratio.\n\n[Phys. Rev. Fluids 7, L082002] Published Wed Aug 24, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082002",
           "publishedOn": "2022-08-24T10:00:00.000Z",
-          "wordCount": 1146,
+          "wordCount": 1204,
           "title": "Controlling the electrostatic Faraday instability using superposed electric fields",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.L082002.png"
         },
@@ -984,26 +1004,6 @@
           "wordCount": 1227,
           "title": "Low-energy interband transition in the infrared response of the correlated metal ${\\mathrm{SrVO}}_{3}$ in the ultraclean limit",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.085133.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L060408",
-          "author": "Seung-Hwan Do, Joseph A. M. Paddison, Gabriele Sala, Travis J. Williams, Koji Kaneko, Keitaro Kuwahara, Andrew F. May, Jiaqiang Yan, Michael A. McGuire, Matthew B. Stone, Mark D. Lumsden, and Andrew D. Christianson",
-          "description": "Author(s): Seung-Hwan Do, Joseph A. M. Paddison, Gabriele Sala, Travis J. Williams, Koji Kaneko, Keitaro Kuwahara, Andrew F. May, Jiaqiang Yan, Michael A. McGuire, Matthew B. Stone, Mark D. Lumsden, and Andrew D. Christianson\nUsing inelastic neutron scattering measurements of a high-quality single crystal of the prototype honeycomb-lattice ferromagnet CrCl3, the authors highlight critical issues in determining the sizes of topological gaps in magnon spectra. In particular, when the spin excitation spectrum contains a singularity such as a Dirac magnon crossing point, the measured spin-wave dispersion is extremely sensitive to experimental conditions such as sample mosaic, resolution, and data integration range. This work resolves an apparent dichotomy between measured and predicted gaps at Dirac crossing points, and provides guidelines for accurate measurement of magnon gap sizes in candidate materials for magnon spintronics applications.\n\n[Phys. Rev. B 106, L060408] Published Wed Aug 24, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L060408",
-          "publishedOn": "2022-08-24T10:00:00.000Z",
-          "wordCount": 1538,
-          "title": "Gaps in topological magnon spectra: Intrinsic versus extrinsic effects",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L060408.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L060409",
-          "author": "Yangkun He, Simon Lenne, Zsolt Gercsi, Gwenael Atcheson, Jack O'Brien, Daniel Fruchart, Karsten Rode, and J. M. D. Coey",
-          "description": "Author(s): Yangkun He, Simon Lenne, Zsolt Gercsi, Gwenael Atcheson, Jack O'Brien, Daniel Fruchart, Karsten Rode, and J. M. D. Coey\nThe magnetic structure of thin films of ferrimagnetic metallic Mn4N differs from the triangular ferrimagnetism of the bulk. Based on distance-dependence of Mn-Mn exchange and magnetic structures of other Mn3XN perovskites, a topological noncollinear spin structure is proposed for [001] Mn4N films with perpendicular anisotropy, which is confirmed by temperature-independent anomalous Hall conductivity coexisting with a normal temperature-dependent contribution. The study shows how a small symmetry change in the spin structure can influence magnetotransport properties of frustrated ferrimagnetic films.\n\n[Phys. Rev. B 106, L060409] Published Wed Aug 24, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L060409",
-          "publishedOn": "2022-08-24T10:00:00.000Z",
-          "wordCount": 1154,
-          "title": "Noncollinear ferrimagnetism and anomalous Hall effects in ${\\mathrm{Mn}}_{4}\\mathrm{N}$ thin films",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L060409.png"
         }
       ]
     }
