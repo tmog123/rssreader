@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T01:13:26.623Z</id>
+    <id>urn:2022-09-23T01:21:39.547Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-22T01:13:26.623Z</updated>
+    <updated>2022-09-23T01:21:39.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Entanglement features of random neural network quantum states]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.115138</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.115138"/>
+        <updated>2022-09-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xiao-Qi Sun, Tamra Nebabu, Xizhi Han, Michael O. Flynn, and Xiao-Liang Qi
+Neural networks offer a novel approach to represent wave functions for solving quantum many-body problems. But what kinds of quantum states are efficiently represented by neural networks? To approach this problem, the authors study here entanglement properties of an ensemble of neural network states represented by random restricted Boltzmann machines. Phases with distinct entanglement features are identified and characterized. In particular, the authors show that these neural network states can look typical in their entanglement profile while still being distinguishable from a typical state by their fractal dimensions.
+
+[Phys. Rev. B 106, 115138] Published Thu Sep 22, 2022]]></summary>
+        <author>
+            <name>Xiao-Qi Sun, Tamra Nebabu, Xizhi Han, Michael O. Flynn, and Xiao-Liang Qi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniaxial ferromagnetism in the kagome metal ${\mathrm{TbV}}_{6}{\mathrm{Sn}}_{6}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.115139</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.115139"/>
+        <updated>2022-09-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Elliott Rosenberg, Jonathan M. DeStefano, Yucheng Guo, Ji Seop Oh, Makoto Hashimoto, Donghui Lu, Robert J. Birgeneau, Yongbin Lee, Liqin Ke, Ming Yi, and Jiun-Haw Chu
+The RT6X6 family (R=rare earth, T=transition metal) offers an interplay of magnetism with potentially nontrivial topological kagome band structures. Here, the authors present a new member TbV6Sn6, which contains a pure vanadium kagome lattice. Thermodynamic, magnetometric, and transport measurements reveal an Ising ferromagnetism of local Tb 4f moments accompanied by an anomalous Hall effect below 4.1 K. The Tb magnetism displays a strikingly large uniaxial anisotropy, which the authors argue originates from 4f crystalline electric field effects in a hexagonal symmetry environment.
+
+[Phys. Rev. B 106, 115139] Published Thu Sep 22, 2022]]></summary>
+        <author>
+            <name>Elliott Rosenberg, Jonathan M. DeStefano, Yucheng Guo, Ji Seop Oh, Makoto Hashimoto, Donghui Lu, Robert J. Birgeneau, Yongbin Lee, Liqin Ke, Ming Yi, and Jiun-Haw Chu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weakly Flux-Tunable Superconducting Qubit]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.034057</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.034057"/>
+        <updated>2022-09-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): José M. Chávez-Garcia, Firat Solgun, Jared B. Hertzberg, Oblesh Jinka, Markus Brink, and Baleegh Abdo
+Superconducting qubits are building blocks for quantum processors, but they suffer from frequency collisions, which hinder the construction of large qubit lattices. This study introduces weakly tunable qubits, whose frequency can be tuned over a small range via external magnetic flux. Through theoretical derivation and experimental demonstration, the authors show that these transmonlike qubits—without losing the desired key properties—can be used to avoid frequency collisions in large qubit systems while minimizing the sensitivity to flux noise. They can also be applied to improve qubit relaxation times and operate flux-tuned qubit gates.
+
+[Phys. Rev. Applied 18, 034057] Published Thu Sep 22, 2022]]></summary>
+        <author>
+            <name>José M. Chávez-Garcia, Firat Solgun, Jared B. Hertzberg, Oblesh Jinka, Markus Brink, and Baleegh Abdo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Frequency Quantum Sensing]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.034058</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.034058"/>
+        <updated>2022-09-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): E.D. Herbschleb, I. Ohki, K. Morita, Y. Yoshii, H. Kato, T. Makino, S. Yamasaki, and N. Mizuochi
+Quantum sensing of low-frequency fields is important for nuclear magnetic resonance (NMR) due to its rich structure and narrow line widths, both at low fields focusing on J couplings and at high fields for down-converted frequencies from conventional NMR. However, the most sensitive and coherent quantum sensing methods work at dc and high-frequency fields only. This study utilizes a quantum oscilloscope approach to bridge this gap. The resulting algorithm has a frequency-independent sensitivity and is able to work in the zero-field region. This approach would have an impact on designing low-frequency measurements where the high sensitivities of quantum sensors are an indispensable treat.
+
+[Phys. Rev. Applied 18, 034058] Published Thu Sep 22, 2022]]></summary>
+        <author>
+            <name>E.D. Herbschleb, I. Ohki, K. Morita, Y. Yoshii, H. Kato, T. Makino, S. Yamasaki, and N. Mizuochi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian Information Engine that Optimally Exploits Noisy Measurements]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.130601</id>
@@ -1175,136 +1227,6 @@ Corrugations strongly affect the electronic and optical properties of two-dimens
 [Phys. Rev. Applied 18, 024069] Published Thu Aug 25, 2022]]></summary>
         <author>
             <name>Davide Giambastiani, Cosimo Tommasi, Federica Bianco, Filippo Fabbri, Camilla Coletti, Alessandro Tredicucci, Alessandro Pitanti, and Stefano Roddaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laplacian-level meta-generalized gradient approximation for solid and liquid metals]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.083803</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.083803"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Aaron D. Kaplan and John P. Perdew
-Modern meta-GGAs based on the local kinetic energy density can predict properties of diverse systems with near experimental accuracy, but unexpectedly describe properties of metallic solids poorly due to their underestimation of screening in metals. In this work, the authors replace the kinetic energy dependence of a sophisticated meta-GGA with an approximation based on the electronic density gradient and Laplacian. This Laplacian-level meta-GGA is tested on a diverse set of solid-state properties: geometries, cohesive energies, bulk moduli, ferromagnetic moments, monovacancy formation energies, and formation enthalpies. Most deficiencies of the parent meta-GGA in describing metals are remedied with its Laplacian-level variant.
-
-[Phys. Rev. Materials 6, 083803] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Aaron D. Kaplan and John P. Perdew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Absolutely Stable Spatiotemporal Order in Noisy Quantum Systems]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.090404</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.090404"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Max McGinley, Sthitadhi Roy, and S. A. Parameswaran
-Measurement and feedback can be used to stabilize a discrete time crystal.
-
-[Phys. Rev. Lett. 129, 090404] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Max McGinley, Sthitadhi Roy, and S. A. Parameswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Observation of Charge-Spin Cooperative Dynamics Driven by a Nonequilibrium Phonon Environment]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.095901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.095901"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kazuyuki Kuroyama, Sadashige Matsuo, Jo Muramoto, Shunsuke Yabunaka, Sascha R. Valentin, Arne Ludwig, Andreas D. Wieck, Yasuhiro Tokura, and Seigo Tarucha
-Propagating acoustic phonons flip the spin of single electrons inside a nearby GaAs double-quantum-dot device.
-
-[Phys. Rev. Lett. 129, 095901] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Kazuyuki Kuroyama, Sadashige Matsuo, Jo Muramoto, Shunsuke Yabunaka, Sascha R. Valentin, Arne Ludwig, Andreas D. Wieck, Yasuhiro Tokura, and Seigo Tarucha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controlling the electrostatic Faraday instability using superposed electric fields]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.L082002"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sebastian Dehe, Maximilian Hartmann, Aditya Bandopadhyay, and Steffen Hardt
-We present an experimental study of the electrostatic Faraday instability at the interface between a dielectric and a conducting liquid. We study the response of the interface to an ac electric field, which is superposed by either a second ac field of different frequency, or by a dc field. An important control parameter is the mixing ratio, which denotes the relative amplitudes of the different components of the driving signal. For ac/ac driving, gradual variations of the mixing ratio can induce a jump of the pattern wavelength, and for ac/dc driving, the response wavelength can be tuned continuously by adjusting the mixing ratio.
-
-[Phys. Rev. Fluids 7, L082002] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Sebastian Dehe, Maximilian Hartmann, Aditya Bandopadhyay, and Steffen Hardt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amplitude and phase fluctuations of gravitational waves magnified by strong gravitational lensing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.043532</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.043532"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Masamune Oguri and Ryuichi Takahashi
-The authors derive analytic expressions for how small-scale density perturbations affect amplitude and phase fluctuations of gravitational waves that are magnified due to strong gravitational lensing. They show that small-scale structures can become observable for highly magnified gravitational waves and compute the effects of microlensing due to stars, primordial black holes, and fuzzy dark matter.
-
-[Phys. Rev. D 106, 043532] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Masamune Oguri and Ryuichi Takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higher symmetries of 5D orbifold SCFTs]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.046010</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.046010"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michele Del Zotto, Jonathan J. Heckman, Shani Nadir Meynet, Robert Moscrop, and Hao Y. Zhang
-Most higher-dimensional superconformal field theories (SCFTs) are intrinsically strongly coupled and lack a Lagrangian description. Generally, these theories are defined as singular compactifications of string and M-theory, and the information about the SCFTs, e.g. higher-form symmetries, is encoded in the structure of the singularities. The authors manage to extract the higher form symmetries from generic, not necessarily isolated orbifold singularities for five-dimensional SCFTs and demonstrate their method in a number of explicit examples.
-
-[Phys. Rev. D 106, 046010] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Michele Del Zotto, Jonathan J. Heckman, Shani Nadir Meynet, Robert Moscrop, and Hao Y. Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breakdown of the Migdal-Eliashberg theory and a theory of lattice-fermionic superfluidity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.054518</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.054518"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Emil A. Yuzbashyan and Boris L. Altshuler
-Superconductors become unstable at strong renormalized electron-phonon coupling which breaks the crystalline symmetry and gives rise to a new phase. Smoking-gun evidence for this instability is negative specific heat. The authors also predict an upper bound on the superconducting critical temperature and explain why and how a spurious lattice instability as a function of the bare electron-phonon coupling has been frequently mistaken for a genuine breakdown of the Migdal-Eliashberg theory.
-
-[Phys. Rev. B 106, 054518] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Emil A. Yuzbashyan and Boris L. Altshuler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic angle conditions for twisted three-dimensional topological insulators]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.075142</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.075142"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Aaron Dunbrack and Jennifer Cano
-When two layers of graphene are stacked at a specific “magic” twist angle, the Dirac cones hybridize, forming perfectly flat bands. Can Dirac cones at the interface between two stacked and twisted 3D topological insulators exhibit similar band flattening? Ultimately, the generalization from Dirac cones in sublattice space to spin space is not so simple. The authors derive here the necessary conditions to flatten the anomalous Dirac cones, which has implications for realizing tunable interacting topological phases.
-
-[Phys. Rev. B 106, 075142] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Aaron Dunbrack and Jennifer Cano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In-plane and out-of-plane optical response of the nodal-line semimetals ZrGeS and ZrGeSe]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.075143</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.075143"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): J. Ebad-Allah, S. Rojewski, Y. L. Zhu, Z. Q. Mao, and C. A. Kuntscher
-The ZrSiS-type family of square-net materials ZrXY with X=Si,Ge,Sn and Y=O,S,Se,Te provide an ideal platform for exploring the exotic physics of the nodal-line semimetal phase. Here, the authors show by polarization-dependent reflectivity measurements that the optical response of the materials ZrGeSe and ZrGeS is highly anisotropic with a reduced metallic character perpendicular to the square-net layers, like in ZrSiS. Under external pressure, two new excitations appear in the out-of-plane optical response of ZrGeSe, confirming the recent findings in ZrSiS.
-
-[Phys. Rev. B 106, 075143] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>J. Ebad-Allah, S. Rojewski, Y. L. Zhu, Z. Q. Mao, and C. A. Kuntscher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-energy interband transition in the infrared response of the correlated metal ${\mathrm{SrVO}}_{3}$ in the ultraclean limit]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.085133</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.085133"/>
-        <updated>2022-08-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gihyeon Ahn, M. Zingl, S. J. Noh, M. Brahlek, Joseph D. Roth, Roman Engel-Herbert, A. J. Millis, and S. J. Moon
-Non-Fermi-liquid behavior of correlated metals is one of the central problems in condensed matter physics. To advance the understanding of the non-Fermi-liquid phase, it is crucial to know the intrinsic electronic response of correlated metals. The authors study the optical response of an archetypal correlated metal SrVO3 in the ultraclean limit. The results reveal that interband transitions can give rise to a significant contribution to the low-energy electronic response, mimicking the non-Fermi-liquid behavior of the charge dynamics.
-
-[Phys. Rev. B 106, 085133] Published Wed Aug 24, 2022]]></summary>
-        <author>
-            <name>Gihyeon Ahn, M. Zingl, S. J. Noh, M. Brahlek, Joseph D. Roth, Roman Engel-Herbert, A. J. Millis, and S. J. Moon</name>
         </author>
     </entry>
 </feed>
