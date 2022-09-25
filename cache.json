@@ -101,7 +101,7 @@
           "description": "Author(s): E.D. Herbschleb, I. Ohki, K. Morita, Y. Yoshii, H. Kato, T. Makino, S. Yamasaki, and N. Mizuochi\nQuantum sensing of low-frequency fields is important for nuclear magnetic resonance (NMR) due to its rich structure and narrow line widths, both at low fields focusing on J couplings and at high fields for down-converted frequencies from conventional NMR. However, the most sensitive and coherent quantum sensing methods work at dc and high-frequency fields only. This study utilizes a quantum oscilloscope approach to bridge this gap. The resulting algorithm has a frequency-independent sensitivity and is able to work in the zero-field region. This approach would have an impact on designing low-frequency measurements where the high sensitivities of quantum sensors are an indispensable treat.\n\n[Phys. Rev. Applied 18, 034058] Published Thu Sep 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034058",
           "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 1909,
+          "wordCount": 1885,
           "title": "Low-Frequency Quantum Sensing",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034058.png"
         },
@@ -161,7 +161,7 @@
           "description": "Author(s): Marc-Dominik Krass, Nils Prumbaum, Raphael Pachlatko, Urs Grob, Hiroki Takahashi, Yohei Yamauchi, Christian L. Degen, and Alexander Eichler\nUltrasensitive nanomechanical sensors are envisioned to enable nanoscale magnetic resonance imaging (nano-MRI) and other scanning force microscopy applications. However, their sensitivity to very small forces makes such sensors susceptible to unwanted tip-surface interactions that cause bending and instability. This study shows how these noncontact interactions affect scanning force measurements. The authors present strategies to overcome the challenges of overcoupling, which lead to the successful demonstration of faithful nano-MRI reconstruction of individual influenza viruses.\n\n[Phys. Rev. Applied 18, 034052] Published Tue Sep 20, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034052",
           "publishedOn": "2022-09-20T10:00:00.000Z",
-          "wordCount": 1825,
+          "wordCount": 1791,
           "title": "Force-Detected Magnetic Resonance Imaging of Influenza Viruses in the Overcoupled Sensor Regime",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034052.png"
         },
@@ -271,7 +271,7 @@
           "description": "Author(s): Dotan Ilssar, Michael Pukshansky, Yizhar Or, and Amir D. Gat\nReconfigurable metamaterials have attracted significant attention due to their cross-disciplinary importance, with applications from deployable space structures to soft robots. These applications might benefit from high-dimensional stable deformations under minimal actuation, which known structures have not demonstrated. The authors present a comprehensive dynamical model and experiments based on pressurized strawlike elements, which are lattices of ungrounded unit cells with high-order multistability. These elements can maintain a myriad of complex stable configurations and exhibit complex dynamical transitions—properties that pave the way toward significant engineering advances.\n\n[Phys. Rev. Applied 18, 034041] Published Fri Sep 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034041",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 1494,
+          "wordCount": 1470,
           "title": "Dynamics of Reconfigurable Strawlike Elements",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034041.png"
         },
@@ -331,7 +331,7 @@
           "description": "Author(s): Hayato Goto\nTunable couplers, which turn on and off the interaction between qubits, have emerged as a key means to achieve low error rates in superconducting quantum computers. Conventional devices using one transmon qubit exhibit unwanted residual coupling, though, especially at the high detuning that is desirable for suppressing crosstalk errors. To solve this critical problem, the author proposes a tunable coupler based on two transmons that satisfies the ideal conditions of no residual coupling and fast two-qubit gate operations at high detuning. This double-transmon coupler is expected to become standard for superconducting architectures by eliminating unwanted coupling during idle time.\n\n[Phys. Rev. Applied 18, 034038] Published Thu Sep 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034038",
           "publishedOn": "2022-09-15T10:00:00.000Z",
-          "wordCount": 1290,
+          "wordCount": 1232,
           "title": "Double-Transmon Coupler: Fast Two-Qubit Gate with No Residual Coupling for Highly Detuned Superconducting Qubits",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034038.png"
         },
@@ -341,7 +341,7 @@
           "description": "Author(s): Jiri Smetana, Rebecca Walters, Sophie Bauchinger, Amit Singh Ubhi, Sam Cooper, David Hoyland, Richard Abbott, Christoph Baune, Peter Fritchel, Oliver Gerberding, Semjon Köhnke, Haixing Miao, Sebastian Rode, and Denis Martynov\nA sensor containing thumbnail-sized interferometers might help astronomers detect gravitational waves emitted from certain black hole mergers.\n\n[Phys. Rev. Applied 18, 034040] Published Thu Sep 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034040",
           "publishedOn": "2022-09-15T10:00:00.000Z",
-          "wordCount": 1230,
+          "wordCount": 1206,
           "title": "Compact Michelson Interferometers with Subpicometer Sensitivity",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034040.png"
         },
@@ -401,7 +401,7 @@
           "description": "Author(s): S.G. Robson, P. Räcke, A.M. Jakob, N. Collins, H.R. Firgau, V. Schmitt, V. Mourik, A. Morello, E. Mayes, D. Spemann, and D.N. Jamieson\nAlready a building block of modern life, silicon is also poised to power the next leap in information technology, in which the quantum mechanical properties of single impurities located just beneath its surface can be used to create vastly more powerful computers. Here a multinational team presents a specialized microscope to better understand the inner workings of such silicon chips, by scanning a finely focused beam of ultralow-energy ions across the surface. The tiny “click” that each ion makes when it hits the chip is detected and mapped, enabling the identification of manufacturing defects; these results can then be fed back to improve the fabrication process.\n\n[Phys. Rev. Applied 18, 034037] Published Wed Sep 14, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034037",
           "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 1692,
+          "wordCount": 1716,
           "title": "Near-Surface Electrical Characterization of Silicon Electronic Devices Using Focused keV-Range Ions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034037.png"
         },
@@ -421,7 +421,7 @@
           "description": "Author(s): Wladimir Sarlin, Cyprien Morize, Alban Sauret, and Philippe Gondret\nSudden large-scale geophysical flows such as cliff collapses, rockfalls, or massive landslides are known to be tsunamigenic and constitute a significant hazard for coastal populations and infrastructures. A key challenge is to be able to predict a priori the amplitude of the tsunami wave that would be engendered by a given cliff collapse. In this study, we introduce a comprehensive model of shallow water waves generated by the subaerial collapse of a granular column. The proposed model is able to capture the role of the geometry of the collapse as well as the water depth and is successfully compared to a large dataset of experiments.\n\n[Phys. Rev. Fluids 7, 094801] Published Tue Sep 13, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.094801",
           "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 1417,
+          "wordCount": 1359,
           "title": "From granular collapses to shallow water waves: A predictive model for tsunami generation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.094801.png"
         },
@@ -431,7 +431,7 @@
           "description": "Author(s): Ross Shillito, Alexandru Petrescu, Joachim Cohen, Jackson Beall, Markus Hauru, Martin Ganahl, Adam G.M. Lewis, Guifre Vidal, and Alexandre Blais\nQubit measurement is an essential step in any quantum computation. In circuit quantum electrodynamics, a leading quantum computer architecture, qubit readout is commonly one of the longest and lowest-fidelity processes. The authors numerically explore the dynamics of a driven transmon-resonator system under strong, nearly resonant measurement drives to better understand this issue. They find clear signs of transmon “ionization”, in which the qubit escapes its confining potential under the influence of the drive, and semiclassical methods then reveal the mechanism. This approach can be used to optimize circuit parameters, suppress these spurious effects, and increase readout fidelity.\n\n[Phys. Rev. Applied 18, 034031] Published Tue Sep 13, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034031",
           "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 1676,
+          "wordCount": 1618,
           "title": "Dynamics of Transmon Ionization",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034031.png"
         },
@@ -641,7 +641,7 @@
           "description": "Author(s): Masaya Arahata, Yu Mukai, Toshiyuki Tashima, Ryo Okamoto, and Shigeki Takeuchi\nInfrared quantum absorption spectroscopy (IRQAS) enables the estimation of a sample’s optical properties in the infrared region, using only a visible light source and detectors, which is technologically favorable. So far, spectral coverage of IRQAS systems has been limited to less than 1 µm. This work reports a wavelength-tunable IRQAS system and an efficient measurement scheme to achieve broadband spectroscopy in a short acquisition time. The successful demonstration of rapid spectral measurement over a wide midinfrared window (1.9–5.2 µm) exhibits the great potential of this technique and paves the way for the use of IRQAS in real-world applications.\n\n[Phys. Rev. Applied 18, 034015] Published Wed Sep 07, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034015",
           "publishedOn": "2022-09-07T10:00:00.000Z",
-          "wordCount": 1298,
+          "wordCount": 1274,
           "title": "Wavelength-Tunable Quantum Absorption Spectroscopy in the Broadband Midinfrared Region",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034015.png"
         },
@@ -861,7 +861,7 @@
           "description": "Author(s): Shuaifeng Li, Liza M. Roger, Judith Klein-Seetharaman, Nastassja A. Lewinski, and Jinkyu Yang\nHuman activities threaten coral survival. A better understanding of the coral behaviors in response to environmental changes may lead to a rescue plan but remains challenging. The authors demonstrate quantitative features of coral motion—a key trait of coral polyps—through real-time microscopy on a fluidic platform, and discover the correlated fractional Brownian motion of coral polyps under different light and temperature conditions. Numerical analysis and theoretical modeling are performed to interpret the observed coral dynamics. This work provides systematic techniques to study coral polyp motions and advances our knowledge of their behavior under climate change.\n\n[Phys. Rev. Applied 18, 024078] Published Tue Aug 30, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024078",
           "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1708,
+          "wordCount": 1742,
           "title": "Spatiotemporal Dynamics of Coral Polyps on a Fluidic Platform",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024078.png"
         },
@@ -904,56 +904,6 @@
           "wordCount": 1122,
           "title": "Transition from metal to higher-order topological insulator driven by random flux",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L081410.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.097205",
-          "author": "Pietro Bonfà, Jonathan Frassineti, John M. Wilkinson, Giacomo Prando, Muhammad Maikudi Isah, Chennan Wang, Tiziana Spina, Boby Joseph, Vesna F. Mitrović, Roberto De Renzi, Stephen J. Blundell, and Samuele Sanna",
-          "description": "Author(s): Pietro Bonfà, Jonathan Frassineti, John M. Wilkinson, Giacomo Prando, Muhammad Maikudi Isah, Chennan Wang, Tiziana Spina, Boby Joseph, Vesna F. Mitrović, Roberto De Renzi, Stephen J. Blundell, and Samuele Sanna\nThe observed quantum coherence between the spins of muons and quadrupolar nuclei is highly sensitive to a local charge environment, and can thus be used as an environmental sensor.\n\n[Phys. Rev. Lett. 129, 097205] Published Fri Aug 26, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.097205",
-          "publishedOn": "2022-08-26T10:00:00.000Z",
-          "wordCount": 1312,
-          "title": "Entanglement between Muon and $I&gt;\\frac{1}{2}$ Nuclear Spins as a Probe of Charge Environment",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.097205.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.024413",
-          "author": "Michael Vennettilli, Louis González, Nicholas Hilgert, and Andrew Mugler",
-          "description": "Author(s): Michael Vennettilli, Louis González, Nicholas Hilgert, and Andrew Mugler\nThe authors investigated the effect of cell density on the ability of cells to detect the direction of fluid flow by self-communication. They calculated the critical density at which this process of autologous chemotaxis fails and determined how the critical density depends on system parameters. Interestingly, they also found conditions in which the direction sensed by the cell is opposite to the flow.\n\n[Phys. Rev. E 106, 024413] Published Fri Aug 26, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.024413",
-          "publishedOn": "2022-08-26T10:00:00.000Z",
-          "wordCount": 1134,
-          "title": "Autologous chemotaxis at high cell density",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.024413.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.025315",
-          "author": "Riccardo Fabbricatore and Vladimir V. Palyulin",
-          "description": "Author(s): Riccardo Fabbricatore and Vladimir V. Palyulin\nMachine learning has been widely used and analyzed in the context of physics problems, but reinforcement learning algorithms have not received a lot of attention. The authors analyze a prototypical example and show that it obeys a Langevin equation corresponding to a drift-diffusion process. Additionally, they show that a generalized scheme can be mapped onto a p-spin glass model, and suggest that the connection with disordered systems can inspire further developments.\n\n[Phys. Rev. E 106, 025315] Published Fri Aug 26, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.025315",
-          "publishedOn": "2022-08-26T10:00:00.000Z",
-          "wordCount": 1087,
-          "title": "Gradient dynamics in reinforcement learning",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.025315.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.106.024328",
-          "author": "E. Aprile <em>et al.</em> (XENON Collaboration\n)",
-          "description": "Author(s): E. Aprile et al. (XENON Collaboration\n)\nThis work uses two liquid-xenon detectors in the Gran Sasso Underground Laboratory, originally designed to search for dark matter, to find evidence for neutrinoless double-β decay. The results indicate that such dark-matter detectors can provide important constraints and potential discoveries beyond their original purpose and design. This is further illustrated by the first statistically significant observation of a rare two-neutrino decay of 124Xe.\n\n[Phys. Rev. C 106, 024328] Published Fri Aug 26, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.106.024328",
-          "publishedOn": "2022-08-26T10:00:00.000Z",
-          "wordCount": 2086,
-          "title": "Double-weak decays of $^{124}\\mathrm{Xe}$ and $^{136}\\mathrm{Xe}$ in the XENON1T and XENONnT experiments",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.106.024328.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.106.L021902",
-          "author": "Yasuki Tachibana, Chun Shen, and Abhijit Majumder",
-          "description": "Author(s): Yasuki Tachibana, Chun Shen, and Abhijit Majumder\nCollisions of heavy ions at relativistic energies produce strongly interacting matter in a state of high energy density, known as the quark-gluon plasma. Such events also produce energetic QCD jets that will interact, excite, and probe the plasma before being measured by the surrounding detectors. Using numerical modeling, this paper shows that the reconstructed jets have the potential to distinguish among different possible flow patterns of the underlying strongly interacting hadronic fluid.\n\n[Phys. Rev. C 106, L021902] Published Fri Aug 26, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.106.L021902",
-          "publishedOn": "2022-08-26T10:00:00.000Z",
-          "wordCount": 1160,
-          "title": "Bulk medium evolution has considerable effects on jet observables",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.106.L021902.png"
         }
       ]
     }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-24T01:18:40.453Z</id>
+    <id>urn:2022-09-25T01:14:17.972Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-24T01:18:40.453Z</updated>
+    <updated>2022-09-25T01:14:17.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1173,73 +1173,6 @@ Random flux can drive a phase transition from a metal to a higher-order topologi
 [Phys. Rev. B 106, L081410] Published Mon Aug 29, 2022]]></summary>
         <author>
             <name>Chang-An Li, Song-Bo Zhang, Jan Carl Budich, and Björn Trauzettel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entanglement between Muon and $I&gt;\frac{1}{2}$ Nuclear Spins as a Probe of Charge Environment]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.097205</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.097205"/>
-        <updated>2022-08-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pietro Bonfà, Jonathan Frassineti, John M. Wilkinson, Giacomo Prando, Muhammad Maikudi Isah, Chennan Wang, Tiziana Spina, Boby Joseph, Vesna F. Mitrović, Roberto De Renzi, Stephen J. Blundell, and Samuele Sanna
-The observed quantum coherence between the spins of muons and quadrupolar nuclei is highly sensitive to a local charge environment, and can thus be used as an environmental sensor.
-
-[Phys. Rev. Lett. 129, 097205] Published Fri Aug 26, 2022]]></summary>
-        <author>
-            <name>Pietro Bonfà, Jonathan Frassineti, John M. Wilkinson, Giacomo Prando, Muhammad Maikudi Isah, Chennan Wang, Tiziana Spina, Boby Joseph, Vesna F. Mitrović, Roberto De Renzi, Stephen J. Blundell, and Samuele Sanna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autologous chemotaxis at high cell density]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.024413</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.024413"/>
-        <updated>2022-08-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michael Vennettilli, Louis González, Nicholas Hilgert, and Andrew Mugler
-The authors investigated the effect of cell density on the ability of cells to detect the direction of fluid flow by self-communication. They calculated the critical density at which this process of autologous chemotaxis fails and determined how the critical density depends on system parameters. Interestingly, they also found conditions in which the direction sensed by the cell is opposite to the flow.
-
-[Phys. Rev. E 106, 024413] Published Fri Aug 26, 2022]]></summary>
-        <author>
-            <name>Michael Vennettilli, Louis González, Nicholas Hilgert, and Andrew Mugler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradient dynamics in reinforcement learning]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.025315</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.025315"/>
-        <updated>2022-08-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Riccardo Fabbricatore and Vladimir V. Palyulin
-Machine learning has been widely used and analyzed in the context of physics problems, but reinforcement learning algorithms have not received a lot of attention. The authors analyze a prototypical example and show that it obeys a Langevin equation corresponding to a drift-diffusion process. Additionally, they show that a generalized scheme can be mapped onto a p-spin glass model, and suggest that the connection with disordered systems can inspire further developments.
-
-[Phys. Rev. E 106, 025315] Published Fri Aug 26, 2022]]></summary>
-        <author>
-            <name>Riccardo Fabbricatore and Vladimir V. Palyulin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double-weak decays of $^{124}\mathrm{Xe}$ and $^{136}\mathrm{Xe}$ in the XENON1T and XENONnT experiments]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.106.024328</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.106.024328"/>
-        <updated>2022-08-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): E. Aprile et al. (XENON Collaboration
-)
-This work uses two liquid-xenon detectors in the Gran Sasso Underground Laboratory, originally designed to search for dark matter, to find evidence for neutrinoless double-β decay. The results indicate that such dark-matter detectors can provide important constraints and potential discoveries beyond their original purpose and design. This is further illustrated by the first statistically significant observation of a rare two-neutrino decay of 124Xe.
-
-[Phys. Rev. C 106, 024328] Published Fri Aug 26, 2022]]></summary>
-        <author>
-            <name>E. Aprile &lt;em&gt;et al.&lt;/em&gt; (XENON Collaboration
-)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulk medium evolution has considerable effects on jet observables]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.106.L021902</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.106.L021902"/>
-        <updated>2022-08-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yasuki Tachibana, Chun Shen, and Abhijit Majumder
-Collisions of heavy ions at relativistic energies produce strongly interacting matter in a state of high energy density, known as the quark-gluon plasma. Such events also produce energetic QCD jets that will interact, excite, and probe the plasma before being measured by the surrounding detectors. Using numerical modeling, this paper shows that the reconstructed jets have the potential to distinguish among different possible flow patterns of the underlying strongly interacting hadronic fluid.
-
-[Phys. Rev. C 106, L021902] Published Fri Aug 26, 2022]]></summary>
-        <author>
-            <name>Yasuki Tachibana, Chun Shen, and Abhijit Majumder</name>
         </author>
     </entry>
 </feed>
