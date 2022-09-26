@@ -91,7 +91,7 @@
           "description": "Author(s): José M. Chávez-Garcia, Firat Solgun, Jared B. Hertzberg, Oblesh Jinka, Markus Brink, and Baleegh Abdo\nSuperconducting qubits are building blocks for quantum processors, but they suffer from frequency collisions, which hinder the construction of large qubit lattices. This study introduces weakly tunable qubits, whose frequency can be tuned over a small range via external magnetic flux. Through theoretical derivation and experimental demonstration, the authors show that these transmonlike qubits—without losing the desired key properties—can be used to avoid frequency collisions in large qubit systems while minimizing the sensitivity to flux noise. They can also be applied to operate flux-tuned qubit gates.\n\n[Phys. Rev. Applied 18, 034057] Published Thu Sep 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034057",
           "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2206,
+          "wordCount": 2240,
           "title": "Weakly Flux-Tunable Superconducting Qubit",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034057.png"
         },
@@ -331,7 +331,7 @@
           "description": "Author(s): Hayato Goto\nTunable couplers, which turn on and off the interaction between qubits, have emerged as a key means to achieve low error rates in superconducting quantum computers. Conventional devices using one transmon qubit exhibit unwanted residual coupling, though, especially at the high detuning that is desirable for suppressing crosstalk errors. To solve this critical problem, the author proposes a tunable coupler based on two transmons that satisfies the ideal conditions of no residual coupling and fast two-qubit gate operations at high detuning. This double-transmon coupler is expected to become standard for superconducting architectures by eliminating unwanted coupling during idle time.\n\n[Phys. Rev. Applied 18, 034038] Published Thu Sep 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034038",
           "publishedOn": "2022-09-15T10:00:00.000Z",
-          "wordCount": 1232,
+          "wordCount": 1256,
           "title": "Double-Transmon Coupler: Fast Two-Qubit Gate with No Residual Coupling for Highly Detuned Superconducting Qubits",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034038.png"
         },
@@ -341,7 +341,7 @@
           "description": "Author(s): Jiri Smetana, Rebecca Walters, Sophie Bauchinger, Amit Singh Ubhi, Sam Cooper, David Hoyland, Richard Abbott, Christoph Baune, Peter Fritchel, Oliver Gerberding, Semjon Köhnke, Haixing Miao, Sebastian Rode, and Denis Martynov\nA sensor containing thumbnail-sized interferometers might help astronomers detect gravitational waves emitted from certain black hole mergers.\n\n[Phys. Rev. Applied 18, 034040] Published Thu Sep 15, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034040",
           "publishedOn": "2022-09-15T10:00:00.000Z",
-          "wordCount": 1206,
+          "wordCount": 1264,
           "title": "Compact Michelson Interferometers with Subpicometer Sensitivity",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034040.png"
         },
@@ -401,7 +401,7 @@
           "description": "Author(s): S.G. Robson, P. Räcke, A.M. Jakob, N. Collins, H.R. Firgau, V. Schmitt, V. Mourik, A. Morello, E. Mayes, D. Spemann, and D.N. Jamieson\nAlready a building block of modern life, silicon is also poised to power the next leap in information technology, in which the quantum mechanical properties of single impurities located just beneath its surface can be used to create vastly more powerful computers. Here a multinational team presents a specialized microscope to better understand the inner workings of such silicon chips, by scanning a finely focused beam of ultralow-energy ions across the surface. The tiny “click” that each ion makes when it hits the chip is detected and mapped, enabling the identification of manufacturing defects; these results can then be fed back to improve the fabrication process.\n\n[Phys. Rev. Applied 18, 034037] Published Wed Sep 14, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034037",
           "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 1716,
+          "wordCount": 1750,
           "title": "Near-Surface Electrical Characterization of Silicon Electronic Devices Using Focused keV-Range Ions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034037.png"
         },
@@ -421,7 +421,7 @@
           "description": "Author(s): Wladimir Sarlin, Cyprien Morize, Alban Sauret, and Philippe Gondret\nSudden large-scale geophysical flows such as cliff collapses, rockfalls, or massive landslides are known to be tsunamigenic and constitute a significant hazard for coastal populations and infrastructures. A key challenge is to be able to predict a priori the amplitude of the tsunami wave that would be engendered by a given cliff collapse. In this study, we introduce a comprehensive model of shallow water waves generated by the subaerial collapse of a granular column. The proposed model is able to capture the role of the geometry of the collapse as well as the water depth and is successfully compared to a large dataset of experiments.\n\n[Phys. Rev. Fluids 7, 094801] Published Tue Sep 13, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.094801",
           "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 1359,
+          "wordCount": 1417,
           "title": "From granular collapses to shallow water waves: A predictive model for tsunami generation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.094801.png"
         },
@@ -431,7 +431,7 @@
           "description": "Author(s): Ross Shillito, Alexandru Petrescu, Joachim Cohen, Jackson Beall, Markus Hauru, Martin Ganahl, Adam G.M. Lewis, Guifre Vidal, and Alexandre Blais\nQubit measurement is an essential step in any quantum computation. In circuit quantum electrodynamics, a leading quantum computer architecture, qubit readout is commonly one of the longest and lowest-fidelity processes. The authors numerically explore the dynamics of a driven transmon-resonator system under strong, nearly resonant measurement drives to better understand this issue. They find clear signs of transmon “ionization”, in which the qubit escapes its confining potential under the influence of the drive, and semiclassical methods then reveal the mechanism. This approach can be used to optimize circuit parameters, suppress these spurious effects, and increase readout fidelity.\n\n[Phys. Rev. Applied 18, 034031] Published Tue Sep 13, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034031",
           "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 1618,
+          "wordCount": 1642,
           "title": "Dynamics of Transmon Ionization",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034031.png"
         },
@@ -461,7 +461,7 @@
           "description": "Author(s): Dominique Legendre\nDirect numerical simulation of a rising skirt bubble reveals for the first time two toroidal vortices in the wake (left) as well as vorticity concentrated inside the skirt film (right).\n\n[Phys. Rev. Fluids 7, 093601] Published Mon Sep 12, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601",
           "publishedOn": "2022-09-12T10:00:00.000Z",
-          "wordCount": 2079,
+          "wordCount": 2021,
           "title": "Free rising skirt bubbles",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.093601.png"
         },
@@ -631,7 +631,7 @@
           "description": "Author(s): M. Checchin, D. Frolov, A. Lunin, A. Grassellino, and A. Romanenko\nEven though silicon is widely used in superconducting quantum processors as the substrate upon which qubits are fabricated, the effect of silicon on the performance of the qubits is not fully understood. Using ultrahigh-quality microwave cavities to measure dielectric loss with parts-per-billion precision, the authors clearly show that using silicon is detrimental to qubit coherence time. The loss tangent found here is an order of magnitude worse than previously measured. This study sheds light on the physical mechanisms behind dissipation in silicon, and highlights the need for further work to fully understand the origin of these losses, and how to mitigate them.\n\n[Phys. Rev. Applied 18, 034013] Published Wed Sep 07, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034013",
           "publishedOn": "2022-09-07T10:00:00.000Z",
-          "wordCount": 1211,
+          "wordCount": 1153,
           "title": "Measurement of the Low-Temperature Loss Tangent of High-Resistivity Silicon Using a High-$Q$ Superconducting Resonator",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034013.png"
         },
@@ -641,7 +641,7 @@
           "description": "Author(s): Masaya Arahata, Yu Mukai, Toshiyuki Tashima, Ryo Okamoto, and Shigeki Takeuchi\nInfrared quantum absorption spectroscopy (IRQAS) enables the estimation of a sample’s optical properties in the infrared region, using only a visible light source and detectors, which is technologically favorable. So far, spectral coverage of IRQAS systems has been limited to less than 1 µm. This work reports a wavelength-tunable IRQAS system and an efficient measurement scheme to achieve broadband spectroscopy in a short acquisition time. The successful demonstration of rapid spectral measurement over a wide midinfrared window (1.9–5.2 µm) exhibits the great potential of this technique and paves the way for the use of IRQAS in real-world applications.\n\n[Phys. Rev. Applied 18, 034015] Published Wed Sep 07, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034015",
           "publishedOn": "2022-09-07T10:00:00.000Z",
-          "wordCount": 1274,
+          "wordCount": 1298,
           "title": "Wavelength-Tunable Quantum Absorption Spectroscopy in the Broadband Midinfrared Region",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034015.png"
         },
@@ -691,7 +691,7 @@
           "description": "Author(s): Lee R. Liu, P. Bryan Changala, Marissa L. Weichman, Qizhong Liang, Jutta Toscano, Jacek Kłos, Svetlana Kotochigova, David J. Nesbitt, and Jun Ye\nHigh-resolution experiments show how to determine the rotational and vibrational inelastic collision cross sections of a very large molecule, providing guidance toward probing novel quantum dynamics.\n\n[PRX Quantum 3, 030332] Published Fri Sep 02, 2022",
           "link": "http://link.aps.org/doi/10.1103/PRXQuantum.3.030332",
           "publishedOn": "2022-09-02T10:00:00.000Z",
-          "wordCount": 2164,
+          "wordCount": 2163,
           "title": "Collision-Induced ${\\mathrm{C}}_{60}$ Rovibrational Relaxation Probed by State-Resolved Nonlinear Spectroscopy",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.3.030332.png"
         },
