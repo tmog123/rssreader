@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T01:16:39.711Z</id>
+    <id>urn:2022-09-28T01:17:07.695Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T01:16:39.711Z</updated>
+    <updated>2022-09-28T01:17:07.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Emergence of Fermi’s Golden Rule]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.140402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.140402"/>
+        <updated>2022-09-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tobias Micklitz, Alan Morningstar, Alexander Altland, and David A. Huse
+Researchers have calculated the likelihood that a quantum state will decay when its evolution is inhibited by a lack of availability of final states.
+
+[Phys. Rev. Lett. 129, 140402] Published Tue Sep 27, 2022]]></summary>
+        <author>
+            <name>Tobias Micklitz, Alan Morningstar, Alexander Altland, and David A. Huse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From inertial to viscous slumping: Numerical and experimental insights of a transient intermediate regime]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.094803</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.094803"/>
+        <updated>2022-09-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexis Bougouin and Laurent Lacaze
+The transition from a purely inertial to a purely viscous liquid slumping induced by a dam-break flow over a horizontal surface is highlighted and characterized as a specific adaptive regime, during which the viscous regime progressively invades the entire current.
+
+[Phys. Rev. Fluids 7, 094803] Published Tue Sep 27, 2022]]></summary>
+        <author>
+            <name>Alexis Bougouin and Laurent Lacaze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental determination of the propulsion matrix of the body of helical <i>Magnetospirillum magneticum</i> cells]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.034407</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.034407"/>
+        <updated>2022-09-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Liu Yu (虞柳), Lucas Le Nagard, Solomon Barkley, Lauren Smith, and Cécile Fradin
+How microorganisms swim depends on the friction they experience under both translational and rotational motion. An experimental study of helical bacteria shows how various friction coefficients depend on the shape of the bacteria, and shows that cell body rotation could significantly contribute to cellular propulsion.
+
+[Phys. Rev. E 106, 034407] Published Tue Sep 27, 2022]]></summary>
+        <author>
+            <name>Liu Yu (虞柳), Lucas Le Nagard, Solomon Barkley, Lauren Smith, and Cécile Fradin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transverse Electron-Beam Shaping with Light]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.12.031043</id>
@@ -1173,45 +1212,6 @@ The authors report the direct electrical detection of spin-momentum locking, a m
 [Phys. Rev. A 106, 023521] Published Tue Aug 30, 2022]]></summary>
         <author>
             <name>P. Moroshkin, J. Plumitallo, T. Ochiai, R. Osgood, III, and J. M. Xu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact Forces of Water Drops Falling on Superhydrophobic Surfaces]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.104501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.104501"/>
-        <updated>2022-08-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Bin Zhang, Vatsal Sanjay, Songlin Shi, Yinggang Zhao, Cunjing Lv, Xi-Qiao Feng, and Detlef Lohse
-High-speed imaging captures the impact of a water droplet on a superhydrophobic surface and uncovers the effects of a time-delayed secondary force that lifts the droplet off the surface.
-
-[Phys. Rev. Lett. 129, 104501] Published Mon Aug 29, 2022]]></summary>
-        <author>
-            <name>Bin Zhang, Vatsal Sanjay, Songlin Shi, Yinggang Zhao, Cunjing Lv, Xi-Qiao Feng, and Detlef Lohse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoemission Spectroscopy Using Virtual Photons Emitted by Positron Sticking: A Complementary Probe for Top-Layer Surface Electronic Structures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.106801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.106801"/>
-        <updated>2022-08-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alexander J. Fairchild, Varghese A. Chirayath, Randall W. Gladen, Ali R. Koymen, Alex H. Weiss, and Bernardo Barbiellini
-Researchers have demonstrated a way of measuring the electronic states of a material’s surface while avoiding signal contaminations from deeper layers.
-
-[Phys. Rev. Lett. 129, 106801] Published Mon Aug 29, 2022]]></summary>
-        <author>
-            <name>Alexander J. Fairchild, Varghese A. Chirayath, Randall W. Gladen, Ali R. Koymen, Alex H. Weiss, and Bernardo Barbiellini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transition from metal to higher-order topological insulator driven by random flux]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L081410</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L081410"/>
-        <updated>2022-08-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chang-An Li, Song-Bo Zhang, Jan Carl Budich, and Björn Trauzettel
-Random flux can drive a phase transition from a metal to a higher-order topological insulator in the two-dimensional Su-Schrieffer-Heeger model. This transition happens in the vicinity of zero energy which is surprising when compared to the influence of random flux on a simple square-lattice model. The authors analytically discover the importance of sublattice degrees of freedom for the transition to happen.
-
-[Phys. Rev. B 106, L081410] Published Mon Aug 29, 2022]]></summary>
-        <author>
-            <name>Chang-An Li, Song-Bo Zhang, Jan Carl Budich, and Björn Trauzettel</name>
         </author>
     </entry>
 </feed>
