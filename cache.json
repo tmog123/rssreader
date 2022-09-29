@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.144502",
+          "author": "Yuchen He, Alexey Slunyaev, Nobuhito Mori, and Amin Chabchoub",
+          "description": "Author(s): Yuchen He, Alexey Slunyaev, Nobuhito Mori, and Amin Chabchoub\nResearchers create the most realistic rogue waves to date, showing dynamics that follow those expected for extreme waves in more idealized systems.\n\n[Phys. Rev. Lett. 129, 144502] Published Wed Sep 28, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.144502",
+          "publishedOn": "2022-09-28T10:00:00.000Z",
+          "wordCount": 1235,
+          "title": "Experimental Evidence of Nonlinear Focusing in Standing Water Waves",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.144502.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.034136",
+          "author": "Peter Mausbach, Robin Fingerhut, and Jadran Vrabec",
+          "description": "Author(s): Peter Mausbach, Robin Fingerhut, and Jadran Vrabec\nThe concept of curvature in Riemannian geometry can be used to study equilibrium thermodynamics. In this paper, the authors analyze the Ricci curvature for several simple model fluids and examine the behavior of two boundary lines in the fluids’ phase diagrams.\n\n[Phys. Rev. E 106, 034136] Published Wed Sep 28, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.034136",
+          "publishedOn": "2022-09-28T10:00:00.000Z",
+          "wordCount": 1473,
+          "title": "Thermodynamic metric geometry and the Fisher-Widom line of simple fluids",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.034136.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.115146",
+          "author": "M. Winkler, L. Prodan, V. Tsurkan, P. Lunkenheimer, and I. Kézsmárki",
+          "description": "Author(s): M. Winkler, L. Prodan, V. Tsurkan, P. Lunkenheimer, and I. Kézsmárki\nApplying dielectric spectroscopy and other techniques, the authors find antipolar ordering at the structural and magnetic transitions of the lacunar spinels GaNb4Se8 and GaTa4Se8, materials with substantial spin-orbit coupling. It arises from polar distortions of the moleculelike Nb4Se4 and Ta4Se4 clusters, typical for the crystalline lattice of lacunar spinels. Moreover, aside from dipolar relaxations and weak ferroelectric ordering, charge transport governed by in-gap impurity states is found at low temperatures, as previously suggested to explain the resistive switching in these compounds.\n\n[Phys. Rev. B 106, 115146] Published Wed Sep 28, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.115146",
+          "publishedOn": "2022-09-28T10:00:00.000Z",
+          "wordCount": 1187,
+          "title": "Antipolar transitions in ${\\mathrm{GaNb}}_{4}{\\mathrm{Se}}_{8}$ and ${\\mathrm{GaTa}}_{4}{\\mathrm{Se}}_{8}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.115146.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.125144",
+          "author": "Alexei M. Tsvelik and Piers Coleman",
+          "description": "Author(s): Alexei M. Tsvelik and Piers Coleman\n“Order fractionalization” results when a Yao-Lee spin liquid on a honeycomb lattice is exchange coupled to a conduction sea to form a Kondo lattice. Binding between the electrons and the Majorana excitations of the spin liquid gives rise to a condensate of charge-e S=½ spinor bosons. The tunneling of electrons through the spin liquid takes place over arbitrarily large distances, giving rise to a gapless cone of neutral Majorana excitations.\n\n[Phys. Rev. B 106, 125144] Published Wed Sep 28, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.125144",
+          "publishedOn": "2022-09-28T10:00:00.000Z",
+          "wordCount": 1404,
+          "title": "Order fractionalization in a Kitaev-Kondo model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.125144.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.140402",
           "author": "Tobias Micklitz, Alan Morningstar, Alexander Altland, and David A. Huse",
           "description": "Author(s): Tobias Micklitz, Alan Morningstar, Alexander Altland, and David A. Huse\nResearchers have calculated the likelihood that a quantum state will decay when its evolution is inhibited by a lack of availability of final states.\n\n[Phys. Rev. Lett. 129, 140402] Published Tue Sep 27, 2022",
@@ -201,7 +241,7 @@
           "description": "Author(s): David B. Brückner, Matthew Schmitt, Alexandra Fink, Georg Ladurner, Johannes Flommersfeld, Nicolas Arlt, Edouard Hannezo, Joachim O. Rädler, and Chase P. Broedersz\nExperiments demonstrate that biological cells actively change shape to respond to their surroundings when moving in confined regions.\n\n[Phys. Rev. X 12, 031041] Published Tue Sep 20, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.031041",
           "publishedOn": "2022-09-20T10:00:00.000Z",
-          "wordCount": 3993,
+          "wordCount": 3994,
           "title": "Geometry Adaptation of Protrusion and Polarity Dynamics in Confined Cell Migration",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.031041.png"
         },
@@ -834,106 +874,6 @@
           "wordCount": 2740,
           "title": "Competition between spin ordering and superconductivity near the pseudogap boundary in ${\\mathrm{La}}_{2\\text{−}x}{\\mathrm{Sr}}_{x}{\\mathrm{CuO}}_{4}$: Insights from NMR",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.054522.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.030330",
-          "author": "Martin Koppenhöfer, Peter Groszkowski, Hoi-Kwan Lau, and A.A. Clerk",
-          "description": "Author(s): Martin Koppenhöfer, Peter Groszkowski, Hoi-Kwan Lau, and A.A. Clerk\nA new quantum metrological protocol achieves high sensitivity despite the imperfections of realistic noisy solid-state spin readout.\n\n[PRX Quantum 3, 030330] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.3.030330",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 2554,
-          "title": "Dissipative Superradiant Spin Amplifier for Enhanced Quantum Sensing",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.3.030330.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.084412",
-          "author": "Xiao Wang, Alexandra R. Stuart, Mitchell S. Swyt, Carla M. Quispe Flores, Andy T. Clark, Adzo Fiagbenu, Rajesh V. Chopdekar, Pavel N. Lapa, Zhuyun Xiao, Dava Keavney, Richard Rosenberg, Michael Vogel, John E. Pearson, Suzanne G. E. te Velthuis, Axel Hoffmann, Kristen S. Buchanan, and Xuemei M. Cheng",
-          "description": "Author(s): Xiao Wang, Alexandra R. Stuart, Mitchell S. Swyt, Carla M. Quispe Flores, Andy T. Clark, Adzo Fiagbenu, Rajesh V. Chopdekar, Pavel N. Lapa, Zhuyun Xiao, Dava Keavney, Richard Rosenberg, Michael Vogel, John E. Pearson, Suzanne G. E. te Velthuis, Axel Hoffmann, Kristen S. Buchanan, and Xuemei M. Cheng\nMagnetic skyrmions are topologically protected spin textures that have attracted considerable interest recently. This paper reports the discovery of a topological spin memory effect, which provides a promising new avenue for information encryption and recovery. The authors demonstrate experimentally that antiferromagnetically (AFM)-coupled bubble skyrmion pairs stabilized in a Co/Gd/Pt multilayered film at room temperature evolve into complex in-plane spin textures as the temperature is lowered and then reform completely when warmed back up. Simulations show that Dzyaloshinskii-Moriya interactions play a key role in this spin memory effect and reveal that the topological charge is preserved throughout the spin reorientation transition and recovery.\n\n[Phys. Rev. Materials 6, 084412] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.084412",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1806,
-          "title": "Topological spin memory of antiferromagnetically coupled skyrmion pairs in Co/Gd/Pt multilayers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.084412.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.107202",
-          "author": "Connor Lenihan, Aaram J. Kim, Fedor Šimkovic, IV, and Evgeny Kozik",
-          "description": "Author(s): Connor Lenihan, Aaram J. Kim, Fedor Šimkovic, IV, and Evgeny Kozik\nA new technique based on Diagrammatic Monte Carlo is used to probe second-order phase transitions, allowing one to obtain phase diagrams with controlled error bars in hitherto inaccessible regimes.\n\n[Phys. Rev. Lett. 129, 107202] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.107202",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 983,
-          "title": "Evaluating Second-Order Phase Transitions with Diagrammatic Monte Carlo: Néel Transition in the Doped Three-Dimensional Hubbard Model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.107202.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.024136",
-          "author": "Jean Barbier and Nicolas Macris",
-          "description": "Author(s): Jean Barbier and Nicolas Macris\nDictionary learning, a machine learning technique using a representation in terms of dictionary elements, is commonly used for problems where the number of elements is small. Here, the authors use a replica method to address the case where the number of elements is large and scales with the system size, resulting in a more tractable calculation.\n\n[Phys. Rev. E 106, 024136] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.024136",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1094,
-          "title": "Statistical limits of dictionary learning: Random matrix theory and the spectral replica method",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.024136.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.054435",
-          "author": "L.-M. Kern, B. Pfau, M. Schneider, K. Gerlinger, V. Deinhart, S. Wittrock, T. Sidiropoulos, D. Engel, I. Will, C. M. Günther, K. Litzius, S. Wintz, M. Weigand, F. Büttner, and S. Eisebitt",
-          "description": "Author(s): L.-M. Kern, B. Pfau, M. Schneider, K. Gerlinger, V. Deinhart, S. Wittrock, T. Sidiropoulos, D. Engel, I. Will, C. M. Günther, K. Litzius, S. Wintz, M. Weigand, F. Büttner, and S. Eisebitt\nA single laser pulse can create nanometer-scale magnetic skyrmions in a thin film ferromagnet. However, the skyrmions appear randomly distributed within the excited film area hampering application of the process. Here, the authors present a reliable approach to gain nanometer spatial control over the skyrmions’ positions: reflective masks fabricated on the material’s backside locally affect the optical excitation amplitudes reached. The backside masks precisely define preferred and inhibited regions for skyrmion nucleation while maintaining frontside access to the magnetic film.\n\n[Phys. Rev. B 106, 054435] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.054435",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1424,
-          "title": "Tailoring optical excitation to control magnetic skyrmion nucleation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.054435.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.054521",
-          "author": "Logan Bishop-Van Horn, Irene P. Zhang, Emily N. Waite, Ian Mondragon-Shem, Scott Jensen, Junseok Oh, Tom Lippman, Malcolm Durkin, Taylor L. Hughes, Nadya Mason, Kathryn A. Moler, and Ilya Sochnikov",
-          "description": "Author(s): Logan Bishop-Van Horn, Irene P. Zhang, Emily N. Waite, Ian Mondragon-Shem, Scott Jensen, Junseok Oh, Tom Lippman, Malcolm Durkin, Taylor L. Hughes, Nadya Mason, Kathryn A. Moler, and Ilya Sochnikov\nUsing scanning SQUID susceptometry, the authors measure the local magnetic response of arrays of proximity-coupled superconducting nanoislands with engineered spatial disorder. The measurements, along with detailed numerical simulations, reveal a magnetic susceptibility that is nonlinear, spatially inhomogeneous, and strongly dependent on disorder. This work demonstrates the design, control, and measurement of a model superconducting system to simulate the spatial evolution of superfluid density and phase coherence in 2D superconductors with micron-scale disorder.\n\n[Phys. Rev. B 106, 054521] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.054521",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1791,
-          "title": "Local imaging of diamagnetism in proximity-coupled niobium nanoisland arrays on gold thin films",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.054521.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.075153",
-          "author": "Yi Chen, Wei Ruan, Jeffrey D. Cain, Ryan L. Lee, Salman Kahn, Caihong Jia, Alex Zettl, and Michael F. Crommie",
-          "description": "Author(s): Yi Chen, Wei Ruan, Jeffrey D. Cain, Ryan L. Lee, Salman Kahn, Caihong Jia, Alex Zettl, and Michael F. Crommie\nIs it possible to have a single crystal that hosts a variety of correlated surface states? Layered transition metal dichalcogenides such as bulk 1T-TaSe2 offer a unique platform for accomplishing this since the electrons in each charge density wave (CDW) unit cell are susceptible to both Coulomb repulsion and interlayer coupling. By using scanning tunneling microscopy and spectroscopy, the authors identify here a multitude of correlated surface states that exist on bulk 1T-TaSe2 with properties ranging all the way from Mott insulating to strongly metallic Kondo behavior. 1T-TaSe2 thus simulates the full range of the periodic Anderson model within a single crystal by combining electron correlations with variable interlayer coupling.\n\n[Phys. Rev. B 106, 075153] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.075153",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1421,
-          "title": "Observation of a multitude of correlated states at the surface of bulk $1T\\text{−}{\\mathrm{TaSe}}_{2}$ crystals",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.075153.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.085429",
-          "author": "Tudor D. Stanescu and Sankar Das Sarma",
-          "description": "Author(s): Tudor D. Stanescu and Sankar Das Sarma\nDetailed understanding of proximity-induced superconductivity generated by thin films has become critical in the context of recent efforts to realize topological quantum states in superconductor-based hybrid structures. Using a 3D microscopic model, the authors demonstrate here that disorder in the film is both essential for inducing robust superconductivity and potentially detrimental, as it generates “induced disorder”. Films with surface roughness are shown to induce uniform-enough topological superconductivity in a semiconductor, provided the coupling of the two subsystems is sufficiently weak.\n\n[Phys. Rev. B 106, 085429] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.085429",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 3770,
-          "title": "Proximity-induced superconductivity generated by thin films: Effects of Fermi surface mismatch and disorder in the superconductor",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.085429.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024078",
-          "author": "Shuaifeng Li, Liza M. Roger, Judith Klein-Seetharaman, Nastassja A. Lewinski, and Jinkyu Yang",
-          "description": "Author(s): Shuaifeng Li, Liza M. Roger, Judith Klein-Seetharaman, Nastassja A. Lewinski, and Jinkyu Yang\nHuman activities threaten coral survival. A better understanding of the coral behaviors in response to environmental changes may lead to a rescue plan but remains challenging. The authors demonstrate quantitative features of coral motion—a key trait of coral polyps—through real-time microscopy on a fluidic platform, and discover the correlated fractional Brownian motion of coral polyps under different light and temperature conditions. Numerical analysis and theoretical modeling are performed to interpret the observed coral dynamics. This work provides systematic techniques to study coral polyp motions and advances our knowledge of their behavior under climate change.\n\n[Phys. Rev. Applied 18, 024078] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.024078",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1637,
-          "title": "Spatiotemporal Dynamics of Coral Polyps on a Fluidic Platform",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.024078.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.023521",
-          "author": "P. Moroshkin, J. Plumitallo, T. Ochiai, R. Osgood, III, and J. M. Xu",
-          "description": "Author(s): P. Moroshkin, J. Plumitallo, T. Ochiai, R. Osgood, III, and J. M. Xu\nThe authors report the direct electrical detection of spin-momentum locking, a mechanism underlying the surface-plasmon-polariton waves, via direct measurement of the optical rectification current induced in an asymmetric metallic grating by a circularly polarized light. The work could potentially be useful for the surface-plasmon-mediated electrical detection of chiral objects to distinguish enantiomers that are otherwise indistinguishable.\n\n[Phys. Rev. A 106, 023521] Published Tue Aug 30, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.023521",
-          "publishedOn": "2022-08-30T10:00:00.000Z",
-          "wordCount": 1013,
-          "title": "Spin-momentum locking in optical rectification",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.023521.png"
         }
       ]
     }
