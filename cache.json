@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041001",
+          "author": "L. Gavassino",
+          "description": "Author(s): L. Gavassino\nA fluid dynamics theory that violates causality would always generate paradoxical instabilities—a result that could guide the search for a theory for relativistic fluids.\n\n[Phys. Rev. X 12, 041001] Published Mon Oct 03, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.041001",
+          "publishedOn": "2022-10-03T10:00:00.000Z",
+          "wordCount": 2027,
+          "title": "Can We Make Sense of Dissipation without Causality?",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.041001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.154301",
+          "author": "Ying Chen, Yuhang Yin, Zhi-Kang Lin, Ze-Huan Zheng, Yang Liu, Jing Li, Jian-Hua Jiang, and Huanyang Chen",
+          "description": "Author(s): Ying Chen, Yuhang Yin, Zhi-Kang Lin, Ze-Huan Zheng, Yang Liu, Jing Li, Jian-Hua Jiang, and Huanyang Chen\nNew experimental work on topological phenomena at defects reveals the nontrivial interplay between the non-Euclidean geometries in real space and the band topology in reciprocal space.\n\n[Phys. Rev. Lett. 129, 154301] Published Mon Oct 03, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.154301",
+          "publishedOn": "2022-10-03T10:00:00.000Z",
+          "wordCount": 1301,
+          "title": "Observation of Topological $p$-Orbital Disclination States in Non-Euclidean Acoustic Metamaterials",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.154301.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.033249",
           "author": "Max Lipton, Alex Townsend, and Steven H. Strogatz",
           "description": "Author(s): Max Lipton, Alex Townsend, and Steven H. Strogatz\nThe electrostatic equilibrium points and equipotential surfaces around uniformly charged loops in the plane and knots in three dimensions is studied. Findings include symmetry-breaking bifurcations as well as topological transitions as the shape of the charge distribution or the level of the potential are varied.\n\n[Phys. Rev. Research 4, 033249] Published Fri Sep 30, 2022",
@@ -421,7 +441,7 @@
           "description": "Author(s): Yu Liu (刘育), M. M. Bordelon, A. Weiland, P. F. S. Rosa, S. M. Thomas, J. D. Thompson, F. Ronning, and E. D. Bauer\nLayered van der Waals (vdW) magnetic materials have attracted widespread attention as new platforms for understanding and controlling magnetism in the two-dimensional limit for spintronic devices. In contrast to 3d-electron vdW magnets, very few f-electron vdW magnets have been studied. Here, the authors report the physical properties of Ce2Te5 single crystals, a layered 4f-electron vdW magnet. Four consecutive (magnetic) phase transitions at ∼ 5.2, 2.1, 0.9, and 0.4 K are observed, suggesting competing antiferromagnetic and ferromagnetic exchange interactions. The Hall effect indicates that Ce2Te5 is a multiband system with a relatively high electron mobility, providing opportunities for future device applications.\n\n[Phys. Rev. Materials 6, 094407] Published Fri Sep 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.094407",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 1133,
+          "wordCount": 1132,
           "title": "Physical properties of the layered $f$-electron van der Waals magnet ${\\mathrm{Ce}}_{2}{\\mathrm{Te}}_{5}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.094407.png"
         },
@@ -671,7 +691,7 @@
           "description": "Author(s): Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra\nThe authors develop a perturbative approach to cosmic structure formation based on Feynman diagrams in close analogy to quantum field theory. This is based on a previously developed path integral formulation for classical systems (Kinetic Field Theory) that includes averaging over probability distributions of initial conditions.\n\n[Phys. Rev. D 106, 063513] Published Mon Sep 12, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.063513",
           "publishedOn": "2022-09-12T10:00:00.000Z",
-          "wordCount": 1086,
+          "wordCount": 1087,
           "title": "Kinetic field theory: Higher-order perturbation theory",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.063513.png"
         },
@@ -741,7 +761,7 @@
           "description": "Author(s): X. Zhang, K. Beloy, Y. S. Hassan, W. F. McGrew, C.-C. Chen, J. L. Siegel, T. Grogan, and A. D. Ludlow\nResearchers have cooled ytterbium atoms to a few tens of nanokelvin, which might usher in the next generation of optical atomic clocks.\n\n[Phys. Rev. Lett. 129, 113202] Published Thu Sep 08, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.113202",
           "publishedOn": "2022-09-08T10:00:00.000Z",
-          "wordCount": 1333,
+          "wordCount": 1334,
           "title": "Subrecoil Clock-Transition Laser Cooling Enabling Shallow Optical Lattice Clocks",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.113202.png"
         },
