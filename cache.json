@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.155301",
+          "author": "H. Sigurdsson, I. Gnusov, S. Alyatkin, L. Pickup, N. A. Gippius, P. G. Lagoudakis, and A. Askitopoulos",
+          "description": "Author(s): H. Sigurdsson, I. Gnusov, S. Alyatkin, L. Pickup, N. A. Gippius, P. G. Lagoudakis, and A. Askitopoulos\nA polariton condensate can spontaneously rotate, causing it to live significantly longer than individual polaritons would.\n\n[Phys. Rev. Lett. 129, 155301] Published Tue Oct 04, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.155301",
+          "publishedOn": "2022-10-04T10:00:00.000Z",
+          "wordCount": 1086,
+          "title": "Persistent Self-Induced Larmor Precession Evidenced through Periodic Revivals of Coherence",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.155301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.134402",
+          "author": "Li Ern Chern, Yong Baek Kim, and Claudio Castelnovo",
+          "description": "Author(s): Li Ern Chern, Yong Baek Kim, and Claudio Castelnovo\nGeometric frustration in spin systems offers potential routes to realize unusual phases of matter. The authors consider emergent quantum spin liquids of interacting S=1/2 moments on the pyrochlore lattice with a breathing anisotropy, where two inequivalent sets of tetrahedra are present. They classify possible Z2 and U(1) quantum spin liquids in this system and find a small number of physically motivated candidates. In particular, two degenerate U(1) spin liquids are identified for the antiferromagnetic Heisenberg model. The degeneracy is robust with respect to tuning the breathing anisotropy, but it can be lifted by a finite Dzyaloshinskii-Moriya interaction. The effect of gauge fluctuations in a gapless U(1) spin liquid is investigated for comparison with future experiments.\n\n[Phys. Rev. B 106, 134402] Published Tue Oct 04, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.134402",
+          "publishedOn": "2022-10-04T10:00:00.000Z",
+          "wordCount": 1308,
+          "title": "Competing quantum spin liquids, gauge fluctuations, and anisotropic interactions in a breathing pyrochlore lattice",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.134402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.144402",
+          "author": "Satoru Hayami",
+          "description": "Author(s): Satoru Hayami\nAn electric ferroaxial moment is a fundamental dipole moment like the ferroelectric, ferromagnetic, and ferromagnetic-toroidal moments. Nevertheless, its nature has been masked compared to the ferromagnetic and ferroelectric cases. Based on symmetry and microscopic-model analyses, the author reveals when and how such a ferroaxial entity appears in magnetic materials. It is demonstrated that a vortex spin configuration naturally induces a ferroaxial moment. The finding will stimulate future exploration of magnetic ferroaxial materials.\n\n[Phys. Rev. B 106, 144402] Published Tue Oct 04, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.144402",
+          "publishedOn": "2022-10-04T10:00:00.000Z",
+          "wordCount": 1156,
+          "title": "Ferroaxial moment induced by vortex spin texture",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.144402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044006",
+          "author": "Alan A. Kaptanoglu, Tony Qian, Florian Wechsung, and Matt Landreman",
+          "description": "Author(s): Alan A. Kaptanoglu, Tony Qian, Florian Wechsung, and Matt Landreman\nThough permanent magnets are ubiquitous in science and everyday society, we still lack a systematic analysis of how to optimally place and orient a large set of them in a (much larger) set of possible locations. This study reformulates the problem in terms of sparse regression, and offers an algorithm that can effectively solve the problem for nonconvex systems with over 106 optimizable variables and constraints. The authors then obtain high-performance designs for a class of familiar fusion-power devices called stellarators. Because their algorithm addresses problems that appear across many scientific domains, it should prove extremely impactful.\n\n[Phys. Rev. Applied 18, 044006] Published Tue Oct 04, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044006",
+          "publishedOn": "2022-10-04T10:00:00.000Z",
+          "wordCount": 1200,
+          "title": "Permanent-Magnet Optimization for Stellarators as Sparse Regression",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.044006.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041001",
           "author": "L. Gavassino",
           "description": "Author(s): L. Gavassino\nA fluid dynamics theory that violates causality would always generate paradoxical instabilities—a result that could guide the search for a theory for relativistic fluids.\n\n[Phys. Rev. X 12, 041001] Published Mon Oct 03, 2022",
@@ -441,7 +481,7 @@
           "description": "Author(s): Yu Liu (刘育), M. M. Bordelon, A. Weiland, P. F. S. Rosa, S. M. Thomas, J. D. Thompson, F. Ronning, and E. D. Bauer\nLayered van der Waals (vdW) magnetic materials have attracted widespread attention as new platforms for understanding and controlling magnetism in the two-dimensional limit for spintronic devices. In contrast to 3d-electron vdW magnets, very few f-electron vdW magnets have been studied. Here, the authors report the physical properties of Ce2Te5 single crystals, a layered 4f-electron vdW magnet. Four consecutive (magnetic) phase transitions at ∼ 5.2, 2.1, 0.9, and 0.4 K are observed, suggesting competing antiferromagnetic and ferromagnetic exchange interactions. The Hall effect indicates that Ce2Te5 is a multiband system with a relatively high electron mobility, providing opportunities for future device applications.\n\n[Phys. Rev. Materials 6, 094407] Published Fri Sep 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.094407",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 1132,
+          "wordCount": 1133,
           "title": "Physical properties of the layered $f$-electron van der Waals magnet ${\\mathrm{Ce}}_{2}{\\mathrm{Te}}_{5}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.094407.png"
         },
