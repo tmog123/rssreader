@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.104001",
+          "author": "Daniel T. A. Jordan, Neil M. Ribe, Antoine Deblais, and Daniel Bonn",
+          "description": "Author(s): Daniel T. A. Jordan, Neil M. Ribe, Antoine Deblais, and Daniel Bonn\nPour coffee into a mug, and you might notice that the water cascading from the jug resembles a chain: A series of “links” oriented at 90° to one another. Such oscillating jets occur frequently in our daily lives, but their origin is still not fully understood. In this study, we performed experiments and direct numerical simulations to show that the wavelength and amplitude of the jet’s oscillations and surfaces are directly linked to the flow rate and size of the opening through which the liquid flows.\n\n[Phys. Rev. Fluids 7, 104001] Published Tue Oct 11, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.104001",
+          "publishedOn": "2022-10-11T10:00:00.000Z",
+          "wordCount": 1523,
+          "title": "Chain oscillations in liquid jets",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.104001.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043013",
           "author": "Anders Irbäck, Lucas Knuthson, Sandipan Mohanty, and Carsten Peterson",
           "description": "Author(s): Anders Irbäck, Lucas Knuthson, Sandipan Mohanty, and Carsten Peterson\nA lattice protein encoding is developed for finding the lowest energies on a quantum annealer. It is implemented to run on a D-Wave Advantage and yields correct results for nontrivial chain lengths.\n\n[Phys. Rev. Research 4, 043013] Published Mon Oct 10, 2022",
@@ -821,7 +831,7 @@
           "description": "Author(s): Ross Shillito, Alexandru Petrescu, Joachim Cohen, Jackson Beall, Markus Hauru, Martin Ganahl, Adam G.M. Lewis, Guifre Vidal, and Alexandre Blais\nQubit measurement is an essential step in any quantum computation. In circuit quantum electrodynamics, a leading quantum computer architecture, qubit readout is commonly one of the longest and lowest-fidelity processes. The authors numerically explore the dynamics of a driven transmon-resonator system under strong, nearly resonant measurement drives to better understand this issue. They find clear signs of transmon “ionization”, in which the qubit escapes its confining potential under the influence of the drive, and semiclassical methods then reveal the mechanism. This approach can be used to optimize circuit parameters, suppress these spurious effects, and increase readout fidelity.\n\n[Phys. Rev. Applied 18, 034031] Published Tue Sep 13, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.034031",
           "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 1563,
+          "wordCount": 1562,
           "title": "Dynamics of Transmon Ionization",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034031.png"
         },
@@ -834,36 +844,6 @@
           "wordCount": 1509,
           "title": "Geometric link between the Hardy nonlocality condition and the Clauser-Horne-Shimony-Holt inequality",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.032211.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.123001",
-          "author": "Yaakov Y. Fein, Sebastian Pedalino, Armin Shayeghi, Filip Kiałka, Stefan Gerlich, and Markus Arndt",
-          "description": "Author(s): Yaakov Y. Fein, Sebastian Pedalino, Armin Shayeghi, Filip Kiałka, Stefan Gerlich, and Markus Arndt\nA matter-wave interferometer can probe the magnetism of a broad range of species, from single atoms to very large, weakly magnetic molecules.\n\n[Phys. Rev. Lett. 129, 123001] Published Mon Sep 12, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.123001",
-          "publishedOn": "2022-09-12T10:00:00.000Z",
-          "wordCount": 1181,
-          "title": "Nanoscale Magnetism Probed in a Matter-Wave Interferometer",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.123001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601",
-          "author": "Dominique Legendre",
-          "description": "Author(s): Dominique Legendre\nDirect numerical simulation of a rising skirt bubble reveals for the first time two toroidal vortices in the wake (left) as well as vorticity concentrated inside the skirt film (right).\n\n[Phys. Rev. Fluids 7, 093601] Published Mon Sep 12, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601",
-          "publishedOn": "2022-09-12T10:00:00.000Z",
-          "wordCount": 1966,
-          "title": "Free rising skirt bubbles",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.093601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.063513",
-          "author": "Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra",
-          "description": "Author(s): Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra\nThe authors develop a perturbative approach to cosmic structure formation based on Feynman diagrams in close analogy to quantum field theory. This is based on a previously developed path integral formulation for classical systems (Kinetic Field Theory) that includes averaging over probability distributions of initial conditions.\n\n[Phys. Rev. D 106, 063513] Published Mon Sep 12, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.063513",
-          "publishedOn": "2022-09-12T10:00:00.000Z",
-          "wordCount": 1087,
-          "title": "Kinetic field theory: Higher-order perturbation theory",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.063513.png"
         }
       ]
     }

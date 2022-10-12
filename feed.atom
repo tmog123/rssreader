@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T01:13:03.420Z</id>
+    <id>urn:2022-10-12T01:28:27.491Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-11T01:13:03.420Z</updated>
+    <updated>2022-10-12T01:28:27.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chain oscillations in liquid jets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.104001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.104001"/>
+        <updated>2022-10-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Daniel T. A. Jordan, Neil M. Ribe, Antoine Deblais, and Daniel Bonn
+Pour coffee into a mug, and you might notice that the water cascading from the jug resembles a chain: A series of “links” oriented at 90° to one another. Such oscillating jets occur frequently in our daily lives, but their origin is still not fully understood. In this study, we performed experiments and direct numerical simulations to show that the wavelength and amplitude of the jet’s oscillations and surfaces are directly linked to the flow rate and size of the opening through which the liquid flows.
+
+[Phys. Rev. Fluids 7, 104001] Published Tue Oct 11, 2022]]></summary>
+        <author>
+            <name>Daniel T. A. Jordan, Neil M. Ribe, Antoine Deblais, and Daniel Bonn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Folding lattice proteins with quantum annealing]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043013</id>
@@ -1082,45 +1095,6 @@ The Clauser-Horne-Shimony-Holt inequality and the Hardy condition are both used 
 [Phys. Rev. A 106, 032211] Published Tue Sep 13, 2022]]></summary>
         <author>
             <name>Johannes Seiler, Thomas Strohm, and Wolfgang P. Schleich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanoscale Magnetism Probed in a Matter-Wave Interferometer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.123001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.123001"/>
-        <updated>2022-09-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yaakov Y. Fein, Sebastian Pedalino, Armin Shayeghi, Filip Kiałka, Stefan Gerlich, and Markus Arndt
-A matter-wave interferometer can probe the magnetism of a broad range of species, from single atoms to very large, weakly magnetic molecules.
-
-[Phys. Rev. Lett. 129, 123001] Published Mon Sep 12, 2022]]></summary>
-        <author>
-            <name>Yaakov Y. Fein, Sebastian Pedalino, Armin Shayeghi, Filip Kiałka, Stefan Gerlich, and Markus Arndt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free rising skirt bubbles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.093601"/>
-        <updated>2022-09-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Dominique Legendre
-Direct numerical simulation of a rising skirt bubble reveals for the first time two toroidal vortices in the wake (left) as well as vorticity concentrated inside the skirt film (right).
-
-[Phys. Rev. Fluids 7, 093601] Published Mon Sep 12, 2022]]></summary>
-        <author>
-            <name>Dominique Legendre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinetic field theory: Higher-order perturbation theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.063513</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.063513"/>
-        <updated>2022-09-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra
-The authors develop a perturbative approach to cosmic structure formation based on Feynman diagrams in close analogy to quantum field theory. This is based on a previously developed path integral formulation for classical systems (Kinetic Field Theory) that includes averaging over probability distributions of initial conditions.
-
-[Phys. Rev. D 106, 063513] Published Mon Sep 12, 2022]]></summary>
-        <author>
-            <name>Lavinia Heisenberg, Shayan Hemmatyar, and Stefan Zentarra</name>
         </author>
     </entry>
 </feed>
