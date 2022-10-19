@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T01:21:05.242Z</id>
+    <id>urn:2022-10-19T01:21:33.840Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T01:21:05.242Z</updated>
+    <updated>2022-10-19T01:21:33.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fragmented Cooper Pair Condensation in Striped Superconductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.177001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.177001"/>
+        <updated>2022-10-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander Wietek
+The superconducting condensate in high-temperature cuprate superconductors fragments into multiple Josephson-coupled stripe segments.
+
+[Phys. Rev. Lett. 129, 177001] Published Tue Oct 18, 2022]]></summary>
+        <author>
+            <name>Alexander Wietek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exact solutions for viscous Marangoni spreading]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.045107</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.045107"/>
+        <updated>2022-10-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thomas Bickel and François Detcheverry
+Researchers can now predict exactly how soap molecules spread across a body of water, an everyday but surprisingly complex process.
+
+[Phys. Rev. E 106, 045107] Published Tue Oct 18, 2022]]></summary>
+        <author>
+            <name>Thomas Bickel and François Detcheverry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Photonic Wires for Broadband Polarization Entanglement at Telecommunication Wavelengths]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.044043</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.044043"/>
+        <updated>2022-10-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shivani Sharma, Vivek Venkataraman, and Joyee Ghosh
+Compact and scalable sources of broadband polarization entanglement at telecommunication wavelengths will pave the way for multiuser long-distance quantum communication at enhanced data rates, but progress toward this goal has been hindered due to large birefringence in conventional silicon-on-insulator nanowaveguides. The authors theoretically demonstrate, via dispersion engineering, the successful generation of polarization-entangled photon pairs over a broad range of wavelengths. This work also provides a strategy to avoid entanglement degradation due to polarization-mode dispersion. The proposed devices will be useful building blocks for large-scale quantum communication networks.
+
+[Phys. Rev. Applied 18, 044043] Published Tue Oct 18, 2022]]></summary>
+        <author>
+            <name>Shivani Sharma, Vivek Venkataraman, and Joyee Ghosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analog Quantum Simulation of the Dynamics of Open Quantum Systems with Quantum Dots and Microelectronic Circuits]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.040308</id>
@@ -1004,71 +1043,6 @@ Ultrasensitive nanomechanical sensors are envisioned to enable nanoscale magneti
 [Phys. Rev. Applied 18, 034052] Published Tue Sep 20, 2022]]></summary>
         <author>
             <name>Marc-Dominik Krass, Nils Prumbaum, Raphael Pachlatko, Urs Grob, Hiroki Takahashi, Yohei Yamauchi, Christian L. Degen, and Alexander Eichler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonuniversality of quantum noise in optical amplifiers operating at exceptional points]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.033226</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.033226"/>
-        <updated>2022-09-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): L. Simonson, S. K. Ozdemir, A. Eisfeld, A. Metelmann, and R. El-Ganainy
-The quantum noise in exceptional points-based optical amplifiers does not scale universally with the order of the exceptional point but rather can vary from one implementation to another.
-
-[Phys. Rev. Research 4, 033226] Published Mon Sep 19, 2022]]></summary>
-        <author>
-            <name>L. Simonson, S. K. Ozdemir, A. Eisfeld, A. Metelmann, and R. El-Ganainy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wave Packet Dynamics in Synthetic Non-Abelian Gauge Fields]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.130402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.130402"/>
-        <updated>2022-09-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mehedi Hasan, Chetan Sriram Madasu, Ketan D. Rathod, Chang Chi Kwong, Christian Miniatura, Frédéric Chevy, and David Wilkowski
-Researchers produce analogues of hard-to-study quantum phenomena in a gas of strontium atoms near absolute zero.
-
-[Phys. Rev. Lett. 129, 130402] Published Mon Sep 19, 2022]]></summary>
-        <author>
-            <name>Mehedi Hasan, Chetan Sriram Madasu, Ketan D. Rathod, Chang Chi Kwong, Christian Miniatura, Frédéric Chevy, and David Wilkowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Kerr Effect across the Yellow Rydberg Series of Excitons in ${\mathrm{Cu}}_{2}\mathrm{O}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.137401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.137401"/>
-        <updated>2022-09-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Corentin Morin, Jérôme Tignon, Juliette Mangeney, Sukhdeep Dhillon, Gerard Czajkowski, Karol Karpiński, Sylwia Zielińska-Raczyńska, David Ziemkiewicz, and Thomas Boulier
-Researchers have demonstrated that a solid can exhibit an enhanced nonlinear optical phenomenon usually seen only in cold atomic gases.
-
-[Phys. Rev. Lett. 129, 137401] Published Mon Sep 19, 2022]]></summary>
-        <author>
-            <name>Corentin Morin, Jérôme Tignon, Juliette Mangeney, Sukhdeep Dhillon, Gerard Czajkowski, Karol Karpiński, Sylwia Zielińska-Raczyńska, David Ziemkiewicz, and Thomas Boulier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermodynamic insights into the intricate magnetic phase diagram of ${\mathrm{EuAl}}_{4}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.094421</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.094421"/>
-        <updated>2022-09-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): William R. Meier, James R. Torres, Raphael P. Hermann, Jiyong Zhao, Barbara Lavina, Brian C. Sales, and Andrew F. May
-Topological spin textures like skyrmions and merons have been proposed to explain a topological Hall signal observed in magnetically ordered phases of EuAl4. Here, the authors investigate these phases via many complementary thermodynamic measurements of EuAl4 single crystals and discuss the symmetry implications of the results. The study provides a detailed magnetic phase diagram to guide future investigations, which includes three phase boundaries that were not previously identified.
-
-[Phys. Rev. B 106, 094421] Published Mon Sep 19, 2022]]></summary>
-        <author>
-            <name>William R. Meier, James R. Torres, Raphael P. Hermann, Jiyong Zhao, Barbara Lavina, Brian C. Sales, and Andrew F. May</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analytical non-Hermitian description of photonic crystals with arbitrary lateral and transverse symmetry]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.033510</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.033510"/>
-        <updated>2022-09-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xavier Letartre, Serge Mazauric, Sébastien Cueff, Taha Benyattou, Hai Son Nguyen, and Pierre Viktorovitch
-The authors propose a non-Hermitian Hamiltonian to describe the resonances of photonic crystal slabs formed by coupled high-index contrast gratings. This model can potentially enable the discovery of novel photonic specie through the manipulation of bound states in the continuum and exceptional points. The authors then demonstrate experimentally, as proof-of-concept, the formation of a Dirac point at the merging of three bound states in the continuum.
-
-[Phys. Rev. A 106, 033510] Published Mon Sep 19, 2022]]></summary>
-        <author>
-            <name>Xavier Letartre, Serge Mazauric, Sébastien Cueff, Taha Benyattou, Hai Son Nguyen, and Pierre Viktorovitch</name>
         </author>
     </entry>
 </feed>

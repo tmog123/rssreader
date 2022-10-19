@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.177001",
+          "author": "Alexander Wietek",
+          "description": "Author(s): Alexander Wietek\nThe superconducting condensate in high-temperature cuprate superconductors fragments into multiple Josephson-coupled stripe segments.\n\n[Phys. Rev. Lett. 129, 177001] Published Tue Oct 18, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.177001",
+          "publishedOn": "2022-10-18T10:00:00.000Z",
+          "wordCount": 1159,
+          "title": "Fragmented Cooper Pair Condensation in Striped Superconductors",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.177001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.045107",
+          "author": "Thomas Bickel and François Detcheverry",
+          "description": "Author(s): Thomas Bickel and François Detcheverry\nResearchers can now predict exactly how soap molecules spread across a body of water, an everyday but surprisingly complex process.\n\n[Phys. Rev. E 106, 045107] Published Tue Oct 18, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.045107",
+          "publishedOn": "2022-10-18T10:00:00.000Z",
+          "wordCount": 1137,
+          "title": "Exact solutions for viscous Marangoni spreading",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.045107.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044043",
+          "author": "Shivani Sharma, Vivek Venkataraman, and Joyee Ghosh",
+          "description": "Author(s): Shivani Sharma, Vivek Venkataraman, and Joyee Ghosh\nCompact and scalable sources of broadband polarization entanglement at telecommunication wavelengths will pave the way for multiuser long-distance quantum communication at enhanced data rates, but progress toward this goal has been hindered due to large birefringence in conventional silicon-on-insulator nanowaveguides. The authors theoretically demonstrate, via dispersion engineering, the successful generation of polarization-entangled photon pairs over a broad range of wavelengths. This work also provides a strategy to avoid entanglement degradation due to polarization-mode dispersion. The proposed devices will be useful building blocks for large-scale quantum communication networks.\n\n[Phys. Rev. Applied 18, 044043] Published Tue Oct 18, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044043",
+          "publishedOn": "2022-10-18T10:00:00.000Z",
+          "wordCount": 1095,
+          "title": "Silicon Photonic Wires for Broadband Polarization Entanglement at Telecommunication Wavelengths",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.044043.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040308",
           "author": "Chang Woo Kim, John M. Nichol, Andrew N. Jordan, and Ignacio Franco",
           "description": "Author(s): Chang Woo Kim, John M. Nichol, Andrew N. Jordan, and Ignacio Franco\nA proposed quantum simulation architecture captures the effects of highly structured non-Markovian quantum environments, such as those found in chemical dynamics.\n\n[PRX Quantum 3, 040308] Published Mon Oct 17, 2022",
@@ -681,7 +711,7 @@
           "description": "Author(s): Xiao-Qi Sun, Tamra Nebabu, Xizhi Han, Michael O. Flynn, and Xiao-Liang Qi\nNeural networks offer a novel approach to represent wave functions for solving quantum many-body problems. But what kinds of quantum states are efficiently represented by neural networks? To approach this problem, the authors study here entanglement properties of an ensemble of neural network states represented by random restricted Boltzmann machines. Phases with distinct entanglement features are identified and characterized. In particular, the authors show that these neural network states can look typical in their entanglement profile while still being distinguishable from a typical state by their fractal dimensions.\n\n[Phys. Rev. B 106, 115138] Published Thu Sep 22, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.115138",
           "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2153,
+          "wordCount": 2152,
           "title": "Entanglement features of random neural network quantum states",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.115138.png"
         },
@@ -774,56 +804,6 @@
           "wordCount": 1712,
           "title": "Force-Detected Magnetic Resonance Imaging of Influenza Viruses in the Overcoupled Sensor Regime",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.034052.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.033226",
-          "author": "L. Simonson, S. K. Ozdemir, A. Eisfeld, A. Metelmann, and R. El-Ganainy",
-          "description": "Author(s): L. Simonson, S. K. Ozdemir, A. Eisfeld, A. Metelmann, and R. El-Ganainy\nThe quantum noise in exceptional points-based optical amplifiers does not scale universally with the order of the exceptional point but rather can vary from one implementation to another.\n\n[Phys. Rev. Research 4, 033226] Published Mon Sep 19, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.033226",
-          "publishedOn": "2022-09-19T10:00:00.000Z",
-          "wordCount": 1507,
-          "title": "Nonuniversality of quantum noise in optical amplifiers operating at exceptional points",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.033226.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.130402",
-          "author": "Mehedi Hasan, Chetan Sriram Madasu, Ketan D. Rathod, Chang Chi Kwong, Christian Miniatura, Frédéric Chevy, and David Wilkowski",
-          "description": "Author(s): Mehedi Hasan, Chetan Sriram Madasu, Ketan D. Rathod, Chang Chi Kwong, Christian Miniatura, Frédéric Chevy, and David Wilkowski\nResearchers produce analogues of hard-to-study quantum phenomena in a gas of strontium atoms near absolute zero.\n\n[Phys. Rev. Lett. 129, 130402] Published Mon Sep 19, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.130402",
-          "publishedOn": "2022-09-19T10:00:00.000Z",
-          "wordCount": 1500,
-          "title": "Wave Packet Dynamics in Synthetic Non-Abelian Gauge Fields",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.130402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.137401",
-          "author": "Corentin Morin, Jérôme Tignon, Juliette Mangeney, Sukhdeep Dhillon, Gerard Czajkowski, Karol Karpiński, Sylwia Zielińska-Raczyńska, David Ziemkiewicz, and Thomas Boulier",
-          "description": "Author(s): Corentin Morin, Jérôme Tignon, Juliette Mangeney, Sukhdeep Dhillon, Gerard Czajkowski, Karol Karpiński, Sylwia Zielińska-Raczyńska, David Ziemkiewicz, and Thomas Boulier\nResearchers have demonstrated that a solid can exhibit an enhanced nonlinear optical phenomenon usually seen only in cold atomic gases.\n\n[Phys. Rev. Lett. 129, 137401] Published Mon Sep 19, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.137401",
-          "publishedOn": "2022-09-19T10:00:00.000Z",
-          "wordCount": 934,
-          "title": "Self-Kerr Effect across the Yellow Rydberg Series of Excitons in ${\\mathrm{Cu}}_{2}\\mathrm{O}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.137401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.094421",
-          "author": "William R. Meier, James R. Torres, Raphael P. Hermann, Jiyong Zhao, Barbara Lavina, Brian C. Sales, and Andrew F. May",
-          "description": "Author(s): William R. Meier, James R. Torres, Raphael P. Hermann, Jiyong Zhao, Barbara Lavina, Brian C. Sales, and Andrew F. May\nTopological spin textures like skyrmions and merons have been proposed to explain a topological Hall signal observed in magnetically ordered phases of EuAl4. Here, the authors investigate these phases via many complementary thermodynamic measurements of EuAl4 single crystals and discuss the symmetry implications of the results. The study provides a detailed magnetic phase diagram to guide future investigations, which includes three phase boundaries that were not previously identified.\n\n[Phys. Rev. B 106, 094421] Published Mon Sep 19, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.094421",
-          "publishedOn": "2022-09-19T10:00:00.000Z",
-          "wordCount": 2204,
-          "title": "Thermodynamic insights into the intricate magnetic phase diagram of ${\\mathrm{EuAl}}_{4}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.094421.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.033510",
-          "author": "Xavier Letartre, Serge Mazauric, Sébastien Cueff, Taha Benyattou, Hai Son Nguyen, and Pierre Viktorovitch",
-          "description": "Author(s): Xavier Letartre, Serge Mazauric, Sébastien Cueff, Taha Benyattou, Hai Son Nguyen, and Pierre Viktorovitch\nThe authors propose a non-Hermitian Hamiltonian to describe the resonances of photonic crystal slabs formed by coupled high-index contrast gratings. This model can potentially enable the discovery of novel photonic specie through the manipulation of bound states in the continuum and exceptional points. The authors then demonstrate experimentally, as proof-of-concept, the formation of a Dirac point at the merging of three bound states in the continuum.\n\n[Phys. Rev. A 106, 033510] Published Mon Sep 19, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.033510",
-          "publishedOn": "2022-09-19T10:00:00.000Z",
-          "wordCount": 2144,
-          "title": "Analytical non-Hermitian description of photonic crystals with arbitrary lateral and transverse symmetry",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.033510.png"
         }
       ]
     }
