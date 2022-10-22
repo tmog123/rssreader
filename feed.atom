@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T01:13:56.523Z</id>
+    <id>urn:2022-10-22T01:20:52.457Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T01:13:56.523Z</updated>
+    <updated>2022-10-22T01:20:52.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Experimental Single-Setting Quantum State Tomography]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.040310</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.3.040310"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Roman Stricker, Michael Meth, Lukas Postler, Claire Edmunds, Chris Ferrie, Rainer Blatt, Philipp Schindler, Thomas Monz, Richard Kueng, and Martin Ringbauer
+An experimental demonstration of scalable system characterization via classical-shadow-based single-setting quantum state tomography.
+
+[PRX Quantum 3, 040310] Published Fri Oct 21, 2022]]></summary>
+        <author>
+            <name>Roman Stricker, Michael Meth, Lukas Postler, Claire Edmunds, Chris Ferrie, Rainer Blatt, Philipp Schindler, Thomas Monz, Richard Kueng, and Martin Ringbauer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atom Interferometer Driven by a Picosecond Frequency Comb]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.173204</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.173204"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Cyrille Solaro, Clément Debavelaere, Pierre Cladé, and Saïda Guellati-Khelifa
+A multiwavelength laser source known as a frequency comb provides a new technique for atom interferometry, potentially leading to new tests of fundamental physics.
+
+[Phys. Rev. Lett. 129, 173204] Published Fri Oct 21, 2022]]></summary>
+        <author>
+            <name>Cyrille Solaro, Clément Debavelaere, Pierre Cladé, and Saïda Guellati-Khelifa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photonic Indistinguishability of the Tin-Vacancy Center in Nanostructured Diamond]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.173603</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.173603"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jesús Arjona Martínez, Ryan A. Parker, Kevin C. Chen, Carola M. Purser, Linsen Li, Cathryn P. Michaels, Alexander M. Stramma, Romain Debroux, Isaac B. Harris, Martin Hayhurst Appel, Eleanor C. Nichols, Matthew E. Trusheim, Dorian A. Gangloff, Dirk Englund, and Mete Atatüre
+A tin vacancy center in diamond in a nanophotonic waveguide acts like an artificial atom and produces indistinguishable single photons.
+
+[Phys. Rev. Lett. 129, 173603] Published Fri Oct 21, 2022]]></summary>
+        <author>
+            <name>Jesús Arjona Martínez, Ryan A. Parker, Kevin C. Chen, Carola M. Purser, Linsen Li, Cathryn P. Michaels, Alexander M. Stramma, Romain Debroux, Isaac B. Harris, Martin Hayhurst Appel, Eleanor C. Nichols, Matthew E. Trusheim, Dorian A. Gangloff, Dirk Englund, and Mete Atatüre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulating Chiral Spin Liquids with Projected Entangled-Pair States]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.177201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.177201"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Juraj Hasik, Maarten Van Damme, Didier Poilblanc, and Laurens Vanderstraeten
+Simulations in spin liquids assuage doubts regarding whether projected entangled-pair state simulation provides accurate results for chiral states.
+
+[Phys. Rev. Lett. 129, 177201] Published Fri Oct 21, 2022]]></summary>
+        <author>
+            <name>Juraj Hasik, Maarten Van Damme, Didier Poilblanc, and Laurens Vanderstraeten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Criticality and entanglement in nonunitary quantum circuits and tensor networks of noninteracting fermions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.134206</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.134206"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chao-Ming Jian, Bela Bauer, Anna Keselman, and Andreas W. W. Ludwig
+Entanglement dynamics in nonunitary quantum systems have been found to exhibit novel nonequilibrium quantum phase transitions and have attracted tremendous attention with connections to various aspects of quantum information theory. This work establishes, for systems of noninteracting fermions, an exact three-way correspondence between (i) nonunitary (as well as unitary) quantum circuits dynamics in d spatial dimensions; (ii) (d+1)-dimensional Gaussian tensor networks, and (iii) fermion systems in (d+1) spatial dimensions subject to unitary evolution with static Hamiltonians. Through this correspondence, d-dimensional random quantum circuits are connected with the classic subject area of Anderson localization in (d+1) spatial dimensions and consequently follow the “tenfold way’’ Altland-Zirnbauer classification. Selected examples of quantum circuits exhibiting entanglement phases and criticalities are used to illustrate these general principles.
+
+[Phys. Rev. B 106, 134206] Published Fri Oct 21, 2022]]></summary>
+        <author>
+            <name>Chao-Ming Jian, Bela Bauer, Anna Keselman, and Andreas W. W. Ludwig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonthermal current-induced transition from skyrmion lattice to nontopological magnetic phase in spatially confined MnSi]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.144425</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.144425"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Takuro Sato, Wataru Koshibae, Akiko Kikkawa, Yasujiro Taguchi, Naoto Nagaosa, Yoshinori Tokura, and Fumitaka Kagawa
+Whether a nonthermodynamic driving force, such as an electric current, can induce a global change like a thermodynamic phase transition of the whole system remains an open question. Here, the authors report on a current-driven skyrmion-to-nonskyrmion transition, detected both experimentally and numerically by targeting microscaled MnSi. This nonequilibrium phase change by current emerges when the system is spatially conﬁned by an open boundary, suggesting that a range of novel nonequilibrium phenomena can be explored with attention to system size.
+
+[Phys. Rev. B 106, 144425] Published Fri Oct 21, 2022]]></summary>
+        <author>
+            <name>Takuro Sato, Wataru Koshibae, Akiko Kikkawa, Yasujiro Taguchi, Naoto Nagaosa, Yoshinori Tokura, and Fumitaka Kagawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical l-bits and persistent oscillations in Stark many-body localization]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L161111</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L161111"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thivan M. Gunawardana and Berislav Buča
+Stark many-body localization (MBL) occurs when interacting quantum particles are placed in a strong linear field gradient. Localization of excitations, coherent Bloch oscillations, Hilbert-space fragmentation, and scarring have been observed numerically and experimentally, but their origin is not understood. The authors explain these features analytically by perturbatively constructing an algebraic structure of Stark MBL Hamiltonians they name “dynamical l-bits”. These structures are exponentially stable in the field gradient strength. Thus, the work has potential implications for quantum information processing.
+
+[Phys. Rev. B 106, L161111] Published Fri Oct 21, 2022]]></summary>
+        <author>
+            <name>Thivan M. Gunawardana and Berislav Buča</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Demonstrating Quantum Microscopic Reversibility Using Coherent States of Light]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.170604</id>
@@ -1043,58 +1134,6 @@ The structural transition in Lu(Pt1−xPdx)2In attracts special interest since i
 [Phys. Rev. B 106, 115142] Published Fri Sep 23, 2022]]></summary>
         <author>
             <name>T. Gruner, S. Lucas, C. Geibel, K. Kaneko, S. Tsutsui, K. Schmalzl, and O. Stockert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entanglement features of random neural network quantum states]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.115138</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.115138"/>
-        <updated>2022-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xiao-Qi Sun, Tamra Nebabu, Xizhi Han, Michael O. Flynn, and Xiao-Liang Qi
-Neural networks offer a novel approach to represent wave functions for solving quantum many-body problems. But what kinds of quantum states are efficiently represented by neural networks? To approach this problem, the authors study here entanglement properties of an ensemble of neural network states represented by random restricted Boltzmann machines. Phases with distinct entanglement features are identified and characterized. In particular, the authors show that these neural network states can look typical in their entanglement profile while still being distinguishable from a typical state by their fractal dimensions.
-
-[Phys. Rev. B 106, 115138] Published Thu Sep 22, 2022]]></summary>
-        <author>
-            <name>Xiao-Qi Sun, Tamra Nebabu, Xizhi Han, Michael O. Flynn, and Xiao-Liang Qi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniaxial ferromagnetism in the kagome metal ${\mathrm{TbV}}_{6}{\mathrm{Sn}}_{6}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.115139</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.115139"/>
-        <updated>2022-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Elliott Rosenberg, Jonathan M. DeStefano, Yucheng Guo, Ji Seop Oh, Makoto Hashimoto, Donghui Lu, Robert J. Birgeneau, Yongbin Lee, Liqin Ke, Ming Yi, and Jiun-Haw Chu
-The RT6X6 family (R=rare earth, T=transition metal) offers an interplay of magnetism with potentially nontrivial topological kagome band structures. Here, the authors present a new member TbV6Sn6, which contains a pure vanadium kagome lattice. Thermodynamic, magnetometric, and transport measurements reveal an Ising ferromagnetism of local Tb 4f moments accompanied by an anomalous Hall effect below 4.1 K. The Tb magnetism displays a strikingly large uniaxial anisotropy, which the authors argue originates from 4f crystalline electric field effects in a hexagonal symmetry environment.
-
-[Phys. Rev. B 106, 115139] Published Thu Sep 22, 2022]]></summary>
-        <author>
-            <name>Elliott Rosenberg, Jonathan M. DeStefano, Yucheng Guo, Ji Seop Oh, Makoto Hashimoto, Donghui Lu, Robert J. Birgeneau, Yongbin Lee, Liqin Ke, Ming Yi, and Jiun-Haw Chu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weakly Flux-Tunable Superconducting Qubit]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.034057</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.034057"/>
-        <updated>2022-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): José M. Chávez-Garcia, Firat Solgun, Jared B. Hertzberg, Oblesh Jinka, Markus Brink, and Baleegh Abdo
-Superconducting qubits are building blocks for quantum processors, but they suffer from frequency collisions, which hinder the construction of large qubit lattices. This study introduces weakly tunable qubits, whose frequency can be tuned over a small range via external magnetic flux. Through theoretical derivation and experimental demonstration, the authors show that these transmonlike qubits—without losing the desired key properties—can be used to avoid frequency collisions in large qubit systems while minimizing the sensitivity to flux noise. They can also be applied to operate flux-tuned qubit gates.
-
-[Phys. Rev. Applied 18, 034057] Published Thu Sep 22, 2022]]></summary>
-        <author>
-            <name>José M. Chávez-Garcia, Firat Solgun, Jared B. Hertzberg, Oblesh Jinka, Markus Brink, and Baleegh Abdo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-Frequency Quantum Sensing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.034058</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.034058"/>
-        <updated>2022-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): E.D. Herbschleb, I. Ohki, K. Morita, Y. Yoshii, H. Kato, T. Makino, S. Yamasaki, and N. Mizuochi
-Quantum sensing of low-frequency fields is important for nuclear magnetic resonance (NMR) due to its rich structure and narrow line widths, both at low fields focusing on J couplings and at high fields for down-converted frequencies from conventional NMR. However, the most sensitive and coherent quantum sensing methods work at dc and high-frequency fields only. This study utilizes a quantum oscilloscope approach to bridge this gap. The resulting algorithm has a frequency-independent sensitivity and is able to work in the zero-field region. This approach would have an impact on designing low-frequency measurements where the high sensitivities of quantum sensors are an indispensable treat.
-
-[Phys. Rev. Applied 18, 034058] Published Thu Sep 22, 2022]]></summary>
-        <author>
-            <name>E.D. Herbschleb, I. Ohki, K. Morita, Y. Yoshii, H. Kato, T. Makino, S. Yamasaki, and N. Mizuochi</name>
         </author>
     </entry>
 </feed>
