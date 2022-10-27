@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-26T01:11:48.955Z</id>
+    <id>urn:2022-10-27T01:11:25.488Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-26T01:11:48.955Z</updated>
+    <updated>2022-10-27T01:11:25.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merger and Postmerger of Binary Neutron Stars with a Quark-Hadron Crossover Equation of State]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.181101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.181101"/>
+        <updated>2022-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yong-Jia Huang, Luca Baiotti, Toru Kojo, Kentaro Takami, Hajime Sotani, Hajime Togashi, Tetsuo Hatsuda, Shigehiro Nagataki, and Yi-Zhong Fan
+Simulations indicate that postmerger gravitational waves from coalescing neutron stars could allow researchers to hear the phase transitions between exotic states of matter.
+
+[Phys. Rev. Lett. 129, 181101] Published Wed Oct 26, 2022]]></summary>
+        <author>
+            <name>Yong-Jia Huang, Luca Baiotti, Toru Kojo, Kentaro Takami, Hajime Sotani, Hajime Togashi, Tetsuo Hatsuda, Shigehiro Nagataki, and Yi-Zhong Fan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multifractal Conductance Fluctuations in High-Mobility Graphene in the Integer Quantum Hall Regime]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.186802</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.186802"/>
+        <updated>2022-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kazi Rafsanjani Amin, Ramya Nagarajan, Rahul Pandit, and Aveek Bid
+Researchers find that a phenomenon called multifractality manifests in the conductance fluctuations of a 2D electron gas as the gas undergoes a topological phase transition.
+
+[Phys. Rev. Lett. 129, 186802] Published Wed Oct 26, 2022]]></summary>
+        <author>
+            <name>Kazi Rafsanjani Amin, Ramya Nagarajan, Rahul Pandit, and Aveek Bid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freezing phase transition in hard-core lattice gases on the triangular lattice with exclusion up to seventh next-nearest neighbor]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.044136</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.044136"/>
+        <updated>2022-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Asweel Ahmed A. Jaleel, Dipanjan Mandal, Jetin E. Thomas, and R. Rajesh
+Hard-core lattice gases are simple models that exhibit a phase transition, and that have applications in various areas of research. This paper uses a Monte Carlo algorithm to study these models with up to seventh neighbor exclusion on a triangular lattice, finding improvements over previous results.
+
+[Phys. Rev. E 106, 044136] Published Wed Oct 26, 2022]]></summary>
+        <author>
+            <name>Asweel Ahmed A. Jaleel, Dipanjan Mandal, Jetin E. Thomas, and R. Rajesh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic interactions in AB-stacked kagome lattices: Magnetic structure, symmetry, and duality]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.144433</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.144433"/>
+        <updated>2022-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Zelenskiy, T. L. Monchesky, M. L. Plumer, and B. W. Southern
+Magnetic compounds that combine the effects of geometric frustration and strong spin-orbit coupling (SOC) often host exotic magnetic phases. In many cases, anisotropic lattice-dependent interactions that originate from the SOC significantly reduce the symmetry of the system and constrain the magnetic moments to specific orientations. Using numerical simulations and symmetry analysis, this study demonstrates that, in compounds with the AB-stacked kagome layer structure, the anisotropy gives rise to a large number of duality transformations that provide exact mappings between the properties of distinct magnetic phases.
+
+[Phys. Rev. B 106, 144433] Published Wed Oct 26, 2022]]></summary>
+        <author>
+            <name>A. Zelenskiy, T. L. Monchesky, M. L. Plumer, and B. W. Southern</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Narrow Optical Transitions in Erbium-Implanted Silicon Waveguides]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041009</id>
@@ -1108,45 +1160,6 @@ Applying dielectric spectroscopy and other techniques, the authors find antipola
 [Phys. Rev. B 106, 125144] Published Wed Sep 28, 2022]]></summary>
         <author>
             <name>Alexei M. Tsvelik and Piers Coleman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergence of Fermi’s Golden Rule]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.140402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.140402"/>
-        <updated>2022-09-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tobias Micklitz, Alan Morningstar, Alexander Altland, and David A. Huse
-Researchers have calculated the likelihood that a quantum state will decay when its evolution is inhibited by a lack of availability of final states.
-
-[Phys. Rev. Lett. 129, 140402] Published Tue Sep 27, 2022]]></summary>
-        <author>
-            <name>Tobias Micklitz, Alan Morningstar, Alexander Altland, and David A. Huse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From inertial to viscous slumping: Numerical and experimental insights of a transient intermediate regime]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.094803</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.094803"/>
-        <updated>2022-09-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alexis Bougouin and Laurent Lacaze
-The transition from a purely inertial to a purely viscous liquid slumping induced by a dam-break flow over a horizontal surface is highlighted and characterized as a specific adaptive regime, during which the viscous regime progressively invades the entire current.
-
-[Phys. Rev. Fluids 7, 094803] Published Tue Sep 27, 2022]]></summary>
-        <author>
-            <name>Alexis Bougouin and Laurent Lacaze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental determination of the propulsion matrix of the body of helical <i>Magnetospirillum magneticum</i> cells]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.034407</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.034407"/>
-        <updated>2022-09-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Liu Yu (虞柳), Lucas Le Nagard, Solomon Barkley, Lauren Smith, and Cécile Fradin
-How microorganisms swim depends on the friction they experience under both translational and rotational motion. An experimental study of helical bacteria shows how various friction coefficients depend on the shape of the bacteria, and shows that cell body rotation could significantly contribute to cellular propulsion.
-
-[Phys. Rev. E 106, 034407] Published Tue Sep 27, 2022]]></summary>
-        <author>
-            <name>Liu Yu (虞柳), Lucas Le Nagard, Solomon Barkley, Lauren Smith, and Cécile Fradin</name>
         </author>
     </entry>
 </feed>

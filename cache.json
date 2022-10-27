@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.181101",
+          "author": "Yong-Jia Huang, Luca Baiotti, Toru Kojo, Kentaro Takami, Hajime Sotani, Hajime Togashi, Tetsuo Hatsuda, Shigehiro Nagataki, and Yi-Zhong Fan",
+          "description": "Author(s): Yong-Jia Huang, Luca Baiotti, Toru Kojo, Kentaro Takami, Hajime Sotani, Hajime Togashi, Tetsuo Hatsuda, Shigehiro Nagataki, and Yi-Zhong Fan\nSimulations indicate that postmerger gravitational waves from coalescing neutron stars could allow researchers to hear the phase transitions between exotic states of matter.\n\n[Phys. Rev. Lett. 129, 181101] Published Wed Oct 26, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.181101",
+          "publishedOn": "2022-10-26T10:00:00.000Z",
+          "wordCount": 1266,
+          "title": "Merger and Postmerger of Binary Neutron Stars with a Quark-Hadron Crossover Equation of State",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.181101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.186802",
+          "author": "Kazi Rafsanjani Amin, Ramya Nagarajan, Rahul Pandit, and Aveek Bid",
+          "description": "Author(s): Kazi Rafsanjani Amin, Ramya Nagarajan, Rahul Pandit, and Aveek Bid\nResearchers find that a phenomenon called multifractality manifests in the conductance fluctuations of a 2D electron gas as the gas undergoes a topological phase transition.\n\n[Phys. Rev. Lett. 129, 186802] Published Wed Oct 26, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.186802",
+          "publishedOn": "2022-10-26T10:00:00.000Z",
+          "wordCount": 1204,
+          "title": "Multifractal Conductance Fluctuations in High-Mobility Graphene in the Integer Quantum Hall Regime",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.186802.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.044136",
+          "author": "Asweel Ahmed A. Jaleel, Dipanjan Mandal, Jetin E. Thomas, and R. Rajesh",
+          "description": "Author(s): Asweel Ahmed A. Jaleel, Dipanjan Mandal, Jetin E. Thomas, and R. Rajesh\nHard-core lattice gases are simple models that exhibit a phase transition, and that have applications in various areas of research. This paper uses a Monte Carlo algorithm to study these models with up to seventh neighbor exclusion on a triangular lattice, finding improvements over previous results.\n\n[Phys. Rev. E 106, 044136] Published Wed Oct 26, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.044136",
+          "publishedOn": "2022-10-26T10:00:00.000Z",
+          "wordCount": 1609,
+          "title": "Freezing phase transition in hard-core lattice gases on the triangular lattice with exclusion up to seventh next-nearest neighbor",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.044136.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.144433",
+          "author": "A. Zelenskiy, T. L. Monchesky, M. L. Plumer, and B. W. Southern",
+          "description": "Author(s): A. Zelenskiy, T. L. Monchesky, M. L. Plumer, and B. W. Southern\nMagnetic compounds that combine the effects of geometric frustration and strong spin-orbit coupling (SOC) often host exotic magnetic phases. In many cases, anisotropic lattice-dependent interactions that originate from the SOC significantly reduce the symmetry of the system and constrain the magnetic moments to specific orientations. Using numerical simulations and symmetry analysis, this study demonstrates that, in compounds with the AB-stacked kagome layer structure, the anisotropy gives rise to a large number of duality transformations that provide exact mappings between the properties of distinct magnetic phases.\n\n[Phys. Rev. B 106, 144433] Published Wed Oct 26, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.144433",
+          "publishedOn": "2022-10-26T10:00:00.000Z",
+          "wordCount": 1762,
+          "title": "Magnetic interactions in AB-stacked kagome lattices: Magnetic structure, symmetry, and duality",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.144433.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041009",
           "author": "Andreas Gritsch, Lorenz Weiss, Johannes Früh, Stephan Rinner, and Andreas Reiserer",
           "description": "Author(s): Andreas Gritsch, Lorenz Weiss, Johannes Früh, Stephan Rinner, and Andreas Reiserer\nImproved fabrication methods for qubits made from erbium-doped silicon waveguides give these qubits the key prerequisites for becoming a contender for future quantum computers.\n\n[Phys. Rev. X 12, 041009] Published Tue Oct 25, 2022",
@@ -854,36 +894,6 @@
           "wordCount": 1400,
           "title": "Order fractionalization in a Kitaev-Kondo model",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.125144.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.140402",
-          "author": "Tobias Micklitz, Alan Morningstar, Alexander Altland, and David A. Huse",
-          "description": "Author(s): Tobias Micklitz, Alan Morningstar, Alexander Altland, and David A. Huse\nResearchers have calculated the likelihood that a quantum state will decay when its evolution is inhibited by a lack of availability of final states.\n\n[Phys. Rev. Lett. 129, 140402] Published Tue Sep 27, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.140402",
-          "publishedOn": "2022-09-27T10:00:00.000Z",
-          "wordCount": 1074,
-          "title": "Emergence of Fermi’s Golden Rule",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.140402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.094803",
-          "author": "Alexis Bougouin and Laurent Lacaze",
-          "description": "Author(s): Alexis Bougouin and Laurent Lacaze\nThe transition from a purely inertial to a purely viscous liquid slumping induced by a dam-break flow over a horizontal surface is highlighted and characterized as a specific adaptive regime, during which the viscous regime progressively invades the entire current.\n\n[Phys. Rev. Fluids 7, 094803] Published Tue Sep 27, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.094803",
-          "publishedOn": "2022-09-27T10:00:00.000Z",
-          "wordCount": 1508,
-          "title": "From inertial to viscous slumping: Numerical and experimental insights of a transient intermediate regime",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.094803.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.034407",
-          "author": "Liu Yu (虞柳), Lucas Le Nagard, Solomon Barkley, Lauren Smith, and Cécile Fradin",
-          "description": "Author(s): Liu Yu (虞柳), Lucas Le Nagard, Solomon Barkley, Lauren Smith, and Cécile Fradin\nHow microorganisms swim depends on the friction they experience under both translational and rotational motion. An experimental study of helical bacteria shows how various friction coefficients depend on the shape of the bacteria, and shows that cell body rotation could significantly contribute to cellular propulsion.\n\n[Phys. Rev. E 106, 034407] Published Tue Sep 27, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.034407",
-          "publishedOn": "2022-09-27T10:00:00.000Z",
-          "wordCount": 3066,
-          "title": "Experimental determination of the propulsion matrix of the body of helical <i>Magnetospirillum magneticum</i> cells",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.034407.png"
         }
       ]
     }
