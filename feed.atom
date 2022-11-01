@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-31T01:18:21.558Z</id>
+    <id>urn:2022-11-01T01:24:32.352Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T01:18:21.558Z</updated>
+    <updated>2022-11-01T01:24:32.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dense and Hot QCD at Strong Coupling]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041012</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.041012"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tuna Demircik, Christian Ecker, and Matti Järvinen
+Thermodynamic phases governed by the strong nuclear force have been linked together using multiple theoretical tools.
+
+[Phys. Rev. X 12, 041012] Published Mon Oct 31, 2022]]></summary>
+        <author>
+            <name>Tuna Demircik, Christian Ecker, and Matti Järvinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Constrained Dynamics and Directed Percolation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.190601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.190601"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Aydin Deger, Achilleas Lazarides, and Sthitadhi Roy
+Constraining the dynamics in a chaotic system gives rise to a phase transition that belongs to the directed percolation universality class.
+
+[Phys. Rev. Lett. 129, 190601] Published Mon Oct 31, 2022]]></summary>
+        <author>
+            <name>Aydin Deger, Achilleas Lazarides, and Sthitadhi Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Hole Solutions as Topological Thermodynamic Defects]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.191101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.191101"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shao-Wen Wei, Yu-Xiao Liu, and Robert B. Mann
+The thermodynamic stability of a black hole is governed by a local topological number.
+
+[Phys. Rev. Lett. 129, 191101] Published Mon Oct 31, 2022]]></summary>
+        <author>
+            <name>Shao-Wen Wei, Yu-Xiao Liu, and Robert B. Mann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expressive power of complex-valued restricted Boltzmann machines for solving nonstoquastic Hamiltonians]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.134437</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.134437"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chae-Yeun Park and Michael J. Kastoryano
+Variational Monte Carlo with neural quantum states is one of the most powerful tools for solving the ground state of quantum many-body Hamiltonians. However, the performance of the method on frustrated Hamiltonians remains significantly worse than that of sign-free Hamiltonians, even though the method itself is free from sum-over alternating signs. Here, the authors systematically study numerical subtleties in restricted Boltzmann machine based variational Monte Carlo for solving Hamiltonians with the sign problem and unveil how quantum phases are related to the numerics.
+
+[Phys. Rev. B 106, 134437] Published Mon Oct 31, 2022]]></summary>
+        <author>
+            <name>Chae-Yeun Park and Michael J. Kastoryano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full configuration interaction quantum Monte Carlo for coupled electron-boson systems and infinite spaces]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.155158</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.155158"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Robert J. Anderson, Charles J. C. Scott, and George H. Booth
+When electrons interact not only with themselves, but also with bosons (phonons or other bosonic quasiparticles), what was previously a “curse of dimensionality” for its computational solution now becomes one of infinite size. To deal with this, the authors adapt here a recent method for its stochastic solution, without requiring truncation of the bosonic occupations, and which allows systematic improvability to exact solutions. They apply this to the paradigmatic Hubbard-Holstein model of local phonons, finding a state-of-the-art solution in the thermodynamic limit, as well as to a novel approach in which long-range collective electronic fluctuations are mapped to bosonic quasiparticles to tackle even long-range interacting problems of purely electronic form.
+
+[Phys. Rev. B 106, 155158] Published Mon Oct 31, 2022]]></summary>
+        <author>
+            <name>Robert J. Anderson, Charles J. C. Scott, and George H. Booth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Efficiency Selective Wireless Power Transfer with a Bistable Parity-Time-Symmetric Circuit]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.044076</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.044076"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hongjian Cui, Zhenya Dong, Han-Joon Kim, Chenhui Li, Weijin Chen, Guoqiang Xu, Cheng-Wei Qiu, and John S. Ho
+Wireless power transfer has broad applications in e.g. consumer electronics and electric vehicles. Unfortunately, available methods to transfer power to one specific receiver out of many are inefficient, or rely on complicated tuning schemes. This study uses a bistable parity-time-symmetric circuit to achieve wireless power transfer that is efficient, robust, and selective. The authors show that the bistability provides access to system modes with highly asymmetrical energy distributions, enabling improved efficiency and selectivity. This work could lead to more versatile and energy-efficient wireless charging systems.
+
+[Phys. Rev. Applied 18, 044076] Published Mon Oct 31, 2022]]></summary>
+        <author>
+            <name>Hongjian Cui, Zhenya Dong, Han-Joon Kim, Chenhui Li, Weijin Chen, Guoqiang Xu, Cheng-Wei Qiu, and John S. Ho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electron-Phonon Interaction and Longitudinal-Transverse Phonon Splitting in Doped Semiconductors]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.185902</id>

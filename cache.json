@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041012",
+          "author": "Tuna Demircik, Christian Ecker, and Matti Järvinen",
+          "description": "Author(s): Tuna Demircik, Christian Ecker, and Matti Järvinen\nThermodynamic phases governed by the strong nuclear force have been linked together using multiple theoretical tools.\n\n[Phys. Rev. X 12, 041012] Published Mon Oct 31, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.041012",
+          "publishedOn": "2022-10-31T10:00:00.000Z",
+          "wordCount": 1589,
+          "title": "Dense and Hot QCD at Strong Coupling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.041012.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.190601",
+          "author": "Aydin Deger, Achilleas Lazarides, and Sthitadhi Roy",
+          "description": "Author(s): Aydin Deger, Achilleas Lazarides, and Sthitadhi Roy\nConstraining the dynamics in a chaotic system gives rise to a phase transition that belongs to the directed percolation universality class.\n\n[Phys. Rev. Lett. 129, 190601] Published Mon Oct 31, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.190601",
+          "publishedOn": "2022-10-31T10:00:00.000Z",
+          "wordCount": 918,
+          "title": "Constrained Dynamics and Directed Percolation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.190601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.191101",
+          "author": "Shao-Wen Wei, Yu-Xiao Liu, and Robert B. Mann",
+          "description": "Author(s): Shao-Wen Wei, Yu-Xiao Liu, and Robert B. Mann\nThe thermodynamic stability of a black hole is governed by a local topological number.\n\n[Phys. Rev. Lett. 129, 191101] Published Mon Oct 31, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.191101",
+          "publishedOn": "2022-10-31T10:00:00.000Z",
+          "wordCount": 949,
+          "title": "Black Hole Solutions as Topological Thermodynamic Defects",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.191101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.134437",
+          "author": "Chae-Yeun Park and Michael J. Kastoryano",
+          "description": "Author(s): Chae-Yeun Park and Michael J. Kastoryano\nVariational Monte Carlo with neural quantum states is one of the most powerful tools for solving the ground state of quantum many-body Hamiltonians. However, the performance of the method on frustrated Hamiltonians remains significantly worse than that of sign-free Hamiltonians, even though the method itself is free from sum-over alternating signs. Here, the authors systematically study numerical subtleties in restricted Boltzmann machine based variational Monte Carlo for solving Hamiltonians with the sign problem and unveil how quantum phases are related to the numerics.\n\n[Phys. Rev. B 106, 134437] Published Mon Oct 31, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.134437",
+          "publishedOn": "2022-10-31T10:00:00.000Z",
+          "wordCount": 2353,
+          "title": "Expressive power of complex-valued restricted Boltzmann machines for solving nonstoquastic Hamiltonians",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.134437.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.155158",
+          "author": "Robert J. Anderson, Charles J. C. Scott, and George H. Booth",
+          "description": "Author(s): Robert J. Anderson, Charles J. C. Scott, and George H. Booth\nWhen electrons interact not only with themselves, but also with bosons (phonons or other bosonic quasiparticles), what was previously a “curse of dimensionality” for its computational solution now becomes one of infinite size. To deal with this, the authors adapt here a recent method for its stochastic solution, without requiring truncation of the bosonic occupations, and which allows systematic improvability to exact solutions. They apply this to the paradigmatic Hubbard-Holstein model of local phonons, finding a state-of-the-art solution in the thermodynamic limit, as well as to a novel approach in which long-range collective electronic fluctuations are mapped to bosonic quasiparticles to tackle even long-range interacting problems of purely electronic form.\n\n[Phys. Rev. B 106, 155158] Published Mon Oct 31, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.155158",
+          "publishedOn": "2022-10-31T10:00:00.000Z",
+          "wordCount": 1464,
+          "title": "Full configuration interaction quantum Monte Carlo for coupled electron-boson systems and infinite spaces",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.155158.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044076",
+          "author": "Hongjian Cui, Zhenya Dong, Han-Joon Kim, Chenhui Li, Weijin Chen, Guoqiang Xu, Cheng-Wei Qiu, and John S. Ho",
+          "description": "Author(s): Hongjian Cui, Zhenya Dong, Han-Joon Kim, Chenhui Li, Weijin Chen, Guoqiang Xu, Cheng-Wei Qiu, and John S. Ho\nWireless power transfer has broad applications in e.g. consumer electronics and electric vehicles. Unfortunately, available methods to transfer power to one specific receiver out of many are inefficient, or rely on complicated tuning schemes. This study uses a bistable parity-time-symmetric circuit to achieve wireless power transfer that is efficient, robust, and selective. The authors show that the bistability provides access to system modes with highly asymmetrical energy distributions, enabling improved efficiency and selectivity. This work could lead to more versatile and energy-efficient wireless charging systems.\n\n[Phys. Rev. Applied 18, 044076] Published Mon Oct 31, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044076",
+          "publishedOn": "2022-10-31T10:00:00.000Z",
+          "wordCount": 1006,
+          "title": "High-Efficiency Selective Wireless Power Transfer with a Bistable Parity-Time-Symmetric Circuit",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.044076.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.185902",
           "author": "Francesco Macheda, Paolo Barone, and Francesco Mauri",
           "description": "Author(s): Francesco Macheda, Paolo Barone, and Francesco Mauri\nA first-principles method based on maximally localized Wannier functions predicts the doping dependence of the electron-phonon interaction in semiconductors much more accurately than other state-of-the-art methods.\n\n[Phys. Rev. Lett. 129, 185902] Published Fri Oct 28, 2022",
