@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.191103",
+          "author": "Jan D. Burger, Jesús Zavala, Laura V. Sales, Mark Vogelsberger, Federico Marinacci, and Paul Torrey",
+          "description": "Author(s): Jan D. Burger, Jesús Zavala, Laura V. Sales, Mark Vogelsberger, Federico Marinacci, and Paul Torrey\nA proposed study of dwarf galaxies could give insight into whether dark matter particles interact with each other.\n\n[Phys. Rev. Lett. 129, 191103] Published Tue Nov 01, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.191103",
+          "publishedOn": "2022-11-01T10:00:00.000Z",
+          "wordCount": 1256,
+          "title": "Kinematic Signatures of Impulsive Supernova Feedback in Dwarf Galaxies",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.191103.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L180402",
+          "author": "Feng Ye, Masaaki Matsuda, Zachary Morgan, Todd Sherline, Yifei Ni, Hengdi Zhao, and G. Cao",
+          "description": "Author(s): Feng Ye, Masaaki Matsuda, Zachary Morgan, Todd Sherline, Yifei Ni, Hengdi Zhao, and G. Cao\nCharacterizing the magnetic structure is crucial to understand the extraordinary colossal magnetoresistance of ferrimagnetic Mn3Si2Te6. This material exhibits orders of magnitude reduction in resistivity when a magnetic polarization is avoided. Using single-crystal neutron diffraction, the authors reveal here the field evolution of the spin configuration. Prominent magnetic diffuse scattering is present and decays slowly well above the transition. The spin correlation lengths agree well with the electrical resistivity, underscoring the role of magnetic fluctuations contributing to the magnetoresistivity near the transition.\n\n[Phys. Rev. B 106, L180402] Published Tue Nov 01, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L180402",
+          "publishedOn": "2022-11-01T10:00:00.000Z",
+          "wordCount": 1164,
+          "title": "Magnetic structure and spin fluctuations in the colossal magnetoresistance ferrimagnet ${\\mathrm{Mn}}_{3}{\\mathrm{Si}}_{2}{\\mathrm{Te}}_{6}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L180402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L201101",
+          "author": "Run Xiao, Junyi Zhang, Juan Chamorro, Jinwoong Kim, Tyrel M. McQueen, David Vanderbilt, Morteza Kayyalha, Yi Li, and Nitin Samarth",
+          "description": "Author(s): Run Xiao, Junyi Zhang, Juan Chamorro, Jinwoong Kim, Tyrel M. McQueen, David Vanderbilt, Morteza Kayyalha, Yi Li, and Nitin Samarth\nA concerted experimental and theoretical investigation of Shubnikov–de Haas oscillations and the integer quantum Hall effect in thin films of Cd3As2 leads to a new understanding of the Landau level spectrum in this archetypal Dirac semimetal under strong quantum confinement conditions. Experiments reveal an emerging ν=3 quantum Hall state as the film thickness is reduced, indicating an enhanced spin splitting. This is consistent with tight-binding calculations that show nonmonotonic enhancement of the g factor with increasing quantum confinement.\n\n[Phys. Rev. B 106, L201101] Published Tue Nov 01, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L201101",
+          "publishedOn": "2022-11-01T10:00:00.000Z",
+          "wordCount": 1215,
+          "title": "Integer quantum Hall effect and enhanced $g$ factor in quantum-confined ${\\mathrm{Cd}}_{3}{\\mathrm{As}}_{2}$ films",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L201101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.052801",
+          "author": "Germain Tobar, Simon Haine, Fabio Costa, and Magdalena Zych",
+          "description": "Author(s): Germain Tobar, Simon Haine, Fabio Costa, and Magdalena Zych\nThe authors study quantum effects resulting from mass-energy equivalence using ultracold neutrons that are confined gravitationally by considering a quantum correction to the neutron’s mass due to the neutron spin in the presence of an external magnetic field. The authors show that the neutron’s additional weight due to the quantum treatment of mass-energy equivalence will cause a small shift in the neutron’s eigenenergies and eigenstates, which could provide signatures in an interferometric experiment.\n\n[Phys. Rev. A 106, 052801] Published Tue Nov 01, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.052801",
+          "publishedOn": "2022-11-01T10:00:00.000Z",
+          "wordCount": 1072,
+          "title": "Mass-energy equivalence in gravitationally bound quantum states of the neutron",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.052801.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041012",
           "author": "Tuna Demircik, Christian Ecker, and Matti Järvinen",
           "description": "Author(s): Tuna Demircik, Christian Ecker, and Matti Järvinen\nThermodynamic phases governed by the strong nuclear force have been linked together using multiple theoretical tools.\n\n[Phys. Rev. X 12, 041012] Published Mon Oct 31, 2022",
@@ -411,7 +451,7 @@
           "description": "Author(s): Kexin Feng, Aysel Shiralieva, and Natalia B. Perkins\nHere, the authors propose that phonon dynamics can be exploited to look for the signatures of fractionalization in three-dimensional Kitaev spin liquids. Motivated by recent studies of the hyperhoneycomb Kitaev material β-Li2IrO3, they compute the sound attenuation in the spin-phonon coupled Kitaev model on the hyperhoneycomb lattice, in which Majorana fermions have nodal-line band structure. They show that at low temperatures its angular dependence displays a characteristic pattern, which opens the possibility of detecting the proximity to the Kitaev spin liquid phase in this compound in ultrasound experiments.\n\n[Phys. Rev. B 106, 144424] Published Thu Oct 20, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.144424",
           "publishedOn": "2022-10-20T10:00:00.000Z",
-          "wordCount": 1250,
+          "wordCount": 1251,
           "title": "Sound attenuation in the hyperhoneycomb Kitaev spin liquid",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.144424.png"
         },
@@ -904,26 +944,6 @@
           "wordCount": 1200,
           "title": "Permanent-Magnet Optimization for Stellarators as Sparse Regression",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.044006.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041001",
-          "author": "L. Gavassino",
-          "description": "Author(s): L. Gavassino\nA fluid dynamics theory that violates causality would always generate paradoxical instabilities—a result that could guide the search for a theory for relativistic fluids.\n\n[Phys. Rev. X 12, 041001] Published Mon Oct 03, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.041001",
-          "publishedOn": "2022-10-03T10:00:00.000Z",
-          "wordCount": 2031,
-          "title": "Can We Make Sense of Dissipation without Causality?",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.041001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.154301",
-          "author": "Ying Chen, Yuhang Yin, Zhi-Kang Lin, Ze-Huan Zheng, Yang Liu, Jing Li, Jian-Hua Jiang, and Huanyang Chen",
-          "description": "Author(s): Ying Chen, Yuhang Yin, Zhi-Kang Lin, Ze-Huan Zheng, Yang Liu, Jing Li, Jian-Hua Jiang, and Huanyang Chen\nNew experimental work on topological phenomena at defects reveals the nontrivial interplay between the non-Euclidean geometries in real space and the band topology in reciprocal space.\n\n[Phys. Rev. Lett. 129, 154301] Published Mon Oct 03, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.154301",
-          "publishedOn": "2022-10-03T10:00:00.000Z",
-          "wordCount": 1301,
-          "title": "Observation of Topological $p$-Orbital Disclination States in Non-Euclidean Acoustic Metamaterials",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.154301.png"
         }
       ]
     }

@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-01T01:24:32.352Z</id>
+    <id>urn:2022-11-02T01:16:07.991Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T01:24:32.352Z</updated>
+    <updated>2022-11-02T01:16:07.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kinematic Signatures of Impulsive Supernova Feedback in Dwarf Galaxies]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.191103</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.191103"/>
+        <updated>2022-11-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jan D. Burger, Jesús Zavala, Laura V. Sales, Mark Vogelsberger, Federico Marinacci, and Paul Torrey
+A proposed study of dwarf galaxies could give insight into whether dark matter particles interact with each other.
+
+[Phys. Rev. Lett. 129, 191103] Published Tue Nov 01, 2022]]></summary>
+        <author>
+            <name>Jan D. Burger, Jesús Zavala, Laura V. Sales, Mark Vogelsberger, Federico Marinacci, and Paul Torrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic structure and spin fluctuations in the colossal magnetoresistance ferrimagnet ${\mathrm{Mn}}_{3}{\mathrm{Si}}_{2}{\mathrm{Te}}_{6}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L180402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L180402"/>
+        <updated>2022-11-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Feng Ye, Masaaki Matsuda, Zachary Morgan, Todd Sherline, Yifei Ni, Hengdi Zhao, and G. Cao
+Characterizing the magnetic structure is crucial to understand the extraordinary colossal magnetoresistance of ferrimagnetic Mn3Si2Te6. This material exhibits orders of magnitude reduction in resistivity when a magnetic polarization is avoided. Using single-crystal neutron diffraction, the authors reveal here the field evolution of the spin configuration. Prominent magnetic diffuse scattering is present and decays slowly well above the transition. The spin correlation lengths agree well with the electrical resistivity, underscoring the role of magnetic fluctuations contributing to the magnetoresistivity near the transition.
+
+[Phys. Rev. B 106, L180402] Published Tue Nov 01, 2022]]></summary>
+        <author>
+            <name>Feng Ye, Masaaki Matsuda, Zachary Morgan, Todd Sherline, Yifei Ni, Hengdi Zhao, and G. Cao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integer quantum Hall effect and enhanced $g$ factor in quantum-confined ${\mathrm{Cd}}_{3}{\mathrm{As}}_{2}$ films]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L201101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L201101"/>
+        <updated>2022-11-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Run Xiao, Junyi Zhang, Juan Chamorro, Jinwoong Kim, Tyrel M. McQueen, David Vanderbilt, Morteza Kayyalha, Yi Li, and Nitin Samarth
+A concerted experimental and theoretical investigation of Shubnikov–de Haas oscillations and the integer quantum Hall effect in thin films of Cd3As2 leads to a new understanding of the Landau level spectrum in this archetypal Dirac semimetal under strong quantum confinement conditions. Experiments reveal an emerging ν=3 quantum Hall state as the film thickness is reduced, indicating an enhanced spin splitting. This is consistent with tight-binding calculations that show nonmonotonic enhancement of the g factor with increasing quantum confinement.
+
+[Phys. Rev. B 106, L201101] Published Tue Nov 01, 2022]]></summary>
+        <author>
+            <name>Run Xiao, Junyi Zhang, Juan Chamorro, Jinwoong Kim, Tyrel M. McQueen, David Vanderbilt, Morteza Kayyalha, Yi Li, and Nitin Samarth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass-energy equivalence in gravitationally bound quantum states of the neutron]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.052801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.052801"/>
+        <updated>2022-11-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Germain Tobar, Simon Haine, Fabio Costa, and Magdalena Zych
+The authors study quantum effects resulting from mass-energy equivalence using ultracold neutrons that are confined gravitationally by considering a quantum correction to the neutron’s mass due to the neutron spin in the presence of an external magnetic field. The authors show that the neutron’s additional weight due to the quantum treatment of mass-energy equivalence will cause a small shift in the neutron’s eigenenergies and eigenstates, which could provide signatures in an interferometric experiment.
+
+[Phys. Rev. A 106, 052801] Published Tue Nov 01, 2022]]></summary>
+        <author>
+            <name>Germain Tobar, Simon Haine, Fabio Costa, and Magdalena Zych</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dense and Hot QCD at Strong Coupling]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041012</id>
@@ -1172,32 +1224,6 @@ Though permanent magnets are ubiquitous in science and everyday society, we stil
 [Phys. Rev. Applied 18, 044006] Published Tue Oct 04, 2022]]></summary>
         <author>
             <name>Alan A. Kaptanoglu, Tony Qian, Florian Wechsung, and Matt Landreman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Make Sense of Dissipation without Causality?]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.041001"/>
-        <updated>2022-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): L. Gavassino
-A fluid dynamics theory that violates causality would always generate paradoxical instabilities—a result that could guide the search for a theory for relativistic fluids.
-
-[Phys. Rev. X 12, 041001] Published Mon Oct 03, 2022]]></summary>
-        <author>
-            <name>L. Gavassino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of Topological $p$-Orbital Disclination States in Non-Euclidean Acoustic Metamaterials]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.154301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.154301"/>
-        <updated>2022-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ying Chen, Yuhang Yin, Zhi-Kang Lin, Ze-Huan Zheng, Yang Liu, Jing Li, Jian-Hua Jiang, and Huanyang Chen
-New experimental work on topological phenomena at defects reveals the nontrivial interplay between the non-Euclidean geometries in real space and the band topology in reciprocal space.
-
-[Phys. Rev. Lett. 129, 154301] Published Mon Oct 03, 2022]]></summary>
-        <author>
-            <name>Ying Chen, Yuhang Yin, Zhi-Kang Lin, Ze-Huan Zheng, Yang Liu, Jing Li, Jian-Hua Jiang, and Huanyang Chen</name>
         </author>
     </entry>
 </feed>
