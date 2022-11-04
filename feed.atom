@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-03T01:09:19.688Z</id>
+    <id>urn:2022-11-04T01:11:32.472Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T01:09:19.688Z</updated>
+    <updated>2022-11-04T01:11:32.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sequence of phase transitions in a model of interacting rods]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.L052101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.L052101"/>
+        <updated>2022-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Juliane U. Klamser, Tridib Sadhu, and Deepak Dhar
+This article studies a system of rods pinned on a lattice with only rotational degrees of freedom, using Monte Carlo simulations. The system shows an infinite number of phase transitions as a function of the inverse temperature and the relative size of the rod with respect to the lattice, that can be broadly characterized as either Ising-like or of geometrical origin.
+
+[Phys. Rev. E 106, L052101] Published Thu Nov 03, 2022]]></summary>
+        <author>
+            <name>Juliane U. Klamser, Tridib Sadhu, and Deepak Dhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast flavor instability in hypermassive neutron star disk outflows]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.103003</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.103003"/>
+        <updated>2022-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rodrigo Fernández, Sherwood Richers, Nicole Mulyk, and Steven Fahlman
+Neutron star mergers are of tremendous astrophysical interest for a variety of reasons that include their role in initiating r-process nucleosynthesis in their ejecta. In this article, the authors tackle the complex influence of extremely rapid neutrino flavor conversion (fast flavor instability - FFI) on ejecta from accretion disks around hypermassive neutron stars (HMNSs) formed in mergers. By studying a wide variety of scenarios, the authors detail the influence of FFI and show that it depends strongly on the lifetime of the HMNS.
+
+[Phys. Rev. D 106, 103003] Published Thu Nov 03, 2022]]></summary>
+        <author>
+            <name>Rodrigo Fernández, Sherwood Richers, Nicole Mulyk, and Steven Fahlman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble dynamics in fluids with $N$-body simulations]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.103501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.103501"/>
+        <updated>2022-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Marek Lewicki, Ville Vaskonen, and Hardi Veermäe
+The authors set up a new method (proof of concept) for studying bubble wall dynamics in first-order cosmological phase transitions based on N-body simulations. The technique goes beyond commonly used perfect fluid descriptions and equilibrium assumptions. This allows e.g. the computation of the terminal bubble wall velocity, a key ingredient for determining the gravitational wave signal created in the cosmological phase transition, based on particle physics properties rather than on phenomenological fluid parameters.
+
+[Phys. Rev. D 106, 103501] Published Thu Nov 03, 2022]]></summary>
+        <author>
+            <name>Marek Lewicki, Ville Vaskonen, and Hardi Veermäe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many-body theory of phonon-induced spin relaxation and decoherence]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.174404</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.174404"/>
+        <updated>2022-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jinsoo Park, Yao Luo, Jin-Jian Zhou, and Marco Bernardi
+Electron spin decoherence from atomic vibrations (phonons) limits the performance of spin-based devices but is difficult to model quantitatively. Here, the authors present a new theory for addressing this challenge. Their approach unifies the theoretical treatment of two mechanisms – spin scattering off phonons and spin precession altered by phonons – and provides unprecedented microscopic insight into spin motion in materials. This work enables precise predictions for spin relaxation and decoherence in materials, advancing the quest for spin-based quantum technologies.
+
+[Phys. Rev. B 106, 174404] Published Thu Nov 03, 2022]]></summary>
+        <author>
+            <name>Jinsoo Park, Yao Luo, Jin-Jian Zhou, and Marco Bernardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why mercury is a superconductor]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L180501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L180501"/>
+        <updated>2022-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Cesare Tresca, Gianni Profeta, Giovanni Marini, Giovanni B. Bachelet, Antonio Sanna, Matteo Calandra, and Lilia Boeri
+In 1911, Kamerlingh Onnes discovered superconductivity, measuring the low-temperature resistivity in mercury. Nowadays, more than 100 years later, many new superconductors have been discovered with higher and higher critical temperatures. Ironically, the exact origin of the superconducting phase in mercury has remained hidden so far. The authors decided to revisit the description of this fascinating material with ab initio techniques, revealing all its intricate physical properties. Despite its apparent simplicity, mercury hides effects that are anything but trivial. Their proper description is a challenging problem and requires advanced computational and theoretical techniques, which have become available only recently.
+
+[Phys. Rev. B 106, L180501] Published Thu Nov 03, 2022]]></summary>
+        <author>
+            <name>Cesare Tresca, Gianni Profeta, Giovanni Marini, Giovanni B. Bachelet, Antonio Sanna, Matteo Calandra, and Lilia Boeri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced amplitude for superconductivity due to spectrum-wide wave function criticality in quasiperiodic and power-law random hopping models]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L180503</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L180503"/>
+        <updated>2022-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xinghai Zhang and Matthew S. Foster
+The shape of electron wave functions determines key properties of quantum materials. Very recently, it was found that disorder can turn all wave functions into fractals (“spectrum-wide quantum criticality,” SWQC) in models of topological and strongly correlated superconductors. The implications of SWQC for superconductivity itself remain largely unexplored. Here, the authors show that superconductivity can be strongly enhanced near the SWQC Anderson transition in two one-dimensional models. The study highlights a new potential mechanism for achieving higher transition temperatures via random or structured inhomogeneity.
+
+[Phys. Rev. B 106, L180503] Published Thu Nov 03, 2022]]></summary>
+        <author>
+            <name>Xinghai Zhang and Matthew S. Foster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-exciton trapping in an electrostatically defined two-dimensional semiconductor quantum dot]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L201401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L201401"/>
+        <updated>2022-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Daniel N. Shanks, Fateme Mahdikhanysarvejahany, Michael R. Koehler, David G. Mandrus, Takashi Taniguchi, Kenji Watanabe, Brian J. LeRoy, and John R. Schaibley
+The ability to deterministically trap and control single interlayer excitons in 2D transition metal dichalcogenide heterostructures opens new opportunities to utilize their spin and valley degrees of freedom for quantum information applications. In this work, the authors fabricate a lithographically defined electrostatic exciton trap using a nanopatterned graphene gate. Photoluminescence measurements show discrete excitation power-dependent emission energies, corresponding to different number states of excitons occupying the trap, with the lowest-energy state corresponding a single-exciton population.
+
+[Phys. Rev. B 106, L201401] Published Thu Nov 03, 2022]]></summary>
+        <author>
+            <name>Daniel N. Shanks, Fateme Mahdikhanysarvejahany, Michael R. Koehler, David G. Mandrus, Takashi Taniguchi, Kenji Watanabe, Brian J. LeRoy, and John R. Schaibley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable Quantum Logic Spectroscopy]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.193603</id>
@@ -1212,32 +1303,6 @@ The visualization of objects such as transparent living cells and tissues plays 
 [Phys. Rev. Applied 18, 044016] Published Thu Oct 06, 2022]]></summary>
         <author>
             <name>Ruisi Wang, Shanshan He, and Hailu Luo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable Generation of Multiphoton Entangled States by Active Feed-Forward and Multiplexing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.150501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.150501"/>
-        <updated>2022-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Evan Meyer-Scott, Nidhin Prasannan, Ish Dhand, Christof Eigner, Viktor Quiring, Sonja Barkhofen, Benjamin Brecht, Martin B. Plenio, and Christine Silberhorn
-A new experiment generates entanglement between many photons with a much higher probability than available methods, which could be a boon for quantum information applications.
-
-[Phys. Rev. Lett. 129, 150501] Published Wed Oct 05, 2022]]></summary>
-        <author>
-            <name>Evan Meyer-Scott, Nidhin Prasannan, Ish Dhand, Christof Eigner, Viktor Quiring, Sonja Barkhofen, Benjamin Brecht, Martin B. Plenio, and Christine Silberhorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velocity and size quantification of drops in single and collective bursting bubbles experiments]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.103603</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.103603"/>
-        <updated>2022-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): B. Néel and L. Deike
-Droplet production from bursting bubbles has been extensively studied for single bubbles but remains sparsely quantified in controlled collective settings. This article explores how the trajectories of droplets produced by interacting bursting bubbles can be used to track back the mode of production, for clean and contaminated water. Noticeably, it compares velocity-size relationships, reviewed for jet and film drops from individual bubbles, with the measurements made in collective experiments.
-
-[Phys. Rev. Fluids 7, 103603] Published Wed Oct 05, 2022]]></summary>
-        <author>
-            <name>B. Néel and L. Deike</name>
         </author>
     </entry>
 </feed>
