@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-07T01:05:30.109Z</id>
+    <id>urn:2022-11-08T01:05:26.508Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-07T01:05:30.109Z</updated>
+    <updated>2022-11-08T01:05:26.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Random-Access Quantum Memory Using Chirped Pulse Phase Encoding]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041014</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.041014"/>
+        <updated>2022-11-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton
+A new quantum random-access memory device reads and writes information using a chirped electromagnetic pulse and a superconducting resonator, making it significantly more hardware-efficient than previous devices.
+
+[Phys. Rev. X 12, 041014] Published Mon Nov 07, 2022]]></summary>
+        <author>
+            <name>James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Controlling the configuration space topology of mechanical structures]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.055002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.055002"/>
+        <updated>2022-11-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Berry, David Limberg, M. E. Lee-Trimble, Ryan Hayward, and C. D. Santangelo
+Linkages are mechanical assemblies of rods connected by rotating joints that are of both practical and theoretical interest. They can be designed to perform certain motions, and this work describes a method to do so more easily by focusing on perturbations around special configurations called branch points.
+
+[Phys. Rev. E 106, 055002] Published Mon Nov 07, 2022]]></summary>
+        <author>
+            <name>M. Berry, David Limberg, M. E. Lee-Trimble, Ryan Hayward, and C. D. Santangelo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimized geometries for cooperative photon storage in an impurity coupled to a two-dimensional atomic array]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.053706</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.053706"/>
+        <updated>2022-11-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Samuel Buckley-Bonanno, Stefan Ostermann, Oriol Rubies-Bigorda, Taylor L. Patti, and Susanne F. Yelin
+Quantum emitter arrays with embedded impurities offer the ability to control interactions between individual photons and quantum matter. Here, the authors investigate the lifetime of optical excitations in such arrays and reveal the importance of placement.
+
+[Phys. Rev. A 106, 053706] Published Mon Nov 07, 2022]]></summary>
+        <author>
+            <name>Samuel Buckley-Bonanno, Stefan Ostermann, Oriol Rubies-Bigorda, Taylor L. Patti, and Susanne F. Yelin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emergence of Isotropy and Dynamic Scaling in 2D Wave Turbulence in a Homogeneous Bose Gas]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.190402</id>
@@ -1264,45 +1303,6 @@ Edge magnons play a key role in the magnetization reversal of ferromagnetic nano
 [Phys. Rev. B 106, 144410] Published Mon Oct 10, 2022]]></summary>
         <author>
             <name>Liu Yang, Alejandro A. Jara, Zheng Duan, Andrew Smith, Brian Youngblood, Rodrigo E. Arias, and Ilya N. Krivorotov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast high-fidelity single-qubit gates for flip-flop qubits in silicon]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.165302</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.165302"/>
-        <updated>2022-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. A. Calderon-Vargas, Edwin Barnes, and Sophia E. Economou
-Flip-flop qubits, encoded in the antiparallel spin states of electron and nuclear spins in phosphorus donors in silicon, are promising for quantum processors due to their long coherence times, long-range two-qubit coupling, and CMOS compatibility. However, the large Hilbert space complicates understanding and controlling the dynamics. In this work, the authors use sophisticated techniques to derive effective flip-flop qubit Hamiltonians and design optimal control pulses that implement high-fidelity single-qubit gates that are much faster and more robust than previous proposals.
-
-[Phys. Rev. B 106, 165302] Published Mon Oct 10, 2022]]></summary>
-        <author>
-            <name>F. A. Calderon-Vargas, Edwin Barnes, and Sophia E. Economou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observing quasiparticles through the entanglement lens]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L161104</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L161104"/>
-        <updated>2022-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yizhi You, Elisabeth Wybo, Frank Pollmann, and S. L. Sondhi
-The quantum entanglement of a wave function generates the information entropy carried by each qubit of the many-body system and correspondingly creates unique quantum matter. In this work, the authors attempt to visualize distinct quasiparticles and collective motions from an entanglement perspective. Remarkably, many salient features of the quasiparticles, including their quantum numbers, locality, and fractionalization, are reflected in the entanglement spectrum and in the mutual information.
-
-[Phys. Rev. B 106, L161104] Published Mon Oct 10, 2022]]></summary>
-        <author>
-            <name>Yizhi You, Elisabeth Wybo, Frank Pollmann, and S. L. Sondhi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ground state of ${\mathrm{Ce}}_{3}{\mathrm{Bi}}_{4}{\mathrm{Pd}}_{3}$ unraveled by hydrostatic pressure]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L161105</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L161105"/>
-        <updated>2022-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. O. Ajeesh, S. M. Thomas, S. K. Kushwaha, E. D. Bauer, F. Ronning, J. D. Thompson, N. Harrison, and P. F. S. Rosa
-Noncentrosymmetric Ce3Bi4Pd3 has recently attracted tremendous attention as a strongly correlated topological semimetal candidate. Conflicting experimental results, however, argue for either a Weyl Kondo semimetallic or a narrow-gap Kondo insulating ground state. Using electrical transport measurements on bulk crystals and microstructure devices under hydrostatic pressure, the authors show that Ce3Bi4Pd3 exhibits a narrow-gap Kondo insulating ground state. The results provide important evidence for the ground state of a sought-after Weyl Kondo semimetal candidate and shed light on the experimental and theoretical search for strongly correlated topological materials.
-
-[Phys. Rev. B 106, L161105] Published Mon Oct 10, 2022]]></summary>
-        <author>
-            <name>M. O. Ajeesh, S. M. Thomas, S. K. Kushwaha, E. D. Bauer, F. Ronning, J. D. Thompson, N. Harrison, and P. F. S. Rosa</name>
         </author>
     </entry>
 </feed>

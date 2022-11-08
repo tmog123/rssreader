@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041014",
+          "author": "James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton",
+          "description": "Author(s): James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton\nA new quantum random-access memory device reads and writes information using a chirped electromagnetic pulse and a superconducting resonator, making it significantly more hardware-efficient than previous devices.\n\n[Phys. Rev. X 12, 041014] Published Mon Nov 07, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.041014",
+          "publishedOn": "2022-11-07T10:00:00.000Z",
+          "wordCount": 3099,
+          "title": "Random-Access Quantum Memory Using Chirped Pulse Phase Encoding",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.041014.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.055002",
+          "author": "M. Berry, David Limberg, M. E. Lee-Trimble, Ryan Hayward, and C. D. Santangelo",
+          "description": "Author(s): M. Berry, David Limberg, M. E. Lee-Trimble, Ryan Hayward, and C. D. Santangelo\nLinkages are mechanical assemblies of rods connected by rotating joints that are of both practical and theoretical interest. They can be designed to perform certain motions, and this work describes a method to do so more easily by focusing on perturbations around special configurations called branch points.\n\n[Phys. Rev. E 106, 055002] Published Mon Nov 07, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.055002",
+          "publishedOn": "2022-11-07T10:00:00.000Z",
+          "wordCount": 1423,
+          "title": "Controlling the configuration space topology of mechanical structures",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.055002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.053706",
+          "author": "Samuel Buckley-Bonanno, Stefan Ostermann, Oriol Rubies-Bigorda, Taylor L. Patti, and Susanne F. Yelin",
+          "description": "Author(s): Samuel Buckley-Bonanno, Stefan Ostermann, Oriol Rubies-Bigorda, Taylor L. Patti, and Susanne F. Yelin\nQuantum emitter arrays with embedded impurities offer the ability to control interactions between individual photons and quantum matter. Here, the authors investigate the lifetime of optical excitations in such arrays and reveal the importance of placement.\n\n[Phys. Rev. A 106, 053706] Published Mon Nov 07, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.053706",
+          "publishedOn": "2022-11-07T10:00:00.000Z",
+          "wordCount": 1367,
+          "title": "Optimized geometries for cooperative photon storage in an impurity coupled to a two-dimensional atomic array",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.053706.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.190402",
           "author": "Maciej Gałka, Panagiotis Christodoulou, Martin Gazo, Andrey Karailiev, Nishant Dogra, Julian Schmitt, and Zoran Hadzibabic",
           "description": "Author(s): Maciej Gałka, Panagiotis Christodoulou, Martin Gazo, Andrey Karailiev, Nishant Dogra, Julian Schmitt, and Zoran Hadzibabic\nThe observation of the onset of turbulence in a gas of bosons allows researchers to explore how turbulence comes to life.\n\n[Phys. Rev. Lett. 129, 190402] Published Fri Nov 04, 2022",
@@ -491,7 +521,7 @@
           "description": "Author(s): W. G. Zheng, V. Balédent, E. Ressouche, V. Petricek, D. Bounoua, P. Bourges, Y. Sidis, A. Forget, D. Colson, and P. Foury-Leylekian\nA complex magnetic structure with specific symmetry properties is a relevant ingredient for magnetoelectric multiferroicity. In BaFe2Se3, a member of the Fe spin-ladder family of pressure-induced superconductors, the authors reveal this complexity. Using polarized and unpolarized single-crystal neutron diffraction, they evidence a chiral, umbrella-like magnetic order made of blocks of quasiferromagnetic spins, antiferromagnetically ordered along the ladder. Such accurate information on the magnetism will help to understand the magnetoelectric coupling in this family and its puzzling phase diagram.\n\n[Phys. Rev. B 106, 134429] Published Mon Oct 24, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.134429",
           "publishedOn": "2022-10-24T10:00:00.000Z",
-          "wordCount": 1009,
+          "wordCount": 1008,
           "title": "Chiral magnetic structure of spin-ladder multiferroic ${\\mathrm{BaFe}}_{2}{\\mathrm{Se}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.134429.png"
         },
@@ -661,7 +691,7 @@
           "description": "Author(s): Weiwei Gao, Jijun Zhao, and James R. Chelikowsky\nIntrinsic low-dimensional multiferroic materials are rare, but they have been pursued for years as promising platforms for exploring the coupling between ferroic orders and hosting novel quantum phenomena. Using first-principles density functional theory calculations, the authors show CrPSe3, an experimentally synthesized van der Waals layered material, demonstrates several dynamically stable multiferroic phases, including anti-ferroelectric and ferroelectric phases, which show ferromagnetism and compete with the experimental paraelectric phase. These multiferroic phases have non-negligible Dzyaloshinskii-Moriya interactions that may support chiral spin textures. The small energy barriers and energy differences between phases can be effectively tuned under moderate strain or electric fields. \n\n[Phys. Rev. Materials 6, L101402] Published Wed Oct 19, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.L101402",
           "publishedOn": "2022-10-19T10:00:00.000Z",
-          "wordCount": 928,
+          "wordCount": 927,
           "title": "Out-of-plane polarization and topological magnetic vortices in multiferroic ${\\mathrm{CrPSe}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.L101402.png"
         },
@@ -751,7 +781,7 @@
           "description": "Author(s): Katarzyna Berent, Julyan H. E. Cartwright, Antonio G. Checa, Carlos Pimentel, Paula Ramos-Silva, and C. Ignacio Sainz-Díaz\nThe shells of some mollusk species have compact helical structures that researchers propose develop from the self-assembly of a liquid-crystalline material.\n\n[Phys. Rev. Materials 6, 105601] Published Mon Oct 17, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.105601",
           "publishedOn": "2022-10-17T10:00:00.000Z",
-          "wordCount": 1199,
+          "wordCount": 1200,
           "title": "Helical microstructures in molluscan biomineralization are a biological example of close packed helices that may form from a colloidal liquid crystal precursor in a twist–bend nematic phase",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.105601.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 1405,
           "title": "Parametric resonance of spin waves in ferromagnetic nanowires tuned by spin Hall torque",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.144410.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.165302",
-          "author": "F. A. Calderon-Vargas, Edwin Barnes, and Sophia E. Economou",
-          "description": "Author(s): F. A. Calderon-Vargas, Edwin Barnes, and Sophia E. Economou\nFlip-flop qubits, encoded in the antiparallel spin states of electron and nuclear spins in phosphorus donors in silicon, are promising for quantum processors due to their long coherence times, long-range two-qubit coupling, and CMOS compatibility. However, the large Hilbert space complicates understanding and controlling the dynamics. In this work, the authors use sophisticated techniques to derive effective flip-flop qubit Hamiltonians and design optimal control pulses that implement high-fidelity single-qubit gates that are much faster and more robust than previous proposals.\n\n[Phys. Rev. B 106, 165302] Published Mon Oct 10, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.165302",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1556,
-          "title": "Fast high-fidelity single-qubit gates for flip-flop qubits in silicon",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.165302.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L161104",
-          "author": "Yizhi You, Elisabeth Wybo, Frank Pollmann, and S. L. Sondhi",
-          "description": "Author(s): Yizhi You, Elisabeth Wybo, Frank Pollmann, and S. L. Sondhi\nThe quantum entanglement of a wave function generates the information entropy carried by each qubit of the many-body system and correspondingly creates unique quantum matter. In this work, the authors attempt to visualize distinct quasiparticles and collective motions from an entanglement perspective. Remarkably, many salient features of the quasiparticles, including their quantum numbers, locality, and fractionalization, are reflected in the entanglement spectrum and in the mutual information.\n\n[Phys. Rev. B 106, L161104] Published Mon Oct 10, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L161104",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 933,
-          "title": "Observing quasiparticles through the entanglement lens",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L161104.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L161105",
-          "author": "M. O. Ajeesh, S. M. Thomas, S. K. Kushwaha, E. D. Bauer, F. Ronning, J. D. Thompson, N. Harrison, and P. F. S. Rosa",
-          "description": "Author(s): M. O. Ajeesh, S. M. Thomas, S. K. Kushwaha, E. D. Bauer, F. Ronning, J. D. Thompson, N. Harrison, and P. F. S. Rosa\nNoncentrosymmetric Ce3Bi4Pd3 has recently attracted tremendous attention as a strongly correlated topological semimetal candidate. Conflicting experimental results, however, argue for either a Weyl Kondo semimetallic or a narrow-gap Kondo insulating ground state. Using electrical transport measurements on bulk crystals and microstructure devices under hydrostatic pressure, the authors show that Ce3Bi4Pd3 exhibits a narrow-gap Kondo insulating ground state. The results provide important evidence for the ground state of a sought-after Weyl Kondo semimetal candidate and shed light on the experimental and theoretical search for strongly correlated topological materials.\n\n[Phys. Rev. B 106, L161105] Published Mon Oct 10, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L161105",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1007,
-          "title": "Ground state of ${\\mathrm{Ce}}_{3}{\\mathrm{Bi}}_{4}{\\mathrm{Pd}}_{3}$ unraveled by hydrostatic pressure",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L161105.png"
         }
       ]
     }
