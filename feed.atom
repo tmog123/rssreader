@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T01:05:26.508Z</id>
+    <id>urn:2022-11-09T01:06:29.970Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T01:05:26.508Z</updated>
+    <updated>2022-11-09T01:06:29.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Analytic approach to transport in superconducting junctions with arbitrary carrier density]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087"/>
+        <updated>2022-11-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. Setiawan and Johannes Hofmann
+By developing a general framework for transport across superconducting junctions that goes beyond the standard Andreev approximation, two crucial transport signatures are proposed for s-wave Josephson junctions along the BCS-BEC crossover: negative differential conductance as a signature of unitarity and a complete suppression of multiple-Andreev-reflection-induced current as a hallmark of the splitting point.
+
+[Phys. Rev. Research 4, 043087] Published Tue Nov 08, 2022]]></summary>
+        <author>
+            <name>F. Setiawan and Johannes Hofmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encoding a one-dimensional topological gauge theory in a Raman-coupled Bose-Einstein condensate]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043088</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043088"/>
+        <updated>2022-11-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi
+A Raman-coupled Bose-Einstein condensate faithfully realizes the chiral BF theory, a one-dimensional reduction of the celebrated Chern-Simons gauge theory of fractional quantum Hall systems.
+
+[Phys. Rev. Research 4, 043088] Published Tue Nov 08, 2022]]></summary>
+        <author>
+            <name>C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random-Access Quantum Memory Using Chirped Pulse Phase Encoding]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041014</id>
@@ -1264,45 +1290,6 @@ Pour coffee into a mug, and you might notice that the water cascading from the j
 [Phys. Rev. Fluids 7, 104001] Published Tue Oct 11, 2022]]></summary>
         <author>
             <name>Daniel T. A. Jordan, Neil M. Ribe, Antoine Deblais, and Daniel Bonn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Folding lattice proteins with quantum annealing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043013</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043013"/>
-        <updated>2022-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Anders Irbäck, Lucas Knuthson, Sandipan Mohanty, and Carsten Peterson
-A lattice protein encoding is developed for finding the lowest energies on a quantum annealer. It is implemented to run on a D-Wave Advantage and yields correct results for nontrivial chain lengths.
-
-[Phys. Rev. Research 4, 043013] Published Mon Oct 10, 2022]]></summary>
-        <author>
-            <name>Anders Irbäck, Lucas Knuthson, Sandipan Mohanty, and Carsten Peterson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quasicontinuous Exhaust Scenario for a Fusion Reactor: The Renaissance of Small Edge Localized Modes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.165001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.165001"/>
-        <updated>2022-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): G. F. Harrer, M. Faitsch, L. Radovanovic, E. Wolfrum, C. Albert, A. Cathey, M. Cavedon, M. Dunne, T. Eich, R. Fischer, M. Griener, M. Hoelzl, B. Labit, H. Meyer, F. Aumayr, The ASDEX Upgrade Team, and The EUROfusion MST1 Team
-A mechanism for preventing destructive instabilities in magnetically confined plasmas provides a new way for scientists to operate future nuclear-fusion reactors.
-
-[Phys. Rev. Lett. 129, 165001] Published Mon Oct 10, 2022]]></summary>
-        <author>
-            <name>G. F. Harrer, M. Faitsch, L. Radovanovic, E. Wolfrum, C. Albert, A. Cathey, M. Cavedon, M. Dunne, T. Eich, R. Fischer, M. Griener, M. Hoelzl, B. Labit, H. Meyer, F. Aumayr, The ASDEX Upgrade Team, and The EUROfusion MST1 Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parametric resonance of spin waves in ferromagnetic nanowires tuned by spin Hall torque]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.144410</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.144410"/>
-        <updated>2022-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Liu Yang, Alejandro A. Jara, Zheng Duan, Andrew Smith, Brian Youngblood, Rodrigo E. Arias, and Ilya N. Krivorotov
-Edge magnons play a key role in the magnetization reversal of ferromagnetic nanoelements and may find applications in the field of magnonics. The authors tune the parametric excitation of edge magnons in ferromagnetic nanowires by spin Hall torque in order to probe the magnon ellipticity. The study reveals that the edge magnon ellipticity is significantly lower than that predicted by a simple model of the magnetic edge. This work presents a sensitive probe of magnetic properties at nanoelement edges.
-
-[Phys. Rev. B 106, 144410] Published Mon Oct 10, 2022]]></summary>
-        <author>
-            <name>Liu Yang, Alejandro A. Jara, Zheng Duan, Andrew Smith, Brian Youngblood, Rodrigo E. Arias, and Ilya N. Krivorotov</name>
         </author>
     </entry>
 </feed>

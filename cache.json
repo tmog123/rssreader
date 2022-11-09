@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087",
+          "author": "F. Setiawan and Johannes Hofmann",
+          "description": "Author(s): F. Setiawan and Johannes Hofmann\nBy developing a general framework for transport across superconducting junctions that goes beyond the standard Andreev approximation, two crucial transport signatures are proposed for s-wave Josephson junctions along the BCS-BEC crossover: negative differential conductance as a signature of unitarity and a complete suppression of multiple-Andreev-reflection-induced current as a hallmark of the splitting point.\n\n[Phys. Rev. Research 4, 043087] Published Tue Nov 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087",
+          "publishedOn": "2022-11-08T10:00:00.000Z",
+          "wordCount": 2207,
+          "title": "Analytic approach to transport in superconducting junctions with arbitrary carrier density",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043087.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043088",
+          "author": "C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi",
+          "description": "Author(s): C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi\nA Raman-coupled Bose-Einstein condensate faithfully realizes the chiral BF theory, a one-dimensional reduction of the celebrated Chern-Simons gauge theory of fractional quantum Hall systems.\n\n[Phys. Rev. Research 4, 043088] Published Tue Nov 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043088",
+          "publishedOn": "2022-11-08T10:00:00.000Z",
+          "wordCount": 1260,
+          "title": "Encoding a one-dimensional topological gauge theory in a Raman-coupled Bose-Einstein condensate",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043088.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041014",
           "author": "James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton",
           "description": "Author(s): James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton\nA new quantum random-access memory device reads and writes information using a chirped electromagnetic pulse and a superconducting resonator, making it significantly more hardware-efficient than previous devices.\n\n[Phys. Rev. X 12, 041014] Published Mon Nov 07, 2022",
@@ -691,7 +711,7 @@
           "description": "Author(s): Weiwei Gao, Jijun Zhao, and James R. Chelikowsky\nIntrinsic low-dimensional multiferroic materials are rare, but they have been pursued for years as promising platforms for exploring the coupling between ferroic orders and hosting novel quantum phenomena. Using first-principles density functional theory calculations, the authors show CrPSe3, an experimentally synthesized van der Waals layered material, demonstrates several dynamically stable multiferroic phases, including anti-ferroelectric and ferroelectric phases, which show ferromagnetism and compete with the experimental paraelectric phase. These multiferroic phases have non-negligible Dzyaloshinskii-Moriya interactions that may support chiral spin textures. The small energy barriers and energy differences between phases can be effectively tuned under moderate strain or electric fields. \n\n[Phys. Rev. Materials 6, L101402] Published Wed Oct 19, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.L101402",
           "publishedOn": "2022-10-19T10:00:00.000Z",
-          "wordCount": 927,
+          "wordCount": 928,
           "title": "Out-of-plane polarization and topological magnetic vortices in multiferroic ${\\mathrm{CrPSe}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.L101402.png"
         },
@@ -974,36 +994,6 @@
           "wordCount": 1523,
           "title": "Chain oscillations in liquid jets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.104001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043013",
-          "author": "Anders Irbäck, Lucas Knuthson, Sandipan Mohanty, and Carsten Peterson",
-          "description": "Author(s): Anders Irbäck, Lucas Knuthson, Sandipan Mohanty, and Carsten Peterson\nA lattice protein encoding is developed for finding the lowest energies on a quantum annealer. It is implemented to run on a D-Wave Advantage and yields correct results for nontrivial chain lengths.\n\n[Phys. Rev. Research 4, 043013] Published Mon Oct 10, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043013",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1527,
-          "title": "Folding lattice proteins with quantum annealing",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043013.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.165001",
-          "author": "G. F. Harrer, M. Faitsch, L. Radovanovic, E. Wolfrum, C. Albert, A. Cathey, M. Cavedon, M. Dunne, T. Eich, R. Fischer, M. Griener, M. Hoelzl, B. Labit, H. Meyer, F. Aumayr, The ASDEX Upgrade Team, and The EUROfusion MST1 Team",
-          "description": "Author(s): G. F. Harrer, M. Faitsch, L. Radovanovic, E. Wolfrum, C. Albert, A. Cathey, M. Cavedon, M. Dunne, T. Eich, R. Fischer, M. Griener, M. Hoelzl, B. Labit, H. Meyer, F. Aumayr, The ASDEX Upgrade Team, and The EUROfusion MST1 Team\nA mechanism for preventing destructive instabilities in magnetically confined plasmas provides a new way for scientists to operate future nuclear-fusion reactors.\n\n[Phys. Rev. Lett. 129, 165001] Published Mon Oct 10, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.165001",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1305,
-          "title": "Quasicontinuous Exhaust Scenario for a Fusion Reactor: The Renaissance of Small Edge Localized Modes",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.165001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.144410",
-          "author": "Liu Yang, Alejandro A. Jara, Zheng Duan, Andrew Smith, Brian Youngblood, Rodrigo E. Arias, and Ilya N. Krivorotov",
-          "description": "Author(s): Liu Yang, Alejandro A. Jara, Zheng Duan, Andrew Smith, Brian Youngblood, Rodrigo E. Arias, and Ilya N. Krivorotov\nEdge magnons play a key role in the magnetization reversal of ferromagnetic nanoelements and may find applications in the field of magnonics. The authors tune the parametric excitation of edge magnons in ferromagnetic nanowires by spin Hall torque in order to probe the magnon ellipticity. The study reveals that the edge magnon ellipticity is significantly lower than that predicted by a simple model of the magnetic edge. This work presents a sensitive probe of magnetic properties at nanoelement edges.\n\n[Phys. Rev. B 106, 144410] Published Mon Oct 10, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.144410",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1405,
-          "title": "Parametric resonance of spin waves in ferromagnetic nanowires tuned by spin Hall torque",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.144410.png"
         }
       ]
     }
