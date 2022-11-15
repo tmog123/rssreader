@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040318",
+          "author": "Ruslan N. Tazhigulov, Shi-Ning Sun, Reza Haghshenas, Huanchen Zhai, Adrian T.K. Tan, Nicholas C. Rubin, Ryan Babbush, Austin J. Minnich, and Garnet Kin-Lic Chan",
+          "description": "Author(s): Ruslan N. Tazhigulov, Shi-Ning Sun, Reza Haghshenas, Huanchen Zhai, Adrian T.K. Tan, Nicholas C. Rubin, Ryan Babbush, Austin J. Minnich, and Garnet Kin-Lic Chan\nTwo problems of interest in chemistry and materials science are tested on a quantum processor used for quantum advantage experiments.\n\n[PRX Quantum 3, 040318] Published Mon Nov 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040318",
+          "publishedOn": "2022-11-14T10:00:00.000Z",
+          "wordCount": 1771,
+          "title": "Simulating Models of Challenging Correlated Molecules and Materials on the Sycamore Quantum Processor",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.3.040318.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212501",
+          "author": "H. L. Crawford <em>et al.</em>",
+          "description": "Author(s): H. L. Crawford et al.\nNew half-lives for exotic isotopes approaching the neutron drip-line in the vicinity of $N∼28$ for $Z=12–15$ were measured at the Facility for Rare Isotope Beams (FRIB) with the FRIB decay station initiator. The first experimental results are compared to the latest quasiparticle random phase approxi…\n[Phys. Rev. Lett. 129, 212501] Published Mon Nov 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212501",
+          "publishedOn": "2022-11-14T10:00:00.000Z",
+          "wordCount": 955,
+          "title": "Crossing $N=28$ Toward the Neutron Drip Line: First Measurement of Half-Lives at FRIB",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212502",
+          "author": "D. S. Ahn <em>et al.</em>",
+          "description": "Author(s): D. S. Ahn et al.\nThe new isotope $^{39}\\mathrm{Na}$, the most neutron-rich sodium nucleus observed so far, was discovered at the RIKEN Nishina Center Radioactive Isotope Beam Factory using the projectile fragmentation of an intense $^{48}\\mathrm{Ca}$ beam at $345\\text{ }\\text{ }\\mathrm{MeV}/\\text{nucleon}$ on a bery…\n[Phys. Rev. Lett. 129, 212502] Published Mon Nov 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212502",
+          "publishedOn": "2022-11-14T10:00:00.000Z",
+          "wordCount": 762,
+          "title": "Discovery of $^{39}\\mathrm{Na}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.114603",
+          "author": "Jinyul Hwang and Jae Hwa Lee",
+          "description": "Author(s): Jinyul Hwang and Jae Hwa Lee\nIn wall turbulence, meandering behaviors of large-scale structures observed in the logarithmic layer is a crucial spatial feature for understanding the spatial organization of these structures and improving the structure-based turbulence model. These structures extend from the near-wall region to the edge of boundary layers. Their meandering motions leave an imprint on the two-point turbulence statistics across the flow, especially in the logarithmic region. Here, we demonstrate the influence of the meandering motions of wall-attached structures on the two-point correlation and premultiplied two-dimensional spectra by analyzing direct numerical simulation data of the turbulent boundary layer.\n\n[Phys. Rev. Fluids 7, 114603] Published Mon Nov 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.114603",
+          "publishedOn": "2022-11-14T10:00:00.000Z",
+          "wordCount": 1512,
+          "title": "Meandering features of wall-attached structures in turbulent boundary layer",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.114603.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.104025",
+          "author": "Tousif Islam, Scott E. Field, Scott A. Hughes, Gaurav Khanna, Vijay Varma, Matthew Giesler, Mark A. Scheel, Lawrence E. Kidder, and Harald P. Pfeiffer",
+          "description": "Author(s): Tousif Islam, Scott E. Field, Scott A. Hughes, Gaurav Khanna, Vijay Varma, Matthew Giesler, Mark A. Scheel, Lawrence E. Kidder, and Harald P. Pfeiffer\nGravitational waveforms obtained using numerical relativity (NR) are computationally expensive and slow. Surrogate models provide an alternative to full NR by extrapolating from the point-particle regime of high-mass ratio binary waveforms calibrated to NR to much smaller mass ratios. The authors show that their methods work over a remarkable range of mass ratios of 2.5 to 10000 showing good agreement with NR simulations.\n\n[Phys. Rev. D 106, 104025] Published Mon Nov 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.104025",
+          "publishedOn": "2022-11-14T10:00:00.000Z",
+          "wordCount": 1742,
+          "title": "Surrogate model for gravitational wave signals from nonspinning, comparable-to large-mass-ratio black hole binaries built on black hole perturbation theory waveforms calibrated to numerical relativity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.104025.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041016",
           "author": "F. M. Foerster <em>et al.</em>",
           "description": "Author(s): F. M. Foerster et al.\nA new type of plasma accelerator combines two previous methods of producing an electron beam into one compact design.\n\n[Phys. Rev. X 12, 041016] Published Thu Nov 10, 2022",
@@ -61,7 +111,7 @@
           "description": "Author(s): Valentin Deliyski, Galin Gyulchev, Petya Nedkova, and Stoytcho Yazadjiev\nPredictions indicate that wormholes and black holes may have nearly identical polarized light spectra, making these astrophysical objects difficult to distinguish.\n\n[Phys. Rev. D 106, 104024] Published Thu Nov 10, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.104024",
           "publishedOn": "2022-11-10T10:00:00.000Z",
-          "wordCount": 1814,
+          "wordCount": 1815,
           "title": "Polarized image of equatorial emission in horizonless spacetimes: Traversable wormholes",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.104024.png"
         },
@@ -121,7 +171,7 @@
           "description": "Author(s): D. M. Burn, S. L. Zhang, G. van der Laan, and T. Hesjedal\nStudying the dynamic behavior of topological spin textures can unlock future low-energy and high-speed spintronics devices. Recently, the synchrotron-based technique of diffractive ferromagnetic resonance (DFMR) was developed, allowing for element-selective dynamic studies of selected, ordered magnetic modes. In this work, the authors reveal by using DFMR how time-dependent magnetization dynamics couple to the complex spin texture in the well-known chiral magnetic system Cu2OSeO3, uncovering dynamical phase compressing that remained previously hidden using other experimental techniques.\n\n[Phys. Rev. B 106, 174409] Published Wed Nov 09, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.174409",
           "publishedOn": "2022-11-09T10:00:00.000Z",
-          "wordCount": 1612,
+          "wordCount": 1703,
           "title": "Time-resolved measurement of spin excitations in ${\\mathrm{Cu}}_{2}{\\mathrm{OSeO}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.174409.png"
         },
@@ -921,7 +971,7 @@
           "description": "Author(s): Katarzyna Berent, Julyan H. E. Cartwright, Antonio G. Checa, Carlos Pimentel, Paula Ramos-Silva, and C. Ignacio Sainz-Díaz\nThe shells of some mollusk species have compact helical structures that researchers propose develop from the self-assembly of a liquid-crystalline material.\n\n[Phys. Rev. Materials 6, 105601] Published Mon Oct 17, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.105601",
           "publishedOn": "2022-10-17T10:00:00.000Z",
-          "wordCount": 1200,
+          "wordCount": 1199,
           "title": "Helical microstructures in molluscan biomineralization are a biological example of close packed helices that may form from a colloidal liquid crystal precursor in a twist–bend nematic phase",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.105601.png"
         },
