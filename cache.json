@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203",
+          "author": "Abigail Plummer, Paul Z. Hanakata, and David R. Nelson",
+          "description": "Author(s): Abigail Plummer, Paul Z. Hanakata, and David R. Nelson\nThe authors construct a mechanical analog of an Ising antiferromagnet by inserting a square array of locally dilated sites into a 2D crystalline membrane. Past a buckling threshold, these dilations become bistable, and buckle either above or below the host lattice. When the host lattice is planar, neighboring dilations prefer to be antialigned, but a cylindrical host lattice can bias the dilations to buckle away from the center of curvature. They show that curvature acts as an effective external field on the mechanical antiferromagnet, and map out the phase behavior of the system at zero and finite temperature. This demonstrates how curvature and temperature can be used to design and operate a responsive and tunable metamaterial at either the macroscale or nanoscale.\n\n[Phys. Rev. Materials 6, 115203] Published Wed Nov 16, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203",
+          "publishedOn": "2022-11-16T10:00:00.000Z",
+          "wordCount": 1921,
+          "title": "Curvature as an external field in mechanical antiferromagnets",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.115203.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.218101",
+          "author": "Anna Dai and Martine Ben Amar",
+          "description": "Author(s): Anna Dai and Martine Ben Amar\nPhysicists have shown that a mathematical transformation called a conformal map can be used to predict how leaves grow.\n\n[Phys. Rev. Lett. 129, 218101] Published Wed Nov 16, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.218101",
+          "publishedOn": "2022-11-16T10:00:00.000Z",
+          "wordCount": 1145,
+          "title": "Minimizing the Elastic Energy of Growing Leaves by Conformal Mapping",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.218101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.114201",
+          "author": "Dylan Reynolds, Gustavo M. Monteiro, and Sriram Ganeshan",
+          "description": "Author(s): Dylan Reynolds, Gustavo M. Monteiro, and Sriram Ganeshan\nWe derive the governing equation of flow for a three-dimensional fluid with a parity-broken viscosity tensor when confined to a Hele-Shaw cell. When such a fluid is pushed through a channel, a transverse force is exerted on the walls, and when a bubble of air expands into a region of such fluid, a circulation develops in the far field. The Saffman-Taylor stability condition is also modified, with these terms tending to stabilize the two fluid interface. Such experiments can in principle facilitate the measurement of parity odd coefficients in both synthetic and natural active matter systems.\n\n[Phys. Rev. Fluids 7, 114201] Published Wed Nov 16, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.114201",
+          "publishedOn": "2022-11-16T10:00:00.000Z",
+          "wordCount": 922,
+          "title": "Hele-Shaw flow for parity odd three-dimensional fluids",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.114201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.054050",
+          "author": "Le Dong and Dong Wang",
+          "description": "Author(s): Le Dong and Dong Wang\nMechanical metamaterials present tremendous potential through synergistic material distribution and structural design, but current approaches mainly focus on structure while neglecting the material distribution. The authors propose an optimized method for designing lattice metamaterials, considering both control aspects. This framework can be used to match multiple targets, such as reproducing the stress-strain and Poisson’s ratio curves of biological tissues simultaneously, and to enable customized lateral profiles. This work expands the design space of lattice metamaterials and is promising for flexible electronics and soft robotics.\n\n[Phys. Rev. Applied 18, 054050] Published Wed Nov 16, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.054050",
+          "publishedOn": "2022-11-16T10:00:00.000Z",
+          "wordCount": 1159,
+          "title": "Optimal Design of Three-Dimensional Voxel Printed Multimaterial Lattice Metamaterials via Machine Learning and Evolutionary Algorithm",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.054050.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.054051",
+          "author": "Teng Xu, Jiahao Liu, Xichao Zhang, Qihan Zhang, Heng-An Zhou, Yiqing Dong, Pierluigi Gargiani, Manuel Valvidares, Yan Zhou, and Wanjun Jiang",
+          "description": "Author(s): Teng Xu, Jiahao Liu, Xichao Zhang, Qihan Zhang, Heng-An Zhou, Yiqing Dong, Pierluigi Gargiani, Manuel Valvidares, Yan Zhou, and Wanjun Jiang\nControlling the interlayer exchange coupling in synthetic antiferromagnets (SAFs) is crucial for realizing spintronic phenomena and devices. Here researchers investigate such control in Pt/Co/Ru/Fe0.55Tb0.45 by tuning the thicknesses of various layers. Complementary measurements using three techniques show that SAFs with different magnetization-reversal characteristics may be clearly resolved. The results suggest that the interlayer exchange coupling may be tuned effectively in this manner, which could be quite useful for designing SAF-based magnetic memory or sensing devices.\n\n[Phys. Rev. Applied 18, 054051] Published Wed Nov 16, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.054051",
+          "publishedOn": "2022-11-16T10:00:00.000Z",
+          "wordCount": 1274,
+          "title": "Systematic Control of the Interlayer Exchange Coupling in Perpendicularly Magnetized Synthetic Antiferromagnets",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.054051.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.055310",
           "author": "Claudia Artiaco, Rafael Díaz Hernández Rojas, Giorgio Parisi, and Federico Ricci-Tersenghi",
           "description": "Author(s): Claudia Artiaco, Rafael Díaz Hernández Rojas, Giorgio Parisi, and Federico Ricci-Tersenghi\nSimulating the jamming of hard spheres is difficult because of the singular interaction potential, which is either zero or infinite. This paper analyzes an algorithm that uses a mapping onto a constrained optimization problem to generate jammed hard-sphere packings that satisfy force balance and are globally stable.\n\n[Phys. Rev. E 106, 055310] Published Tue Nov 15, 2022",
@@ -61,7 +111,7 @@
           "description": "Author(s): H. L. Crawford et al.\nNew half-lives for exotic isotopes approaching the neutron drip-line in the vicinity of $N∼28$ for $Z=12–15$ were measured at the Facility for Rare Isotope Beams (FRIB) with the FRIB decay station initiator. The first experimental results are compared to the latest quasiparticle random phase approxi…\n[Phys. Rev. Lett. 129, 212501] Published Mon Nov 14, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212501",
           "publishedOn": "2022-11-14T10:00:00.000Z",
-          "wordCount": 955,
+          "wordCount": 997,
           "title": "Crossing $N=28$ Toward the Neutron Drip Line: First Measurement of Half-Lives at FRIB",
           "imageUrl": null
         },
@@ -71,7 +121,7 @@
           "description": "Author(s): D. S. Ahn et al.\nThe new isotope $^{39}\\mathrm{Na}$, the most neutron-rich sodium nucleus observed so far, was discovered at the RIKEN Nishina Center Radioactive Isotope Beam Factory using the projectile fragmentation of an intense $^{48}\\mathrm{Ca}$ beam at $345\\text{ }\\text{ }\\mathrm{MeV}/\\text{nucleon}$ on a bery…\n[Phys. Rev. Lett. 129, 212502] Published Mon Nov 14, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212502",
           "publishedOn": "2022-11-14T10:00:00.000Z",
-          "wordCount": 762,
+          "wordCount": 804,
           "title": "Discovery of $^{39}\\mathrm{Na}$",
           "imageUrl": null
         },
@@ -951,39 +1001,9 @@
           "description": "Author(s): Artem V. Tarasov, Daria Glazkova, Susanne Schulz, Georg Poelchen, Kristin Kliemt, Alexej Kraiker, Matthias Muntwiler, Clemens Laubschat, Alexander Generalov, Craig Polley, Cornelius Krellner, Denis V. Vyalikh, and Dmitry Yu. Usachov\nBy means of 4f photoemission measurements and first-principles calculations, the authors demonstrate here how the crystal electric field (CEF) and related magnetic properties can be modified at the surface of rare-earth materials. For TbRh2Si2, CEF at the Tb surface makes the 4f moments orthogonal to those in the bulk. For the Tb layer below the Si termination, the temperature-dependent photoemission data reveal larger CEF splitting relative to the bulk. The methodology used here can facilitate unveiling of the surface magnetic properties of layered 4f systems.\n\n[Phys. Rev. B 106, 155136] Published Wed Oct 19, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.155136",
           "publishedOn": "2022-10-19T10:00:00.000Z",
-          "wordCount": 1402,
+          "wordCount": 1401,
           "title": "Crystal electric field and properties of $4f$ magnetic moments at the surface of the rare-earth compound ${\\mathrm{TbRh}}_{2}{\\mathrm{Si}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.155136.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.177001",
-          "author": "Alexander Wietek",
-          "description": "Author(s): Alexander Wietek\nThe superconducting condensate in high-temperature cuprate superconductors fragments into multiple Josephson-coupled stripe segments.\n\n[Phys. Rev. Lett. 129, 177001] Published Tue Oct 18, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.177001",
-          "publishedOn": "2022-10-18T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Fragmented Cooper Pair Condensation in Striped Superconductors",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.177001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.045107",
-          "author": "Thomas Bickel and François Detcheverry",
-          "description": "Author(s): Thomas Bickel and François Detcheverry\nResearchers can now predict exactly how soap molecules spread across a body of water, an everyday but surprisingly complex process.\n\n[Phys. Rev. E 106, 045107] Published Tue Oct 18, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.045107",
-          "publishedOn": "2022-10-18T10:00:00.000Z",
-          "wordCount": 1137,
-          "title": "Exact solutions for viscous Marangoni spreading",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.045107.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044043",
-          "author": "Shivani Sharma, Vivek Venkataraman, and Joyee Ghosh",
-          "description": "Author(s): Shivani Sharma, Vivek Venkataraman, and Joyee Ghosh\nCompact and scalable sources of broadband polarization entanglement at telecommunication wavelengths will pave the way for multiuser long-distance quantum communication at enhanced data rates, but progress toward this goal has been hindered due to large birefringence in conventional silicon-on-insulator nanowaveguides. The authors theoretically demonstrate, via dispersion engineering, the successful generation of polarization-entangled photon pairs over a broad range of wavelengths. This work also provides a strategy to avoid entanglement degradation due to polarization-mode dispersion. The proposed devices will be useful building blocks for large-scale quantum communication networks.\n\n[Phys. Rev. Applied 18, 044043] Published Tue Oct 18, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044043",
-          "publishedOn": "2022-10-18T10:00:00.000Z",
-          "wordCount": 1095,
-          "title": "Silicon Photonic Wires for Broadband Polarization Entanglement at Telecommunication Wavelengths",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.044043.png"
         }
       ]
     }
