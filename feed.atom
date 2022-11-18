@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T01:03:10.192Z</id>
+    <id>urn:2022-11-18T01:07:10.666Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T01:03:10.192Z</updated>
+    <updated>2022-11-18T01:07:10.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pattern of inclusions inside rippled icicles]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.054211</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.054211"/>
+        <updated>2022-11-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): John Ladan and Stephen W. Morris
+Some icicles develop surface ripples as they grow. Researchers now explain the growth mechanism, but a full explanation remains elusive.
+
+[Phys. Rev. E 106, 054211] Published Thu Nov 17, 2022]]></summary>
+        <author>
+            <name>John Ladan and Stephen W. Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking mirror symmetry as a local duality on fields]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.105014</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.105014"/>
+        <updated>2022-11-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chiung Hwang, Sara Pasquetti, and Matteo Sacchi
+The authors develop an algorithm for a field theoretical implementation of mirror symmetry. This is based on the so-called quiver representation of certain N=1 supersymmetric theories and is a non-abelian generalization of the piecewise dualization of three-dimensional abelian theories. Extensions of this local field-theoretic operations to non-supersymmetric theories are expected.
+
+[Phys. Rev. D 106, 105014] Published Thu Nov 17, 2022]]></summary>
+        <author>
+            <name>Chiung Hwang, Sara Pasquetti, and Matteo Sacchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curvature as an external field in mechanical antiferromagnets]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203</id>
@@ -1223,84 +1249,6 @@ CERN’s “irradiation station” will investigate the effect of radiation on c
 [Phys. Rev. Accel. Beams 25, 103001] Published Thu Oct 20, 2022]]></summary>
         <author>
             <name>M. Ferrari, D. Senajova, O. Aberle, Y. Q. Aguiar, D. Baillard, M. Barbagallo, A.-P. Bernardes, L. Buonocore, M. Cecchetto, V. Clerc, M. Di Castro, R. Garcia Alia, S. Girod, J.-L. Grenard, K. Kershaw, G. Lerner, M. M. Maeder, A. Makovec, A. Mengoni, M. Perez Ornedo, F. Pozzi, C. V. Almagro, and M. Calviani (for the n_TOF Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transient electron scavengers modulate carrier density at a polar/nonpolar perovskite oxide heterojunction]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.103405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.103405"/>
-        <updated>2022-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Widitha S. Samarakoon, Peter V. Sushko, Dooyong Lee, Bharat Jalan, Hua Zhou, Yingge Du, Zhenxing Feng, and Scott A. Chambers
-Modern thin-film synthesis enables the fabrication of heterostructures in which individual phases can consist of as little as one unit cell. In this extreme thin-film limit, point defects can have a measurable effect on the electronic properties. Such is the case for SrTiO3/1 u.c. NdTiO3/SrTiO3(001). Assuming perfect materials and interfaces, 0.5 electrons should drift from the NTO to each STO layer to compensate the interface dipoles that form. However, the actual carrier density is half this value. This paper shows that transient electron scavengers create an electrostatic potential drop that drives defect formation and lowers the carrier density.
-
-[Phys. Rev. Materials 6, 103405] Published Wed Oct 19, 2022]]></summary>
-        <author>
-            <name>Widitha S. Samarakoon, Peter V. Sushko, Dooyong Lee, Bharat Jalan, Hua Zhou, Yingge Du, Zhenxing Feng, and Scott A. Chambers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronegative metal dopants improve switching variability in ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$ resistive switching devices]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.105002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.105002"/>
-        <updated>2022-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zheng Jie Tan, Vrindaa Somjit, Cigdem Toparli, Bilge Yildiz, and Nicholas Fang
-Resistive switching random access memories (RRAMs) promise to overcome the limitation of time- and energy-consumption set by increased training demand in the deep neural network. These devices enable the colocation of memory and processing by storing and utilizing information in the form of conductive networks, such as those made of oxygen vacancies. However, the inherent stochastic nature of atomic motion results in poor reliability and high switching variability in these devices, hindering their widespread use. In this paper, the authors propose a method to substantially reduce the switching variability of RRAM devices by doping the RRAM oxide electrolyte with electronegative metals. They find that electronegative metals reduce the oxygen vacancy formation energy, thereby pinning the conductive filament formation along fixed, predictable paths. This improved reliability enables multibit switching and can facilitate integration into large-scale hardware neural networks.
-
-[Phys. Rev. Materials 6, 105002] Published Wed Oct 19, 2022]]></summary>
-        <author>
-            <name>Zheng Jie Tan, Vrindaa Somjit, Cigdem Toparli, Bilge Yildiz, and Nicholas Fang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Out-of-plane polarization and topological magnetic vortices in multiferroic ${\mathrm{CrPSe}}_{3}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.L101402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.L101402"/>
-        <updated>2022-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Weiwei Gao, Jijun Zhao, and James R. Chelikowsky
-Intrinsic low-dimensional multiferroic materials are rare, but they have been pursued for years as promising platforms for exploring the coupling between ferroic orders and hosting novel quantum phenomena. Using first-principles density functional theory calculations, the authors show CrPSe3, an experimentally synthesized van der Waals layered material, demonstrates several dynamically stable multiferroic phases, including anti-ferroelectric and ferroelectric phases, which show ferromagnetism and compete with the experimental paraelectric phase. These multiferroic phases have non-negligible Dzyaloshinskii-Moriya interactions that may support chiral spin textures. The small energy barriers and energy differences between phases can be effectively tuned under moderate strain or electric fields. 
-
-[Phys. Rev. Materials 6, L101402] Published Wed Oct 19, 2022]]></summary>
-        <author>
-            <name>Weiwei Gao, Jijun Zhao, and James R. Chelikowsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuning domain wall conductivity in bulk lithium niobate by uniaxial stress]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.144103</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.144103"/>
-        <updated>2022-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ekta Singh, Henrik Beccard, Zeeshan H. Amber, Julius Ratzenberger, Clifford W. Hicks, Michael Rüsing, and Lukas M. Eng
-Although ferroelectrics are electrical insulators, their domain walls (DWs) can be charged and can possess an exceptional large conductivity of an order of magnitude larger than in the bulk crystal. To shed light on the correlation between bound charges and conductivity of ferroelectric DWs, the authors in this work investigate the effect of piezoelectric charging via external uniaxial stress on the directionality of DW conductivity in single crystals of z-cut 5% MgO doped lithium niobate by combing a piezodriven stress cell with a scanning probe microscope.
-
-[Phys. Rev. B 106, 144103] Published Wed Oct 19, 2022]]></summary>
-        <author>
-            <name>Ekta Singh, Henrik Beccard, Zeeshan H. Amber, Julius Ratzenberger, Clifford W. Hicks, Michael Rüsing, and Lukas M. Eng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultrafast perturbation of magnetic domains by optical pumping in a ferromagnetic multilayer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.144422</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.144422"/>
-        <updated>2022-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Dmitriy Zusin et al.
-Ultrafast control of magnetism holds great promise for novel and efficient high-speed microelectronic devices. This includes manipulation of the domain walls that separate magnetic domains. Surprisingly, by use of a free-electron x-ray laser, the authors discover here that femtosecond laser pumping of a multidomain sample causes the domain walls to broaden from 29 to 51 nm in less than 1.6 picoseconds. They also find intriguing evidence of a simultaneous spatial rearrangement of domains. These unexpected results open new avenues for ultrafast optical manipulation of magnetism.
-
-[Phys. Rev. B 106, 144422] Published Wed Oct 19, 2022]]></summary>
-        <author>
-            <name>Dmitriy Zusin &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystal electric field and properties of $4f$ magnetic moments at the surface of the rare-earth compound ${\mathrm{TbRh}}_{2}{\mathrm{Si}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.155136</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.155136"/>
-        <updated>2022-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Artem V. Tarasov, Daria Glazkova, Susanne Schulz, Georg Poelchen, Kristin Kliemt, Alexej Kraiker, Matthias Muntwiler, Clemens Laubschat, Alexander Generalov, Craig Polley, Cornelius Krellner, Denis V. Vyalikh, and Dmitry Yu. Usachov
-By means of 4f photoemission measurements and first-principles calculations, the authors demonstrate here how the crystal electric field (CEF) and related magnetic properties can be modified at the surface of rare-earth materials. For TbRh2Si2, CEF at the Tb surface makes the 4f moments orthogonal to those in the bulk. For the Tb layer below the Si termination, the temperature-dependent photoemission data reveal larger CEF splitting relative to the bulk. The methodology used here can facilitate unveiling of the surface magnetic properties of layered 4f systems.
-
-[Phys. Rev. B 106, 155136] Published Wed Oct 19, 2022]]></summary>
-        <author>
-            <name>Artem V. Tarasov, Daria Glazkova, Susanne Schulz, Georg Poelchen, Kristin Kliemt, Alexej Kraiker, Matthias Muntwiler, Clemens Laubschat, Alexander Generalov, Craig Polley, Cornelius Krellner, Denis V. Vyalikh, and Dmitry Yu. Usachov</name>
         </author>
     </entry>
 </feed>
