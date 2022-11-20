@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-19T01:04:22.808Z</id>
+    <id>urn:2022-11-20T01:06:45.895Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T01:04:22.808Z</updated>
+    <updated>2022-11-20T01:06:45.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1212,97 +1212,6 @@ A new three-dimensional quasistatic particle-in-cell code for laser wakefield an
 [Phys. Rev. Accel. Beams 25, 104603] Published Mon Oct 24, 2022]]></summary>
         <author>
             <name>Tianhong Wang, Vladimir Khudik, Jihoon Kim, and Gennady Shvets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Single-Setting Quantum State Tomography]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.040310</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.3.040310"/>
-        <updated>2022-10-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Roman Stricker, Michael Meth, Lukas Postler, Claire Edmunds, Chris Ferrie, Rainer Blatt, Philipp Schindler, Thomas Monz, Richard Kueng, and Martin Ringbauer
-An experimental demonstration of scalable system characterization via classical-shadow-based single-setting quantum state tomography.
-
-[PRX Quantum 3, 040310] Published Fri Oct 21, 2022]]></summary>
-        <author>
-            <name>Roman Stricker, Michael Meth, Lukas Postler, Claire Edmunds, Chris Ferrie, Rainer Blatt, Philipp Schindler, Thomas Monz, Richard Kueng, and Martin Ringbauer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atom Interferometer Driven by a Picosecond Frequency Comb]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.173204</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.173204"/>
-        <updated>2022-10-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Cyrille Solaro, Clément Debavelaere, Pierre Cladé, and Saïda Guellati-Khelifa
-A multiwavelength laser source known as a frequency comb provides a new technique for atom interferometry, potentially leading to new tests of fundamental physics.
-
-[Phys. Rev. Lett. 129, 173204] Published Fri Oct 21, 2022]]></summary>
-        <author>
-            <name>Cyrille Solaro, Clément Debavelaere, Pierre Cladé, and Saïda Guellati-Khelifa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photonic Indistinguishability of the Tin-Vacancy Center in Nanostructured Diamond]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.173603</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.173603"/>
-        <updated>2022-10-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jesús Arjona Martínez, Ryan A. Parker, Kevin C. Chen, Carola M. Purser, Linsen Li, Cathryn P. Michaels, Alexander M. Stramma, Romain Debroux, Isaac B. Harris, Martin Hayhurst Appel, Eleanor C. Nichols, Matthew E. Trusheim, Dorian A. Gangloff, Dirk Englund, and Mete Atatüre
-A tin vacancy center in diamond in a nanophotonic waveguide acts like an artificial atom and produces indistinguishable single photons.
-
-[Phys. Rev. Lett. 129, 173603] Published Fri Oct 21, 2022]]></summary>
-        <author>
-            <name>Jesús Arjona Martínez, Ryan A. Parker, Kevin C. Chen, Carola M. Purser, Linsen Li, Cathryn P. Michaels, Alexander M. Stramma, Romain Debroux, Isaac B. Harris, Martin Hayhurst Appel, Eleanor C. Nichols, Matthew E. Trusheim, Dorian A. Gangloff, Dirk Englund, and Mete Atatüre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulating Chiral Spin Liquids with Projected Entangled-Pair States]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.177201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.177201"/>
-        <updated>2022-10-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Juraj Hasik, Maarten Van Damme, Didier Poilblanc, and Laurens Vanderstraeten
-Simulations in spin liquids assuage doubts regarding whether projected entangled-pair state simulation provides accurate results for chiral states.
-
-[Phys. Rev. Lett. 129, 177201] Published Fri Oct 21, 2022]]></summary>
-        <author>
-            <name>Juraj Hasik, Maarten Van Damme, Didier Poilblanc, and Laurens Vanderstraeten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Criticality and entanglement in nonunitary quantum circuits and tensor networks of noninteracting fermions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.134206</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.134206"/>
-        <updated>2022-10-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chao-Ming Jian, Bela Bauer, Anna Keselman, and Andreas W. W. Ludwig
-Entanglement dynamics in nonunitary quantum systems have been found to exhibit novel nonequilibrium quantum phase transitions and have attracted tremendous attention with connections to various aspects of quantum information theory. This work establishes, for systems of noninteracting fermions, an exact three-way correspondence between (i) nonunitary (as well as unitary) quantum circuits dynamics in d spatial dimensions; (ii) (d+1)-dimensional Gaussian tensor networks, and (iii) fermion systems in (d+1) spatial dimensions subject to unitary evolution with static Hamiltonians. Through this correspondence, d-dimensional random quantum circuits are connected with the classic subject area of Anderson localization in (d+1) spatial dimensions and consequently follow the “tenfold way’’ Altland-Zirnbauer classification. Selected examples of quantum circuits exhibiting entanglement phases and criticalities are used to illustrate these general principles.
-
-[Phys. Rev. B 106, 134206] Published Fri Oct 21, 2022]]></summary>
-        <author>
-            <name>Chao-Ming Jian, Bela Bauer, Anna Keselman, and Andreas W. W. Ludwig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonthermal current-induced transition from skyrmion lattice to nontopological magnetic phase in spatially confined MnSi]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.144425</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.144425"/>
-        <updated>2022-10-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Takuro Sato, Wataru Koshibae, Akiko Kikkawa, Yasujiro Taguchi, Naoto Nagaosa, Yoshinori Tokura, and Fumitaka Kagawa
-Whether a nonthermodynamic driving force, such as an electric current, can induce a global change like a thermodynamic phase transition of the whole system remains an open question. Here, the authors report on a current-driven skyrmion-to-nonskyrmion transition, detected both experimentally and numerically by targeting microscaled MnSi. This nonequilibrium phase change by current emerges when the system is spatially conﬁned by an open boundary, suggesting that a range of novel nonequilibrium phenomena can be explored with attention to system size.
-
-[Phys. Rev. B 106, 144425] Published Fri Oct 21, 2022]]></summary>
-        <author>
-            <name>Takuro Sato, Wataru Koshibae, Akiko Kikkawa, Yasujiro Taguchi, Naoto Nagaosa, Yoshinori Tokura, and Fumitaka Kagawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamical l-bits and persistent oscillations in Stark many-body localization]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L161111</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L161111"/>
-        <updated>2022-10-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Thivan M. Gunawardana and Berislav Buča
-Stark many-body localization (MBL) occurs when interacting quantum particles are placed in a strong linear field gradient. Localization of excitations, coherent Bloch oscillations, Hilbert-space fragmentation, and scarring have been observed numerically and experimentally, but their origin is not understood. The authors explain these features analytically by perturbatively constructing an algebraic structure of Stark MBL Hamiltonians they name “dynamical l-bits”. These structures are exponentially stable in the field gradient strength. Thus, the work has potential implications for quantum information processing.
-
-[Phys. Rev. B 106, L161111] Published Fri Oct 21, 2022]]></summary>
-        <author>
-            <name>Thivan M. Gunawardana and Berislav Buča</name>
         </author>
     </entry>
 </feed>
