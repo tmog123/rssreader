@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.226001",
+          "author": "János Daru, Harald Forbert, Jörg Behler, and Dominik Marx",
+          "description": "Author(s): János Daru, Harald Forbert, Jörg Behler, and Dominik Marx\nA novel method offers a general and systematic approach to transfer the accuracy and versatility of coupled cluster theory from finite gas phase systems to the condensed phase.\n\n[Phys. Rev. Lett. 129, 226001] Published Wed Nov 23, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.226001",
+          "publishedOn": "2022-11-23T10:00:00.000Z",
+          "wordCount": 998,
+          "title": "Coupled Cluster Molecular Dynamics of Condensed Phase Systems Enabled by Machine Learning Potentials: Liquid Water Benchmark",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.226001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.227703",
+          "author": "Matan Lotem, Eran Sela, and Moshe Goldstein",
+          "description": "Author(s): Matan Lotem, Eran Sela, and Moshe Goldstein\nNumerical evidence shows that non-Abelian anyons, fractional excitations that describe topological superconductors and quantum Hall states, appear in gapless electronic models in addition to gapped ones.\n\n[Phys. Rev. Lett. 129, 227703] Published Wed Nov 23, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.227703",
+          "publishedOn": "2022-11-23T10:00:00.000Z",
+          "wordCount": 899,
+          "title": "Manipulating Non-Abelian Anyons in a Chiral Multichannel Kondo Model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.227703.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.205139",
+          "author": "Wen-Tao Xu, Jose Garre-Rubio, and Norbert Schuch",
+          "description": "Author(s): Wen-Tao Xu, Jose Garre-Rubio, and Norbert Schuch\nTopological phases - systems with a global ordering in the entanglement - exhibit exotic excitations known as anyons which can display highly nontrivial (non-Abelian) statistics. Through transitions between such phases, these anyons can undergo rather surprising changes. Perhaps most surprisingly, one anyon can split into two or more anyons, some of which might condense or become confined. The authors propose here a complete set of order parameters which allow one to extract the full information about how the properties of anyons change through phase transitions, and to apply them to a range of topological phase transitions.\n\n[Phys. Rev. B 106, 205139] Published Wed Nov 23, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.205139",
+          "publishedOn": "2022-11-23T10:00:00.000Z",
+          "wordCount": 1730,
+          "title": "Complete characterization of non-Abelian topological phase transitions and detection of anyon splitting with projected entangled pair states",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.205139.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L180406",
+          "author": "Ji Zou, Shu Zhang, and Yaroslav Tserkovnyak",
+          "description": "Author(s): Ji Zou, Shu Zhang, and Yaroslav Tserkovnyak\nMagnet-mediated dissipative coupling between spin qubits can be exploited to imprint long-lived quantum entanglement. This work points to a new direction for the application of spintronic schemes in future quantum information technologies, with an eye on the dynamical phase transitions associated with non-Hermitian dynamics of the reduced density matrix.\n\n[Phys. Rev. B 106, L180406] Published Wed Nov 23, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L180406",
+          "publishedOn": "2022-11-23T10:00:00.000Z",
+          "wordCount": 988,
+          "title": "Bell-state generation for spin qubits via dissipative coupling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L180406.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.053113",
+          "author": "Robert J. Cooper, David W. Prescott, Karen L. Sauer, Nezih Dural, and Michael V. Romalis",
+          "description": "Author(s): Robert J. Cooper, David W. Prescott, Karen L. Sauer, Nezih Dural, and Michael V. Romalis\nThe authors develop two optically pumped atomic magnetometers with sub-fT sensitivity operating at radio frequencies and compare their magnetic-field sensitivity and interference rejection. They identify ways to improve the sensitivity of unshielded magnetic detectors, which could advance the development of portable magnetometers for field uses.\n\n[Phys. Rev. A 106, 053113] Published Wed Nov 23, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.053113",
+          "publishedOn": "2022-11-23T10:00:00.000Z",
+          "wordCount": 1422,
+          "title": "Intrinsic radio-frequency gradiometer",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.053113.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.223401",
           "author": "Yuki Miyazawa, Ryotaro Inoue, Hiroki Matsui, Gyohei Nomura, and Mikio Kozuma",
           "description": "Author(s): Yuki Miyazawa, Ryotaro Inoue, Hiroki Matsui, Gyohei Nomura, and Mikio Kozuma\nA Bose-Einstein condensate of europium atoms provides a new experimental platform for studying quantum spin interactions.\n\n[Phys. Rev. Lett. 129, 223401] Published Tue Nov 22, 2022",
@@ -181,7 +231,7 @@
           "description": "Author(s): K. Godbey, A. S. Umar, and C. Simenel\nMany aspects of physics that spans from the origin of the elements to nuclear technologies rely on a robust description of nuclear reactions. One therefore needs predictive modelling of nuclear quantum many-body dynamics in which the uncertainties are well-understood. The authors use the time-dependent Hartree-Fock approach, and apply uncertainty quantification to the nuclear dynamics, considering a collection of low-energy heavy-ion fusion reactions. They find that the uncertainty in the theoretical results mainly arises from structure properties, such as the skin of neutron-rich nuclei, which are particularly ill-constrained. This work highlights the importance of including reaction data in the construction and constraint of new theoretical models that can treat dynamics and structure on the same footing.\n\n[Phys. Rev. C 106, L051602] Published Fri Nov 18, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevC.106.L051602",
           "publishedOn": "2022-11-18T10:00:00.000Z",
-          "wordCount": 947,
+          "wordCount": 946,
           "title": "Theoretical uncertainty quantification for heavy-ion fusion",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.106.L051602.png"
         },
@@ -954,46 +1004,6 @@
           "wordCount": 1667,
           "title": "Freezing phase transition in hard-core lattice gases on the triangular lattice with exclusion up to seventh next-nearest neighbor",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.044136.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.144433",
-          "author": "A. Zelenskiy, T. L. Monchesky, M. L. Plumer, and B. W. Southern",
-          "description": "Author(s): A. Zelenskiy, T. L. Monchesky, M. L. Plumer, and B. W. Southern\nMagnetic compounds that combine the effects of geometric frustration and strong spin-orbit coupling (SOC) often host exotic magnetic phases. In many cases, anisotropic lattice-dependent interactions that originate from the SOC significantly reduce the symmetry of the system and constrain the magnetic moments to specific orientations. Using numerical simulations and symmetry analysis, this study demonstrates that, in compounds with the AB-stacked kagome layer structure, the anisotropy gives rise to a large number of duality transformations that provide exact mappings between the properties of distinct magnetic phases.\n\n[Phys. Rev. B 106, 144433] Published Wed Oct 26, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.144433",
-          "publishedOn": "2022-10-26T10:00:00.000Z",
-          "wordCount": 1820,
-          "title": "Magnetic interactions in AB-stacked kagome lattices: Magnetic structure, symmetry, and duality",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.144433.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041009",
-          "author": "Andreas Gritsch, Lorenz Weiss, Johannes Früh, Stephan Rinner, and Andreas Reiserer",
-          "description": "Author(s): Andreas Gritsch, Lorenz Weiss, Johannes Früh, Stephan Rinner, and Andreas Reiserer\nImproved fabrication methods for qubits made from erbium-doped silicon waveguides give these qubits the key prerequisites for becoming a contender for future quantum computers.\n\n[Phys. Rev. X 12, 041009] Published Tue Oct 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.041009",
-          "publishedOn": "2022-10-25T10:00:00.000Z",
-          "wordCount": 3033,
-          "title": "Narrow Optical Transitions in Erbium-Implanted Silicon Waveguides",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.041009.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.185901",
-          "author": "Terumasa Tadano and Wissam A. Saidi",
-          "description": "Author(s): Terumasa Tadano and Wissam A. Saidi\nFirst principles lattice dynamics theory predicts the thermal conductivity and the lattice structure phase transition of strongly anharmonic crystals much more accurately than conventional theories.\n\n[Phys. Rev. Lett. 129, 185901] Published Tue Oct 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.185901",
-          "publishedOn": "2022-10-25T10:00:00.000Z",
-          "wordCount": 963,
-          "title": "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.185901.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044058",
-          "author": "Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi",
-          "description": "Author(s): Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi\nThe quantum Internet will support paradigm shifts in cybersecurity, distributed quantum computing, and sensing. Its realization, however, has been held back by the lack of practical technologies to enable deployment and scalability. To date, most demonstrations have been limited to laboratories with expensive resources such as cryogenic and vacuum systems. The authors overcome this challenge by designing a field-deployable quantum memory, based on warm atomic vapor, that demonstrates high-fidelity performance and robustness to environmental noise. This represents a key technology for distributing quantum entanglement across large-scale quantum networks.\n\n[Phys. Rev. Applied 18, 044058] Published Tue Oct 25, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044058",
-          "publishedOn": "2022-10-25T10:00:00.000Z",
-          "wordCount": 1819,
-          "title": "Field-Deployable Quantum Memory for Quantum Networking",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.044058.png"
         }
       ]
     }

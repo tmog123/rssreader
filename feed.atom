@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T00:57:22.745Z</id>
+    <id>urn:2022-11-24T01:02:42.087Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T00:57:22.745Z</updated>
+    <updated>2022-11-24T01:02:42.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coupled Cluster Molecular Dynamics of Condensed Phase Systems Enabled by Machine Learning Potentials: Liquid Water Benchmark]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.226001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.226001"/>
+        <updated>2022-11-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): János Daru, Harald Forbert, Jörg Behler, and Dominik Marx
+A novel method offers a general and systematic approach to transfer the accuracy and versatility of coupled cluster theory from finite gas phase systems to the condensed phase.
+
+[Phys. Rev. Lett. 129, 226001] Published Wed Nov 23, 2022]]></summary>
+        <author>
+            <name>János Daru, Harald Forbert, Jörg Behler, and Dominik Marx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manipulating Non-Abelian Anyons in a Chiral Multichannel Kondo Model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.227703</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.227703"/>
+        <updated>2022-11-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Matan Lotem, Eran Sela, and Moshe Goldstein
+Numerical evidence shows that non-Abelian anyons, fractional excitations that describe topological superconductors and quantum Hall states, appear in gapless electronic models in addition to gapped ones.
+
+[Phys. Rev. Lett. 129, 227703] Published Wed Nov 23, 2022]]></summary>
+        <author>
+            <name>Matan Lotem, Eran Sela, and Moshe Goldstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete characterization of non-Abelian topological phase transitions and detection of anyon splitting with projected entangled pair states]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.205139</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.205139"/>
+        <updated>2022-11-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wen-Tao Xu, Jose Garre-Rubio, and Norbert Schuch
+Topological phases - systems with a global ordering in the entanglement - exhibit exotic excitations known as anyons which can display highly nontrivial (non-Abelian) statistics. Through transitions between such phases, these anyons can undergo rather surprising changes. Perhaps most surprisingly, one anyon can split into two or more anyons, some of which might condense or become confined. The authors propose here a complete set of order parameters which allow one to extract the full information about how the properties of anyons change through phase transitions, and to apply them to a range of topological phase transitions.
+
+[Phys. Rev. B 106, 205139] Published Wed Nov 23, 2022]]></summary>
+        <author>
+            <name>Wen-Tao Xu, Jose Garre-Rubio, and Norbert Schuch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bell-state generation for spin qubits via dissipative coupling]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L180406</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L180406"/>
+        <updated>2022-11-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ji Zou, Shu Zhang, and Yaroslav Tserkovnyak
+Magnet-mediated dissipative coupling between spin qubits can be exploited to imprint long-lived quantum entanglement. This work points to a new direction for the application of spintronic schemes in future quantum information technologies, with an eye on the dynamical phase transitions associated with non-Hermitian dynamics of the reduced density matrix.
+
+[Phys. Rev. B 106, L180406] Published Wed Nov 23, 2022]]></summary>
+        <author>
+            <name>Ji Zou, Shu Zhang, and Yaroslav Tserkovnyak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intrinsic radio-frequency gradiometer]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.053113</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.053113"/>
+        <updated>2022-11-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Robert J. Cooper, David W. Prescott, Karen L. Sauer, Nezih Dural, and Michael V. Romalis
+The authors develop two optically pumped atomic magnetometers with sub-fT sensitivity operating at radio frequencies and compare their magnetic-field sensitivity and interference rejection. They identify ways to improve the sensitivity of unshielded magnetic detectors, which could advance the development of portable magnetometers for field uses.
+
+[Phys. Rev. A 106, 053113] Published Wed Nov 23, 2022]]></summary>
+        <author>
+            <name>Robert J. Cooper, David W. Prescott, Karen L. Sauer, Nezih Dural, and Michael V. Romalis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bose-Einstein Condensation of Europium]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.223401</id>
@@ -1238,58 +1303,6 @@ Hard-core lattice gases are simple models that exhibit a phase transition, and t
 [Phys. Rev. E 106, 044136] Published Wed Oct 26, 2022]]></summary>
         <author>
             <name>Asweel Ahmed A. Jaleel, Dipanjan Mandal, Jetin E. Thomas, and R. Rajesh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic interactions in AB-stacked kagome lattices: Magnetic structure, symmetry, and duality]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.144433</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.144433"/>
-        <updated>2022-10-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Zelenskiy, T. L. Monchesky, M. L. Plumer, and B. W. Southern
-Magnetic compounds that combine the effects of geometric frustration and strong spin-orbit coupling (SOC) often host exotic magnetic phases. In many cases, anisotropic lattice-dependent interactions that originate from the SOC significantly reduce the symmetry of the system and constrain the magnetic moments to specific orientations. Using numerical simulations and symmetry analysis, this study demonstrates that, in compounds with the AB-stacked kagome layer structure, the anisotropy gives rise to a large number of duality transformations that provide exact mappings between the properties of distinct magnetic phases.
-
-[Phys. Rev. B 106, 144433] Published Wed Oct 26, 2022]]></summary>
-        <author>
-            <name>A. Zelenskiy, T. L. Monchesky, M. L. Plumer, and B. W. Southern</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Narrow Optical Transitions in Erbium-Implanted Silicon Waveguides]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041009</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.041009"/>
-        <updated>2022-10-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andreas Gritsch, Lorenz Weiss, Johannes Früh, Stephan Rinner, and Andreas Reiserer
-Improved fabrication methods for qubits made from erbium-doped silicon waveguides give these qubits the key prerequisites for becoming a contender for future quantum computers.
-
-[Phys. Rev. X 12, 041009] Published Tue Oct 25, 2022]]></summary>
-        <author>
-            <name>Andreas Gritsch, Lorenz Weiss, Johannes Früh, Stephan Rinner, and Andreas Reiserer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.185901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.185901"/>
-        <updated>2022-10-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Terumasa Tadano and Wissam A. Saidi
-First principles lattice dynamics theory predicts the thermal conductivity and the lattice structure phase transition of strongly anharmonic crystals much more accurately than conventional theories.
-
-[Phys. Rev. Lett. 129, 185901] Published Tue Oct 25, 2022]]></summary>
-        <author>
-            <name>Terumasa Tadano and Wissam A. Saidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Field-Deployable Quantum Memory for Quantum Networking]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.044058</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.044058"/>
-        <updated>2022-10-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
-The quantum Internet will support paradigm shifts in cybersecurity, distributed quantum computing, and sensing. Its realization, however, has been held back by the lack of practical technologies to enable deployment and scalability. To date, most demonstrations have been limited to laboratories with expensive resources such as cryogenic and vacuum systems. The authors overcome this challenge by designing a field-deployable quantum memory, based on warm atomic vapor, that demonstrates high-fidelity performance and robustness to environmental noise. This represents a key technology for distributing quantum entanglement across large-scale quantum networks.
-
-[Phys. Rev. Applied 18, 044058] Published Tue Oct 25, 2022]]></summary>
-        <author>
-            <name>Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi</name>
         </author>
     </entry>
 </feed>
