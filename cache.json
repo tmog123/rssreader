@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.231301",
+          "author": "José Luis Bernal, Gabriela Sato-Polito, and Marc Kamionkowski",
+          "description": "Author(s): José Luis Bernal, Gabriela Sato-Polito, and Marc Kamionkowski\nAxions that decay into photons could account for visible light that exceeds what’s expected to come from all known galaxies.\n\n[Phys. Rev. Lett. 129, 231301] Published Tue Nov 29, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.231301",
+          "publishedOn": "2022-11-29T10:00:00.000Z",
+          "wordCount": 972,
+          "title": "Cosmic Optical Background Excess, Dark Matter, and Line-Intensity Mapping",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.231301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.105026",
+          "author": "Tyler Gorda, Juuso Österman, and Saga Säppi",
+          "description": "Author(s): Tyler Gorda, Juuso Österman, and Saga Säppi\nWithin the framework of the imaginary time formalism applied to systems at zero temperature but finite density, the authors investigate whether the order of integration, namely the spatial momentum integration is performed before that of the temporal momentum or vice versa, matters. They show that the former yields results consistent with those for nonzero but very low values of the temperature whilst the latter does not. They attribute this to the way the limit of the Fermi-Dirac distribution is taken as the temperature goes to zero.\n\n[Phys. Rev. D 106, 105026] Published Tue Nov 29, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.105026",
+          "publishedOn": "2022-11-29T10:00:00.000Z",
+          "wordCount": 947,
+          "title": "Augmenting the residue theorem with boundary terms in finite-density calculations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.105026.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.184517",
+          "author": "Xu Zhang, Kai Sun, Heqiu Li, Gaopei Pan, and Zi Yang Meng",
+          "description": "Author(s): Xu Zhang, Kai Sun, Heqiu Li, Gaopei Pan, and Zi Yang Meng\nHere, the authors find a phenomenological theory of superconductivity in moiré flat band systems. With decreasing temperature, charge excitations are gapped, while charge excitations exist within the gap, shaping a bosonic fluid. Finite band width breaks the symmetry in these two-dimensional systems, making the bosonic fluid coherent and condense.\n\n[Phys. Rev. B 106, 184517] Published Tue Nov 29, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.184517",
+          "publishedOn": "2022-11-29T10:00:00.000Z",
+          "wordCount": 1364,
+          "title": "Superconductivity and bosonic fluid emerging from moiré flat bands",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.184517.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.231801",
           "author": "Yohei Ema, Ting Gao, and Maxim Pospelov",
           "description": "Author(s): Yohei Ema, Ting Gao, and Maxim Pospelov\nCP-violating contributions from the standard-model quark-mixing phase to electric dipole moments are shown to be three orders of magnitude larger than previously thought, possibly putting them in reach of future experiments.\n\n[Phys. Rev. Lett. 129, 231801] Published Mon Nov 28, 2022",
@@ -321,7 +351,7 @@
           "description": "Author(s): Abigail Plummer, Paul Z. Hanakata, and David R. Nelson\nThe authors construct a mechanical analog of an Ising antiferromagnet by inserting a square array of locally dilated sites into a 2D crystalline membrane. Past a buckling threshold, these dilations become bistable, and buckle either above or below the host lattice. When the host lattice is planar, neighboring dilations prefer to be antialigned, but a cylindrical host lattice can bias the dilations to buckle away from the center of curvature. They show that curvature acts as an effective external field on the mechanical antiferromagnet, and map out the phase behavior of the system at zero and finite temperature. This demonstrates how curvature and temperature can be used to design and operate a responsive and tunable metamaterial at either the macroscale or nanoscale.\n\n[Phys. Rev. Materials 6, 115203] Published Wed Nov 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203",
           "publishedOn": "2022-11-16T10:00:00.000Z",
-          "wordCount": 1922,
+          "wordCount": 1921,
           "title": "Curvature as an external field in mechanical antiferromagnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.115203.png"
         },
@@ -551,7 +581,7 @@
           "description": "Author(s): Marko Popović, Tom W. J. de Geus, Wencheng Ji, Alberto Rosso, and Matthieu Wyart\nResearchers have developed a comprehensive theory of creep flow—a type of flow seen in amorphous solids such as coffee foam.\n\n[Phys. Rev. Lett. 129, 208001] Published Wed Nov 09, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.208001",
           "publishedOn": "2022-11-09T10:00:00.000Z",
-          "wordCount": 1100,
+          "wordCount": 1104,
           "title": "Scaling Description of Creep Flow in Amorphous Solids",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.208001.png"
         },
@@ -581,7 +611,7 @@
           "description": "Author(s): F. Setiawan and Johannes Hofmann\nBy developing a general framework for transport across superconducting junctions that goes beyond the standard Andreev approximation, two crucial transport signatures are proposed for s-wave Josephson junctions along the BCS-BEC crossover: negative differential conductance as a signature of unitarity and a complete suppression of multiple-Andreev-reflection-induced current as a hallmark of the splitting point.\n\n[Phys. Rev. Research 4, 043087] Published Tue Nov 08, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087",
           "publishedOn": "2022-11-08T10:00:00.000Z",
-          "wordCount": 2208,
+          "wordCount": 2212,
           "title": "Analytic approach to transport in superconducting junctions with arbitrary carrier density",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043087.png"
         },
@@ -811,7 +841,7 @@
           "description": "Author(s): Feng Ye, Masaaki Matsuda, Zachary Morgan, Todd Sherline, Yifei Ni, Hengdi Zhao, and G. Cao\nCharacterizing the magnetic structure is crucial to understand the extraordinary colossal magnetoresistance of ferrimagnetic Mn3Si2Te6. This material exhibits orders of magnitude reduction in resistivity when a magnetic polarization is avoided. Using single-crystal neutron diffraction, the authors reveal here the field evolution of the spin configuration. Prominent magnetic diffuse scattering is present and decays slowly well above the transition. The spin correlation lengths agree well with the electrical resistivity, underscoring the role of magnetic fluctuations contributing to the magnetoresistivity near the transition.\n\n[Phys. Rev. B 106, L180402] Published Tue Nov 01, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L180402",
           "publishedOn": "2022-11-01T10:00:00.000Z",
-          "wordCount": 1165,
+          "wordCount": 1169,
           "title": "Magnetic structure and spin fluctuations in the colossal magnetoresistance ferrimagnet ${\\mathrm{Mn}}_{3}{\\mathrm{Si}}_{2}{\\mathrm{Te}}_{6}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L180402.png"
         },
@@ -834,66 +864,6 @@
           "wordCount": 1073,
           "title": "Mass-energy equivalence in gravitationally bound quantum states of the neutron",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.052801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041012",
-          "author": "Tuna Demircik, Christian Ecker, and Matti Järvinen",
-          "description": "Author(s): Tuna Demircik, Christian Ecker, and Matti Järvinen\nThermodynamic phases governed by the strong nuclear force have been linked together using multiple theoretical tools.\n\n[Phys. Rev. X 12, 041012] Published Mon Oct 31, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.041012",
-          "publishedOn": "2022-10-31T10:00:00.000Z",
-          "wordCount": 1590,
-          "title": "Dense and Hot QCD at Strong Coupling",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.041012.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.190601",
-          "author": "Aydin Deger, Achilleas Lazarides, and Sthitadhi Roy",
-          "description": "Author(s): Aydin Deger, Achilleas Lazarides, and Sthitadhi Roy\nConstraining the dynamics in a chaotic system gives rise to a phase transition that belongs to the directed percolation universality class.\n\n[Phys. Rev. Lett. 129, 190601] Published Mon Oct 31, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.190601",
-          "publishedOn": "2022-10-31T10:00:00.000Z",
-          "wordCount": 920,
-          "title": "Constrained Dynamics and Directed Percolation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.190601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.191101",
-          "author": "Shao-Wen Wei, Yu-Xiao Liu, and Robert B. Mann",
-          "description": "Author(s): Shao-Wen Wei, Yu-Xiao Liu, and Robert B. Mann\nThe thermodynamic stability of a black hole is governed by a local topological number.\n\n[Phys. Rev. Lett. 129, 191101] Published Mon Oct 31, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.191101",
-          "publishedOn": "2022-10-31T10:00:00.000Z",
-          "wordCount": 950,
-          "title": "Black Hole Solutions as Topological Thermodynamic Defects",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.191101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.134437",
-          "author": "Chae-Yeun Park and Michael J. Kastoryano",
-          "description": "Author(s): Chae-Yeun Park and Michael J. Kastoryano\nVariational Monte Carlo with neural quantum states is one of the most powerful tools for solving the ground state of quantum many-body Hamiltonians. However, the performance of the method on frustrated Hamiltonians remains significantly worse than that of sign-free Hamiltonians, even though the method itself is free from sum-over alternating signs. Here, the authors systematically study numerical subtleties in restricted Boltzmann machine based variational Monte Carlo for solving Hamiltonians with the sign problem and unveil how quantum phases are related to the numerics.\n\n[Phys. Rev. B 106, 134437] Published Mon Oct 31, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.134437",
-          "publishedOn": "2022-10-31T10:00:00.000Z",
-          "wordCount": 2354,
-          "title": "Expressive power of complex-valued restricted Boltzmann machines for solving nonstoquastic Hamiltonians",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.134437.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.155158",
-          "author": "Robert J. Anderson, Charles J. C. Scott, and George H. Booth",
-          "description": "Author(s): Robert J. Anderson, Charles J. C. Scott, and George H. Booth\nWhen electrons interact not only with themselves, but also with bosons (phonons or other bosonic quasiparticles), what was previously a “curse of dimensionality” for its computational solution now becomes one of infinite size. To deal with this, the authors adapt here a recent method for its stochastic solution, without requiring truncation of the bosonic occupations, and which allows systematic improvability to exact solutions. They apply this to the paradigmatic Hubbard-Holstein model of local phonons, finding a state-of-the-art solution in the thermodynamic limit, as well as to a novel approach in which long-range collective electronic fluctuations are mapped to bosonic quasiparticles to tackle even long-range interacting problems of purely electronic form.\n\n[Phys. Rev. B 106, 155158] Published Mon Oct 31, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.155158",
-          "publishedOn": "2022-10-31T10:00:00.000Z",
-          "wordCount": 1465,
-          "title": "Full configuration interaction quantum Monte Carlo for coupled electron-boson systems and infinite spaces",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.155158.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044076",
-          "author": "Hongjian Cui, Zhenya Dong, Han-Joon Kim, Chenhui Li, Weijin Chen, Guoqiang Xu, Cheng-Wei Qiu, and John S. Ho",
-          "description": "Author(s): Hongjian Cui, Zhenya Dong, Han-Joon Kim, Chenhui Li, Weijin Chen, Guoqiang Xu, Cheng-Wei Qiu, and John S. Ho\nWireless power transfer has broad applications in e.g. consumer electronics and electric vehicles. Unfortunately, available methods to transfer power to one specific receiver out of many are inefficient, or rely on complicated tuning schemes. This study uses a bistable parity-time-symmetric circuit to achieve wireless power transfer that is efficient, robust, and selective. The authors show that the bistability provides access to system modes with highly asymmetrical energy distributions, enabling improved efficiency and selectivity. This work could lead to more versatile and energy-efficient wireless charging systems.\n\n[Phys. Rev. Applied 18, 044076] Published Mon Oct 31, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.044076",
-          "publishedOn": "2022-10-31T10:00:00.000Z",
-          "wordCount": 1007,
-          "title": "High-Efficiency Selective Wireless Power Transfer with a Bistable Parity-Time-Symmetric Circuit",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.044076.png"
         }
       ]
     }
