@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064001",
+          "author": "Jun Kang and Lin-Wang Wang",
+          "description": "Author(s): Jun Kang and Lin-Wang Wang\nShallow impurities play critical roles in the applications of semiconductor materials, but their simulations through first-principles calculations are challenging due to the delocalized nature of the impurity wave function. The authors propose a first-principles approach to study shallow impurities, which allows simulations of extremely large supercells to obtain converged impurity levels and wave functions. The method is applied to acceptor-carbon complexes in silicon and yields good agreement with experiments. This work thus presents a feasible approach for accurate simulations of shallow impurities and can provide helpful insights to assist experimental dopant engineering.\n\n[Phys. Rev. Applied 18, 064001] Published Thu Dec 01, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064001",
+          "publishedOn": "2022-12-01T10:00:00.000Z",
+          "wordCount": 968,
+          "title": "First-Principles Calculations of Shallow Acceptor-Carbon Complexes in $\\mathrm{Si}$: A Potential-Patching Method with a Hybrid-Functional Correction",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064002",
+          "author": "Bas van der Zee, Yungui Li, Gert-Jan A.H. Wetzelaer, and Paul W.M. Blom",
+          "description": "Author(s): Bas van der Zee, Yungui Li, Gert-Jan A.H. Wetzelaer, and Paul W.M. Blom\nOrganic light-emitting diodes (OLEDs) based on thermally activated delayed fluorescence (TADF) are alternatives to today’s commercial phosphorescent OLEDs with heavy-metal dopants, but their limited stability remains a key issue. This work provides a quantitative insight into the degradation mechanisms. The authors reproduce the voltage and light output using a recently developed device model, and find that triplet-polaron annihilation is the driving force behind the formation of degradation traps. This understanding leads to the experimental demonstration of enhanced device lifetime, and will provide guidance towards improved stability of TADF OLEDs.\n\n[Phys. Rev. Applied 18, 064002] Published Thu Dec 01, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064002",
+          "publishedOn": "2022-12-01T10:00:00.000Z",
+          "wordCount": 1266,
+          "title": "Triplet-Polaron-Annihilation-Induced Degradation of Organic Light-Emitting Diodes Based on Thermally Activated Delayed Fluorescence",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064002.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041023",
           "author": "Vatshal Srivastav, Natalia Herrera Valencia, Will McCutcheon, Saroch Leedumrongwatthanakun, Sébastien Designolle, Roope Uola, Nicolas Brunner, and Mehul Malik",
           "description": "Author(s): Vatshal Srivastav, Natalia Herrera Valencia, Will McCutcheon, Saroch Leedumrongwatthanakun, Sébastien Designolle, Roope Uola, Nicolas Brunner, and Mehul Malik\nResearchers demonstrate a loss-tolerant method for so-called quantum steering, a phenomenon that could give quantum communication networks complete security.\n\n[Phys. Rev. X 12, 041023] Published Wed Nov 30, 2022",
@@ -884,56 +904,6 @@
           "wordCount": 1183,
           "title": "Single-exciton trapping in an electrostatically defined two-dimensional semiconductor quantum dot",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L201401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.193603",
-          "author": "Kaifeng Cui, Jose Valencia, Kevin T. Boyce, Ethan R. Clements, David R. Leibrandt, and David B. Hume",
-          "description": "Author(s): Kaifeng Cui, Jose Valencia, Kevin T. Boyce, Ethan R. Clements, David R. Leibrandt, and David B. Hume\nA new precision spectroscopy of forbidden ionic transitions can be scaled to numerous trapped ions without the need to observe their scattered photons directly.\n\n[Phys. Rev. Lett. 129, 193603] Published Wed Nov 02, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.193603",
-          "publishedOn": "2022-11-02T10:00:00.000Z",
-          "wordCount": 1190,
-          "title": "Scalable Quantum Logic Spectroscopy",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.193603.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.198003",
-          "author": "Ryan van Mastrigt, Marjolein Dijkstra, Martin van Hecke, and Corentin Coulais",
-          "description": "Author(s): Ryan van Mastrigt, Marjolein Dijkstra, Martin van Hecke, and Corentin Coulais\nA new tool can determine whether a collection of building blocks will assemble into a mechanically sound structure.\n\n[Phys. Rev. Lett. 129, 198003] Published Wed Nov 02, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.198003",
-          "publishedOn": "2022-11-02T10:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Machine Learning of Implicit Combinatorial Rules in Mechanical Metamaterials",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.198003.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L201102",
-          "author": "Moslem Mir and Saeed H. Abedinpour",
-          "description": "Author(s): Moslem Mir and Saeed H. Abedinpour\nSpin-orbit coupling breaks the Galilean invariance in materials, leading to observable many-body corrections to different transport coefficients. Here, the authors study the intrinsic contribution to anomalous Hall and spin Hall conductivities of a magnetic two-dimensional electron liquid with Rashba spin-orbit coupling. They show that both of these responses are strongly affected by electron-electron interaction. The anomalous Hall conductivity is enhanced at low carrier concentrations, while in the same regime, the sign of spin Hall conductivity is reversed.\n\n[Phys. Rev. B 106, L201102] Published Wed Nov 02, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L201102",
-          "publishedOn": "2022-11-02T10:00:00.000Z",
-          "wordCount": 838,
-          "title": "Many-body correction to the intrinsic anomalous and spin Hall conductivities",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L201102.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.054004",
-          "author": "Wilson Yanez, Yongxi Ou, Run Xiao, Supriya Ghosh, Jyotirmay Dwivedi, Emma Steinebronn, Anthony Richardella, K. Andre Mkhoyan, and Nitin Samarth",
-          "description": "Author(s): Wilson Yanez, Yongxi Ou, Run Xiao, Supriya Ghosh, Jyotirmay Dwivedi, Emma Steinebronn, Anthony Richardella, K. Andre Mkhoyan, and Nitin Samarth\nEfficient interconversion between charge and spin is expected in topological quantum materials, and theory predicts high spin Hall conductivity for the Weyl semimetal TaAs, making it an attractive material for spintronics. The authors measure charge-spin conversion in thin films of TaAs and find a large spin Hall conductivity, consistent with calculations—even though the films are polycrystalline, whereas the calculations are for single-crystal material. More surprisingly, oxidation of the films results in very large conversion efficiency, hinting at hidden physics that could be exploited to develop topological spintronic devices with large figures of merit.\n\n[Phys. Rev. Applied 18, 054004] Published Wed Nov 02, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.054004",
-          "publishedOn": "2022-11-02T10:00:00.000Z",
-          "wordCount": 1254,
-          "title": "Giant Dampinglike-Torque Efficiency in Naturally Oxidized Polycrystalline $\\mathrm{Ta}\\mathrm{As}$ Thin Films",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.054004.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.053703",
-          "author": "Hsing-Ta Chen, Zeyu Zhou, Maxim Sukharev, Joseph E. Subotnik, and Abraham Nitzan",
-          "description": "Author(s): Hsing-Ta Chen, Zeyu Zhou, Maxim Sukharev, Joseph E. Subotnik, and Abraham Nitzan\nTypically, in molecular ensembles, the fast random modulation of transition frequencies is merely considered to result in molecular dephasing. In contrast, the authors here show that such modulation may actually recover collective superradiant emission.\n\n[Phys. Rev. A 106, 053703] Published Wed Nov 02, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.053703",
-          "publishedOn": "2022-11-02T10:00:00.000Z",
-          "wordCount": 1860,
-          "title": "Interplay between disorder and collective coherent response: Superradiance and spectral motional narrowing in the time domain",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.053703.png"
         }
       ]
     }
