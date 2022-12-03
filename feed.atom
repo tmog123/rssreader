@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-02T00:54:50.171Z</id>
+    <id>urn:2022-12-03T00:52:31.457Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-02T00:54:50.171Z</updated>
+    <updated>2022-12-03T00:52:31.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Efficient simulation of dynamics in two-dimensional quantum spin systems with isometric tensor networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.245102</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.245102"/>
+        <updated>2022-12-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sheng-Hsuan Lin, Michael P. Zaletel, and Frank Pollmann
+Simulating the dynamics of finite two-dimensional (2D) quantum many-body systems poses challenges to numerical methods due to the exponential growth of the many-body Hilbert space. In this work, the authors explore the variational power of recently introduced isometric tensor network states (isoTNS) — a subset of general tensor-network states that allow an efficient numerical simulation. As a efficient tool to find ground states, the variational density matrix renormalization group (DMRG2) is introduced. It is then demonstrated that dynamical correlation functions for the 2D transverse field Ising model and the Kitaev Honeycomb model can be obtained.
+
+[Phys. Rev. B 106, 245102] Published Fri Dec 02, 2022]]></summary>
+        <author>
+            <name>Sheng-Hsuan Lin, Michael P. Zaletel, and Frank Pollmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coincidence postselection for genuine multipartite nonlocality: Causal diagrams and threshold efficiencies]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.062202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.062202"/>
+        <updated>2022-12-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Valentin Gebhart and Augusto Smerzi
+In a crucial step for securing many existing quantum technologies, the authors use causal diagrams to close the detection loophole in multipartite nonlocality demonstrations. Their results also imply that genuine N-partite nonlocality can be created from N independent photon sources.
+
+[Phys. Rev. A 106, 062202] Published Fri Dec 02, 2022]]></summary>
+        <author>
+            <name>Valentin Gebhart and Augusto Smerzi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First-Principles Calculations of Shallow Acceptor-Carbon Complexes in $\mathrm{Si}$: A Potential-Patching Method with a Hybrid-Functional Correction]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064001</id>
@@ -1082,97 +1108,6 @@ The authors study experimentally the non-Hermitian dynamics and dissipative prop
 [Phys. Rev. A 106, 053304] Published Fri Nov 04, 2022]]></summary>
         <author>
             <name>Manel Bosch Aguilera, Alexis Ghermaoui, Rémy Vatré, Raphaël Bouganne, Jérôme Beugnon, and Fabrice Gerbier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequence of phase transitions in a model of interacting rods]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.L052101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.L052101"/>
-        <updated>2022-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Juliane U. Klamser, Tridib Sadhu, and Deepak Dhar
-This article studies a system of rods pinned on a lattice with only rotational degrees of freedom, using Monte Carlo simulations. The system shows an infinite number of phase transitions as a function of the inverse temperature and the relative size of the rod with respect to the lattice, that can be broadly characterized as either Ising-like or of geometrical origin.
-
-[Phys. Rev. E 106, L052101] Published Thu Nov 03, 2022]]></summary>
-        <author>
-            <name>Juliane U. Klamser, Tridib Sadhu, and Deepak Dhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast flavor instability in hypermassive neutron star disk outflows]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.103003</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.103003"/>
-        <updated>2022-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Rodrigo Fernández, Sherwood Richers, Nicole Mulyk, and Steven Fahlman
-Neutron star mergers are of tremendous astrophysical interest for a variety of reasons that include their role in initiating r-process nucleosynthesis in their ejecta. In this article, the authors tackle the complex influence of extremely rapid neutrino flavor conversion (fast flavor instability - FFI) on ejecta from accretion disks around hypermassive neutron stars (HMNSs) formed in mergers. By studying a wide variety of scenarios, the authors detail the influence of FFI and show that it depends strongly on the lifetime of the HMNS.
-
-[Phys. Rev. D 106, 103003] Published Thu Nov 03, 2022]]></summary>
-        <author>
-            <name>Rodrigo Fernández, Sherwood Richers, Nicole Mulyk, and Steven Fahlman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble dynamics in fluids with $N$-body simulations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.103501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.103501"/>
-        <updated>2022-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Marek Lewicki, Ville Vaskonen, and Hardi Veermäe
-The authors set up a new method (proof of concept) for studying bubble wall dynamics in first-order cosmological phase transitions based on N-body simulations. The technique goes beyond commonly used perfect fluid descriptions and equilibrium assumptions. This allows e.g. the computation of the terminal bubble wall velocity, a key ingredient for determining the gravitational wave signal created in the cosmological phase transition, based on particle physics properties rather than on phenomenological fluid parameters.
-
-[Phys. Rev. D 106, 103501] Published Thu Nov 03, 2022]]></summary>
-        <author>
-            <name>Marek Lewicki, Ville Vaskonen, and Hardi Veermäe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many-body theory of phonon-induced spin relaxation and decoherence]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.174404</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.174404"/>
-        <updated>2022-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jinsoo Park, Yao Luo, Jin-Jian Zhou, and Marco Bernardi
-Electron spin decoherence from atomic vibrations (phonons) limits the performance of spin-based devices but is difficult to model quantitatively. Here, the authors present a new theory for addressing this challenge. Their approach unifies the theoretical treatment of two mechanisms – spin scattering off phonons and spin precession altered by phonons – and provides unprecedented microscopic insight into spin motion in materials. This work enables precise predictions for spin relaxation and decoherence in materials, advancing the quest for spin-based quantum technologies.
-
-[Phys. Rev. B 106, 174404] Published Thu Nov 03, 2022]]></summary>
-        <author>
-            <name>Jinsoo Park, Yao Luo, Jin-Jian Zhou, and Marco Bernardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why mercury is a superconductor]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L180501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L180501"/>
-        <updated>2022-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Cesare Tresca, Gianni Profeta, Giovanni Marini, Giovanni B. Bachelet, Antonio Sanna, Matteo Calandra, and Lilia Boeri
-In 1911, Kamerlingh Onnes discovered superconductivity, measuring the low-temperature resistivity in mercury. Nowadays, more than 100 years later, many new superconductors have been discovered with higher and higher critical temperatures. Ironically, the exact origin of the superconducting phase in mercury has remained hidden so far. The authors decided to revisit the description of this fascinating material with ab initio techniques, revealing all its intricate physical properties. Despite its apparent simplicity, mercury hides effects that are anything but trivial. Their proper description is a challenging problem and requires advanced computational and theoretical techniques, which have become available only recently.
-
-[Phys. Rev. B 106, L180501] Published Thu Nov 03, 2022]]></summary>
-        <author>
-            <name>Cesare Tresca, Gianni Profeta, Giovanni Marini, Giovanni B. Bachelet, Antonio Sanna, Matteo Calandra, and Lilia Boeri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced amplitude for superconductivity due to spectrum-wide wave function criticality in quasiperiodic and power-law random hopping models]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L180503</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L180503"/>
-        <updated>2022-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xinghai Zhang and Matthew S. Foster
-The shape of electron wave functions determines key properties of quantum materials. Very recently, it was found that disorder can turn all wave functions into fractals (“spectrum-wide quantum criticality,” SWQC) in models of topological and strongly correlated superconductors. The implications of SWQC for superconductivity itself remain largely unexplored. Here, the authors show that superconductivity can be strongly enhanced near the SWQC Anderson transition in two one-dimensional models. The study highlights a new potential mechanism for achieving higher transition temperatures via random or structured inhomogeneity.
-
-[Phys. Rev. B 106, L180503] Published Thu Nov 03, 2022]]></summary>
-        <author>
-            <name>Xinghai Zhang and Matthew S. Foster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single-exciton trapping in an electrostatically defined two-dimensional semiconductor quantum dot]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L201401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L201401"/>
-        <updated>2022-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daniel N. Shanks, Fateme Mahdikhanysarvejahany, Michael R. Koehler, David G. Mandrus, Takashi Taniguchi, Kenji Watanabe, Brian J. LeRoy, and John R. Schaibley
-The ability to deterministically trap and control single interlayer excitons in 2D transition metal dichalcogenide heterostructures opens new opportunities to utilize their spin and valley degrees of freedom for quantum information applications. In this work, the authors fabricate a lithographically defined electrostatic exciton trap using a nanopatterned graphene gate. Photoluminescence measurements show discrete excitation power-dependent emission energies, corresponding to different number states of excitons occupying the trap, with the lowest-energy state corresponding a single-exciton population.
-
-[Phys. Rev. B 106, L201401] Published Thu Nov 03, 2022]]></summary>
-        <author>
-            <name>Daniel N. Shanks, Fateme Mahdikhanysarvejahany, Michael R. Koehler, David G. Mandrus, Takashi Taniguchi, Kenji Watanabe, Brian J. LeRoy, and John R. Schaibley</name>
         </author>
     </entry>
 </feed>
