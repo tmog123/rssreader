@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-05T00:53:45.052Z</id>
+    <id>urn:2022-12-06T00:53:41.112Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T00:53:45.052Z</updated>
+    <updated>2022-12-06T00:53:41.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gender differences in students’ self-efficacy in introductory physics courses in which women outnumber men predict their grade]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.18.020142</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.18.020142"/>
+        <updated>2022-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sonja Cwik and Chandralekha Singh
+It is important for physics instructors to focus on increasing women’s self-efficacy and other motivational beliefs in the introductory course; these can influence students’ persistence and engagement in the course and can also impact later course and career choices.
+
+[Phys. Rev. Phys. Educ. Res. 18, 020142] Published Mon Dec 05, 2022]]></summary>
+        <author>
+            <name>Sonja Cwik and Chandralekha Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Measurement Resolves Key Astrophysical Fe XVII Oscillator Strength Problem]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.245001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.245001"/>
+        <updated>2022-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Steffen Kühn, Charles Cheung, Natalia S. Oreshkina, René Steinbrügge, Moto Togawa, Sonja Bernitt, Lukas Berger, Jens Buck, Moritz Hoesch, Jörn Seltmann, Florian Trinter, Christoph H. Keitel, Mikhail G. Kozlov, Sergey G. Porsev, Ming Feng Gu, F. Scott Porter, Thomas Pfeifer, Maurice A. Leutenegger, Zoltán Harman, Marianna S. Safronova, José R. Crespo López-Urrutia, and Chintan Shah
+Researchers have solved a long-standing puzzle surrounding iron emission lines, which are used to characterize laboratory and astrophysical plasmas.
+
+[Phys. Rev. Lett. 129, 245001] Published Mon Dec 05, 2022]]></summary>
+        <author>
+            <name>Steffen Kühn, Charles Cheung, Natalia S. Oreshkina, René Steinbrügge, Moto Togawa, Sonja Bernitt, Lukas Berger, Jens Buck, Moritz Hoesch, Jörn Seltmann, Florian Trinter, Christoph H. Keitel, Mikhail G. Kozlov, Sergey G. Porsev, Ming Feng Gu, F. Scott Porter, Thomas Pfeifer, Maurice A. Leutenegger, Zoltán Harman, Marianna S. Safronova, José R. Crespo López-Urrutia, and Chintan Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probing the Critical Nucleus Size in the Metal-Insulator Phase Transition of ${\mathrm{VO}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.245701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.245701"/>
+        <updated>2022-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lei Jin, Yin Shi, Frances I. Allen, Long-Qing Chen, and Junqiao Wu
+A textbook theory for the freezing of water also explains the growth of a new phase in a more complicated phase transition of a different material.
+
+[Phys. Rev. Lett. 129, 245701] Published Mon Dec 05, 2022]]></summary>
+        <author>
+            <name>Lei Jin, Yin Shi, Frances I. Allen, Long-Qing Chen, and Junqiao Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nutational switching in ferromagnets and antiferromagnets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.214403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.214403"/>
+        <updated>2022-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lucas Winter, Sebastian Großenbach, Ulrich Nowak, and Levente Rózsa
+At very short time scales, inertial effects separate the magnetic moment from the angular momentum, resulting in nutation. Here, it is demonstrated that a resonant excitation of nutation can switch the orientation of the magnetic moments within picoseconds. 90° and 180° switching can be realized in both ferromagnets and antiferromagnets, surpassing the switching speed achievable by any procedure based on spin precession.
+
+[Phys. Rev. B 106, 214403] Published Mon Dec 05, 2022]]></summary>
+        <author>
+            <name>Lucas Winter, Sebastian Großenbach, Ulrich Nowak, and Levente Rózsa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fully self-consistent finite-temperature $GW$ in Gaussian Bloch orbitals for solids]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.235104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.235104"/>
+        <updated>2022-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chia-Nan Yeh, Sergei Iskakov, Dominika Zgid, and Emanuel Gull
+Fully self-consistent GW is a many-body perturbation theory based on an approximation to the Luttinger-Ward functional. The method satisfies certain conservation laws and thermodynamic consistency, and the self-consistent framework allows us to systematically include strong correlations. Fully self-consistent GW calculations of real materials have so far been hampered by their high computational cost. This paper presents algorithmic improvements and implementation details for the fully self-consistent GW method that make such calculations routinely possible and documents the performance of the method via examples from several materials.
+
+[Phys. Rev. B 106, 235104] Published Mon Dec 05, 2022]]></summary>
+        <author>
+            <name>Chia-Nan Yeh, Sergei Iskakov, Dominika Zgid, and Emanuel Gull</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semiconductor Bloch equation analysis of optical Stark and Bloch-Siegert shifts in monolayer ${\mathrm{WSe}}_{2}$ and ${\mathrm{MoS}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.235304</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.235304"/>
+        <updated>2022-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. O. Slobodeniuk, P. Koutenský, M. Bartoš, F. Trojánek, P. Malý, T. Novotný, and M. Kozák
+Transition metal dichalcogenide monolayers possess two nonequivalent valleys in the extrema of their band structure. It turns out that off-resonant circularly polarized light affects the electronic excitations in each valley dissimilarly. Such a phenomenon leads to different shifts of the excitonic transitions in nonequivalent valleys of the monolayer. Here, the authors report on a theoretical investigation of such valley-selective transient shifts of both 1sA and 1sB exciton transitions in MoS2 and WSe2 monolayers. The study is based on the semiconductor Bloch equations, where, contrary to the previous studies, the many-body Coulomb interaction effects are properly included. The theoretical estimates of the excitonic shifts are in a good agreement with these novel experimental results.
+
+[Phys. Rev. B 106, 235304] Published Mon Dec 05, 2022]]></summary>
+        <author>
+            <name>A. O. Slobodeniuk, P. Koutenský, M. Bartoš, F. Trojánek, P. Malý, T. Novotný, and M. Kozák</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-field transport and hot-electron noise in GaAs from first-principles calculations: Role of two-phonon scattering]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.245201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.245201"/>
+        <updated>2022-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Peishi S. Cheng, Jiace Sun, Shi-Ning Sun, Alexander Y. Choi, and Austin J. Minnich
+The scattering of electrons by phonons in semiconductors has been assumed to be dominated by the lowest-order process involving a single phonon. Using a new numerical approach to incorporate the next-leading-order process involving two phonons into high-field transport calculations from first principles, the authors find here that the two-phonon process contributes nearly as much as the single-phonon process to high-field transport phenomena. This finding resolves a long-standing discrepancy regarding the strength of intervalley scattering in GaAs as determined from different experimental methods.
+
+[Phys. Rev. B 106, 245201] Published Mon Dec 05, 2022]]></summary>
+        <author>
+            <name>Peishi S. Cheng, Jiace Sun, Shi-Ning Sun, Alexander Y. Choi, and Austin J. Minnich</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Efficient simulation of dynamics in two-dimensional quantum spin systems with isometric tensor networks]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevB.106.245102</id>
