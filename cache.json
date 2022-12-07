@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.244801",
+          "author": "S. Bohlen, T. Brümmer, F. Grüner, C. A. Lindstrøm, M. Meisel, T. Staufer, M. J. V. Streeter, M. C. Veale, J. C. Wood, R. D’Arcy, K. Põder, and J. Osterhoff",
+          "description": "Author(s): S. Bohlen, T. Brümmer, F. Grüner, C. A. Lindstrøm, M. Meisel, T. Staufer, M. J. V. Streeter, M. C. Veale, J. C. Wood, R. D’Arcy, K. Põder, and J. Osterhoff\nResearchers have demonstrated a noninvasive technique for measuring the energy evolution of an electron bunch inside a laser-plasma accelerator.\n\n[Phys. Rev. Lett. 129, 244801] Published Tue Dec 06, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.244801",
+          "publishedOn": "2022-12-06T10:00:00.000Z",
+          "wordCount": 1271,
+          "title": "<i>In Situ</i> Measurement of Electron Energy Evolution in a Laser-Plasma Accelerator",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.244801.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.18.020142",
           "author": "Sonja Cwik and Chandralekha Singh",
           "description": "Author(s): Sonja Cwik and Chandralekha Singh\nIt is important for physics instructors to focus on increasing women’s self-efficacy and other motivational beliefs in the introductory course; these can influence students’ persistence and engagement in the course and can also impact later course and career choices.\n\n[Phys. Rev. Phys. Educ. Res. 18, 020142] Published Mon Dec 05, 2022",
@@ -571,7 +581,7 @@
           "description": "Author(s): Abigail Plummer, Paul Z. Hanakata, and David R. Nelson\nThe authors construct a mechanical analog of an Ising antiferromagnet by inserting a square array of locally dilated sites into a 2D crystalline membrane. Past a buckling threshold, these dilations become bistable, and buckle either above or below the host lattice. When the host lattice is planar, neighboring dilations prefer to be antialigned, but a cylindrical host lattice can bias the dilations to buckle away from the center of curvature. They show that curvature acts as an effective external field on the mechanical antiferromagnet, and map out the phase behavior of the system at zero and finite temperature. This demonstrates how curvature and temperature can be used to design and operate a responsive and tunable metamaterial at either the macroscale or nanoscale.\n\n[Phys. Rev. Materials 6, 115203] Published Wed Nov 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203",
           "publishedOn": "2022-11-16T10:00:00.000Z",
-          "wordCount": 2000,
+          "wordCount": 1999,
           "title": "Curvature as an external field in mechanical antiferromagnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.115203.png"
         },
@@ -844,36 +854,6 @@
           "wordCount": 1339,
           "title": "Encoding a one-dimensional topological gauge theory in a Raman-coupled Bose-Einstein condensate",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043088.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041014",
-          "author": "James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton",
-          "description": "Author(s): James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton\nA new quantum random-access memory device reads and writes information using a chirped electromagnetic pulse and a superconducting resonator, making it significantly more hardware-efficient than previous devices.\n\n[Phys. Rev. X 12, 041014] Published Mon Nov 07, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.041014",
-          "publishedOn": "2022-11-07T10:00:00.000Z",
-          "wordCount": 3178,
-          "title": "Random-Access Quantum Memory Using Chirped Pulse Phase Encoding",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.041014.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.055002",
-          "author": "M. Berry, David Limberg, M. E. Lee-Trimble, Ryan Hayward, and C. D. Santangelo",
-          "description": "Author(s): M. Berry, David Limberg, M. E. Lee-Trimble, Ryan Hayward, and C. D. Santangelo\nLinkages are mechanical assemblies of rods connected by rotating joints that are of both practical and theoretical interest. They can be designed to perform certain motions, and this work describes a method to do so more easily by focusing on perturbations around special configurations called branch points.\n\n[Phys. Rev. E 106, 055002] Published Mon Nov 07, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.055002",
-          "publishedOn": "2022-11-07T10:00:00.000Z",
-          "wordCount": 1502,
-          "title": "Controlling the configuration space topology of mechanical structures",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.055002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.053706",
-          "author": "Samuel Buckley-Bonanno, Stefan Ostermann, Oriol Rubies-Bigorda, Taylor L. Patti, and Susanne F. Yelin",
-          "description": "Author(s): Samuel Buckley-Bonanno, Stefan Ostermann, Oriol Rubies-Bigorda, Taylor L. Patti, and Susanne F. Yelin\nQuantum emitter arrays with embedded impurities offer the ability to control interactions between individual photons and quantum matter. Here, the authors investigate the lifetime of optical excitations in such arrays and reveal the importance of placement.\n\n[Phys. Rev. A 106, 053706] Published Mon Nov 07, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.053706",
-          "publishedOn": "2022-11-07T10:00:00.000Z",
-          "wordCount": 1446,
-          "title": "Optimized geometries for cooperative photon storage in an impurity coupled to a two-dimensional atomic array",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.053706.png"
         }
       ]
     }

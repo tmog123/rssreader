@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-06T00:53:41.112Z</id>
+    <id>urn:2022-12-07T00:56:43.474Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T00:53:41.112Z</updated>
+    <updated>2022-12-07T00:56:43.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[<i>In Situ</i> Measurement of Electron Energy Evolution in a Laser-Plasma Accelerator]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.244801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.244801"/>
+        <updated>2022-12-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. Bohlen, T. Brümmer, F. Grüner, C. A. Lindstrøm, M. Meisel, T. Staufer, M. J. V. Streeter, M. C. Veale, J. C. Wood, R. D’Arcy, K. Põder, and J. Osterhoff
+Researchers have demonstrated a noninvasive technique for measuring the energy evolution of an electron bunch inside a laser-plasma accelerator.
+
+[Phys. Rev. Lett. 129, 244801] Published Tue Dec 06, 2022]]></summary>
+        <author>
+            <name>S. Bohlen, T. Brümmer, F. Grüner, C. A. Lindstrøm, M. Meisel, T. Staufer, M. J. V. Streeter, M. C. Veale, J. C. Wood, R. D’Arcy, K. Põder, and J. Osterhoff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gender differences in students’ self-efficacy in introductory physics courses in which women outnumber men predict their grade]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.18.020142</id>
@@ -1095,45 +1108,6 @@ A Raman-coupled Bose-Einstein condensate faithfully realizes the chiral BF theor
 [Phys. Rev. Research 4, 043088] Published Tue Nov 08, 2022]]></summary>
         <author>
             <name>C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random-Access Quantum Memory Using Chirped Pulse Phase Encoding]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041014</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.041014"/>
-        <updated>2022-11-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton
-A new quantum random-access memory device reads and writes information using a chirped electromagnetic pulse and a superconducting resonator, making it significantly more hardware-efficient than previous devices.
-
-[Phys. Rev. X 12, 041014] Published Mon Nov 07, 2022]]></summary>
-        <author>
-            <name>James O’Sullivan, Oscar W. Kennedy, Kamanasish Debnath, Joseph Alexander, Christoph W. Zollitsch, Mantas Šimėnas, Akel Hashim, Christopher N. Thomas, Stafford Withington, Irfan Siddiqi, Klaus Mølmer, and John J. L. Morton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controlling the configuration space topology of mechanical structures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.055002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.055002"/>
-        <updated>2022-11-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Berry, David Limberg, M. E. Lee-Trimble, Ryan Hayward, and C. D. Santangelo
-Linkages are mechanical assemblies of rods connected by rotating joints that are of both practical and theoretical interest. They can be designed to perform certain motions, and this work describes a method to do so more easily by focusing on perturbations around special configurations called branch points.
-
-[Phys. Rev. E 106, 055002] Published Mon Nov 07, 2022]]></summary>
-        <author>
-            <name>M. Berry, David Limberg, M. E. Lee-Trimble, Ryan Hayward, and C. D. Santangelo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimized geometries for cooperative photon storage in an impurity coupled to a two-dimensional atomic array]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.053706</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.053706"/>
-        <updated>2022-11-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Samuel Buckley-Bonanno, Stefan Ostermann, Oriol Rubies-Bigorda, Taylor L. Patti, and Susanne F. Yelin
-Quantum emitter arrays with embedded impurities offer the ability to control interactions between individual photons and quantum matter. Here, the authors investigate the lifetime of optical excitations in such arrays and reveal the importance of placement.
-
-[Phys. Rev. A 106, 053706] Published Mon Nov 07, 2022]]></summary>
-        <author>
-            <name>Samuel Buckley-Bonanno, Stefan Ostermann, Oriol Rubies-Bigorda, Taylor L. Patti, and Susanne F. Yelin</name>
         </author>
     </entry>
 </feed>
