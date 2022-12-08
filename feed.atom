@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T00:56:43.474Z</id>
+    <id>urn:2022-12-08T00:53:50.251Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T00:56:43.474Z</updated>
+    <updated>2022-12-08T00:53:50.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Near-Monochromatic Tuneable Cryogenic Niobium Electron Field Emitter]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.244802</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.244802"/>
+        <updated>2022-12-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): C. W. Johnson, A. K. Schmid, M. Mankos, R. Röpke, N. Kerker, E. K. Wong, D. F. Ogletree, A. M. Minor, and A. Stibor
+Researchers have demonstrated a new electron field emitter with unprecedented brightness and spectral purity, promising a breakthrough in electron microscope spectroscopy.
+
+[Phys. Rev. Lett. 129, 244802] Published Wed Dec 07, 2022]]></summary>
+        <author>
+            <name>C. W. Johnson, A. K. Schmid, M. Mankos, R. Röpke, N. Kerker, E. K. Wong, D. F. Ogletree, A. M. Minor, and A. Stibor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Response of an Electron Gas: Towards the Exact Exchange-Correlation Kernel]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.246401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.246401"/>
+        <updated>2022-12-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): James P. F. LeBlanc, Kun Chen, Kristjan Haule, Nikolay V. Prokof’ev, and Igor S. Tupitsyn
+The first accurate prediction of the dynamic charge response and its characterization in terms of the exchange-correlation kernel comes from a new technique based on combining analytic considerations, quantum field theory rules for Feynman diagrams, and stochastic Monte Carlo sampling.
+
+[Phys. Rev. Lett. 129, 246401] Published Wed Dec 07, 2022]]></summary>
+        <author>
+            <name>James P. F. LeBlanc, Kun Chen, Kristjan Haule, Nikolay V. Prokof’ev, and Igor S. Tupitsyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quasiparticle Interference as a Direct Experimental Probe of Bulk Odd-Frequency Superconducting Pairing]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.247001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.247001"/>
+        <updated>2022-12-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Debmalya Chakraborty and Annica M. Black-Schaffer
+An innovative technique will allow scientists to probe superconductivity involving an unusual type of electron pairing called odd-frequency pairing.
+
+[Phys. Rev. Lett. 129, 247001] Published Wed Dec 07, 2022]]></summary>
+        <author>
+            <name>Debmalya Chakraborty and Annica M. Black-Schaffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of relaxation on the photovoltaic effect and possibility for photocurrent within the transparent region]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.235110</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.235110"/>
+        <updated>2022-12-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yugo Onishi, Hikaru Watanabe, Takahiro Morimoto, and Naoto Nagaosa
+In this work, the authors explore the possibility of photocurrents in metals that break both inversion and time-reversal symmetries within the transparent region, i.e., where neither Drude absorption nor interband transitions can occur. The authors show that the photocurrent is O(ωJ/γ) with the frequency of the induced current ωJ and the scattering rate γ when ωJ ≪ γ. While dc photocurrent vanishes for finite γ, the theory here also indicates that nonvanishing photocurrent can appear even in the transparent region if ω ≫ γ.
+
+[Phys. Rev. B 106, 235110] Published Wed Dec 07, 2022]]></summary>
+        <author>
+            <name>Yugo Onishi, Hikaru Watanabe, Takahiro Morimoto, and Naoto Nagaosa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<i>In Situ</i> Measurement of Electron Energy Evolution in a Laser-Plasma Accelerator]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.244801</id>
@@ -1082,32 +1134,6 @@ Studying the dynamic behavior of topological spin textures can unlock future low
 [Phys. Rev. B 106, 174409] Published Wed Nov 09, 2022]]></summary>
         <author>
             <name>D. M. Burn, S. L. Zhang, G. van der Laan, and T. Hesjedal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analytic approach to transport in superconducting junctions with arbitrary carrier density]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087"/>
-        <updated>2022-11-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Setiawan and Johannes Hofmann
-By developing a general framework for transport across superconducting junctions that goes beyond the standard Andreev approximation, two crucial transport signatures are proposed for s-wave Josephson junctions along the BCS-BEC crossover: negative differential conductance as a signature of unitarity and a complete suppression of multiple-Andreev-reflection-induced current as a hallmark of the splitting point.
-
-[Phys. Rev. Research 4, 043087] Published Tue Nov 08, 2022]]></summary>
-        <author>
-            <name>F. Setiawan and Johannes Hofmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encoding a one-dimensional topological gauge theory in a Raman-coupled Bose-Einstein condensate]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043088</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043088"/>
-        <updated>2022-11-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi
-A Raman-coupled Bose-Einstein condensate faithfully realizes the chiral BF theory, a one-dimensional reduction of the celebrated Chern-Simons gauge theory of fractional quantum Hall systems.
-
-[Phys. Rev. Research 4, 043088] Published Tue Nov 08, 2022]]></summary>
-        <author>
-            <name>C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi</name>
         </author>
     </entry>
 </feed>

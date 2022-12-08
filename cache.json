@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.244802",
+          "author": "C. W. Johnson, A. K. Schmid, M. Mankos, R. Röpke, N. Kerker, E. K. Wong, D. F. Ogletree, A. M. Minor, and A. Stibor",
+          "description": "Author(s): C. W. Johnson, A. K. Schmid, M. Mankos, R. Röpke, N. Kerker, E. K. Wong, D. F. Ogletree, A. M. Minor, and A. Stibor\nResearchers have demonstrated a new electron field emitter with unprecedented brightness and spectral purity, promising a breakthrough in electron microscope spectroscopy.\n\n[Phys. Rev. Lett. 129, 244802] Published Wed Dec 07, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.244802",
+          "publishedOn": "2022-12-07T10:00:00.000Z",
+          "wordCount": 1566,
+          "title": "Near-Monochromatic Tuneable Cryogenic Niobium Electron Field Emitter",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.244802.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.246401",
+          "author": "James P. F. LeBlanc, Kun Chen, Kristjan Haule, Nikolay V. Prokof’ev, and Igor S. Tupitsyn",
+          "description": "Author(s): James P. F. LeBlanc, Kun Chen, Kristjan Haule, Nikolay V. Prokof’ev, and Igor S. Tupitsyn\nThe first accurate prediction of the dynamic charge response and its characterization in terms of the exchange-correlation kernel comes from a new technique based on combining analytic considerations, quantum field theory rules for Feynman diagrams, and stochastic Monte Carlo sampling.\n\n[Phys. Rev. Lett. 129, 246401] Published Wed Dec 07, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.246401",
+          "publishedOn": "2022-12-07T10:00:00.000Z",
+          "wordCount": 1115,
+          "title": "Dynamic Response of an Electron Gas: Towards the Exact Exchange-Correlation Kernel",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.246401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.247001",
+          "author": "Debmalya Chakraborty and Annica M. Black-Schaffer",
+          "description": "Author(s): Debmalya Chakraborty and Annica M. Black-Schaffer\nAn innovative technique will allow scientists to probe superconductivity involving an unusual type of electron pairing called odd-frequency pairing.\n\n[Phys. Rev. Lett. 129, 247001] Published Wed Dec 07, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.247001",
+          "publishedOn": "2022-12-07T10:00:00.000Z",
+          "wordCount": 1052,
+          "title": "Quasiparticle Interference as a Direct Experimental Probe of Bulk Odd-Frequency Superconducting Pairing",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.247001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.235110",
+          "author": "Yugo Onishi, Hikaru Watanabe, Takahiro Morimoto, and Naoto Nagaosa",
+          "description": "Author(s): Yugo Onishi, Hikaru Watanabe, Takahiro Morimoto, and Naoto Nagaosa\nIn this work, the authors explore the possibility of photocurrents in metals that break both inversion and time-reversal symmetries within the transparent region, i.e., where neither Drude absorption nor interband transitions can occur. The authors show that the photocurrent is O(ωJ/γ) with the frequency of the induced current ωJ and the scattering rate γ when ωJ ≪ γ. While dc photocurrent vanishes for finite γ, the theory here also indicates that nonvanishing photocurrent can appear even in the transparent region if ω ≫ γ.\n\n[Phys. Rev. B 106, 235110] Published Wed Dec 07, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.235110",
+          "publishedOn": "2022-12-07T10:00:00.000Z",
+          "wordCount": 1181,
+          "title": "Effects of relaxation on the photovoltaic effect and possibility for photocurrent within the transparent region",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.235110.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.244801",
           "author": "S. Bohlen, T. Brümmer, F. Grüner, C. A. Lindstrøm, M. Meisel, T. Staufer, M. J. V. Streeter, M. C. Veale, J. C. Wood, R. D’Arcy, K. Põder, and J. Osterhoff",
           "description": "Author(s): S. Bohlen, T. Brümmer, F. Grüner, C. A. Lindstrøm, M. Meisel, T. Staufer, M. J. V. Streeter, M. C. Veale, J. C. Wood, R. D’Arcy, K. Põder, and J. Osterhoff\nResearchers have demonstrated a noninvasive technique for measuring the energy evolution of an electron bunch inside a laser-plasma accelerator.\n\n[Phys. Rev. Lett. 129, 244801] Published Tue Dec 06, 2022",
@@ -581,7 +621,7 @@
           "description": "Author(s): Abigail Plummer, Paul Z. Hanakata, and David R. Nelson\nThe authors construct a mechanical analog of an Ising antiferromagnet by inserting a square array of locally dilated sites into a 2D crystalline membrane. Past a buckling threshold, these dilations become bistable, and buckle either above or below the host lattice. When the host lattice is planar, neighboring dilations prefer to be antialigned, but a cylindrical host lattice can bias the dilations to buckle away from the center of curvature. They show that curvature acts as an effective external field on the mechanical antiferromagnet, and map out the phase behavior of the system at zero and finite temperature. This demonstrates how curvature and temperature can be used to design and operate a responsive and tunable metamaterial at either the macroscale or nanoscale.\n\n[Phys. Rev. Materials 6, 115203] Published Wed Nov 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203",
           "publishedOn": "2022-11-16T10:00:00.000Z",
-          "wordCount": 1999,
+          "wordCount": 2000,
           "title": "Curvature as an external field in mechanical antiferromagnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.115203.png"
         },
@@ -834,26 +874,6 @@
           "wordCount": 1782,
           "title": "Time-resolved measurement of spin excitations in ${\\mathrm{Cu}}_{2}{\\mathrm{OSeO}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.174409.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087",
-          "author": "F. Setiawan and Johannes Hofmann",
-          "description": "Author(s): F. Setiawan and Johannes Hofmann\nBy developing a general framework for transport across superconducting junctions that goes beyond the standard Andreev approximation, two crucial transport signatures are proposed for s-wave Josephson junctions along the BCS-BEC crossover: negative differential conductance as a signature of unitarity and a complete suppression of multiple-Andreev-reflection-induced current as a hallmark of the splitting point.\n\n[Phys. Rev. Research 4, 043087] Published Tue Nov 08, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043087",
-          "publishedOn": "2022-11-08T10:00:00.000Z",
-          "wordCount": 2290,
-          "title": "Analytic approach to transport in superconducting junctions with arbitrary carrier density",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043087.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043088",
-          "author": "C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi",
-          "description": "Author(s): C. S. Chisholm, A. Frölian, E. Neri, R. Ramos, L. Tarruell, and A. Celi\nA Raman-coupled Bose-Einstein condensate faithfully realizes the chiral BF theory, a one-dimensional reduction of the celebrated Chern-Simons gauge theory of fractional quantum Hall systems.\n\n[Phys. Rev. Research 4, 043088] Published Tue Nov 08, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043088",
-          "publishedOn": "2022-11-08T10:00:00.000Z",
-          "wordCount": 1339,
-          "title": "Encoding a one-dimensional topological gauge theory in a Raman-coupled Bose-Einstein condensate",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043088.png"
         }
       ]
     }
