@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043171",
+          "author": "T. Bland, I. V. Yatsuta, M. Edwards, Y. O. Nikolaieva, A. O. Oliinyk, A. I. Yakimenko, and N. P. Proukakis",
+          "description": "Author(s): T. Bland, I. V. Yatsuta, M. Edwards, Y. O. Nikolaieva, A. O. Oliinyk, A. I. Yakimenko, and N. P. Proukakis\nBy introducing a repulsive barrier at the interface between two density-coupled rings of ultracold atoms, a persistent current can oscillate between the rings. The phenomenon persists indefinitely in the limit of zero temperature, but it decays at finite temperature and can even be suppressed completely in the limit of large damping.\n\n[Phys. Rev. Research 4, 043171] Published Thu Dec 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043171",
+          "publishedOn": "2022-12-08T10:00:00.000Z",
+          "wordCount": 1460,
+          "title": "Persistent current oscillations in a double-ring quantum gas",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043171.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.242002",
+          "author": "Shi Chen, Kenji Fukushima, and Yusuke Shimada",
+          "description": "Author(s): Shi Chen, Kenji Fukushima, and Yusuke Shimada\nA mathematical framework where gluons rotate with an imaginary angular velocity provides new insight into the problem of color confinement.\n\n[Phys. Rev. Lett. 129, 242002] Published Thu Dec 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.242002",
+          "publishedOn": "2022-12-08T10:00:00.000Z",
+          "wordCount": 946,
+          "title": "Perturbative Confinement in Thermal Yang-Mills Theories Induced by Imaginary Angular Velocity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.242002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.242502",
+          "author": "J. J. Liu (刘嘉健) <em>et al.</em> (RIBLL Collaboration)",
+          "description": "Author(s): J. J. Liu (刘嘉健) et al. (RIBLL Collaboration)\nThe isospin mixing between two daughter states from the beta-delayed proton decay of 26P is three times larger than any previously observed mixing.\n\n[Phys. Rev. Lett. 129, 242502] Published Thu Dec 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.242502",
+          "publishedOn": "2022-12-08T10:00:00.000Z",
+          "wordCount": 983,
+          "title": "Observation of a Strongly Isospin-Mixed Doublet in $^{26}\\mathrm{Si}$ via $β$-Delayed Two-Proton Decay of $^{26}\\mathrm{P}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.242502.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.123101",
+          "author": "Sanjiv Gunasekera, Tracie Barber, Olivia Ng, Shannon Thomas, Ramon Varcoe, and Charitha de Silva",
+          "description": "Author(s): Sanjiv Gunasekera, Tracie Barber, Olivia Ng, Shannon Thomas, Ramon Varcoe, and Charitha de Silva\nTransitional flow within an arteriovenous fistula (AVF) leads to vascular disease, which can be treated by implanting a stent. Large Eddy Simulations of blood flow within a patient-specific AVF revealed the significantly higher turbulent behavior in the Stent-absent AVF when compared to the Stented AVF. This finding provides key understanding of the reasons behind the success of this treatment strategy from a fluid dynamics perspective.\n\n[Phys. Rev. Fluids 7, 123101] Published Thu Dec 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.123101",
+          "publishedOn": "2022-12-08T10:00:00.000Z",
+          "wordCount": 1291,
+          "title": "Mitigation of the turbulence within an arteriovenous fistula with a stent implantation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.123101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.064405",
+          "author": "Daniel Renjewski, Susanne Lipfert, and Michael Günther",
+          "description": "Author(s): Daniel Renjewski, Susanne Lipfert, and Michael Günther\nWhen humans walk, our feet act as levers rather than landing pads as previously thought.\n\n[Phys. Rev. E 106, 064405] Published Thu Dec 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.064405",
+          "publishedOn": "2022-12-08T10:00:00.000Z",
+          "wordCount": 2375,
+          "title": "Foot function enabled by human walking dynamics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.064405.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064021",
+          "author": "Jake Horder, Simon J.U. White, Angus Gale, Chi Li, Kenji Watanabe, Takashi Taniguchi, Mehran Kianinia, Igor Aharonovich, and Milos Toth",
+          "description": "Author(s): Jake Horder, Simon J.U. White, Angus Gale, Chi Li, Kenji Watanabe, Takashi Taniguchi, Mehran Kianinia, Igor Aharonovich, and Milos Toth\nLattice defects in two-dimensional materials are compelling sources of single photons for applications in quantum information processing. However, the range of emission wavelengths is broad, the defect types vary and the atomic structures of most are unknown, and the inability to fabricate defects systematically on demand has limited progress. This work leverages a robust, site-specific fabrication technique to produce arrays of blue quantum emitters for study via cryogenic spectroscopy. The authors characterize processes that limit emitter coherence and observe Rabi oscillations, demonstrating the potential of these defects for scalable quantum technologies.\n\n[Phys. Rev. Applied 18, 064021] Published Thu Dec 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064021",
+          "publishedOn": "2022-12-08T10:00:00.000Z",
+          "wordCount": 1291,
+          "title": "Coherence Properties of Electron-Beam-Activated Emitters in Hexagonal Boron Nitride Under Resonant Excitation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064021.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.L061101",
+          "author": "Ilia Tutunnikov, Long Xu, Yehiam Prior, and Ilya Sh. Averbukh",
+          "description": "Author(s): Ilia Tutunnikov, Long Xu, Yehiam Prior, and Ilya Sh. Averbukh\nEfficient molecular orientation at high temperatures is induced by a terahertz pulse with the help of an intense nonresonant laser prepulse that dissects rotational phase space to narrow filaments. The authors use the echo effect to synchronize the terahertz response of all the filaments, leading to much enhanced orientation compared to other techniques.\n\n[Phys. Rev. A 106, L061101] Published Thu Dec 08, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.L061101",
+          "publishedOn": "2022-12-08T10:00:00.000Z",
+          "wordCount": 1058,
+          "title": "Echo-enhanced molecular orientation at high temperatures",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.L061101.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.244802",
           "author": "C. W. Johnson, A. K. Schmid, M. Mankos, R. Röpke, N. Kerker, E. K. Wong, D. F. Ogletree, A. M. Minor, and A. Stibor",
           "description": "Author(s): C. W. Johnson, A. K. Schmid, M. Mankos, R. Röpke, N. Kerker, E. K. Wong, D. F. Ogletree, A. M. Minor, and A. Stibor\nResearchers have demonstrated a new electron field emitter with unprecedented brightness and spectral purity, promising a breakthrough in electron microscope spectroscopy.\n\n[Phys. Rev. Lett. 129, 244802] Published Wed Dec 07, 2022",
@@ -834,46 +904,6 @@
           "wordCount": 2291,
           "title": "Self-regulating soliton switching waves in microresonators",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.053508.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.207701",
-          "author": "Minchul Lee, Rosa López, H. Q. Xu, and Gloria Platero",
-          "description": "Author(s): Minchul Lee, Rosa López, H. Q. Xu, and Gloria Platero\nTheoretical proof that the conventional magnetotransport in quantum-dot Josephson junctions in the Kondo regime can be used to detect intermediate phases.\n\n[Phys. Rev. Lett. 129, 207701] Published Wed Nov 09, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.207701",
-          "publishedOn": "2022-11-09T10:00:00.000Z",
-          "wordCount": 1061,
-          "title": "Proposal for Detection of the ${0}^{′}$ and ${π}^{′}$ Phases in Quantum-Dot Josephson Junctions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.207701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.208001",
-          "author": "Marko Popović, Tom W. J. de Geus, Wencheng Ji, Alberto Rosso, and Matthieu Wyart",
-          "description": "Author(s): Marko Popović, Tom W. J. de Geus, Wencheng Ji, Alberto Rosso, and Matthieu Wyart\nResearchers have developed a comprehensive theory of creep flow—a type of flow seen in amorphous solids such as coffee foam.\n\n[Phys. Rev. Lett. 129, 208001] Published Wed Nov 09, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.208001",
-          "publishedOn": "2022-11-09T10:00:00.000Z",
-          "wordCount": 1182,
-          "title": "Scaling Description of Creep Flow in Amorphous Solids",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.208001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.104016",
-          "author": "Mohammed Khalil, Raissa F. P. Mendes, Néstor Ortiz, and Jan Steinhoff",
-          "description": "Author(s): Mohammed Khalil, Raissa F. P. Mendes, Néstor Ortiz, and Jan Steinhoff\nThe authors provide a model for dynamical scalarization, beyond the adiabatic approximation, using effective field theory techniques, demonstrating that the inclusion of post-adiabatic corrections is crucial. The model is agnostic, i.e., independent of a specific theory of gravity and can therefore be used even for alternative gravity theories.\n\n[Phys. Rev. D 106, 104016] Published Wed Nov 09, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.104016",
-          "publishedOn": "2022-11-09T10:00:00.000Z",
-          "wordCount": 1316,
-          "title": "Effective-action model for dynamical scalarization beyond the adiabatic approximation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.104016.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.174409",
-          "author": "D. M. Burn, S. L. Zhang, G. van der Laan, and T. Hesjedal",
-          "description": "Author(s): D. M. Burn, S. L. Zhang, G. van der Laan, and T. Hesjedal\nStudying the dynamic behavior of topological spin textures can unlock future low-energy and high-speed spintronics devices. Recently, the synchrotron-based technique of diffractive ferromagnetic resonance (DFMR) was developed, allowing for element-selective dynamic studies of selected, ordered magnetic modes. In this work, the authors reveal by using DFMR how time-dependent magnetization dynamics couple to the complex spin texture in the well-known chiral magnetic system Cu2OSeO3, uncovering dynamical phase compressing that remained previously hidden using other experimental techniques.\n\n[Phys. Rev. B 106, 174409] Published Wed Nov 09, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.174409",
-          "publishedOn": "2022-11-09T10:00:00.000Z",
-          "wordCount": 1782,
-          "title": "Time-resolved measurement of spin excitations in ${\\mathrm{Cu}}_{2}{\\mathrm{OSeO}}_{3}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.174409.png"
         }
       ]
     }
