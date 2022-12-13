@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-12T00:56:46.727Z</id>
+    <id>urn:2022-12-13T00:58:30.617Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T00:56:46.727Z</updated>
+    <updated>2022-12-13T00:58:30.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hidden-nucleons neural-network quantum states for the nuclear many-body problem]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043178</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043178"/>
+        <updated>2022-12-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alessandro Lovato, Corey Adams, Giuseppe Carleo, and Noemi Rocco
+Understanding how protons and neutrons self-organize to form atomic nuclei requires solving the nuclear many-body Schrödinger equation. This work addresses this nontrivial task through a neural network quantum states ansatz that involves additional “hidden” degrees of freedom to improve the accuracy of the solution systemically. Light and medium-mass nuclei’s energy and spatial density distributions are in excellent agreement with those obtained utilizing exact-diagonalization and diffusion Monte Carlo approaches.
+
+[Phys. Rev. Research 4, 043178] Published Mon Dec 12, 2022]]></summary>
+        <author>
+            <name>Alessandro Lovato, Corey Adams, Giuseppe Carleo, and Noemi Rocco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved Measurement of Solar Neutrinos from the Carbon-Nitrogen-Oxygen Cycle by Borexino and Its Implications for the Standard Solar Model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.252701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.252701"/>
+        <updated>2022-12-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. Appel et al. (Borexino Collaboration)
+A study of neutrinos from the Sun has measured the signal from the so-called CNO cycle, offering a direct measure of the elemental abundances in the Sun’s core.
+
+[Phys. Rev. Lett. 129, 252701] Published Mon Dec 12, 2022]]></summary>
+        <author>
+            <name>S. Appel &lt;em&gt;et al.&lt;/em&gt; (Borexino Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer formation in a stably stratified fluid cooled from above: Towards an analog for Jupiter and other gas giants]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.124501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.124501"/>
+        <updated>2022-12-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. R. Fuentes, A. Cumming, and E. H. Anders
+Composition gradients in the interior of Jupiter can affect and even suppress convective motions. In some situations, a composition gradient can trigger the formation of multiple convective layers separated by sharp diffusive interfaces, preventing further mixing. This fluid state, called layered convection, has been proposed to occur in giant planets. However, it is not guaranteed that secondary convective layers can form and survive underneath a turbulent convection zone. Our simulations find that below an evolving convection zone, layer formation is difficult and the fluid always fully mixes. This may have bearing on the survival of composition gradients in Jupiter’s interior.
+
+[Phys. Rev. Fluids 7, 124501] Published Mon Dec 12, 2022]]></summary>
+        <author>
+            <name>J. R. Fuentes, A. Cumming, and E. H. Anders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perturbation theory of large scale structure in the $\mathrm{Λ}\mathrm{CDM}$ Universe: Exact time evolution and the two-loop power spectrum]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.123504</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.123504"/>
+        <updated>2022-12-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Matteo Fasiello, Tomohiro Fujita, and Zvonimir Vlah
+The large-scale structure (LSS) of the Universe is obviously nonlinear and very complicated. However, the scale of onset of nonlinearity is well separated from the size of the Universe which makes a large portion of the structure formation modes accessible to perturbation theory (PT). The latter is itself complicated by the time dependence of the λCDM background. The authors provide an exact all-order recursive solution for the PT kernels, which allows them to go beyond the Einstein-de Sitter approximation for the time dependence, and quantify the deviation at the two-loop level in the 10% range, a deviation detectible with upcoming observations.
+
+[Phys. Rev. D 106, 123504] Published Mon Dec 12, 2022]]></summary>
+        <author>
+            <name>Matteo Fasiello, Tomohiro Fujita, and Zvonimir Vlah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlocal conductance spectroscopy of Andreev bound states in gate-defined InAs/Al nanowires]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L241301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L241301"/>
+        <updated>2022-12-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Andreas Pöschl, Alisa Danilenko, Deividas Sabonis, Kaur Kristjuhan, Tyler Lindemann, Candice Thomas, Michael J. Manfra, and Charles M. Marcus
+Andreev bound states emerge as excitations in semiconducting InAs, proximitized by superconducting Al. These states can be a mixture of electron and hole and their structure is determined by material parameters, external magnetic field, and gate voltages. Nonlocal conductance is a differential measurement of the current carried by Andreev bound states through a quasi-one-dimensional nanowire, and it can reveal the charge character of the states given by the BCS charge.
+
+[Phys. Rev. B 106, L241301] Published Mon Dec 12, 2022]]></summary>
+        <author>
+            <name>Andreas Pöschl, Alisa Danilenko, Deividas Sabonis, Kaur Kristjuhan, Tyler Lindemann, Candice Thomas, Michael J. Manfra, and Charles M. Marcus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coherent Coupling between Phonons, Magnons, and Photons]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.243601</id>

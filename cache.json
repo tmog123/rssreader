@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043178",
+          "author": "Alessandro Lovato, Corey Adams, Giuseppe Carleo, and Noemi Rocco",
+          "description": "Author(s): Alessandro Lovato, Corey Adams, Giuseppe Carleo, and Noemi Rocco\nUnderstanding how protons and neutrons self-organize to form atomic nuclei requires solving the nuclear many-body Schrödinger equation. This work addresses this nontrivial task through a neural network quantum states ansatz that involves additional “hidden” degrees of freedom to improve the accuracy of the solution systemically. Light and medium-mass nuclei’s energy and spatial density distributions are in excellent agreement with those obtained utilizing exact-diagonalization and diffusion Monte Carlo approaches.\n\n[Phys. Rev. Research 4, 043178] Published Mon Dec 12, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043178",
+          "publishedOn": "2022-12-12T10:00:00.000Z",
+          "wordCount": 1046,
+          "title": "Hidden-nucleons neural-network quantum states for the nuclear many-body problem",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043178.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.252701",
+          "author": "S. Appel <em>et al.</em> (Borexino Collaboration)",
+          "description": "Author(s): S. Appel et al. (Borexino Collaboration)\nA study of neutrinos from the Sun has measured the signal from the so-called CNO cycle, offering a direct measure of the elemental abundances in the Sun’s core.\n\n[Phys. Rev. Lett. 129, 252701] Published Mon Dec 12, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.252701",
+          "publishedOn": "2022-12-12T10:00:00.000Z",
+          "wordCount": 1366,
+          "title": "Improved Measurement of Solar Neutrinos from the Carbon-Nitrogen-Oxygen Cycle by Borexino and Its Implications for the Standard Solar Model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.252701.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.124501",
+          "author": "J. R. Fuentes, A. Cumming, and E. H. Anders",
+          "description": "Author(s): J. R. Fuentes, A. Cumming, and E. H. Anders\nComposition gradients in the interior of Jupiter can affect and even suppress convective motions. In some situations, a composition gradient can trigger the formation of multiple convective layers separated by sharp diffusive interfaces, preventing further mixing. This fluid state, called layered convection, has been proposed to occur in giant planets. However, it is not guaranteed that secondary convective layers can form and survive underneath a turbulent convection zone. Our simulations find that below an evolving convection zone, layer formation is difficult and the fluid always fully mixes. This may have bearing on the survival of composition gradients in Jupiter’s interior.\n\n[Phys. Rev. Fluids 7, 124501] Published Mon Dec 12, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.124501",
+          "publishedOn": "2022-12-12T10:00:00.000Z",
+          "wordCount": 2301,
+          "title": "Layer formation in a stably stratified fluid cooled from above: Towards an analog for Jupiter and other gas giants",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.124501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.123504",
+          "author": "Matteo Fasiello, Tomohiro Fujita, and Zvonimir Vlah",
+          "description": "Author(s): Matteo Fasiello, Tomohiro Fujita, and Zvonimir Vlah\nThe large-scale structure (LSS) of the Universe is obviously nonlinear and very complicated. However, the scale of onset of nonlinearity is well separated from the size of the Universe which makes a large portion of the structure formation modes accessible to perturbation theory (PT). The latter is itself complicated by the time dependence of the λCDM background. The authors provide an exact all-order recursive solution for the PT kernels, which allows them to go beyond the Einstein-de Sitter approximation for the time dependence, and quantify the deviation at the two-loop level in the 10% range, a deviation detectible with upcoming observations.\n\n[Phys. Rev. D 106, 123504] Published Mon Dec 12, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.123504",
+          "publishedOn": "2022-12-12T10:00:00.000Z",
+          "wordCount": 1655,
+          "title": "Perturbation theory of large scale structure in the $\\mathrm{Λ}\\mathrm{CDM}$ Universe: Exact time evolution and the two-loop power spectrum",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.123504.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L241301",
+          "author": "Andreas Pöschl, Alisa Danilenko, Deividas Sabonis, Kaur Kristjuhan, Tyler Lindemann, Candice Thomas, Michael J. Manfra, and Charles M. Marcus",
+          "description": "Author(s): Andreas Pöschl, Alisa Danilenko, Deividas Sabonis, Kaur Kristjuhan, Tyler Lindemann, Candice Thomas, Michael J. Manfra, and Charles M. Marcus\nAndreev bound states emerge as excitations in semiconducting InAs, proximitized by superconducting Al. These states can be a mixture of electron and hole and their structure is determined by material parameters, external magnetic field, and gate voltages. Nonlocal conductance is a differential measurement of the current carried by Andreev bound states through a quasi-one-dimensional nanowire, and it can reveal the charge character of the states given by the BCS charge.\n\n[Phys. Rev. B 106, L241301] Published Mon Dec 12, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L241301",
+          "publishedOn": "2022-12-12T10:00:00.000Z",
+          "wordCount": 1123,
+          "title": "Nonlocal conductance spectroscopy of Andreev bound states in gate-defined InAs/Al nanowires",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L241301.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.243601",
           "author": "Zhen Shen, Guan-Ting Xu, Mai Zhang, Yan-Lei Zhang, Yu Wang, Cheng-Zhe Chai, Chang-Ling Zou, Guang-Can Guo, and Chun-Hua Dong",
           "description": "Author(s): Zhen Shen, Guan-Ting Xu, Mai Zhang, Yan-Lei Zhang, Yu Wang, Cheng-Zhe Chai, Chang-Ling Zou, Guang-Can Guo, and Chun-Hua Dong\nA pair of microspheres can convert microwave signals over a wide frequency range into optical signals, which will be essential for future quantum technologies.\n\n[Phys. Rev. Lett. 129, 243601] Published Fri Dec 09, 2022",
