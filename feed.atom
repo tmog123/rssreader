@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T00:58:30.617Z</id>
+    <id>urn:2022-12-14T00:54:44.282Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T00:58:30.617Z</updated>
+    <updated>2022-12-14T00:54:44.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Extraterrestrial Axion Search with the Breakthrough Listen Galactic Center Survey]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.251102</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.251102"/>
+        <updated>2022-12-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Joshua W. Foster, Samuel J. Witte, Matthew Lawson, Tim Linden, Vishal Gajjar, Christoph Weniger, and Benjamin R. Safdi
+A neutron star’s ultrastrong magnetic field could create the conditions for uncloaking a promising dark matter candidate.
+
+[Phys. Rev. Lett. 129, 251102] Published Tue Dec 13, 2022]]></summary>
+        <author>
+            <name>Joshua W. Foster, Samuel J. Witte, Matthew Lawson, Tim Linden, Vishal Gajjar, Christoph Weniger, and Benjamin R. Safdi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hidden-nucleons neural-network quantum states for the nuclear many-body problem]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043178</id>
@@ -1147,71 +1160,6 @@ The authors experimentally investigate the behavior of quantum discord and entan
 [Phys. Rev. A 106, 052415] Published Tue Nov 15, 2022]]></summary>
         <author>
             <name>M. Renger, S. Pogorzalek, F. Fesquet, K. Honasoge, F. Kronowetter, Q. Chen, Y. Nojiri, K. Inomata, Y. Nakamura, A. Marx, F. Deppe, R. Gross, and K. G. Fedorov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulating Models of Challenging Correlated Molecules and Materials on the Sycamore Quantum Processor]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.040318</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.3.040318"/>
-        <updated>2022-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ruslan N. Tazhigulov, Shi-Ning Sun, Reza Haghshenas, Huanchen Zhai, Adrian T.K. Tan, Nicholas C. Rubin, Ryan Babbush, Austin J. Minnich, and Garnet Kin-Lic Chan
-Two problems of interest in chemistry and materials science are tested on a quantum processor used for quantum advantage experiments.
-
-[PRX Quantum 3, 040318] Published Mon Nov 14, 2022]]></summary>
-        <author>
-            <name>Ruslan N. Tazhigulov, Shi-Ning Sun, Reza Haghshenas, Huanchen Zhai, Adrian T.K. Tan, Nicholas C. Rubin, Ryan Babbush, Austin J. Minnich, and Garnet Kin-Lic Chan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crossing $N=28$ Toward the Neutron Drip Line: First Measurement of Half-Lives at FRIB]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.212501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.212501"/>
-        <updated>2022-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): H. L. Crawford et al.
-Researchers have discovered the heaviest-known bound isotope of sodium and characterized other neutron-rich isotopes, offering important benchmarks for refining nuclear models.
-
-[Phys. Rev. Lett. 129, 212501] Published Mon Nov 14, 2022]]></summary>
-        <author>
-            <name>H. L. Crawford &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovery of $^{39}\mathrm{Na}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.212502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.212502"/>
-        <updated>2022-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. S. Ahn et al.
-Researchers have discovered the heaviest-known bound isotope of sodium and characterized other neutron-rich isotopes, offering important benchmarks for refining nuclear models.
-
-[Phys. Rev. Lett. 129, 212502] Published Mon Nov 14, 2022]]></summary>
-        <author>
-            <name>D. S. Ahn &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meandering features of wall-attached structures in turbulent boundary layer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.114603</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.114603"/>
-        <updated>2022-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jinyul Hwang and Jae Hwa Lee
-In wall turbulence, meandering behaviors of large-scale structures observed in the logarithmic layer is a crucial spatial feature for understanding the spatial organization of these structures and improving the structure-based turbulence model. These structures extend from the near-wall region to the edge of boundary layers. Their meandering motions leave an imprint on the two-point turbulence statistics across the flow, especially in the logarithmic region. Here, we demonstrate the influence of the meandering motions of wall-attached structures on the two-point correlation and premultiplied two-dimensional spectra by analyzing direct numerical simulation data of the turbulent boundary layer.
-
-[Phys. Rev. Fluids 7, 114603] Published Mon Nov 14, 2022]]></summary>
-        <author>
-            <name>Jinyul Hwang and Jae Hwa Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surrogate model for gravitational wave signals from nonspinning, comparable-to large-mass-ratio black hole binaries built on black hole perturbation theory waveforms calibrated to numerical relativity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.104025</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.104025"/>
-        <updated>2022-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tousif Islam, Scott E. Field, Scott A. Hughes, Gaurav Khanna, Vijay Varma, Matthew Giesler, Mark A. Scheel, Lawrence E. Kidder, and Harald P. Pfeiffer
-Gravitational waveforms obtained using numerical relativity (NR) are computationally expensive and slow. Surrogate models provide an alternative to full NR by extrapolating from the point-particle regime of high-mass ratio binary waveforms calibrated to NR to much smaller mass ratios. The authors show that their methods work over a remarkable range of mass ratios of 2.5 to 10000 showing good agreement with NR simulations.
-
-[Phys. Rev. D 106, 104025] Published Mon Nov 14, 2022]]></summary>
-        <author>
-            <name>Tousif Islam, Scott E. Field, Scott A. Hughes, Gaurav Khanna, Vijay Varma, Matthew Giesler, Mark A. Scheel, Lawrence E. Kidder, and Harald P. Pfeiffer</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.251102",
+          "author": "Joshua W. Foster, Samuel J. Witte, Matthew Lawson, Tim Linden, Vishal Gajjar, Christoph Weniger, and Benjamin R. Safdi",
+          "description": "Author(s): Joshua W. Foster, Samuel J. Witte, Matthew Lawson, Tim Linden, Vishal Gajjar, Christoph Weniger, and Benjamin R. Safdi\nA neutron star’s ultrastrong magnetic field could create the conditions for uncloaking a promising dark matter candidate.\n\n[Phys. Rev. Lett. 129, 251102] Published Tue Dec 13, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.251102",
+          "publishedOn": "2022-12-13T10:00:00.000Z",
+          "wordCount": 1122,
+          "title": "Extraterrestrial Axion Search with the Breakthrough Listen Galactic Center Survey",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.251102.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043178",
           "author": "Alessandro Lovato, Corey Adams, Giuseppe Carleo, and Noemi Rocco",
           "description": "Author(s): Alessandro Lovato, Corey Adams, Giuseppe Carleo, and Noemi Rocco\nUnderstanding how protons and neutrons self-organize to form atomic nuclei requires solving the nuclear many-body Schrödinger equation. This work addresses this nontrivial task through a neural network quantum states ansatz that involves additional “hidden” degrees of freedom to improve the accuracy of the solution systemically. Light and medium-mass nuclei’s energy and spatial density distributions are in excellent agreement with those obtained utilizing exact-diagonalization and diffusion Monte Carlo approaches.\n\n[Phys. Rev. Research 4, 043178] Published Mon Dec 12, 2022",
@@ -884,56 +894,6 @@
           "wordCount": 1776,
           "title": "Flow of quantum correlations in noisy two-mode squeezed microwave states",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.052415.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040318",
-          "author": "Ruslan N. Tazhigulov, Shi-Ning Sun, Reza Haghshenas, Huanchen Zhai, Adrian T.K. Tan, Nicholas C. Rubin, Ryan Babbush, Austin J. Minnich, and Garnet Kin-Lic Chan",
-          "description": "Author(s): Ruslan N. Tazhigulov, Shi-Ning Sun, Reza Haghshenas, Huanchen Zhai, Adrian T.K. Tan, Nicholas C. Rubin, Ryan Babbush, Austin J. Minnich, and Garnet Kin-Lic Chan\nTwo problems of interest in chemistry and materials science are tested on a quantum processor used for quantum advantage experiments.\n\n[PRX Quantum 3, 040318] Published Mon Nov 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040318",
-          "publishedOn": "2022-11-14T10:00:00.000Z",
-          "wordCount": 1850,
-          "title": "Simulating Models of Challenging Correlated Molecules and Materials on the Sycamore Quantum Processor",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.3.040318.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212501",
-          "author": "H. L. Crawford <em>et al.</em>",
-          "description": "Author(s): H. L. Crawford et al.\nResearchers have discovered the heaviest-known bound isotope of sodium and characterized other neutron-rich isotopes, offering important benchmarks for refining nuclear models.\n\n[Phys. Rev. Lett. 129, 212501] Published Mon Nov 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212501",
-          "publishedOn": "2022-11-14T10:00:00.000Z",
-          "wordCount": 1076,
-          "title": "Crossing $N=28$ Toward the Neutron Drip Line: First Measurement of Half-Lives at FRIB",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.212501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212502",
-          "author": "D. S. Ahn <em>et al.</em>",
-          "description": "Author(s): D. S. Ahn et al.\nResearchers have discovered the heaviest-known bound isotope of sodium and characterized other neutron-rich isotopes, offering important benchmarks for refining nuclear models.\n\n[Phys. Rev. Lett. 129, 212502] Published Mon Nov 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.212502",
-          "publishedOn": "2022-11-14T10:00:00.000Z",
-          "wordCount": 883,
-          "title": "Discovery of $^{39}\\mathrm{Na}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.212502.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.114603",
-          "author": "Jinyul Hwang and Jae Hwa Lee",
-          "description": "Author(s): Jinyul Hwang and Jae Hwa Lee\nIn wall turbulence, meandering behaviors of large-scale structures observed in the logarithmic layer is a crucial spatial feature for understanding the spatial organization of these structures and improving the structure-based turbulence model. These structures extend from the near-wall region to the edge of boundary layers. Their meandering motions leave an imprint on the two-point turbulence statistics across the flow, especially in the logarithmic region. Here, we demonstrate the influence of the meandering motions of wall-attached structures on the two-point correlation and premultiplied two-dimensional spectra by analyzing direct numerical simulation data of the turbulent boundary layer.\n\n[Phys. Rev. Fluids 7, 114603] Published Mon Nov 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.7.114603",
-          "publishedOn": "2022-11-14T10:00:00.000Z",
-          "wordCount": 1591,
-          "title": "Meandering features of wall-attached structures in turbulent boundary layer",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.7.114603.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.104025",
-          "author": "Tousif Islam, Scott E. Field, Scott A. Hughes, Gaurav Khanna, Vijay Varma, Matthew Giesler, Mark A. Scheel, Lawrence E. Kidder, and Harald P. Pfeiffer",
-          "description": "Author(s): Tousif Islam, Scott E. Field, Scott A. Hughes, Gaurav Khanna, Vijay Varma, Matthew Giesler, Mark A. Scheel, Lawrence E. Kidder, and Harald P. Pfeiffer\nGravitational waveforms obtained using numerical relativity (NR) are computationally expensive and slow. Surrogate models provide an alternative to full NR by extrapolating from the point-particle regime of high-mass ratio binary waveforms calibrated to NR to much smaller mass ratios. The authors show that their methods work over a remarkable range of mass ratios of 2.5 to 10000 showing good agreement with NR simulations.\n\n[Phys. Rev. D 106, 104025] Published Mon Nov 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.104025",
-          "publishedOn": "2022-11-14T10:00:00.000Z",
-          "wordCount": 1821,
-          "title": "Surrogate model for gravitational wave signals from nonspinning, comparable-to large-mass-ratio black hole binaries built on black hole perturbation theory waveforms calibrated to numerical relativity",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.104025.png"
         }
       ]
     }
