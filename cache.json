@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040328",
+          "author": "Bo L. Dwyer, Lila V.H. Rodgers, Elana K. Urbach, Dolev Bluvstein, Sorawis Sangtawesin, Hengyun Zhou, Yahia Nassab, Mattias Fitzpatrick, Zhiyang Yuan, Kristiaan De Greve, Eric L. Peterson, Helena Knowles, Tamara Sumarac, Jyh-Pin Chou, Adam Gali, V.V. Dobrovitski, Mikhail D. Lukin, and Nathalie P. de Leon",
+          "description": "Author(s): Bo L. Dwyer, Lila V.H. Rodgers, Elana K. Urbach, Dolev Bluvstein, Sorawis Sangtawesin, Hengyun Zhou, Yahia Nassab, Mattias Fitzpatrick, Zhiyang Yuan, Kristiaan De Greve, Eric L. Peterson, Helena Knowles, Tamara Sumarac, Jyh-Pin Chou, Adam Gali, V.V. Dobrovitski, Mikhail D. Lukin, and Nathalie P. de Leon\nA detailed analysis of the coherence decay of a nanoscale sensor shows that ubiquitous spins on the diamond surface are mobile and reveals the potential of local sensors to investigate the dynamics of complex systems.\n\n[PRX Quantum 3, 040328] Published Wed Dec 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040328",
+          "publishedOn": "2022-12-14T10:00:00.000Z",
+          "wordCount": 3443,
+          "title": "Probing Spin Dynamics on Diamond Surfaces Using a Single Quantum Sensor",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.3.040328.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.255901",
+          "author": "M. E. Manley, A. F. May, B. L. Winn, D. L. Abernathy, R. Sahul, and R. P. Hermann",
+          "description": "Author(s): M. E. Manley, A. F. May, B. L. Winn, D. L. Abernathy, R. Sahul, and R. P. Hermann\nHeat-transport measurements and neutron-scattering spectroscopy probe a form of thermal conduction based on excitations called phasons.\n\n[Phys. Rev. Lett. 129, 255901] Published Wed Dec 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.255901",
+          "publishedOn": "2022-12-14T10:00:00.000Z",
+          "wordCount": 1133,
+          "title": "Phason-Dominated Thermal Transport in Fresnoite",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.255901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L220403",
+          "author": "Daichi Hirobe, Yoji Nabei, and Hiroshi M. Yamamoto",
+          "description": "Author(s): Daichi Hirobe, Yoji Nabei, and Hiroshi M. Yamamoto\nChiral conductors exhibit spin-related charge rectification but its controllability is largely unexplored. Here, the authors combine chiral charge rectification with a field-effect transistor of tellurium. They demonstrate a gate-variable hundredfold enhancement of the rectification efficiency and enable quantitative comparison with theoretical calculations which considered chiral spin-momentum locking alongside the Zeeman effect. With this comparison across a wide range of temperature, an unexpected deviation from the conventional theory is revealed, which hints at the relevance of chirality-induced spin selectivity at higher temperatures.\n\n[Phys. Rev. B 106, L220403] Published Wed Dec 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L220403",
+          "publishedOn": "2022-12-14T10:00:00.000Z",
+          "wordCount": 1121,
+          "title": "Chirality-induced intrinsic charge rectification in a tellurium-based field-effect transistor",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L220403.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064040",
+          "author": "Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth",
+          "description": "Author(s): Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth\nIn spin-based quantum processors, each quantum dot of a qubit is populated by exactly one electron, which requires careful tuning of each gate voltage such that it lies inside the charge-stability region (the “Coulomb diamond”) associated with the dot array. However, mapping the boundary of a multidimensional Coulomb diamond by traditional dense raster scanning would take years, so the authors develop a sparse acquisition technique that autonomously learns Coulomb-diamond boundaries from a small number of measurements. Here we have hardware-triggered line searches in the gate-voltage space of a silicon quadruple dot, with smart search directions proposed by an active-learning algorithm.\n\n[Phys. Rev. Applied 18, 064040] Published Wed Dec 14, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064040",
+          "publishedOn": "2022-12-14T10:00:00.000Z",
+          "wordCount": 1518,
+          "title": "Autonomous Estimation of High-Dimensional Coulomb Diamonds from Sparse Measurements",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064040.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.251102",
           "author": "Joshua W. Foster, Samuel J. Witte, Matthew Lawson, Tim Linden, Vishal Gajjar, Christoph Weniger, and Benjamin R. Safdi",
           "description": "Author(s): Joshua W. Foster, Samuel J. Witte, Matthew Lawson, Tim Linden, Vishal Gajjar, Christoph Weniger, and Benjamin R. Safdi\nA neutron star’s ultrastrong magnetic field could create the conditions for uncloaking a promising dark matter candidate.\n\n[Phys. Rev. Lett. 129, 251102] Published Tue Dec 13, 2022",
@@ -811,7 +851,7 @@
           "description": "Author(s): Abigail Plummer, Paul Z. Hanakata, and David R. Nelson\nThe authors construct a mechanical analog of an Ising antiferromagnet by inserting a square array of locally dilated sites into a 2D crystalline membrane. Past a buckling threshold, these dilations become bistable, and buckle either above or below the host lattice. When the host lattice is planar, neighboring dilations prefer to be antialigned, but a cylindrical host lattice can bias the dilations to buckle away from the center of curvature. They show that curvature acts as an effective external field on the mechanical antiferromagnet, and map out the phase behavior of the system at zero and finite temperature. This demonstrates how curvature and temperature can be used to design and operate a responsive and tunable metamaterial at either the macroscale or nanoscale.\n\n[Phys. Rev. Materials 6, 115203] Published Wed Nov 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203",
           "publishedOn": "2022-11-16T10:00:00.000Z",
-          "wordCount": 2000,
+          "wordCount": 1999,
           "title": "Curvature as an external field in mechanical antiferromagnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.115203.png"
         },
@@ -854,46 +894,6 @@
           "wordCount": 1353,
           "title": "Systematic Control of the Interlayer Exchange Coupling in Perpendicularly Magnetized Synthetic Antiferromagnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.054051.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.106.055310",
-          "author": "Claudia Artiaco, Rafael Díaz Hernández Rojas, Giorgio Parisi, and Federico Ricci-Tersenghi",
-          "description": "Author(s): Claudia Artiaco, Rafael Díaz Hernández Rojas, Giorgio Parisi, and Federico Ricci-Tersenghi\nSimulating the jamming of hard spheres is difficult because of the singular interaction potential, which is either zero or infinite. This paper analyzes an algorithm that uses a mapping onto a constrained optimization problem to generate jammed hard-sphere packings that satisfy force balance and are globally stable.\n\n[Phys. Rev. E 106, 055310] Published Tue Nov 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.055310",
-          "publishedOn": "2022-11-15T10:00:00.000Z",
-          "wordCount": 2393,
-          "title": "Hard-sphere jamming through the lens of linear optimization",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.055310.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.106.103514",
-          "author": "David Ellis, David J. E. Marsh, Benedikt Eggemeier, Jens Niemeyer, Javier Redondo, and Klaus Dolag",
-          "description": "Author(s): David Ellis, David J. E. Marsh, Benedikt Eggemeier, Jens Niemeyer, Javier Redondo, and Klaus Dolag\nAsteroid-sized clumps of a dark matter candidate known as an axion could be detectable in a gravitational-microlensing survey.\n\n[Phys. Rev. D 106, 103514] Published Tue Nov 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.106.103514",
-          "publishedOn": "2022-11-15T10:00:00.000Z",
-          "wordCount": 1948,
-          "title": "Structure of axion miniclusters",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.106.103514.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.054044",
-          "author": "R.A. Gallardo, P. Alvarado-Seguel, and P. Landeros",
-          "description": "Author(s): R.A. Gallardo, P. Alvarado-Seguel, and P. Landeros\nProgress in spintronics continues briskly, with many different approaches and physical phenomena underlying candidate technologies. This study uses modern spin-wave theory to predict the magnonic spectrum of a cylindrical synthetic antiferromagnet consisting of two coaxial nanotubes. The proposed device incorporates two coupled ferromagnetic nanotubes hosting oppositely magnetized vortices. Nonreciprocal features of the proposed architecture are provided by both intra- and interlayer dipolar coupling. Unidirectional spin-wave behavior is found, which may impact the realization of low-power magnonic devices operating at nano- to micrometer scales.\n\n[Phys. Rev. Applied 18, 054044] Published Tue Nov 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.054044",
-          "publishedOn": "2022-11-15T10:00:00.000Z",
-          "wordCount": 1370,
-          "title": "Unidirectional Chiral Magnonics in Cylindrical Synthetic Antiferromagnets",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.054044.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.052415",
-          "author": "M. Renger, S. Pogorzalek, F. Fesquet, K. Honasoge, F. Kronowetter, Q. Chen, Y. Nojiri, K. Inomata, Y. Nakamura, A. Marx, F. Deppe, R. Gross, and K. G. Fedorov",
-          "description": "Author(s): M. Renger, S. Pogorzalek, F. Fesquet, K. Honasoge, F. Kronowetter, Q. Chen, Y. Nojiri, K. Inomata, Y. Nakamura, A. Marx, F. Deppe, R. Gross, and K. G. Fedorov\nThe authors experimentally investigate the behavior of quantum discord and entanglement in two-mode squeezed states generated by superconducting Josephson parametric amplifiers. They show how correlations flow between the two modes and the noisy environment, and relate their findings to the security of entanglement-based quantum key distribution.\n\n[Phys. Rev. A 106, 052415] Published Tue Nov 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.052415",
-          "publishedOn": "2022-11-15T10:00:00.000Z",
-          "wordCount": 1776,
-          "title": "Flow of quantum correlations in noisy two-mode squeezed microwave states",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.052415.png"
         }
       ]
     }

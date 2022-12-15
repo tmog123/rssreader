@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T00:54:44.282Z</id>
+    <id>urn:2022-12-15T00:56:28.754Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T00:54:44.282Z</updated>
+    <updated>2022-12-15T00:56:28.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Probing Spin Dynamics on Diamond Surfaces Using a Single Quantum Sensor]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.040328</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.3.040328"/>
+        <updated>2022-12-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bo L. Dwyer, Lila V.H. Rodgers, Elana K. Urbach, Dolev Bluvstein, Sorawis Sangtawesin, Hengyun Zhou, Yahia Nassab, Mattias Fitzpatrick, Zhiyang Yuan, Kristiaan De Greve, Eric L. Peterson, Helena Knowles, Tamara Sumarac, Jyh-Pin Chou, Adam Gali, V.V. Dobrovitski, Mikhail D. Lukin, and Nathalie P. de Leon
+A detailed analysis of the coherence decay of a nanoscale sensor shows that ubiquitous spins on the diamond surface are mobile and reveals the potential of local sensors to investigate the dynamics of complex systems.
+
+[PRX Quantum 3, 040328] Published Wed Dec 14, 2022]]></summary>
+        <author>
+            <name>Bo L. Dwyer, Lila V.H. Rodgers, Elana K. Urbach, Dolev Bluvstein, Sorawis Sangtawesin, Hengyun Zhou, Yahia Nassab, Mattias Fitzpatrick, Zhiyang Yuan, Kristiaan De Greve, Eric L. Peterson, Helena Knowles, Tamara Sumarac, Jyh-Pin Chou, Adam Gali, V.V. Dobrovitski, Mikhail D. Lukin, and Nathalie P. de Leon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phason-Dominated Thermal Transport in Fresnoite]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.255901</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.255901"/>
+        <updated>2022-12-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. E. Manley, A. F. May, B. L. Winn, D. L. Abernathy, R. Sahul, and R. P. Hermann
+Heat-transport measurements and neutron-scattering spectroscopy probe a form of thermal conduction based on excitations called phasons.
+
+[Phys. Rev. Lett. 129, 255901] Published Wed Dec 14, 2022]]></summary>
+        <author>
+            <name>M. E. Manley, A. F. May, B. L. Winn, D. L. Abernathy, R. Sahul, and R. P. Hermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirality-induced intrinsic charge rectification in a tellurium-based field-effect transistor]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L220403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L220403"/>
+        <updated>2022-12-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Daichi Hirobe, Yoji Nabei, and Hiroshi M. Yamamoto
+Chiral conductors exhibit spin-related charge rectification but its controllability is largely unexplored. Here, the authors combine chiral charge rectification with a field-effect transistor of tellurium. They demonstrate a gate-variable hundredfold enhancement of the rectification efficiency and enable quantitative comparison with theoretical calculations which considered chiral spin-momentum locking alongside the Zeeman effect. With this comparison across a wide range of temperature, an unexpected deviation from the conventional theory is revealed, which hints at the relevance of chirality-induced spin selectivity at higher temperatures.
+
+[Phys. Rev. B 106, L220403] Published Wed Dec 14, 2022]]></summary>
+        <author>
+            <name>Daichi Hirobe, Yoji Nabei, and Hiroshi M. Yamamoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous Estimation of High-Dimensional Coulomb Diamonds from Sparse Measurements]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064040</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064040"/>
+        <updated>2022-12-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth
+In spin-based quantum processors, each quantum dot of a qubit is populated by exactly one electron, which requires careful tuning of each gate voltage such that it lies inside the charge-stability region (the “Coulomb diamond”) associated with the dot array. However, mapping the boundary of a multidimensional Coulomb diamond by traditional dense raster scanning would take years, so the authors develop a sparse acquisition technique that autonomously learns Coulomb-diamond boundaries from a small number of measurements. Here we have hardware-triggered line searches in the gate-voltage space of a silicon quadruple dot, with smart search directions proposed by an active-learning algorithm.
+
+[Phys. Rev. Applied 18, 064040] Published Wed Dec 14, 2022]]></summary>
+        <author>
+            <name>Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Extraterrestrial Axion Search with the Breakthrough Listen Galactic Center Survey]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.251102</id>
@@ -1108,58 +1160,6 @@ Controlling the interlayer exchange coupling in synthetic antiferromagnets (SAFs
 [Phys. Rev. Applied 18, 054051] Published Wed Nov 16, 2022]]></summary>
         <author>
             <name>Teng Xu, Jiahao Liu, Xichao Zhang, Qihan Zhang, Heng-An Zhou, Yiqing Dong, Pierluigi Gargiani, Manuel Valvidares, Yan Zhou, and Wanjun Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hard-sphere jamming through the lens of linear optimization]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.055310</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.055310"/>
-        <updated>2022-11-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Claudia Artiaco, Rafael Díaz Hernández Rojas, Giorgio Parisi, and Federico Ricci-Tersenghi
-Simulating the jamming of hard spheres is difficult because of the singular interaction potential, which is either zero or infinite. This paper analyzes an algorithm that uses a mapping onto a constrained optimization problem to generate jammed hard-sphere packings that satisfy force balance and are globally stable.
-
-[Phys. Rev. E 106, 055310] Published Tue Nov 15, 2022]]></summary>
-        <author>
-            <name>Claudia Artiaco, Rafael Díaz Hernández Rojas, Giorgio Parisi, and Federico Ricci-Tersenghi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structure of axion miniclusters]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.103514</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.103514"/>
-        <updated>2022-11-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): David Ellis, David J. E. Marsh, Benedikt Eggemeier, Jens Niemeyer, Javier Redondo, and Klaus Dolag
-Asteroid-sized clumps of a dark matter candidate known as an axion could be detectable in a gravitational-microlensing survey.
-
-[Phys. Rev. D 106, 103514] Published Tue Nov 15, 2022]]></summary>
-        <author>
-            <name>David Ellis, David J. E. Marsh, Benedikt Eggemeier, Jens Niemeyer, Javier Redondo, and Klaus Dolag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unidirectional Chiral Magnonics in Cylindrical Synthetic Antiferromagnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.054044</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.054044"/>
-        <updated>2022-11-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R.A. Gallardo, P. Alvarado-Seguel, and P. Landeros
-Progress in spintronics continues briskly, with many different approaches and physical phenomena underlying candidate technologies. This study uses modern spin-wave theory to predict the magnonic spectrum of a cylindrical synthetic antiferromagnet consisting of two coaxial nanotubes. The proposed device incorporates two coupled ferromagnetic nanotubes hosting oppositely magnetized vortices. Nonreciprocal features of the proposed architecture are provided by both intra- and interlayer dipolar coupling. Unidirectional spin-wave behavior is found, which may impact the realization of low-power magnonic devices operating at nano- to micrometer scales.
-
-[Phys. Rev. Applied 18, 054044] Published Tue Nov 15, 2022]]></summary>
-        <author>
-            <name>R.A. Gallardo, P. Alvarado-Seguel, and P. Landeros</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flow of quantum correlations in noisy two-mode squeezed microwave states]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.052415</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.052415"/>
-        <updated>2022-11-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Renger, S. Pogorzalek, F. Fesquet, K. Honasoge, F. Kronowetter, Q. Chen, Y. Nojiri, K. Inomata, Y. Nakamura, A. Marx, F. Deppe, R. Gross, and K. G. Fedorov
-The authors experimentally investigate the behavior of quantum discord and entanglement in two-mode squeezed states generated by superconducting Josephson parametric amplifiers. They show how correlations flow between the two modes and the noisy environment, and relate their findings to the security of entanglement-based quantum key distribution.
-
-[Phys. Rev. A 106, 052415] Published Tue Nov 15, 2022]]></summary>
-        <author>
-            <name>M. Renger, S. Pogorzalek, F. Fesquet, K. Honasoge, F. Kronowetter, Q. Chen, Y. Nojiri, K. Inomata, Y. Nakamura, A. Marx, F. Deppe, R. Gross, and K. G. Fedorov</name>
         </author>
     </entry>
 </feed>
