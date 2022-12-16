@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T00:56:28.754Z</id>
+    <id>urn:2022-12-16T00:52:41.149Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T00:56:28.754Z</updated>
+    <updated>2022-12-16T00:52:41.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Real-space Mott-Anderson electron localization with long-range interactions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043192</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043192"/>
+        <updated>2022-12-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Antoine Marie, Derk P. Kooi, Juri Grossi, Michael Seidl, Ziad H. Musslimani, Klaas J. H. Giesbertz, and Paola Gori-Giorgi
+Electrons that are delocalized in space because of quantum effects can become localized by an external disordered potential (Anderson localization) or by their mutual Coulomb repulsion (Mott/Wigner localization). A simple model addresses what happens when both effects are present, how to quantify the degree of localization, and whether approximate methods can capture the relevant physics.
+
+[Phys. Rev. Research 4, 043192] Published Thu Dec 15, 2022]]></summary>
+        <author>
+            <name>Antoine Marie, Derk P. Kooi, Juri Grossi, Michael Seidl, Ziad H. Musslimani, Klaas J. H. Giesbertz, and Paola Gori-Giorgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquid-Liquid Transition in Water from First Principles]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.255702</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.255702"/>
+        <updated>2022-12-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thomas E. Gartner, III, Pablo M. Piaggi, Roberto Car, Athanassios Z. Panagiotopoulos, and Pablo G. Debenedetti
+Computations support the 30-year-old idea that supercooled liquid water can undergo a transition between high- and low-density states.
+
+[Phys. Rev. Lett. 129, 255702] Published Thu Dec 15, 2022]]></summary>
+        <author>
+            <name>Thomas E. Gartner, III, Pablo M. Piaggi, Roberto Car, Athanassios Z. Panagiotopoulos, and Pablo G. Debenedetti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Probing Spin Dynamics on Diamond Surfaces Using a Single Quantum Sensor]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.040328</id>
@@ -1095,71 +1121,6 @@ The authors develop an algorithm for a field theoretical implementation of mirro
 [Phys. Rev. D 106, 105014] Published Thu Nov 17, 2022]]></summary>
         <author>
             <name>Chiung Hwang, Sara Pasquetti, and Matteo Sacchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curvature as an external field in mechanical antiferromagnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.115203"/>
-        <updated>2022-11-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Abigail Plummer, Paul Z. Hanakata, and David R. Nelson
-The authors construct a mechanical analog of an Ising antiferromagnet by inserting a square array of locally dilated sites into a 2D crystalline membrane. Past a buckling threshold, these dilations become bistable, and buckle either above or below the host lattice. When the host lattice is planar, neighboring dilations prefer to be antialigned, but a cylindrical host lattice can bias the dilations to buckle away from the center of curvature. They show that curvature acts as an effective external field on the mechanical antiferromagnet, and map out the phase behavior of the system at zero and finite temperature. This demonstrates how curvature and temperature can be used to design and operate a responsive and tunable metamaterial at either the macroscale or nanoscale.
-
-[Phys. Rev. Materials 6, 115203] Published Wed Nov 16, 2022]]></summary>
-        <author>
-            <name>Abigail Plummer, Paul Z. Hanakata, and David R. Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimizing the Elastic Energy of Growing Leaves by Conformal Mapping]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.218101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.218101"/>
-        <updated>2022-11-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Anna Dai and Martine Ben Amar
-Physicists have shown that a mathematical transformation called a conformal map can be used to predict how leaves grow.
-
-[Phys. Rev. Lett. 129, 218101] Published Wed Nov 16, 2022]]></summary>
-        <author>
-            <name>Anna Dai and Martine Ben Amar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hele-Shaw flow for parity odd three-dimensional fluids]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.114201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.114201"/>
-        <updated>2022-11-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Dylan Reynolds, Gustavo M. Monteiro, and Sriram Ganeshan
-We derive the governing equation of flow for a three-dimensional fluid with a parity-broken viscosity tensor when confined to a Hele-Shaw cell. When such a fluid is pushed through a channel, a transverse force is exerted on the walls, and when a bubble of air expands into a region of such fluid, a circulation develops in the far field. The Saffman-Taylor stability condition is also modified, with these terms tending to stabilize the two fluid interface. Such experiments can in principle facilitate the measurement of parity odd coefficients in both synthetic and natural active matter systems.
-
-[Phys. Rev. Fluids 7, 114201] Published Wed Nov 16, 2022]]></summary>
-        <author>
-            <name>Dylan Reynolds, Gustavo M. Monteiro, and Sriram Ganeshan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal Design of Three-Dimensional Voxel Printed Multimaterial Lattice Metamaterials via Machine Learning and Evolutionary Algorithm]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.054050</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.054050"/>
-        <updated>2022-11-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Le Dong and Dong Wang
-Mechanical metamaterials present tremendous potential through synergistic material distribution and structural design, but current approaches mainly focus on structure while neglecting the material distribution. The authors propose an optimized method for designing lattice metamaterials, considering both control aspects. This framework can be used to match multiple targets, such as reproducing the stress-strain and Poisson’s ratio curves of biological tissues simultaneously, and to enable customized lateral profiles. This work expands the design space of lattice metamaterials and is promising for flexible electronics and soft robotics.
-
-[Phys. Rev. Applied 18, 054050] Published Wed Nov 16, 2022]]></summary>
-        <author>
-            <name>Le Dong and Dong Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systematic Control of the Interlayer Exchange Coupling in Perpendicularly Magnetized Synthetic Antiferromagnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.054051</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.054051"/>
-        <updated>2022-11-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Teng Xu, Jiahao Liu, Xichao Zhang, Qihan Zhang, Heng-An Zhou, Yiqing Dong, Pierluigi Gargiani, Manuel Valvidares, Yan Zhou, and Wanjun Jiang
-Controlling the interlayer exchange coupling in synthetic antiferromagnets (SAFs) is crucial for realizing spintronic phenomena and devices. Here researchers investigate such control in Pt/Co/Ru/Fe0.55Tb0.45 by tuning the thicknesses of various layers. Complementary measurements using three techniques show that SAFs with different magnetization-reversal characteristics may be clearly resolved. The results suggest that the interlayer exchange coupling may be tuned effectively in this manner, which could be quite useful for designing SAF-based magnetic memory or sensing devices.
-
-[Phys. Rev. Applied 18, 054051] Published Wed Nov 16, 2022]]></summary>
-        <author>
-            <name>Teng Xu, Jiahao Liu, Xichao Zhang, Qihan Zhang, Heng-An Zhou, Yiqing Dong, Pierluigi Gargiani, Manuel Valvidares, Yan Zhou, and Wanjun Jiang</name>
         </author>
     </entry>
 </feed>
