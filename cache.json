@@ -121,7 +121,7 @@
           "description": "Author(s): Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth\nIn spin-based quantum processors, each quantum dot of a qubit is populated by exactly one electron, which requires careful tuning of each gate voltage such that it lies inside the charge-stability region (the “Coulomb diamond”) associated with the dot array. However, mapping the boundary of a multidimensional Coulomb diamond by traditional dense raster scanning would take years, so the authors develop a sparse acquisition technique that autonomously learns Coulomb-diamond boundaries from a small number of measurements. Here we have hardware-triggered line searches in the gate-voltage space of a silicon quadruple dot, with smart search directions proposed by an active-learning algorithm.\n\n[Phys. Rev. Applied 18, 064040] Published Wed Dec 14, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064040",
           "publishedOn": "2022-12-14T10:00:00.000Z",
-          "wordCount": 1518,
+          "wordCount": 1517,
           "title": "Autonomous Estimation of High-Dimensional Coulomb Diamonds from Sparse Measurements",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064040.png"
         },
