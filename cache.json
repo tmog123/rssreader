@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.268001",
+          "author": "François Boulogne, Frédéric Restagno, and Emmanuelle Rio",
+          "description": "Author(s): François Boulogne, Frédéric Restagno, and Emmanuelle Rio\nThe film surrounding a soap bubble can be up to 8 °C cooler than the environment, a finding that has implications for bubble stability.\n\n[Phys. Rev. Lett. 129, 268001] Published Mon Dec 19, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.268001",
+          "publishedOn": "2022-12-19T10:00:00.000Z",
+          "wordCount": 945,
+          "title": "Measurement of the Temperature Decrease in Evaporating Soap Films",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.268001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.214109",
+          "author": "Baptiste Vindolet, Marie-Pierre Adam, Loïc Toraille, Mayeul Chipaux, Antoine Hilberer, Géraud Dupuy, Lukas Razinkovas, Audrius Alkauskas, Gergő Thiering, Adam Gali, Mary De Feudis, Midrel Wilfried Ngandeu Ngambou, Jocelyn Achard, Alexandre Tallaire, Martin Schmidt, Christoph Becher, and Jean-François Roch",
+          "description": "Author(s): Baptiste Vindolet, Marie-Pierre Adam, Loïc Toraille, Mayeul Chipaux, Antoine Hilberer, Géraud Dupuy, Lukas Razinkovas, Audrius Alkauskas, Gergő Thiering, Adam Gali, Mary De Feudis, Midrel Wilfried Ngandeu Ngambou, Jocelyn Achard, Alexandre Tallaire, Martin Schmidt, Christoph Becher, and Jean-François Roch\nThe silicon-vacancy (SiV) and germanium-vacancy (GeV) centers in diamond have a sharp photoluminescence with high brightness. In this work, the photoluminescence of these centers is measured up to 180 GPa using nanodiamonds integrated in a diamond anvil cell. The results show blueshifts in the mean emission energy determined by the atomic radii of the impurity. The agreement with ab initio calculations based on the lattice compression of diamond demonstrates the potential of these centers for sensing under extreme pressure conditions.\n\n[Phys. Rev. B 106, 214109] Published Mon Dec 19, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.214109",
+          "publishedOn": "2022-12-19T10:00:00.000Z",
+          "wordCount": 1675,
+          "title": "Optical properties of SiV and GeV color centers in nanodiamonds under hydrostatic pressures up to 180 GPa",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.214109.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.245419",
+          "author": "Robert E. Throckmorton and S. Das Sarma",
+          "description": "Author(s): Robert E. Throckmorton and S. Das Sarma\nA chain of singlet-triplet qubits can be an excellent realization of the Ising model, which is in turn a good platform for realizing a discrete time crystal (DTC). However, leakage of the qubits out of their computational subspace may be a problem for such a realization. The authors show that, while leakage is indeed a serious problem for the realization of a DTC, it is not insurmountable - one can mitigate leakage by applying a magnetic field that alternates from one qubit to the next.\n\n[Phys. Rev. B 106, 245419] Published Mon Dec 19, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.245419",
+          "publishedOn": "2022-12-19T10:00:00.000Z",
+          "wordCount": 1738,
+          "title": "Effects of leakage on the realization of a discrete time crystal in a chain of singlet-triplet qubits",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.245419.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L241107",
+          "author": "Izidor Benedičič, Masahiro Naritsuka, Luke C. Rhodes, Christopher Trainer, Yoshiko Nanao, Aaron B. Naden, Rosalba Fittipaldi, Veronica Granata, Mariateresa Lettieri, Antonio Vecchione, and Peter Wahl",
+          "description": "Author(s): Izidor Benedičič, Masahiro Naritsuka, Luke C. Rhodes, Christopher Trainer, Yoshiko Nanao, Aaron B. Naden, Rosalba Fittipaldi, Veronica Granata, Mariateresa Lettieri, Antonio Vecchione, and Peter Wahl\nMetamagnetic materials enable control of the ground state through applied magnetic fields. Understanding the microscopic origin of metamagnetism promises tuneability for new technological functionalities. Here, the authors use quasiparticle interference, magnetization measurements, and dilatometry in vector magnetic fields to establish the interplay between magnetism, spin-orbit coupling, microscopic electronic structure, and crystal structure of the trilayer ruthenate Sr4Ru3O10. These results reveal a surprising anisotropy in the properties of the material, highlighting the role of spin-orbit coupling.\n\n[Phys. Rev. B 106, L241107] Published Mon Dec 19, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L241107",
+          "publishedOn": "2022-12-19T10:00:00.000Z",
+          "wordCount": 1385,
+          "title": "Interplay of ferromagnetism and spin-orbit coupling in ${\\mathrm{Sr}}_{4}{\\mathrm{Ru}}_{3}{\\mathrm{O}}_{10}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L241107.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064053",
+          "author": "Emilien Lavie and Charles C.-W. Lim",
+          "description": "Author(s): Emilien Lavie and Charles C.-W. Lim\nCoherent one-way quantum key distribution (COW-QKD) is a popular cryptography protocol, due to its fairly simple implementation and passive measurement device. Its security analysis is challenging, though, and extra assumptions or modifications are typically employed. Here the authors propose minor modifications to COW-QKD’s prepared states while retaining the original, fully passive measurement device, and generalize the “universal squashing” framework to analyze their system’s security. The results suggest that performance should be comparable to upper bounds from the literature, making this protocol a viable alternative to one based on phase-modulated coherent states.\n\n[Phys. Rev. Applied 18, 064053] Published Mon Dec 19, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064053",
+          "publishedOn": "2022-12-19T10:00:00.000Z",
+          "wordCount": 1457,
+          "title": "Improved Coherent One-Way Quantum key Distribution for High-Loss Channels",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064053.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040329",
           "author": "Abhinav Deshpande, Pradeep Niroula, Oles Shtanko, Alexey V. Gorshkov, Bill Fefferman, and Michael J. Gullans",
           "description": "Author(s): Abhinav Deshpande, Pradeep Niroula, Oles Shtanko, Alexey V. Gorshkov, Bill Fefferman, and Michael J. Gullans\nProperties of noisy random circuits are investigated, uncovering relevant consequences for the tightness of proof techniques in the field of quantum computational advantage.\n\n[PRX Quantum 3, 040329] Published Fri Dec 16, 2022",
@@ -121,7 +171,7 @@
           "description": "Author(s): Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth\nIn spin-based quantum processors, each quantum dot of a qubit is populated by exactly one electron, which requires careful tuning of each gate voltage such that it lies inside the charge-stability region (the “Coulomb diamond”) associated with the dot array. However, mapping the boundary of a multidimensional Coulomb diamond by traditional dense raster scanning would take years, so the authors develop a sparse acquisition technique that autonomously learns Coulomb-diamond boundaries from a small number of measurements. Here we have hardware-triggered line searches in the gate-voltage space of a silicon quadruple dot, with smart search directions proposed by an active-learning algorithm.\n\n[Phys. Rev. Applied 18, 064040] Published Wed Dec 14, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064040",
           "publishedOn": "2022-12-14T10:00:00.000Z",
-          "wordCount": 1517,
+          "wordCount": 1518,
           "title": "Autonomous Estimation of High-Dimensional Coulomb Diamonds from Sparse Measurements",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064040.png"
         },
