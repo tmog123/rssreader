@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-20T00:54:12.032Z</id>
+    <id>urn:2022-12-21T00:49:55.451Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T00:54:12.032Z</updated>
+    <updated>2022-12-21T00:49:55.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Imaging the Ultrafast Coherent Control of a Skyrmion Crystal]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041030</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.041030"/>
+        <updated>2022-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Phoebe Tengdin, Benoit Truc, Alexey Sapozhnik, Lingyao Kong, Nina del Ser, Simone Gargiulo, Ivan Madan, Thomas Schönenberger, Priya R. Baral, Ping Che, Arnaud Magrez, Dirk Grundler, Henrik M. Rønnow, Thomas Lagrange, Jiadong Zang, Achim Rosch, and Fabrizio Carbone
+Researchers control the rotation of a periodic array of magnetic quasiparticles by illuminating the system with a series of precisely timed polarized laser pulses.
+
+[Phys. Rev. X 12, 041030] Published Tue Dec 20, 2022]]></summary>
+        <author>
+            <name>Phoebe Tengdin, Benoit Truc, Alexey Sapozhnik, Lingyao Kong, Nina del Ser, Simone Gargiulo, Ivan Madan, Thomas Schönenberger, Priya R. Baral, Ping Che, Arnaud Magrez, Dirk Grundler, Henrik M. Rønnow, Thomas Lagrange, Jiadong Zang, Achim Rosch, and Fabrizio Carbone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin-wave study of magnetic perpendicular surface anisotropy in single crystalline MgO/Fe/MgO films]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.6.124409</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.6.124409"/>
+        <updated>2022-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. Solano, O. Gladii, P. Kuntz, Y. Henry, D. Halley, and M. Bailleul
+The authors report an experimental separation of the two perpendicular surface anisotropies present in MgO/Fe/MgO epitaxial films through a careful study of inhomogeneous magnetization dynamics. This is achieved by combining the strengths of two experimental techniques: the frequency broadband capabilities of ferromagnetic resonance and the precise determination of non-reciprocal propagation via propagating spin wave spectroscopy. This new experimental approach allows to separate the top and bottom perpendicular surface anisotropies often measured together in thin films, and it provides new light into the technologically-relevant ferromagnet/MgO interfaces and their effect on spin waves.
+
+[Phys. Rev. Materials 6, 124409] Published Tue Dec 20, 2022]]></summary>
+        <author>
+            <name>J. Solano, O. Gladii, P. Kuntz, Y. Henry, D. Halley, and M. Bailleul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current-enabled optical conductivity of superconductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.L220504</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.L220504"/>
+        <updated>2022-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Michał Papaj and Joel E. Moore
+While optical techniques are fundamental in the investigation of the superconducting state, in many clean superconductors the combination of particle-hole and inversion symmetries prevents momentum-conserving transitions. Here, the authors show that by driving supercurrent through the sample optical transitions across the superconducting gap become allowed even in clean single-band systems. As the signal depends strongly on the superconducting pairing as well as on the underlying normal state, supercurrent-driven optical conductivity provides a new way of determining the superconducting state properties.
+
+[Phys. Rev. B 106, L220504] Published Tue Dec 20, 2022]]></summary>
+        <author>
+            <name>Michał Papaj and Joel E. Moore</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Measurement of the Temperature Decrease in Evaporating Soap Films]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.268001</id>
@@ -1056,84 +1095,6 @@ Quantum systems are typically ergodic and can be described by a thermal ensemble
 [Phys. Rev. B 106, L180201] Published Tue Nov 22, 2022]]></summary>
         <author>
             <name>K. S. C. Decker, D. M. Kennes, and C. Karrasch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model-Free Measurement of Local Entropy Production and Extractable Work in Active Matter]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.220601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.220601"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sunghan Ro, Buming Guo, Aaron Shih, Trung V. Phan, Robert H. Austin, Dov Levine, Paul M. Chaikin, and Stefano Martiniani
-A tool for estimating the local entropy production rate of a system enables the visualization and quantification of the out-of-equilibrium regions of an active-matter system.
-
-[Phys. Rev. Lett. 129, 220601] Published Mon Nov 21, 2022]]></summary>
-        <author>
-            <name>Sunghan Ro, Buming Guo, Aaron Shih, Trung V. Phan, Robert H. Austin, Dov Levine, Paul M. Chaikin, and Stefano Martiniani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microwave Susceptibility Observation of Interacting Many-Body Andreev States]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.227701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.227701"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): V. Fatemi, P. D. Kurilovich, M. Hays, D. Bouman, T. Connolly, S. Diamond, N. E. Frattini, V. D. Kurilovich, P. Krogstrup, J. Nygård, A. Geresdi, L. I. Glazman, and M. H. Devoret
-Measurements of the state-dependent microwave susceptibility of Andreev bound states in a superconductor-semiconductor weak link show that the susceptibility does not exhibit particle-hole symmetry due to the influence of the Coulomb interaction.
-
-[Phys. Rev. Lett. 129, 227701] Published Mon Nov 21, 2022]]></summary>
-        <author>
-            <name>V. Fatemi, P. D. Kurilovich, M. Hays, D. Bouman, T. Connolly, S. Diamond, N. E. Frattini, V. D. Kurilovich, P. Krogstrup, J. Nygård, A. Geresdi, L. I. Glazman, and M. H. Devoret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theory of QED radiative corrections to neutrino scattering at accelerator energies]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.093006</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.093006"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Oleksandr Tomalak, Qing Chen, Richard J. Hill, Kevin S. McFarland, and Clarence Wret
-Neutrino beam experiments to measure neutrino cross sections on nuclear targets are part of a major experimental program. In this paper, the authors compute radiative QED corrections to neutrino-nucleus scattering using effective field theory methods that separate perturbative QED soft and collinear contributions from hard nuclear ones. Applications of this framework are promising because theoretical control of neutrino-nucleus scattering is crucial to making sense of experimental data.
-
-[Phys. Rev. D 106, 093006] Published Mon Nov 21, 2022]]></summary>
-        <author>
-            <name>Oleksandr Tomalak, Qing Chen, Richard J. Hill, Kevin S. McFarland, and Clarence Wret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wire construction of class DIII topological crystalline superconductors in two dimensions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.174512</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.174512"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Bingrui Peng, Hongming Weng, and Chen Fang
-Topological superconductors have drawn wide interest as they host Majorana zero modes potentially useful in quantum computation. The crystalline symmetries remarkably enrich the family of topological superconductors. Here, the authors present a real-space method, called the “wire construction”, to construct two-dimensional topological superconductors. A complete classification of 2D topological crystalline superconductors in class DIII is obtained, with anomalous boundary states enumerated. The new method provides a real-space picture for understanding topological superconductors, and should guide the discovery of realistic topological superconducting materials.
-
-[Phys. Rev. B 106, 174512] Published Mon Nov 21, 2022]]></summary>
-        <author>
-            <name>Bingrui Peng, Hongming Weng, and Chen Fang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insulating phase in two-dimensional Josephson junction arrays investigated by nonlinear transport]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.184511</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.184511"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hiroki Ikegami and Yasunobu Nakamura
-Understanding the properties of the insulating phase is key to uncovering the nature of the superconductor-insulator quantum phase transition. Here, the authors study two-dimensional Josephson junction arrays, a canonical model system of the superconductor-insulator transition, to clarify how the insulating phase develops. By systematic studies of nonlinear transport properties, they show that the formation of the insulating phase upon decreasing temperature is understood as the localization of Cooper pairs caused by the Berezinskii-Kosterlitz-Thouless mechanism under the influence of a finite-range screening of the interaction between Cooper pairs.
-
-[Phys. Rev. B 106, 184511] Published Mon Nov 21, 2022]]></summary>
-        <author>
-            <name>Hiroki Ikegami and Yasunobu Nakamura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combination of ultrafast time-resolved spectroscopy techniques for the analysis of electron dynamics of heliumlike impurity centers in silicon]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.195205</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.195205"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): N. Dessmann, S. G. Pavlov, A. Pohl, V. B. Shuman, L. M. Portsel, A. N. Lodygin, Yu. A. Astrov, N. V. Abrosimov, B. Redlich, and H.-W. Hübers
-Helium-like interstitial donors in silicon have larger binding energies compared to their hydrogen-like counterparts. Long lifetimes of the excited states are expected since one-phonon transitions are not available. Here, the authors study their relaxation dynamics at two different free electron laser facilities using photon echo, transient grating, and pump-probe spectroscopy. In contrast to the theoretical predictions and previous experimental studies, it is found that the relaxation rates are extremely high. These results shed new light on the electron-lattice interaction and open the possibility for further studies of similar materials.
-
-[Phys. Rev. B 106, 195205] Published Mon Nov 21, 2022]]></summary>
-        <author>
-            <name>N. Dessmann, S. G. Pavlov, A. Pohl, V. B. Shuman, L. M. Portsel, A. N. Lodygin, Yu. A. Astrov, N. V. Abrosimov, B. Redlich, and H.-W. Hübers</name>
         </author>
     </entry>
 </feed>
