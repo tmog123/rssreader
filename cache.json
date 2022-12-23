@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.264501",
+          "author": "Aaron D. Ratschow, Doyel Pandey, Benno Liebchen, Somnath Bhattacharyya, and Steffen Hardt",
+          "description": "Author(s): Aaron D. Ratschow, Doyel Pandey, Benno Liebchen, Somnath Bhattacharyya, and Steffen Hardt\nA design for a nanopump that uses an alternating electric field could allow researchers greater control over nanoscale fluid flows.\n\n[Phys. Rev. Lett. 129, 264501] Published Thu Dec 22, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.264501",
+          "publishedOn": "2022-12-22T10:00:00.000Z",
+          "wordCount": 1131,
+          "title": "Resonant Nanopumps: AC Gate Voltages in Conical Nanopores Induce Directed Electrolyte Flow",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.264501.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041031",
           "author": "Léo Mangeolle, Leon Balents, and Lucile Savary",
           "description": "Author(s): Léo Mangeolle, Leon Balents, and Lucile Savary\nFor a long time, researchers assumed that phonons could not contribute to the so-called thermal Hall effect because of their lack of charge and spin. New work challenges this assumption.\n\n[Phys. Rev. X 12, 041031] Published Wed Dec 21, 2022",
@@ -774,56 +784,6 @@
           "wordCount": 1739,
           "title": "Tunneling spectroscopy of few-monolayer ${\\mathrm{NbSe}}_{2}$ in high magnetic fields: Triplet superconductivity and Ising protection",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.184514.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.226001",
-          "author": "János Daru, Harald Forbert, Jörg Behler, and Dominik Marx",
-          "description": "Author(s): János Daru, Harald Forbert, Jörg Behler, and Dominik Marx\nA novel method offers a general and systematic approach to transfer the accuracy and versatility of coupled cluster theory from finite gas phase systems to the condensed phase.\n\n[Phys. Rev. Lett. 129, 226001] Published Wed Nov 23, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.226001",
-          "publishedOn": "2022-11-23T10:00:00.000Z",
-          "wordCount": 1019,
-          "title": "Coupled Cluster Molecular Dynamics of Condensed Phase Systems Enabled by Machine Learning Potentials: Liquid Water Benchmark",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.226001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.227703",
-          "author": "Matan Lotem, Eran Sela, and Moshe Goldstein",
-          "description": "Author(s): Matan Lotem, Eran Sela, and Moshe Goldstein\nNumerical evidence shows that non-Abelian anyons, fractional excitations that describe topological superconductors and quantum Hall states, appear in gapless electronic models in addition to gapped ones.\n\n[Phys. Rev. Lett. 129, 227703] Published Wed Nov 23, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.227703",
-          "publishedOn": "2022-11-23T10:00:00.000Z",
-          "wordCount": 920,
-          "title": "Manipulating Non-Abelian Anyons in a Chiral Multichannel Kondo Model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.227703.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.205139",
-          "author": "Wen-Tao Xu, Jose Garre-Rubio, and Norbert Schuch",
-          "description": "Author(s): Wen-Tao Xu, Jose Garre-Rubio, and Norbert Schuch\nTopological phases - systems with a global ordering in the entanglement - exhibit exotic excitations known as anyons which can display highly nontrivial (non-Abelian) statistics. Through transitions between such phases, these anyons can undergo rather surprising changes. Perhaps most surprisingly, one anyon can split into two or more anyons, some of which might condense or become confined. The authors propose here a complete set of order parameters which allow one to extract the full information about how the properties of anyons change through phase transitions, and to apply them to a range of topological phase transitions.\n\n[Phys. Rev. B 106, 205139] Published Wed Nov 23, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.205139",
-          "publishedOn": "2022-11-23T10:00:00.000Z",
-          "wordCount": 1751,
-          "title": "Complete characterization of non-Abelian topological phase transitions and detection of anyon splitting with projected entangled pair states",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.205139.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L180406",
-          "author": "Ji Zou, Shu Zhang, and Yaroslav Tserkovnyak",
-          "description": "Author(s): Ji Zou, Shu Zhang, and Yaroslav Tserkovnyak\nMagnet-mediated dissipative coupling between spin qubits can be exploited to imprint long-lived quantum entanglement. This work points to a new direction for the application of spintronic schemes in future quantum information technologies, with an eye on the dynamical phase transitions associated with non-Hermitian dynamics of the reduced density matrix.\n\n[Phys. Rev. B 106, L180406] Published Wed Nov 23, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L180406",
-          "publishedOn": "2022-11-23T10:00:00.000Z",
-          "wordCount": 1013,
-          "title": "Bell-state generation for spin qubits via dissipative coupling",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L180406.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.053113",
-          "author": "Robert J. Cooper, David W. Prescott, Karen L. Sauer, Nezih Dural, and Michael V. Romalis",
-          "description": "Author(s): Robert J. Cooper, David W. Prescott, Karen L. Sauer, Nezih Dural, and Michael V. Romalis\nThe authors develop two optically pumped atomic magnetometers with sub-fT sensitivity operating at radio frequencies and compare their magnetic-field sensitivity and interference rejection. They identify ways to improve the sensitivity of unshielded magnetic detectors, which could advance the development of portable magnetometers for field uses.\n\n[Phys. Rev. A 106, 053113] Published Wed Nov 23, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.053113",
-          "publishedOn": "2022-11-23T10:00:00.000Z",
-          "wordCount": 1443,
-          "title": "Intrinsic radio-frequency gradiometer",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.053113.png"
         }
       ]
     }
