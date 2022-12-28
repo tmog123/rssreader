@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-27T00:52:44.407Z</id>
+    <id>urn:2022-12-28T00:52:01.413Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T00:52:44.407Z</updated>
+    <updated>2022-12-28T00:52:01.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quasibound state in the $\overline{K}NNN$ system]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.106.064006</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.106.064006"/>
+        <updated>2022-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): N. V. Shevchenko
+The attractive nature of the antikaon-nucleon interaction suggests that few-body systems of antikaons and nucleons can exist. The author presents a new study of the exotic K¯NNN system. Four-body Faddeev-type equations are used to evaluate the binding energy and the width of the quasi-bound state in the system. The dependence of the results on the two-body antikaon-nucleon and nucleon-nucleon interactions is quantified.
+
+[Phys. Rev. C 106, 064006] Published Tue Dec 27, 2022]]></summary>
+        <author>
+            <name>N. V. Shevchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Langevin dynamics of generalized spins as SU($N$) coherent states]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.235154</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.235154"/>
+        <updated>2022-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): David Dahlbom, Cole Miles, Hao Zhang, Cristian D. Batista, and Kipton Barros
+Quantum spin states often contain additional structure beyond the usual angular momentum dipole. The classical Landau-Lifshitz spin dynamics may be generalized to model the coupled dynamics of dipoles, quadrupoles, and higher order multipoles. This paper introduces temperature-dependent Langevin noise and damping terms to the generalized spin dynamics. High numerical efficiency is possible by working with coherent states in the Schrödinger picture. The method is illustrated via simulation of magnetic skyrmion dynamics both in and out of equilibrium.
+
+[Phys. Rev. B 106, 235154] Published Tue Dec 27, 2022]]></summary>
+        <author>
+            <name>David Dahlbom, Cole Miles, Hao Zhang, Cristian D. Batista, and Kipton Barros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fracturing in Wet Granular Media Illuminated by Photoporomechanics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064081</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064081"/>
+        <updated>2022-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yue Meng, Wei Li, and Ruben Juanes
+Unraveling the complex behavior of wet granular media has been challenging, because the effective stresses transmitted through the particles have remained unobservable. The authors use their recently developed extension of photoelasticity for coupled fluid-granular systems to image particle stresses during fracture by air injection in an oil-saturated granular pack. They discover two states of the granular medium evolving with the fractures, plus an “effective-stress shadow” behind the propagating fracture tips. This study points out the power of photoporomechanics for studying coupled fluid-solid processes in granular media, including energy recovery, gas venting, and geohazards.
+
+[Phys. Rev. Applied 18, 064081] Published Tue Dec 27, 2022]]></summary>
+        <author>
+            <name>Yue Meng, Wei Li, and Ruben Juanes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum speed limit of a noisy continuous-variable system]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.062438</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.062438"/>
+        <updated>2022-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wei Wu and Jun-Hong An
+The quantum speed limit quantifies the minimum time it takes for a system to evolve under the constraint of quantum mechanics. Here, the authors investigate the quantum speed limit in a continuous-variable system undergoing non-Markovian noise. Their results imply that this limit may be steerable with the use of spectral engineering.
+
+[Phys. Rev. A 106, 062438] Published Tue Dec 27, 2022]]></summary>
+        <author>
+            <name>Wei Wu and Jun-Hong An</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parity and Singlet-Triplet High-Fidelity Readout in a Silicon Double Quantum Dot at 0.5 K]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.3.040335</id>
@@ -1147,45 +1199,6 @@ Here, the authors find a phenomenological theory of superconductivity in moiré 
 [Phys. Rev. B 106, 184517] Published Tue Nov 29, 2022]]></summary>
         <author>
             <name>Xu Zhang, Kai Sun, Heqiu Li, Gaopei Pan, and Zi Yang Meng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standard Model Prediction for Paramagnetic Electric Dipole Moments]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.231801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.231801"/>
-        <updated>2022-11-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yohei Ema, Ting Gao, and Maxim Pospelov
-CP-violating contributions from the standard-model quark-mixing phase to electric dipole moments are shown to be three orders of magnitude larger than previously thought, possibly putting them in reach of future experiments.
-
-[Phys. Rev. Lett. 129, 231801] Published Mon Nov 28, 2022]]></summary>
-        <author>
-            <name>Yohei Ema, Ting Gao, and Maxim Pospelov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State-of-the-Art Estimation of Protein Model Accuracy Using AlphaFold]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.238101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.238101"/>
-        <updated>2022-11-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): James P. Roney and Sergey Ovchinnikov
-An algorithm that already predicts how proteins fold might also shed light on the physical principles that dictate this folding.
-
-[Phys. Rev. Lett. 129, 238101] Published Mon Nov 28, 2022]]></summary>
-        <author>
-            <name>James P. Roney and Sergey Ovchinnikov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tunneling spectroscopy of few-monolayer ${\mathrm{NbSe}}_{2}$ in high magnetic fields: Triplet superconductivity and Ising protection]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.184514</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.184514"/>
-        <updated>2022-11-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Kuzmanović, T. Dvir, D. LeBoeuf, S. Ilić, M. Haim, D. Möckli, S. Kramer, M. Khodas, M. Houzet, J. S. Meyer, M. Aprili, H. Steinberg, and C. H. L. Quay
-Equal spin triplet pairs (ESTPs) of nuclei form the ground state of superfluid 3He. ESTPs of electrons have long been sought in superconducting systems. In layered transition metal dichalcogenides with 2H structure, such as NbSe2, ESTP correlations have been predicted to arise from the interaction of the Ising spin-orbit field, which pins the internal spin axis of conventional singlet pairs out-of-plane, and an applied in-plane magnetic field. The tunneling spectroscopy study done here of bilayer NbSe2 shows experimental signatures of these ESTPs.
-
-[Phys. Rev. B 106, 184514] Published Mon Nov 28, 2022]]></summary>
-        <author>
-            <name>M. Kuzmanović, T. Dvir, D. LeBoeuf, S. Ilić, M. Haim, D. Möckli, S. Kramer, M. Khodas, M. Houzet, J. S. Meyer, M. Aprili, H. Steinberg, and C. H. L. Quay</name>
         </author>
     </entry>
 </feed>
