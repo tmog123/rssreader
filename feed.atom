@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-28T00:52:01.413Z</id>
+    <id>urn:2022-12-29T00:53:35.437Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T00:52:01.413Z</updated>
+    <updated>2022-12-29T00:53:35.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Strong Kinetic-Inductance Kerr Nonlinearity with Titanium Nitride Nanowires]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064088</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064088"/>
+        <updated>2022-12-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chaitali Joshi, Wenyuan Chen, Henry G. LeDuc, Peter K. Day, and Mohammad Mirhosseini
+The kinetic inductance of charge carriers in disordered superconductors provides a broadband low-loss source of nonlinear electromagnetic response. This work investigates TiN nanowires as an alternative to Josephson junctions for applications involving elevated temperatures, higher frequencies, and strong magnetic fields. An extreme nanowire geometry for TiN microwave resonators leads to current-density concentration and enhanced self-Kerr coefficient, yielding a nonlinearity-to-loss ratio as high as 21% and quality factor exceeding 10,000. Such devices may find application in quantum frequency conversion of microwave photons, and with improvement might attain strong quantum nonlinearity.
+
+[Phys. Rev. Applied 18, 064088] Published Wed Dec 28, 2022]]></summary>
+        <author>
+            <name>Chaitali Joshi, Wenyuan Chen, Henry G. LeDuc, Peter K. Day, and Mohammad Mirhosseini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quasibound state in the $\overline{K}NNN$ system]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevC.106.064006</id>
@@ -1160,45 +1173,6 @@ The authors demonstrate a new method for measuring the C6 van der Waals coeffici
 [Phys. Rev. A 106, 052812] Published Wed Nov 30, 2022]]></summary>
         <author>
             <name>Riley A. Stewart, Pinrui Shen, James L. Booth, and Kirk W. Madison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmic Optical Background Excess, Dark Matter, and Line-Intensity Mapping]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.231301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.231301"/>
-        <updated>2022-11-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): José Luis Bernal, Gabriela Sato-Polito, and Marc Kamionkowski
-Axions that decay into photons could account for visible light that exceeds what’s expected to come from all known galaxies.
-
-[Phys. Rev. Lett. 129, 231301] Published Tue Nov 29, 2022]]></summary>
-        <author>
-            <name>José Luis Bernal, Gabriela Sato-Polito, and Marc Kamionkowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augmenting the residue theorem with boundary terms in finite-density calculations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.105026</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.105026"/>
-        <updated>2022-11-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tyler Gorda, Juuso Österman, and Saga Säppi
-Within the framework of the imaginary time formalism applied to systems at zero temperature but finite density, the authors investigate whether the order of integration, namely the spatial momentum integration is performed before that of the temporal momentum or vice versa, matters. They show that the former yields results consistent with those for nonzero but very low values of the temperature whilst the latter does not. They attribute this to the way the limit of the Fermi-Dirac distribution is taken as the temperature goes to zero.
-
-[Phys. Rev. D 106, 105026] Published Tue Nov 29, 2022]]></summary>
-        <author>
-            <name>Tyler Gorda, Juuso Österman, and Saga Säppi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superconductivity and bosonic fluid emerging from moiré flat bands]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.184517</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.184517"/>
-        <updated>2022-11-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xu Zhang, Kai Sun, Heqiu Li, Gaopei Pan, and Zi Yang Meng
-Here, the authors find a phenomenological theory of superconductivity in moiré flat band systems. With decreasing temperature, charge excitations are gapped, while charge excitations exist within the gap, shaping a bosonic fluid. Finite band width breaks the symmetry in these two-dimensional systems, making the bosonic fluid coherent and condense.
-
-[Phys. Rev. B 106, 184517] Published Tue Nov 29, 2022]]></summary>
-        <author>
-            <name>Xu Zhang, Kai Sun, Heqiu Li, Gaopei Pan, and Zi Yang Meng</name>
         </author>
     </entry>
 </feed>
