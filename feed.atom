@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T00:53:28.087Z</id>
+    <id>urn:2022-12-31T00:51:20.014Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T00:53:28.087Z</updated>
+    <updated>2022-12-31T00:51:20.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1004,32 +1004,6 @@ In a crucial step for securing many existing quantum technologies, the authors u
 [Phys. Rev. A 106, 062202] Published Fri Dec 02, 2022]]></summary>
         <author>
             <name>Valentin Gebhart and Augusto Smerzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First-Principles Calculations of Shallow Acceptor-Carbon Complexes in $\mathrm{Si}$: A Potential-Patching Method with a Hybrid-Functional Correction]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064001"/>
-        <updated>2022-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jun Kang and Lin-Wang Wang
-Shallow impurities play critical roles in the applications of semiconductor materials, but their simulations through first-principles calculations are challenging due to the delocalized nature of the impurity wave function. The authors propose a first-principles approach to study shallow impurities, which allows simulations of extremely large supercells to obtain converged impurity levels and wave functions. The method is applied to acceptor-carbon complexes in silicon and yields good agreement with experiments. This work thus presents a feasible approach for accurate simulations of shallow impurities and can provide helpful insights to assist experimental dopant engineering.
-
-[Phys. Rev. Applied 18, 064001] Published Thu Dec 01, 2022]]></summary>
-        <author>
-            <name>Jun Kang and Lin-Wang Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triplet-Polaron-Annihilation-Induced Degradation of Organic Light-Emitting Diodes Based on Thermally Activated Delayed Fluorescence]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064002"/>
-        <updated>2022-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Bas van der Zee, Yungui Li, Gert-Jan A.H. Wetzelaer, and Paul W.M. Blom
-Organic light-emitting diodes (OLEDs) based on thermally activated delayed fluorescence (TADF) are alternatives to today’s commercial phosphorescent OLEDs with heavy-metal dopants, but their limited stability remains a key issue. This work provides a quantitative insight into the degradation mechanisms. The authors reproduce the voltage and light output using a recently developed device model, and find that triplet-polaron annihilation is the driving force behind the formation of degradation traps. This understanding leads to the experimental demonstration of enhanced device lifetime, and will provide guidance towards improved stability of TADF OLEDs.
-
-[Phys. Rev. Applied 18, 064002] Published Thu Dec 01, 2022]]></summary>
-        <author>
-            <name>Bas van der Zee, Yungui Li, Gert-Jan A.H. Wetzelaer, and Paul W.M. Blom</name>
         </author>
     </entry>
 </feed>
