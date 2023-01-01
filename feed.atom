@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-31T00:51:20.014Z</id>
+    <id>urn:2023-01-01T01:00:13.617Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T00:51:20.014Z</updated>
+    <updated>2023-01-01T01:00:13.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -978,32 +978,6 @@ The scattering of electrons by phonons in semiconductors has been assumed to be 
 [Phys. Rev. B 106, 245201] Published Mon Dec 05, 2022]]></summary>
         <author>
             <name>Peishi S. Cheng, Jiace Sun, Shi-Ning Sun, Alexander Y. Choi, and Austin J. Minnich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient simulation of dynamics in two-dimensional quantum spin systems with isometric tensor networks]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.245102</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.245102"/>
-        <updated>2022-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sheng-Hsuan Lin, Michael P. Zaletel, and Frank Pollmann
-Simulating the dynamics of finite two-dimensional (2D) quantum many-body systems poses challenges to numerical methods due to the exponential growth of the many-body Hilbert space. In this work, the authors explore the variational power of recently introduced isometric tensor network states (isoTNS) — a subset of general tensor-network states that allow an efficient numerical simulation. As a efficient tool to find ground states, the variational density matrix renormalization group (DMRG2) is introduced. It is then demonstrated that dynamical correlation functions for the 2D transverse field Ising model and the Kitaev Honeycomb model can be obtained.
-
-[Phys. Rev. B 106, 245102] Published Fri Dec 02, 2022]]></summary>
-        <author>
-            <name>Sheng-Hsuan Lin, Michael P. Zaletel, and Frank Pollmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coincidence postselection for genuine multipartite nonlocality: Causal diagrams and threshold efficiencies]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.062202</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.062202"/>
-        <updated>2022-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Valentin Gebhart and Augusto Smerzi
-In a crucial step for securing many existing quantum technologies, the authors use causal diagrams to close the detection loophole in multipartite nonlocality demonstrations. Their results also imply that genuine N-partite nonlocality can be created from N independent photon sources.
-
-[Phys. Rev. A 106, 062202] Published Fri Dec 02, 2022]]></summary>
-        <author>
-            <name>Valentin Gebhart and Augusto Smerzi</name>
         </author>
     </entry>
 </feed>

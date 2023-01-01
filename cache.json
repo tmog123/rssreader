@@ -371,7 +371,7 @@
           "description": "Author(s): Nicholas Sbalbi, Qi Li, and Eric M. Furst\nDiffusing wave spectroscopy is a light scattering technique that is used to study the dynamics soft materials such as suspensions and gels. In this paper the authors show how interactions between the scattering particles affect the results: the effect is negligible if the scatterers are large enough, but it is significant when the particles are sufficiently small.\n\n[Phys. Rev. E 106, 064609] Published Fri Dec 16, 2022",
           "link": "http://link.aps.org/doi/10.1103/PhysRevE.106.064609",
           "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 1002,
+          "wordCount": 1003,
           "title": "Effect of scatterer interactions on photon transport in diffusing wave spectroscopy",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.106.064609.png"
         },
@@ -754,26 +754,6 @@
           "wordCount": 1309,
           "title": "High-field transport and hot-electron noise in GaAs from first-principles calculations: Role of two-phonon scattering",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.245201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.245102",
-          "author": "Sheng-Hsuan Lin, Michael P. Zaletel, and Frank Pollmann",
-          "description": "Author(s): Sheng-Hsuan Lin, Michael P. Zaletel, and Frank Pollmann\nSimulating the dynamics of finite two-dimensional (2D) quantum many-body systems poses challenges to numerical methods due to the exponential growth of the many-body Hilbert space. In this work, the authors explore the variational power of recently introduced isometric tensor network states (isoTNS) — a subset of general tensor-network states that allow an efficient numerical simulation. As a efficient tool to find ground states, the variational density matrix renormalization group (DMRG2) is introduced. It is then demonstrated that dynamical correlation functions for the 2D transverse field Ising model and the Kitaev Honeycomb model can be obtained.\n\n[Phys. Rev. B 106, 245102] Published Fri Dec 02, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.245102",
-          "publishedOn": "2022-12-02T10:00:00.000Z",
-          "wordCount": 1972,
-          "title": "Efficient simulation of dynamics in two-dimensional quantum spin systems with isometric tensor networks",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.245102.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.062202",
-          "author": "Valentin Gebhart and Augusto Smerzi",
-          "description": "Author(s): Valentin Gebhart and Augusto Smerzi\nIn a crucial step for securing many existing quantum technologies, the authors use causal diagrams to close the detection loophole in multipartite nonlocality demonstrations. Their results also imply that genuine N-partite nonlocality can be created from N independent photon sources.\n\n[Phys. Rev. A 106, 062202] Published Fri Dec 02, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.106.062202",
-          "publishedOn": "2022-12-02T10:00:00.000Z",
-          "wordCount": 1071,
-          "title": "Coincidence postselection for genuine multipartite nonlocality: Causal diagrams and threshold efficiencies",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.106.062202.png"
         }
       ]
     }
