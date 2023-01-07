@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T00:55:21.034Z</id>
+    <id>urn:2023-01-07T00:52:15.475Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T00:55:21.034Z</updated>
+    <updated>2023-01-07T00:52:15.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robustness and Universality in Organelle Size Control]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.018401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.018401"/>
+        <updated>2023-01-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kiandokht Panjtan Amiri, Asa Kalish, and Shankar Mukherji
+A new “bursty growth” model for organelles—internal components of biological cells—helps explain observed size fluctuations.
+
+[Phys. Rev. Lett. 130, 018401] Published Fri Jan 06, 2023]]></summary>
+        <author>
+            <name>Kiandokht Panjtan Amiri, Asa Kalish, and Shankar Mukherji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andreev reflection spectroscopy in strongly paired superconductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L020502</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L020502"/>
+        <updated>2023-01-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Cyprian Lewandowski, Étienne Lantagne-Hurtubise, Alex Thomson, Stevan Nadj-Perge, and Jason Alicea
+One of the challenges in the pursuit of solid state BEC superconductors is the need for unambiguous experimental signatures. Here, the authors propose a new signature, relying on Andreev reflection, which distinguishes BEC from BCS superconductors. They demonstrate that, in a standard tunneling spectroscopy setup, a BEC superconductor exhibits suppressed Andreev reflection; however, if the tunneling barrier becomes a potential well, then appreciable Andreev reflection can be revived. Their predictions can be probed in various architectures that are also discussed.
+
+[Phys. Rev. B 107, L020502] Published Fri Jan 06, 2023]]></summary>
+        <author>
+            <name>Cyprian Lewandowski, Étienne Lantagne-Hurtubise, Alex Thomson, Stevan Nadj-Perge, and Jason Alicea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intense continuous cold-atom source]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.013302</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.013302"/>
+        <updated>2023-01-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): William Huntington, Jeremy Glick, Michael Borysow, and Daniel J. Heinzen
+The authors demonstrate an intense, continuous cold atomic beam generated via postnozzle seeding of a supersonic 4He jet with 7Li atoms, which is comparable to the highest flux sources based on laser cooling. The technique could potentially be widely applicable to any paramagnetic atom or molecule.
+
+[Phys. Rev. A 107, 013302] Published Fri Jan 06, 2023]]></summary>
+        <author>
+            <name>William Huntington, Jeremy Glick, Michael Borysow, and Daniel J. Heinzen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the Regime of Fragmentation in Strongly Tilted Fermi-Hubbard Chains]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.010201</id>
@@ -938,97 +977,6 @@ The one-unit-cell FeSe thin film on SrTiO3 with superconductive Tc above 60K wit
 [Phys. Rev. B 106, 245112] Published Fri Dec 09, 2022]]></summary>
         <author>
             <name>Jingdong Shen, Wenxiang Jiang, Fengfeng Zhu, Guan-yong Wang, Huayao Li, Gan Zhao, Qian Li, Wensheng Yan, Wanli Yang, Yi-De Chuang, Jin-feng Jia, Dong Qian, L. Andrew Wray, and Lin Miao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Persistent current oscillations in a double-ring quantum gas]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043171</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043171"/>
-        <updated>2022-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. Bland, I. V. Yatsuta, M. Edwards, Y. O. Nikolaieva, A. O. Oliinyk, A. I. Yakimenko, and N. P. Proukakis
-By introducing a repulsive barrier at the interface between two density-coupled rings of ultracold atoms, a persistent current can oscillate between the rings. The phenomenon persists indefinitely in the limit of zero temperature, but it decays at finite temperature and can even be suppressed completely in the limit of large damping.
-
-[Phys. Rev. Research 4, 043171] Published Thu Dec 08, 2022]]></summary>
-        <author>
-            <name>T. Bland, I. V. Yatsuta, M. Edwards, Y. O. Nikolaieva, A. O. Oliinyk, A. I. Yakimenko, and N. P. Proukakis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perturbative Confinement in Thermal Yang-Mills Theories Induced by Imaginary Angular Velocity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.242002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.242002"/>
-        <updated>2022-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Shi Chen, Kenji Fukushima, and Yusuke Shimada
-A mathematical framework where gluons rotate with an imaginary angular velocity provides new insight into the problem of color confinement.
-
-[Phys. Rev. Lett. 129, 242002] Published Thu Dec 08, 2022]]></summary>
-        <author>
-            <name>Shi Chen, Kenji Fukushima, and Yusuke Shimada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of a Strongly Isospin-Mixed Doublet in $^{26}\mathrm{Si}$ via $β$-Delayed Two-Proton Decay of $^{26}\mathrm{P}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.242502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.242502"/>
-        <updated>2022-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): J. J. Liu (刘嘉健) et al. (RIBLL Collaboration)
-The isospin mixing between two daughter states from the beta-delayed proton decay of 26P is three times larger than any previously observed mixing.
-
-[Phys. Rev. Lett. 129, 242502] Published Thu Dec 08, 2022]]></summary>
-        <author>
-            <name>J. J. Liu (刘嘉健) &lt;em&gt;et al.&lt;/em&gt; (RIBLL Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitigation of the turbulence within an arteriovenous fistula with a stent implantation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.7.123101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.7.123101"/>
-        <updated>2022-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sanjiv Gunasekera, Tracie Barber, Olivia Ng, Shannon Thomas, Ramon Varcoe, and Charitha de Silva
-Transitional flow within an arteriovenous fistula (AVF) leads to vascular disease, which can be treated by implanting a stent. Large Eddy Simulations of blood flow within a patient-specific AVF revealed the significantly higher turbulent behavior in the Stent-absent AVF when compared to the Stented AVF. This finding provides key understanding of the reasons behind the success of this treatment strategy from a fluid dynamics perspective.
-
-[Phys. Rev. Fluids 7, 123101] Published Thu Dec 08, 2022]]></summary>
-        <author>
-            <name>Sanjiv Gunasekera, Tracie Barber, Olivia Ng, Shannon Thomas, Ramon Varcoe, and Charitha de Silva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foot function enabled by human walking dynamics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.106.064405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.106.064405"/>
-        <updated>2022-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daniel Renjewski, Susanne Lipfert, and Michael Günther
-When humans walk, our feet act as levers rather than landing pads as previously thought.
-
-[Phys. Rev. E 106, 064405] Published Thu Dec 08, 2022]]></summary>
-        <author>
-            <name>Daniel Renjewski, Susanne Lipfert, and Michael Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coherence Properties of Electron-Beam-Activated Emitters in Hexagonal Boron Nitride Under Resonant Excitation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064021</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064021"/>
-        <updated>2022-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jake Horder, Simon J.U. White, Angus Gale, Chi Li, Kenji Watanabe, Takashi Taniguchi, Mehran Kianinia, Igor Aharonovich, and Milos Toth
-Lattice defects in two-dimensional materials are compelling sources of single photons for applications in quantum information processing. However, the range of emission wavelengths is broad, the defect types vary and the atomic structures of most are unknown, and the inability to fabricate defects systematically on demand has limited progress. This work leverages a robust, site-specific fabrication technique to produce arrays of blue quantum emitters for study via cryogenic spectroscopy. The authors characterize processes that limit emitter coherence and observe Rabi oscillations, demonstrating the potential of these defects for scalable quantum technologies.
-
-[Phys. Rev. Applied 18, 064021] Published Thu Dec 08, 2022]]></summary>
-        <author>
-            <name>Jake Horder, Simon J.U. White, Angus Gale, Chi Li, Kenji Watanabe, Takashi Taniguchi, Mehran Kianinia, Igor Aharonovich, and Milos Toth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Echo-enhanced molecular orientation at high temperatures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.L061101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.L061101"/>
-        <updated>2022-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ilia Tutunnikov, Long Xu, Yehiam Prior, and Ilya Sh. Averbukh
-Efficient molecular orientation at high temperatures is induced by a terahertz pulse with the help of an intense nonresonant laser prepulse that dissects rotational phase space to narrow filaments. The authors use the echo effect to synchronize the terahertz response of all the filaments, leading to much enhanced orientation compared to other techniques.
-
-[Phys. Rev. A 106, L061101] Published Thu Dec 08, 2022]]></summary>
-        <author>
-            <name>Ilia Tutunnikov, Long Xu, Yehiam Prior, and Ilya Sh. Averbukh</name>
         </author>
     </entry>
 </feed>
