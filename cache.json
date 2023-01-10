@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.028101",
+          "author": "Y. Gao, J. E. Paul, M. Chen, L. Hong, L. P. Chamorro, N. R. Sottos, and P. H. Geubelle",
+          "description": "Author(s): Y. Gao, J. E. Paul, M. Chen, L. Hong, L. P. Chamorro, N. R. Sottos, and P. H. Geubelle\nA model of frontal polymerization for a reaction-diffusion-convection fluid enables fabrication of polymeric materials with controllable patterns and heterogeneous properties in closed-mold systems.\n\n[Phys. Rev. Lett. 130, 028101] Published Mon Jan 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.028101",
+          "publishedOn": "2023-01-09T10:00:00.000Z",
+          "wordCount": 986,
+          "title": "Buoyancy-Induced Convection Driven by Frontal Polymerization",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.028101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.013601",
+          "author": "L. Betti, C. Cohen, and X. Noblin",
+          "description": "Author(s): L. Betti, C. Cohen, and X. Noblin\nWe performed a new experiment of mechanical impact on a plate supporting a breath figure on its bottom surface. Although breath figures mature usually slowly, we show that the droplets pattern evolves here dramatically in a few milliseconds leading to a strong droplets number reduction above a threshold in acceleration. We interpret this by the droplets radii oscillations produced which then induce droplets contacting and coalescing with each other in a fascinating manner. Introducing an effective Bond number, coupling the droplets’ average initial radii and the acceleration amplitude, leads to a data collapse on a single master curve.\n\n[Phys. Rev. Fluids 8, 013601] Published Mon Jan 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.013601",
+          "publishedOn": "2023-01-09T10:00:00.000Z",
+          "wordCount": 956,
+          "title": "Mechanical impact on a breath figure",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.013601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.107.015802",
+          "author": "Takashi Nakatsukasa",
+          "description": "Author(s): Takashi Nakatsukasa\nCalculations for nuclear structure at high excitation energy or of nuclear matter in explosive stellar phenomena and neutron stars require intensive computations. The author tests the performance of a numerical method based on Fermi operator expansion that requires neither diagonalization nor Gram-Schmidt orthonormalization. The approach is suitable for massively parallel computing with distributed memory, and the calculations promise to scale well for large space sizes. Applied to finite nuclei and inhomogeneous nuclear matter, the method is efficient at high temperature, and the calculations clearly show the liquid-gas phase transition.\n\n[Phys. Rev. C 107, 015802] Published Mon Jan 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.015802",
+          "publishedOn": "2023-01-09T10:00:00.000Z",
+          "wordCount": 1497,
+          "title": "Fermi operator expansion method for nuclei and inhomogeneous matter with a nuclear energy density functional",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.015802.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.018401",
           "author": "Kiandokht Panjtan Amiri, Asa Kalish, and Shankar Mukherji",
           "description": "Author(s): Kiandokht Panjtan Amiri, Asa Kalish, and Shankar Mukherji\nA new “bursty growth” model for organelles—internal components of biological cells—helps explain observed size fluctuations.\n\n[Phys. Rev. Lett. 130, 018401] Published Fri Jan 06, 2023",
