@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T00:54:43.861Z</id>
+    <id>urn:2023-01-12T00:55:26.251Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T00:54:43.862Z</updated>
+    <updated>2023-01-12T00:55:26.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Phase Transition in the One-Dimensional Water Chain]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.026201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.026201"/>
+        <updated>2023-01-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): T. Serwatka, R. G. Melko, A. Burkov, and P.-N. Roy
+Water molecules that are close enough to “see” each other but far enough apart to be gas-like can undergo a quantum phase transition, a finding of relevance for making future water-based quantum devices.
+
+[Phys. Rev. Lett. 130, 026201] Published Wed Jan 11, 2023]]></summary>
+        <author>
+            <name>T. Serwatka, R. G. Melko, A. Burkov, and P.-N. Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rhythms from Two Competing Periodic Sources Embedded in an Excitable Medium]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.028401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.028401"/>
+        <updated>2023-01-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Khady Diagne, Thomas M. Bury, Marc W. Deyell, Zachary Laksman, Alvin Shrier, Gil Bub, and Leon Glass
+Computer simulations and experiments with cardiac cells identify signatures of a condition in which two sets of pacemaker cells lead to an abnormal heartbeat.
+
+[Phys. Rev. Lett. 130, 028401] Published Wed Jan 11, 2023]]></summary>
+        <author>
+            <name>Khady Diagne, Thomas M. Bury, Marc W. Deyell, Zachary Laksman, Alvin Shrier, Gil Bub, and Leon Glass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<i>Ab initio</i> study of metastable occupation of tetrahedral sites in palladium hydrides and its impact on superconductivity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.024504</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.024504"/>
+        <updated>2023-01-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Antonella Meninno and Ion Errea
+Palladium hydride is one of the rare examples of superconducting hydrides at ambient pressure, exhibiting a critical temperature of 10 K in its equilibrium structure, with hydrogen atoms occupying octahedral interstitial sites of the palladium fcc lattice. Making use of ab initio calculations considering quantum anharmonic lattice effects, the authors show here that full or partial occupation of tetrahedral sites is possible in metastable structures, but that their superconducting critical temperature is lower than the equilibrium case with full octahedral occupation.
+
+[Phys. Rev. B 107, 024504] Published Wed Jan 11, 2023]]></summary>
+        <author>
+            <name>Antonella Meninno and Ion Errea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Origin of the Reactor Antineutrino Anomalies in Light of a New Summation Model with Parametrized ${β}^{−}$ Transitions]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.021801</id>
@@ -925,19 +964,6 @@ In spin-based quantum processors, each quantum dot of a qubit is populated by ex
 [Phys. Rev. Applied 18, 064040] Published Wed Dec 14, 2022]]></summary>
         <author>
             <name>Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extraterrestrial Axion Search with the Breakthrough Listen Galactic Center Survey]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.251102</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.251102"/>
-        <updated>2022-12-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Joshua W. Foster, Samuel J. Witte, Matthew Lawson, Tim Linden, Vishal Gajjar, Christoph Weniger, and Benjamin R. Safdi
-A neutron star’s ultrastrong magnetic field could create the conditions for uncloaking a promising dark matter candidate.
-
-[Phys. Rev. Lett. 129, 251102] Published Tue Dec 13, 2022]]></summary>
-        <author>
-            <name>Joshua W. Foster, Samuel J. Witte, Matthew Lawson, Tim Linden, Vishal Gajjar, Christoph Weniger, and Benjamin R. Safdi</name>
         </author>
     </entry>
 </feed>
