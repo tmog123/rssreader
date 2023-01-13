@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023001",
+          "author": "Colin Rylands, Pasquale Calabrese, and Bruno Bertini",
+          "description": "Author(s): Colin Rylands, Pasquale Calabrese, and Bruno Bertini\nAn exact solution for the BEC-BCS quench in one dimension is modeled using the attractive Yang-Gaudin model quenched from a molecular BEC initial state.\n\n[Phys. Rev. Lett. 130, 023001] Published Thu Jan 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023001",
+          "publishedOn": "2023-01-12T10:00:00.000Z",
+          "wordCount": 949,
+          "title": "Solution of the BEC to BCS Quench in One Dimension",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.023001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023002",
+          "author": "Yi-Quan Zou, Moritz Berngruber, Viraatt S. V. Anasuri, Nicolas Zuber, Florian Meinert, Robert Löw, and Tilman Pfau",
+          "description": "Author(s): Yi-Quan Zou, Moritz Berngruber, Viraatt S. V. Anasuri, Nicolas Zuber, Florian Meinert, Robert Löw, and Tilman Pfau\nResearchers have recorded for the first time the dynamics of vibrating Rydberg molecules, the slow-motion counterparts of regular molecules.\n\n[Phys. Rev. Lett. 130, 023002] Published Thu Jan 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023002",
+          "publishedOn": "2023-01-12T10:00:00.000Z",
+          "wordCount": 1244,
+          "title": "Observation of Vibrational Dynamics of Orientated Rydberg-Atom-Ion Molecules",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.023002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.014305",
+          "author": "Jonathan A. Sobota, Samuel W. Teitelbaum, Yijing Huang, José D. Querales-Flores, Robert Power, Meabh Allen, Costel R. Rotundu, Trevor P. Bailey, Ctirad Uher, Tom Henighan, Mason Jiang, Diling Zhu, Matthieu Chollet, Takahiro Sato, Mariano Trigo, Éamonn D. Murray, Ivana Savić, Patrick S. Kirchmann, Stephen Fahy, David A. Reis, and Zhi-Xun Shen",
+          "description": "Author(s): Jonathan A. Sobota, Samuel W. Teitelbaum, Yijing Huang, José D. Querales-Flores, Robert Power, Meabh Allen, Costel R. Rotundu, Trevor P. Bailey, Ctirad Uher, Tom Henighan, Mason Jiang, Diling Zhu, Matthieu Chollet, Takahiro Sato, Mariano Trigo, Éamonn D. Murray, Ivana Savić, Patrick S. Kirchmann, Stephen Fahy, David A. Reis, and Zhi-Xun Shen\nAn ongoing challenge is to manipulate topological states using ultrafast pulses of light. One strategy is lattice engineering, whereby the surface state wavefunctions are modified through light-induced structural distortions. Here, the authors perform time-resolved photoemission, time-resolved diffraction, and theoretical calculations to reveal how topological surface states couple to photoinduced lattice vibrations. They show how the surface vibrational spectrum is qualitatively different from that of the bulk due to the translational and inversion symmetries broken at the surface.\n\n[Phys. Rev. B 107, 014305] Published Thu Jan 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.014305",
+          "publishedOn": "2023-01-12T10:00:00.000Z",
+          "wordCount": 1815,
+          "title": "Influence of local symmetry on lattice dynamics coupled to topological surface states",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.014305.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.014409",
+          "author": "R. G. Hunt, K. J. A. Franke, P. M. Shepley, and T. A. Moore",
+          "description": "Author(s): R. G. Hunt, K. J. A. Franke, P. M. Shepley, and T. A. Moore\nThe coupling of ferroelectric and ferromagnetic order holds promise for the realization of low-energy voltage-controlled multiferroic devices. Here, the authors show that using a (111)-oriented BaTiO3 substrate it is possible to create two distinct strain-coupled regions in a deposited CoFeB film, in which the in-plane magnetic easy axis rotates by either 60 or 120 degrees. These regions, which exist side by side in a sample heterostructure, contain different magnetic domain wall structures that exhibit different dependences on magnetic field.\n\n[Phys. Rev. B 107, 014409] Published Thu Jan 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.014409",
+          "publishedOn": "2023-01-12T10:00:00.000Z",
+          "wordCount": 1140,
+          "title": "Strain-coupled domains in ${\\mathrm{BaTiO}}_{3}(111)\\text{−}\\mathrm{CoFeB}$ heterostructures",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.014409.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.013508",
+          "author": "Dominik Beutel, Ivan Fernandez-Corbaton, and Carsten Rockstuhl",
+          "description": "Author(s): Dominik Beutel, Ivan Fernandez-Corbaton, and Carsten Rockstuhl\nThe authors derive expressions for lattice sums of solutions of the Helmholtz equation in two and three dimensions that can be efficiently evaluated in numerical implementations. The results are applicable to complex materials involving multiple sublattices, describing systems including metasurfaces and moire superlattices.\n\n[Phys. Rev. A 107, 013508] Published Thu Jan 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.013508",
+          "publishedOn": "2023-01-12T10:00:00.000Z",
+          "wordCount": 1242,
+          "title": "Unified lattice sums accommodating multiple sublattices for solutions of the Helmholtz equation in two and three dimensions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.013508.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.026201",
           "author": "T. Serwatka, R. G. Melko, A. Burkov, and P.-N. Roy",
           "description": "Author(s): T. Serwatka, R. G. Melko, A. Burkov, and P.-N. Roy\nWater molecules that are close enough to “see” each other but far enough apart to be gas-like can undergo a quantum phase transition, a finding of relevance for making future water-based quantum devices.\n\n[Phys. Rev. Lett. 130, 026201] Published Wed Jan 11, 2023",
@@ -704,46 +754,6 @@
           "wordCount": 1008,
           "title": "Liquid-Liquid Transition in Water from First Principles",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.255702.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040328",
-          "author": "Bo L. Dwyer, Lila V.H. Rodgers, Elana K. Urbach, Dolev Bluvstein, Sorawis Sangtawesin, Hengyun Zhou, Yahia Nassab, Mattias Fitzpatrick, Zhiyang Yuan, Kristiaan De Greve, Eric L. Peterson, Helena Knowles, Tamara Sumarac, Jyh-Pin Chou, Adam Gali, V.V. Dobrovitski, Mikhail D. Lukin, and Nathalie P. de Leon",
-          "description": "Author(s): Bo L. Dwyer, Lila V.H. Rodgers, Elana K. Urbach, Dolev Bluvstein, Sorawis Sangtawesin, Hengyun Zhou, Yahia Nassab, Mattias Fitzpatrick, Zhiyang Yuan, Kristiaan De Greve, Eric L. Peterson, Helena Knowles, Tamara Sumarac, Jyh-Pin Chou, Adam Gali, V.V. Dobrovitski, Mikhail D. Lukin, and Nathalie P. de Leon\nA detailed analysis of the coherence decay of a nanoscale sensor shows that ubiquitous spins on the diamond surface are mobile and reveals the potential of local sensors to investigate the dynamics of complex systems.\n\n[PRX Quantum 3, 040328] Published Wed Dec 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.3.040328",
-          "publishedOn": "2022-12-14T10:00:00.000Z",
-          "wordCount": 3417,
-          "title": "Probing Spin Dynamics on Diamond Surfaces Using a Single Quantum Sensor",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.3.040328.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.255901",
-          "author": "M. E. Manley, A. F. May, B. L. Winn, D. L. Abernathy, R. Sahul, and R. P. Hermann",
-          "description": "Author(s): M. E. Manley, A. F. May, B. L. Winn, D. L. Abernathy, R. Sahul, and R. P. Hermann\nHeat-transport measurements and neutron-scattering spectroscopy probe a form of thermal conduction based on excitations called phasons.\n\n[Phys. Rev. Lett. 129, 255901] Published Wed Dec 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.255901",
-          "publishedOn": "2022-12-14T10:00:00.000Z",
-          "wordCount": 1055,
-          "title": "Phason-Dominated Thermal Transport in Fresnoite",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.255901.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L220403",
-          "author": "Daichi Hirobe, Yoji Nabei, and Hiroshi M. Yamamoto",
-          "description": "Author(s): Daichi Hirobe, Yoji Nabei, and Hiroshi M. Yamamoto\nChiral conductors exhibit spin-related charge rectification but its controllability is largely unexplored. Here, the authors combine chiral charge rectification with a field-effect transistor of tellurium. They demonstrate a gate-variable hundredfold enhancement of the rectification efficiency and enable quantitative comparison with theoretical calculations which considered chiral spin-momentum locking alongside the Zeeman effect. With this comparison across a wide range of temperature, an unexpected deviation from the conventional theory is revealed, which hints at the relevance of chirality-induced spin selectivity at higher temperatures.\n\n[Phys. Rev. B 106, L220403] Published Wed Dec 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L220403",
-          "publishedOn": "2022-12-14T10:00:00.000Z",
-          "wordCount": 1043,
-          "title": "Chirality-induced intrinsic charge rectification in a tellurium-based field-effect transistor",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L220403.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064040",
-          "author": "Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth",
-          "description": "Author(s): Anasua Chatterjee, Fabio Ansaloni, Torbjørn Rasmussen, Bertram Brovang, Federico Fedele, Heorhii Bohuslavskyi, Oswin Krause, and Ferdinand Kuemmeth\nIn spin-based quantum processors, each quantum dot of a qubit is populated by exactly one electron, which requires careful tuning of each gate voltage such that it lies inside the charge-stability region (the “Coulomb diamond”) associated with the dot array. However, mapping the boundary of a multidimensional Coulomb diamond by traditional dense raster scanning would take years, so the authors develop a sparse acquisition technique that autonomously learns Coulomb-diamond boundaries from a small number of measurements. Here we have hardware-triggered line searches in the gate-voltage space of a silicon quadruple dot, with smart search directions proposed by an active-learning algorithm.\n\n[Phys. Rev. Applied 18, 064040] Published Wed Dec 14, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064040",
-          "publishedOn": "2022-12-14T10:00:00.000Z",
-          "wordCount": 1440,
-          "title": "Autonomous Estimation of High-Dimensional Coulomb Diamonds from Sparse Measurements",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064040.png"
         }
       ]
     }
