@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.013101",
+          "author": "Gen Li, Dmitry Kolomenskiy, Hao Liu, Ramiro Godoy-Diana, and Benjamin Thiria",
+          "description": "Author(s): Gen Li, Dmitry Kolomenskiy, Hao Liu, Ramiro Godoy-Diana, and Benjamin Thiria\nIntermittent swimming has been recognized as a strategy for fish to enhance their energetical efficiency. In this study, a hybrid computational fluid dynamic model is used to assess the swimming performance in intermittent swimming parametrically and quantitatively. The results show that the energetical performance of intermittent swimming can be better than that of continuous swimming, but also that an unoptimized intermittent gait may become very energetically expensive.\n\n[Phys. Rev. Fluids 8, 013101] Published Fri Jan 13, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.013101",
+          "publishedOn": "2023-01-13T10:00:00.000Z",
+          "wordCount": 1463,
+          "title": "Intermittent versus continuous swimming: An optimization tale",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.013101.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023001",
           "author": "Colin Rylands, Pasquale Calabrese, and Bruno Bertini",
           "description": "Author(s): Colin Rylands, Pasquale Calabrese, and Bruno Bertini\nAn exact solution for the BEC-BCS quench in one dimension is modeled using the attractive Yang-Gaudin model quenched from a molecular BEC initial state.\n\n[Phys. Rev. Lett. 130, 023001] Published Thu Jan 12, 2023",
@@ -396,6 +406,16 @@
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064081.png"
         },
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064083",
+          "author": "M.B. Clavel, F. Murphy-Armando, Y. Xie, K.T. Henry, M. Kuhn, R.J. Bodnar, G.A. Khodaparast, D. Smirnov, J.J. Heremans, and M.K. Hudait",
+          "description": "Author(s): M.B. Clavel, F. Murphy-Armando, Y. Xie, K.T. Henry, M. Kuhn, R.J. Bodnar, G.A. Khodaparast, D. Smirnov, J.J. Heremans, and M.K. Hudait\nFor applications such as low-power tunneling transistors and memory, lasers, qubits, and spintronics, there is interest in using strain to enhance carrier mobility in semiconductors. This experimental and theoretical study investigates transport in highly strained germanium, in which multivalley electron conduction emerges. Surprisingly, all conduction occurs via the L valley in Ge for biaxial tensile strain below 1.6%, while above the contribution from the Γ valley increases, with negligible contributions from the underlying strain template.\n\n[Phys. Rev. Applied 18, 064083] Published Tue Dec 27, 2022",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.18.064083",
+          "publishedOn": "2022-12-27T10:00:00.000Z",
+          "wordCount": 1357,
+          "title": "Multivalley Electron Conduction at the Indirect-Direct Crossover Point in Highly Tensile-Strained Germanium",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.064083.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevA.106.062438",
           "author": "Wei Wu and Jun-Hong An",
           "description": "Author(s): Wei Wu and Jun-Hong An\nThe quantum speed limit quantifies the minimum time it takes for a system to evolve under the constraint of quantum mechanics. Here, the authors investigate the quantum speed limit in a continuous-variable system undergoing non-Markovian noise. Their results imply that this limit may be steerable with the use of spectral engineering.\n\n[Phys. Rev. A 106, 062438] Published Tue Dec 27, 2022",
@@ -734,26 +754,6 @@
           "wordCount": 1254,
           "title": "Coexistence of trihexagonal and star-of-David pattern in the charge density wave of the kagome superconductor $A{\\mathrm{V}}_{3}{\\mathrm{Sb}}_{5}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L241106.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043192",
-          "author": "Antoine Marie, Derk P. Kooi, Juri Grossi, Michael Seidl, Ziad H. Musslimani, Klaas J. H. Giesbertz, and Paola Gori-Giorgi",
-          "description": "Author(s): Antoine Marie, Derk P. Kooi, Juri Grossi, Michael Seidl, Ziad H. Musslimani, Klaas J. H. Giesbertz, and Paola Gori-Giorgi\nElectrons that are delocalized in space because of quantum effects can become localized by an external disordered potential (Anderson localization) or by their mutual Coulomb repulsion (Mott/Wigner localization). A simple model addresses what happens when both effects are present, how to quantify the degree of localization, and whether approximate methods can capture the relevant physics.\n\n[Phys. Rev. Research 4, 043192] Published Thu Dec 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.4.043192",
-          "publishedOn": "2022-12-15T10:00:00.000Z",
-          "wordCount": 1217,
-          "title": "Real-space Mott-Anderson electron localization with long-range interactions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.4.043192.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.129.255702",
-          "author": "Thomas E. Gartner, III, Pablo M. Piaggi, Roberto Car, Athanassios Z. Panagiotopoulos, and Pablo G. Debenedetti",
-          "description": "Author(s): Thomas E. Gartner, III, Pablo M. Piaggi, Roberto Car, Athanassios Z. Panagiotopoulos, and Pablo G. Debenedetti\nComputations support the 30-year-old idea that supercooled liquid water can undergo a transition between high- and low-density states.\n\n[Phys. Rev. Lett. 129, 255702] Published Thu Dec 15, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.129.255702",
-          "publishedOn": "2022-12-15T10:00:00.000Z",
-          "wordCount": 1008,
-          "title": "Liquid-Liquid Transition in Water from First Principles",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.129.255702.png"
         }
       ]
     }

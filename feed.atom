@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T00:55:53.726Z</id>
+    <id>urn:2023-01-14T00:51:29.396Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T00:55:53.726Z</updated>
+    <updated>2023-01-14T00:51:29.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intermittent versus continuous swimming: An optimization tale]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.013101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.013101"/>
+        <updated>2023-01-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Gen Li, Dmitry Kolomenskiy, Hao Liu, Ramiro Godoy-Diana, and Benjamin Thiria
+Intermittent swimming has been recognized as a strategy for fish to enhance their energetical efficiency. In this study, a hybrid computational fluid dynamic model is used to assess the swimming performance in intermittent swimming parametrically and quantitatively. The results show that the energetical performance of intermittent swimming can be better than that of continuous swimming, but also that an unoptimized intermittent gait may become very energetically expensive.
+
+[Phys. Rev. Fluids 8, 013101] Published Fri Jan 13, 2023]]></summary>
+        <author>
+            <name>Gen Li, Dmitry Kolomenskiy, Hao Liu, Ramiro Godoy-Diana, and Benjamin Thiria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solution of the BEC to BCS Quench in One Dimension]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.023001</id>
@@ -512,6 +525,19 @@ Unraveling the complex behavior of wet granular media has been challenging, beca
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Multivalley Electron Conduction at the Indirect-Direct Crossover Point in Highly Tensile-Strained Germanium]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064083</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064083"/>
+        <updated>2022-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M.B. Clavel, F. Murphy-Armando, Y. Xie, K.T. Henry, M. Kuhn, R.J. Bodnar, G.A. Khodaparast, D. Smirnov, J.J. Heremans, and M.K. Hudait
+For applications such as low-power tunneling transistors and memory, lasers, qubits, and spintronics, there is interest in using strain to enhance carrier mobility in semiconductors. This experimental and theoretical study investigates transport in highly strained germanium, in which multivalley electron conduction emerges. Surprisingly, all conduction occurs via the L valley in Ge for biaxial tensile strain below 1.6%, while above the contribution from the Γ valley increases, with negligible contributions from the underlying strain template.
+
+[Phys. Rev. Applied 18, 064083] Published Tue Dec 27, 2022]]></summary>
+        <author>
+            <name>M.B. Clavel, F. Murphy-Armando, Y. Xie, K.T. Henry, M. Kuhn, R.J. Bodnar, G.A. Khodaparast, D. Smirnov, J.J. Heremans, and M.K. Hudait</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quantum speed limit of a noisy continuous-variable system]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevA.106.062438</id>
         <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.062438"/>
@@ -951,32 +977,6 @@ Understanding the nature of the exotic CDW order is of crucial importance for un
 [Phys. Rev. B 106, L241106] Published Fri Dec 16, 2022]]></summary>
         <author>
             <name>Yong Hu (胡勇), Xianxin Wu (吴贤新), Brenden R. Ortiz, Xinloong Han (韩欣龙), Nicholas C. Plumb, Stephen D. Wilson, Andreas P. Schnyder, and Ming Shi (史明)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-space Mott-Anderson electron localization with long-range interactions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.4.043192</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.4.043192"/>
-        <updated>2022-12-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Antoine Marie, Derk P. Kooi, Juri Grossi, Michael Seidl, Ziad H. Musslimani, Klaas J. H. Giesbertz, and Paola Gori-Giorgi
-Electrons that are delocalized in space because of quantum effects can become localized by an external disordered potential (Anderson localization) or by their mutual Coulomb repulsion (Mott/Wigner localization). A simple model addresses what happens when both effects are present, how to quantify the degree of localization, and whether approximate methods can capture the relevant physics.
-
-[Phys. Rev. Research 4, 043192] Published Thu Dec 15, 2022]]></summary>
-        <author>
-            <name>Antoine Marie, Derk P. Kooi, Juri Grossi, Michael Seidl, Ziad H. Musslimani, Klaas J. H. Giesbertz, and Paola Gori-Giorgi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid-Liquid Transition in Water from First Principles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.255702</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.255702"/>
-        <updated>2022-12-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Thomas E. Gartner, III, Pablo M. Piaggi, Roberto Car, Athanassios Z. Panagiotopoulos, and Pablo G. Debenedetti
-Computations support the 30-year-old idea that supercooled liquid water can undergo a transition between high- and low-density states.
-
-[Phys. Rev. Lett. 129, 255702] Published Thu Dec 15, 2022]]></summary>
-        <author>
-            <name>Thomas E. Gartner, III, Pablo M. Piaggi, Roberto Car, Athanassios Z. Panagiotopoulos, and Pablo G. Debenedetti</name>
         </author>
     </entry>
 </feed>
