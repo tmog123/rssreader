@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.031802",
+          "author": "K. Abe <em>et al.</em> (Super-Kamiokande Collaboration)",
+          "description": "Author(s): K. Abe et al. (Super-Kamiokande Collaboration)\nInteractions with cosmic rays could make low-mass dark matter particles detectable by neutrino observatories. But an analysis of two decades’ worth of data shows no signs of the particles.\n\n[Phys. Rev. Lett. 130, 031802] Published Wed Jan 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.031802",
+          "publishedOn": "2023-01-18T10:00:00.000Z",
+          "wordCount": 994,
+          "title": "Search for Cosmic-Ray Boosted Sub-GeV Dark Matter Using Recoil Protons at Super-Kamiokande",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.031802.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.036601",
+          "author": "Yang Long and Baile Zhang",
+          "description": "Author(s): Yang Long and Baile Zhang\nAn unsupervised learning approach leads to the classification of topological gapped systems without a priori knowledge of topological invariants.\n\n[Phys. Rev. Lett. 130, 036601] Published Wed Jan 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.036601",
+          "publishedOn": "2023-01-18T10:00:00.000Z",
+          "wordCount": 1170,
+          "title": "Unsupervised Data-Driven Classification of Topological Gapped Systems with Symmetries",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.036601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.014051",
+          "author": "Mojtaba Dehmollaian, Guillaume Lavigne, and Christophe Caloz",
+          "description": "Author(s): Mojtaba Dehmollaian, Guillaume Lavigne, and Christophe Caloz\nOffering a potential pathway to the fantasy of invisibility, cloaking has been a most popular concept since its introduction over 15 years ago. This article furthers the concept by making the cloak transmittable, so as to allow “transmitting without being seen”. This special cloak consists of a concentric set of bianisotropic metasurfaces with a nonreciprocal innermost element, and allows the entity sitting at its center to transmit information at will in a desired direction while remaining invisible in all other directions. Such cloaks may find application in e.g. stealth technology, blockage avoidance, optical illusion, and cooling.\n\n[Phys. Rev. Applied 19, 014051] Published Wed Jan 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.014051",
+          "publishedOn": "2023-01-18T10:00:00.000Z",
+          "wordCount": 1116,
+          "title": "Transmittable Nonreciprocal Cloaking",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.014051.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.033601",
           "author": "D. Zoepfl, M. L. Juan, N. Diaz-Naufal, C. M. F. Schneider, L. F. Deeg, A. Sharafiev, A. Metelmann, and G. Kirchmair",
           "description": "Author(s): D. Zoepfl, M. L. Juan, N. Diaz-Naufal, C. M. F. Schneider, L. F. Deeg, A. Sharafiev, A. Metelmann, and G. Kirchmair\nPhotons in a nonlinear cavity perform “negative” work on a mechanical oscillator, cooling it toward its ground state.\n\n[Phys. Rev. Lett. 130, 033601] Published Tue Jan 17, 2023",
@@ -161,7 +191,7 @@
           "description": "Author(s): Jeremy Bourhill, Weichao Yu, Vincent Vlaminck, Gerrit E. W. Bauer, Giuseppe Ruoso, and Vincent Castel\nIn a circulating cavity magnon polariton (quantized spin wave plus photon, resonating in a microwave chamber), the hybrid state and a noninteracting photonic state rotate in opposite directions—an important phenomenon for generating chiral states of electromagnetic modes in cavity magnonics and microwave engineering, to impart angular momentum upon standing waves. This study demonstrates the unidirectional nature of the mode propagation, paving the way for the generation of a high-power microwave beam with high coherence and narrow bandwidth. The authors also demonstrate how the unidirectional mode propagation results in nonreciprocity of the mode’s transmission amplitudes and phases.\n\n[Phys. Rev. Applied 19, 014030] Published Tue Jan 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.014030",
           "publishedOn": "2023-01-10T10:00:00.000Z",
-          "wordCount": 1251,
+          "wordCount": 1250,
           "title": "Generation of Circulating Cavity Magnon Polaritons",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.014030.png"
         },
@@ -634,36 +664,6 @@
           "wordCount": 1155,
           "title": "Magnetic Imaging with Spin Defects in Hexagonal Boron Nitride",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.18.L061002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.12.041030",
-          "author": "Phoebe Tengdin, Benoit Truc, Alexey Sapozhnik, Lingyao Kong, Nina del Ser, Simone Gargiulo, Ivan Madan, Thomas Schönenberger, Priya R. Baral, Ping Che, Arnaud Magrez, Dirk Grundler, Henrik M. Rønnow, Thomas Lagrange, Jiadong Zang, Achim Rosch, and Fabrizio Carbone",
-          "description": "Author(s): Phoebe Tengdin, Benoit Truc, Alexey Sapozhnik, Lingyao Kong, Nina del Ser, Simone Gargiulo, Ivan Madan, Thomas Schönenberger, Priya R. Baral, Ping Che, Arnaud Magrez, Dirk Grundler, Henrik M. Rønnow, Thomas Lagrange, Jiadong Zang, Achim Rosch, and Fabrizio Carbone\nResearchers control the rotation of a periodic array of magnetic quasiparticles by illuminating the system with a series of precisely timed polarized laser pulses.\n\n[Phys. Rev. X 12, 041030] Published Tue Dec 20, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.12.041030",
-          "publishedOn": "2022-12-20T10:00:00.000Z",
-          "wordCount": 1840,
-          "title": "Imaging the Ultrafast Coherent Control of a Skyrmion Crystal",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.12.041030.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.124409",
-          "author": "J. Solano, O. Gladii, P. Kuntz, Y. Henry, D. Halley, and M. Bailleul",
-          "description": "Author(s): J. Solano, O. Gladii, P. Kuntz, Y. Henry, D. Halley, and M. Bailleul\nThe authors report an experimental separation of the two perpendicular surface anisotropies present in MgO/Fe/MgO epitaxial films through a careful study of inhomogeneous magnetization dynamics. This is achieved by combining the strengths of two experimental techniques: the frequency broadband capabilities of ferromagnetic resonance and the precise determination of non-reciprocal propagation via propagating spin wave spectroscopy. This new experimental approach allows to separate the top and bottom perpendicular surface anisotropies often measured together in thin films, and it provides new light into the technologically-relevant ferromagnet/MgO interfaces and their effect on spin waves.\n\n[Phys. Rev. Materials 6, 124409] Published Tue Dec 20, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.6.124409",
-          "publishedOn": "2022-12-20T10:00:00.000Z",
-          "wordCount": 1377,
-          "title": "Spin-wave study of magnetic perpendicular surface anisotropy in single crystalline MgO/Fe/MgO films",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.6.124409.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.106.L220504",
-          "author": "Michał Papaj and Joel E. Moore",
-          "description": "Author(s): Michał Papaj and Joel E. Moore\nWhile optical techniques are fundamental in the investigation of the superconducting state, in many clean superconductors the combination of particle-hole and inversion symmetries prevents momentum-conserving transitions. Here, the authors show that by driving supercurrent through the sample optical transitions across the superconducting gap become allowed even in clean single-band systems. As the signal depends strongly on the superconducting pairing as well as on the underlying normal state, supercurrent-driven optical conductivity provides a new way of determining the superconducting state properties.\n\n[Phys. Rev. B 106, L220504] Published Tue Dec 20, 2022",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.106.L220504",
-          "publishedOn": "2022-12-20T10:00:00.000Z",
-          "wordCount": 982,
-          "title": "Current-enabled optical conductivity of superconductors",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.106.L220504.png"
         }
       ]
     }
