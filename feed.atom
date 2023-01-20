@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-19T00:56:13.897Z</id>
+    <id>urn:2023-01-20T00:55:33.380Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T00:56:13.897Z</updated>
+    <updated>2023-01-20T00:55:33.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spin-orbit enhancement in Si/SiGe heterostructures with oscillating Ge concentration]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.035418</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.035418"/>
+        <updated>2023-01-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Benjamin D. Woods, M. A. Eriksson, Robert Joynt, and Mark Friesen
+Electrons in Si/SiGe quantum dots are a promising platform for quantum computation. Many leading designs, however, rely on synthetic spin-orbit coupling arising from micromagnets, leading to challenges in scaling. Here, it is shown that the intrinsic spin-orbit coupling of the conduction-band valleys can be enhanced by over an order of magnitude by including Ge concentration oscillations of an appropriate wavelength within the quantum-well region. This enables fast spin manipulation using electric dipole spin resonance in the absence of micromagnets.
+
+[Phys. Rev. B 107, 035418] Published Thu Jan 19, 2023]]></summary>
+        <author>
+            <name>Benjamin D. Woods, M. A. Eriksson, Robert Joynt, and Mark Friesen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Characterizing random-singlet state in two-dimensional frustrated quantum magnets and implications for the double perovskite ${\mathrm{Sr}}_{2}{\mathrm{CuTe}}_{1−x}{\mathrm{W}}_{x}{\mathrm{O}}_{6}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L020407</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L020407"/>
+        <updated>2023-01-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Huan-Da Ren, Tian-Yu Xiong, Han-Qing Wu, D. N. Sheng, and Shou-Shu Gong
+Understanding disorder-induced exotic states in two-dimensional magnets is one of the central topics in the study of frustrated magnetism. Here, the authors focus on the randomness-induced disordered phase in the spin-½ J1−J2 square-lattice Heisenberg model with a strong bond randomness, by using large-scale density matrix renormalization group (DMRG) simulations. The results not only reveal the absent spin-glass order, but also identify the power-law decay of the average spin correlation and the exponential decay of the typical spin correlation. These all agree with the corresponding behavior in the one-dimensional random-singlet state and characterize the random-singlet nature of this disordered phase. This shows that DMRG simulations provide opportunities for exploring the disorder effect in two-dimensional magnets.
+
+[Phys. Rev. B 107, L020407] Published Thu Jan 19, 2023]]></summary>
+        <author>
+            <name>Huan-Da Ren, Tian-Yu Xiong, Han-Qing Wu, D. N. Sheng, and Shou-Shu Gong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raman Wavelength Conversion in Ionic Liquids]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.014052</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.014052"/>
+        <updated>2023-01-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rotem Kupfer, Furong Wang, James F. Wishart, Marcus Babzien, Mikhail N. Polyanskiy, Igor V. Pogorelsky, Triveni Rao, Luca Cultrera, Navid Vafaei-Najafabadi, and Mark A. Palmer
+Artificial salts that are liquid at room temperature can be used to efficiently tune the wavelength of a laser source.
+
+[Phys. Rev. Applied 19, 014052] Published Thu Jan 19, 2023]]></summary>
+        <author>
+            <name>Rotem Kupfer, Furong Wang, James F. Wishart, Marcus Babzien, Mikhail N. Polyanskiy, Igor V. Pogorelsky, Triveni Rao, Luca Cultrera, Navid Vafaei-Najafabadi, and Mark A. Palmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unconventional Charge-to-Spin Conversion in Graphene/${\mathrm{Mo}\mathrm{Te}}_{2}$ van der Waals Heterostructures]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.014053</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.014053"/>
+        <updated>2023-01-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Nerea Ontoso, C. K. Safeer, Franz Herling, Josep Ingla-Aynés, Haozhe Yang, Zhendong Chi, Beatriz Martin-Garcia, Iñigo Robredo, Maia G. Vergniory, Fernando de Juan, M. Reyes Calvo, Luis E. Hueso, and Fèlix Casanova
+Spin-charge interconversion phenomena are important ingredients for the development of post-CMOS spin-based logic and magnetic memory technologies. Device design is often limited, though, by the fact that in most systems conversion occurs only if charge current, spin current, and spin polarization are mutually orthogonal. The authors find that in graphene/MoTe2 van der Waals heterostructures, charge currents injected in any spatial direction contribute to the same particular spin-polarization direction, thanks to a combination of strong spin-orbit proximity effects and broken crystal symmetries. This insight points to efficient spin-current generation and flexible device design.
+
+[Phys. Rev. Applied 19, 014053] Published Thu Jan 19, 2023]]></summary>
+        <author>
+            <name>Nerea Ontoso, C. K. Safeer, Franz Herling, Josep Ingla-Aynés, Haozhe Yang, Zhendong Chi, Beatriz Martin-Garcia, Iñigo Robredo, Maia G. Vergniory, Fernando de Juan, M. Reyes Calvo, Luis E. Hueso, and Fèlix Casanova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search for entanglement in the decay dynamics and anisotropic emission of a pair of $\mathrm{H}(2p)$ atoms produced by XUV photodissociation of ${\text{H}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.013109</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.013109"/>
+        <updated>2023-01-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Dochain, B. Fabre, C. Lauzin, and X. Urbain
+In this article, the authors experimentally investigate the possibility to produce a pair of entangled photons from the photodissociation of H2. They study the dynamics of the two-photon emission and introduce a simple model, assuming a transition from Hund’s case (a) to Hund’s case (c), to reproduce the measured angular distributions satisfactorily.
+
+[Phys. Rev. A 107, 013109] Published Thu Jan 19, 2023]]></summary>
+        <author>
+            <name>A. Dochain, B. Fabre, C. Lauzin, and X. Urbain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exact solutions for the electromagnetic fields of a flying focus]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.013513</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.013513"/>
+        <updated>2023-01-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): D. Ramsey, A. Di Piazza, M. Formanek, P. Franke, D. H. Froula, B. Malaca, W. B. Mori, J. R. Pierce, T. T. Simpson, J. Vieira, M. Vranic, K. Weichman, and J. P. Palastro
+A laser beam’s peak intensity may be programmed to move at an arbitrary velocity by adjusting the focal time and location of its frequencies, temporal slices, or annuli. Such “flying focus” beams show promise in enabling new laser-matter applications. To assess these possibilities, the authors analytically describe the electromagnetic fields of flying-focus pulses with arbitrary polarization and orbital angular momentum.
+
+[Phys. Rev. A 107, 013513] Published Thu Jan 19, 2023]]></summary>
+        <author>
+            <name>D. Ramsey, A. Di Piazza, M. Formanek, P. Franke, D. H. Froula, B. Malaca, W. B. Mori, J. R. Pierce, T. T. Simpson, J. Vieira, M. Vranic, K. Weichman, and J. P. Palastro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Search for Cosmic-Ray Boosted Sub-GeV Dark Matter Using Recoil Protons at Super-Kamiokande]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.031802</id>
@@ -795,71 +873,6 @@ A design for a nanopump that uses an alternating electric field could allow rese
 [Phys. Rev. Lett. 129, 264501] Published Thu Dec 22, 2022]]></summary>
         <author>
             <name>Aaron D. Ratschow, Doyel Pandey, Benno Liebchen, Somnath Bhattacharyya, and Steffen Hardt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phonon Thermal Hall Conductivity from Scattering with Collective Fluctuations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.12.041031</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.12.041031"/>
-        <updated>2022-12-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Léo Mangeolle, Leon Balents, and Lucile Savary
-For a long time, researchers assumed that phonons could not contribute to the so-called thermal Hall effect because of their lack of charge and spin. New work challenges this assumption.
-
-[Phys. Rev. X 12, 041031] Published Wed Dec 21, 2022]]></summary>
-        <author>
-            <name>Léo Mangeolle, Leon Balents, and Lucile Savary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constraints on Heavy Decaying Dark Matter from 570 Days of LHAASO Observations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.129.261103</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.129.261103"/>
-        <updated>2022-12-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zhen Cao et al. (LHAASO Collaboration)
-The first measurements from a newly built gamma-ray observatory have been analyzed for signs of the decay of heavy dark matter, putting a lower limit on the hypothetical particles’ lifetime.
-
-[Phys. Rev. Lett. 129, 261103] Published Wed Dec 21, 2022]]></summary>
-        <author>
-            <name>Zhen Cao &lt;em&gt;et al.&lt;/em&gt; (LHAASO Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin Berry curvature of the Haldane model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.235423</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.235423"/>
-        <updated>2022-12-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Simon Michel and Michael Potthoff
-The nearly adiabatic dynamics of magnetic moments exchange coupled to the spinful Haldane model, i.e., to a prototypical Chern insulator, is non-Hamiltonian due to the geometric spin torque. This results from the spin Berry curvature, which determines the feedback of the Berry phase, accumulated in the electron system, to the spin dynamics. Here, the authors study the spin Berry curvature in different parameter regimes, near a topological phase transition, and for magnetic moments coupled to the zigzag edge in a nanoribbon geometry.
-
-[Phys. Rev. B 106, 235423] Published Wed Dec 21, 2022]]></summary>
-        <author>
-            <name>Simon Michel and Michael Potthoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermal conductivity and theory of inelastic scattering of phonons by collective fluctuations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.245139</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.245139"/>
-        <updated>2022-12-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Léo Mangeolle, Leon Balents, and Lucile Savary
-Understanding thermal Hall conductivity poses a theoretical challenge in insulators, where low-energy excitations carry no charge. In undoped cuprates, where the signal is large, we expect phonons contribute significantly to the effect. While there is no obvious universal mechanism whereby phonons break time-reversal symmetry and acquire chirality, this paper provides a general treatment of the phonon Hall effect from the inelastic scattering of phonons off of other excitations in quantum materials. As an application, magnetoelastic coupling in square-lattice Néel antiferromagnets is investigated thoroughly using the formalism developed in the first part of the paper.
-
-[Phys. Rev. B 106, 245139] Published Wed Dec 21, 2022]]></summary>
-        <author>
-            <name>Léo Mangeolle, Leon Balents, and Lucile Savary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic Imaging with Spin Defects in Hexagonal Boron Nitride]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.L061002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.L061002"/>
-        <updated>2022-12-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. Kumar, F. Fabre, A. Durand, T. Clua-Provost, J. Li, J.H. Edgar, N. Rougemaille, J. Coraux, X. Marie, P. Renucci, C. Robert, I. Robert-Philip, B. Gil, G. Cassabois, A. Finco, and V. Jacques
-This work bridges research on two-dimensional (2D) materials and quantum sensing technology by demonstrating that optically active spin defects in hexagonal boron nitride can be used for quantitative magnetic field imaging. As proof of concept, the authors image the magnetic field produced by CrTe2, a room-temperature van der Waals ferromagnet. This h-BN-based magnetic sensor offers high flexibility and the ability to be placed in atomic-scale proximity to a target sample, and thus is expected to find numerous applications in 2D materials research by offering a simple means to probe in situ the physics of van der Waals heterostructures.
-
-[Phys. Rev. Applied 18, L061002] Published Wed Dec 21, 2022]]></summary>
-        <author>
-            <name>P. Kumar, F. Fabre, A. Durand, T. Clua-Provost, J. Li, J.H. Edgar, N. Rougemaille, J. Coraux, X. Marie, P. Renucci, C. Robert, I. Robert-Philip, B. Gil, G. Cassabois, A. Finco, and V. Jacques</name>
         </author>
     </entry>
 </feed>
