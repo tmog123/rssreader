@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T00:55:05.252Z</id>
+    <id>urn:2023-01-22T00:57:25.353Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-21T00:55:05.252Z</updated>
+    <updated>2023-01-22T00:57:25.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -873,71 +873,6 @@ Information can be retrieved from a black hole that is sufficiently scrambling, 
 [Phys. Rev. A 106, 062434] Published Mon Dec 26, 2022]]></summary>
         <author>
             <name>Lorenzo Leone, Salvatore F. E. Oliviero, Stefano Piemontese, Sarah True, and Alioscia Hamma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fate of the critical endpoint at large ${N}_{c}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.116016</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.116016"/>
-        <updated>2022-12-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Péter Kovács, Győző Kovács, and Francesco Giacosa
-The authors study the phase diagram of QCD-like theories, in the plane of temperature and chemical potential, using a Polyakov loop model. As the number of colors increases, a crossover line for the chiral transition enlarges, splits from that for deconfinement, and then turns into a first order line for deconfinement.
-
-[Phys. Rev. D 106, 116016] Published Fri Dec 23, 2022]]></summary>
-        <author>
-            <name>Péter Kovács, Győző Kovács, and Francesco Giacosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holographic entropy production in a Bjorken expanding hot and dense strongly coupled quantum fluid]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.126023</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.126023"/>
-        <updated>2022-12-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Romulo Rougemont and Willians Barreto
-The authors study the dynamics of droplets of quark-gluon plasma created in heavy iron collisions. The relativistic quantum fluid undergoes Bjorken flow expansion and is modeled as conformal N=4 supersymmetric Yang-Mills plasma. In particular, they investigate the holographic entropy production far from equilibrium where the horizon area is no longer a proper measure for the entropy but the area of a dynamic apparent horizon is assumed to be the right dual observable.
-
-[Phys. Rev. D 106, 126023] Published Fri Dec 23, 2022]]></summary>
-        <author>
-            <name>Romulo Rougemont and Willians Barreto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higher derivative corrections and ${\mathrm{AdS}}_{5}$ black holes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.106.L121903</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.106.L121903"/>
-        <updated>2022-12-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nikolay Bobev, Vasil Dimitrov, Valentin Reys, and Annelien Vekemans
-The authors investigate the precise holography between a 5d gauged supergravity and the dual superconformal field theory (CFT) on the 4d boundary. They show that four-derivative contributions to the action of supersymmetric black holes on the supergravity site matches precisely with certain subleading terms in the CFT index which are determined by anomalies.
-
-[Phys. Rev. D 106, L121903] Published Fri Dec 23, 2022]]></summary>
-        <author>
-            <name>Nikolay Bobev, Vasil Dimitrov, Valentin Reys, and Annelien Vekemans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applications of persistent homology in nuclear collisions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.106.064912</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.106.064912"/>
-        <updated>2022-12-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Greg Hamilton, Travis Dore, and Christopher Plumberg
-This paper applies methods of persistent homology—an approach used in topological data analysis to identify and study features that persist over different length scales—to heavy-ion collision data. It introduces a novel set of observables for the quantitative characterization of nuclear collisions and of their evolution. The work offers new ways to analyze the long-range flow correlations that have been interpreted theoretically with relativistic fluid dynamical models.
-
-[Phys. Rev. C 106, 064912] Published Fri Dec 23, 2022]]></summary>
-        <author>
-            <name>Greg Hamilton, Travis Dore, and Christopher Plumberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Symmetry-dependent ultrafast manipulation of nanoscale magnetic domains]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.224424</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.224424"/>
-        <updated>2022-12-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nanna Zhou Hagström et al.
-There are conflicting reports that ~100 femtosecond optical pumping causes ultrafast magnetic domain rearrangement. Such rearrangement implies a potential for unprecedented domain wall speeds. Ultrafast distortions in diffraction features via magnetic small angle x-ray scattering have been seen in some studies, while they have been absent in others. Here, the controversy is resolved by measuring a sample with domain-pattern symmetry varying from labyrinths to stripes. Importantly, spatial rearrangement occurs with labyrinths but not with stripes, suggesting novel and unexpected physics yet to be understood.
-
-[Phys. Rev. B 106, 224424] Published Fri Dec 23, 2022]]></summary>
-        <author>
-            <name>Nanna Zhou Hagström &lt;em&gt;et al.&lt;/em&gt;</name>
         </author>
     </entry>
 </feed>
