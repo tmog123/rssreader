@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T00:53:08.917Z</id>
+    <id>urn:2023-01-24T00:56:48.557Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T00:53:08.917Z</updated>
+    <updated>2023-01-24T00:56:48.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optical Guiding in 50-Meter-Scale Air Waveguides]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.011006</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.011006"/>
+        <updated>2023-01-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Goffin, I. Larkin, A. Tartaro, A. Schweinsberg, A. Valenzuela, E. W. Rosenthal, and H. M. Milchberg
+A waveguide sculpted in air with lasers transmits light over a distance of nearly 50 meters, which is 60 times farther than previous air-waveguide schemes.
+
+[Phys. Rev. X 13, 011006] Published Mon Jan 23, 2023]]></summary>
+        <author>
+            <name>A. Goffin, I. Larkin, A. Tartaro, A. Schweinsberg, A. Valenzuela, E. W. Rosenthal, and H. M. Milchberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synchronous Observation of Bell Nonlocality and State-Dependent Contextuality]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.040201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.040201"/>
+        <updated>2023-01-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Peng Xue, Lei Xiao, G. Ruffolo, A. Mazzari, T. Temistocles, M. Terra Cunha, and R. Rabelo
+Theoretical and experimental results demonstrate that Bell nonlocality and contextuality tests can be witnessed at the same time, contrary to a previous theorem.
+
+[Phys. Rev. Lett. 130, 040201] Published Mon Jan 23, 2023]]></summary>
+        <author>
+            <name>Peng Xue, Lei Xiao, G. Ruffolo, A. Mazzari, T. Temistocles, M. Terra Cunha, and R. Rabelo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thermal Convection in a Central Force Field Mediated by Sound]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.034002</id>
