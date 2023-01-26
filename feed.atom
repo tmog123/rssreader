@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-25T00:53:09.172Z</id>
+    <id>urn:2023-01-26T00:53:43.815Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-25T00:53:09.172Z</updated>
+    <updated>2023-01-26T00:53:43.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curvature-Regulated Multiphase Patterns in Tori]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.048201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.048201"/>
+        <updated>2023-01-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ting Wang, Zhijun Dai, Michel Potier-Ferry, and Fan Xu
+A new model explains the wrinkling patterns seen in nature’s donut-shaped objects, such as those found in jellyfish.
+
+[Phys. Rev. Lett. 130, 048201] Published Wed Jan 25, 2023]]></summary>
+        <author>
+            <name>Ting Wang, Zhijun Dai, Michel Potier-Ferry, and Fan Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temperature dependence of the energy band gap in ${\mathrm{ZrTe}}_{5}$: Implications for the topological phase]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L041202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L041202"/>
+        <updated>2023-01-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): I. Mohelsky, J. Wyzula, B. A. Piot, G. D. Gu, Q. Li, A. Akrap, and M. Orlita
+Recently, zirconium pentatelluride (ZrTe5) has received a lot of attention, both theoretical and experimental. In spite of this, no consensus has been established so far about the basic nature of the electronic states in ZrTe5 with regard to whether this material is a strong or weak topological insulator. Here, the authors use Landau-level spectroscopy to deduce the temperature dependence of the energy band gap in ZrTe5. The observed behavior – a monotonic increase with T – implies, when confronted with theoretical expectations, that ZrTe5 is a weak topological insulator.
+
+[Phys. Rev. B 107, L041202] Published Wed Jan 25, 2023]]></summary>
+        <author>
+            <name>I. Mohelsky, J. Wyzula, B. A. Piot, G. D. Gu, Q. Li, A. Akrap, and M. Orlita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tunable hole spin-photon interaction based on $\mathtt{g}$-matrix modulation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L041303</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L041303"/>
+        <updated>2023-01-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): V. P. Michal, J. C. Abadillo-Uriel, S. Zihlmann, R. Maurand, Y.-M. Niquet, and M. Filippone
+The large spin-orbit interaction of holes in semiconductors is key to achieving strong spin-photon coupling in spin circuit-QED experiments. Here, the authors show that for a single hole this coupling is “reciprocally sweet”, meaning that the coupling can be tuned from fully transverse (allowing coherent spin rotations) to fully longitudinal (modulating the spin resonance frequency). Based on the longitudinal coupling, the authors highlight how distant spin-spin coupling and parametrically driven spin readout can be achieved.
+
+[Phys. Rev. B 107, L041303] Published Wed Jan 25, 2023]]></summary>
+        <author>
+            <name>V. P. Michal, J. C. Abadillo-Uriel, S. Zihlmann, R. Maurand, Y.-M. Niquet, and M. Filippone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hedgehog orbital texture in $p$-type tellurium and the antisymmetric nonreciprocal Hall response]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.014204</id>
@@ -808,71 +847,6 @@ The kinetic inductance of charge carriers in disordered superconductors provides
 [Phys. Rev. Applied 18, 064088] Published Wed Dec 28, 2022]]></summary>
         <author>
             <name>Chaitali Joshi, Wenyuan Chen, Henry G. LeDuc, Peter K. Day, and Mohammad Mirhosseini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quasibound state in the $\overline{K}NNN$ system]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.106.064006</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.106.064006"/>
-        <updated>2022-12-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): N. V. Shevchenko
-The attractive nature of the antikaon-nucleon interaction suggests that few-body systems of antikaons and nucleons can exist. The author presents a new study of the exotic K¯NNN system. Four-body Faddeev-type equations are used to evaluate the binding energy and the width of the quasi-bound state in the system. The dependence of the results on the two-body antikaon-nucleon and nucleon-nucleon interactions is quantified.
-
-[Phys. Rev. C 106, 064006] Published Tue Dec 27, 2022]]></summary>
-        <author>
-            <name>N. V. Shevchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Langevin dynamics of generalized spins as SU($N$) coherent states]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.106.235154</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.106.235154"/>
-        <updated>2022-12-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): David Dahlbom, Cole Miles, Hao Zhang, Cristian D. Batista, and Kipton Barros
-Quantum spin states often contain additional structure beyond the usual angular momentum dipole. The classical Landau-Lifshitz spin dynamics may be generalized to model the coupled dynamics of dipoles, quadrupoles, and higher order multipoles. This paper introduces temperature-dependent Langevin noise and damping terms to the generalized spin dynamics. High numerical efficiency is possible by working with coherent states in the Schrödinger picture. The method is illustrated via simulation of magnetic skyrmion dynamics both in and out of equilibrium.
-
-[Phys. Rev. B 106, 235154] Published Tue Dec 27, 2022]]></summary>
-        <author>
-            <name>David Dahlbom, Cole Miles, Hao Zhang, Cristian D. Batista, and Kipton Barros</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fracturing in Wet Granular Media Illuminated by Photoporomechanics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064081</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064081"/>
-        <updated>2022-12-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yue Meng, Wei Li, and Ruben Juanes
-Unraveling the complex behavior of wet granular media has been challenging, because the effective stresses transmitted through the particles have remained unobservable. The authors use their recently developed extension of photoelasticity for coupled fluid-granular systems to image particle stresses during fracture by air injection in an oil-saturated granular pack. They discover two states of the granular medium evolving with the fractures, plus an “effective-stress shadow” behind the propagating fracture tips. This study points out the power of photoporomechanics for studying coupled fluid-solid processes in granular media, including energy recovery, gas venting, and geohazards.
-
-[Phys. Rev. Applied 18, 064081] Published Tue Dec 27, 2022]]></summary>
-        <author>
-            <name>Yue Meng, Wei Li, and Ruben Juanes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multivalley Electron Conduction at the Indirect-Direct Crossover Point in Highly Tensile-Strained Germanium]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.18.064083</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.18.064083"/>
-        <updated>2022-12-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M.B. Clavel, F. Murphy-Armando, Y. Xie, K.T. Henry, M. Kuhn, R.J. Bodnar, G.A. Khodaparast, D. Smirnov, J.J. Heremans, and M.K. Hudait
-For applications such as low-power tunneling transistors and memory, lasers, qubits, and spintronics, there is interest in using strain to enhance carrier mobility in semiconductors. This experimental and theoretical study investigates transport in highly strained germanium, in which multivalley electron conduction emerges. Surprisingly, all conduction occurs via the L valley in Ge for biaxial tensile strain below 1.6%, while above the contribution from the Γ valley increases, with negligible contributions from the underlying strain template.
-
-[Phys. Rev. Applied 18, 064083] Published Tue Dec 27, 2022]]></summary>
-        <author>
-            <name>M.B. Clavel, F. Murphy-Armando, Y. Xie, K.T. Henry, M. Kuhn, R.J. Bodnar, G.A. Khodaparast, D. Smirnov, J.J. Heremans, and M.K. Hudait</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum speed limit of a noisy continuous-variable system]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.106.062438</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.106.062438"/>
-        <updated>2022-12-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wei Wu and Jun-Hong An
-The quantum speed limit quantifies the minimum time it takes for a system to evolve under the constraint of quantum mechanics. Here, the authors investigate the quantum speed limit in a continuous-variable system undergoing non-Markovian noise. Their results imply that this limit may be steerable with the use of spectral engineering.
-
-[Phys. Rev. A 106, 062438] Published Tue Dec 27, 2022]]></summary>
-        <author>
-            <name>Wei Wu and Jun-Hong An</name>
         </author>
     </entry>
 </feed>
