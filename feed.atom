@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-30T00:51:24.320Z</id>
+    <id>urn:2023-01-31T00:57:36.361Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-30T00:51:24.320Z</updated>
+    <updated>2023-01-31T00:57:36.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Search for the Majorana Nature of Neutrinos in the Inverted Mass Ordering Region with KamLAND-Zen]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.051801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.051801"/>
+        <updated>2023-01-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. Abe et al. (KamLAND-Zen Collaboration)
+Detecting neutrinoless double-beta decay would confirm that the neutrino is its own antiparticle. Data from the KamLAND-Zen experiment contain no strong evidence of such events, constraining neutrino properties.
+
+[Phys. Rev. Lett. 130, 051801] Published Mon Jan 30, 2023]]></summary>
+        <author>
+            <name>S. Abe &lt;em&gt;et al.&lt;/em&gt; (KamLAND-Zen Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.057401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.057401"/>
+        <updated>2023-01-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jan Korbel, Simon D. Lindner, Tuan Minh Pham, Rudolf Hanel, and Stefan Thurner
+Homophilic interactions drive the formation dynamics of social groups, according to a model of opinions expressed on social networks which uses a spin-glass framework.
+
+[Phys. Rev. Lett. 130, 057401] Published Mon Jan 30, 2023]]></summary>
+        <author>
+            <name>Jan Korbel, Simon D. Lindner, Tuan Minh Pham, Rudolf Hanel, and Stefan Thurner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KamNet: An integrated spatiotemporal deep neural network for rare event searches in KamLAND-Zen]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.014323</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.014323"/>
+        <updated>2023-01-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow
+Searches for rare events employ customized detectors with large fiducial mass to effectively reduce background. Leveraging recent breakthroughs in geometric deep learning and spatiotemporal analysis, this work presents a novel machine-learning algorithm (KamNet) as a new, robust tool to maximize the information provided by the kiloton-scale KamLAND liquid-scintillator detector. Adding a so-called “attention mechanism” to KamNet, the authors demonstrate that this enhanced machine-learning approach can increase the sensitivity of the KamLAND-Zen experiment to zero-neutrino- and two-neutrino double-β decay. That mechanism also elucidates the underlying physics KamNet is using for background rejection.
+
+[Phys. Rev. C 107, 014323] Published Mon Jan 30, 2023]]></summary>
+        <author>
+            <name>A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confronting anomalous kaon correlations measured in Pb-Pb collisions at $\sqrt{{s}_{NN}}=2.76$ TeV]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.014913</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.014913"/>
+        <updated>2023-01-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Joseph I. Kapusta, Scott Pratt, and Mayank Singh
+This paper uses simple models to interpret recent measurements of anomalously strong correlations between neutral and charged kaon production performed at the LHC for high-energy heavy-ion collisions. Thermal models, including charge conservation effects, are found to be insufficient to explain the data for the most central collisions. More exotic conjectures involving coherent emission can reproduce the observations if 30% of the kaons are emitted from coherent sources in the most central collisions. Such coherence might be related to the melting and re-freezing of the QCD vacuum.
+
+[Phys. Rev. C 107, 014913] Published Mon Jan 30, 2023]]></summary>
+        <author>
+            <name>Joseph I. Kapusta, Scott Pratt, and Mayank Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forgetting Leads to Chaos in Attractor Networks]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.13.011009</id>

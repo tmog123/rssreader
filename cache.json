@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.051801",
+          "author": "S. Abe <em>et al.</em> (KamLAND-Zen Collaboration)",
+          "description": "Author(s): S. Abe et al. (KamLAND-Zen Collaboration)\nDetecting neutrinoless double-beta decay would confirm that the neutrino is its own antiparticle. Data from the KamLAND-Zen experiment contain no strong evidence of such events, constraining neutrino properties.\n\n[Phys. Rev. Lett. 130, 051801] Published Mon Jan 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.051801",
+          "publishedOn": "2023-01-30T10:00:00.000Z",
+          "wordCount": 1139,
+          "title": "Search for the Majorana Nature of Neutrinos in the Inverted Mass Ordering Region with KamLAND-Zen",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.051801.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.057401",
+          "author": "Jan Korbel, Simon D. Lindner, Tuan Minh Pham, Rudolf Hanel, and Stefan Thurner",
+          "description": "Author(s): Jan Korbel, Simon D. Lindner, Tuan Minh Pham, Rudolf Hanel, and Stefan Thurner\nHomophilic interactions drive the formation dynamics of social groups, according to a model of opinions expressed on social networks which uses a spin-glass framework.\n\n[Phys. Rev. Lett. 130, 057401] Published Mon Jan 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.057401",
+          "publishedOn": "2023-01-30T10:00:00.000Z",
+          "wordCount": 1177,
+          "title": "Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.057401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.107.014323",
+          "author": "A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow",
+          "description": "Author(s): A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow\nSearches for rare events employ customized detectors with large fiducial mass to effectively reduce background. Leveraging recent breakthroughs in geometric deep learning and spatiotemporal analysis, this work presents a novel machine-learning algorithm (KamNet) as a new, robust tool to maximize the information provided by the kiloton-scale KamLAND liquid-scintillator detector. Adding a so-called “attention mechanism” to KamNet, the authors demonstrate that this enhanced machine-learning approach can increase the sensitivity of the KamLAND-Zen experiment to zero-neutrino- and two-neutrino double-β decay. That mechanism also elucidates the underlying physics KamNet is using for background rejection.\n\n[Phys. Rev. C 107, 014323] Published Mon Jan 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.014323",
+          "publishedOn": "2023-01-30T10:00:00.000Z",
+          "wordCount": 1292,
+          "title": "KamNet: An integrated spatiotemporal deep neural network for rare event searches in KamLAND-Zen",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.014323.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.107.014913",
+          "author": "Joseph I. Kapusta, Scott Pratt, and Mayank Singh",
+          "description": "Author(s): Joseph I. Kapusta, Scott Pratt, and Mayank Singh\nThis paper uses simple models to interpret recent measurements of anomalously strong correlations between neutral and charged kaon production performed at the LHC for high-energy heavy-ion collisions. Thermal models, including charge conservation effects, are found to be insufficient to explain the data for the most central collisions. More exotic conjectures involving coherent emission can reproduce the observations if 30% of the kaons are emitted from coherent sources in the most central collisions. Such coherence might be related to the melting and re-freezing of the QCD vacuum.\n\n[Phys. Rev. C 107, 014913] Published Mon Jan 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.014913",
+          "publishedOn": "2023-01-30T10:00:00.000Z",
+          "wordCount": 1007,
+          "title": "Confronting anomalous kaon correlations measured in Pb-Pb collisions at $\\sqrt{{s}_{NN}}=2.76$ TeV",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.014913.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.011009",
           "author": "Ulises Pereira-Obilinovic, Johnatan Aljadeff, and Nicolas Brunel",
           "description": "Author(s): Ulises Pereira-Obilinovic, Johnatan Aljadeff, and Nicolas Brunel\nA model for information storage in the brain reveals how memories decay with age.\n\n[Phys. Rev. X 13, 011009] Published Fri Jan 27, 2023",
@@ -431,7 +471,7 @@
           "description": "Author(s): Colin Rylands, Pasquale Calabrese, and Bruno Bertini\nAn exact solution for the BEC-BCS quench in one dimension is modeled using the attractive Yang-Gaudin model quenched from a molecular BEC initial state.\n\n[Phys. Rev. Lett. 130, 023001] Published Thu Jan 12, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023001",
           "publishedOn": "2023-01-12T10:00:00.000Z",
-          "wordCount": 949,
+          "wordCount": 948,
           "title": "Solution of the BEC to BCS Quench in One Dimension",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.023001.png"
         },
