@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T01:01:29.089Z</id>
+    <id>urn:2023-02-02T00:55:51.751Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T01:01:29.089Z</updated>
+    <updated>2023-02-02T00:55:51.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First detection of the atomic $^{18}\mathrm{O}$ isotope in the mesosphere and lower thermosphere of Earth]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013072</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.5.013072"/>
+        <updated>2023-02-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Helmut Wiesemeyer, Rolf Güsten, Rebeca Aladro, Bernd Klein, Heinz-Wilhelm Hübers, Heiko Richter, Urs U. Graf, Matthias Justen, Yoko Okada, and Jürgen Stutzki
+The magnetic dipole transitions between the fine-structure ground-state levels of atomic oxygen residing in the mesosphere and the lower thermosphere of Earth are measured in absorption against the Moon. The small isotope shifts allow determining the 16O/18O abundance ratio in this remote environment, found to be typical of isotopic oxygen fractionations in the lower atmosphere and to significantly fall below the solar wind value.
+
+[Phys. Rev. Research 5, 013072] Published Wed Feb 01, 2023]]></summary>
+        <author>
+            <name>Helmut Wiesemeyer, Rolf Güsten, Rebeca Aladro, Bernd Klein, Heinz-Wilhelm Hübers, Heiko Richter, Urs U. Graf, Matthias Justen, Yoko Okada, and Jürgen Stutzki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear spin current of photoexcited magnons in collinear antiferromagnets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.064403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.064403"/>
+        <updated>2023-02-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto
+Generation of spin currents is currently actively studied from the viewpoint of magnon spintronics. Here, the authors propose that ac electric field can excite magnons and induce nonlinear spin currents in antiferromagnets with broken inversion symmetry. In particular, they show that linearly polarized light generates magnon spin shift current that originates from the nontrivial geometry of the magnon band and is closely related to the electronic shift current in semiconductors. The authors demonstrate that the photoinduced spin current is accessible for measurements in the multiferroic compound Mn2Mo3O8.
+
+[Phys. Rev. B 107, 064403] Published Wed Feb 01, 2023]]></summary>
+        <author>
+            <name>Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and <i>Planck</i>. I. Construction of CMB lensing maps and modeling choices]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevD.107.023529</id>
@@ -1094,32 +1120,6 @@ The vacuum-system performance for the SuperKEKB electron and positron rings will
 [Phys. Rev. Accel. Beams 26, 013201] Published Wed Jan 04, 2023]]></summary>
         <author>
             <name>Y. Suetsugu, K. Shibata, T. Ishibashi, M. Shirai, S. Terui, K. Kanazawa, H. Hisamatsu, and M. L. Yao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anomalous Diffusion of Deformable Particles in a Honeycomb Network]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.014001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.014001"/>
-        <updated>2023-01-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zaiyi Shen, Franck Plouraboué, Juho S. Lintuvuori, Hengdi Zhang, Mehdi Abbasi, and Chaouqi Misbah
-Researchers have studied how irregularly shaped particles travel through microchannels. Their work could have relevance to the transport of red blood cells through capillaries.
-
-[Phys. Rev. Lett. 130, 014001] Published Tue Jan 03, 2023]]></summary>
-        <author>
-            <name>Zaiyi Shen, Franck Plouraboué, Juho S. Lintuvuori, Hengdi Zhang, Mehdi Abbasi, and Chaouqi Misbah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imaging an Acoustic Topological Edge Mode on a Patterned Substrate with Microwave Impedance Microscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.014001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.014001"/>
-        <updated>2023-01-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Y. Nii and Y. Onose
-The topological properties of an acoustic metamaterial’s phononic band structure would be useful for developing functional acoustic and thermal devices. While previous demonstrations of topological properties have been limited to low-frequency airborne sound, high-frequency acoustic waveguides utilizing the topological edge state are increasingly in demand for quantum technologies, sensing, and microwave communication. In this work, the authors use innovative microscopy to visualize topological acoustic edge states at frequencies as high as 2.4 GHz on a patterned substrate, which bodes well for the feasibility of topological surface-acoustic-wave devices.
-
-[Phys. Rev. Applied 19, 014001] Published Tue Jan 03, 2023]]></summary>
-        <author>
-            <name>Y. Nii and Y. Onose</name>
         </author>
     </entry>
 </feed>
