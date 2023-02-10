@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T00:54:42.342Z</id>
+    <id>urn:2023-02-10T00:58:39.686Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T00:54:42.342Z</updated>
+    <updated>2023-02-10T00:58:39.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Superradiant Droplet Emission from Parametrically Excited Cavities]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.064002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.064002"/>
+        <updated>2023-02-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Valeri Frumkin, John W. M. Bush, and Konstantinos Papatryfonos
+Experiments reveal a hydrodynamic analog of an important effect in quantum optics called superradiance.
+
+[Phys. Rev. Lett. 130, 064002] Published Thu Feb 09, 2023]]></summary>
+        <author>
+            <name>Valeri Frumkin, John W. M. Bush, and Konstantinos Papatryfonos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canopy elastic turbulence: Spontaneous formation of waves in beds of slender microposts]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.023301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.023301"/>
+        <updated>2023-02-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Charlotte de Blois, Simon J. Haward, and Amy Q. Shen
+A microfluidic canopy flow device, formed from a large array of slender polymeric pillars within a glass microchannel, is subjected to viscoelastic flow in the regime of elastic turbulence. The system results in the spontaneous emergence of waves in the form of propagating regions of low flow velocity compared to the bulk, also inducing Monami-like waves in the canopy if the pillars are flexible. Due to the analogies with classical (inertial) canopy turbulence, this new phenomenon is named “canopy elastic turbulence”.
+
+[Phys. Rev. Fluids 8, 023301] Published Thu Feb 09, 2023]]></summary>
+        <author>
+            <name>Charlotte de Blois, Simon J. Haward, and Amy Q. Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entanglement dynamics and phase transitions of the Floquet cluster spin chain]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.085116</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.085116"/>
+        <updated>2023-02-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alberto D. Verga
+One of the challenges in quantum information is to create quantum states that can be used as resources, for instance, in the measurement-based model of quantum computing. Here, the author investigates the generation, through a dynamical phase transition, of a topological entangled state, by the Floquet evolution of a chain of spins, whose ground state is the so-called cluster state, acted upon by a quantum walker. The nonergodic phase is characterized by the emergence of magnetic order, persistent at long times.
+
+[Phys. Rev. B 107, 085116] Published Thu Feb 09, 2023]]></summary>
+        <author>
+            <name>Alberto D. Verga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-dimensional projection of two-dimensional systems using spiral boundary conditions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L081104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L081104"/>
+        <updated>2023-02-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, and Satoshi Nishimoto
+The spiral boundary conditions can project any two-dimensional or three-dimensional lattice onto a one-dimensional periodic chain with translational symmetry. It enables one to apply efficiently the existing one-dimensional techniques, such as density-matrix renormalization group (DMRG), bosonization, Jordan-Wigner transformation, etc., to studies of lattice systems in higher dimensions. Here, the authors demonstrate the utility of spiral boundary conditions by performing analytical and DMRG calculations for square and honeycomb lattice problems. Thus, the spiral boundary conditions emerge as a principal option in condensed matter physics.
+
+[Phys. Rev. B 107, L081104] Published Thu Feb 09, 2023]]></summary>
+        <author>
+            <name>Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, and Satoshi Nishimoto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Searches for Massive Neutrinos with Mechanical Quantum Sensors]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.4.010315</id>
@@ -978,45 +1030,6 @@ The authors derive expressions for lattice sums of solutions of the Helmholtz eq
 [Phys. Rev. A 107, 013508] Published Thu Jan 12, 2023]]></summary>
         <author>
             <name>Dominik Beutel, Ivan Fernandez-Corbaton, and Carsten Rockstuhl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Phase Transition in the One-Dimensional Water Chain]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.026201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.026201"/>
-        <updated>2023-01-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. Serwatka, R. G. Melko, A. Burkov, and P.-N. Roy
-Water molecules that are close enough to “see” each other but far enough apart to be gas-like can undergo a quantum phase transition, a finding of relevance for making future water-based quantum devices.
-
-[Phys. Rev. Lett. 130, 026201] Published Wed Jan 11, 2023]]></summary>
-        <author>
-            <name>T. Serwatka, R. G. Melko, A. Burkov, and P.-N. Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhythms from Two Competing Periodic Sources Embedded in an Excitable Medium]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.028401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.028401"/>
-        <updated>2023-01-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Khady Diagne, Thomas M. Bury, Marc W. Deyell, Zachary Laksman, Alvin Shrier, Gil Bub, and Leon Glass
-Computer simulations and experiments with cardiac cells identify signatures of a condition in which two sets of pacemaker cells lead to an abnormal heartbeat.
-
-[Phys. Rev. Lett. 130, 028401] Published Wed Jan 11, 2023]]></summary>
-        <author>
-            <name>Khady Diagne, Thomas M. Bury, Marc W. Deyell, Zachary Laksman, Alvin Shrier, Gil Bub, and Leon Glass</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<i>Ab initio</i> study of metastable occupation of tetrahedral sites in palladium hydrides and its impact on superconductivity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.024504</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.024504"/>
-        <updated>2023-01-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Antonella Meninno and Ion Errea
-Palladium hydride is one of the rare examples of superconducting hydrides at ambient pressure, exhibiting a critical temperature of 10 K in its equilibrium structure, with hydrogen atoms occupying octahedral interstitial sites of the palladium fcc lattice. Making use of ab initio calculations considering quantum anharmonic lattice effects, the authors show here that full or partial occupation of tetrahedral sites is possible in metastable structures, but that their superconducting critical temperature is lower than the equilibrium case with full octahedral occupation.
-
-[Phys. Rev. B 107, 024504] Published Wed Jan 11, 2023]]></summary>
-        <author>
-            <name>Antonella Meninno and Ion Errea</name>
         </author>
     </entry>
 </feed>

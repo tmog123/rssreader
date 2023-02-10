@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.064002",
+          "author": "Valeri Frumkin, John W. M. Bush, and Konstantinos Papatryfonos",
+          "description": "Author(s): Valeri Frumkin, John W. M. Bush, and Konstantinos Papatryfonos\nExperiments reveal a hydrodynamic analog of an important effect in quantum optics called superradiance.\n\n[Phys. Rev. Lett. 130, 064002] Published Thu Feb 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.064002",
+          "publishedOn": "2023-02-09T10:00:00.000Z",
+          "wordCount": 1013,
+          "title": "Superradiant Droplet Emission from Parametrically Excited Cavities",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.064002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.023301",
+          "author": "Charlotte de Blois, Simon J. Haward, and Amy Q. Shen",
+          "description": "Author(s): Charlotte de Blois, Simon J. Haward, and Amy Q. Shen\nA microfluidic canopy flow device, formed from a large array of slender polymeric pillars within a glass microchannel, is subjected to viscoelastic flow in the regime of elastic turbulence. The system results in the spontaneous emergence of waves in the form of propagating regions of low flow velocity compared to the bulk, also inducing Monami-like waves in the canopy if the pillars are flexible. Due to the analogies with classical (inertial) canopy turbulence, this new phenomenon is named “canopy elastic turbulence”.\n\n[Phys. Rev. Fluids 8, 023301] Published Thu Feb 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.023301",
+          "publishedOn": "2023-02-09T10:00:00.000Z",
+          "wordCount": 2308,
+          "title": "Canopy elastic turbulence: Spontaneous formation of waves in beds of slender microposts",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.023301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.085116",
+          "author": "Alberto D. Verga",
+          "description": "Author(s): Alberto D. Verga\nOne of the challenges in quantum information is to create quantum states that can be used as resources, for instance, in the measurement-based model of quantum computing. Here, the author investigates the generation, through a dynamical phase transition, of a topological entangled state, by the Floquet evolution of a chain of spins, whose ground state is the so-called cluster state, acted upon by a quantum walker. The nonergodic phase is characterized by the emergence of magnetic order, persistent at long times.\n\n[Phys. Rev. B 107, 085116] Published Thu Feb 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.085116",
+          "publishedOn": "2023-02-09T10:00:00.000Z",
+          "wordCount": 1114,
+          "title": "Entanglement dynamics and phase transitions of the Floquet cluster spin chain",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.085116.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.L081104",
+          "author": "Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, and Satoshi Nishimoto",
+          "description": "Author(s): Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, and Satoshi Nishimoto\nThe spiral boundary conditions can project any two-dimensional or three-dimensional lattice onto a one-dimensional periodic chain with translational symmetry. It enables one to apply efficiently the existing one-dimensional techniques, such as density-matrix renormalization group (DMRG), bosonization, Jordan-Wigner transformation, etc., to studies of lattice systems in higher dimensions. Here, the authors demonstrate the utility of spiral boundary conditions by performing analytical and DMRG calculations for square and honeycomb lattice problems. Thus, the spiral boundary conditions emerge as a principal option in condensed matter physics.\n\n[Phys. Rev. B 107, L081104] Published Thu Feb 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L081104",
+          "publishedOn": "2023-02-09T10:00:00.000Z",
+          "wordCount": 991,
+          "title": "One-dimensional projection of two-dimensional systems using spiral boundary conditions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L081104.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010315",
           "author": "Daniel Carney, Kyle G. Leach, and David C. Moore",
           "description": "Author(s): Daniel Carney, Kyle G. Leach, and David C. Moore\nSearching for heavy sterile neutrinos in the keV–MeV mass range is possible with a nanometer-scale, optically levitated quantum sensor.\n\n[PRX Quantum 4, 010315] Published Wed Feb 08, 2023",
@@ -754,36 +794,6 @@
           "wordCount": 1242,
           "title": "Unified lattice sums accommodating multiple sublattices for solutions of the Helmholtz equation in two and three dimensions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.013508.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.026201",
-          "author": "T. Serwatka, R. G. Melko, A. Burkov, and P.-N. Roy",
-          "description": "Author(s): T. Serwatka, R. G. Melko, A. Burkov, and P.-N. Roy\nWater molecules that are close enough to “see” each other but far enough apart to be gas-like can undergo a quantum phase transition, a finding of relevance for making future water-based quantum devices.\n\n[Phys. Rev. Lett. 130, 026201] Published Wed Jan 11, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.026201",
-          "publishedOn": "2023-01-11T10:00:00.000Z",
-          "wordCount": 1196,
-          "title": "Quantum Phase Transition in the One-Dimensional Water Chain",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.026201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.028401",
-          "author": "Khady Diagne, Thomas M. Bury, Marc W. Deyell, Zachary Laksman, Alvin Shrier, Gil Bub, and Leon Glass",
-          "description": "Author(s): Khady Diagne, Thomas M. Bury, Marc W. Deyell, Zachary Laksman, Alvin Shrier, Gil Bub, and Leon Glass\nComputer simulations and experiments with cardiac cells identify signatures of a condition in which two sets of pacemaker cells lead to an abnormal heartbeat.\n\n[Phys. Rev. Lett. 130, 028401] Published Wed Jan 11, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.028401",
-          "publishedOn": "2023-01-11T10:00:00.000Z",
-          "wordCount": 1277,
-          "title": "Rhythms from Two Competing Periodic Sources Embedded in an Excitable Medium",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.028401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.024504",
-          "author": "Antonella Meninno and Ion Errea",
-          "description": "Author(s): Antonella Meninno and Ion Errea\nPalladium hydride is one of the rare examples of superconducting hydrides at ambient pressure, exhibiting a critical temperature of 10 K in its equilibrium structure, with hydrogen atoms occupying octahedral interstitial sites of the palladium fcc lattice. Making use of ab initio calculations considering quantum anharmonic lattice effects, the authors show here that full or partial occupation of tetrahedral sites is possible in metastable structures, but that their superconducting critical temperature is lower than the equilibrium case with full octahedral occupation.\n\n[Phys. Rev. B 107, 024504] Published Wed Jan 11, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.024504",
-          "publishedOn": "2023-01-11T10:00:00.000Z",
-          "wordCount": 1181,
-          "title": "<i>Ab initio</i> study of metastable occupation of tetrahedral sites in palladium hydrides and its impact on superconductivity",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.024504.png"
         }
       ]
     }
