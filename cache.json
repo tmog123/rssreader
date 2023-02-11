@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.062501",
+          "author": "I. J. Arnquist <em>et al.</em> (<span class=\"sc\">Majorana</span> Collaboration)",
+          "description": "Author(s): I. J. Arnquist et al. (Majorana Collaboration)\nThe final results from the Majorana Demonstrator’s search for neutrinoless double-beta decay in 76Ge set an upper limit on the half-life of this decay to be T1/2>8.3×1025 years.\n\n[Phys. Rev. Lett. 130, 062501] Published Fri Feb 10, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.062501",
+          "publishedOn": "2023-02-10T10:00:00.000Z",
+          "wordCount": 990,
+          "title": "Final Result of the <span class=\"sc\">Majorana</span> <span class=\"sc\">Demonstrator</span>’s Search for Neutrinoless Double-$β$ Decay in $^{76}\\mathrm{Ge}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.062501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.066601",
+          "author": "Lucien Jezequel and Pierre Delplace",
+          "description": "Author(s): Lucien Jezequel and Pierre Delplace\nA generalization of the correspondence between a spectral flow and the topological charges to non-Hermitian systems leads to the emergence of Berry-Chern monopoles.\n\n[Phys. Rev. Lett. 130, 066601] Published Fri Feb 10, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.066601",
+          "publishedOn": "2023-02-10T10:00:00.000Z",
+          "wordCount": 757,
+          "title": "Non-Hermitian Spectral Flows and Berry-Chern Monopoles",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.066601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.024401",
+          "author": "Camila Sandivari, Jacob Egge, Belén Barraza, Leonardo Gordillo, and Nicolás Mujica",
+          "description": "Author(s): Camila Sandivari, Jacob Egge, Belén Barraza, Leonardo Gordillo, and Nicolás Mujica\nHigh-amplitude localized waves in a narrow channel can juggle large-sized droplets for tens of thousands of cycles without coalescing. The wave launches and softly catches the drop at every cycle, and laterally traps it. This system can be considered the gravity-wave analog of optical tweezers.\n\n[Phys. Rev. Fluids 8, 024401] Published Fri Feb 10, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.024401",
+          "publishedOn": "2023-02-10T10:00:00.000Z",
+          "wordCount": 2022,
+          "title": "Juggling soliton: A new kind of wave-particle entity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.024401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.054103",
+          "author": "Tobias Brink, Lena Langenohl, Hanna Bishara, and Gerhard Dehm",
+          "description": "Author(s): Tobias Brink, Lena Langenohl, Hanna Bishara, and Gerhard Dehm\nIt has been reported that different ordered structures can appear at the same grain boundaries. Thermodynamically, they can be regarded as interface phases (“complexions”). The authors use atomistic simulations to show that several fcc transition and post-transition metals exhibit the same two grain boundary phases in [111] tilt grain boundaries. This remains true even when using unphysical pair potentials, highlighting that the occurrence of different grain boundary phases is not an exceptional special case, but common across different materials.\n\n[Phys. Rev. B 107, 054103] Published Fri Feb 10, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.054103",
+          "publishedOn": "2023-02-10T10:00:00.000Z",
+          "wordCount": 2601,
+          "title": "Universality of grain boundary phases in fcc metals: Case study on high-angle [111] symmetric tilt grain boundaries",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.054103.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.022413",
+          "author": "Saronath Halder and Ujjwal Sen",
+          "description": "Author(s): Saronath Halder and Ujjwal Sen\nIn bipartite quantum systems, mixtures of entangled and product states are always entangled, but superpositions of the same states may not be. Here, the authors detail the conditions for separability of such superpositions and outline applications in local quantum state discrimination.\n\n[Phys. Rev. A 107, 022413] Published Fri Feb 10, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.022413",
+          "publishedOn": "2023-02-10T10:00:00.000Z",
+          "wordCount": 779,
+          "title": "Separability and entanglement in superpositions of quantum states",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.022413.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.023306",
+          "author": "Erika Cortese, David B. Cassidy, and Simone De Liberato",
+          "description": "Author(s): Erika Cortese, David B. Cassidy, and Simone De Liberato\nThe authors develop a theoretical proposal for the formation of polaritons in a gas of positronium atoms and the real-time measurement of positronium densities in present-day experimental setups. The results could be an important step towards the achievement of positronium BEC.\n\n[Phys. Rev. A 107, 023306] Published Fri Feb 10, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.023306",
+          "publishedOn": "2023-02-10T10:00:00.000Z",
+          "wordCount": 1313,
+          "title": "Positronium density measurements using polaritonic effects",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.023306.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.064002",
           "author": "Valeri Frumkin, John W. M. Bush, and Konstantinos Papatryfonos",
           "description": "Author(s): Valeri Frumkin, John W. M. Bush, and Konstantinos Papatryfonos\nExperiments reveal a hydrodynamic analog of an important effect in quantum optics called superradiance.\n\n[Phys. Rev. Lett. 130, 064002] Published Thu Feb 09, 2023",
@@ -311,7 +371,7 @@
           "description": "Author(s): A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow\nSearches for rare events employ customized detectors with large fiducial mass to effectively reduce background. Leveraging recent breakthroughs in geometric deep learning and spatiotemporal analysis, this work presents a novel machine-learning algorithm (KamNet) as a new, robust tool to maximize the information provided by the kiloton-scale KamLAND liquid-scintillator detector. Adding a so-called “attention mechanism” to KamNet, the authors demonstrate that this enhanced machine-learning approach can increase the sensitivity of the KamLAND-Zen experiment to zero-neutrino- and two-neutrino double-β decay. That mechanism also elucidates the underlying physics KamNet is using for background rejection.\n\n[Phys. Rev. C 107, 014323] Published Mon Jan 30, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.014323",
           "publishedOn": "2023-01-30T10:00:00.000Z",
-          "wordCount": 1292,
+          "wordCount": 1378,
           "title": "KamNet: An integrated spatiotemporal deep neural network for rare event searches in KamLAND-Zen",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.014323.png"
         },
@@ -744,56 +804,6 @@
           "wordCount": 1463,
           "title": "Intermittent versus continuous swimming: An optimization tale",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.013101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023001",
-          "author": "Colin Rylands, Pasquale Calabrese, and Bruno Bertini",
-          "description": "Author(s): Colin Rylands, Pasquale Calabrese, and Bruno Bertini\nAn exact solution for the BEC-BCS quench in one dimension is modeled using the attractive Yang-Gaudin model quenched from a molecular BEC initial state.\n\n[Phys. Rev. Lett. 130, 023001] Published Thu Jan 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023001",
-          "publishedOn": "2023-01-12T10:00:00.000Z",
-          "wordCount": 949,
-          "title": "Solution of the BEC to BCS Quench in One Dimension",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.023001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023002",
-          "author": "Yi-Quan Zou, Moritz Berngruber, Viraatt S. V. Anasuri, Nicolas Zuber, Florian Meinert, Robert Löw, and Tilman Pfau",
-          "description": "Author(s): Yi-Quan Zou, Moritz Berngruber, Viraatt S. V. Anasuri, Nicolas Zuber, Florian Meinert, Robert Löw, and Tilman Pfau\nResearchers have recorded for the first time the dynamics of vibrating Rydberg molecules, the slow-motion counterparts of regular molecules.\n\n[Phys. Rev. Lett. 130, 023002] Published Thu Jan 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.023002",
-          "publishedOn": "2023-01-12T10:00:00.000Z",
-          "wordCount": 1244,
-          "title": "Observation of Vibrational Dynamics of Orientated Rydberg-Atom-Ion Molecules",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.023002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.014305",
-          "author": "Jonathan A. Sobota, Samuel W. Teitelbaum, Yijing Huang, José D. Querales-Flores, Robert Power, Meabh Allen, Costel R. Rotundu, Trevor P. Bailey, Ctirad Uher, Tom Henighan, Mason Jiang, Diling Zhu, Matthieu Chollet, Takahiro Sato, Mariano Trigo, Éamonn D. Murray, Ivana Savić, Patrick S. Kirchmann, Stephen Fahy, David A. Reis, and Zhi-Xun Shen",
-          "description": "Author(s): Jonathan A. Sobota, Samuel W. Teitelbaum, Yijing Huang, José D. Querales-Flores, Robert Power, Meabh Allen, Costel R. Rotundu, Trevor P. Bailey, Ctirad Uher, Tom Henighan, Mason Jiang, Diling Zhu, Matthieu Chollet, Takahiro Sato, Mariano Trigo, Éamonn D. Murray, Ivana Savić, Patrick S. Kirchmann, Stephen Fahy, David A. Reis, and Zhi-Xun Shen\nAn ongoing challenge is to manipulate topological states using ultrafast pulses of light. One strategy is lattice engineering, whereby the surface state wavefunctions are modified through light-induced structural distortions. Here, the authors perform time-resolved photoemission, time-resolved diffraction, and theoretical calculations to reveal how topological surface states couple to photoinduced lattice vibrations. They show how the surface vibrational spectrum is qualitatively different from that of the bulk due to the translational and inversion symmetries broken at the surface.\n\n[Phys. Rev. B 107, 014305] Published Thu Jan 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.014305",
-          "publishedOn": "2023-01-12T10:00:00.000Z",
-          "wordCount": 1815,
-          "title": "Influence of local symmetry on lattice dynamics coupled to topological surface states",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.014305.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.014409",
-          "author": "R. G. Hunt, K. J. A. Franke, P. M. Shepley, and T. A. Moore",
-          "description": "Author(s): R. G. Hunt, K. J. A. Franke, P. M. Shepley, and T. A. Moore\nThe coupling of ferroelectric and ferromagnetic order holds promise for the realization of low-energy voltage-controlled multiferroic devices. Here, the authors show that using a (111)-oriented BaTiO3 substrate it is possible to create two distinct strain-coupled regions in a deposited CoFeB film, in which the in-plane magnetic easy axis rotates by either 60 or 120 degrees. These regions, which exist side by side in a sample heterostructure, contain different magnetic domain wall structures that exhibit different dependences on magnetic field.\n\n[Phys. Rev. B 107, 014409] Published Thu Jan 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.014409",
-          "publishedOn": "2023-01-12T10:00:00.000Z",
-          "wordCount": 1140,
-          "title": "Strain-coupled domains in ${\\mathrm{BaTiO}}_{3}(111)\\text{−}\\mathrm{CoFeB}$ heterostructures",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.014409.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.013508",
-          "author": "Dominik Beutel, Ivan Fernandez-Corbaton, and Carsten Rockstuhl",
-          "description": "Author(s): Dominik Beutel, Ivan Fernandez-Corbaton, and Carsten Rockstuhl\nThe authors derive expressions for lattice sums of solutions of the Helmholtz equation in two and three dimensions that can be efficiently evaluated in numerical implementations. The results are applicable to complex materials involving multiple sublattices, describing systems including metasurfaces and moire superlattices.\n\n[Phys. Rev. A 107, 013508] Published Thu Jan 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.013508",
-          "publishedOn": "2023-01-12T10:00:00.000Z",
-          "wordCount": 1242,
-          "title": "Unified lattice sums accommodating multiple sublattices for solutions of the Helmholtz equation in two and three dimensions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.013508.png"
         }
       ]
     }
