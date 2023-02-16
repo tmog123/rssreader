@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T00:57:08.155Z</id>
+    <id>urn:2023-02-16T00:56:59.382Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T00:57:08.155Z</updated>
+    <updated>2023-02-16T00:56:59.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Non-Gaussian Diffusion Near Surfaces]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.077101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.077101"/>
+        <updated>2023-02-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Arthur Alexandre, Maxime Lavaud, Nicolas Fares, Elodie Millan, Yann Louyer, Thomas Salez, Yacine Amarouchene, Thomas Guérin, and David S. Dean
+An analytical model paired with precise experimental measurements explains the origin of the complex dynamics of a colloidal particle close to a flat surface.
+
+[Phys. Rev. Lett. 130, 077101] Published Wed Feb 15, 2023]]></summary>
+        <author>
+            <name>Arthur Alexandre, Maxime Lavaud, Nicolas Fares, Elodie Millan, Yann Louyer, Thomas Salez, Yacine Amarouchene, Thomas Guérin, and David S. Dean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variance of the Hellings-Downs correlation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.043018</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.043018"/>
+        <updated>2023-02-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bruce Allen
+The Hellings-Down (HD) function describes gravitational-wave (GW) induced correlations in pulse arrival times from pulsar populations. The author presents a thorough analytical treatment of the HD variance, demonstrating how cosmological vs. pulsar effects can be separated, and how variance measurements can provide unique insight on the GW sources themselves.
+
+[Phys. Rev. D 107, 043018] Published Wed Feb 15, 2023]]></summary>
+        <author>
+            <name>Bruce Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equation of state of superfluid neutron matter with low-momentum interactions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.025804</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.025804"/>
+        <updated>2023-02-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Viswanathan Palaniappan, S. Ramanan, and Michael Urban
+The behavior of the unbound neutrons in the inner crust of neutron stars is linked to various neutron-star characteristics such as glitches in the repetition rate of pulsars. This paper presents a novel calculation of low-density superfluid neutron matter using techniques and interactions previously applied to the study of finite nuclei. The starting point is a two-body interaction softened using renormalization-group techniques. The resulting interaction is used in a Hartree-Fock-Bogoliubov calculation that includes pairing. This provides a good starting point for the many-body perturbation expansion, and for including more sophisticated nuclear interactions in future work.
+
+[Phys. Rev. C 107, 025804] Published Wed Feb 15, 2023]]></summary>
+        <author>
+            <name>Viswanathan Palaniappan, S. Ramanan, and Michael Urban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antiferromagnetic real-space configuration probed by dichroism in scattered x-ray beams with orbital angular momentum]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L060407</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L060407"/>
+        <updated>2023-02-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Margaret R. McCarter, Ahmad I. U. Saleheen, Arnab Singh, Ryan Tumbleson, Justin S. Woods, Anton S. Tremsin, Andreas Scholl, Lance E. De Long, J. Todd Hastings, Sophie A. Morley, and Sujoy Roy
+Helical x rays carrying orbital angular momentum (OAM) are a promising addition to x-ray characterization techniques. Here, the authors study x-ray beams with OAM that are created by scattering from a topological defect in an artificial antiferromagnet. Helicity- and polarization-dependent x-ray scattering is used to distinguish two degenerate real-space magnetic configurations of the antiferromagnetic lattice — information that is usually inaccessible in scattering experiments with a Gaussian beam. This demonstrates the potential to use helical x rays for materials characterization.
+
+[Phys. Rev. B 107, L060407] Published Wed Feb 15, 2023]]></summary>
+        <author>
+            <name>Margaret R. McCarter, Ahmad I. U. Saleheen, Arnab Singh, Ryan Tumbleson, Justin S. Woods, Anton S. Tremsin, Andreas Scholl, Lance E. De Long, J. Todd Hastings, Sophie A. Morley, and Sujoy Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collective atom-cavity coupling and nonlinear dynamics with atoms with multilevel ground states]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.023714</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.023714"/>
+        <updated>2023-02-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Elmer Suarez, Federico Carollo, Igor Lesanovsky, Beatriz Olmos, Philippe W. Courteille, and Sebastian Slama
+Typically, physicists treat cold atoms in a cavity as simple two-level atoms. Here, the authors go beyond this approximation to show that adding more levels causes light-matter coupling to be time dependent and results in nonlinear behavior. They experimentally confirm these effects using laser-cooled rubidium.
+
+[Phys. Rev. A 107, 023714] Published Wed Feb 15, 2023]]></summary>
+        <author>
+            <name>Elmer Suarez, Federico Carollo, Igor Lesanovsky, Beatriz Olmos, Philippe W. Courteille, and Sebastian Slama</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bottom-Up Growth of Monolayer Honeycomb SiC]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.076203</id>
@@ -1134,32 +1199,6 @@ Offering a potential pathway to the fantasy of invisibility, cloaking has been a
 [Phys. Rev. Applied 19, 014051] Published Wed Jan 18, 2023]]></summary>
         <author>
             <name>Mojtaba Dehmollaian, Guillaume Lavigne, and Christophe Caloz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerr Enhanced Backaction Cooling in Magnetomechanics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.033601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.033601"/>
-        <updated>2023-01-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. Zoepfl, M. L. Juan, N. Diaz-Naufal, C. M. F. Schneider, L. F. Deeg, A. Sharafiev, A. Metelmann, and G. Kirchmair
-Photons in a nonlinear cavity perform “negative” work on a mechanical oscillator, cooling it toward its ground state.
-
-[Phys. Rev. Lett. 130, 033601] Published Tue Jan 17, 2023]]></summary>
-        <author>
-            <name>D. Zoepfl, M. L. Juan, N. Diaz-Naufal, C. M. F. Schneider, L. F. Deeg, A. Sharafiev, A. Metelmann, and G. Kirchmair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charge order with unusual star-of-David lattice in monolayer ${\mathrm{NbTe}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L041105</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L041105"/>
-        <updated>2023-01-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Taiki Taguchi, Katsuaki Sugawara, Hirofumi Oka, Tappei Kawakami, Yasuaki Saruta, Takemi Kato, Kosuke Nakayama, Seigo Souma, Takashi Takahashi, Tomoteru Fukumura, and Takafumi Sato
-The authors fabricated a new two-dimensional material, monolayer NbTe2, and investigated its electronic states. They discovered a charge-density wave with a √19×√19 periodicity, accompanied by partially occupied metallic star-of-David clusters of Nb atoms, which is in sharp contrast to the fully occupied Mott-insulating monolayer NbSe2. Such an intriguing difference is found to originate from the underlying fermiology and hidden-Fermi-surface nesting. The present result lays the foundation for manipulating the two-dimensional Mott-insulator phase.
-
-[Phys. Rev. B 107, L041105] Published Tue Jan 17, 2023]]></summary>
-        <author>
-            <name>Taiki Taguchi, Katsuaki Sugawara, Hirofumi Oka, Tappei Kawakami, Yasuaki Saruta, Takemi Kato, Kosuke Nakayama, Seigo Souma, Takashi Takahashi, Tomoteru Fukumura, and Takafumi Sato</name>
         </author>
     </entry>
 </feed>
