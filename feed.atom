@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T00:56:59.382Z</id>
+    <id>urn:2023-02-17T00:59:57.294Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T00:56:59.382Z</updated>
+    <updated>2023-02-17T00:59:57.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Triple junction solute segregation in Al-based polycrystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.023601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.023601"/>
+        <updated>2023-02-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Nutth Tuchinda and Christopher A. Schuh
+This study focuses on the impact of grain triple junctions on the bulk thermodynamics of nanomaterials, particularly in Al-based polycrystals where the volume fraction of these junctions is high. The investigation evaluates the energetics of solute segregation at both grain boundaries and triple junctions, and identifies systems where junction segregation is preferred over grain boundaries. The study generates a comprehensive database of segregation spectra for 39 solute elements in Al, which reveals important chemical trends that can aid in alloy designs. Furthermore, the framework employed in this study is adaptable to other alloy systems.
+
+[Phys. Rev. Materials 7, 023601] Published Thu Feb 16, 2023]]></summary>
+        <author>
+            <name>Nutth Tuchinda and Christopher A. Schuh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primordial non-Gaussianity up to all orders: Theoretical aspects and implications for primordial black hole models]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.043520</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.043520"/>
+        <updated>2023-02-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Giacomo Ferrante, Gabriele Franciolini, Antonio Junior Iovino, and Alfredo Urbano
+The authors develop a formalism for computing the abundance of primordial black holes (PBH) in the presence of local non-Gaussianities in the curvature perturbation field. They show that polynomial expansions will not suffice in certain limits and provide numerical methods to address this issue. They demonstrate how their technique affects both the total PBH abundances and gravitational wave expectations.
+
+[Phys. Rev. D 107, 043520] Published Thu Feb 16, 2023]]></summary>
+        <author>
+            <name>Giacomo Ferrante, Gabriele Franciolini, Antonio Junior Iovino, and Alfredo Urbano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Non-Gaussian Diffusion Near Surfaces]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.077101</id>
@@ -1160,45 +1186,6 @@ A laser beam’s peak intensity may be programmed to move at an arbitrary veloci
 [Phys. Rev. A 107, 013513] Published Thu Jan 19, 2023]]></summary>
         <author>
             <name>D. Ramsey, A. Di Piazza, M. Formanek, P. Franke, D. H. Froula, B. Malaca, W. B. Mori, J. R. Pierce, T. T. Simpson, J. Vieira, M. Vranic, K. Weichman, and J. P. Palastro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search for Cosmic-Ray Boosted Sub-GeV Dark Matter Using Recoil Protons at Super-Kamiokande]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.031802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.031802"/>
-        <updated>2023-01-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): K. Abe et al. (Super-Kamiokande Collaboration)
-Interactions with cosmic rays could make low-mass dark matter particles detectable by neutrino observatories. But an analysis of two decades’ worth of data shows no signs of the particles.
-
-[Phys. Rev. Lett. 130, 031802] Published Wed Jan 18, 2023]]></summary>
-        <author>
-            <name>K. Abe &lt;em&gt;et al.&lt;/em&gt; (Super-Kamiokande Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsupervised Data-Driven Classification of Topological Gapped Systems with Symmetries]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.036601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.036601"/>
-        <updated>2023-01-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yang Long and Baile Zhang
-An unsupervised learning approach leads to the classification of topological gapped systems without a priori knowledge of topological invariants.
-
-[Phys. Rev. Lett. 130, 036601] Published Wed Jan 18, 2023]]></summary>
-        <author>
-            <name>Yang Long and Baile Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transmittable Nonreciprocal Cloaking]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.014051</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.014051"/>
-        <updated>2023-01-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mojtaba Dehmollaian, Guillaume Lavigne, and Christophe Caloz
-Offering a potential pathway to the fantasy of invisibility, cloaking has been a most popular concept since its introduction over 15 years ago. This article furthers the concept by making the cloak transmittable, so as to allow “transmitting without being seen”. This special cloak consists of a concentric set of bianisotropic metasurfaces with a nonreciprocal innermost element, and allows the entity sitting at its center to transmit information at will in a desired direction while remaining invisible in all other directions. Such cloaks may find application in e.g. stealth technology, blockage avoidance, optical illusion, and cooling.
-
-[Phys. Rev. Applied 19, 014051] Published Wed Jan 18, 2023]]></summary>
-        <author>
-            <name>Mojtaba Dehmollaian, Guillaume Lavigne, and Christophe Caloz</name>
         </author>
     </entry>
 </feed>
