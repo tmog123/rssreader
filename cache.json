@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.097401",
+          "author": "Rui-Jie Wu, Yi-Xiu Kong, Zengru Di, Jordi Bascompte, and Gui-Yuan Shi",
+          "description": "Author(s): Rui-Jie Wu, Yi-Xiu Kong, Zengru Di, Jordi Bascompte, and Gui-Yuan Shi\nAn analytic approach for obtaining rigorous bounds on tipping points for general nonlinear cooperative networks makes it possible to calculate accurately the criteria for the collapse of such networks.\n\n[Phys. Rev. Lett. 130, 097401] Published Mon Feb 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.097401",
+          "publishedOn": "2023-02-27T10:00:00.000Z",
+          "wordCount": 1131,
+          "title": "Rigorous Criteria for the Collapse of Nonlinear Cooperative Networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.097401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.098202",
+          "author": "Galien Grosjean and Scott Waitukaitis",
+          "description": "Author(s): Galien Grosjean and Scott Waitukaitis\nThe results of new experiments indicate that surface-adsorbed water molecules are responsible for contact electrification in granular matter, a finding that challenges established models of this phenomenon.\n\n[Phys. Rev. Lett. 130, 098202] Published Mon Feb 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.098202",
+          "publishedOn": "2023-02-27T10:00:00.000Z",
+          "wordCount": 1204,
+          "title": "Single-Collision Statistics Reveal a Global Mechanism Driven by Sample History for Contact Electrification in Granular Media",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.098202.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.024137",
+          "author": "Grace M. Sommers, Michael J. Gullans, and David A. Huse",
+          "description": "Author(s): Grace M. Sommers, Michael J. Gullans, and David A. Huse\nIn commonly used percolation models, bonds of a lattice are occupied randomly and one asks if a connected cluster is present. In this paper, the authors study models in which bonds are occupied according to a deterministic and quasiperiodic pattern rather than randomly, and they find critical behavior quite different from random percolation.\n\n[Phys. Rev. E 107, 024137] Published Mon Feb 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.024137",
+          "publishedOn": "2023-02-27T10:00:00.000Z",
+          "wordCount": 2014,
+          "title": "Self-dual quasiperiodic percolation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.024137.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.046020",
+          "author": "Giuseppe Dibitetto and Nicolò Petri",
+          "description": "Author(s): Giuseppe Dibitetto and Nicolò Petri\nThe authors study the spontaneous nucleation of bubbles within metastable (gravitational) vacua, including a true stable vacuum, in the context of consistent lower-dimensional truncations of string and M-theories. They present two fully backreacted examples, without thin-wall approximation, of gravitational instantons obtained from a numerical integration of the first-order Hamilton-Jacobi equations. These solutions are domain walls connecting a supersymmetric and a non-supersymmetric AdS vacuum that show a nonperturbative instability of the non-SUSY AdS vacua.\n\n[Phys. Rev. D 107, 046020] Published Mon Feb 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.046020",
+          "publishedOn": "2023-02-27T10:00:00.000Z",
+          "wordCount": 1105,
+          "title": "Searching for Coleman–de Luccia bubbles in AdS compactifications",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.046020.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.054438",
+          "author": "A. R. Wildes, B. Fåk, U. B. Hansen, M. Enderle, J. R. Stewart, L. Testa, H. M. Rønnow, C. Kim, and Je-Geun Park",
+          "description": "Author(s): A. R. Wildes, B. Fåk, U. B. Hansen, M. Enderle, J. R. Stewart, L. Testa, H. M. Rønnow, C. Kim, and Je-Geun Park\nCoPS3 is a van der Waals antiferromagnet with the Co2+ ions forming decoupled honeycomb layers. It was a candidate to host exotic magnetic properties such as valence-bond states or Kitaev-like physics. Here, the authors show, using neutron inelastic scattering, that CoPS3 does not have these states. Instead, well-defined excitations are observed that are accurately modeled using linear spin wave theory with high-spin S=3/2 and biaxial single-ion anisotropy, giving insight for the reasons behind the absence of exotic states.\n\n[Phys. Rev. B 107, 054438] Published Mon Feb 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.054438",
+          "publishedOn": "2023-02-27T10:00:00.000Z",
+          "wordCount": 1390,
+          "title": "Spin wave spectra of single crystal ${\\mathrm{CoPS}}_{3}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.054438.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.023521",
+          "author": "Saumya Choudhary, Robert W. Boyd, and J. E. Sipe",
+          "description": "Author(s): Saumya Choudhary, Robert W. Boyd, and J. E. Sipe\nThe authors derive a semianalytical model describing the reflection and absorption spectra of dipolar bilayer metasurfaces, showing how radiative coupling between the layers can result in the formation of nonradiative dark modes which can contribute significantly to the optical response of the system. The ability to vary the reflection and absorption spectra of such bilayers by changing the material and geometrical parameters, and to selectively excite the modes by adjusting the phase between two counter-propagating normally incident fields, promises numerous applications.\n\n[Phys. Rev. A 107, 023521] Published Mon Feb 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.023521",
+          "publishedOn": "2023-02-27T10:00:00.000Z",
+          "wordCount": 1235,
+          "title": "Dark and bright modes, and their coherent control in dipolar metasurface bilayers",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.023521.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.011024",
           "author": "Bruno Etcheverry, Yoël Forterre, and Bloen Metzger",
           "description": "Author(s): Bruno Etcheverry, Yoël Forterre, and Bloen Metzger\nThe “capillarytron” lets researchers access mechanical properties of very dense suspensions.\n\n[Phys. Rev. X 13, 011024] Published Fri Feb 24, 2023",
@@ -901,7 +961,7 @@
           "description": "Author(s): Ymir K. Frodason, Joel B. Varley, Klaus Magnus H. Johansen, Lasse Vines, and Chris G. Van de Walle\nThe authors present a systematic and comprehensive theoretical study of Ga vacancy and interstitial migration in monoclinic gallium sesquioxide, based on hybrid functional calculations and the nudged elastic band technique. Notably, it is shown that the Ga vacancy can form a favorable three-split configuration, consisting of three Ga vacancies and two Ga interstitials, which enables migration with a dramatically lower migration barrier than previously calculated, further demonstrating the important role of split vacancies in this material.\n\n[Phys. Rev. B 107, 024109] Published Tue Jan 31, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.024109",
           "publishedOn": "2023-01-31T10:00:00.000Z",
-          "wordCount": 1278,
+          "wordCount": 1277,
           "title": "Migration of Ga vacancies and interstitials in $β\\text{−}{\\mathrm{Ga}}_{2}{\\mathrm{O}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.024109.png"
         },
@@ -944,16 +1004,6 @@
           "wordCount": 1378,
           "title": "KamNet: An integrated spatiotemporal deep neural network for rare event searches in KamLAND-Zen",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.014323.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.107.014913",
-          "author": "Joseph I. Kapusta, Scott Pratt, and Mayank Singh",
-          "description": "Author(s): Joseph I. Kapusta, Scott Pratt, and Mayank Singh\nThis paper uses simple models to interpret recent measurements of anomalously strong correlations between neutral and charged kaon production performed at the LHC for high-energy heavy-ion collisions. Thermal models, including charge conservation effects, are found to be insufficient to explain the data for the most central collisions. More exotic conjectures involving coherent emission can reproduce the observations if 30% of the kaons are emitted from coherent sources in the most central collisions. Such coherence might be related to the melting and re-freezing of the QCD vacuum.\n\n[Phys. Rev. C 107, 014913] Published Mon Jan 30, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.014913",
-          "publishedOn": "2023-01-30T10:00:00.000Z",
-          "wordCount": 1030,
-          "title": "Confronting anomalous kaon correlations measured in Pb-Pb collisions at $\\sqrt{{s}_{NN}}=2.76$ TeV",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.014913.png"
         }
       ]
     }
