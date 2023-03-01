@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T00:57:22.795Z</id>
+    <id>urn:2023-03-01T01:03:27.440Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-28T00:57:22.795Z</updated>
+    <updated>2023-03-01T01:03:27.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Magnetic Field-Resilient Quantum-Limited Parametric Amplifier]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.4.010322</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.4.010322"/>
+        <updated>2023-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mingrui Xu, Risheng Cheng, Yufeng Wu, Gangqiang Liu, and Hong X. Tang
+A low-noise parametric amplifier based on kinetic inductance, suitable for integration with quantum systems in magnetic fields, is experimentally demonstrated
+
+[PRX Quantum 4, 010322] Published Tue Feb 28, 2023]]></summary>
+        <author>
+            <name>Mingrui Xu, Risheng Cheng, Yufeng Wu, Gangqiang Liu, and Hong X. Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proofs of Network Quantum Nonlocality in Continuous Families of Distributions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.090201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.090201"/>
+        <updated>2023-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alejandro Pozas-Kerstjens, Nicolas Gisin, and Marc-Olivier Renou
+A conjecture initially formulated by applying machine learning techniques to network nonlocality is rigorously proved.
+
+[Phys. Rev. Lett. 130, 090201] Published Tue Feb 28, 2023]]></summary>
+        <author>
+            <name>Alejandro Pozas-Kerstjens, Nicolas Gisin, and Marc-Olivier Renou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiral Light Amplifier with Pumped Weyl Semimetals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.096903</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.096903"/>
+        <updated>2023-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yusuke Nishida
+While not yet experimentally realizable, a theory shows that a pumped Weyl semimetal could potentially be used as a “chiral light amplifier” with helicity selectivity whose performance could be tuned using electric, chiral magnetic, and anomalous Hall conductivities.
+
+[Phys. Rev. Lett. 130, 096903] Published Tue Feb 28, 2023]]></summary>
+        <author>
+            <name>Yusuke Nishida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sampling rare event energy landscapes via birth-death augmented dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.024141</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.024141"/>
+        <updated>2023-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Benjamin Pampel, Simon Holbach, Lisa Hartung, and Omar Valsson
+A common problem in simulations of complex systems is the separation of metastable states by high barriers that hinder transitions between the states. The authors address this by adapting a sampling algorithm that includes a birth-death process, and show that this scheme can efficiently sample energy landscapes with such barriers.
+
+[Phys. Rev. E 107, 024141] Published Tue Feb 28, 2023]]></summary>
+        <author>
+            <name>Benjamin Pampel, Simon Holbach, Lisa Hartung, and Omar Valsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flow-network-controlled shape transformation of a thin membrane through differential fluid storage and surface expansion]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.024419</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.024419"/>
+        <updated>2023-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yongtian Luo, Che-Ling Ho, Brent R. Helliker, and Eleni Katifori
+Flows in a fluid network embedded in a thin material can change the shape of that material. Inspired by the unfolding of flower petals, the authors of this paper study this phenomenon using a simple model that couples hydraulic networks to deformation mechanics.
+
+[Phys. Rev. E 107, 024419] Published Tue Feb 28, 2023]]></summary>
+        <author>
+            <name>Yongtian Luo, Che-Ling Ho, Brent R. Helliker, and Eleni Katifori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnons, magnon bound pairs, and their hybrid spin-multipolar topology]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.064429</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.064429"/>
+        <updated>2023-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander Mook, Rhea Hoyer, Jelena Klinovaja, and Daniel Loss
+The fully polarized ferromagnetic ground state is arguably the least quantum of all magnetic ground states. Nonetheless, the authors show that it can support topological quantum spin excitations with exotic spin-multipolar properties if spin conservation is broken. These excitations are superpositions of dipolar magnons and quadrupolar two-magnon bound states. As a result of their topology, such quantum ferromagnets exhibit both chiral edge excitations, akin to edge states in Chern insulators but at finite energy, and an intrinsic thermal Hall effect.
+
+[Phys. Rev. B 107, 064429] Published Tue Feb 28, 2023]]></summary>
+        <author>
+            <name>Alexander Mook, Rhea Hoyer, Jelena Klinovaja, and Daniel Loss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonresonant coherent amplitude transfer in attosecond four-wave-mixing spectroscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.023526</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.023526"/>
+        <updated>2023-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): James D. Gaynor, Ashley P. Fidler, Yuki Kobayashi, Yen-Cheng Lin, Clare L. Keenan, Daniel M. Neumark, and Stephen R. Leone
+The authors use attosecond four-wave-mixing spectroscopy to measure coherent superpositions of Rydberg states resulting from extreme ultraviolet excitation of a 3s electron in gas phase atomic argon to a series of autoionizing 3s-1np Rydberg states. The experimental observations are reproduced by electronic-structure and transition-moment calculations.
+
+[Phys. Rev. A 107, 023526] Published Tue Feb 28, 2023]]></summary>
+        <author>
+            <name>James D. Gaynor, Ashley P. Fidler, Yuki Kobayashi, Yen-Cheng Lin, Clare L. Keenan, Daniel M. Neumark, and Stephen R. Leone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rigorous Criteria for the Collapse of Nonlinear Cooperative Networks]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.097401</id>
@@ -505,7 +596,7 @@ The Baikal-GVD neutrino telescope collaboration reports observing the diffuse co
         <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.085421"/>
         <updated>2023-02-21T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Tomasz Dietl
-Which mechanism accounts for backscattering between helical edge states in two-dimensional topological insulators? Here and in a companion paper [phys_rev_lett_130_xxxxxx_2023], the author demonstrates that the magnitude of the topological protection length can be explained by spin nonconserving Kondo scattering of edge electrons by holes, localized on background acceptors and residing in the band gap. Surprisingly, doping with Mn ions restores the quantization precision due to the formation of acceptor-bound magnetic polarons that destroy the Kondo effect.
+Which mechanism accounts for backscattering between helical edge states in two-dimensional topological insulators? Here and in a companion paper Phys. Rev. Lett. 130, 086202 (2023), the author demonstrates that the magnitude of the topological protection length can be explained by spin nonconserving Kondo scattering of edge electrons by holes, localized on background acceptors and residing in the band gap. Surprisingly, doping with Mn ions restores the quantization precision due to the formation of acceptor-bound magnetic polarons that destroy the Kondo effect.
 
 [Phys. Rev. B 107, 085421] Published Tue Feb 21, 2023]]></summary>
         <author>
@@ -1212,97 +1303,6 @@ Using cross-correlation measurements and an updated cosmic-microwave-background 
 [Phys. Rev. D 107, 023529] Published Tue Jan 31, 2023]]></summary>
         <author>
             <name>Y. Omori &lt;em&gt;et al.&lt;/em&gt; (DES and SPT Collaborations)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and $Planck$. II. Cross-correlation measurements and cosmological constraints]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.023530</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.023530"/>
-        <updated>2023-01-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. Chang et al. (DES & SPT Collaborations)
-Using cross-correlation measurements and an updated cosmic-microwave-background lensing map, researchers determine cosmological parameters with greater precision.
-
-[Phys. Rev. D 107, 023530] Published Tue Jan 31, 2023]]></summary>
-        <author>
-            <name>C. Chang &lt;em&gt;et al.&lt;/em&gt; (DES &amp; SPT Collaborations)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and <i>Planck</i>. III. Combined cosmological constraints]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.023531</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.023531"/>
-        <updated>2023-01-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. M. C. Abbott et al. (DES and SPT Collaborations)
-Using cross-correlation measurements and an updated cosmic-microwave-background lensing map, researchers determine cosmological parameters with greater precision.
-
-[Phys. Rev. D 107, 023531] Published Tue Jan 31, 2023]]></summary>
-        <author>
-            <name>T. M. C. Abbott &lt;em&gt;et al.&lt;/em&gt; (DES and SPT Collaborations)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migration of Ga vacancies and interstitials in $β\text{−}{\mathrm{Ga}}_{2}{\mathrm{O}}_{3}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.024109</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.024109"/>
-        <updated>2023-01-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ymir K. Frodason, Joel B. Varley, Klaus Magnus H. Johansen, Lasse Vines, and Chris G. Van de Walle
-The authors present a systematic and comprehensive theoretical study of Ga vacancy and interstitial migration in monoclinic gallium sesquioxide, based on hybrid functional calculations and the nudged elastic band technique. Notably, it is shown that the Ga vacancy can form a favorable three-split configuration, consisting of three Ga vacancies and two Ga interstitials, which enables migration with a dramatically lower migration barrier than previously calculated, further demonstrating the important role of split vacancies in this material.
-
-[Phys. Rev. B 107, 024109] Published Tue Jan 31, 2023]]></summary>
-        <author>
-            <name>Ymir K. Frodason, Joel B. Varley, Klaus Magnus H. Johansen, Lasse Vines, and Chris G. Van de Walle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pressure-induced metallization and superconductivity in the layered van der Waals semiconductor GaTe]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.024512</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.024512"/>
-        <updated>2023-01-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jin Jiang, Xuliang Chen (陈绪亮), Shuyang Wang, Chao An, Ying Zhou, Min Zhang, Yonghui Zhou, and Zhaorong Yang
-Investigations show that the physical properties of the layered van der Waals semiconductor GaTe are strongly layer dependent. Here, the authors systematically study its properties by using external pressure as a tuning knob. They first find pressure-induced metallization and superconductivity simultaneously occurring at ~3 GPa, presumably owing to a quasi-two-dimensional to three-dimensional structural crossover and to an electronic phase transition due to a change of the bonding nature between layers from weak van der Waals interaction to strong Coulomb coupling. A second distinct superconducting phase is then observed at ~10 GPa due to a structural transition.
-
-[Phys. Rev. B 107, 024512] Published Tue Jan 31, 2023]]></summary>
-        <author>
-            <name>Jin Jiang, Xuliang Chen (陈绪亮), Shuyang Wang, Chao An, Ying Zhou, Min Zhang, Yonghui Zhou, and Zhaorong Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search for the Majorana Nature of Neutrinos in the Inverted Mass Ordering Region with KamLAND-Zen]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.051801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.051801"/>
-        <updated>2023-01-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. Abe et al. (KamLAND-Zen Collaboration)
-Detecting neutrinoless double-beta decay would confirm that the neutrino is its own antiparticle. Data from the KamLAND-Zen experiment contain no strong evidence of such events, constraining neutrino properties.
-
-[Phys. Rev. Lett. 130, 051801] Published Mon Jan 30, 2023]]></summary>
-        <author>
-            <name>S. Abe &lt;em&gt;et al.&lt;/em&gt; (KamLAND-Zen Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.057401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.057401"/>
-        <updated>2023-01-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jan Korbel, Simon D. Lindner, Tuan Minh Pham, Rudolf Hanel, and Stefan Thurner
-Homophilic interactions drive the formation dynamics of social groups, according to a model of opinions expressed on social networks which uses a spin-glass framework.
-
-[Phys. Rev. Lett. 130, 057401] Published Mon Jan 30, 2023]]></summary>
-        <author>
-            <name>Jan Korbel, Simon D. Lindner, Tuan Minh Pham, Rudolf Hanel, and Stefan Thurner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KamNet: An integrated spatiotemporal deep neural network for rare event searches in KamLAND-Zen]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.014323</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.014323"/>
-        <updated>2023-01-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow
-Searches for rare events employ customized detectors with large fiducial mass to effectively reduce background. Leveraging recent breakthroughs in geometric deep learning and spatiotemporal analysis, this work presents a novel machine-learning algorithm (KamNet) as a new, robust tool to maximize the information provided by the kiloton-scale KamLAND liquid-scintillator detector. Adding a so-called “attention mechanism” to KamNet, the authors demonstrate that this enhanced machine-learning approach can increase the sensitivity of the KamLAND-Zen experiment to zero-neutrino- and two-neutrino double-β decay. That mechanism also elucidates the underlying physics KamNet is using for background rejection.
-
-[Phys. Rev. C 107, 014323] Published Mon Jan 30, 2023]]></summary>
-        <author>
-            <name>A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow</name>
         </author>
     </entry>
 </feed>

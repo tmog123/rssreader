@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010322",
+          "author": "Mingrui Xu, Risheng Cheng, Yufeng Wu, Gangqiang Liu, and Hong X. Tang",
+          "description": "Author(s): Mingrui Xu, Risheng Cheng, Yufeng Wu, Gangqiang Liu, and Hong X. Tang\nA low-noise parametric amplifier based on kinetic inductance, suitable for integration with quantum systems in magnetic fields, is experimentally demonstrated\n\n[PRX Quantum 4, 010322] Published Tue Feb 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010322",
+          "publishedOn": "2023-02-28T10:00:00.000Z",
+          "wordCount": 1366,
+          "title": "Magnetic Field-Resilient Quantum-Limited Parametric Amplifier",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.010322.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.090201",
+          "author": "Alejandro Pozas-Kerstjens, Nicolas Gisin, and Marc-Olivier Renou",
+          "description": "Author(s): Alejandro Pozas-Kerstjens, Nicolas Gisin, and Marc-Olivier Renou\nA conjecture initially formulated by applying machine learning techniques to network nonlocality is rigorously proved.\n\n[Phys. Rev. Lett. 130, 090201] Published Tue Feb 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.090201",
+          "publishedOn": "2023-02-28T10:00:00.000Z",
+          "wordCount": 866,
+          "title": "Proofs of Network Quantum Nonlocality in Continuous Families of Distributions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.090201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.096903",
+          "author": "Yusuke Nishida",
+          "description": "Author(s): Yusuke Nishida\nWhile not yet experimentally realizable, a theory shows that a pumped Weyl semimetal could potentially be used as a “chiral light amplifier” with helicity selectivity whose performance could be tuned using electric, chiral magnetic, and anomalous Hall conductivities.\n\n[Phys. Rev. Lett. 130, 096903] Published Tue Feb 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.096903",
+          "publishedOn": "2023-02-28T10:00:00.000Z",
+          "wordCount": 789,
+          "title": "Chiral Light Amplifier with Pumped Weyl Semimetals",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.096903.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.024141",
+          "author": "Benjamin Pampel, Simon Holbach, Lisa Hartung, and Omar Valsson",
+          "description": "Author(s): Benjamin Pampel, Simon Holbach, Lisa Hartung, and Omar Valsson\nA common problem in simulations of complex systems is the separation of metastable states by high barriers that hinder transitions between the states. The authors address this by adapting a sampling algorithm that includes a birth-death process, and show that this scheme can efficiently sample energy landscapes with such barriers.\n\n[Phys. Rev. E 107, 024141] Published Tue Feb 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.024141",
+          "publishedOn": "2023-02-28T10:00:00.000Z",
+          "wordCount": 1633,
+          "title": "Sampling rare event energy landscapes via birth-death augmented dynamics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.024141.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.024419",
+          "author": "Yongtian Luo, Che-Ling Ho, Brent R. Helliker, and Eleni Katifori",
+          "description": "Author(s): Yongtian Luo, Che-Ling Ho, Brent R. Helliker, and Eleni Katifori\nFlows in a fluid network embedded in a thin material can change the shape of that material. Inspired by the unfolding of flower petals, the authors of this paper study this phenomenon using a simple model that couples hydraulic networks to deformation mechanics.\n\n[Phys. Rev. E 107, 024419] Published Tue Feb 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.024419",
+          "publishedOn": "2023-02-28T10:00:00.000Z",
+          "wordCount": 1712,
+          "title": "Flow-network-controlled shape transformation of a thin membrane through differential fluid storage and surface expansion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.024419.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.064429",
+          "author": "Alexander Mook, Rhea Hoyer, Jelena Klinovaja, and Daniel Loss",
+          "description": "Author(s): Alexander Mook, Rhea Hoyer, Jelena Klinovaja, and Daniel Loss\nThe fully polarized ferromagnetic ground state is arguably the least quantum of all magnetic ground states. Nonetheless, the authors show that it can support topological quantum spin excitations with exotic spin-multipolar properties if spin conservation is broken. These excitations are superpositions of dipolar magnons and quadrupolar two-magnon bound states. As a result of their topology, such quantum ferromagnets exhibit both chiral edge excitations, akin to edge states in Chern insulators but at finite energy, and an intrinsic thermal Hall effect.\n\n[Phys. Rev. B 107, 064429] Published Tue Feb 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.064429",
+          "publishedOn": "2023-02-28T10:00:00.000Z",
+          "wordCount": 3286,
+          "title": "Magnons, magnon bound pairs, and their hybrid spin-multipolar topology",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.064429.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.023526",
+          "author": "James D. Gaynor, Ashley P. Fidler, Yuki Kobayashi, Yen-Cheng Lin, Clare L. Keenan, Daniel M. Neumark, and Stephen R. Leone",
+          "description": "Author(s): James D. Gaynor, Ashley P. Fidler, Yuki Kobayashi, Yen-Cheng Lin, Clare L. Keenan, Daniel M. Neumark, and Stephen R. Leone\nThe authors use attosecond four-wave-mixing spectroscopy to measure coherent superpositions of Rydberg states resulting from extreme ultraviolet excitation of a 3s electron in gas phase atomic argon to a series of autoionizing 3s-1np Rydberg states. The experimental observations are reproduced by electronic-structure and transition-moment calculations.\n\n[Phys. Rev. A 107, 023526] Published Tue Feb 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.023526",
+          "publishedOn": "2023-02-28T10:00:00.000Z",
+          "wordCount": 1475,
+          "title": "Nonresonant coherent amplitude transfer in attosecond four-wave-mixing spectroscopy",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.023526.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.097401",
           "author": "Rui-Jie Wu, Yi-Xiu Kong, Zengru Di, Jordi Bascompte, and Gui-Yuan Shi",
           "description": "Author(s): Rui-Jie Wu, Yi-Xiu Kong, Zengru Di, Jordi Bascompte, and Gui-Yuan Shi\nAn analytic approach for obtaining rigorous bounds on tipping points for general nonlinear cooperative networks makes it possible to calculate accurately the criteria for the collapse of such networks.\n\n[Phys. Rev. Lett. 130, 097401] Published Mon Feb 27, 2023",
@@ -388,7 +458,7 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.085421",
           "author": "Tomasz Dietl",
-          "description": "Author(s): Tomasz Dietl\nWhich mechanism accounts for backscattering between helical edge states in two-dimensional topological insulators? Here and in a companion paper [phys_rev_lett_130_xxxxxx_2023], the author demonstrates that the magnitude of the topological protection length can be explained by spin nonconserving Kondo scattering of edge electrons by holes, localized on background acceptors and residing in the band gap. Surprisingly, doping with Mn ions restores the quantization precision due to the formation of acceptor-bound magnetic polarons that destroy the Kondo effect.\n\n[Phys. Rev. B 107, 085421] Published Tue Feb 21, 2023",
+          "description": "Author(s): Tomasz Dietl\nWhich mechanism accounts for backscattering between helical edge states in two-dimensional topological insulators? Here and in a companion paper Phys. Rev. Lett. 130, 086202 (2023), the author demonstrates that the magnitude of the topological protection length can be explained by spin nonconserving Kondo scattering of edge electrons by holes, localized on background acceptors and residing in the band gap. Surprisingly, doping with Mn ions restores the quantization precision due to the formation of acceptor-bound magnetic polarons that destroy the Kondo effect.\n\n[Phys. Rev. B 107, 085421] Published Tue Feb 21, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.085421",
           "publishedOn": "2023-02-21T10:00:00.000Z",
           "wordCount": 1287,
@@ -861,7 +931,7 @@
           "description": "Author(s): Claudiu A. Stan, Armin Kalita, Sebastian Marte, Thomas F. Kaldawi, Philip R. Willmott, and Sébastien Boutet\nSupercooled water drops move spontaneously while freezing in vacuum. This self-propulsion phenomenon is caused by an enhanced evaporation rate from the frozen regions of the drops. The evaporating molecules carry momentum, and the drops acquire an opposite momentum, the same as in rocket propulsion.\n\n[Phys. Rev. Fluids 8, L021601] Published Fri Feb 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L021601",
           "publishedOn": "2023-02-03T10:00:00.000Z",
-          "wordCount": 879,
+          "wordCount": 878,
           "title": "Rocket drops: The self-propulsion of supercooled freezing drops",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L021601.png"
         },
@@ -934,76 +1004,6 @@
           "wordCount": 2062,
           "title": "Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and <i>Planck</i>. I. Construction of CMB lensing maps and modeling choices",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.023529.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.023530",
-          "author": "C. Chang <em>et al.</em> (DES &amp; SPT Collaborations)",
-          "description": "Author(s): C. Chang et al. (DES & SPT Collaborations)\nUsing cross-correlation measurements and an updated cosmic-microwave-background lensing map, researchers determine cosmological parameters with greater precision.\n\n[Phys. Rev. D 107, 023530] Published Tue Jan 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.023530",
-          "publishedOn": "2023-01-31T10:00:00.000Z",
-          "wordCount": 1675,
-          "title": "Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and $Planck$. II. Cross-correlation measurements and cosmological constraints",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.023530.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.023531",
-          "author": "T. M. C. Abbott <em>et al.</em> (DES and SPT Collaborations)",
-          "description": "Author(s): T. M. C. Abbott et al. (DES and SPT Collaborations)\nUsing cross-correlation measurements and an updated cosmic-microwave-background lensing map, researchers determine cosmological parameters with greater precision.\n\n[Phys. Rev. D 107, 023531] Published Tue Jan 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.023531",
-          "publishedOn": "2023-01-31T10:00:00.000Z",
-          "wordCount": 1939,
-          "title": "Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and <i>Planck</i>. III. Combined cosmological constraints",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.023531.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.024109",
-          "author": "Ymir K. Frodason, Joel B. Varley, Klaus Magnus H. Johansen, Lasse Vines, and Chris G. Van de Walle",
-          "description": "Author(s): Ymir K. Frodason, Joel B. Varley, Klaus Magnus H. Johansen, Lasse Vines, and Chris G. Van de Walle\nThe authors present a systematic and comprehensive theoretical study of Ga vacancy and interstitial migration in monoclinic gallium sesquioxide, based on hybrid functional calculations and the nudged elastic band technique. Notably, it is shown that the Ga vacancy can form a favorable three-split configuration, consisting of three Ga vacancies and two Ga interstitials, which enables migration with a dramatically lower migration barrier than previously calculated, further demonstrating the important role of split vacancies in this material.\n\n[Phys. Rev. B 107, 024109] Published Tue Jan 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.024109",
-          "publishedOn": "2023-01-31T10:00:00.000Z",
-          "wordCount": 1277,
-          "title": "Migration of Ga vacancies and interstitials in $β\\text{−}{\\mathrm{Ga}}_{2}{\\mathrm{O}}_{3}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.024109.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.024512",
-          "author": "Jin Jiang, Xuliang Chen (陈绪亮), Shuyang Wang, Chao An, Ying Zhou, Min Zhang, Yonghui Zhou, and Zhaorong Yang",
-          "description": "Author(s): Jin Jiang, Xuliang Chen (陈绪亮), Shuyang Wang, Chao An, Ying Zhou, Min Zhang, Yonghui Zhou, and Zhaorong Yang\nInvestigations show that the physical properties of the layered van der Waals semiconductor GaTe are strongly layer dependent. Here, the authors systematically study its properties by using external pressure as a tuning knob. They first find pressure-induced metallization and superconductivity simultaneously occurring at ~3 GPa, presumably owing to a quasi-two-dimensional to three-dimensional structural crossover and to an electronic phase transition due to a change of the bonding nature between layers from weak van der Waals interaction to strong Coulomb coupling. A second distinct superconducting phase is then observed at ~10 GPa due to a structural transition.\n\n[Phys. Rev. B 107, 024512] Published Tue Jan 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.024512",
-          "publishedOn": "2023-01-31T10:00:00.000Z",
-          "wordCount": 1033,
-          "title": "Pressure-induced metallization and superconductivity in the layered van der Waals semiconductor GaTe",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.024512.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.051801",
-          "author": "S. Abe <em>et al.</em> (KamLAND-Zen Collaboration)",
-          "description": "Author(s): S. Abe et al. (KamLAND-Zen Collaboration)\nDetecting neutrinoless double-beta decay would confirm that the neutrino is its own antiparticle. Data from the KamLAND-Zen experiment contain no strong evidence of such events, constraining neutrino properties.\n\n[Phys. Rev. Lett. 130, 051801] Published Mon Jan 30, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.051801",
-          "publishedOn": "2023-01-30T10:00:00.000Z",
-          "wordCount": 1139,
-          "title": "Search for the Majorana Nature of Neutrinos in the Inverted Mass Ordering Region with KamLAND-Zen",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.051801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.057401",
-          "author": "Jan Korbel, Simon D. Lindner, Tuan Minh Pham, Rudolf Hanel, and Stefan Thurner",
-          "description": "Author(s): Jan Korbel, Simon D. Lindner, Tuan Minh Pham, Rudolf Hanel, and Stefan Thurner\nHomophilic interactions drive the formation dynamics of social groups, according to a model of opinions expressed on social networks which uses a spin-glass framework.\n\n[Phys. Rev. Lett. 130, 057401] Published Mon Jan 30, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.057401",
-          "publishedOn": "2023-01-30T10:00:00.000Z",
-          "wordCount": 1177,
-          "title": "Homophily-Based Social Group Formation in a Spin Glass Self-Assembly Framework",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.057401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.107.014323",
-          "author": "A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow",
-          "description": "Author(s): A. Li, Z. Fu, C. Grant, H. Ozaki, I. Shimizu, H. Song, A. Takeuchi, and L. A. Winslow\nSearches for rare events employ customized detectors with large fiducial mass to effectively reduce background. Leveraging recent breakthroughs in geometric deep learning and spatiotemporal analysis, this work presents a novel machine-learning algorithm (KamNet) as a new, robust tool to maximize the information provided by the kiloton-scale KamLAND liquid-scintillator detector. Adding a so-called “attention mechanism” to KamNet, the authors demonstrate that this enhanced machine-learning approach can increase the sensitivity of the KamLAND-Zen experiment to zero-neutrino- and two-neutrino double-β decay. That mechanism also elucidates the underlying physics KamNet is using for background rejection.\n\n[Phys. Rev. C 107, 014323] Published Mon Jan 30, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.014323",
-          "publishedOn": "2023-01-30T10:00:00.000Z",
-          "wordCount": 1378,
-          "title": "KamNet: An integrated spatiotemporal deep neural network for rare event searches in KamLAND-Zen",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.014323.png"
         }
       ]
     }
