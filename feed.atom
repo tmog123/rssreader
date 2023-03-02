@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T01:03:27.440Z</id>
+    <id>urn:2023-03-02T01:01:25.287Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T01:03:27.440Z</updated>
+    <updated>2023-03-02T01:01:25.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Evidence of Antineutrinos from Distant Reactors using Pure Water at $\mathrm{SNO}+$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.091801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.091801"/>
+        <updated>2023-03-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Allega et al. (The SNO+ Collaboration)
+Researchers have captured the signal of neutrinos from a nuclear reactor using a water-filled neutrino detector, a first for such a device.
+
+[Phys. Rev. Lett. 130, 091801] Published Wed Mar 01, 2023]]></summary>
+        <author>
+            <name>A. Allega &lt;em&gt;et al.&lt;/em&gt; (The &lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"&gt;&lt;mrow&gt;&lt;mi&gt;SNO&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt; Collaboration)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magnetic Field-Resilient Quantum-Limited Parametric Amplifier]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.4.010322</id>
@@ -1290,19 +1303,6 @@ Generation of spin currents is currently actively studied from the viewpoint of 
 [Phys. Rev. B 107, 064403] Published Wed Feb 01, 2023]]></summary>
         <author>
             <name>Kosuke Fujiwara, Sota Kitamura, and Takahiro Morimoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and <i>Planck</i>. I. Construction of CMB lensing maps and modeling choices]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.023529</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.023529"/>
-        <updated>2023-01-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Y. Omori et al. (DES and SPT Collaborations)
-Using cross-correlation measurements and an updated cosmic-microwave-background lensing map, researchers determine cosmological parameters with greater precision.
-
-[Phys. Rev. D 107, 023529] Published Tue Jan 31, 2023]]></summary>
-        <author>
-            <name>Y. Omori &lt;em&gt;et al.&lt;/em&gt; (DES and SPT Collaborations)</name>
         </author>
     </entry>
 </feed>

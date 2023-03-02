@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.091801",
+          "author": "A. Allega <em>et al.</em> (The <math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mrow><mi>SNO</mi><mo>+</mo></mrow></math> Collaboration)",
+          "description": "Author(s): A. Allega et al. (The SNO+ Collaboration)\nResearchers have captured the signal of neutrinos from a nuclear reactor using a water-filled neutrino detector, a first for such a device.\n\n[Phys. Rev. Lett. 130, 091801] Published Wed Mar 01, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.091801",
+          "publishedOn": "2023-03-01T10:00:00.000Z",
+          "wordCount": 834,
+          "title": "Evidence of Antineutrinos from Distant Reactors using Pure Water at $\\mathrm{SNO}+$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.091801.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010322",
           "author": "Mingrui Xu, Risheng Cheng, Yufeng Wu, Gangqiang Liu, and Hong X. Tang",
           "description": "Author(s): Mingrui Xu, Risheng Cheng, Yufeng Wu, Gangqiang Liu, and Hong X. Tang\nA low-noise parametric amplifier based on kinetic inductance, suitable for integration with quantum systems in magnetic fields, is experimentally demonstrated\n\n[PRX Quantum 4, 010322] Published Tue Feb 28, 2023",
@@ -931,7 +941,7 @@
           "description": "Author(s): Claudiu A. Stan, Armin Kalita, Sebastian Marte, Thomas F. Kaldawi, Philip R. Willmott, and Sébastien Boutet\nSupercooled water drops move spontaneously while freezing in vacuum. This self-propulsion phenomenon is caused by an enhanced evaporation rate from the frozen regions of the drops. The evaporating molecules carry momentum, and the drops acquire an opposite momentum, the same as in rocket propulsion.\n\n[Phys. Rev. Fluids 8, L021601] Published Fri Feb 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L021601",
           "publishedOn": "2023-02-03T10:00:00.000Z",
-          "wordCount": 878,
+          "wordCount": 879,
           "title": "Rocket drops: The self-propulsion of supercooled freezing drops",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L021601.png"
         },
@@ -994,16 +1004,6 @@
           "wordCount": 999,
           "title": "Nonlinear spin current of photoexcited magnons in collinear antiferromagnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.064403.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.023529",
-          "author": "Y. Omori <em>et al.</em> (DES and SPT Collaborations)",
-          "description": "Author(s): Y. Omori et al. (DES and SPT Collaborations)\nUsing cross-correlation measurements and an updated cosmic-microwave-background lensing map, researchers determine cosmological parameters with greater precision.\n\n[Phys. Rev. D 107, 023529] Published Tue Jan 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.023529",
-          "publishedOn": "2023-01-31T10:00:00.000Z",
-          "wordCount": 2062,
-          "title": "Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and <i>Planck</i>. I. Construction of CMB lensing maps and modeling choices",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.023529.png"
         }
       ]
     }
