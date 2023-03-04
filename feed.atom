@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T02:47:54.766Z</id>
+    <id>urn:2023-03-04T00:55:26.259Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T02:47:54.766Z</updated>
+    <updated>2023-03-04T00:55:26.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Implementation and goals of quantum optics experiments in undergraduate instructional labs]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010117</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010117"/>
+        <updated>2023-03-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Victoria Borish and H. J. Lewandowski
+Single-photon experiments are used to teach quantum phenomena in a wide variety of ways and with a wide variety of learning goals.
+
+[Phys. Rev. Phys. Educ. Res. 19, 010117] Published Fri Mar 03, 2023]]></summary>
+        <author>
+            <name>Victoria Borish and H. J. Lewandowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hourglass-type bulk Ni $3d$ band and Ce $4f$ Kondo resonance states in the potential topological Kondo semimetal CeNiSn via angle-resolved photoemission spectroscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.125109</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.125109"/>
+        <updated>2023-03-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Seungho Seong, J. D. Denlinger, Kyoo Kim, B. I. Min, Y. Ōnuki, and J.-S. Kang
+The electronic structure of CeNiSn, a potential topological Kondo insulator and a Dirac nodal-loop semimetal, is investigated here employing temperature-dependent angle-resolved photoemission spectroscopy (ARPES). Dispersive states crossing the Fermi level (EF) exhibit general agreement with theoretical predictions of bulk Ni 3d bands and show consistency with a topological hourglass-type crossing of bulk bands below EF. Flat Ce 4f states at EF exhibit a Kondo resonance temperature dependence consistent with bulk transport. This work demonstrates the importance of coherent Kondo states in determining the topological properties of CeNiSn.
+
+[Phys. Rev. B 107, 125109] Published Fri Mar 03, 2023]]></summary>
+        <author>
+            <name>Seungho Seong, J. D. Denlinger, Kyoo Kim, B. I. Min, Y. Ōnuki, and J.-S. Kang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recrystallization in string-fluid complex plasmas]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.L012030</id>
@@ -58,7 +84,7 @@ FeRhCrSi shows unconventional magnetic and transport properties. It belongs to o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evidence of Antineutrinos from Distant Reactors using Pure Water at $\mathrm{SNO}+$]]></title>
+        <title type="html"><![CDATA[Evidence of Antineutrinos from Distant Reactors Using Pure Water at $\mathrm{SNO}+$]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.091801</id>
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.091801"/>
         <updated>2023-03-01T10:00:00.000Z</updated>
@@ -185,6 +211,19 @@ The results of new experiments indicate that surface-adsorbed water molecules ar
 [Phys. Rev. Lett. 130, 098202] Published Mon Feb 27, 2023]]></summary>
         <author>
             <name>Galien Grosjean and Scott Waitukaitis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sub-meter wind detection with pulsed coherent Doppler lidar]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.L022701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.L022701"/>
+        <updated>2023-02-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yunpeng Zhang, Jinlong Yuan, Yunbin Wu, Jingjing Dong, and Haiyun Xia
+High-resolution wind detection plays a crucial role in aviation safety and aerodynamics. In this work, the fine wind field within 700 meters is continuously detected at a resolution of 0.9 meters/0.5 seconds by a coherent Doppler wind LiDAR. A meter-scale perturbation by an electric fan is remotely sensed, and atmospheric turbulence with length scale down to 3 meters can be observed.
+
+[Phys. Rev. Fluids 8, L022701] Published Mon Feb 27, 2023]]></summary>
+        <author>
+            <name>Yunpeng Zhang, Jinlong Yuan, Yunbin Wu, Jingjing Dong, and Haiyun Xia</name>
         </author>
     </entry>
     <entry>
@@ -1264,45 +1303,6 @@ Experiments reveal new details of the process by which contaminants in the ocean
 [Phys. Rev. Lett. 130, 054001] Published Fri Feb 03, 2023]]></summary>
         <author>
             <name>Lena Dubitsky, Oliver McRae, and James C. Bird</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket drops: The self-propulsion of supercooled freezing drops]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.L021601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.L021601"/>
-        <updated>2023-02-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Claudiu A. Stan, Armin Kalita, Sebastian Marte, Thomas F. Kaldawi, Philip R. Willmott, and Sébastien Boutet
-Supercooled water drops move spontaneously while freezing in vacuum. This self-propulsion phenomenon is caused by an enhanced evaporation rate from the frozen regions of the drops. The evaporating molecules carry momentum, and the drops acquire an opposite momentum, the same as in rocket propulsion.
-
-[Phys. Rev. Fluids 8, L021601] Published Fri Feb 03, 2023]]></summary>
-        <author>
-            <name>Claudiu A. Stan, Armin Kalita, Sebastian Marte, Thomas F. Kaldawi, Philip R. Willmott, and Sébastien Boutet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asteroids for ultralight dark-photon dark-matter detection]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.043004</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.043004"/>
-        <updated>2023-02-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michael A. Fedderke and Anubhav Mathur
-This forward looking work considers the technical requirements for a post-LISA gravitational wave detector in the μHz frequency regime. The novel goal is to detect changes in the separation between asteroids in the Solar System as a probe for “dark-photon dark matter.”
-
-[Phys. Rev. D 107, 043004] Published Fri Feb 03, 2023]]></summary>
-        <author>
-            <name>Michael A. Fedderke and Anubhav Mathur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Membrane-Based Optomechanical Accelerometry]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.024011</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.024011"/>
-        <updated>2023-02-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mitul Dey Chowdhury, Aman R. Agrawal, and Dalziel J. Wilson
-Cavity optomechanical accelerometers promise ultrahigh sensitivity, in situ calibration, and radiation-pressure stabilization for e.g. chip-scale gravimetry or dark-matter searches. However, platforms that meet the unique technical demands are difficult to fabricate. The authors demonstrate a simple, scalable setup with an optical cavity based on a pair of vertically integrated Si3N4 membranes of different stiffnesses. Radiation-pressure cooling of membrane motion enables resolution of chip acceleration to better than 10−7g, over a bandwidth of several kilohertz. A cryogenic array of these devices could be used to search for weak inertial forces due to dark matter.
-
-[Phys. Rev. Applied 19, 024011] Published Fri Feb 03, 2023]]></summary>
-        <author>
-            <name>Mitul Dey Chowdhury, Aman R. Agrawal, and Dalziel J. Wilson</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010117",
+          "author": "Victoria Borish and H. J. Lewandowski",
+          "description": "Author(s): Victoria Borish and H. J. Lewandowski\nSingle-photon experiments are used to teach quantum phenomena in a wide variety of ways and with a wide variety of learning goals.\n\n[Phys. Rev. Phys. Educ. Res. 19, 010117] Published Fri Mar 03, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010117",
+          "publishedOn": "2023-03-03T10:00:00.000Z",
+          "wordCount": 1153,
+          "title": "Implementation and goals of quantum optics experiments in undergraduate instructional labs",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRPER/key_images/10.1103/PhysRevPhysEducRes.19.010117.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.125109",
+          "author": "Seungho Seong, J. D. Denlinger, Kyoo Kim, B. I. Min, Y. Ōnuki, and J.-S. Kang",
+          "description": "Author(s): Seungho Seong, J. D. Denlinger, Kyoo Kim, B. I. Min, Y. Ōnuki, and J.-S. Kang\nThe electronic structure of CeNiSn, a potential topological Kondo insulator and a Dirac nodal-loop semimetal, is investigated here employing temperature-dependent angle-resolved photoemission spectroscopy (ARPES). Dispersive states crossing the Fermi level (EF) exhibit general agreement with theoretical predictions of bulk Ni 3d bands and show consistency with a topological hourglass-type crossing of bulk bands below EF. Flat Ce 4f states at EF exhibit a Kondo resonance temperature dependence consistent with bulk transport. This work demonstrates the importance of coherent Kondo states in determining the topological properties of CeNiSn.\n\n[Phys. Rev. B 107, 125109] Published Fri Mar 03, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.125109",
+          "publishedOn": "2023-03-03T10:00:00.000Z",
+          "wordCount": 2205,
+          "title": "Hourglass-type bulk Ni $3d$ band and Ce $4f$ Kondo resonance states in the potential topological Kondo semimetal CeNiSn via angle-resolved photoemission spectroscopy",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.125109.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L012030",
           "author": "E. Joshi, M. Y. Pustylnik, M. H. Thoma, H. M. Thomas, and M. Schwabe",
           "description": "Author(s): E. Joshi, M. Y. Pustylnik, M. H. Thoma, H. M. Thomas, and M. Schwabe\nThe process of string-like cluster formation in complex plasmas is investigated. Excellent qualitative agreement between experiment and simulation showed that the reduced repulsion in the interparticle potential was enough to induce the formation of this structure\n\n[Phys. Rev. Research 5, L012030] Published Thu Mar 02, 2023",
@@ -52,7 +72,7 @@
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.091801",
           "publishedOn": "2023-03-01T10:00:00.000Z",
           "wordCount": 834,
-          "title": "Evidence of Antineutrinos from Distant Reactors using Pure Water at $\\mathrm{SNO}+$",
+          "title": "Evidence of Antineutrinos from Distant Reactors Using Pure Water at $\\mathrm{SNO}+$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.091801.png"
         },
         {
@@ -144,6 +164,16 @@
           "wordCount": 1204,
           "title": "Single-Collision Statistics Reveal a Global Mechanism Driven by Sample History for Contact Electrification in Granular Media",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.098202.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L022701",
+          "author": "Yunpeng Zhang, Jinlong Yuan, Yunbin Wu, Jingjing Dong, and Haiyun Xia",
+          "description": "Author(s): Yunpeng Zhang, Jinlong Yuan, Yunbin Wu, Jingjing Dong, and Haiyun Xia\nHigh-resolution wind detection plays a crucial role in aviation safety and aerodynamics. In this work, the fine wind field within 700 meters is continuously detected at a resolution of 0.9 meters/0.5 seconds by a coherent Doppler wind LiDAR. A meter-scale perturbation by an electric fan is remotely sensed, and atmospheric turbulence with length scale down to 3 meters can be observed.\n\n[Phys. Rev. Fluids 8, L022701] Published Mon Feb 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L022701",
+          "publishedOn": "2023-02-27T10:00:00.000Z",
+          "wordCount": 881,
+          "title": "Sub-meter wind detection with pulsed coherent Doppler lidar",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L022701.png"
         },
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.024137",
@@ -241,7 +271,7 @@
           "description": "Author(s): M.R. Hogg, P. Pakkiam, S.K. Gorman, A.V. Timofeev, Y. Chung, G.K. Gulati, M.G. House, and M.Y. Simmons\nA new atomic-scale sensor capable of reading out multiple qubits is engineered, providing a pathway for increasing on-chip qubit density.\n\n[PRX Quantum 4, 010319] Published Thu Feb 23, 2023",
           "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010319",
           "publishedOn": "2023-02-23T10:00:00.000Z",
-          "wordCount": 2047,
+          "wordCount": 2046,
           "title": "Single-Shot Readout of Multiple Donor Electron Spins with a Gate-Based Sensor",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.010319.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 1279,
           "title": "Enrichment of Scavenged Particles in Jet Drops Determined by Bubble Size and Particle Position",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.054001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L021601",
-          "author": "Claudiu A. Stan, Armin Kalita, Sebastian Marte, Thomas F. Kaldawi, Philip R. Willmott, and Sébastien Boutet",
-          "description": "Author(s): Claudiu A. Stan, Armin Kalita, Sebastian Marte, Thomas F. Kaldawi, Philip R. Willmott, and Sébastien Boutet\nSupercooled water drops move spontaneously while freezing in vacuum. This self-propulsion phenomenon is caused by an enhanced evaporation rate from the frozen regions of the drops. The evaporating molecules carry momentum, and the drops acquire an opposite momentum, the same as in rocket propulsion.\n\n[Phys. Rev. Fluids 8, L021601] Published Fri Feb 03, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L021601",
-          "publishedOn": "2023-02-03T10:00:00.000Z",
-          "wordCount": 879,
-          "title": "Rocket drops: The self-propulsion of supercooled freezing drops",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L021601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.043004",
-          "author": "Michael A. Fedderke and Anubhav Mathur",
-          "description": "Author(s): Michael A. Fedderke and Anubhav Mathur\nThis forward looking work considers the technical requirements for a post-LISA gravitational wave detector in the μHz frequency regime. The novel goal is to detect changes in the separation between asteroids in the Solar System as a probe for “dark-photon dark matter.”\n\n[Phys. Rev. D 107, 043004] Published Fri Feb 03, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.043004",
-          "publishedOn": "2023-02-03T10:00:00.000Z",
-          "wordCount": 1151,
-          "title": "Asteroids for ultralight dark-photon dark-matter detection",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.043004.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.024011",
-          "author": "Mitul Dey Chowdhury, Aman R. Agrawal, and Dalziel J. Wilson",
-          "description": "Author(s): Mitul Dey Chowdhury, Aman R. Agrawal, and Dalziel J. Wilson\nCavity optomechanical accelerometers promise ultrahigh sensitivity, in situ calibration, and radiation-pressure stabilization for e.g. chip-scale gravimetry or dark-matter searches. However, platforms that meet the unique technical demands are difficult to fabricate. The authors demonstrate a simple, scalable setup with an optical cavity based on a pair of vertically integrated Si3N4 membranes of different stiffnesses. Radiation-pressure cooling of membrane motion enables resolution of chip acceleration to better than 10−7g, over a bandwidth of several kilohertz. A cryogenic array of these devices could be used to search for weak inertial forces due to dark matter.\n\n[Phys. Rev. Applied 19, 024011] Published Fri Feb 03, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.024011",
-          "publishedOn": "2023-02-03T10:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Membrane-Based Optomechanical Accelerometry",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.024011.png"
         }
       ]
     }
