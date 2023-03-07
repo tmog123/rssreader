@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.034602",
+          "author": "Ruben W. Verweij, Julio Melio, Indrani Chakraborty, and Daniela J. Kraft",
+          "description": "Author(s): Ruben W. Verweij, Julio Melio, Indrani Chakraborty, and Daniela J. Kraft\nMotivated by the topological constraints imposed on cyclic polymers, the authors studied experimentally and numerically a model system for ring polymers. Their model system was created from micron-sized silica particles surrounded by a lipid bilayer and flexibly linked through DNA strands inserted in the bilayer. They compared the conformation and diffusive behavior of rings of four to eight segments with the behavior of linear polymers.\n\n[Phys. Rev. E 107, 034602] Published Mon Mar 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.034602",
+          "publishedOn": "2023-03-06T10:00:00.000Z",
+          "wordCount": 1675,
+          "title": "Brownian motion of flexibly linked colloidal rings",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.034602.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.115113",
+          "author": "Daniel Azses, David F. Mross, and Eran Sela",
+          "description": "Author(s): Daniel Azses, David F. Mross, and Eran Sela\nEntanglement spectra and their symmetries provide unique fingerprints of symmetry-protected topological states (SPTs). Unfortunately, using such calculations to identify SPTs numerically is notoriously difficult. Here, the authors develop a numerical method mapping this computation to a one-dimensional problem by utilizing the local nature of the quantum circuits that generate any SPT. Its application to models with Ising symmetry fully confirms field-theoretic predictions for their entanglement spectrum. Additionally, nontrivial deformations of the SPT manifest as many-body Aharonov-Bohm fluxes in the entanglement spectrum.\n\n[Phys. Rev. B 107, 115113] Published Mon Mar 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.115113",
+          "publishedOn": "2023-03-06T10:00:00.000Z",
+          "wordCount": 1454,
+          "title": "Symmetry-resolved entanglement of two-dimensional symmetry-protected topological states",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.115113.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034018",
+          "author": "R. Rouzegar, A.L. Chekhov, Y. Behovits, B.R. Serrano, M.A. Syskaki, C.H. Lambert, D. Engel, U. Martens, M. Münzenberg, M. Wolf, G. Jakob, M. Kläui, T.S. Seifert, and T. Kampfrath",
+          "description": "Author(s): R. Rouzegar, A.L. Chekhov, Y. Behovits, B.R. Serrano, M.A. Syskaki, C.H. Lambert, D. Engel, U. Martens, M. Münzenberg, M. Wolf, G. Jakob, M. Kläui, T.S. Seifert, and T. Kampfrath\nSpintronic terahertz emitters (STEs) are desirable broadband terahertz sources, but their limited signal strength has hindered practical application. By optimizing the photonic and thermal environment, the authors present an STE that could overcome this obstacle. Benchmarking against the state-of-the-art terahertz emitters based on optical rectification, this STE delivers strong terahertz pulses with comparable peak electric field and fluence, and offers additional features such as broadband radiation, easy alignment, and rotation of the terahertz polarization plane without power loss. This work will open up a promising pathway to nonlinear terahertz spectroscopy with spintronic sources.\n\n[Phys. Rev. Applied 19, 034018] Published Mon Mar 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034018",
+          "publishedOn": "2023-03-06T10:00:00.000Z",
+          "wordCount": 1584,
+          "title": "Broadband Spintronic Terahertz Source with Peak Electric Fields Exceeding 1.5 MV/cm",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.034018.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010117",
           "author": "Victoria Borish and H. J. Lewandowski",
           "description": "Author(s): Victoria Borish and H. J. Lewandowski\nSingle-photon experiments are used to teach quantum phenomena in a wide variety of ways and with a wide variety of learning goals.\n\n[Phys. Rev. Phys. Educ. Res. 19, 010117] Published Fri Mar 03, 2023",
@@ -974,16 +1004,6 @@
           "wordCount": 1074,
           "title": "Effective two-body approach to the hierarchical three-body problem: Quadrupole to 1PN",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.044011.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.023104",
-          "author": "Henrik H. Kristensen, Lorenz Kranabetter, Constant A. Schouder, Jacqueline Arlt, Frank Jensen, and Henrik Stapelfeldt",
-          "description": "Author(s): Henrik H. Kristensen, Lorenz Kranabetter, Constant A. Schouder, Jacqueline Arlt, Frank Jensen, and Henrik Stapelfeldt\nThe authors use velocity-map imaging following Coulomb explosion of doubly ionized alkali homodimers on the surface of a helium nanodroplet to map out the distribution of internuclear distances in both the ground and lowest triplet state. They find that the distributions are generally broader than the internuclear wave function, which they attribute to resonance effects in the initial multiphoton ionization of the dimer and interaction of the ions with the He droplet.\n\n[Phys. Rev. A 107, 023104] Published Mon Feb 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.023104",
-          "publishedOn": "2023-02-06T10:00:00.000Z",
-          "wordCount": 1277,
-          "title": "Laser-induced Coulomb explosion imaging of alkali-metal dimers on helium nanodroplets",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.023104.png"
         }
       ]
     }
