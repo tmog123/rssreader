@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T01:01:43.238Z</id>
+    <id>urn:2023-03-08T01:00:07.052Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T01:01:43.238Z</updated>
+    <updated>2023-03-08T01:00:07.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Corner universality in polygonal hydraulic jumps]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.L032001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.L032001"/>
+        <updated>2023-03-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. I. Tamim, T. Nichols, J. Lundbek Hansen, T. Bohr, and J. B. Bostwick
+Experiments show that vertical liquid jet impact on a solid plate creates a hydraulic jump which takes on a stable polygonal shape with sharp corners. The corner shape exhibits a striking universality that is characterized by the radius of curvature and corner angle at the tip, which remains nearly constant over a wide range of flow conditions. Knowledge of the corner angle allows one to determine the global jump shape, as defined by a dimensionless geometry number related to the isoperimetric inequality, thus giving a complete description of the jump shape.
+
+[Phys. Rev. Fluids 8, L032001] Published Tue Mar 07, 2023]]></summary>
+        <author>
+            <name>S. I. Tamim, T. Nichols, J. Lundbek Hansen, T. Bohr, and J. B. Bostwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution of road infrastructure in large urban areas]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.034304</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.034304"/>
+        <updated>2023-03-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Erwan Taillanter and Marc Barthelemy
+Researchers have identified the traffic thresholds at which cities build urban freeways and ring roads, which could help city administrators refine infrastructure plans.
+
+[Phys. Rev. E 107, 034304] Published Tue Mar 07, 2023]]></summary>
+        <author>
+            <name>Erwan Taillanter and Marc Barthelemy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prototype global analysis of LISA data with multiple source types]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.063004</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.063004"/>
+        <updated>2023-03-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tyson B. Littenberg and Neil J. Cornish
+A space-based observatory will detect gravitational waves from so many different types of sources at once that a global approach will be needed to crunch the data.
+
+[Phys. Rev. D 107, 063004] Published Tue Mar 07, 2023]]></summary>
+        <author>
+            <name>Tyson B. Littenberg and Neil J. Cornish</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brownian motion of flexibly linked colloidal rings]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevE.107.034602</id>
@@ -1264,45 +1303,6 @@ In the study of dispersed multiphase turbulence, using a jet array has shown pro
 [Phys. Rev. Fluids 8, 024603] Published Tue Feb 07, 2023]]></summary>
         <author>
             <name>Shiyong Tan, Xu Xu, Yinghe Qi, and Rui Ni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trajectory dependence of electronic energy-loss straggling at keV ion energies]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.085110</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.085110"/>
-        <updated>2023-02-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. Lohmann, R. Holeňák, P. L. Grande, and D. Primetzhofer
-Accurate knowledge of ion energy deposition in materials is imperative for a wealth of scientific and technological applications. Here, the authors measure the energy-loss straggling, i.e., the energy distribution variance of transmitted ions, for keV ions of H, He, B, and Si in Si membranes. Straggling exhibits a significant trajectory dependence for all ions. Studying the velocity dependence of electronic energy-loss straggling and calculating transport cross sections, the authors obtain strong evidence for contributions of electron-promotion events to ion energy loss at low velocities.
-
-[Phys. Rev. B 107, 085110] Published Tue Feb 07, 2023]]></summary>
-        <author>
-            <name>S. Lohmann, R. Holeňák, P. L. Grande, and D. Primetzhofer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probing neutral triple gauge couplings at the LHC and future hadron colliders]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.035005</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.035005"/>
-        <updated>2023-02-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): John Ellis, Hong-Jian He, and Rui-Qing Xiao
-Many searches for new physics can be parameterized by higher-dimension operators in effective field theories. In this work, the authors show a consistent translation of dimension-8 operators into triple gauge boson form factors and analyze the expected experimental reach. Incorporating the full Standard Model symmetry requires an additional term which has been neglected in earlier work, leading to significantly different results.
-
-[Phys. Rev. D 107, 035005] Published Mon Feb 06, 2023]]></summary>
-        <author>
-            <name>John Ellis, Hong-Jian He, and Rui-Qing Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective two-body approach to the hierarchical three-body problem: Quadrupole to 1PN]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.044011</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.044011"/>
-        <updated>2023-02-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Adrien Kuntz, Francesco Serra, and Enrico Trincherini
-The dynamics of binaries can be significantly affected by the presence of other bodies. This manuscript considers the hierarchical three-body problem where a third body is far compared to the distance scale of the binary. The authors make significant progress in developing a two-body approximation scheme in which corrections to the dynamics can be systematically computed at long timescales in comparison to the orbital periods characterizing the problem. The power of the method is demonstrated by computing post-Newtonian and multipole corrections.
-
-[Phys. Rev. D 107, 044011] Published Mon Feb 06, 2023]]></summary>
-        <author>
-            <name>Adrien Kuntz, Francesco Serra, and Enrico Trincherini</name>
         </author>
     </entry>
 </feed>
