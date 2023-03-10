@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.033601",
+          "author": "Lila Seguy, Suzie Protiere, and Axel Huerre",
+          "description": "Author(s): Lila Seguy, Suzie Protiere, and Axel Huerre\nWe propose a thermal and geometrical analytical model for the freezing front dynamics of a spherical drop. The growth is characterized by an effective diffusion coefficient that increases as the substrate temperature decreases and a spherical front that meets the edges of the drop perpendicularly. We compare our model with experimental data for substrate temperature ranging from -9 to -80 °C. We highlight the importance of heat diffusion in the liquid and the adhesion of drops to the substrate that decreases at low temperature.\n\n[Phys. Rev. Fluids 8, 033601] Published Thu Mar 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.033601",
+          "publishedOn": "2023-03-09T10:00:00.000Z",
+          "wordCount": 1101,
+          "title": "Role of geometry and adhesion in droplet freezing dynamics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.033601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.115121",
+          "author": "Stefano Di Sabatino, Alejandro Molina-Sánchez, Pina Romaniello, and Davide Sangalli",
+          "description": "Author(s): Stefano Di Sabatino, Alejandro Molina-Sánchez, Pina Romaniello, and Davide Sangalli\nThe determination of an excitonic insulator phase relies on the relative value of the excitonic binding energy and the fundamental band gap. With the quite unique case of NiBr2, the authors warn about the risk of running into false positives when using the GW+BSE scheme to determine if a system displays negative excitonic energies, which are a signature of an excitonic insulator phase. They show that consistency between approximations used in the ground-state and excited-state calculations as well as independence from the starting point are essential features for a proper description of excitonic insulators.\n\n[Phys. Rev. B 107, 115121] Published Thu Mar 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.115121",
+          "publishedOn": "2023-03-09T10:00:00.000Z",
+          "wordCount": 852,
+          "title": "Assignment of excitonic insulators in <i>ab initio</i> theories: The case of ${\\mathrm{NiBr}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.115121.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034028",
+          "author": "Shengli Chen, Tianxiang Wang, Zhong Zhang, Runfeng Li, Su Yuan, Ruiyi Zhang, Cenxi Yuan, Chunyu Zhang, and Jianyu Zhu",
+          "description": "Author(s): Shengli Chen, Tianxiang Wang, Zhong Zhang, Runfeng Li, Su Yuan, Ruiyi Zhang, Cenxi Yuan, Chunyu Zhang, and Jianyu Zhu\nA new set of diagnostic techniques developed from experimental data will improve authorities’ ability to determine the provenance of spent fuel.\n\n[Phys. Rev. Applied 19, 034028] Published Thu Mar 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034028",
+          "publishedOn": "2023-03-09T10:00:00.000Z",
+          "wordCount": 1048,
+          "title": "Linear Regression and Machine Learning for Nuclear Forensics of Spent Fuel from Six Types of Nuclear Reactors",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.034028.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034031",
+          "author": "Jacob Bryon, D.K. Weiss, Xinyuan You, Sara Sussman, Xanthe Croot, Ziwen Huang, Jens Koch, and Andrew A. Houck",
+          "description": "Author(s): Jacob Bryon, D.K. Weiss, Xinyuan You, Sara Sussman, Xanthe Croot, Ziwen Huang, Jens Koch, and Andrew A. Houck\nTime-dependent external flux is ubiquitous across circuit quantum electrodynamics and calls for accurate modeling. Contrary to long-held belief, it is recently predicted—but not yet verified—that the allocation of time-dependent flux cannot be arbitrary in the Hamiltonian. This study provides an experimental verification of this prediction by applying fast flux pulses to a fluxonium qubit and taking measurements of the quantum state following the pulses. Given the widespread use of time-dependent flux in experiments with superconducting qubits, verification of this theory is critical to our understanding of circuit quantum electrodynamics.\n\n[Phys. Rev. Applied 19, 034031] Published Thu Mar 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034031",
+          "publishedOn": "2023-03-09T10:00:00.000Z",
+          "wordCount": 1511,
+          "title": "Time-Dependent Magnetic Flux in Devices for Circuit Quantum Electrodynamics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.034031.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.106204",
           "author": "Hirofumi Yanagisawa, Markus Bohn, Hirotaka Kitoh-Nishioka, Florian Goschin, and Matthias F. Kling",
           "description": "Author(s): Hirofumi Yanagisawa, Markus Bohn, Hirotaka Kitoh-Nishioka, Florian Goschin, and Matthias F. Kling\nThe molecular orbitals of a single C60 molecule on a tungsten tip can be used to shape the emission pattern of electrons.\n\n[Phys. Rev. Lett. 130, 106204] Published Wed Mar 08, 2023",
@@ -61,7 +101,7 @@
           "description": "Author(s): S. I. Tamim, T. Nichols, J. Lundbek Hansen, T. Bohr, and J. B. Bostwick\nExperiments show that vertical liquid jet impact on a solid plate creates a hydraulic jump which takes on a stable polygonal shape with sharp corners. The corner shape exhibits a striking universality that is characterized by the radius of curvature and corner angle at the tip, which remains nearly constant over a wide range of flow conditions. Knowledge of the corner angle allows one to determine the global jump shape, as defined by a dimensionless geometry number related to the isoperimetric inequality, thus giving a complete description of the jump shape.\n\n[Phys. Rev. Fluids 8, L032001] Published Tue Mar 07, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L032001",
           "publishedOn": "2023-03-07T10:00:00.000Z",
-          "wordCount": 912,
+          "wordCount": 911,
           "title": "Corner universality in polygonal hydraulic jumps",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L032001.png"
         },
@@ -491,7 +531,7 @@
           "description": "Author(s): Paul A. Cassak, M. Hasan Barbhuiya, Haoming Liang, and Matthew R. Argall\nFrom first principles, the energy conversion associated with higher moments is calculated for a plasma that is far from local thermodynamic equilibrium.\n\n[Phys. Rev. Lett. 130, 085201] Published Wed Feb 22, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.085201",
           "publishedOn": "2023-02-22T10:00:00.000Z",
-          "wordCount": 906,
+          "wordCount": 907,
           "title": "Quantifying Energy Conversion in Higher-Order Phase Space Density Moments in Plasmas",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.085201.png"
         },
@@ -731,7 +771,7 @@
           "description": "Author(s): Nutth Tuchinda and Christopher A. Schuh\nThis study focuses on the impact of grain triple junctions on the bulk thermodynamics of nanomaterials, particularly in Al-based polycrystals where the volume fraction of these junctions is high. The investigation evaluates the energetics of solute segregation at both grain boundaries and triple junctions, and identifies systems where junction segregation is preferred over grain boundaries. The study generates a comprehensive database of segregation spectra for 39 solute elements in Al, which reveals important chemical trends that can aid in alloy designs. Furthermore, the framework employed in this study is adaptable to other alloy systems.\n\n[Phys. Rev. Materials 7, 023601] Published Thu Feb 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.023601",
           "publishedOn": "2023-02-16T10:00:00.000Z",
-          "wordCount": 1129,
+          "wordCount": 1131,
           "title": "Triple junction solute segregation in Al-based polycrystals",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.023601.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1017,
           "title": "Superradiant Droplet Emission from Parametrically Excited Cavities",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.064002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.023301",
-          "author": "Charlotte de Blois, Simon J. Haward, and Amy Q. Shen",
-          "description": "Author(s): Charlotte de Blois, Simon J. Haward, and Amy Q. Shen\nA microfluidic canopy flow device, formed from a large array of slender polymeric pillars within a glass microchannel, is subjected to viscoelastic flow in the regime of elastic turbulence. The system results in the spontaneous emergence of waves in the form of propagating regions of low flow velocity compared to the bulk, also inducing Monami-like waves in the canopy if the pillars are flexible. Due to the analogies with classical (inertial) canopy turbulence, this new phenomenon is named “canopy elastic turbulence”.\n\n[Phys. Rev. Fluids 8, 023301] Published Thu Feb 09, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.023301",
-          "publishedOn": "2023-02-09T10:00:00.000Z",
-          "wordCount": 2308,
-          "title": "Canopy elastic turbulence: Spontaneous formation of waves in beds of slender microposts",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.023301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.085116",
-          "author": "Alberto D. Verga",
-          "description": "Author(s): Alberto D. Verga\nOne of the challenges in quantum information is to create quantum states that can be used as resources, for instance, in the measurement-based model of quantum computing. Here, the author investigates the generation, through a dynamical phase transition, of a topological entangled state, by the Floquet evolution of a chain of spins, whose ground state is the so-called cluster state, acted upon by a quantum walker. The nonergodic phase is characterized by the emergence of magnetic order, persistent at long times.\n\n[Phys. Rev. B 107, 085116] Published Thu Feb 09, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.085116",
-          "publishedOn": "2023-02-09T10:00:00.000Z",
-          "wordCount": 1114,
-          "title": "Entanglement dynamics and phase transitions of the Floquet cluster spin chain",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.085116.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.L081104",
-          "author": "Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, and Satoshi Nishimoto",
-          "description": "Author(s): Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, and Satoshi Nishimoto\nThe spiral boundary conditions can project any two-dimensional or three-dimensional lattice onto a one-dimensional periodic chain with translational symmetry. It enables one to apply efficiently the existing one-dimensional techniques, such as density-matrix renormalization group (DMRG), bosonization, Jordan-Wigner transformation, etc., to studies of lattice systems in higher dimensions. Here, the authors demonstrate the utility of spiral boundary conditions by performing analytical and DMRG calculations for square and honeycomb lattice problems. Thus, the spiral boundary conditions emerge as a principal option in condensed matter physics.\n\n[Phys. Rev. B 107, L081104] Published Thu Feb 09, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L081104",
-          "publishedOn": "2023-02-09T10:00:00.000Z",
-          "wordCount": 991,
-          "title": "One-dimensional projection of two-dimensional systems using spiral boundary conditions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L081104.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010315",
-          "author": "Daniel Carney, Kyle G. Leach, and David C. Moore",
-          "description": "Author(s): Daniel Carney, Kyle G. Leach, and David C. Moore\nSearching for heavy sterile neutrinos in the keV–MeV mass range is possible with a nanometer-scale, optically levitated quantum sensor.\n\n[PRX Quantum 4, 010315] Published Wed Feb 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010315",
-          "publishedOn": "2023-02-08T10:00:00.000Z",
-          "wordCount": 1969,
-          "title": "Searches for Massive Neutrinos with Mechanical Quantum Sensors",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.010315.png"
         }
       ]
     }

@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T00:59:48.624Z</id>
+    <id>urn:2023-03-10T00:59:15.934Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T00:59:48.624Z</updated>
+    <updated>2023-03-10T00:59:15.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Role of geometry and adhesion in droplet freezing dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.033601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.033601"/>
+        <updated>2023-03-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lila Seguy, Suzie Protiere, and Axel Huerre
+We propose a thermal and geometrical analytical model for the freezing front dynamics of a spherical drop. The growth is characterized by an effective diffusion coefficient that increases as the substrate temperature decreases and a spherical front that meets the edges of the drop perpendicularly. We compare our model with experimental data for substrate temperature ranging from -9 to -80 °C. We highlight the importance of heat diffusion in the liquid and the adhesion of drops to the substrate that decreases at low temperature.
+
+[Phys. Rev. Fluids 8, 033601] Published Thu Mar 09, 2023]]></summary>
+        <author>
+            <name>Lila Seguy, Suzie Protiere, and Axel Huerre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assignment of excitonic insulators in <i>ab initio</i> theories: The case of ${\mathrm{NiBr}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.115121</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.115121"/>
+        <updated>2023-03-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Stefano Di Sabatino, Alejandro Molina-Sánchez, Pina Romaniello, and Davide Sangalli
+The determination of an excitonic insulator phase relies on the relative value of the excitonic binding energy and the fundamental band gap. With the quite unique case of NiBr2, the authors warn about the risk of running into false positives when using the GW+BSE scheme to determine if a system displays negative excitonic energies, which are a signature of an excitonic insulator phase. They show that consistency between approximations used in the ground-state and excited-state calculations as well as independence from the starting point are essential features for a proper description of excitonic insulators.
+
+[Phys. Rev. B 107, 115121] Published Thu Mar 09, 2023]]></summary>
+        <author>
+            <name>Stefano Di Sabatino, Alejandro Molina-Sánchez, Pina Romaniello, and Davide Sangalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Regression and Machine Learning for Nuclear Forensics of Spent Fuel from Six Types of Nuclear Reactors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.034028</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.034028"/>
+        <updated>2023-03-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shengli Chen, Tianxiang Wang, Zhong Zhang, Runfeng Li, Su Yuan, Ruiyi Zhang, Cenxi Yuan, Chunyu Zhang, and Jianyu Zhu
+A new set of diagnostic techniques developed from experimental data will improve authorities’ ability to determine the provenance of spent fuel.
+
+[Phys. Rev. Applied 19, 034028] Published Thu Mar 09, 2023]]></summary>
+        <author>
+            <name>Shengli Chen, Tianxiang Wang, Zhong Zhang, Runfeng Li, Su Yuan, Ruiyi Zhang, Cenxi Yuan, Chunyu Zhang, and Jianyu Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time-Dependent Magnetic Flux in Devices for Circuit Quantum Electrodynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.034031</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.034031"/>
+        <updated>2023-03-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jacob Bryon, D.K. Weiss, Xinyuan You, Sara Sussman, Xanthe Croot, Ziwen Huang, Jens Koch, and Andrew A. Houck
+Time-dependent external flux is ubiquitous across circuit quantum electrodynamics and calls for accurate modeling. Contrary to long-held belief, it is recently predicted—but not yet verified—that the allocation of time-dependent flux cannot be arbitrary in the Hamiltonian. This study provides an experimental verification of this prediction by applying fast flux pulses to a fluxonium qubit and taking measurements of the quantum state following the pulses. Given the widespread use of time-dependent flux in experiments with superconducting qubits, verification of this theory is critical to our understanding of circuit quantum electrodynamics.
+
+[Phys. Rev. Applied 19, 034031] Published Thu Mar 09, 2023]]></summary>
+        <author>
+            <name>Jacob Bryon, D.K. Weiss, Xinyuan You, Sara Sussman, Xanthe Croot, Ziwen Huang, Jens Koch, and Andrew A. Houck</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Light-Induced Subnanometric Modulation of a Single-Molecule Electron Source]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.106204</id>
@@ -1251,58 +1303,6 @@ Experiments reveal a hydrodynamic analog of an important effect in quantum optic
 [Phys. Rev. Lett. 130, 064002] Published Thu Feb 09, 2023]]></summary>
         <author>
             <name>Valeri Frumkin, John W. M. Bush, and Konstantinos Papatryfonos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canopy elastic turbulence: Spontaneous formation of waves in beds of slender microposts]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.023301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.023301"/>
-        <updated>2023-02-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Charlotte de Blois, Simon J. Haward, and Amy Q. Shen
-A microfluidic canopy flow device, formed from a large array of slender polymeric pillars within a glass microchannel, is subjected to viscoelastic flow in the regime of elastic turbulence. The system results in the spontaneous emergence of waves in the form of propagating regions of low flow velocity compared to the bulk, also inducing Monami-like waves in the canopy if the pillars are flexible. Due to the analogies with classical (inertial) canopy turbulence, this new phenomenon is named “canopy elastic turbulence”.
-
-[Phys. Rev. Fluids 8, 023301] Published Thu Feb 09, 2023]]></summary>
-        <author>
-            <name>Charlotte de Blois, Simon J. Haward, and Amy Q. Shen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entanglement dynamics and phase transitions of the Floquet cluster spin chain]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.085116</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.085116"/>
-        <updated>2023-02-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alberto D. Verga
-One of the challenges in quantum information is to create quantum states that can be used as resources, for instance, in the measurement-based model of quantum computing. Here, the author investigates the generation, through a dynamical phase transition, of a topological entangled state, by the Floquet evolution of a chain of spins, whose ground state is the so-called cluster state, acted upon by a quantum walker. The nonergodic phase is characterized by the emergence of magnetic order, persistent at long times.
-
-[Phys. Rev. B 107, 085116] Published Thu Feb 09, 2023]]></summary>
-        <author>
-            <name>Alberto D. Verga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One-dimensional projection of two-dimensional systems using spiral boundary conditions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L081104</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L081104"/>
-        <updated>2023-02-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, and Satoshi Nishimoto
-The spiral boundary conditions can project any two-dimensional or three-dimensional lattice onto a one-dimensional periodic chain with translational symmetry. It enables one to apply efficiently the existing one-dimensional techniques, such as density-matrix renormalization group (DMRG), bosonization, Jordan-Wigner transformation, etc., to studies of lattice systems in higher dimensions. Here, the authors demonstrate the utility of spiral boundary conditions by performing analytical and DMRG calculations for square and honeycomb lattice problems. Thus, the spiral boundary conditions emerge as a principal option in condensed matter physics.
-
-[Phys. Rev. B 107, L081104] Published Thu Feb 09, 2023]]></summary>
-        <author>
-            <name>Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, and Satoshi Nishimoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searches for Massive Neutrinos with Mechanical Quantum Sensors]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.4.010315</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.4.010315"/>
-        <updated>2023-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daniel Carney, Kyle G. Leach, and David C. Moore
-Searching for heavy sterile neutrinos in the keV–MeV mass range is possible with a nanometer-scale, optically levitated quantum sensor.
-
-[PRX Quantum 4, 010315] Published Wed Feb 08, 2023]]></summary>
-        <author>
-            <name>Daniel Carney, Kyle G. Leach, and David C. Moore</name>
         </author>
     </entry>
 </feed>
