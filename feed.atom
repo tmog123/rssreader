@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T00:48:31.340Z</id>
+    <id>urn:2023-03-15T00:56:08.944Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T00:48:31.340Z</updated>
+    <updated>2023-03-15T00:56:08.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Disordered Heterogeneous Universe: Galaxy Distribution and Clustering across Length Scales]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.011038</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.011038"/>
+        <updated>2023-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Oliver H. E. Philcox and Salvatore Torquato
+A new methodology for analyzing the 3D distribution of galaxies borrows techniques from the study of colloids and other disordered materials.
+
+[Phys. Rev. X 13, 011038] Published Tue Mar 14, 2023]]></summary>
+        <author>
+            <name>Oliver H. E. Philcox and Salvatore Torquato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal Quantum Rewinding Protocol with an Arbitrarily High Probability of Success]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.110201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.110201"/>
+        <updated>2023-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): D. Trillo, B. Dive, and M. Navascués
+A new technique for reversing the evolution of a quantum system could become a key tool in quantum information technology.
+
+[Phys. Rev. Lett. 130, 110201] Published Tue Mar 14, 2023]]></summary>
+        <author>
+            <name>D. Trillo, B. Dive, and M. Navascués</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological band inversion in HgTe(001): Surface and bulk signatures from photoemission]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L121102</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L121102"/>
+        <updated>2023-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Raphael C. Vidal, Giovanni Marini, Lukas Lunczer, Simon Moser, Lena Fürst, Julia Issing, Chris Jozwiak, Aaron Bostwick, Eli Rotenberg, Charles Gould, Hartmut Buhmann, Wouter Beugeling, Giorgio Sangiovanni, Domenico Di Sante, Gianni Profeta, Laurens W. Molenkamp, Hendrik Bentmann, and Friedrich Reinert
+HgTe is a prime example of a topological material that exhibits a range of topological phases based on its dimensionality and lattice strain. The key to its topological properties lies in the band inversion between the Hg 6s and Te 5p valence levels, leading to the emergence of surface states. In this study, the authors present an in-depth examination of the electronic structure of strained HgTe films using angle-resolved photoelectron spectroscopy and density functional theory. The results offer a direct visualization of the topological band inversion and surface states present in HgTe.
+
+[Phys. Rev. B 107, L121102] Published Tue Mar 14, 2023]]></summary>
+        <author>
+            <name>Raphael C. Vidal, Giovanni Marini, Lukas Lunczer, Simon Moser, Lena Fürst, Julia Issing, Chris Jozwiak, Aaron Bostwick, Eli Rotenberg, Charles Gould, Hartmut Buhmann, Wouter Beugeling, Giorgio Sangiovanni, Domenico Di Sante, Gianni Profeta, Laurens W. Molenkamp, Hendrik Bentmann, and Friedrich Reinert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electronic Excitation Response of DNA to High-Energy Proton Radiation in Water]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.118401</id>
@@ -1264,45 +1303,6 @@ ThIrSi is a noncentrosymmetric superconductor, where the presence of the heavy e
 [Phys. Rev. B 107, 064507] Published Tue Feb 14, 2023]]></summary>
         <author>
             <name>D. Tay, T. Shang, Priscila F. S. Rosa, F. B. Santos, J. D. Thompson, Z. Fisk, H.-R. Ott, and T. Shiroka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charge quenching at defect states in transition metal dichalcogenide–graphene van der Waals heterobilayers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.075419</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.075419"/>
-        <updated>2023-02-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daniel Hernangómez-Pérez, Andrea Donarini, and Sivan Refaely-Abramson
-The electronic and spin properties of van der Waals materials are greatly influenced by the atomic features of the interface. Combining ab initio methods, model Hamiltonian, and quantum master equation, the authors calculate the electronic transition times and the dynamics of electron population and depopulation of chalcogen vacancies at the interface between graphene and transition metal dichalcogenides. Their findings give insight into the semiclassical dynamics, reveal the interplay between lattice symmetry and spin through the spin-orbit interaction, and examine its impact on the charge quenching.
-
-[Phys. Rev. B 107, 075419] Published Tue Feb 14, 2023]]></summary>
-        <author>
-            <name>Daniel Hernangómez-Pérez, Andrea Donarini, and Sivan Refaely-Abramson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charge carrier density dependent Raman spectra of graphene encapsulated in hexagonal boron nitride]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.075420</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.075420"/>
-        <updated>2023-02-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): J. Sonntag, K. Watanabe, T. Taniguchi, B. Beschoten, and C. Stampfer
-The authors use low-temperature Raman spectroscopy measurements on gate-tunable graphene encapsulated in hBN to explore in detail the Raman G and 2D mode frequencies and linewidths as function of the charge carrier density. This study provides a reference for Raman spectroscopy on ultraflat high-quality graphene (with a minimum 2D Raman line width of 14.5 cm−1) and is useful to investigate electron-phonon coupling and to benchmark graphene samples (including graphene-based heterostructures) when using Raman spectroscopy for process monitoring.
-
-[Phys. Rev. B 107, 075420] Published Tue Feb 14, 2023]]></summary>
-        <author>
-            <name>J. Sonntag, K. Watanabe, T. Taniguchi, B. Beschoten, and C. Stampfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement of the Electron Magnetic Moment]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.071801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.071801"/>
-        <updated>2023-02-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): X. Fan, T. G. Myers, B. A. D. Sukra, and G. Gabrielse
-Measurements of the magnetic moment of the electron have achieved unprecedented accuracy, showing great potential for the search of physics beyond the standard model.
-
-[Phys. Rev. Lett. 130, 071801] Published Mon Feb 13, 2023]]></summary>
-        <author>
-            <name>X. Fan, T. G. Myers, B. A. D. Sukra, and G. Gabrielse</name>
         </author>
     </entry>
 </feed>
