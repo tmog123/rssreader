@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T00:56:08.944Z</id>
+    <id>urn:2023-03-16T00:57:29.085Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T00:56:08.944Z</updated>
+    <updated>2023-03-16T00:57:29.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Parallel Assembly of Arbitrary Defect-Free Atom Arrays with a Multitweezer Algorithm]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.034048</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.034048"/>
+        <updated>2023-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Weikun Tian, Wen Jun Wee, An Qu, Billy Jun Ming Lim, Prithvi Raj Datla, Vanessa Pei Wen Koh, and Huanqian Loh
+A new algorithm can organize hundreds of atoms into pristine patterns—including a honeycomb lattice, a fractal called a Sierpiński triangle, and a lion’s head.
+
+[Phys. Rev. Applied 19, 034048] Published Wed Mar 15, 2023]]></summary>
+        <author>
+            <name>Weikun Tian, Wen Jun Wee, An Qu, Billy Jun Ming Lim, Prithvi Raj Datla, Vanessa Pei Wen Koh, and Huanqian Loh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disordered Heterogeneous Universe: Galaxy Distribution and Clustering across Length Scales]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.13.011038</id>
@@ -1264,45 +1277,6 @@ Typically, physicists treat cold atoms in a cavity as simple two-level atoms. He
 [Phys. Rev. A 107, 023714] Published Wed Feb 15, 2023]]></summary>
         <author>
             <name>Elmer Suarez, Federico Carollo, Igor Lesanovsky, Beatriz Olmos, Philippe W. Courteille, and Sebastian Slama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bottom-Up Growth of Monolayer Honeycomb SiC]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.076203</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.076203"/>
-        <updated>2023-02-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. M. Polley, H. Fedderwitz, T. Balasubramanian, A. A. Zakharov, R. Yakimova, O. Bäcke, J. Ekman, S. P. Dash, S. Kubatkin, and S. Lara-Avila
-Adapting a method for making graphene, researchers have created a 2D honeycomb material that is predicted to have desirable mechanical, thermal, and optical properties.
-
-[Phys. Rev. Lett. 130, 076203] Published Tue Feb 14, 2023]]></summary>
-        <author>
-            <name>C. M. Polley, H. Fedderwitz, T. Balasubramanian, A. A. Zakharov, R. Yakimova, O. Bäcke, J. Ekman, S. P. Dash, S. Kubatkin, and S. Lara-Avila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microscopic aspects of $γ$ softness in atomic nuclei]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.L021303</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.L021303"/>
-        <updated>2023-02-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nazira Nazir, S. Jehangir, S. P. Rouoof, G. H. Bhat, J. A. Sheikh, N. Rather, and S. Frauendorf
-One of the main research themes in quantum many-body systems is the emergence of collective features from microscopic degrees of freedom. Using the microscopic approach of the triaxial projected shell model, the authors demonstrate that admixing a few quasiparticle excitations into the vacuum configuration with a fixed triaxiality parameter γ provides a quantitative description of the shape fluctuations of the γ-soft nucleus 104Ru. The collective features are elucidated using the quadrupole shape invariant analysis, and also the staggering phase classification of the γ band.
-
-[Phys. Rev. C 107, L021303] Published Tue Feb 14, 2023]]></summary>
-        <author>
-            <name>Nazira Nazir, S. Jehangir, S. P. Rouoof, G. H. Bhat, J. A. Sheikh, N. Rather, and S. Frauendorf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nodeless superconductivity in the noncentrosymmetric compound ThIrSi]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.064507</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.064507"/>
-        <updated>2023-02-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. Tay, T. Shang, Priscila F. S. Rosa, F. B. Santos, J. D. Thompson, Z. Fisk, H.-R. Ott, and T. Shiroka
-ThIrSi is a noncentrosymmetric superconductor, where the presence of the heavy element Th results in a strong antisymmetric spin-orbit coupling (ASOC). A strong ASOC causes the splitting of the Fermi surface and may lead to unconventional triplet superconductivity or to multiband superconductivity. By combining μSR, NMR, and magnetometry measurements, the authors show here that, despite the strong ASOC, ThIrSi exhibits only nodeless superconductivity, most likely of multiband nature.
-
-[Phys. Rev. B 107, 064507] Published Tue Feb 14, 2023]]></summary>
-        <author>
-            <name>D. Tay, T. Shang, Priscila F. S. Rosa, F. B. Santos, J. D. Thompson, Z. Fisk, H.-R. Ott, and T. Shiroka</name>
         </author>
     </entry>
 </feed>
