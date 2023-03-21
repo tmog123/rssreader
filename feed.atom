@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T00:57:20.670Z</id>
+    <id>urn:2023-03-21T00:52:26.912Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T00:57:20.670Z</updated>
+    <updated>2023-03-21T00:52:26.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Valley-Tunable Even-Denominator Fractional Quantum Hall State in the Lowest Landau Level of an Anisotropic System]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.126301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.126301"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Md. Shafayat Hossain, Meng K. Ma, Y. J. Chung, S. K. Singh, A. Gupta, K. W. West, K. W. Baldwin, L. N. Pfeiffer, R. Winkler, and M. Shayegan
+An in-plane magnetic field and valley occupancy can tune phase transitions in an even-denominator quantum Hall regime.
+
+[Phys. Rev. Lett. 130, 126301] Published Mon Mar 20, 2023]]></summary>
+        <author>
+            <name>Md. Shafayat Hossain, Meng K. Ma, Y. J. Chung, S. K. Singh, A. Gupta, K. W. West, K. W. Baldwin, L. N. Pfeiffer, R. Winkler, and M. Shayegan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enzyme-Enriched Condensates Show Self-Propulsion, Positioning, and Coexistence]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.128401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.128401"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Leonardo Demarchi, Andriy Goychuk, Ivan Maryshev, and Erwin Frey
+Phase separation within cells creates droplets whose chemical activity leads to surprising mobility that serves cellular function and hints at the origin of life.
+
+[Phys. Rev. Lett. 130, 128401] Published Mon Mar 20, 2023]]></summary>
+        <author>
+            <name>Leonardo Demarchi, Andriy Goychuk, Ivan Maryshev, and Erwin Frey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strong lateral exchange coupling and current-induced switching in single-layer ferrimagnetic films with patterned compensation temperature]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L100412</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L100412"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Zhentao Liu, Zhaochu Luo, Ivan Shorubalko, Christof Vockenhuber, Laura J. Heyderman, Pietro Gambardella, and Aleš Hrabec
+Interlayer couplings are widely used in spintronic devices based on magnetic multilayers. Here, the authors demonstrate instead a strong tunable coupling between adjacent regions of a single ferrimagnetic layer, based on the exchange interaction. They unveil a large lateral exchange bias by spatially patterning the compensation temperature of the ferrimagnet. Furthermore, they show electrical switching of ferrimagnetic domains utilizing the lateral exchange coupling mechanism in combination with spin-orbit torques.
+
+[Phys. Rev. B 107, L100412] Published Mon Mar 20, 2023]]></summary>
+        <author>
+            <name>Zhentao Liu, Zhaochu Luo, Ivan Shorubalko, Christof Vockenhuber, Laura J. Heyderman, Pietro Gambardella, and Aleš Hrabec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision Measurement of the Microwave Dielectric Loss of Sapphire in the Quantum Regime with Parts-per-Billion Sensitivity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.034064</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.034064"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander P. Read, Benjamin J. Chapman, Chan U Lei, Jacob C. Curtis, Suhas Ganjam, Lev Krayzman, Luigi Frunzio, and Robert J. Schoelkopf
+To better understand decoherence in superconducting qubits, the authors develop a technique to measure the loss tangent of dielectric substrates and predict the impact of dielectric loss on qubit lifetimes. This is done with no need to fabricate planar devices; the technique is independent of material platform. Measurements of sapphire in a demonstration of the approach suggest that coherence of superconducting qubits on a common form of sapphire is limited significantly by bulk dielectric loss. The same technique also shows that another form of sapphire would substantially mitigate this bulk dielectric loss and prolong qubit coherence.
+
+[Phys. Rev. Applied 19, 034064] Published Mon Mar 20, 2023]]></summary>
+        <author>
+            <name>Alexander P. Read, Benjamin J. Chapman, Chan U Lei, Jacob C. Curtis, Suhas Ganjam, Lev Krayzman, Luigi Frunzio, and Robert J. Schoelkopf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anisotropic acoustics in dipolar Fermi gases]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.033321</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.033321"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Reuben R. W. Wang and John L. Bohn
+The authors theoretically study the propagation of plane wave modes in ultracold dipolar Fermi gases in the hydrodynamic limit, including collisions and mean-field dipolar interactions. The authors find that longitudinal waves present anisotropies in both the speed of sound and damping. In addition, two types of shear waves are predicted, which could be used as an experimental means to measure the viscosity coefficients.
+
+[Phys. Rev. A 107, 033321] Published Mon Mar 20, 2023]]></summary>
+        <author>
+            <name>Reuben R. W. Wang and John L. Bohn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stacking domain morphology in epitaxial graphene on silicon carbide]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.034001</id>
