@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T00:52:26.912Z</id>
+    <id>urn:2023-03-22T00:51:46.579Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T00:52:26.912Z</updated>
+    <updated>2023-03-22T00:51:46.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Many-Body Description of STM-Induced Fluorescence of Charged Molecules]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.126202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.126202"/>
+        <updated>2023-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Song Jiang, Tomáš Neuman, Rémi Bretel, Alex Boeglin, Fabrice Scheurer, Eric Le Moal, and Guillaume Schull
+Spatial maps of the light emitted by an excited molecule reveal how the emission depends on the molecule’s charge states.
+
+[Phys. Rev. Lett. 130, 126202] Published Tue Mar 21, 2023]]></summary>
+        <author>
+            <name>Song Jiang, Tomáš Neuman, Rémi Bretel, Alex Boeglin, Fabrice Scheurer, Eric Le Moal, and Guillaume Schull</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum oscillations in the centrosymmetric skyrmion-hosting magnet ${\mathrm{GdRu}}_{2}{\mathrm{Si}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.104421</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.104421"/>
+        <updated>2023-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): N. Matsuyama, T. Nomura, S. Imajo, T. Nomoto, R. Arita, K. Sudo, M. Kimata, N. D. Khanh, R. Takagi, Y. Tokura, S. Seki, K. Kindo, and Y. Kohama
+The skyrmion formation mechanism in centrosymmetric systems remains to be understood, partially because of the lack of fundamental understanding of the electronic structure. The authors observe de Haas–van Alphen and Shubnikov–de Haas oscillations in high magnetic fields up to 58 T on GdRu2Si2, which is one of such centrosymmetric skyrmion-hosting magnets with the shortest skyrmion diameter ever found. Combined with first-principles calculations, the authors now reveal the electronic structure of GdRu2Si2 and its reconstruction at the magnetic phase boundary.
+
+[Phys. Rev. B 107, 104421] Published Tue Mar 21, 2023]]></summary>
+        <author>
+            <name>N. Matsuyama, T. Nomura, S. Imajo, T. Nomoto, R. Arita, K. Sudo, M. Kimata, N. D. Khanh, R. Takagi, Y. Tokura, S. Seki, K. Kindo, and Y. Kohama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First-principles theory of the pressure-induced invar effect in FeNi alloys]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.104422</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.104422"/>
+        <updated>2023-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Amanda Ehn, Björn Alling, and Igor A. Abrikosov
+Beside the classic Fe64Ni36 Invar alloy, which shows an anomalously low thermal expansion at ambient pressure, Fe-Ni alloys with a higher nickel composition can be driven to Invar behavior by pressure. The authors investigate the pressure induced Invar effect theoretically and demonstrate that it can be explained by a magnetic transition from a ferromagnetic state at high volume to a complex noncollinear state upon compression. They relate the Invar effect to the increasing contribution of magnetic entropy with pressure.
+
+[Phys. Rev. B 107, 104422] Published Tue Mar 21, 2023]]></summary>
+        <author>
+            <name>Amanda Ehn, Björn Alling, and Igor A. Abrikosov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valley-Tunable Even-Denominator Fractional Quantum Hall State in the Lowest Landau Level of an Anisotropic System]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.126301</id>
@@ -1264,45 +1303,6 @@ Two groups demonstrate innovative ways to capture the ultrafast motion of electr
 [Phys. Rev. Lett. 130, 083202] Published Tue Feb 21, 2023]]></summary>
         <author>
             <name>Gabriel A. Stewart, Paul Hoerner, Duke A. Debrah, Suk Kyoung Lee, H. Bernhard Schlegel, and Wen Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamical evolution of $U(1)$ gauged $Q$-balls in axisymmetry]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.035022</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.035022"/>
-        <updated>2023-02-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michael P. Kinach and Matthew W. Choptuik
-Q-ball solitons are classical solutions of field theories in which stability is not guaranteed by topological arguments. Stability is a particularly acute issue for gauged Q-balls, where ordinary methods of stability analysis fail. In this work, Michael Kinach and Matthew Choptuik use powerful numerical methods to study the nonlinear evolution of gauged Q-ball configurations under axisymmetric perturbations and reveal the existence of a rich array of stable and unstable possibilities.
-
-[Phys. Rev. D 107, 035022] Published Tue Feb 21, 2023]]></summary>
-        <author>
-            <name>Michael P. Kinach and Matthew W. Choptuik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diffuse neutrino flux measurements with the Baikal-GVD neutrino telescope]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.042005</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.042005"/>
-        <updated>2023-02-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): V. A. Allakhverdyan et al. (Baikal-GVD Collaboration)
-The Baikal-GVD neutrino telescope collaboration reports observing the diffuse cosmic neutrino flux. Relying on cascade events produced predominantly by electron and tau neutrinos, they observe a significant excess of events over what is expected from the atmospheric neutrino background. The power law fit of the flux and the observation itself are consistent with and a significant independent confirmation of the landmark results of IceCube.
-
-[Phys. Rev. D 107, 042005] Published Tue Feb 21, 2023]]></summary>
-        <author>
-            <name>V. A. Allakhverdyan &lt;em&gt;et al.&lt;/em&gt; (Baikal-GVD Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantitative theory of backscattering in topological HgTe and (Hg,Mn)Te quantum wells: Acceptor states, Kondo effect, precessional dephasing, and bound magnetic polaron]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.085421</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.085421"/>
-        <updated>2023-02-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tomasz Dietl
-Which mechanism accounts for backscattering between helical edge states in two-dimensional topological insulators? Here and in a companion paper Phys. Rev. Lett. 130, 086202 (2023), the author demonstrates that the magnitude of the topological protection length can be explained by spin nonconserving Kondo scattering of edge electrons by holes, localized on background acceptors and residing in the band gap. Surprisingly, doping with Mn ions restores the quantization precision due to the formation of acceptor-bound magnetic polarons that destroy the Kondo effect.
-
-[Phys. Rev. B 107, 085421] Published Tue Feb 21, 2023]]></summary>
-        <author>
-            <name>Tomasz Dietl</name>
         </author>
     </entry>
 </feed>
