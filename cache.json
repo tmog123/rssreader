@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.011046",
+          "author": "Y. S. Lin, S. Y. Wang, X. Zhang, Y. Feng, Y. P. Pan, H. Ru, J. J. Zhu, B. K. Xiang, K. Liu, C. L. Zheng, L. Y. Wei, M. X. Wang, Z. K. Liu, L. Chen, K. Jiang, Y. F. Guo, Ziqiang Wang, and Y. H. Wang",
+          "description": "Author(s): Y. S. Lin, S. Y. Wang, X. Zhang, Y. Feng, Y. P. Pan, H. Ru, J. J. Zhu, B. K. Xiang, K. Liu, C. L. Zheng, L. Y. Wei, M. X. Wang, Z. K. Liu, L. Chen, K. Jiang, Y. F. Guo, Ziqiang Wang, and Y. H. Wang\nA quantum phase of matter detected in an iron-based superconductor could host Majorana zero modes—quasiparticles that may serve as building blocks for future quantum computers.\n\n[Phys. Rev. X 13, 011046] Published Mon Mar 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.011046",
+          "publishedOn": "2023-03-27T10:00:00.000Z",
+          "wordCount": 2169,
+          "title": "Direct Observation of Quantum Anomalous Vortex in Fe(Se,Te)",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.011046.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.034137",
+          "author": "Francesco Coghi and Hugo Touchette",
+          "description": "Author(s): Francesco Coghi and Hugo Touchette\nLarge deviation functions can be used to describe fluctuations in model nonequilibrium systems. The authors study the properties of a numerical method for estimating these functions, and test it by applying it to a random walk on a random graph.\n\n[Phys. Rev. E 107, 034137] Published Mon Mar 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.034137",
+          "publishedOn": "2023-03-27T10:00:00.000Z",
+          "wordCount": 1034,
+          "title": "Adaptive power method for estimating large deviations in Markov chains",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.034137.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.107.035503",
+          "author": "Chien-Yeah Seng and Mikhail Gorchtein",
+          "description": "Author(s): Chien-Yeah Seng and Mikhail Gorchtein\nSearches for new physics are often performed along the precision frontier, requiring more careful treatment of corrections previously treated approximately. For example, interpretation of high-precision measurements of β decay require the radiative correction arising from nuclear structure that was previously estimated using oversimplified nuclear models. In this paper, the authors carefully work out the formalism needed to use input from microscopic nuclear calculations, including a multipole expansion of the relevant matrix elements. This work prepares a path to a more rigorous theory framework and more precise limits on physics beyond the Standard Model.\n\n[Phys. Rev. C 107, 035503] Published Mon Mar 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.035503",
+          "publishedOn": "2023-03-27T10:00:00.000Z",
+          "wordCount": 776,
+          "title": "Dispersive formalism for the nuclear structure correction ${δ}_{\\text{NS}}$ to the $β$ decay rate",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.035503.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.125151",
+          "author": "Li-kun Shi, Oles Matsyshyn, Justin C. W. Song, and Inti Sodemann Villadiego",
+          "description": "Author(s): Li-kun Shi, Oles Matsyshyn, Justin C. W. Song, and Inti Sodemann Villadiego\nEmploying a detailed model of electrons coupled to a heat bath, this work demonstrates the generation of photocurrents when the frequency of light lies within the optical gap of a metal in the limit of small absorption. Such in-gap rectification is shown to be consistent with thermodynamic principles and is generally dissipative. The nonlinear Hall effect behaves, however, as a special dissipationless “demon” that can perform a highly efficient and reversible transfer of energy between the radiation and an external circuit.\n\n[Phys. Rev. B 107, 125151] Published Mon Mar 27, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.125151",
+          "publishedOn": "2023-03-27T10:00:00.000Z",
+          "wordCount": 1352,
+          "title": "Berry-dipole photovoltaic demon and the thermodynamics of photocurrent generation within the optical gap of metals",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.125151.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.122503",
           "author": "T. Palazzo, A. J. Mitchell, G. J. Lane, A. E. Stuchbery, B. A. Brown, M. W. Reed, A. Akber, B. J. Coombes, J. T. H. Dowie, T. K. Eriksen, M. S. M. Gerathy, T. Kibédi, T. Tornyi, and M. O. de Vries",
           "description": "Author(s): T. Palazzo, A. J. Mitchell, G. J. Lane, A. E. Stuchbery, B. A. Brown, M. W. Reed, A. Akber, B. J. Coombes, J. T. H. Dowie, T. K. Eriksen, M. S. M. Gerathy, T. Kibédi, T. Tornyi, and M. O. de Vries\nObservations deliver evidence of an exotic “sixth-order” electromagnetic transition in the gamma-ray emission of an iron isotope, a finding that could provide new ways to test nuclear models.\n\n[Phys. Rev. Lett. 130, 122503] Published Fri Mar 24, 2023",
@@ -441,7 +481,7 @@
           "description": "Author(s): Longcan Cheng, Jingchen Li, Houbo Sun, and Hongyuan Jiang\nSegregation of chromosomes in dividing cells can be disrupted if the cells are constrained by their surroundings.\n\n[Phys. Rev. X 13, 011036] Published Fri Mar 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.011036",
           "publishedOn": "2023-03-10T10:00:00.000Z",
-          "wordCount": 2759,
+          "wordCount": 2763,
           "title": "Appropriate Mechanical Confinement Inhibits Multipolar Cell Division via Pole-Cortex Interaction",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.011036.png"
         },
@@ -471,7 +511,7 @@
           "description": "Author(s): J. Sears, Y. Shen, M. J. Krogstad, H. Miao, E. S. Bozin, I. K. Robinson, G. D. Gu, R. Osborn, S. Rosenkranz, J. M. Tranquada, and M. P. M. Dean\nThe cuprate superconductors exhibit periodic modulations of their charge density and crystal structure. Using x-ray diffraction, the authors identify the subtle structural displacements associated with this ordering. The displacements are not confined to a single copper-oxygen layer but rather propagate over a surprisingly large distance through the crystal. The authors attribute this effect to the weak c-axis charge screening in cuprates and suggest that this effect could help couple the charge-density wave between adjacent planes in the crystal.\n\n[Phys. Rev. B 107, 115125] Published Fri Mar 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.115125",
           "publishedOn": "2023-03-10T10:00:00.000Z",
-          "wordCount": 1394,
+          "wordCount": 1398,
           "title": "Structure of charge density waves in ${\\mathrm{La}}_{1.875}{\\mathrm{Ba}}_{0.125}{\\mathrm{CuO}}_{4}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.115125.png"
         },
@@ -541,7 +581,7 @@
           "description": "Author(s): Shengli Chen, Tianxiang Wang, Zhong Zhang, Runfeng Li, Su Yuan, Ruiyi Zhang, Cenxi Yuan, Chunyu Zhang, and Jianyu Zhu\nA new set of diagnostic techniques developed from experimental data will improve authorities’ ability to determine the provenance of spent fuel.\n\n[Phys. Rev. Applied 19, 034028] Published Thu Mar 09, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034028",
           "publishedOn": "2023-03-09T10:00:00.000Z",
-          "wordCount": 1048,
+          "wordCount": 1052,
           "title": "Linear Regression and Machine Learning for Nuclear Forensics of Spent Fuel from Six Types of Nuclear Reactors",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.034028.png"
         },
@@ -561,7 +601,7 @@
           "description": "Author(s): Hirofumi Yanagisawa, Markus Bohn, Hirotaka Kitoh-Nishioka, Florian Goschin, and Matthias F. Kling\nThe molecular orbitals of a single C60 molecule on a tungsten tip can be used to shape the emission pattern of electrons.\n\n[Phys. Rev. Lett. 130, 106204] Published Wed Mar 08, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.106204",
           "publishedOn": "2023-03-08T10:00:00.000Z",
-          "wordCount": 1348,
+          "wordCount": 1352,
           "title": "Light-Induced Subnanometric Modulation of a Single-Molecule Electron Source",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.106204.png"
         },
@@ -571,7 +611,7 @@
           "description": "Author(s): Tim Gould, Derk P. Kooi, Paola Gori-Giorgi, and Stefano Pittalis\nA venerable strategy for approximating a system’s ground states has now been extended to accommodate its excited states.\n\n[Phys. Rev. Lett. 130, 106401] Published Wed Mar 08, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.106401",
           "publishedOn": "2023-03-08T10:00:00.000Z",
-          "wordCount": 920,
+          "wordCount": 924,
           "title": "Electronic Excited States in Extreme Limits via Ensemble Density Functionals",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.106401.png"
         },
@@ -621,7 +661,7 @@
           "description": "Author(s): Erwan Taillanter and Marc Barthelemy\nResearchers have identified the traffic thresholds at which cities build urban freeways and ring roads, which could help city administrators refine infrastructure plans.\n\n[Phys. Rev. E 107, 034304] Published Tue Mar 07, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.034304",
           "publishedOn": "2023-03-07T10:00:00.000Z",
-          "wordCount": 1249,
+          "wordCount": 1253,
           "title": "Evolution of road infrastructure in large urban areas",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.034304.png"
         },
@@ -631,7 +671,7 @@
           "description": "Author(s): Tyson B. Littenberg and Neil J. Cornish\nA space-based observatory will detect gravitational waves from so many different types of sources at once that a global approach will be needed to crunch the data.\n\n[Phys. Rev. D 107, 063004] Published Tue Mar 07, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.063004",
           "publishedOn": "2023-03-07T10:00:00.000Z",
-          "wordCount": 2328,
+          "wordCount": 2332,
           "title": "Prototype global analysis of LISA data with multiple source types",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.063004.png"
         },
@@ -691,7 +731,7 @@
           "description": "Author(s): E. Joshi, M. Y. Pustylnik, M. H. Thoma, H. M. Thomas, and M. Schwabe\nThe process of string-like cluster formation in complex plasmas is investigated. Excellent qualitative agreement between experiment and simulation showed that the reduced repulsion in the interparticle potential was enough to induce the formation of this structure\n\n[Phys. Rev. Research 5, L012030] Published Thu Mar 02, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L012030",
           "publishedOn": "2023-03-02T10:00:00.000Z",
-          "wordCount": 1151,
+          "wordCount": 1155,
           "title": "Recrystallization in string-fluid complex plasmas",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.L012030.png"
         },
@@ -731,7 +771,7 @@
           "description": "Author(s): A. Allega et al. (The SNO+ Collaboration)\nResearchers have captured the signal of neutrinos from a nuclear reactor using a water-filled neutrino detector, a first for such a device.\n\n[Phys. Rev. Lett. 130, 091801] Published Wed Mar 01, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.091801",
           "publishedOn": "2023-03-01T10:00:00.000Z",
-          "wordCount": 834,
+          "wordCount": 838,
           "title": "Evidence of Antineutrinos from Distant Reactors Using Pure Water at $\\mathrm{SNO}+$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.091801.png"
         },
@@ -741,7 +781,7 @@
           "description": "Author(s): Mingrui Xu, Risheng Cheng, Yufeng Wu, Gangqiang Liu, and Hong X. Tang\nA low-noise parametric amplifier based on kinetic inductance, suitable for integration with quantum systems in magnetic fields, is experimentally demonstrated\n\n[PRX Quantum 4, 010322] Published Tue Feb 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010322",
           "publishedOn": "2023-02-28T10:00:00.000Z",
-          "wordCount": 1366,
+          "wordCount": 1370,
           "title": "Magnetic Field-Resilient Quantum-Limited Parametric Amplifier",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.010322.png"
         },
@@ -751,7 +791,7 @@
           "description": "Author(s): Alejandro Pozas-Kerstjens, Nicolas Gisin, and Marc-Olivier Renou\nA conjecture initially formulated by applying machine learning techniques to network nonlocality is rigorously proved.\n\n[Phys. Rev. Lett. 130, 090201] Published Tue Feb 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.090201",
           "publishedOn": "2023-02-28T10:00:00.000Z",
-          "wordCount": 866,
+          "wordCount": 865,
           "title": "Proofs of Network Quantum Nonlocality in Continuous Families of Distributions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.090201.png"
         },
@@ -821,7 +861,7 @@
           "description": "Author(s): Galien Grosjean and Scott Waitukaitis\nThe results of new experiments indicate that surface-adsorbed water molecules are responsible for contact electrification in granular matter, a finding that challenges established models of this phenomenon.\n\n[Phys. Rev. Lett. 130, 098202] Published Mon Feb 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.098202",
           "publishedOn": "2023-02-27T10:00:00.000Z",
-          "wordCount": 1204,
+          "wordCount": 1208,
           "title": "Single-Collision Statistics Reveal a Global Mechanism Driven by Sample History for Contact Electrification in Granular Media",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.098202.png"
         },
@@ -831,7 +871,7 @@
           "description": "Author(s): Yunpeng Zhang, Jinlong Yuan, Yunbin Wu, Jingjing Dong, and Haiyun Xia\nHigh-resolution wind detection plays a crucial role in aviation safety and aerodynamics. In this work, the fine wind field within 700 meters is continuously detected at a resolution of 0.9 meters/0.5 seconds by a coherent Doppler wind LiDAR. A meter-scale perturbation by an electric fan is remotely sensed, and atmospheric turbulence with length scale down to 3 meters can be observed.\n\n[Phys. Rev. Fluids 8, L022701] Published Mon Feb 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L022701",
           "publishedOn": "2023-02-27T10:00:00.000Z",
-          "wordCount": 881,
+          "wordCount": 885,
           "title": "Sub-meter wind detection with pulsed coherent Doppler lidar",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L022701.png"
         },

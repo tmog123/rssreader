@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T00:51:42.787Z</id>
+    <id>urn:2023-03-28T00:54:43.071Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T00:51:42.787Z</updated>
+    <updated>2023-03-28T00:54:43.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Direct Observation of Quantum Anomalous Vortex in Fe(Se,Te)]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.011046</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.011046"/>
+        <updated>2023-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Y. S. Lin, S. Y. Wang, X. Zhang, Y. Feng, Y. P. Pan, H. Ru, J. J. Zhu, B. K. Xiang, K. Liu, C. L. Zheng, L. Y. Wei, M. X. Wang, Z. K. Liu, L. Chen, K. Jiang, Y. F. Guo, Ziqiang Wang, and Y. H. Wang
+A quantum phase of matter detected in an iron-based superconductor could host Majorana zero modes—quasiparticles that may serve as building blocks for future quantum computers.
+
+[Phys. Rev. X 13, 011046] Published Mon Mar 27, 2023]]></summary>
+        <author>
+            <name>Y. S. Lin, S. Y. Wang, X. Zhang, Y. Feng, Y. P. Pan, H. Ru, J. J. Zhu, B. K. Xiang, K. Liu, C. L. Zheng, L. Y. Wei, M. X. Wang, Z. K. Liu, L. Chen, K. Jiang, Y. F. Guo, Ziqiang Wang, and Y. H. Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive power method for estimating large deviations in Markov chains]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.034137</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.034137"/>
+        <updated>2023-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Francesco Coghi and Hugo Touchette
+Large deviation functions can be used to describe fluctuations in model nonequilibrium systems. The authors study the properties of a numerical method for estimating these functions, and test it by applying it to a random walk on a random graph.
+
+[Phys. Rev. E 107, 034137] Published Mon Mar 27, 2023]]></summary>
+        <author>
+            <name>Francesco Coghi and Hugo Touchette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dispersive formalism for the nuclear structure correction ${δ}_{\text{NS}}$ to the $β$ decay rate]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.035503</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.035503"/>
+        <updated>2023-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chien-Yeah Seng and Mikhail Gorchtein
+Searches for new physics are often performed along the precision frontier, requiring more careful treatment of corrections previously treated approximately. For example, interpretation of high-precision measurements of β decay require the radiative correction arising from nuclear structure that was previously estimated using oversimplified nuclear models. In this paper, the authors carefully work out the formalism needed to use input from microscopic nuclear calculations, including a multipole expansion of the relevant matrix elements. This work prepares a path to a more rigorous theory framework and more precise limits on physics beyond the Standard Model.
+
+[Phys. Rev. C 107, 035503] Published Mon Mar 27, 2023]]></summary>
+        <author>
+            <name>Chien-Yeah Seng and Mikhail Gorchtein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berry-dipole photovoltaic demon and the thermodynamics of photocurrent generation within the optical gap of metals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.125151</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.125151"/>
+        <updated>2023-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Li-kun Shi, Oles Matsyshyn, Justin C. W. Song, and Inti Sodemann Villadiego
+Employing a detailed model of electrons coupled to a heat bath, this work demonstrates the generation of photocurrents when the frequency of light lies within the optical gap of a metal in the limit of small absorption. Such in-gap rectification is shown to be consistent with thermodynamic principles and is generally dissipative. The nonlinear Hall effect behaves, however, as a special dissipationless “demon” that can perform a highly efficient and reversible transfer of energy between the radiation and an external circuit.
+
+[Phys. Rev. B 107, 125151] Published Mon Mar 27, 2023]]></summary>
+        <author>
+            <name>Li-kun Shi, Oles Matsyshyn, Justin C. W. Song, and Inti Sodemann Villadiego</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Direct Measurement of Hexacontatetrapole, $E6$ $γ$ Decay from $^{53m}\mathrm{Fe}$]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.122503</id>
