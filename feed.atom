@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T00:54:21.869Z</id>
+    <id>urn:2023-03-31T00:54:09.231Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T00:54:21.869Z</updated>
+    <updated>2023-03-31T00:54:09.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Control of the Radiative Heat Transfer in a Pair of Rotating Nanostructures]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.133605</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.133605"/>
+        <updated>2023-03-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Juan R. Deop-Ruano and Alejandro Manjavacas
+When spun fast enough, a cold object can transfer heat to a nearby hot object.
+
+[Phys. Rev. Lett. 130, 133605] Published Thu Mar 30, 2023]]></summary>
+        <author>
+            <name>Juan R. Deop-Ruano and Alejandro Manjavacas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Phase Diagram and Spontaneously Emergent Topological Chiral Superconductivity in Doped Triangular-Lattice Mott Insulators]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.136003</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.136003"/>
+        <updated>2023-03-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yixuan Huang, Shou-Shu Gong, and D. N. Sheng
+Tuning hopping and spin interaction parameters in a t−J model provide a new route for discovering topological superconductivity in certain moiré superlattices.
+
+[Phys. Rev. Lett. 130, 136003] Published Thu Mar 30, 2023]]></summary>
+        <author>
+            <name>Yixuan Huang, Shou-Shu Gong, and D. N. Sheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giant Magnetochiral Anisotropy in Weyl Semimetal ${\mathrm{WTe}}_{2}$ Induced by Diverging Berry Curvature]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.136301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.136301"/>
+        <updated>2023-03-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tomoyuki Yokouchi, Yuya Ikeda, Takahiro Morimoto, and Yuki Shiomi
+Berry curvature induces giant magnetochiral anisotropy.
+
+[Phys. Rev. Lett. 130, 136301] Published Thu Mar 30, 2023]]></summary>
+        <author>
+            <name>Tomoyuki Yokouchi, Yuya Ikeda, Takahiro Morimoto, and Yuki Shiomi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gauge-invariant and anyonic-symmetric autoregressive neural network for quantum lattice models]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013216</id>
@@ -37,7 +76,7 @@ An experiment with an acoustic resonator demonstrates the quantum superposition 
         <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.035808"/>
         <updated>2023-03-29T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): A. Tsantiri, A. Palmisano-Kyle, A. Spyrou, P. Mohr, H. C. Berg, P. A. DeYoung, A. C. Dombos, P. Gastis, E. C. Good, C. M. Harris, S. N. Liddick, S. M. Lyons, O. Olivas-Gomez, G. Owens-Fryar, J. Pereira, A. L. Richard, A. Simon, M. K. Smith, and R. G. T. Zegers
-Although most nuclei heavier than Fe are likely produced by the slow and the rapid neutron-capture (s and r}) processes, a number of medium-mass, proton-rich nuclei are thought to be produced via photo-disintegration (γ process). To confirm this, one needs detailed statistical model calculations that are constrained by experimental input. In this work, the authors measured the (γ,p) reaction on the unstable 83Rb nucleus, via detailed balance, using the 82Kr(p,γ)83Rb reaction with a 82Kr beam and detecting the produced γ rays. The results put important constraints on the parameters of the statistical model calculations, allowing improved tests of the γ process in hot stellar environments.
+Although most nuclei heavier than Fe are likely produced by the slow and the rapid neutron-capture (s and r) processes, a number of medium-mass, proton-rich nuclei are thought to be produced via photo-disintegration (γ process). To confirm this, one needs detailed statistical model calculations that are constrained by experimental input. In this work, the authors measured the (γ,p) reaction on the unstable 83Rb nucleus, via detailed balance, using the 82Kr(p,γ)83Rb reaction with a 82Kr beam and detecting the produced γ rays. The results put important constraints on the parameters of the statistical model calculations, allowing improved tests of the γ process in hot stellar environments.
 
 [Phys. Rev. C 107, 035808] Published Wed Mar 29, 2023]]></summary>
         <author>
@@ -302,6 +341,19 @@ Edge states are the fingerprint of topological materials, specifically of the qu
 [Phys. Rev. B 107, 115426] Published Fri Mar 24, 2023]]></summary>
         <author>
             <name>T. Johnsen, C. Schattauer, S. Samaddar, A. Weston, M. J. Hamer, K. Watanabe, T. Taniguchi, R. Gorbachev, F. Libisch, and M. Morgenstern</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static and dynamic properties of self-bound droplets of light in hot vapors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.033519</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.033519"/>
+        <updated>2023-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Heitor da Silva, Robin Kaiser, and Tommaso Macrì
+The authors explore analogies between self-bound droplet states in Bose-Einstein condensates (BECs) and the propagation of light in nonlinear hot vapor mediums. They establish a mapping between the experimental parameters used in BEC experiments and those needed to observe the analogous phenomenon in hot atomic vapors.
+
+[Phys. Rev. A 107, 033519] Published Fri Mar 24, 2023]]></summary>
+        <author>
+            <name>Heitor da Silva, Robin Kaiser, and Tommaso Macrì</name>
         </author>
     </entry>
     <entry>
@@ -1121,19 +1173,6 @@ FeRhCrSi shows unconventional magnetic and transport properties. It belongs to o
 [Phys. Rev. B 107, L100401] Published Thu Mar 02, 2023]]></summary>
         <author>
             <name>Y. Venkateswara, Jadupati Nag, S. Shanmukharao Samatham, Akhilesh Kumar Patel, P. D. Babu, Manoj Raama Varma, Jayita Nayak, K. G. Suresh, and Aftab Alam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evidence of Antineutrinos from Distant Reactors Using Pure Water at $\mathrm{SNO}+$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.091801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.091801"/>
-        <updated>2023-03-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Allega et al. (The SNO+ Collaboration)
-Researchers have captured the signal of neutrinos from a nuclear reactor using a water-filled neutrino detector, a first for such a device.
-
-[Phys. Rev. Lett. 130, 091801] Published Wed Mar 01, 2023]]></summary>
-        <author>
-            <name>A. Allega &lt;em&gt;et al.&lt;/em&gt; (The &lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"&gt;&lt;mrow&gt;&lt;mi&gt;SNO&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt; Collaboration)</name>
         </author>
     </entry>
 </feed>
