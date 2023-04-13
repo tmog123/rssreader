@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.151901",
+          "author": "Zhong-Bo Kang, Andrew J. Larkoski, and Jinghong Yang",
+          "description": "Author(s): Zhong-Bo Kang, Andrew J. Larkoski, and Jinghong Yang\nStarting from four simple assumptions about nonperturbative QCD, new insights concerning an old observable, jet charge, are obtained which explain previous observations in collider experiments.\n\n[Phys. Rev. Lett. 130, 151901] Published Wed Apr 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.151901",
+          "publishedOn": "2023-04-12T10:00:00.000Z",
+          "wordCount": 947,
+          "title": "Towards a Nonperturbative Formulation of the Jet Charge",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.151901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044036",
+          "author": "Serban Lepadatu",
+          "description": "Author(s): Serban Lepadatu\nThe author’s calculations show that magnetic skyrmions in metallic multilayers such as Co/Pt can be controllably moved on surfaces, simply by using a focused laser beam. Temperature gradients at the laser spot directly yield skyrmion motion, due to temperature dependence of magnetic parameters, but another contribution can be even more important: Thermoelastic lattice expansion results in a strain-induced local gradient in magnetic anisotropy. This method of skyrmion displacement allows full control of motion over a magnetic surface, with a possible path to MEMS-VCSEL on-chip integration.\n\n[Phys. Rev. Applied 19, 044036] Published Wed Apr 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044036",
+          "publishedOn": "2023-04-12T10:00:00.000Z",
+          "wordCount": 1406,
+          "title": "All-Optical Magnetothermoelastic Skyrmion Motion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.044036.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.044405",
           "author": "Hanjing Zhou, Songsong Yan, Lin Wu, Xiangang Wan, and Di Wang",
           "description": "Author(s): Hanjing Zhou, Songsong Yan, Lin Wu, Xiangang Wan, and Di Wang\nHigh-performance permanent magnets, which have a wide range of applications in the information age, are characterized by significant magnetic anisotropy mainly affected by spin-orbit coupling (SOC). The authors perform a highly efficient search for permanent magnet materials in the inorganic crystal structure database by focusing on materials containing 3d transition elements with specific Wyckoff positions, where certain partially occupied orbital multiplets can significantly enhance the effect of SOC. According to common standards of permanent magnets, the authors propose five new permanent magnet candidates. They believe that these potential permanent magnet materials deserve further experimental study.\n\n[Phys. Rev. Materials 7, 044405] Published Tue Apr 11, 2023",
@@ -301,7 +321,7 @@
           "description": "Author(s): W. Morong, K.S. Collins, A. De, E. Stavropoulos, T. You, and C. Monroe\nA new method based on dynamical decoupling is shown to significantly enhance the coherence of quantum simulations.\n\n[PRX Quantum 4, 010334] Published Fri Mar 31, 2023",
           "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010334",
           "publishedOn": "2023-03-31T10:00:00.000Z",
-          "wordCount": 2315,
+          "wordCount": 2316,
           "title": "Engineering Dynamically Decoupled Quantum Simulations with Trapped Ions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.010334.png"
         },
@@ -821,7 +841,7 @@
           "description": "Author(s): Aaron Chew, Yijie Wang, B. Andrei Bernevig, and Zhi-Da Song\nTwisted bilayer graphene, by nature of its symmetries (like the approximate particle-hole symmetry) and anomalous band structure, realizes a higher-order topological superconductor when s-wave pairing is introduced via proximity. Here, the authors demonstrate this exotic phase numerically and analytically, and illustrate a multitude of consequences: zero modes bound to Abrikosov vortices, the fractional Josephson effect, and much more.\n\n[Phys. Rev. B 107, 094512] Published Fri Mar 17, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.094512",
           "publishedOn": "2023-03-17T10:00:00.000Z",
-          "wordCount": 1117,
+          "wordCount": 1118,
           "title": "Higher-order topological superconductivity in twisted bilayer graphene",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.094512.png"
         },
@@ -894,36 +914,6 @@
           "wordCount": 1388,
           "title": "Parallel Assembly of Arbitrary Defect-Free Atom Arrays with a Multitweezer Algorithm",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.034048.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.011038",
-          "author": "Oliver H. E. Philcox and Salvatore Torquato",
-          "description": "Author(s): Oliver H. E. Philcox and Salvatore Torquato\nA new methodology for analyzing the 3D distribution of galaxies borrows techniques from the study of colloids and other disordered materials.\n\n[Phys. Rev. X 13, 011038] Published Tue Mar 14, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.011038",
-          "publishedOn": "2023-03-14T10:00:00.000Z",
-          "wordCount": 2965,
-          "title": "Disordered Heterogeneous Universe: Galaxy Distribution and Clustering across Length Scales",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.011038.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.110201",
-          "author": "D. Trillo, B. Dive, and M. Navascués",
-          "description": "Author(s): D. Trillo, B. Dive, and M. Navascués\nA new technique for reversing the evolution of a quantum system could become a key tool in quantum information technology.\n\n[Phys. Rev. Lett. 130, 110201] Published Tue Mar 14, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.110201",
-          "publishedOn": "2023-03-14T10:00:00.000Z",
-          "wordCount": 890,
-          "title": "Universal Quantum Rewinding Protocol with an Arbitrarily High Probability of Success",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.110201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.L121102",
-          "author": "Raphael C. Vidal, Giovanni Marini, Lukas Lunczer, Simon Moser, Lena Fürst, Julia Issing, Chris Jozwiak, Aaron Bostwick, Eli Rotenberg, Charles Gould, Hartmut Buhmann, Wouter Beugeling, Giorgio Sangiovanni, Domenico Di Sante, Gianni Profeta, Laurens W. Molenkamp, Hendrik Bentmann, and Friedrich Reinert",
-          "description": "Author(s): Raphael C. Vidal, Giovanni Marini, Lukas Lunczer, Simon Moser, Lena Fürst, Julia Issing, Chris Jozwiak, Aaron Bostwick, Eli Rotenberg, Charles Gould, Hartmut Buhmann, Wouter Beugeling, Giorgio Sangiovanni, Domenico Di Sante, Gianni Profeta, Laurens W. Molenkamp, Hendrik Bentmann, and Friedrich Reinert\nHgTe is a prime example of a topological material that exhibits a range of topological phases based on its dimensionality and lattice strain. The key to its topological properties lies in the band inversion between the Hg 6s and Te 5p valence levels, leading to the emergence of surface states. In this study, the authors present an in-depth examination of the electronic structure of strained HgTe films using angle-resolved photoelectron spectroscopy and density functional theory. The results offer a direct visualization of the topological band inversion and surface states present in HgTe.\n\n[Phys. Rev. B 107, L121102] Published Tue Mar 14, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L121102",
-          "publishedOn": "2023-03-14T10:00:00.000Z",
-          "wordCount": 1133,
-          "title": "Topological band inversion in HgTe(001): Surface and bulk signatures from photoemission",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L121102.png"
         }
       ]
     }
