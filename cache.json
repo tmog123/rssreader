@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L040401",
+          "author": "Sarah Battat, Amit A. Nagarkar, Frans Spaepen, David A. Weitz, and George M. Whitesides",
+          "description": "Author(s): Sarah Battat, Amit A. Nagarkar, Frans Spaepen, David A. Weitz, and George M. Whitesides\nThis paper describes the formation kinetics of a two-dimensional, binary Coulombic material. The material is formed by mechanically agitating millimeter-sized nylon and polytetrafluoroethylene (PTFE) beads that tribocharge positively and negatively, respectively. The authors alter the relative number of nylon and PTFE beads, without changing their combined total. They discover a common transient structure that does not depend on the relative ratio of nylon and PTFE beads, reveal a structure transition driven by the minimization of Coulombic energy, and provide insights for the rational design of materials.\n\n[Phys. Rev. Materials 7, L040401] Published Thu Apr 13, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L040401",
+          "publishedOn": "2023-04-13T10:00:00.000Z",
+          "wordCount": 1438,
+          "title": "Kinetics of formation of a macroscale binary Coulombic material",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.L040401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.156002",
+          "author": "Kristian Mæland and Asle Sudbø",
+          "description": "Author(s): Kristian Mæland and Asle Sudbø\nResearchers propose a way to relieve the material requirements needed to realize topological quantum computers.\n\n[Phys. Rev. Lett. 130, 156002] Published Thu Apr 13, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.156002",
+          "publishedOn": "2023-04-13T10:00:00.000Z",
+          "wordCount": 1009,
+          "title": "Topological Superconductivity Mediated by Skyrmionic Magnons",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.156002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.144420",
+          "author": "E. Chan, H. Lane, J. Pásztorová, M. Songvilay, R. D. Johnson, R. Downie, J-W. G. Bos, J. A. Rodriguez-Rivera, S.-W. Cheong, R. A. Ewings, N. Qureshi, and C. Stock",
+          "description": "Author(s): E. Chan, H. Lane, J. Pásztorová, M. Songvilay, R. D. Johnson, R. Downie, J-W. G. Bos, J. A. Rodriguez-Rivera, S.-W. Cheong, R. A. Ewings, N. Qureshi, and C. Stock\nMnSb2O6 is a helicoidal magnetic that displays magnetic field induced ferroelectric switching. The magnetic ground state is complicated, requiring seven nearest-neighbor symmetric exchange constants. Given this underlying complex exchange network, the authors have applied zeroth- and first-moment sum rules of neutron scattering to a multiplexed data set, thereby extracting the symmetric Heisenberg exchange constants. These are then used to calculate long-wavelength excitations as a test of the stability of the cycloidal structure, validating the refined magnetic structure.\n\n[Phys. Rev. B 107, 144420] Published Thu Apr 13, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.144420",
+          "publishedOn": "2023-04-13T10:00:00.000Z",
+          "wordCount": 2362,
+          "title": "Neutron scattering sum rules, symmetric exchanges, and helicoidal magnetism in ${\\mathrm{MnSb}}_{2}{\\mathrm{O}}_{6}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.144420.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.L161106",
+          "author": "Alejandro Jimeno-Pozo, Héctor Sainz-Cruz, Tommaso Cea, Pierre A. Pantaleón, and Francisco Guinea",
+          "description": "Author(s): Alejandro Jimeno-Pozo, Héctor Sainz-Cruz, Tommaso Cea, Pierre A. Pantaleón, and Francisco Guinea\nWhat drives superconductivity in non-moiré graphene? Here, an electron-electron mechanism is applied to the continuum framework of Bernal bilayer and rhombohedral trilayer graphene. Within a Kohn-Luttinger-like approach, the internal screening of the long-range Coulomb potential leads to an effective attraction between carriers, enabling the formation of Cooper pairs. The calculations provide a filling-dependent critical temperature that is remarkably enhanced due to Ising spin-orbit coupling, and determine the spin-triplet valley-singlet symmetry of the superconducting order parameter, in line with recent experimental advances.\n\n[Phys. Rev. B 107, L161106] Published Thu Apr 13, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L161106",
+          "publishedOn": "2023-04-13T10:00:00.000Z",
+          "wordCount": 1033,
+          "title": "Superconductivity from electronic interactions and spin-orbit enhancement in bilayer and trilayer graphene",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L161106.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.042416",
+          "author": "Niklas Pirnay, Ryan Sweke, Jens Eisert, and Jean-Pierre Seifert",
+          "description": "Author(s): Niklas Pirnay, Ryan Sweke, Jens Eisert, and Jean-Pierre Seifert\nDensity modeling is a machine learning task with the goal of learning an underlying probability distribution from samples. Here the authors show that, when solving certain density modeling problems, algorithms that use fault-tolerant quantum computers have an advantage over classical ones.\n\n[Phys. Rev. A 107, 042416] Published Thu Apr 13, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.042416",
+          "publishedOn": "2023-04-13T10:00:00.000Z",
+          "wordCount": 759,
+          "title": "Superpolynomial quantum-classical separation for density modeling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.042416.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.151901",
           "author": "Zhong-Bo Kang, Andrew J. Larkoski, and Jinghong Yang",
           "description": "Author(s): Zhong-Bo Kang, Andrew J. Larkoski, and Jinghong Yang\nStarting from four simple assumptions about nonperturbative QCD, new insights concerning an old observable, jet charge, are obtained which explain previous observations in collider experiments.\n\n[Phys. Rev. Lett. 130, 151901] Published Wed Apr 12, 2023",
@@ -321,7 +371,7 @@
           "description": "Author(s): W. Morong, K.S. Collins, A. De, E. Stavropoulos, T. You, and C. Monroe\nA new method based on dynamical decoupling is shown to significantly enhance the coherence of quantum simulations.\n\n[PRX Quantum 4, 010334] Published Fri Mar 31, 2023",
           "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.010334",
           "publishedOn": "2023-03-31T10:00:00.000Z",
-          "wordCount": 2316,
+          "wordCount": 2315,
           "title": "Engineering Dynamically Decoupled Quantum Simulations with Trapped Ions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.010334.png"
         },
@@ -904,16 +954,6 @@
           "wordCount": 1879,
           "title": "Topological nature of dislocation networks in two-dimensional moiré materials",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.125413.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034048",
-          "author": "Weikun Tian, Wen Jun Wee, An Qu, Billy Jun Ming Lim, Prithvi Raj Datla, Vanessa Pei Wen Koh, and Huanqian Loh",
-          "description": "Author(s): Weikun Tian, Wen Jun Wee, An Qu, Billy Jun Ming Lim, Prithvi Raj Datla, Vanessa Pei Wen Koh, and Huanqian Loh\nA new algorithm can organize hundreds of atoms into pristine patterns—including a honeycomb lattice, a fractal called a Sierpiński triangle, and a lion’s head.\n\n[Phys. Rev. Applied 19, 034048] Published Wed Mar 15, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034048",
-          "publishedOn": "2023-03-15T10:00:00.000Z",
-          "wordCount": 1388,
-          "title": "Parallel Assembly of Arbitrary Defect-Free Atom Arrays with a Multitweezer Algorithm",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.034048.png"
         }
       ]
     }

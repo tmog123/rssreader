@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T00:50:04.254Z</id>
+    <id>urn:2023-04-14T00:49:02.487Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T00:50:04.254Z</updated>
+    <updated>2023-04-14T00:49:02.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kinetics of formation of a macroscale binary Coulombic material]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L040401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L040401"/>
+        <updated>2023-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sarah Battat, Amit A. Nagarkar, Frans Spaepen, David A. Weitz, and George M. Whitesides
+This paper describes the formation kinetics of a two-dimensional, binary Coulombic material. The material is formed by mechanically agitating millimeter-sized nylon and polytetrafluoroethylene (PTFE) beads that tribocharge positively and negatively, respectively. The authors alter the relative number of nylon and PTFE beads, without changing their combined total. They discover a common transient structure that does not depend on the relative ratio of nylon and PTFE beads, reveal a structure transition driven by the minimization of Coulombic energy, and provide insights for the rational design of materials.
+
+[Phys. Rev. Materials 7, L040401] Published Thu Apr 13, 2023]]></summary>
+        <author>
+            <name>Sarah Battat, Amit A. Nagarkar, Frans Spaepen, David A. Weitz, and George M. Whitesides</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological Superconductivity Mediated by Skyrmionic Magnons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.156002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.156002"/>
+        <updated>2023-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kristian Mæland and Asle Sudbø
+Researchers propose a way to relieve the material requirements needed to realize topological quantum computers.
+
+[Phys. Rev. Lett. 130, 156002] Published Thu Apr 13, 2023]]></summary>
+        <author>
+            <name>Kristian Mæland and Asle Sudbø</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neutron scattering sum rules, symmetric exchanges, and helicoidal magnetism in ${\mathrm{MnSb}}_{2}{\mathrm{O}}_{6}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.144420</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.144420"/>
+        <updated>2023-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): E. Chan, H. Lane, J. Pásztorová, M. Songvilay, R. D. Johnson, R. Downie, J-W. G. Bos, J. A. Rodriguez-Rivera, S.-W. Cheong, R. A. Ewings, N. Qureshi, and C. Stock
+MnSb2O6 is a helicoidal magnetic that displays magnetic field induced ferroelectric switching. The magnetic ground state is complicated, requiring seven nearest-neighbor symmetric exchange constants. Given this underlying complex exchange network, the authors have applied zeroth- and first-moment sum rules of neutron scattering to a multiplexed data set, thereby extracting the symmetric Heisenberg exchange constants. These are then used to calculate long-wavelength excitations as a test of the stability of the cycloidal structure, validating the refined magnetic structure.
+
+[Phys. Rev. B 107, 144420] Published Thu Apr 13, 2023]]></summary>
+        <author>
+            <name>E. Chan, H. Lane, J. Pásztorová, M. Songvilay, R. D. Johnson, R. Downie, J-W. G. Bos, J. A. Rodriguez-Rivera, S.-W. Cheong, R. A. Ewings, N. Qureshi, and C. Stock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superconductivity from electronic interactions and spin-orbit enhancement in bilayer and trilayer graphene]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L161106</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L161106"/>
+        <updated>2023-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alejandro Jimeno-Pozo, Héctor Sainz-Cruz, Tommaso Cea, Pierre A. Pantaleón, and Francisco Guinea
+What drives superconductivity in non-moiré graphene? Here, an electron-electron mechanism is applied to the continuum framework of Bernal bilayer and rhombohedral trilayer graphene. Within a Kohn-Luttinger-like approach, the internal screening of the long-range Coulomb potential leads to an effective attraction between carriers, enabling the formation of Cooper pairs. The calculations provide a filling-dependent critical temperature that is remarkably enhanced due to Ising spin-orbit coupling, and determine the spin-triplet valley-singlet symmetry of the superconducting order parameter, in line with recent experimental advances.
+
+[Phys. Rev. B 107, L161106] Published Thu Apr 13, 2023]]></summary>
+        <author>
+            <name>Alejandro Jimeno-Pozo, Héctor Sainz-Cruz, Tommaso Cea, Pierre A. Pantaleón, and Francisco Guinea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superpolynomial quantum-classical separation for density modeling]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.042416</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.042416"/>
+        <updated>2023-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Niklas Pirnay, Ryan Sweke, Jens Eisert, and Jean-Pierre Seifert
+Density modeling is a machine learning task with the goal of learning an underlying probability distribution from samples. Here the authors show that, when solving certain density modeling problems, algorithms that use fault-tolerant quantum computers have an advantage over classical ones.
+
+[Phys. Rev. A 107, 042416] Published Thu Apr 13, 2023]]></summary>
+        <author>
+            <name>Niklas Pirnay, Ryan Sweke, Jens Eisert, and Jean-Pierre Seifert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Towards a Nonperturbative Formulation of the Jet Charge]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.151901</id>
@@ -1173,19 +1238,6 @@ Twisted bilayers of two-dimensional materials contain a moiré superatomic latti
 [Phys. Rev. B 107, 125413] Published Thu Mar 16, 2023]]></summary>
         <author>
             <name>Rebecca Engelke, Hyobin Yoo, Stephen Carr, Kevin Xu, Paul Cazeaux, Richard Allen, Andres Mier Valdivia, Mitchell Luskin, Efthimios Kaxiras, Minhyong Kim, Jung Hoon Han, and Philip Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parallel Assembly of Arbitrary Defect-Free Atom Arrays with a Multitweezer Algorithm]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.034048</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.034048"/>
-        <updated>2023-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Weikun Tian, Wen Jun Wee, An Qu, Billy Jun Ming Lim, Prithvi Raj Datla, Vanessa Pei Wen Koh, and Huanqian Loh
-A new algorithm can organize hundreds of atoms into pristine patterns—including a honeycomb lattice, a fractal called a Sierpiński triangle, and a lion’s head.
-
-[Phys. Rev. Applied 19, 034048] Published Wed Mar 15, 2023]]></summary>
-        <author>
-            <name>Weikun Tian, Wen Jun Wee, An Qu, Billy Jun Ming Lim, Prithvi Raj Datla, Vanessa Pei Wen Koh, and Huanqian Loh</name>
         </author>
     </entry>
 </feed>
