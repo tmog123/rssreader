@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXEnergy.2.023001",
+          "author": "Alon Herman, Joel W. Ager, Shane Ardo, and Gideon Segev",
+          "description": "Author(s): Alon Herman, Joel W. Ager, Shane Ardo, and Gideon Segev\nA computational study shows that a flashing ratchet mechanism can separate equally charged ions based on diffusion coefficients and thus benefit the energy efficiency of water desalination and lithium extraction processes.\n\n[PRX Energy 2, 023001] Published Fri Apr 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PRXEnergy.2.023001",
+          "publishedOn": "2023-04-14T10:00:00.000Z",
+          "wordCount": 1994,
+          "title": "Ratchet-Based Ion Pumps for Selective Ion Separations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXENERGY/key_images/10.1103/PRXEnergy.2.023001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.044603",
+          "author": "Kevin F. Garrity and Kamal Choudhary",
+          "description": "Author(s): Kevin F. Garrity and Kamal Choudhary\nParametrized tight-binding is a computationally efficient way to calculate a material’s energy and electronic structure, but a lack of well-tested and quantitatively accurate parameter sets limits potential applications. Here, the authors develop a model that uses both two-body and three-body contributions to predict tight-binding Hamiltonians directly from crystal structures. They fit the model to a large database of density functional theory calculations of elemental and binary materials from sixty-four main group and transition metal atoms, using an active learning procedure to generate and test out-of-sample structures. The resulting parameter set enables fast and accurate materials calculations.\n\n[Phys. Rev. Materials 7, 044603] Published Fri Apr 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.044603",
+          "publishedOn": "2023-04-14T10:00:00.000Z",
+          "wordCount": 1120,
+          "title": "Fast and accurate prediction of material properties with three-body tight-binding model for the periodic table",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.044603.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.044701",
+          "author": "Siddhant Jain, Shubham Sharma, Durbar Roy, and Saptarshi Basu",
+          "description": "Author(s): Siddhant Jain, Shubham Sharma, Durbar Roy, and Saptarshi Basu\nA novel concept of vortical cleaning in porous surfaces is studied experimentally. A vortex ring of various strengths is made to interact with oil-impregnated porous surfaces with the aim of understanding the mechanism of oil ejection from the porous surface. The vortex dynamics involves different phenomena like vortex cancellation and Kelvin-Helmholtz instabilities. The cleaning takes place from both sides of the porous surface through an intricate interaction process characterized by Rayleigh-Taylor and Rayleigh-Plateau type instabilities that is studied in three different regimes: i) Penetration, ii) Bag formation, and iii) Bag breakup.\n\n[Phys. Rev. Fluids 8, 044701] Published Fri Apr 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.044701",
+          "publishedOn": "2023-04-14T10:00:00.000Z",
+          "wordCount": 1525,
+          "title": "Vortical cleaning of oil-impregnated porous surfaces",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.044701.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.042210",
+          "author": "Duc Minh Tran, Van-Duy Nguyen, Le Bin Ho, and Hung Q. Nguyen",
+          "description": "Author(s): Duc Minh Tran, Van-Duy Nguyen, Le Bin Ho, and Hung Q. Nguyen\nThe authors introduce a quantum nonlocal scheme for n-particle systems using a theoretical model and a quantum simulation. They find a particular version of Hardy’s paradox that yields a very high nonlocal probability that approaches 15.6% as the system size n grows.\n\n[Phys. Rev. A 107, 042210] Published Fri Apr 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.042210",
+          "publishedOn": "2023-04-14T10:00:00.000Z",
+          "wordCount": 1103,
+          "title": "Increased success probability in Hardy's nonlocality: Theory and demonstration",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.042210.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.042611",
+          "author": "X. Jiang, J. Scott, Mark Friesen, and M. Saffman",
+          "description": "Author(s): X. Jiang, J. Scott, Mark Friesen, and M. Saffman\nThe authors analyze gate errors for neutral-atom qubits, quantifying how sensitive gate fidelities are to laser noise for both single- and two-photon gate operation. They consider relevant experimental issues like the noise induced by the finite bandwidth of feedback circuits.\n\n[Phys. Rev. A 107, 042611] Published Fri Apr 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.042611",
+          "publishedOn": "2023-04-14T10:00:00.000Z",
+          "wordCount": 1651,
+          "title": "Sensitivity of quantum gate fidelity to laser phase and intensity noise",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.042611.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L040401",
           "author": "Sarah Battat, Amit A. Nagarkar, Frans Spaepen, David A. Weitz, and George M. Whitesides",
           "description": "Author(s): Sarah Battat, Amit A. Nagarkar, Frans Spaepen, David A. Weitz, and George M. Whitesides\nThis paper describes the formation kinetics of a two-dimensional, binary Coulombic material. The material is formed by mechanically agitating millimeter-sized nylon and polytetrafluoroethylene (PTFE) beads that tribocharge positively and negatively, respectively. The authors alter the relative number of nylon and PTFE beads, without changing their combined total. They discover a common transient structure that does not depend on the relative ratio of nylon and PTFE beads, reveal a structure transition driven by the minimization of Coulombic energy, and provide insights for the rational design of materials.\n\n[Phys. Rev. Materials 7, L040401] Published Thu Apr 13, 2023",
@@ -914,46 +964,6 @@
           "wordCount": 1286,
           "title": "Robust quantum control with disorder-dressed evolution",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.032609.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.114002",
-          "author": "Farshad Nazari, Kourosh Shoele, and Hadi Mohammadigoushki",
-          "description": "Author(s): Farshad Nazari, Kourosh Shoele, and Hadi Mohammadigoushki\nIf a helical bacteria’s tail propulsion is strong enough to deform the yield-stress fluid ahead of the swimmer, locomotion proceeds.\n\n[Phys. Rev. Lett. 130, 114002] Published Thu Mar 16, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.114002",
-          "publishedOn": "2023-03-16T10:00:00.000Z",
-          "wordCount": 970,
-          "title": "Helical Locomotion in Yield Stress Fluids",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.114002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.104415",
-          "author": "Robert Oliva, Esther Ritov, Faris Horani, Iñigo Etxebarria, Adam K. Budniak, Yaron Amouyal, Efrat Lifshitz, and Mael Guennou",
-          "description": "Author(s): Robert Oliva, Esther Ritov, Faris Horani, Iñigo Etxebarria, Adam K. Budniak, Yaron Amouyal, Efrat Lifshitz, and Mael Guennou\nAntiferromagnetic MnPS3 and diamagnetic ZnPS3 belong to a family of two-dimensional compounds that exhibit a rich variety of magnetic ordering. Low-temperature Raman spectroscopy and SQUID magnetometer measurements are performed on both compounds and their alloy in order to evaluate a possible Jahn-Teller distortion as well as to reveal magnetic and alloy signatures. With the aid of first-principles calculations, a description of the lattice dynamics of the system is presented, together with the magnetic phase diagram across the entire compositional range.\n\n[Phys. Rev. B 107, 104415] Published Thu Mar 16, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.104415",
-          "publishedOn": "2023-03-16T10:00:00.000Z",
-          "wordCount": 1644,
-          "title": "Lattice dynamics and in-plane antiferromagnetism in ${\\mathrm{Mn}}_{x}{\\mathrm{Zn}}_{1−x}{\\mathrm{PS}}_{3}$ across the entire composition range",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.104415.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.125136",
-          "author": "M. O. Ajeesh, P. Materne, R. D. dos Reis, K. Weber, S. Dengre, R. Sarkar, R. Khasanov, I. Kraft, A. M. León, W. Bi, J. Zhao, E. E. Alp, S. Medvedev, V. Ksenofontov, H. Rosner, H.-H. Klauss, C. Geibel, and M. Nicklas",
-          "description": "Author(s): M. O. Ajeesh, P. Materne, R. D. dos Reis, K. Weber, S. Dengre, R. Sarkar, R. Khasanov, I. Kraft, A. M. León, W. Bi, J. Zhao, E. E. Alp, S. Medvedev, V. Ksenofontov, H. Rosner, H.-H. Klauss, C. Geibel, and M. Nicklas\nCompeting ground states often lead to the emergence of novel unconventional phases. The presence of magnetic frustration in such materials brings about additional complexity. Here, the authors present a comprehensive study on the ground-state properties of LuFe4Ge2, a ternary intermetallic compound with magnetic frustration and quasi-one-dimensional structure, elucidating the interplay of structure and magnetism. In contrast to the well-studied two-dimensional iron pnictides with competing exchange interactions, LuFe4Ge2 exhibits quasi-one-dimensional chains of geometrically frustrated Fe tetrahedra. It displays a magnetostructural transition at ambient pressure with a change in symmetry from tetragonal to orthorhombic, similar to that in the iron-pnictides, which evolves in an unexpected way under the application of hydrostatic pressure. In that way the intermetallic LuFe4Ge2 material family offers a new perspective on the entanglement of crystal structure and magnetism.\n\n[Phys. Rev. B 107, 125136] Published Thu Mar 16, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.125136",
-          "publishedOn": "2023-03-16T10:00:00.000Z",
-          "wordCount": 1719,
-          "title": "Interplay of structure and magnetism in ${\\mathrm{LuFe}}_{4}{\\mathrm{Ge}}_{2}$ tuned by hydrostatic pressure",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.125136.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.125413",
-          "author": "Rebecca Engelke, Hyobin Yoo, Stephen Carr, Kevin Xu, Paul Cazeaux, Richard Allen, Andres Mier Valdivia, Mitchell Luskin, Efthimios Kaxiras, Minhyong Kim, Jung Hoon Han, and Philip Kim",
-          "description": "Author(s): Rebecca Engelke, Hyobin Yoo, Stephen Carr, Kevin Xu, Paul Cazeaux, Richard Allen, Andres Mier Valdivia, Mitchell Luskin, Efthimios Kaxiras, Minhyong Kim, Jung Hoon Han, and Philip Kim\nTwisted bilayers of two-dimensional materials contain a moiré superatomic lattice domain that can be bounded by a domain boundary network. The authors show here that the nodes of this network can be considered topological defects. While the nodes in previously studied twisted moiré materials are vortices, the authors discover antivortices formed in strained moiré systems using transmission electron micrographs. This work provides insight into the underlying rules governing moiré structures, inspiring the construction of new types of moiré interfaces.\n\n[Phys. Rev. B 107, 125413] Published Thu Mar 16, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.125413",
-          "publishedOn": "2023-03-16T10:00:00.000Z",
-          "wordCount": 1879,
-          "title": "Topological nature of dislocation networks in two-dimensional moiré materials",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.125413.png"
         }
       ]
     }
