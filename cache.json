@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.166901",
+          "author": "M. A. Yavorsky, M. A. Kozhaev, A. Yu. Fedorov, D. V. Vikulin, E. V. Barshak, V. N. Berzhansky, S. D. Lyashko, P. O. Kapralov, and V. I. Belotelov",
+          "description": "Author(s): M. A. Yavorsky, M. A. Kozhaev, A. Yu. Fedorov, D. V. Vikulin, E. V. Barshak, V. N. Berzhansky, S. D. Lyashko, P. O. Kapralov, and V. I. Belotelov\nDue to the optical spin-orbit interaction, an optical beam carrying orbital angular momentum modifies the well-known Faraday effect for a plane wave yielding a novel magneto-optical effect: the topological Faraday effect.\n\n[Phys. Rev. Lett. 130, 166901] Published Tue Apr 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.166901",
+          "publishedOn": "2023-04-18T10:00:00.000Z",
+          "wordCount": 947,
+          "title": "Topological Faraday Effect for Optical Vortices in Magnetic Films",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.166901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044051",
+          "author": "Alisher Duspayev and Georg Raithel",
+          "description": "Author(s): Alisher Duspayev and Georg Raithel\nCold-atom-based ion sources (CABIS) are a timely example of how laser cooling and trapping can be used in practical applications, such as nanofabrication and microscopy. Unfortunately, Coulomb repulsion between ions can significantly deteriorate CABIS performance. The authors demonstrate that embedded Rydberg atoms can be used for noninvasive, near-real-time measurement of the electric fields between ions in CABIS, and thereby to control Coulomb-induced degradation via feedback. The spectra of different Rydberg states reveal which states are suitable for low- and high-field monitoring, and this work also sheds light on many-body interactions between ultracold ions and neutral atoms.\n\n[Phys. Rev. Applied 19, 044051] Published Tue Apr 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044051",
+          "publishedOn": "2023-04-18T10:00:00.000Z",
+          "wordCount": 1312,
+          "title": "Electric Field Analysis in a Cold-Ion Source Using Stark Spectroscopy of Rydberg Atoms",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.044051.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.042811",
+          "author": "Jin-Lu Wen (温金录), Jia-Dong Tang (唐家栋), Jun-Feng Dong (董俊峰), Xiao-Jiao Du (杜小娇), Shui-Ming Hu (胡水明), and Y. R. Sun (孙羽)",
+          "description": "Author(s): Jin-Lu Wen (温金录), Jia-Dong Tang (唐家栋), Jun-Feng Dong (董俊峰), Xiao-Jiao Du (杜小娇), Shui-Ming Hu (胡水明), and Y. R. Sun (孙羽)\nThe authors propose and demonstrate a method for precision spectroscopy of atoms in a beam using two sequential rather than simultaneous laser pulses, thereby overcoming systematic challenges associated with standing-wave beams that plague other methods. Their results show that this method can effectively suppress the first-order Doppler effect and reduce systematic uncertainty.\n\n[Phys. Rev. A 107, 042811] Published Tue Apr 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.042811",
+          "publishedOn": "2023-04-18T10:00:00.000Z",
+          "wordCount": 1384,
+          "title": "Doppler-free spectroscopy of an atomic beam probed in traveling-wave fields",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.042811.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.161001",
           "author": "M. Aguilar <em>et al.</em> (AMS Collaboration)",
           "description": "Author(s): M. Aguilar et al. (AMS Collaboration)\nAn instrument on the International Space Station has revealed new information about how the Sun’s magnetic field affects cosmic rays on their way to Earth.\n\n[Phys. Rev. Lett. 130, 161001] Published Mon Apr 17, 2023",
@@ -731,7 +761,7 @@
           "description": "Author(s): Anderson C. M. Lai and Kenny C. Y. Ng\nThe authors present exact numerical computations leading to a general theoretical formalism of Compton and inverse Compton scattering in several key astrophysical processes, such as X- & γ-ray polarization and astrophysical jets. Their assumption of (1) anisotropic photons and electrons, and (2) no ultrarelativistic approximations, demonstrates major deviations in certain regimes compared to previous calculations.\n\n[Phys. Rev. D 107, 063026] Published Fri Mar 24, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.063026",
           "publishedOn": "2023-03-24T10:00:00.000Z",
-          "wordCount": 1166,
+          "wordCount": 1167,
           "title": "Anisotropic photon and electron scattering without ultrarelativistic approximation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.063026.png"
         },
@@ -894,56 +924,6 @@
           "wordCount": 1301,
           "title": "First-principles theory of the pressure-induced invar effect in FeNi alloys",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.104422.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.126301",
-          "author": "Md. Shafayat Hossain, Meng K. Ma, Y. J. Chung, S. K. Singh, A. Gupta, K. W. West, K. W. Baldwin, L. N. Pfeiffer, R. Winkler, and M. Shayegan",
-          "description": "Author(s): Md. Shafayat Hossain, Meng K. Ma, Y. J. Chung, S. K. Singh, A. Gupta, K. W. West, K. W. Baldwin, L. N. Pfeiffer, R. Winkler, and M. Shayegan\nAn in-plane magnetic field and valley occupancy can tune phase transitions in an even-denominator quantum Hall regime.\n\n[Phys. Rev. Lett. 130, 126301] Published Mon Mar 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.126301",
-          "publishedOn": "2023-03-20T10:00:00.000Z",
-          "wordCount": 1106,
-          "title": "Valley-Tunable Even-Denominator Fractional Quantum Hall State in the Lowest Landau Level of an Anisotropic System",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.126301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.128401",
-          "author": "Leonardo Demarchi, Andriy Goychuk, Ivan Maryshev, and Erwin Frey",
-          "description": "Author(s): Leonardo Demarchi, Andriy Goychuk, Ivan Maryshev, and Erwin Frey\nPhase separation within cells creates droplets whose chemical activity leads to surprising mobility that serves cellular function and hints at the origin of life.\n\n[Phys. Rev. Lett. 130, 128401] Published Mon Mar 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.128401",
-          "publishedOn": "2023-03-20T10:00:00.000Z",
-          "wordCount": 1185,
-          "title": "Enzyme-Enriched Condensates Show Self-Propulsion, Positioning, and Coexistence",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.128401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.L100412",
-          "author": "Zhentao Liu, Zhaochu Luo, Ivan Shorubalko, Christof Vockenhuber, Laura J. Heyderman, Pietro Gambardella, and Aleš Hrabec",
-          "description": "Author(s): Zhentao Liu, Zhaochu Luo, Ivan Shorubalko, Christof Vockenhuber, Laura J. Heyderman, Pietro Gambardella, and Aleš Hrabec\nInterlayer couplings are widely used in spintronic devices based on magnetic multilayers. Here, the authors demonstrate instead a strong tunable coupling between adjacent regions of a single ferrimagnetic layer, based on the exchange interaction. They unveil a large lateral exchange bias by spatially patterning the compensation temperature of the ferrimagnet. Furthermore, they show electrical switching of ferrimagnetic domains utilizing the lateral exchange coupling mechanism in combination with spin-orbit torques.\n\n[Phys. Rev. B 107, L100412] Published Mon Mar 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L100412",
-          "publishedOn": "2023-03-20T10:00:00.000Z",
-          "wordCount": 1297,
-          "title": "Strong lateral exchange coupling and current-induced switching in single-layer ferrimagnetic films with patterned compensation temperature",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L100412.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034064",
-          "author": "Alexander P. Read, Benjamin J. Chapman, Chan U Lei, Jacob C. Curtis, Suhas Ganjam, Lev Krayzman, Luigi Frunzio, and Robert J. Schoelkopf",
-          "description": "Author(s): Alexander P. Read, Benjamin J. Chapman, Chan U Lei, Jacob C. Curtis, Suhas Ganjam, Lev Krayzman, Luigi Frunzio, and Robert J. Schoelkopf\nTo better understand decoherence in superconducting qubits, the authors develop a technique to measure the loss tangent of dielectric substrates and predict the impact of dielectric loss on qubit lifetimes. This is done with no need to fabricate planar devices; the technique is independent of material platform. Measurements of sapphire in a demonstration of the approach suggest that coherence of superconducting qubits on a common form of sapphire is limited significantly by bulk dielectric loss. The same technique also shows that another form of sapphire would substantially mitigate this bulk dielectric loss and prolong qubit coherence.\n\n[Phys. Rev. Applied 19, 034064] Published Mon Mar 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.034064",
-          "publishedOn": "2023-03-20T10:00:00.000Z",
-          "wordCount": 2073,
-          "title": "Precision Measurement of the Microwave Dielectric Loss of Sapphire in the Quantum Regime with Parts-per-Billion Sensitivity",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.034064.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.033321",
-          "author": "Reuben R. W. Wang and John L. Bohn",
-          "description": "Author(s): Reuben R. W. Wang and John L. Bohn\nThe authors theoretically study the propagation of plane wave modes in ultracold dipolar Fermi gases in the hydrodynamic limit, including collisions and mean-field dipolar interactions. The authors find that longitudinal waves present anisotropies in both the speed of sound and damping. In addition, two types of shear waves are predicted, which could be used as an experimental means to measure the viscosity coefficients.\n\n[Phys. Rev. A 107, 033321] Published Mon Mar 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.033321",
-          "publishedOn": "2023-03-20T10:00:00.000Z",
-          "wordCount": 824,
-          "title": "Anisotropic acoustics in dipolar Fermi gases",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.033321.png"
         }
       ]
     }
