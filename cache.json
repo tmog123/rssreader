@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.165101",
+          "author": "P. J. Bilbao and L. O. Silva",
+          "description": "Author(s): P. J. Bilbao and L. O. Silva\nRadiation reaction cooling affects global momentum distributions of plasmas producing a population inversion that can trigger kinetic instabilities and coherent radiation in a broad range of conditions relevant to both astrophysical and laboratory plasmas.\n\n[Phys. Rev. Lett. 130, 165101] Published Wed Apr 19, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.165101",
+          "publishedOn": "2023-04-19T10:00:00.000Z",
+          "wordCount": 818,
+          "title": "Radiation Reaction Cooling as a Source of Anisotropic Momentum Distributions with Inverted Populations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.165101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.166001",
+          "author": "Shiki Ogata, Shunsaku Kitagawa, Katsuki Kinjo, Kenji Ishida, Manuel Brando, Elena Hassinger, Christoph Geibel, and Seunghyun Khim",
+          "description": "Author(s): Shiki Ogata, Shunsaku Kitagawa, Katsuki Kinjo, Kenji Ishida, Manuel Brando, Elena Hassinger, Christoph Geibel, and Seunghyun Khim\nMeasurement of the superconducting spin susceptibility using NMR shows that CeRh2As2 is the first example of spin-singlet superconductor with multiple superconducting phases.\n\n[Phys. Rev. Lett. 130, 166001] Published Wed Apr 19, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.166001",
+          "publishedOn": "2023-04-19T10:00:00.000Z",
+          "wordCount": 1115,
+          "title": "Parity Transition of Spin-Singlet Superconductivity Using Sublattice Degrees of Freedom",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.166001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.168001",
+          "author": "Xuyang Zhou, Yang Bai, Ayman A. El-Zoka, Se-Ho Kim, Yan Ma, Christian H. Liebscher, Baptiste Gault, Jaber R. Mianroodi, Gerhard Dehm, and Dierk Raabe",
+          "description": "Author(s): Xuyang Zhou, Yang Bai, Ayman A. El-Zoka, Se-Ho Kim, Yan Ma, Christian H. Liebscher, Baptiste Gault, Jaber R. Mianroodi, Gerhard Dehm, and Dierk Raabe\nResearchers have investigated how pores in a solid change its chemical reactions with other materials. The result could make steel production more environmentally friendly.\n\n[Phys. Rev. Lett. 130, 168001] Published Wed Apr 19, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.168001",
+          "publishedOn": "2023-04-19T10:00:00.000Z",
+          "wordCount": 1252,
+          "title": "Effect of Pore Formation on Redox-Driven Phase Transformation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.168001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.042615",
+          "author": "Boris Albrecht, Constantin Dalyac, Lucas Leclerc, Luis Ortiz-Gutiérrez, Slimane Thabet, Mauro D'Arcangelo, Julia R. K. Cline, Vincent E. Elfving, Lucas Lassablière, Henrique Silvério, Bruno Ximenez, Louis-Paul Henry, Adrien Signoles, and Loïc Henriet",
+          "description": "Author(s): Boris Albrecht, Constantin Dalyac, Lucas Leclerc, Luis Ortiz-Gutiérrez, Slimane Thabet, Mauro D'Arcangelo, Julia R. K. Cline, Vincent E. Elfving, Lucas Lassablière, Henrique Silvério, Bruno Ximenez, Louis-Paul Henry, Adrien Signoles, and Loïc Henriet\nUsing a Rydberg quantum processor with up to 32 qubits, the authors implement machine learning tasks on data structured into graphs and show that their platform can distinguish two different graph connectivities. To illustrate the potential of such a method, they show that it can classify the toxicity of a given molecule based on a real-world biochemistry dataset.\n\n[Phys. Rev. A 107, 042615] Published Wed Apr 19, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.042615",
+          "publishedOn": "2023-04-19T10:00:00.000Z",
+          "wordCount": 1863,
+          "title": "Quantum feature maps for graph machine learning on a neutral atom quantum processor",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.042615.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.166901",
           "author": "M. A. Yavorsky, M. A. Kozhaev, A. Yu. Fedorov, D. V. Vikulin, E. V. Barshak, V. N. Berzhansky, S. D. Lyashko, P. O. Kapralov, and V. I. Belotelov",
           "description": "Author(s): M. A. Yavorsky, M. A. Kozhaev, A. Yu. Fedorov, D. V. Vikulin, E. V. Barshak, V. N. Berzhansky, S. D. Lyashko, P. O. Kapralov, and V. I. Belotelov\nDue to the optical spin-orbit interaction, an optical beam carrying orbital angular momentum modifies the well-known Faraday effect for a plane wave yielding a novel magneto-optical effect: the topological Faraday effect.\n\n[Phys. Rev. Lett. 130, 166901] Published Tue Apr 18, 2023",
@@ -531,7 +571,7 @@
           "description": "Author(s): Bart Olsthoorn\nWhat shapes of entanglement are present in quantum states? Persistent homology provides an answer that contains both topological and geometrical information. This is a relatively new method from the field of topological data analysis, where shapes in discrete data are captured at varying length scales. In this case, the length scale is based on quantum mutual information, and the method is used to detect quantum phase transitions.\n\n[Phys. Rev. B 107, 115174] Published Fri Mar 31, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.115174",
           "publishedOn": "2023-03-31T10:00:00.000Z",
-          "wordCount": 1496,
+          "wordCount": 1495,
           "title": "Persistent homology of quantum entanglement",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.115174.png"
         },
@@ -894,36 +934,6 @@
           "wordCount": 1363,
           "title": "Accuracy of quantum simulators with ultracold dipolar molecules: A quantitative comparison between continuum and lattice descriptions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.033323.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.126202",
-          "author": "Song Jiang, Tomáš Neuman, Rémi Bretel, Alex Boeglin, Fabrice Scheurer, Eric Le Moal, and Guillaume Schull",
-          "description": "Author(s): Song Jiang, Tomáš Neuman, Rémi Bretel, Alex Boeglin, Fabrice Scheurer, Eric Le Moal, and Guillaume Schull\nSpatial maps of the light emitted by an excited molecule reveal how the emission depends on the molecule’s charge states.\n\n[Phys. Rev. Lett. 130, 126202] Published Tue Mar 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.126202",
-          "publishedOn": "2023-03-21T10:00:00.000Z",
-          "wordCount": 1082,
-          "title": "Many-Body Description of STM-Induced Fluorescence of Charged Molecules",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.126202.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.104421",
-          "author": "N. Matsuyama, T. Nomura, S. Imajo, T. Nomoto, R. Arita, K. Sudo, M. Kimata, N. D. Khanh, R. Takagi, Y. Tokura, S. Seki, K. Kindo, and Y. Kohama",
-          "description": "Author(s): N. Matsuyama, T. Nomura, S. Imajo, T. Nomoto, R. Arita, K. Sudo, M. Kimata, N. D. Khanh, R. Takagi, Y. Tokura, S. Seki, K. Kindo, and Y. Kohama\nThe skyrmion formation mechanism in centrosymmetric systems remains to be understood, partially because of the lack of fundamental understanding of the electronic structure. The authors observe de Haas–van Alphen and Shubnikov–de Haas oscillations in high magnetic fields up to 58 T on GdRu2Si2, which is one of such centrosymmetric skyrmion-hosting magnets with the shortest skyrmion diameter ever found. Combined with first-principles calculations, the authors now reveal the electronic structure of GdRu2Si2 and its reconstruction at the magnetic phase boundary.\n\n[Phys. Rev. B 107, 104421] Published Tue Mar 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.104421",
-          "publishedOn": "2023-03-21T10:00:00.000Z",
-          "wordCount": 1114,
-          "title": "Quantum oscillations in the centrosymmetric skyrmion-hosting magnet ${\\mathrm{GdRu}}_{2}{\\mathrm{Si}}_{2}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.104421.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.104422",
-          "author": "Amanda Ehn, Björn Alling, and Igor A. Abrikosov",
-          "description": "Author(s): Amanda Ehn, Björn Alling, and Igor A. Abrikosov\nBeside the classic Fe64Ni36 Invar alloy, which shows an anomalously low thermal expansion at ambient pressure, Fe-Ni alloys with a higher nickel composition can be driven to Invar behavior by pressure. The authors investigate the pressure induced Invar effect theoretically and demonstrate that it can be explained by a magnetic transition from a ferromagnetic state at high volume to a complex noncollinear state upon compression. They relate the Invar effect to the increasing contribution of magnetic entropy with pressure.\n\n[Phys. Rev. B 107, 104422] Published Tue Mar 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.104422",
-          "publishedOn": "2023-03-21T10:00:00.000Z",
-          "wordCount": 1301,
-          "title": "First-principles theory of the pressure-induced invar effect in FeNi alloys",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.104422.png"
         }
       ]
     }

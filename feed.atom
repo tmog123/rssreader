@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T00:52:34.390Z</id>
+    <id>urn:2023-04-20T00:50:30.532Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T00:52:34.390Z</updated>
+    <updated>2023-04-20T00:50:30.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Radiation Reaction Cooling as a Source of Anisotropic Momentum Distributions with Inverted Populations]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.165101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.165101"/>
+        <updated>2023-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): P. J. Bilbao and L. O. Silva
+Radiation reaction cooling affects global momentum distributions of plasmas producing a population inversion that can trigger kinetic instabilities and coherent radiation in a broad range of conditions relevant to both astrophysical and laboratory plasmas.
+
+[Phys. Rev. Lett. 130, 165101] Published Wed Apr 19, 2023]]></summary>
+        <author>
+            <name>P. J. Bilbao and L. O. Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parity Transition of Spin-Singlet Superconductivity Using Sublattice Degrees of Freedom]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.166001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.166001"/>
+        <updated>2023-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shiki Ogata, Shunsaku Kitagawa, Katsuki Kinjo, Kenji Ishida, Manuel Brando, Elena Hassinger, Christoph Geibel, and Seunghyun Khim
+Measurement of the superconducting spin susceptibility using NMR shows that CeRh2As2 is the first example of spin-singlet superconductor with multiple superconducting phases.
+
+[Phys. Rev. Lett. 130, 166001] Published Wed Apr 19, 2023]]></summary>
+        <author>
+            <name>Shiki Ogata, Shunsaku Kitagawa, Katsuki Kinjo, Kenji Ishida, Manuel Brando, Elena Hassinger, Christoph Geibel, and Seunghyun Khim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effect of Pore Formation on Redox-Driven Phase Transformation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.168001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.168001"/>
+        <updated>2023-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xuyang Zhou, Yang Bai, Ayman A. El-Zoka, Se-Ho Kim, Yan Ma, Christian H. Liebscher, Baptiste Gault, Jaber R. Mianroodi, Gerhard Dehm, and Dierk Raabe
+Researchers have investigated how pores in a solid change its chemical reactions with other materials. The result could make steel production more environmentally friendly.
+
+[Phys. Rev. Lett. 130, 168001] Published Wed Apr 19, 2023]]></summary>
+        <author>
+            <name>Xuyang Zhou, Yang Bai, Ayman A. El-Zoka, Se-Ho Kim, Yan Ma, Christian H. Liebscher, Baptiste Gault, Jaber R. Mianroodi, Gerhard Dehm, and Dierk Raabe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum feature maps for graph machine learning on a neutral atom quantum processor]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.042615</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.042615"/>
+        <updated>2023-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Boris Albrecht, Constantin Dalyac, Lucas Leclerc, Luis Ortiz-Gutiérrez, Slimane Thabet, Mauro D'Arcangelo, Julia R. K. Cline, Vincent E. Elfving, Lucas Lassablière, Henrique Silvério, Bruno Ximenez, Louis-Paul Henry, Adrien Signoles, and Loïc Henriet
+Using a Rydberg quantum processor with up to 32 qubits, the authors implement machine learning tasks on data structured into graphs and show that their platform can distinguish two different graph connectivities. To illustrate the potential of such a method, they show that it can classify the toxicity of a given molecule based on a real-world biochemistry dataset.
+
+[Phys. Rev. A 107, 042615] Published Wed Apr 19, 2023]]></summary>
+        <author>
+            <name>Boris Albrecht, Constantin Dalyac, Lucas Leclerc, Luis Ortiz-Gutiérrez, Slimane Thabet, Mauro D'Arcangelo, Julia R. K. Cline, Vincent E. Elfving, Lucas Lassablière, Henrique Silvério, Bruno Ximenez, Louis-Paul Henry, Adrien Signoles, and Loïc Henriet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topological Faraday Effect for Optical Vortices in Magnetic Films]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.166901</id>
@@ -1160,45 +1212,6 @@ The authors perform a quantitative comparison between the continuum description 
 [Phys. Rev. A 107, 033323] Published Wed Mar 22, 2023]]></summary>
         <author>
             <name>Michael Hughes, Axel U. J. Lode, Dieter Jaksch, and Paolo Molignini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many-Body Description of STM-Induced Fluorescence of Charged Molecules]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.126202</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.126202"/>
-        <updated>2023-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Song Jiang, Tomáš Neuman, Rémi Bretel, Alex Boeglin, Fabrice Scheurer, Eric Le Moal, and Guillaume Schull
-Spatial maps of the light emitted by an excited molecule reveal how the emission depends on the molecule’s charge states.
-
-[Phys. Rev. Lett. 130, 126202] Published Tue Mar 21, 2023]]></summary>
-        <author>
-            <name>Song Jiang, Tomáš Neuman, Rémi Bretel, Alex Boeglin, Fabrice Scheurer, Eric Le Moal, and Guillaume Schull</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum oscillations in the centrosymmetric skyrmion-hosting magnet ${\mathrm{GdRu}}_{2}{\mathrm{Si}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.104421</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.104421"/>
-        <updated>2023-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): N. Matsuyama, T. Nomura, S. Imajo, T. Nomoto, R. Arita, K. Sudo, M. Kimata, N. D. Khanh, R. Takagi, Y. Tokura, S. Seki, K. Kindo, and Y. Kohama
-The skyrmion formation mechanism in centrosymmetric systems remains to be understood, partially because of the lack of fundamental understanding of the electronic structure. The authors observe de Haas–van Alphen and Shubnikov–de Haas oscillations in high magnetic fields up to 58 T on GdRu2Si2, which is one of such centrosymmetric skyrmion-hosting magnets with the shortest skyrmion diameter ever found. Combined with first-principles calculations, the authors now reveal the electronic structure of GdRu2Si2 and its reconstruction at the magnetic phase boundary.
-
-[Phys. Rev. B 107, 104421] Published Tue Mar 21, 2023]]></summary>
-        <author>
-            <name>N. Matsuyama, T. Nomura, S. Imajo, T. Nomoto, R. Arita, K. Sudo, M. Kimata, N. D. Khanh, R. Takagi, Y. Tokura, S. Seki, K. Kindo, and Y. Kohama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First-principles theory of the pressure-induced invar effect in FeNi alloys]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.104422</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.104422"/>
-        <updated>2023-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Amanda Ehn, Björn Alling, and Igor A. Abrikosov
-Beside the classic Fe64Ni36 Invar alloy, which shows an anomalously low thermal expansion at ambient pressure, Fe-Ni alloys with a higher nickel composition can be driven to Invar behavior by pressure. The authors investigate the pressure induced Invar effect theoretically and demonstrate that it can be explained by a magnetic transition from a ferromagnetic state at high volume to a complex noncollinear state upon compression. They relate the Invar effect to the increasing contribution of magnetic entropy with pressure.
-
-[Phys. Rev. B 107, 104422] Published Tue Mar 21, 2023]]></summary>
-        <author>
-            <name>Amanda Ehn, Björn Alling, and Igor A. Abrikosov</name>
         </author>
     </entry>
 </feed>
