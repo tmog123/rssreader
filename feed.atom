@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T00:50:30.532Z</id>
+    <id>urn:2023-04-21T00:50:36.515Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T00:50:30.532Z</updated>
+    <updated>2023-04-21T00:50:36.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Superconductivity: From Cuprates via Nickelates to Palladates]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.166002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.166002"/>
+        <updated>2023-04-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Motoharu Kitatani, Liang Si, Paul Worm, Jan M. Tomczak, Ryotaro Arita, and Karsten Held
+Calculations motivated by the successful prediction of the nickelate phase diagram suggest that palladates might hit the sweet spot for high-temperature superconductivity.
+
+[Phys. Rev. Lett. 130, 166002] Published Thu Apr 20, 2023]]></summary>
+        <author>
+            <name>Motoharu Kitatani, Liang Si, Paul Worm, Jan M. Tomczak, Ryotaro Arita, and Karsten Held</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-temperature magnetism of ${\mathrm{KAgF}}_{3}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.144422</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.144422"/>
+        <updated>2023-04-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): John M. Wilkinson, Stephen J. Blundell, Sebastian Biesenkamp, Markus Braden, Thomas C. Hansen, Kacper Koteras, Wojciech Grochala, Paolo Barone, José Lorenzana, Zoran Mazej, and Gašper Tavčar
+KAgF3 is a member of the fluoroargentate family of compounds containing Ag in the rare 2+ oxidation state. These were predicted to be the precursors to a new family of high-Tc superconductors and to host quantum antiferromagnetism. The authors use neutron diffraction, µSR, and density functional theory to investigate the low-temperature magnetism of the compound. They find that the compound is an A-type antiferromagnet at low temperature with an electronic moment of about 0.5 µB, similar to quantum-fluctuating spin-½ cuprates.
+
+[Phys. Rev. B 107, 144422] Published Thu Apr 20, 2023]]></summary>
+        <author>
+            <name>John M. Wilkinson, Stephen J. Blundell, Sebastian Biesenkamp, Markus Braden, Thomas C. Hansen, Kacper Koteras, Wojciech Grochala, Paolo Barone, José Lorenzana, Zoran Mazej, and Gašper Tavčar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radiation Reaction Cooling as a Source of Anisotropic Momentum Distributions with Inverted Populations]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.165101</id>
@@ -1147,71 +1173,6 @@ Bose gases form into Bose-Einstein condensates at a certain transition temperatu
 [Phys. Rev. A 107, 033324] Published Thu Mar 23, 2023]]></summary>
         <author>
             <name>Fredrik Brange, Tuomas Pyhäranta, Eppu Heinonen, Kay Brandner, and Christian Flindt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coupling between vortex flow and whisker sensor in cylinder wakes with time-varying streamwise gaps]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.034701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.034701"/>
-        <updated>2023-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pengyao Gong, Dhanush Bhamitipadi Suresh, and Yaqing Jin
-The flow-induced vibration of a whisker in the wake of a movable circular cylinder with time-varying streamwise gaps is experimentally investigated to understand how whiskers detect variations in the swimming status of an upstream target. The results show that whisker sensitivity to gap growth rates gradually decreases when such growth rates become sufficiently high, regardless of initial gaps. From the integrated experimental measurements and theoretical model, the reduction of whisker sensitivity under high gap growth rates can be attributed to sufficiently strong vortices initiated by fast movement of the upstream cylinder, which compensate vortex strength decay due to the gap growth.
-
-[Phys. Rev. Fluids 8, 034701] Published Wed Mar 22, 2023]]></summary>
-        <author>
-            <name>Pengyao Gong, Dhanush Bhamitipadi Suresh, and Yaqing Jin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three-dimensional tomographic imaging of the magnetization vector field using Fourier transform holography]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.094425</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.094425"/>
-        <updated>2023-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Marisel Di Pietro Martínez, Alexis Wartelle, Carlos Herrero Martínez, Farid Fettar, Florent Blondelle, Jean-François Motte, Claire Donnelly, Luke Turnbull, Feodor Ogrin, Gerrit van der Laan, Horia Popescu, Nicolas Jaouen, Flora Yakhou-Harris, and Guillaume Beutier
-The authors present a new tomographic technique, based on Fourier transform holography. It is a lensless imaging technique to retrieve the object of interest from its diffraction pattern in a single step of computation. A combination of dual-axis tomographic projections provides a 3D vectorial magnetic image of an 800-nm-thick Fe/Gd multilayer in a 5-μm-diameter field of view with a resolution of 80 nm. The reconstruction reveals not only wormlike domains with magnetization pointing mostly out of plane, but also the subtle features of magnetic flux closure around the domain walls.
-
-[Phys. Rev. B 107, 094425] Published Wed Mar 22, 2023]]></summary>
-        <author>
-            <name>Marisel Di Pietro Martínez, Alexis Wartelle, Carlos Herrero Martínez, Farid Fettar, Florent Blondelle, Jean-François Motte, Claire Donnelly, Luke Turnbull, Feodor Ogrin, Gerrit van der Laan, Horia Popescu, Nicolas Jaouen, Flora Yakhou-Harris, and Guillaume Beutier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generalized multifractality in two-dimensional disordered systems of chiral symmetry classes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.104202</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.104202"/>
-        <updated>2023-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jonas F. Karcher, Ilya A. Gruzberg, and Alexander D. Mirlin
-Anderson transitions between metals and insulators exhibit fascinating spatial structure, fluctuations, and correlations of electronic wave functions. This structure has been properly characterized by the authors in terms of multifractals with continuous spectra of scaling exponents. In this paper, the authors focus on Anderson transitions in systems with a sublattice (chiral) symmetry. This particular class of Anderson transitions has not been well-studied in the past, and the authors fill this gap with a thorough analytical and numerical study of multifractal spectra in the metallic phase and at the critical point of the Anderson transition.
-
-[Phys. Rev. B 107, 104202] Published Wed Mar 22, 2023]]></summary>
-        <author>
-            <name>Jonas F. Karcher, Ilya A. Gruzberg, and Alexander D. Mirlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin-orbital order and excitons in magnetoresistive HoBi]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.104423</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.104423"/>
-        <updated>2023-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): J. Gaudet, H.-Y. Yang, E. M. Smith, T. Halloran, J. P. Clancy, J. A. Rodriguez-Rivera, Guangyong Xu, Y. Zhao, W. C. Chen, G. Sala, A. A. Aczel, B. D. Gaulin, F. Tafti, and C. Broholm
-The rare-earth monopnictides RX have been found to exhibit exotic topological three-dimensional states, coupled to unique magnetotransport responses such as extreme magnetoresistance. These findings generated interest to understand the interplay between electronic band topology, transport, and magnetism in RX. While neutron scattering is indispensable to fully characterize magnetism, there is very little modern work on this family of compounds. Since the details of the magnetism have a profound impact on the electronic band topology and transport in materials, the authors present here a thorough characterization of the magnetism in HoBi, based on modern neutron scattering techniques.
-
-[Phys. Rev. B 107, 104423] Published Wed Mar 22, 2023]]></summary>
-        <author>
-            <name>J. Gaudet, H.-Y. Yang, E. M. Smith, T. Halloran, J. P. Clancy, J. A. Rodriguez-Rivera, Guangyong Xu, Y. Zhao, W. C. Chen, G. Sala, A. A. Aczel, B. D. Gaulin, F. Tafti, and C. Broholm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accuracy of quantum simulators with ultracold dipolar molecules: A quantitative comparison between continuum and lattice descriptions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.033323</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.033323"/>
-        <updated>2023-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michael Hughes, Axel U. J. Lode, Dieter Jaksch, and Paolo Molignini
-The authors perform a quantitative comparison between the continuum description of a one-dimensional gas of dipolar bosons in an optical lattice and the single-band Bose-Hubbard lattice model that it simulates. Discrepancies are found in regimes with strong dipole-dipole interactions and high densities in the continuum system.
-
-[Phys. Rev. A 107, 033323] Published Wed Mar 22, 2023]]></summary>
-        <author>
-            <name>Michael Hughes, Axel U. J. Lode, Dieter Jaksch, and Paolo Molignini</name>
         </author>
     </entry>
 </feed>
