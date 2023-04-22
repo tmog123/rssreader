@@ -1,17 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T00:50:36.515Z</id>
+    <id>urn:2023-04-22T00:51:21.042Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T00:50:36.515Z</updated>
+    <updated>2023-04-22T00:51:21.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Precision Measurement of Reactor Antineutrino Oscillation at Kilometer-Scale Baselines by Daya Bay]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.161802</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.161802"/>
+        <updated>2023-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. P. An et al. (Daya Bay Collaboration)
+After almost nine years of operation, the Daya Bay Reactor Neutrino Experiment has delivered the world’s best measurement of an important particle physics parameter.
+
+[Phys. Rev. Lett. 130, 161802] Published Fri Apr 21, 2023]]></summary>
+        <author>
+            <name>F. P. An &lt;em&gt;et al.&lt;/em&gt; (Daya Bay Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effect of curvature on the diffusion of colloidal bananas]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.L042602</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.L042602"/>
+        <updated>2023-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Justin-Aurel Ulbrich, Carla Fernández-Rico, Brian Rost, Jacopo Vialetto, Lucio Isa, Jeffrey S. Urbach, and Roel P. A. Dullens
+This letter describes an experimental study of diffusion of smoothly curved colloidal rods as a function of their opening angle. The authors measure translational and rotational diffusion of these colloidal bananas with opening angles ranging from 0o to nearly 360o. Their results demonstrate the impact of curvature on diffusive behavior of elongated colloidal particles.
+
+[Phys. Rev. E 107, L042602] Published Fri Apr 21, 2023]]></summary>
+        <author>
+            <name>Justin-Aurel Ulbrich, Carla Fernández-Rico, Brian Rost, Jacopo Vialetto, Lucio Isa, Jeffrey S. Urbach, and Roel P. A. Dullens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design and performance of a novel low energy multispecies beamline for an antihydrogen experiment]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.040101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.040101"/>
+        <updated>2023-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): C. J. Baker et al. (ALPHA Collaboration)
+A novel beamline transports both low-energy positron and antiprotons between cylindrical Penning traps with high transfer efficiency.
+
+[Phys. Rev. Accel. Beams 26, 040101] Published Fri Apr 21, 2023]]></summary>
+        <author>
+            <name>C. J. Baker &lt;em&gt;et al.&lt;/em&gt; (ALPHA Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scrambling of algebras in open quantum systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.042217</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.042217"/>
+        <updated>2023-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Faidon Andreadakis, Namit Anand, and Paolo Zanardi
+Quantum information scrambling describes how local information disperses into a many-body quantum system. Here, the authors introduce an algebraic formalism to better understand these dynamics and demonstrate how their approach allows them to disentangle environmental decoherence from scrambling.
+
+[Phys. Rev. A 107, 042217] Published Fri Apr 21, 2023]]></summary>
+        <author>
+            <name>Faidon Andreadakis, Namit Anand, and Paolo Zanardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ability of error correlations to improve the performance of variational quantum algorithms]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.042426</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.042426"/>
+        <updated>2023-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Joris Kattemölle and Guido Burkard
+Recent experiments indicate that uncorrelated noise models may not be enough to explain the physical behavior of quantum devices, and that correlated error must be taken into account. Here, the authors use a simple model to numerically study variational quantum algorithms with error that is correlated either in time or in space. They find that correlated error can actually improve algorithm performance, due to the fact that there are simply more ways for uncorrelated errors to occur in a system.
+
+[Phys. Rev. A 107, 042426] Published Fri Apr 21, 2023]]></summary>
+        <author>
+            <name>Joris Kattemölle and Guido Burkard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing Superconductivity: From Cuprates via Nickelates to Palladates]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.166002</id>
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.166002"/>
         <updated>2023-04-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Motoharu Kitatani, Liang Si, Paul Worm, Jan M. Tomczak, Ryotaro Arita, and Karsten Held
-Calculations motivated by the successful prediction of the nickelate phase diagram suggest that palladates might hit the sweet spot for high-temperature superconductivity.
+Calculations suggest that palladates might hit the sweet spot of electronic configuration for high-temperature superconductivity.
 
 [Phys. Rev. Lett. 130, 166002] Published Thu Apr 20, 2023]]></summary>
         <author>
@@ -1134,45 +1199,6 @@ The authors explore analogies between self-bound droplet states in Bose-Einstein
 [Phys. Rev. A 107, 033519] Published Fri Mar 24, 2023]]></summary>
         <author>
             <name>Heitor da Silva, Robin Kaiser, and Tommaso Macrì</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissipative Pairing Interactions: Quantum Instabilities, Topological Light, and Volume-Law Entanglement]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.123602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.123602"/>
-        <updated>2023-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andrew Pocklington, Yu-Xin Wang, and A. A. Clerk
-A new class of dynamical instabilities generated by a stable photonic lattice Hamiltonian and stable dissipative pairing interaction is sensitive to wavefunction localization and allows selective excitation and entanglement of pure topological photonic edge states with minimal resources.
-
-[Phys. Rev. Lett. 130, 123602] Published Thu Mar 23, 2023]]></summary>
-        <author>
-            <name>Andrew Pocklington, Yu-Xin Wang, and A. A. Clerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Averages of $b$-hadron, $c$-hadron, and $τ$-lepton properties as of 2021]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.052008</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.052008"/>
-        <updated>2023-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Y. Amhis et al. (Heavy Flavor Averaging Group Collaboration)
-The Heavy Flavor Averaging Group has released new world averages for properties of “heavy-flavor” particle decays—an update aimed at improving our understanding of flavor physics.
-
-[Phys. Rev. D 107, 052008] Published Thu Mar 23, 2023]]></summary>
-        <author>
-            <name>Y. Amhis &lt;em&gt;et al.&lt;/em&gt; (Heavy Flavor Averaging Group Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lee-Yang theory of Bose-Einstein condensation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.033324</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.033324"/>
-        <updated>2023-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Fredrik Brange, Tuomas Pyhäranta, Eppu Heinonen, Kay Brandner, and Christian Flindt
-Bose gases form into Bose-Einstein condensates at a certain transition temperature, at which a large fraction of bosons in the gas become cool enough to occupy the lowest quantum state together. Here, taking inspiration from recent advances in Lee-Yang theories of phase transitions, the authors demonstrate a method to predict this condensation temperature for an ideal gas of billions of bosons using the energy fluctuations of less than a hundred bosons.
-
-[Phys. Rev. A 107, 033324] Published Thu Mar 23, 2023]]></summary>
-        <author>
-            <name>Fredrik Brange, Tuomas Pyhäranta, Eppu Heinonen, Kay Brandner, and Christian Flindt</name>
         </author>
     </entry>
 </feed>
