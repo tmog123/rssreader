@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.173201",
+          "author": "Fabian Trost <em>et al.</em>",
+          "description": "Author(s): Fabian Trost et al.\nThe experimental realization of a recently proposed technique points to new possibilities for imaging molecules using x rays.\n\n[Phys. Rev. Lett. 130, 173201] Published Mon Apr 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.173201",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": 903,
+          "title": "Imaging via Correlation of X-Ray Fluorescence Photons",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.173201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.073006",
+          "author": "Jaakko Annala and Kari Rummukainen",
+          "description": "Author(s): Jaakko Annala and Kari Rummukainen\nUsing high precision numerical simulations, the authors investigate the electroweak sphaleron of the standard model in an external (hyper)magnetic field. They find that the electroweak crossover temperature decreases with increasing field strength and the sphaleron rate suppression is shifted to lower temperatures.\n\n[Phys. Rev. D 107, 073006] Published Mon Apr 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.073006",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": 1476,
+          "title": "Electroweak sphaleron in a magnetic field",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.073006.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.083030",
+          "author": "Mattia Di Mauro, Judit Pérez-Romero, Miguel A. Sánchez-Conde, and Nicolao Fornengo",
+          "description": "Author(s): Mattia Di Mauro, Judit Pérez-Romero, Miguel A. Sánchez-Conde, and Nicolao Fornengo\nThe authors analyze 12 years of Fermi-LAT data for 49 galaxy clusters to look for a γ-ray signal between 500 MeV and 1 TeV due to dark matter annihilation. Physically motivated dark mater density distribution templates and a thorough statistical approach lead to a low significance signal, unlikely to be due to dark matter processes.\n\n[Phys. Rev. D 107, 083030] Published Mon Apr 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.083030",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": 1610,
+          "title": "Constraining the dark matter contribution of $γ$ rays in clusters of galaxies using <i>Fermi</i>-LAT data",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.083030.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.165141",
+          "author": "J. J. Abraham, Y. Senyk, Y. Shemerliuk, S. Selter, S. Aswartham, B. Büchner, V. Kataev, and A. Alfonsov",
+          "description": "Author(s): J. J. Abraham, Y. Senyk, Y. Shemerliuk, S. Selter, S. Aswartham, B. Büchner, V. Kataev, and A. Alfonsov\nThe multifrequency electron spin resonance study of the van der Waals compounds Mn2P2S6 and MnNiP2S6 shows that they are strongly anisotropic, each having a unique ground state and type of magnetic order. The authors find that increasing the Ni content yields a larger magnon gap in the ordered state and a larger g factor value and its anisotropy in the paramagnetic state. Moreover, the character of the excitations in Mn2P2S6 undergoes a field-induced crossover from a 3D-like toward a 2D XY regime.\n\n[Phys. Rev. B 107, 165141] Published Mon Apr 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.165141",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": 1548,
+          "title": "Magnetic anisotropy and low-energy spin dynamics in the van der Waals compounds ${\\mathrm{Mn}}_{2}{\\mathrm{P}}_{2}{\\mathrm{S}}_{6}$ and ${\\mathrm{MnNiP}}_{2}{\\mathrm{S}}_{6}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.165141.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044070",
+          "author": "Malvika Garikapati, Santosh Kumar, He Zhang, Yong Meng Sua, and Yu-Ping Huang",
+          "description": "Author(s): Malvika Garikapati, Santosh Kumar, He Zhang, Yong Meng Sua, and Yu-Ping Huang\nPhotons are ideal information carriers for sensing, communication, and computing. In principle, a single photon can carry much information in its spatiotemporal modes; the challenge is to read it out, as linear optical elements are not sensitive to the subtle differences among those modes. This study demonstrates a nonlinear-optical approach in which a single pass through a LiNiO3 waveguide can separate photons according to their detailed spatiotemporal profiles or their superpositions, even if they completely overlap with each other. This provides access to photons’ large Hilbert spaces, pointing to applications in free-space quantum communication, computing, and sensing.\n\n[Phys. Rev. Applied 19, 044070] Published Mon Apr 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044070",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": 1122,
+          "title": "Programmable Spatiotemporal Quantum Parametric Mode Sorter",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.044070.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.161802",
           "author": "F. P. An <em>et al.</em> (Daya Bay Collaboration)",
           "description": "Author(s): F. P. An et al. (Daya Bay Collaboration)\nAfter almost nine years of operation, the Daya Bay Reactor Neutrino Experiment has delivered the world’s best measurement of an important particle physics parameter.\n\n[Phys. Rev. Lett. 130, 161802] Published Fri Apr 21, 2023",
@@ -411,7 +461,7 @@
           "description": "Author(s): Stephanie M. Bohaichuk, Suhas Kumar, Mahnaz Islam, Miguel Muñoz Rojo, R. Stanley Williams, Gregory Pitner, Jaewoo Jeong, Mahesh G. Samant, Stuart S.P. Parkin, and Eric Pop\nMany biomimetic computing schemes rely on neuronlike spiking devices, but to design practical systems a deeper understanding of device dynamics is still needed. This study identifies major influences on oscillatory time scales of Mott-insulator-based nanoscale devices with carbon nanotube electrodes. In particular, the authors find that current sources and measurement instruments participate in the observed dynamics. The results highlight paths to control spiking behavior, using not only device thermodynamics and size, but also external circuitry.\n\n[Phys. Rev. Applied 19, 044028] Published Mon Apr 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044028",
           "publishedOn": "2023-04-10T10:00:00.000Z",
-          "wordCount": 1676,
+          "wordCount": 1677,
           "title": "Intrinsic and Extrinsic Factors Influencing the Dynamics of ${\\mathrm{VO}}_{2}$ Mott Oscillators",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.044028.png"
         },
@@ -751,7 +801,7 @@
           "description": "Author(s): Danila Amoroso, Bertrand Dupé, and Matthieu J. Verstraete\nMagnetic rare-earth orthoferrite perovskites (RFeO3) host a variety of functional properties particularly suitable for next-generation, ultrafast spintronic devices. A key ingredient is the complex magnetic interaction at play between the two magnetic substructures. SmFeO3 has attracted particular interest because of its high-temperature spin reorientation transition and anomalous temperature-dependent lattice vibrational modes. Through first-principles calculations, the authors unveil here the interplay of the Sm-Fe exchange with the strong Sm f anisotropy as the dominant microscopic mechanism, and the nature of the anomalous vibrations.\n\n[Phys. Rev. B 107, 104427] Published Tue Mar 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.104427",
           "publishedOn": "2023-03-28T10:00:00.000Z",
-          "wordCount": 1123,
+          "wordCount": 1124,
           "title": "Unraveling the role of Sm $4f$ electrons in the magnetism of ${\\mathrm{SmFeO}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.104427.png"
         },

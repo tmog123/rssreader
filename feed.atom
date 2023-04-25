@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T00:52:29.133Z</id>
+    <id>urn:2023-04-25T00:51:46.892Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T00:52:29.133Z</updated>
+    <updated>2023-04-25T00:51:46.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Imaging via Correlation of X-Ray Fluorescence Photons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.173201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.173201"/>
+        <updated>2023-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fabian Trost et al.
+The experimental realization of a recently proposed technique points to new possibilities for imaging molecules using x rays.
+
+[Phys. Rev. Lett. 130, 173201] Published Mon Apr 24, 2023]]></summary>
+        <author>
+            <name>Fabian Trost &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electroweak sphaleron in a magnetic field]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.073006</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.073006"/>
+        <updated>2023-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jaakko Annala and Kari Rummukainen
+Using high precision numerical simulations, the authors investigate the electroweak sphaleron of the standard model in an external (hyper)magnetic field. They find that the electroweak crossover temperature decreases with increasing field strength and the sphaleron rate suppression is shifted to lower temperatures.
+
+[Phys. Rev. D 107, 073006] Published Mon Apr 24, 2023]]></summary>
+        <author>
+            <name>Jaakko Annala and Kari Rummukainen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Constraining the dark matter contribution of $γ$ rays in clusters of galaxies using <i>Fermi</i>-LAT data]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.083030</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.083030"/>
+        <updated>2023-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mattia Di Mauro, Judit Pérez-Romero, Miguel A. Sánchez-Conde, and Nicolao Fornengo
+The authors analyze 12 years of Fermi-LAT data for 49 galaxy clusters to look for a γ-ray signal between 500 MeV and 1 TeV due to dark matter annihilation. Physically motivated dark mater density distribution templates and a thorough statistical approach lead to a low significance signal, unlikely to be due to dark matter processes.
+
+[Phys. Rev. D 107, 083030] Published Mon Apr 24, 2023]]></summary>
+        <author>
+            <name>Mattia Di Mauro, Judit Pérez-Romero, Miguel A. Sánchez-Conde, and Nicolao Fornengo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic anisotropy and low-energy spin dynamics in the van der Waals compounds ${\mathrm{Mn}}_{2}{\mathrm{P}}_{2}{\mathrm{S}}_{6}$ and ${\mathrm{MnNiP}}_{2}{\mathrm{S}}_{6}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.165141</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.165141"/>
+        <updated>2023-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. J. Abraham, Y. Senyk, Y. Shemerliuk, S. Selter, S. Aswartham, B. Büchner, V. Kataev, and A. Alfonsov
+The multifrequency electron spin resonance study of the van der Waals compounds Mn2P2S6 and MnNiP2S6 shows that they are strongly anisotropic, each having a unique ground state and type of magnetic order. The authors find that increasing the Ni content yields a larger magnon gap in the ordered state and a larger g factor value and its anisotropy in the paramagnetic state. Moreover, the character of the excitations in Mn2P2S6 undergoes a field-induced crossover from a 3D-like toward a 2D XY regime.
+
+[Phys. Rev. B 107, 165141] Published Mon Apr 24, 2023]]></summary>
+        <author>
+            <name>J. J. Abraham, Y. Senyk, Y. Shemerliuk, S. Selter, S. Aswartham, B. Büchner, V. Kataev, and A. Alfonsov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programmable Spatiotemporal Quantum Parametric Mode Sorter]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.044070</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.044070"/>
+        <updated>2023-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Malvika Garikapati, Santosh Kumar, He Zhang, Yong Meng Sua, and Yu-Ping Huang
+Photons are ideal information carriers for sensing, communication, and computing. In principle, a single photon can carry much information in its spatiotemporal modes; the challenge is to read it out, as linear optical elements are not sensitive to the subtle differences among those modes. This study demonstrates a nonlinear-optical approach in which a single pass through a LiNiO3 waveguide can separate photons according to their detailed spatiotemporal profiles or their superpositions, even if they completely overlap with each other. This provides access to photons’ large Hilbert spaces, pointing to applications in free-space quantum communication, computing, and sensing.
+
+[Phys. Rev. Applied 19, 044070] Published Mon Apr 24, 2023]]></summary>
+        <author>
+            <name>Malvika Garikapati, Santosh Kumar, He Zhang, Yong Meng Sua, and Yu-Ping Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Precision Measurement of Reactor Antineutrino Oscillation at Kilometer-Scale Baselines by Daya Bay]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.161802</id>
