@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T00:53:38.282Z</id>
+    <id>urn:2023-04-28T00:53:01.385Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T00:53:38.282Z</updated>
+    <updated>2023-04-28T00:53:01.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Suppression of Wall Modes in Rapidly Rotating Rayleigh-Bénard Convection by Narrow Horizontal Fins]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.174002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.174002"/>
+        <updated>2023-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Louise Terrien, Benjamin Favier, and Edgar Knobloch
+Extensive model calculations and numerical simulations show that undesirable vertical modes of turbulent heat flow near the inner walls of a rapidly rotating Rayleigh-Benard cell can be eliminated by the introduction of narrow horizontal channels.
+
+[Phys. Rev. Lett. 130, 174002] Published Thu Apr 27, 2023]]></summary>
+        <author>
+            <name>Louise Terrien, Benjamin Favier, and Edgar Knobloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuning a Two-Impurity Kondo System by a Moiré Superstructure]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.176201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.176201"/>
+        <updated>2023-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sergey Trishin, Christian Lotze, Friedemann Lohss, Giada Franceschi, Leonid I. Glazman, Felix von Oppen, and Katharina J. Franke
+A moiré pattern enables tuning of exchange coupling of Mn atoms with the substrate (a monolayer of MoS2 on gold), providing a new experimental signature of Kondo screening.
+
+[Phys. Rev. Lett. 130, 176201] Published Thu Apr 27, 2023]]></summary>
+        <author>
+            <name>Sergey Trishin, Christian Lotze, Friedemann Lohss, Giada Franceschi, Leonid I. Glazman, Felix von Oppen, and Katharina J. Franke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inferring Subsystem Efficiencies in Bipartite Molecular Machines]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.178401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.178401"/>
+        <updated>2023-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Matthew P. Leighton and David A. Sivak
+Machines that consist of two coupled biomolecules trade thermodynamic efficiency for operating speed.
+
+[Phys. Rev. Lett. 130, 178401] Published Thu Apr 27, 2023]]></summary>
+        <author>
+            <name>Matthew P. Leighton and David A. Sivak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical fluctuations in the Riesz gas]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.044129</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.044129"/>
+        <updated>2023-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rahul Dandekar, P. L. Krapivsky, and Kirone Mallick
+This article studies the dynamical properties of single-file Brownian particles interacting via a Riesz potential. The authors observe an anomalous scaling of the fluctuations of the current and the position of the particles with time when the interaction is long ranged, and a subdiffusive behavior for particles with short-range interactions that is reminiscent of fractional Brownian motion.
+
+[Phys. Rev. E 107, 044129] Published Thu Apr 27, 2023]]></summary>
+        <author>
+            <name>Rahul Dandekar, P. L. Krapivsky, and Kirone Mallick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical mean-field theory for the Hubbard-Holstein model on a quantum device]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.165155</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.165155"/>
+        <updated>2023-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Steffen Backes, Yuta Murakami, Shiro Sakai, and Ryotaro Arita
+Utilizing quantum computers for real materials calculations is highly promising, but hinges on qubit fidelity and fault-tolerant quantum algorithms. Here, the authors show that a representative model for real materials, the Hubbard-Holstein model, which describes interacting electrons on a lattice coupled to bosonic degrees of freedom, can be reliably investigated using today’s Quantum processors. Adapting state-of-the-art mathematical tools is shown to be critical to overcome limitations imposed by the noise level of current quantum computing devices.
+
+[Phys. Rev. B 107, 165155] Published Thu Apr 27, 2023]]></summary>
+        <author>
+            <name>Steffen Backes, Yuta Murakami, Shiro Sakai, and Ryotaro Arita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kinetic Turbulence in Collisionless High-$β$ Plasmas]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.13.021014</id>
@@ -1134,71 +1199,6 @@ Berry curvature induces giant magnetochiral anisotropy.
 [Phys. Rev. Lett. 130, 136301] Published Thu Mar 30, 2023]]></summary>
         <author>
             <name>Tomoyuki Yokouchi, Yuya Ikeda, Takahiro Morimoto, and Yuki Shiomi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gauge-invariant and anyonic-symmetric autoregressive neural network for quantum lattice models]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.013216</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.5.013216"/>
-        <updated>2023-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Di Luo, Zhuo Chen, Kaiwen Hu, Zhizhen Zhao, Vera Mikyoung Hur, and Bryan K. Clark
-Development of gauge-invariant and anyonic-symmetric autoregressive neural networks for quantum many-body physics simulations.
-
-[Phys. Rev. Research 5, 013216] Published Wed Mar 29, 2023]]></summary>
-        <author>
-            <name>Di Luo, Zhuo Chen, Kaiwen Hu, Zhizhen Zhao, Vera Mikyoung Hur, and Bryan K. Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macroscopic Quantum Test with Bulk Acoustic Wave Resonators]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.133604</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.133604"/>
-        <updated>2023-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Björn Schrinski, Yu Yang, Uwe von Lüpke, Marius Bild, Yiwen Chu, Klaus Hornberger, Stefan Nimmrichter, and Matteo Fadel
-An experiment with an acoustic resonator demonstrates the quantum superposition of 1016 atoms—nearly matching the ability of matter interferometers to test quantumness on macroscopic scales.
-
-[Phys. Rev. Lett. 130, 133604] Published Wed Mar 29, 2023]]></summary>
-        <author>
-            <name>Björn Schrinski, Yu Yang, Uwe von Lüpke, Marius Bild, Yiwen Chu, Klaus Hornberger, Stefan Nimmrichter, and Matteo Fadel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-section measurement of the $^{82}\mathrm{Kr}(p,γ)^{83}\mathrm{Rb}$ reaction in inverse kinematics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.035808</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.035808"/>
-        <updated>2023-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Tsantiri, A. Palmisano-Kyle, A. Spyrou, P. Mohr, H. C. Berg, P. A. DeYoung, A. C. Dombos, P. Gastis, E. C. Good, C. M. Harris, S. N. Liddick, S. M. Lyons, O. Olivas-Gomez, G. Owens-Fryar, J. Pereira, A. L. Richard, A. Simon, M. K. Smith, and R. G. T. Zegers
-Although most nuclei heavier than Fe are likely produced by the slow and the rapid neutron-capture (s and r) processes, a number of medium-mass, proton-rich nuclei are thought to be produced via photo-disintegration (γ process). To confirm this, one needs detailed statistical model calculations that are constrained by experimental input. In this work, the authors measured the (γ,p) reaction on the unstable 83Rb nucleus, via detailed balance, using the 82Kr(p,γ)83Rb reaction with a 82Kr beam and detecting the produced γ rays. The results put important constraints on the parameters of the statistical model calculations, allowing improved tests of the γ process in hot stellar environments.
-
-[Phys. Rev. C 107, 035808] Published Wed Mar 29, 2023]]></summary>
-        <author>
-            <name>A. Tsantiri, A. Palmisano-Kyle, A. Spyrou, P. Mohr, H. C. Berg, P. A. DeYoung, A. C. Dombos, P. Gastis, E. C. Good, C. M. Harris, S. N. Liddick, S. M. Lyons, O. Olivas-Gomez, G. Owens-Fryar, J. Pereira, A. L. Richard, A. Simon, M. K. Smith, and R. G. T. Zegers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orbital selective coupling in ${\mathrm{CeRh}}_{3}{\mathrm{B}}_{2}$: Coexistence of high Curie and high Kondo temperatures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.115164</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.115164"/>
-        <updated>2023-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andrea Amorese, Philipp Hansmann, Andrea Marino, Peter Körner, Thomas Willers, Andrew Walters, Ke-Jin Zhou, Kurt Kummer, Nicholas B. Brookes, Hong-Ji Lin, Chien-Te Chen, Pascal Lejay, Maurits W. Haverkort, Liu Hao Tjeng, and Andrea Severing
-Orbital selective coupling explains the exotic ferromagnetism in CeRh3B2, which combines a high Curie temperature, a strongly reduced ordered moment, strong intermediate valence, and a high Kondo temperature. The cigar-shaped Ce 4f |Jz = ½⟩ states couples with the Ce 5d states setting up the ferromagnetism, while the in-plane Ce 4f |Jz =⁵⁄₂⟩ hybridizes with the surrounding B states, forming the Kondo state. The image shows the crystal field potential of the Ce 4f states; the preferred directions of interaction are shown in blue, while the least favored ones are marked in red.
-
-[Phys. Rev. B 107, 115164] Published Wed Mar 29, 2023]]></summary>
-        <author>
-            <name>Andrea Amorese, Philipp Hansmann, Andrea Marino, Peter Körner, Thomas Willers, Andrew Walters, Ke-Jin Zhou, Kurt Kummer, Nicholas B. Brookes, Hong-Ji Lin, Chien-Te Chen, Pascal Lejay, Maurits W. Haverkort, Liu Hao Tjeng, and Andrea Severing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supermoiré low-energy effective theory of twisted trilayer graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.125423</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.125423"/>
-        <updated>2023-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yuncheng Mao, Daniele Guerci, and Christophe Mora
-Twisted trilayer graphene features a supermoiré pattern on top of two moiré patterns between adjacent layers. Here, the authors have devised a supermoiré effective model for the staircase twisted trilayer graphene, manifesting a gauge field originating from non-Abelian Berry connection acting as a pseudo magnetic field, and a space-dependent anisotropic velocity for the low-energy Dirac electrons. The supermoiré low-energy band structures and profiles of density of states can therefore be accessed by solving the effective model numerically.
-
-[Phys. Rev. B 107, 125423] Published Wed Mar 29, 2023]]></summary>
-        <author>
-            <name>Yuncheng Mao, Daniele Guerci, and Christophe Mora</name>
         </author>
     </entry>
 </feed>
