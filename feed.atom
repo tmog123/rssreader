@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T00:50:15.161Z</id>
+    <id>urn:2023-04-30T00:56:26.139Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T00:50:15.161Z</updated>
+    <updated>2023-04-30T00:56:26.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1186,71 +1186,6 @@ Nonequilibrium cluster dynamical mean-field theory simulations of a realistic mu
 [Phys. Rev. B 107, 165102] Published Mon Apr 03, 2023]]></summary>
         <author>
             <name>Francesco Petocchi, Jiyu Chen, Jiajun Li, Martin Eckstein, and Philipp Werner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineering Dynamically Decoupled Quantum Simulations with Trapped Ions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.4.010334</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.4.010334"/>
-        <updated>2023-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): W. Morong, K.S. Collins, A. De, E. Stavropoulos, T. You, and C. Monroe
-A new method based on dynamical decoupling is shown to significantly enhance the coherence of quantum simulations.
-
-[PRX Quantum 4, 010334] Published Fri Mar 31, 2023]]></summary>
-        <author>
-            <name>W. Morong, K.S. Collins, A. De, E. Stavropoulos, T. You, and C. Monroe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovery of New Isotope $^{241}\mathrm{U}$ and Systematic High-Precision Atomic Mass Measurements of Neutron-Rich Pa-Pu Nuclei Produced via Multinucleon Transfer Reactions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.132502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.132502"/>
-        <updated>2023-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. Niwase, Y. X. Watanabe, Y. Hirayama, M. Mukai, P. Schury, A. N. Andreyev, T. Hashimoto, S. Iimura, H. Ishiyama, Y. Ito, S. C. Jeong, D. Kaji, S. Kimura, H. Miyatake, K. Morimoto, J.-Y. Moon, M. Oyaizu, M. Rosenbusch, A. Taniguchi, and M. Wada
-Scientists have precisely measured the masses of 19 neutron-rich nuclei, discovering a new isotope of uranium in the process.
-
-[Phys. Rev. Lett. 130, 132502] Published Fri Mar 31, 2023]]></summary>
-        <author>
-            <name>T. Niwase, Y. X. Watanabe, Y. Hirayama, M. Mukai, P. Schury, A. N. Andreyev, T. Hashimoto, S. Iimura, H. Ishiyama, Y. Ito, S. C. Jeong, D. Kaji, S. Kimura, H. Miyatake, K. Morimoto, J.-Y. Moon, M. Oyaizu, M. Rosenbusch, A. Taniguchi, and M. Wada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Downslope granular flow through a forest of obstacles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.034303</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.034303"/>
-        <updated>2023-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Baptiste Darbois Texier, Yann Bertho, and Philippe Gondret
-This work investigates the role played by a forest of pillars on the steady flow of a granular layer down an inclined plane. We realized experiments for different inter-pillar distances to observe how the forest density slows down the granular flow. These observations are rationalized by an average approach that considers a granular rheology for the flow and includes the additional force exerted by the pillars on the granular layer.
-
-[Phys. Rev. Fluids 8, 034303] Published Fri Mar 31, 2023]]></summary>
-        <author>
-            <name>Baptiste Darbois Texier, Yann Bertho, and Philippe Gondret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Persistent homology of quantum entanglement]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.115174</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.115174"/>
-        <updated>2023-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Bart Olsthoorn
-What shapes of entanglement are present in quantum states? Persistent homology provides an answer that contains both topological and geometrical information. This is a relatively new method from the field of topological data analysis, where shapes in discrete data are captured at varying length scales. In this case, the length scale is based on quantum mutual information, and the method is used to detect quantum phase transitions.
-
-[Phys. Rev. B 107, 115174] Published Fri Mar 31, 2023]]></summary>
-        <author>
-            <name>Bart Olsthoorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Limits to the Energy-Conversion Efficiency of Air-Bridge Thermophotovoltaics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.034099</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.034099"/>
-        <updated>2023-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jihun Lim and Stephen R. Forrest
-As the energy economy becomes increasingly decarbonized, low-cost energy storage grows ever more important. Thermal batteries in combination with thermophotovoltaic (TPV) cells are one major source of storage. The lowest-loss TPV cells utilize an air bridge (AB) with a gold back reflector. In this work, the authors determine a 55.5% thermodynamic efficiency limit for AB-TPVs at an emitter temperature of 1400 K, based on detailed balance. Including losses from nonradiative recombination, finite resistance, and free-carrier absorption, the practical efficiency limit is 48.6%. This work provides a road map for evaluating and limiting losses, leading to even higher AB-TPV efficiencies.
-
-[Phys. Rev. Applied 19, 034099] Published Fri Mar 31, 2023]]></summary>
-        <author>
-            <name>Jihun Lim and Stephen R. Forrest</name>
         </author>
     </entry>
 </feed>
