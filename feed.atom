@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T00:52:20.184Z</id>
+    <id>urn:2023-05-03T00:51:57.781Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T00:52:20.184Z</updated>
+    <updated>2023-05-03T00:51:57.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Direct Detection of Dark Photon Dark Matter Using Radio Telescopes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.181001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.181001"/>
+        <updated>2023-05-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Haipeng An, Shuailiang Ge, Wen-Qing Guo, Xiaoyuan Huang, Jia Liu, and Zhiyao Lu
+A search for rare interactions between dark photons and regular matter provides constraints on the properties of ultralight dark matter.
+
+[Phys. Rev. Lett. 130, 181001] Published Tue May 02, 2023]]></summary>
+        <author>
+            <name>Haipeng An, Shuailiang Ge, Wen-Qing Guo, Xiaoyuan Huang, Jia Liu, and Zhiyao Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cluster percolation in the two-dimensional Ising spin glass]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.054103</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.054103"/>
+        <updated>2023-05-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): L. Münster and M. Weigel
+Phase transitions in spin models can be described in terms of percolation by clusters of spins, but for frustrated systems such as spin glasses our understanding is not complete. The authors make progress by identifying several types of clusters in two-dimensional spin glasses that are consistent with this system’s transition at zero temperature.
+
+[Phys. Rev. E 107, 054103] Published Tue May 02, 2023]]></summary>
+        <author>
+            <name>L. Münster and M. Weigel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring the Charge-Carrier-Occupied Density of States in Disordered Organic Semiconductors under Nonequilibrium Conditions Using Thermally Stimulated Luminescence Spectroscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.054007</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.054007"/>
+        <updated>2023-05-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Andrei Stankevych, Rishabh Saxena, Alexander Vakhnin, Falk May, Naomi Kinaret, Denis Andrienko, Jan Genoe, Heinz Bässler, Anna Köhler, and Andrey Kadashchuk
+Injected or photogenerated charge carriers in disordered organic semiconductors relax in energy to form an occupied density of states (ODOS) that is inherently difficult to probe. Thus little is known about nonequilibrium ODOS properties, although they are important in e.g. solar cells and LEDs. This work presents an optical technique for monitoring the ODOS distribution of relaxed charge carriers at low temperatures. The distribution that forms under nonequilibrium conditions is always narrower than that of the full DOS, in a universal ratio of about 2/3 that is reproduced by kinetic Monte Carlo simulations assuming spatially correlated disorder.
+
+[Phys. Rev. Applied 19, 054007] Published Tue May 02, 2023]]></summary>
+        <author>
+            <name>Andrei Stankevych, Rishabh Saxena, Alexander Vakhnin, Falk May, Naomi Kinaret, Denis Andrienko, Jan Genoe, Heinz Bässler, Anna Köhler, and Andrey Kadashchuk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polarization-Dependent Forces and Torques at Resonance in a Microfiber-Microcavity System]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.183601</id>
@@ -1160,45 +1199,6 @@ As part of the AdS/CFT dictionary, the entanglement wedge reconstruction identif
 [Phys. Rev. D 107, 086002] Published Tue Apr 04, 2023]]></summary>
         <author>
             <name>Raphael Bousso and Geoff Penington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Ordering of Buckling, Bending, and Bumping Beams]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.148201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.148201"/>
-        <updated>2023-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Arman Guerra, Anja C. Slim, Douglas P. Holmes, and Ousmane Kodio
-The behavior of a collection of squeezed elastic beams is determined by geometry, not by complex forces.
-
-[Phys. Rev. Lett. 130, 148201] Published Mon Apr 03, 2023]]></summary>
-        <author>
-            <name>Arman Guerra, Anja C. Slim, Douglas P. Holmes, and Ousmane Kodio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topological defect coarsening in quenched smectic-$\phantom{\rule{0.16em}{0ex}}C$ films analyzed using artificial neural networks]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.044701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.044701"/>
-        <updated>2023-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ravin A. Chowdhury, Adam A. S. Green, Cheol S. Park, Joseph E. Maclennan, and Noel A. Clark
-After quenching, a liquid crystal film might contain thousands of topological defects which annihilate during coarsening. The authors analyze high-speed video of the coarsening process using neural networks, and find agreement with theoretical predictions and simulations.
-
-[Phys. Rev. E 107, 044701] Published Mon Apr 03, 2023]]></summary>
-        <author>
-            <name>Ravin A. Chowdhury, Adam A. S. Green, Cheol S. Park, Joseph E. Maclennan, and Noel A. Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoinduced charge dynamics in $1T\text{−}{\mathrm{TaS}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.165102</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.165102"/>
-        <updated>2023-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Francesco Petocchi, Jiyu Chen, Jiajun Li, Martin Eckstein, and Philipp Werner
-Nonequilibrium cluster dynamical mean-field theory simulations of a realistic multilayer structure are used to study the charge carrier dynamics induced by a laser pulse in 1T-TaS2. The solution is propagated up to picosecond timescales and shows that long-lived charge excitations only exist in the surface state of a specific structure, while the disturbance of bonding states in the bilayers that make up the bulk of the structure explain the almost instantaneous appearance of in-gap states reported in recent experiments.
-
-[Phys. Rev. B 107, 165102] Published Mon Apr 03, 2023]]></summary>
-        <author>
-            <name>Francesco Petocchi, Jiyu Chen, Jiajun Li, Martin Eckstein, and Philipp Werner</name>
         </author>
     </entry>
 </feed>
