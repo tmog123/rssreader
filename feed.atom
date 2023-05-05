@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T00:51:25.703Z</id>
+    <id>urn:2023-05-05T00:47:06.020Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T00:51:25.703Z</updated>
+    <updated>2023-05-05T00:47:06.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Current- and Field-Induced Topology in Twisted Nodal Superconductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.186001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.186001"/>
+        <updated>2023-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pavel A. Volkov, Justin H. Wilson, Kevin P. Lucht, and J. H. Pixley
+Topological superconductivity can be realized in twisted bilayers of nodal superconductors by the application of an interlayer current and is achievable with available experimental setups.
+
+[Phys. Rev. Lett. 130, 186001] Published Thu May 04, 2023]]></summary>
+        <author>
+            <name>Pavel A. Volkov, Justin H. Wilson, Kevin P. Lucht, and J. H. Pixley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polarizing Free Electrons in Optical Near Fields]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.186901</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.186901"/>
+        <updated>2023-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Deng Pan and Hongxing Xu
+A proposed technique would use light and nanowires to generate electron beams with nearly pure spin polarization.
+
+[Phys. Rev. Lett. 130, 186901] Published Thu May 04, 2023]]></summary>
+        <author>
+            <name>Deng Pan and Hongxing Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic angles and correlations in twisted nodal superconductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.174506</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.174506"/>
+        <updated>2023-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pavel A. Volkov, Justin H. Wilson, Kevin P. Lucht, and J. H. Pixley
+Stacking 2D materials with a twist has proven to be a successful strategy to realize exotic phases of electrons. Here, the authors apply these ideas to intrinsic 2D nodal superconductors, showing a similar degree of control over neutral Dirac quasiparticles. Their velocity is quenched close to a “magic” angle, where interactions drive a time-reversal breaking phase transition. Gating and application of current and magnetic fields are shown to allow tuning their dispersion in future experiments and to open topological gaps.
+
+[Phys. Rev. B 107, 174506] Published Thu May 04, 2023]]></summary>
+        <author>
+            <name>Pavel A. Volkov, Justin H. Wilson, Kevin P. Lucht, and J. H. Pixley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoemission signature of the competition between magnetic order and Kondo effect in ${\mathrm{CeCoGe}}_{3}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L201104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L201104"/>
+        <updated>2023-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Peng Li, Huiqing Ye, Yong Hu, Yuan Fang, Zhiguang Xiao, Zhongzheng Wu, Zhaoyang Shan, Ravi P. Singh, Geetha Balakrishnan, Dawei Shen, Yi-feng Yang, Chao Cao, Nicholas C. Plumb, Michael Smidman, Ming Shi, Johann Kroha, Huiqiu Yuan, Frank Steglich, and Yang Liu
+Competition between magnetic order and the Kondo effect is essential for the rich physics of heavy-fermion systems, but its photoemission signature remains elusive. Here, using high-resolution resonant photoemission, the authors reveal that the intensity of the 4f quasiparticle band in CeCoGe3 exhibits a clear deviation from Kondo-like behavior around the magnetic ordering temperature. The intensity begins to saturate at lower temperatures, coinciding with a change of the magnetic structure. The results demonstrate a distinct scenario for the microscopic coexistence and competition of these phenomena.
+
+[Phys. Rev. B 107, L201104] Published Thu May 04, 2023]]></summary>
+        <author>
+            <name>Peng Li, Huiqing Ye, Yong Hu, Yuan Fang, Zhiguang Xiao, Zhongzheng Wu, Zhaoyang Shan, Ravi P. Singh, Geetha Balakrishnan, Dawei Shen, Yi-feng Yang, Chao Cao, Nicholas C. Plumb, Michael Smidman, Ming Shi, Johann Kroha, Huiqiu Yuan, Frank Steglich, and Yang Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Timescales of Chaos in the Inner Solar System: Lyapunov Spectrum and Quasi-integrals of Motion]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.13.021018</id>
@@ -1147,110 +1199,6 @@ The realization of chiral Majorana modes is a significant and challenging task. 
 [Phys. Rev. B 107, 165405] Published Thu Apr 06, 2023]]></summary>
         <author>
             <name>Li Chen, Zhan Cao, Ke He, Xin Liu, and Dong E. Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highly Efficient Single-Exciton Strong Coupling with Plasmons by Lowering Critical Interaction Strength at an Exceptional Point]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.143601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.143601"/>
-        <updated>2023-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wei Li, Renming Liu, Junyu Li, Jie Zhong, Yu-Wei Lu, Huanjun Chen, and Xue-Hua Wang
-A strategy for achieving the plasmon-single exciton strong coupling by simultaneously lowering the plasmonic decay and critical interaction strength at an exceptional point of a coupled system largely relaxes the severe requirements of realizing the single exciton strong coupling for both the ultrasmall mode volume and direction aligning of emitter’s dipole moment with the mode field.
-
-[Phys. Rev. Lett. 130, 143601] Published Wed Apr 05, 2023]]></summary>
-        <author>
-            <name>Wei Li, Renming Liu, Junyu Li, Jie Zhong, Yu-Wei Lu, Huanjun Chen, and Xue-Hua Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry-Induced Spin Filtering in Photoemission Maps from ${\mathrm{WTe}}_{2}$ Surface States]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.146401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.146401"/>
-        <updated>2023-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tristan Heider, Gustav Bihlmayer, Jakub Schusser, Friedrich Reinert, Jan Minár, Stefan Blügel, Claus M. Schneider, and Lukasz Plucinski
-A new spin behavior has been found in the light-induced electron emission of tungsten ditelluride.
-
-[Phys. Rev. Lett. 130, 146401] Published Wed Apr 05, 2023]]></summary>
-        <author>
-            <name>Tristan Heider, Gustav Bihlmayer, Jakub Schusser, Friedrich Reinert, Jan Minár, Stefan Blügel, Claus M. Schneider, and Lukasz Plucinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing hadronic and photohadronic interactions as responsible for ultrahigh energy cosmic rays and neutrino fluxes from starburst galaxies]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.083009</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.083009"/>
-        <updated>2023-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Antonio Condorelli, Denise Boncioli, Enrico Peretti, and Sergio Petrera
-The sources and acceleration mechanisms for observed ultra-high energy cosmic rays (UHECRs) are abiding problems still needing definitive resolution. The authors of the present study investigate the potential of starburst galaxies (SBGs) - so named for being particularly active environments for formation of new stars - to be the sources of UHECRs. Using Monte Carlo simulations of the extremely dense and turbulent environment in the most active region of SBGs, the authors show by a highly suggestive comparison to data obtained by the Pierre Auger Observatory that SBGs can be sources of UHECRs.
-
-[Phys. Rev. D 107, 083009] Published Wed Apr 05, 2023]]></summary>
-        <author>
-            <name>Antonio Condorelli, Denise Boncioli, Enrico Peretti, and Sergio Petrera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark Energy Survey Year 3 results: Constraints on extensions to $\mathrm{Λ}\mathrm{CDM}$ with weak lensing and galaxy clustering]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.083504</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.083504"/>
-        <updated>2023-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. M. C. Abbott et al. (DES Collaboration)
-The authors use Dark Energy Survey data on galaxy clustering and lensing from the first three years of observations combined with five prominent external datasets. They robustly constrain six potential extensions to the currently prevalent cosmological paradigm of ΛCDM (Cold Dark Matter with a cosmological constant). All extensions would add significant new physics, such as deviations from General Relativity or non-zero spatial curvature, but no significant evidence for new physics is found.
-
-[Phys. Rev. D 107, 083504] Published Wed Apr 05, 2023]]></summary>
-        <author>
-            <name>T. M. C. Abbott &lt;em&gt;et al.&lt;/em&gt; (DES Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relativistic approach to the nuclear breathing mode]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.L041302</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.L041302"/>
-        <updated>2023-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Elena Litvinova
-Nuclear compressibility governs fluctuations around the saturation density of nuclear matter, and is therefore crucial for understanding the structure of nuclei as well as of neutron stars. QRPA calculations using a nuclear compression modulus that reproduces the position of the isoscalar giant monopole resonance in 208Pb predict too high an energy for the same excitation in the Sn isotopes. The author shows that the self-consistent inclusion of quasiparticle-vibration coupling beyond QRPA in a relativistic framework can solve the problem. This indicates that a consensus between a softer equation of state extracted from the compressibility of finite nuclei and a stiffer one required by recent analyses of neutron star data can be achieved by systematic incorporation of beyond-QRPA many-body correlations in the theory.
-
-[Phys. Rev. C 107, L041302] Published Wed Apr 05, 2023]]></summary>
-        <author>
-            <name>Elena Litvinova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reanalysis of experimental determinations of polariton-polariton interactions in microcavities]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.165302</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.165302"/>
-        <updated>2023-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. W. Snoke, V. Hartwell, J. Beaumariage, S. Mukherjee, Y. Yoon, D. M. Myers, M. Steger, Z. Sun, K. A. Nelson, and L. N. Pfeiffer
-Inside solids, photons can become strongly interacting, which allows the possibility of optical transistors, in a which one light beam controls the transmission of another light beam. The strength of this interaction can be greatly increased in specially designed structures in which the photon frequency is near an electronic resonance known as an exciton. The exact value of this interaction strength has been much debated, ranging over orders of magnitude. This paper reviews a set of experiments and argues for a number well below some earlier estimates, but still large compared to the predictions of standard theory calculations.
-
-[Phys. Rev. B 107, 165302] Published Wed Apr 05, 2023]]></summary>
-        <author>
-            <name>D. W. Snoke, V. Hartwell, J. Beaumariage, S. Mukherjee, Y. Yoon, D. M. Myers, M. Steger, Z. Sun, K. A. Nelson, and L. N. Pfeiffer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Characteristic nanoscale deformation on a large-area coherent graphite moiré pattern]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L161402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L161402"/>
-        <updated>2023-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): N. Sarkar, P. R. Bandaru, and R. C. Dynes
-Highly oriented pyrolytic graphite (HoPG) is the only monoatomic crystal found to host naturally formed moiré patterns on its cleaved exfoliated surfaces, which are coherent over micrometers with fixed periodicities. The authors merge the idea of STM tip-induced deformation to probe in situ the gradual nanoscale structural changes on moiré patterns with strain. They show the first experimental proof that one-dimensional domain walls of moiré patterns can laterally split into two similar to the triangular networks of one-dimensional electronic channels in domain walls, topologically protected around AA nodes. Further, domain-wall edge states are also possibly probed with spectroscopy.
-
-[Phys. Rev. B 107, L161402] Published Wed Apr 05, 2023]]></summary>
-        <author>
-            <name>N. Sarkar, P. R. Bandaru, and R. C. Dynes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chip-Scale Packages for a Tunable Wavelength Reference and Laser Cooling Platform]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.044015</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.044015"/>
-        <updated>2023-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. Dyer, K. Gallacher, U. Hawley, A. Bregazzi, P.F. Griffin, A.S. Arnold, D.J. Paul, E. Riis, and J.P. McGilligan
-The miniaturization of cold-atom systems brings high accuracy into portable atomic metrology. However, the impact of cold-atom sensors in real-world applications has been limited by the overall laser cooling package. This study amalgamates a chip-scale optics setup with a microfabricated laser cooling system to dramatically reduce device size, weight, and power usage. The authors use an on-chip Zeeman offset lock for laser cooling, and demonstrate improved atom number afforded by new techniques in silicon cell fabrication. The simplicity, scalability, and utility demonstrated in this cold-atom platform will enable exciting opportunities in portable cold-atom clocks and interferometers.
-
-[Phys. Rev. Applied 19, 044015] Published Wed Apr 05, 2023]]></summary>
-        <author>
-            <name>S. Dyer, K. Gallacher, U. Hawley, A. Bregazzi, P.F. Griffin, A.S. Arnold, D.J. Paul, E. Riis, and J.P. McGilligan</name>
         </author>
     </entry>
 </feed>
