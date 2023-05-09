@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.174507",
+          "author": "F. Claude, M. J. Jacquet, I. Carusotto, Q. Glorieux, E. Giacobino, and A. Bramati",
+          "description": "Author(s): F. Claude, M. J. Jacquet, I. Carusotto, Q. Glorieux, E. Giacobino, and A. Bramati\nThe phenomenology of superfluids and Bose-Einstein condensates is generally understood in terms of quantum hydrodynamics, which depend on the dispersion of the collective excitation modes in the quantum fluid. Here, via the implementation of a high-resolution spectroscopy technique, the authors highlight the peculiarities of collective excitations of a polariton superfluid and reveal a wealth of phenomena intrinsically linked to the light-matter and driven-dissipative nature of their system, such as the observation of a ghost branch highlighted in red in the image.\n\n[Phys. Rev. B 107, 174507] Published Mon May 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174507",
+          "publishedOn": "2023-05-08T10:00:00.000Z",
+          "wordCount": 1719,
+          "title": "Spectrum of collective excitations of a quantum fluid of polaritons",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174507.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.174508",
+          "author": "Mathieu Lizée, Matthias Stosiek, Igor Burmistrov, Tristan Cren, and Christophe Brun",
+          "description": "Author(s): Mathieu Lizée, Matthias Stosiek, Igor Burmistrov, Tristan Cren, and Christophe Brun\nCould disorder enhance superconductivity? Close to the Anderson transition, electronic wave functions show a peculiar multifractal structure, predicted to enhance Cooper pairing. Here, the authors probe the weak disorder limit using an atomic monolayer of lead with high-resolution scanning tunneling spectroscopy. They show that mesoscopic spatial fluctuations of the electronic density of states indicate coherent diffusion of electrons. They use these energy-dependent fluctuations to reveal tiny energy gap fluctuations and to extract the elastic mean free path, dephasing length, as theoretically expected.\n\n[Phys. Rev. B 107, 174508] Published Mon May 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174508",
+          "publishedOn": "2023-05-08T10:00:00.000Z",
+          "wordCount": 1689,
+          "title": "Local density of states fluctuations in a two-dimensional superconductor as a probe of quantum diffusion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174508.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054026",
+          "author": "M. Hinderling, D. Sabonis, S. Paredes, D.Z. Haxell, M. Coraiola, S.C. ten Kate, E. Cheah, F. Krizek, R. Schott, W. Wegscheider, and F. Nichele",
+          "description": "Author(s): M. Hinderling, D. Sabonis, S. Paredes, D.Z. Haxell, M. Coraiola, S.C. ten Kate, E. Cheah, F. Krizek, R. Schott, W. Wegscheider, and F. Nichele\nMeasurement and coherent manipulation of Andreev bound states (ABSs) in planar superconductor-semiconductor heterostructures could enable gate-controllable, small-footprint superconducting spin qubits with long coherence times. So far, readout capabilities and device coherence have been limited by lossy III−V substrates, but here researchers overcome this limitation with a flip-chip approach to microwave experiments on ABSs. Superconductor-semiconductor devices and microwave resonators are placed on different chips and inductively coupled via a vacuum gap, enabling high-quality readout without sacrificing device properties.\n\n[Phys. Rev. Applied 19, 054026] Published Mon May 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054026",
+          "publishedOn": "2023-05-08T10:00:00.000Z",
+          "wordCount": 3338,
+          "title": "Flip-Chip-Based Microwave Spectroscopy of Andreev Bound States in a Planar Josephson Junction",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054026.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.180601",
           "author": "Malte Schlosser, Sascha Tichelmann, Dominik Schäffner, Daniel Ohl de Mello, Moritz Hambach, Jan Schütz, and Gerhard Birkl",
           "description": "Author(s): Malte Schlosser, Sascha Tichelmann, Dominik Schäffner, Daniel Ohl de Mello, Moritz Hambach, Jan Schütz, and Gerhard Birkl\nUsing lasers, researchers have trapped thousands of atoms in a new kind of 3D lattice that could eventually serve as a quantum computing platform.\n\n[Phys. Rev. Lett. 130, 180601] Published Fri May 05, 2023",
@@ -591,7 +621,7 @@
           "description": "Author(s): Joris Kattemölle and Guido Burkard\nRecent experiments indicate that uncorrelated noise models may not be enough to explain the physical behavior of quantum devices, and that correlated error must be taken into account. Here, the authors use a simple model to numerically study variational quantum algorithms with error that is correlated either in time or in space. They find that correlated error can actually improve algorithm performance, due to the fact that there are simply more ways for uncorrelated errors to occur in a system.\n\n[Phys. Rev. A 107, 042426] Published Fri Apr 21, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.042426",
           "publishedOn": "2023-04-21T10:00:00.000Z",
-          "wordCount": 1293,
+          "wordCount": 1292,
           "title": "Ability of error correlations to improve the performance of variational quantum algorithms",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.042426.png"
         },
@@ -931,7 +961,7 @@
           "description": "Author(s): Anna O. Schouten, Jordan E. Klevens, LeeAnn M. Sager-Smith, Jiaze Xie, John S. Anderson, and David A. Mazziotti\nAn outstanding challenge is to develop molecular materials that exhibit highly efficient energy transfer at ambient conditions. The authors of this study demonstrate the potential of an amorphous material to become an exciton condensate, in which energy can flow with minimal frictional loss. Unlike the Bechgaard salts that support superconductivity only at high pressures, the authors show that the amorphous polymer NiTTFtt, recently synthesized by Xie and Anderson, exhibits the computational signature of exciton condensation at atmospheric pressure and its synthetic geometry. This research supports the realistic possibility of harnessing chemical tunability to achieve “strongly correlated” phenomena at more ambient conditions, opening novel avenues for superefficient energy transfer in technologically relevant materials.\n\n[Phys. Rev. Materials 7, 045001] Published Mon Apr 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.045001",
           "publishedOn": "2023-04-10T10:00:00.000Z",
-          "wordCount": 1106,
+          "wordCount": 1107,
           "title": "Potential for exciton condensation in a highly conductive amorphous polymer",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.045001.png"
         },

@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T00:49:54.118Z</id>
+    <id>urn:2023-05-09T00:52:42.277Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T00:49:54.118Z</updated>
+    <updated>2023-05-09T00:52:42.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spectrum of collective excitations of a quantum fluid of polaritons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.174507</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.174507"/>
+        <updated>2023-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. Claude, M. J. Jacquet, I. Carusotto, Q. Glorieux, E. Giacobino, and A. Bramati
+The phenomenology of superfluids and Bose-Einstein condensates is generally understood in terms of quantum hydrodynamics, which depend on the dispersion of the collective excitation modes in the quantum fluid. Here, via the implementation of a high-resolution spectroscopy technique, the authors highlight the peculiarities of collective excitations of a polariton superfluid and reveal a wealth of phenomena intrinsically linked to the light-matter and driven-dissipative nature of their system, such as the observation of a ghost branch highlighted in red in the image.
+
+[Phys. Rev. B 107, 174507] Published Mon May 08, 2023]]></summary>
+        <author>
+            <name>F. Claude, M. J. Jacquet, I. Carusotto, Q. Glorieux, E. Giacobino, and A. Bramati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local density of states fluctuations in a two-dimensional superconductor as a probe of quantum diffusion]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.174508</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.174508"/>
+        <updated>2023-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mathieu Lizée, Matthias Stosiek, Igor Burmistrov, Tristan Cren, and Christophe Brun
+Could disorder enhance superconductivity? Close to the Anderson transition, electronic wave functions show a peculiar multifractal structure, predicted to enhance Cooper pairing. Here, the authors probe the weak disorder limit using an atomic monolayer of lead with high-resolution scanning tunneling spectroscopy. They show that mesoscopic spatial fluctuations of the electronic density of states indicate coherent diffusion of electrons. They use these energy-dependent fluctuations to reveal tiny energy gap fluctuations and to extract the elastic mean free path, dephasing length, as theoretically expected.
+
+[Phys. Rev. B 107, 174508] Published Mon May 08, 2023]]></summary>
+        <author>
+            <name>Mathieu Lizée, Matthias Stosiek, Igor Burmistrov, Tristan Cren, and Christophe Brun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flip-Chip-Based Microwave Spectroscopy of Andreev Bound States in a Planar Josephson Junction]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.054026</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.054026"/>
+        <updated>2023-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Hinderling, D. Sabonis, S. Paredes, D.Z. Haxell, M. Coraiola, S.C. ten Kate, E. Cheah, F. Krizek, R. Schott, W. Wegscheider, and F. Nichele
+Measurement and coherent manipulation of Andreev bound states (ABSs) in planar superconductor-semiconductor heterostructures could enable gate-controllable, small-footprint superconducting spin qubits with long coherence times. So far, readout capabilities and device coherence have been limited by lossy III−V substrates, but here researchers overcome this limitation with a flip-chip approach to microwave experiments on ABSs. Superconductor-semiconductor devices and microwave resonators are placed on different chips and inductively coupled via a vacuum gap, enabling high-quality readout without sacrificing device properties.
+
+[Phys. Rev. Applied 19, 054026] Published Mon May 08, 2023]]></summary>
+        <author>
+            <name>M. Hinderling, D. Sabonis, S. Paredes, D.Z. Haxell, M. Coraiola, S.C. ten Kate, E. Cheah, F. Krizek, R. Schott, W. Wegscheider, and F. Nichele</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable Multilayer Architecture of Assembled Single-Atom Qubit Arrays in a Three-Dimensional Talbot Tweezer Lattice]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.180601</id>
