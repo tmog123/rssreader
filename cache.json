@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.201401",
+          "author": "S.-B. Zhang, Z.-L. Ba, D.-H. Ning, N.-F. Zhai, Z.-T. Lu, and D. Sheng",
+          "description": "Author(s): S.-B. Zhang, Z.-L. Ba, D.-H. Ning, N.-F. Zhai, Z.-T. Lu, and D. Sheng\nA new search for an interaction between a particle’s intrinsic spin and Earth’s gravitational field probes physics in the regime where quantum theory meets gravity.\n\n[Phys. Rev. Lett. 130, 201401] Published Mon May 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.201401",
+          "publishedOn": "2023-05-15T10:00:00.000Z",
+          "wordCount": 1171,
+          "title": "Search for Spin-Dependent Gravitational Interactions at Earth Range",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.201401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.207001",
+          "author": "Richard Hess, Henry F. Legg, Daniel Loss, and Jelena Klinovaja",
+          "description": "Author(s): Richard Hess, Henry F. Legg, Daniel Loss, and Jelena Klinovaja\nAn Andreev band, formed from multiple bound states via equal distribution within a nanowire at similar energies, mimics the topological bulk closing and reopening signature of a bulk band gap.\n\n[Phys. Rev. Lett. 130, 207001] Published Mon May 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.207001",
+          "publishedOn": "2023-05-15T10:00:00.000Z",
+          "wordCount": 1043,
+          "title": "Trivial Andreev Band Mimicking Topological Bulk Gap Reopening in the Nonlocal Conductance of Long Rashba Nanowires",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.207001.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.023093",
           "author": "Ireth García-Aguilar, Steven Zwaan, and Luca Giomi",
           "description": "Author(s): Ireth García-Aguilar, Steven Zwaan, and Luca Giomi\nThe mechanical origin of polymorphism in two-dimensional tubulin assemblies, including microtubules and other structures such as twisted ribbons, flat sheets, and macrotubules, is examined by modeling these as anisotropic elastic shells. Varying asymmetries at a dimer level, expressed as spontaneous curvature, naturally gives rise to the polymorphic landscape. The results provide insight in the robustness of cylindrical structures and mechanical aspects of microtubule disassembly.\n\n[Phys. Rev. Research 5, 023093] Published Fri May 12, 2023",
@@ -841,7 +861,7 @@
           "description": "Author(s): C. J. Baker et al. (ALPHA Collaboration)\nA novel beamline transports both low-energy positron and antiprotons between cylindrical Penning traps with high transfer efficiency.\n\n[Phys. Rev. Accel. Beams 26, 040101] Published Fri Apr 21, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.040101",
           "publishedOn": "2023-04-21T10:00:00.000Z",
-          "wordCount": 1734,
+          "wordCount": 1735,
           "title": "Design and performance of a novel low energy multispecies beamline for an antihydrogen experiment",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.26.040101.png"
         },
@@ -984,26 +1004,6 @@
           "wordCount": 1200,
           "title": "Free energy and specific heat near a quantum critical point of a metal",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.144507.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044044",
-          "author": "John F. Barry, Reed A. Irion, Matthew H. Steinecker, Daniel K. Freeman, Jessica J. Kedziora, Reginald G. Wilcox, and Danielle A. Braje",
-          "description": "Author(s): John F. Barry, Reed A. Irion, Matthew H. Steinecker, Daniel K. Freeman, Jessica J. Kedziora, Reginald G. Wilcox, and Danielle A. Braje\nQuantum sensors based on solid-state spins have advanced rapidly over the prior decade, but deploying these sensors in real-world applications remains technically challenging. By introducing an innovative oscillator-based sensor architecture, and employing a ferrimagnetic material rather than the paramagnetic spin defects more commonly studied, this work details the construction of a compact magnetometer with a minimum sensitivity of 100 fT/√Hz. The sensor’s architecture offers advantages in dynamic range, simplicity, and compactness—qualities that may enable widespread use of solid-state quantum sensors outside a laboratory environment.\n\n[Phys. Rev. Applied 19, 044044] Published Mon Apr 17, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044044",
-          "publishedOn": "2023-04-17T10:00:00.000Z",
-          "wordCount": 1176,
-          "title": "Ferrimagnetic Oscillator Magnetometer",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.044044.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.043116",
-          "author": "Dai Ikeda, Kenta Mizuse, and Yasuhiro Ohshima",
-          "description": "Author(s): Dai Ikeda, Kenta Mizuse, and Yasuhiro Ohshima\nUsing pump-probe imaging, the authors study the depolarization dynamics of electronically excited NO molecules by tracking the angular distribution of the molecular axis. They show an evolution from alignment to antialignment, a manifestation of rotational angular momentum depolarization by the hyperfine interaction with the N nuclear spin.\n\n[Phys. Rev. A 107, 043116] Published Mon Apr 17, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.043116",
-          "publishedOn": "2023-04-17T10:00:00.000Z",
-          "wordCount": 1083,
-          "title": "Direct imaging of the hyperfine depolarization in electronically excited NO molecules",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.043116.png"
         }
       ]
     }

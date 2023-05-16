@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-15T00:53:30.411Z</id>
+    <id>urn:2023-05-16T00:52:10.760Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T00:53:30.411Z</updated>
+    <updated>2023-05-16T00:52:10.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Search for Spin-Dependent Gravitational Interactions at Earth Range]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.201401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.201401"/>
+        <updated>2023-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S.-B. Zhang, Z.-L. Ba, D.-H. Ning, N.-F. Zhai, Z.-T. Lu, and D. Sheng
+A new search for an interaction between a particle’s intrinsic spin and Earth’s gravitational field probes physics in the regime where quantum theory meets gravity.
+
+[Phys. Rev. Lett. 130, 201401] Published Mon May 15, 2023]]></summary>
+        <author>
+            <name>S.-B. Zhang, Z.-L. Ba, D.-H. Ning, N.-F. Zhai, Z.-T. Lu, and D. Sheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trivial Andreev Band Mimicking Topological Bulk Gap Reopening in the Nonlocal Conductance of Long Rashba Nanowires]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.207001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.207001"/>
+        <updated>2023-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Richard Hess, Henry F. Legg, Daniel Loss, and Jelena Klinovaja
+An Andreev band, formed from multiple bound states via equal distribution within a nanowire at similar energies, mimics the topological bulk closing and reopening signature of a bulk band gap.
+
+[Phys. Rev. Lett. 130, 207001] Published Mon May 15, 2023]]></summary>
+        <author>
+            <name>Richard Hess, Henry F. Legg, Daniel Loss, and Jelena Klinovaja</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymorphism in tubulin assemblies: A mechanical model]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023093</id>
@@ -1279,32 +1305,6 @@ The authors examine the free energy and specific heat of fermions interacting wi
 [Phys. Rev. B 107, 144507] Published Mon Apr 17, 2023]]></summary>
         <author>
             <name>Shang-Shun Zhang, Erez Berg, and Andrey V. Chubukov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrimagnetic Oscillator Magnetometer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.044044</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.044044"/>
-        <updated>2023-04-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): John F. Barry, Reed A. Irion, Matthew H. Steinecker, Daniel K. Freeman, Jessica J. Kedziora, Reginald G. Wilcox, and Danielle A. Braje
-Quantum sensors based on solid-state spins have advanced rapidly over the prior decade, but deploying these sensors in real-world applications remains technically challenging. By introducing an innovative oscillator-based sensor architecture, and employing a ferrimagnetic material rather than the paramagnetic spin defects more commonly studied, this work details the construction of a compact magnetometer with a minimum sensitivity of 100 fT/√Hz. The sensor’s architecture offers advantages in dynamic range, simplicity, and compactness—qualities that may enable widespread use of solid-state quantum sensors outside a laboratory environment.
-
-[Phys. Rev. Applied 19, 044044] Published Mon Apr 17, 2023]]></summary>
-        <author>
-            <name>John F. Barry, Reed A. Irion, Matthew H. Steinecker, Daniel K. Freeman, Jessica J. Kedziora, Reginald G. Wilcox, and Danielle A. Braje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct imaging of the hyperfine depolarization in electronically excited NO molecules]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.043116</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.043116"/>
-        <updated>2023-04-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Dai Ikeda, Kenta Mizuse, and Yasuhiro Ohshima
-Using pump-probe imaging, the authors study the depolarization dynamics of electronically excited NO molecules by tracking the angular distribution of the molecular axis. They show an evolution from alignment to antialignment, a manifestation of rotational angular momentum depolarization by the hyperfine interaction with the N nuclear spin.
-
-[Phys. Rev. A 107, 043116] Published Mon Apr 17, 2023]]></summary>
-        <author>
-            <name>Dai Ikeda, Kenta Mizuse, and Yasuhiro Ohshima</name>
         </author>
     </entry>
 </feed>
