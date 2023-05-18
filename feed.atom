@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T00:54:35.257Z</id>
+    <id>urn:2023-05-18T00:51:39.291Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T00:54:35.257Z</updated>
+    <updated>2023-05-18T00:51:39.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Subpicosecond Ultracold Electron Source]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.205001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.205001"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): T. C. H. de Raadt, J. G. H. Franssen, and O. J. Luiten
+A method for producing ultrashort, ultracold electron bunches could improve the resolution of electron-based imaging methods.
+
+[Phys. Rev. Lett. 130, 205001] Published Wed May 17, 2023]]></summary>
+        <author>
+            <name>T. C. H. de Raadt, J. G. H. Franssen, and O. J. Luiten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural-network-backed effective harmonic potential study of the ambient pressure phases of hafnia]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.184111</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.184111"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sebastian Bichelmaier, Jesús Carrete, Ralf Wanzenböck, Florian Buchner, and Georg K. H. Madsen
+Machine learning methods, and in particular neural-network force fields (NNFF), are bridging the gap between macroscopically relevant parameters and quantum mechanical simulations. This work describes an NNFF training strategy and uses it as the back end for an effective harmonic potential study of phase transitions in hafnia. While good agreement with experiment is found regarding the monoclinic-tetragonal transition, the commonly assumed transition to a Fm3¯m cubic phase is found to be unlikely for the stoichiometric material
+
+[Phys. Rev. B 107, 184111] Published Wed May 17, 2023]]></summary>
+        <author>
+            <name>Sebastian Bichelmaier, Jesús Carrete, Ralf Wanzenböck, Florian Buchner, and Georg K. H. Madsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic magnetic tunnel junction with easy-plane dominant anisotropy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.184433</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.184433"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jonathan Z. Sun, Christopher Safranski, Philip Trouilloud, Christopher D'Emic, Pouya Hashemi, and Guohan Hu
+Super-paramagnetic fluctuation of a nanomagnet, when confined by a strong easy-plane anisotropy, can yield GHz speed random signal. A magnetic tunnel junction converts such moment movement into conductance fluctuation, and is useful as an entropy source for modern computing circuits. Here, the authors experimentally explore the base-line behavior of easy-plane magnetic tunnel junctions in the super-paramagnetic limit, using a CMOS back-end integrated fabrication process, and introduce some measurement methodologies to identify factors in device materials and fabrication in need of future optimization.
+
+[Phys. Rev. B 107, 184433] Published Wed May 17, 2023]]></summary>
+        <author>
+            <name>Jonathan Z. Sun, Christopher Safranski, Philip Trouilloud, Christopher D'Emic, Pouya Hashemi, and Guohan Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selective Evaporation at the Nozzle Exit in Piezoacoustic Inkjet Printing]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.054056</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.054056"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maaike Rump, Uddalok Sen, Roger Jeurissen, Hans Reinten, Michel Versluis, Detlef Lohse, Christian Diddens, and Tim Segers
+“Ugh, not again! Something’s wrong with this printer…” In inkjet printing the nozzles in the printhead have intermittent idle periods, during which the ink can evaporate from the nozzle exit. Inks are usually multicomponent, and each component has its own characteristic evaporation rate, resulting in concentration gradients within the ink that can alter the jetting process. Through experiments, analytical modeling, and numerical simulations, the authors unravel the complex physicochemical hydrodynamics associated with the drying of ink at a printhead nozzle.
+
+[Phys. Rev. Applied 19, 054056] Published Wed May 17, 2023]]></summary>
+        <author>
+            <name>Maaike Rump, Uddalok Sen, Roger Jeurissen, Hans Reinten, Michel Versluis, Detlef Lohse, Christian Diddens, and Tim Segers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning the Phase Diagram of a Strongly Interacting Fermi Gas]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.203401</id>
@@ -1253,58 +1305,6 @@ Photons are ideal information carriers for sensing, communication, and computing
 [Phys. Rev. Applied 19, 044070] Published Mon Apr 24, 2023]]></summary>
         <author>
             <name>Malvika Garikapati, Santosh Kumar, He Zhang, Yong Meng Sua, and Yu-Ping Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision Measurement of Reactor Antineutrino Oscillation at Kilometer-Scale Baselines by Daya Bay]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.161802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.161802"/>
-        <updated>2023-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. P. An et al. (Daya Bay Collaboration)
-After almost nine years of operation, the Daya Bay Reactor Neutrino Experiment has delivered the world’s best measurement of an important particle physics parameter.
-
-[Phys. Rev. Lett. 130, 161802] Published Fri Apr 21, 2023]]></summary>
-        <author>
-            <name>F. P. An &lt;em&gt;et al.&lt;/em&gt; (Daya Bay Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effect of curvature on the diffusion of colloidal bananas]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.L042602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.L042602"/>
-        <updated>2023-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Justin-Aurel Ulbrich, Carla Fernández-Rico, Brian Rost, Jacopo Vialetto, Lucio Isa, Jeffrey S. Urbach, and Roel P. A. Dullens
-This letter describes an experimental study of diffusion of smoothly curved colloidal rods as a function of their opening angle. The authors measure translational and rotational diffusion of these colloidal bananas with opening angles ranging from 0o to nearly 360o. Their results demonstrate the impact of curvature on diffusive behavior of elongated colloidal particles.
-
-[Phys. Rev. E 107, L042602] Published Fri Apr 21, 2023]]></summary>
-        <author>
-            <name>Justin-Aurel Ulbrich, Carla Fernández-Rico, Brian Rost, Jacopo Vialetto, Lucio Isa, Jeffrey S. Urbach, and Roel P. A. Dullens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design and performance of a novel low energy multispecies beamline for an antihydrogen experiment]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.040101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.040101"/>
-        <updated>2023-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. J. Baker et al. (ALPHA Collaboration)
-A novel beamline transports both low-energy positron and antiprotons between cylindrical Penning traps with high transfer efficiency.
-
-[Phys. Rev. Accel. Beams 26, 040101] Published Fri Apr 21, 2023]]></summary>
-        <author>
-            <name>C. J. Baker &lt;em&gt;et al.&lt;/em&gt; (ALPHA Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrambling of algebras in open quantum systems]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.042217</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.042217"/>
-        <updated>2023-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Faidon Andreadakis, Namit Anand, and Paolo Zanardi
-Quantum information scrambling describes how local information disperses into a many-body quantum system. Here, the authors introduce an algebraic formalism to better understand these dynamics and demonstrate how their approach allows them to disentangle environmental decoherence from scrambling.
-
-[Phys. Rev. A 107, 042217] Published Fri Apr 21, 2023]]></summary>
-        <author>
-            <name>Faidon Andreadakis, Namit Anand, and Paolo Zanardi</name>
         </author>
     </entry>
 </feed>
