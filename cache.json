@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.023112",
+          "author": "Riccardo J. Valencia-Tortora, Shane P. Kelly, Tobias Donner, Giovanna Morigi, Rosario Fazio, and Jamir Marino",
+          "description": "Author(s): Riccardo J. Valencia-Tortora, Shane P. Kelly, Tobias Donner, Giovanna Morigi, Rosario Fazio, and Jamir Marino\nQuantum correlations can induce chaos in the collective dynamical response of multilevel atoms in cavity QED experiments.\n\n[Phys. Rev. Research 5, 023112] Published Fri May 19, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.023112",
+          "publishedOn": "2023-05-19T10:00:00.000Z",
+          "wordCount": 2294,
+          "title": "Crafting the dynamical structure of synchronization by harnessing bosonic multilevel cavity QED",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.023112.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.053517",
+          "author": "Ray Abney and Greg Gbur",
+          "description": "Author(s): Ray Abney and Greg Gbur\nIt has been known for over a century that “nonradiating sources,” or wave sources that counterintuitively produce no radiative oscillations, are physically possible. Here, the authors extend this to sources in orbital motion and describe how nonradiating sources may be experimentally realized using surface waves in optics.\n\n[Phys. Rev. A 107, 053517] Published Fri May 19, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.053517",
+          "publishedOn": "2023-05-19T10:00:00.000Z",
+          "wordCount": 838,
+          "title": "Nonradiating orbital motions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.053517.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.203001",
           "author": "R. G. Bullis, C. Rasor, W. L. Tavis, S. A. Johnson, M. R. Weiss, and D. C. Yost",
           "description": "Author(s): R. G. Bullis, C. Rasor, W. L. Tavis, S. A. Johnson, M. R. Weiss, and D. C. Yost\nMeasurements of the “hyperfine” splitting of certain electronic levels of hydrogen have broken precision records, potentially enabling precise tests of quantum electrodynamics.\n\n[Phys. Rev. Lett. 130, 203001] Published Thu May 18, 2023",
@@ -821,7 +841,7 @@
           "description": "Author(s): Marco Colangelo et al.\nSuperconducting nanowire single-photon detectors (SNSPDs) are the highest-performance photon-counting technology in the near infrared, but traditional designs typically trade off between timing resolution and detection efficiency. The authors utilize transmission-line engineering and differential readout to achieve a design with high detection efficiency and low jitter simultaneously. This design also enables imaging capabilities and photon-number resolution, and is compatible with commercial time taggers. The device is a versatile solution for photon counting in various applications, including quantum computing, quantum communication, biomedicine, and ranging.\n\n[Phys. Rev. Applied 19, 044093] Published Fri Apr 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044093",
           "publishedOn": "2023-04-28T10:00:00.000Z",
-          "wordCount": 1664,
+          "wordCount": 1665,
           "title": "Impedance-Matched Differential Superconducting Nanowire Detectors",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.044093.png"
         },
@@ -984,26 +1004,6 @@
           "wordCount": 1133,
           "title": "Pressure-induced charge-transfer and structural transition in hexagonal multiferroic ${\\mathrm{HoMnO}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.134115.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.165146",
-          "author": "Nicholas E. Sherman, Maxime Dupont, and Joel E. Moore",
-          "description": "Author(s): Nicholas E. Sherman, Maxime Dupont, and Joel E. Moore\nTriangular lattice compounds have received extensive attention recently as quantum spin liquid candidates. Here, the authors look at the J1-J2 Heisenberg model on the triangular lattice, and calculate the spectral function relevant for neutron scattering experiments. They find a high-energy spectrum consistent with reports of a spinon Fermi surface state in triangular lattice compounds, although the low-energy spectrum rules out such a phase, and points towards a U(1) Dirac spin liquid. They provide clear signatures to look for in future neutron scattering experiments to distinguish these two phases.\n\n[Phys. Rev. B 107, 165146] Published Tue Apr 25, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.165146",
-          "publishedOn": "2023-04-25T10:00:00.000Z",
-          "wordCount": 1919,
-          "title": "Spectral function of the ${J}_{1}−{J}_{2}$ Heisenberg model on the triangular lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.165146.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044074",
-          "author": "Hao-Wen Dong, Sheng-Dong Zhao, Ping Xiang, Bing Wang, Chuanzeng Zhang, Li Cheng, Yue-Sheng Wang, and Daining Fang",
-          "description": "Author(s): Hao-Wen Dong, Sheng-Dong Zhao, Ping Xiang, Bing Wang, Chuanzeng Zhang, Li Cheng, Yue-Sheng Wang, and Daining Fang\nA lightweight structure made of rubber and metal layers can provide an object with underwater acoustic stealth over a broad frequency range.\n\n[Phys. Rev. Applied 19, 044074] Published Tue Apr 25, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044074",
-          "publishedOn": "2023-04-25T10:00:00.000Z",
-          "wordCount": 1758,
-          "title": "Porous-Solid Metaconverters for Broadband Underwater Sound Absorption and Insulation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.044074.png"
         }
       ]
     }

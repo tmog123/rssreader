@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-19T00:52:38.617Z</id>
+    <id>urn:2023-05-20T00:50:04.364Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T00:52:38.617Z</updated>
+    <updated>2023-05-20T00:50:04.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crafting the dynamical structure of synchronization by harnessing bosonic multilevel cavity QED]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.023112</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.5.023112"/>
+        <updated>2023-05-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Riccardo J. Valencia-Tortora, Shane P. Kelly, Tobias Donner, Giovanna Morigi, Rosario Fazio, and Jamir Marino
+Quantum correlations can induce chaos in the collective dynamical response of multilevel atoms in cavity QED experiments.
+
+[Phys. Rev. Research 5, 023112] Published Fri May 19, 2023]]></summary>
+        <author>
+            <name>Riccardo J. Valencia-Tortora, Shane P. Kelly, Tobias Donner, Giovanna Morigi, Rosario Fazio, and Jamir Marino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonradiating orbital motions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.053517</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.053517"/>
+        <updated>2023-05-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ray Abney and Greg Gbur
+It has been known for over a century that “nonradiating sources,” or wave sources that counterintuitively produce no radiative oscillations, are physically possible. Here, the authors extend this to sources in orbital motion and describe how nonradiating sources may be experimentally realized using surface waves in optics.
+
+[Phys. Rev. A 107, 053517] Published Fri May 19, 2023]]></summary>
+        <author>
+            <name>Ray Abney and Greg Gbur</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ramsey Spectroscopy of the $2{\mathrm{S}}_{1/2}$ Hyperfine Interval in Atomic Hydrogen]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.203001</id>
@@ -1279,32 +1305,6 @@ The improper ferroelectricity and frustrated magnetism observed in hexagonal rar
 [Phys. Rev. B 107, 134115] Published Tue Apr 25, 2023]]></summary>
         <author>
             <name>Martin Ottesen, Emma Ehrenreich-Petersen, Camilla Hjort Kronbo, François Baudelet, Lucie Nataf, Innokenty Kantor, Mads Ry Vogel Jørgensen, and Martin Bremholm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spectral function of the ${J}_{1}−{J}_{2}$ Heisenberg model on the triangular lattice]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.165146</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.165146"/>
-        <updated>2023-04-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nicholas E. Sherman, Maxime Dupont, and Joel E. Moore
-Triangular lattice compounds have received extensive attention recently as quantum spin liquid candidates. Here, the authors look at the J1-J2 Heisenberg model on the triangular lattice, and calculate the spectral function relevant for neutron scattering experiments. They find a high-energy spectrum consistent with reports of a spinon Fermi surface state in triangular lattice compounds, although the low-energy spectrum rules out such a phase, and points towards a U(1) Dirac spin liquid. They provide clear signatures to look for in future neutron scattering experiments to distinguish these two phases.
-
-[Phys. Rev. B 107, 165146] Published Tue Apr 25, 2023]]></summary>
-        <author>
-            <name>Nicholas E. Sherman, Maxime Dupont, and Joel E. Moore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porous-Solid Metaconverters for Broadband Underwater Sound Absorption and Insulation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.044074</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.044074"/>
-        <updated>2023-04-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hao-Wen Dong, Sheng-Dong Zhao, Ping Xiang, Bing Wang, Chuanzeng Zhang, Li Cheng, Yue-Sheng Wang, and Daining Fang
-A lightweight structure made of rubber and metal layers can provide an object with underwater acoustic stealth over a broad frequency range.
-
-[Phys. Rev. Applied 19, 044074] Published Tue Apr 25, 2023]]></summary>
-        <author>
-            <name>Hao-Wen Dong, Sheng-Dong Zhao, Ping Xiang, Bing Wang, Chuanzeng Zhang, Li Cheng, Yue-Sheng Wang, and Daining Fang</name>
         </author>
     </entry>
 </feed>
