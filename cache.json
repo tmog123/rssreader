@@ -6,12 +6,52 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.213601",
+          "author": "V. Krutyanskiy, M. Canteri, M. Meraner, J. Bate, V. Krcmarsky, J. Schupp, N. Sangouard, and B. P. Lanyon",
+          "description": "Author(s): V. Krutyanskiy, M. Canteri, M. Meraner, J. Bate, V. Krcmarsky, J. Schupp, N. Sangouard, and B. P. Lanyon\nA quantum repeater based on trapped ions allows the transmission of entangled, telecom-wavelength photons over 50 km.\n\n[Phys. Rev. Lett. 130, 213601] Published Mon May 22, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.213601",
+          "publishedOn": "2023-05-22T10:00:00.000Z",
+          "wordCount": 1232,
+          "title": "Telecom-Wavelength Quantum Repeater Node Based on a Trapped-Ion Processor",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.213601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.218201",
+          "author": "Pierre Rizkallah, Alessandro Sarracino, Olivier Bénichou, and Pierre Illien",
+          "description": "Author(s): Pierre Rizkallah, Alessandro Sarracino, Olivier Bénichou, and Pierre Illien\nActive tracers subject to external forcing can exhibit a tendency to travel against the driving force in a crowded environment.\n\n[Phys. Rev. Lett. 130, 218201] Published Mon May 22, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.218201",
+          "publishedOn": "2023-05-22T10:00:00.000Z",
+          "wordCount": 968,
+          "title": "Absolute Negative Mobility of an Active Tracer in a Crowded Environment",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.218201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.053602",
+          "author": "Marc Grosjean and Elise Lorenceau",
+          "description": "Author(s): Marc Grosjean and Elise Lorenceau\nBubbles and droplets are often formed by blowing contained gas through a constriction or tube. We show theoretically and experimentally that when the bubble is attached to the tube, its growth can be monotonic and progressive or go through an unstable state of rapid growth. Our analytical model, which reproduces experimental data, uses a dimensionless number B combining the container volume, tube radius, and Laplace and atmospheric pressures. The pressure dependence suggests that the gas compressibility, which induces a nonzero hydrodynamic compliance, is at the origin of the instability and explains the great bubble size disparity of bubbles produced by blowing at an imposed gas flow rate.\n\n[Phys. Rev. Fluids 8, 053602] Published Mon May 22, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.053602",
+          "publishedOn": "2023-05-22T10:00:00.000Z",
+          "wordCount": 1258,
+          "title": "Unstable growth of bubbles from a constriction",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.053602.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.103034",
+          "author": "Jakob Ehring, Sajad Abbar, Hans-Thomas Janka, Georg Raffelt, and Irene Tamborra",
+          "description": "Author(s): Jakob Ehring, Sajad Abbar, Hans-Thomas Janka, Georg Raffelt, and Irene Tamborra\nNeutrino fast flavor conversion (FFC) typically occurs in extremely dense neutrino environments such as those of core-collapse supernovae (CCNe). The typical distance and time scales at which FFCs take place are much smaller than those accessible to hydrodynamic simulations of CCSNe. In this paper, FFCs are schematically taken into account in spherically symmetric CCSN hydrodynamic simulations and their distinctive effects are delineated.\n\n[Phys. Rev. D 107, 103034] Published Mon May 22, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.103034",
+          "publishedOn": "2023-05-22T10:00:00.000Z",
+          "wordCount": 2002,
+          "title": "Fast neutrino flavor conversion in core-collapse supernovae: A parametric study in 1D models",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.103034.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.023112",
           "author": "Riccardo J. Valencia-Tortora, Shane P. Kelly, Tobias Donner, Giovanna Morigi, Rosario Fazio, and Jamir Marino",
           "description": "Author(s): Riccardo J. Valencia-Tortora, Shane P. Kelly, Tobias Donner, Giovanna Morigi, Rosario Fazio, and Jamir Marino\nQuantum correlations can induce chaos in the collective dynamical response of multilevel atoms in cavity QED experiments.\n\n[Phys. Rev. Research 5, 023112] Published Fri May 19, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.023112",
           "publishedOn": "2023-05-19T10:00:00.000Z",
-          "wordCount": 2294,
+          "wordCount": 2320,
           "title": "Crafting the dynamical structure of synchronization by harnessing bosonic multilevel cavity QED",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.023112.png"
         },
@@ -21,7 +61,7 @@
           "description": "Author(s): Ray Abney and Greg Gbur\nIt has been known for over a century that “nonradiating sources,” or wave sources that counterintuitively produce no radiative oscillations, are physically possible. Here, the authors extend this to sources in orbital motion and describe how nonradiating sources may be experimentally realized using surface waves in optics.\n\n[Phys. Rev. A 107, 053517] Published Fri May 19, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.053517",
           "publishedOn": "2023-05-19T10:00:00.000Z",
-          "wordCount": 838,
+          "wordCount": 864,
           "title": "Nonradiating orbital motions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.053517.png"
         },
@@ -31,7 +71,7 @@
           "description": "Author(s): R. G. Bullis, C. Rasor, W. L. Tavis, S. A. Johnson, M. R. Weiss, and D. C. Yost\nMeasurements of the “hyperfine” splitting of certain electronic levels of hydrogen have broken precision records, potentially enabling precise tests of quantum electrodynamics.\n\n[Phys. Rev. Lett. 130, 203001] Published Thu May 18, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.203001",
           "publishedOn": "2023-05-18T10:00:00.000Z",
-          "wordCount": 977,
+          "wordCount": 1003,
           "title": "Ramsey Spectroscopy of the $2{\\mathrm{S}}_{1/2}$ Hyperfine Interval in Atomic Hydrogen",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.203001.png"
         },
@@ -41,7 +81,7 @@
           "description": "Author(s): Gianluca Teza, Ran Yaacoby, and Oren Raz\nA phase transition in the out-of-equilibrium dynamics can occur with a rather simple mechanism: a small change in a parameter (e.g. the temperature of the thermal bath) can force the system to explore completely different configurations during the relaxation process.\n\n[Phys. Rev. Lett. 130, 207103] Published Thu May 18, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.207103",
           "publishedOn": "2023-05-18T10:00:00.000Z",
-          "wordCount": 963,
+          "wordCount": 989,
           "title": "Eigenvalue Crossing as a Phase Transition in Relaxation Dynamics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.207103.png"
         },
@@ -51,7 +91,7 @@
           "description": "Author(s): Melissa Diamond, Damiano F. G. Fiorillo, Gustavo Marques-Tavares, and Edoardo Vitagliano\nThis study revisits bounds on axion-like particles (ALPs) derived from supernovae, where they may be generated in stellar interiors before decaying to photons. Past works have used observations from SN1987A to exclude ALP masses of 10s of MeV, due to the absence of a signal in the Gamma Ray Spectrometer aboard the Solar Maximum Mission satellite. The present paper argues that such particles would generate a fireball of plasma around the supernova, ultimately leading to a much lower energy photon signal, thus invalidating the old bounds in this scenario. However, the authors find that data from the Pioneer Venus Orbiter can be used to set similar limits.\n\n[Phys. Rev. D 107, 103029] Published Thu May 18, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.103029",
           "publishedOn": "2023-05-18T10:00:00.000Z",
-          "wordCount": 1207,
+          "wordCount": 1233,
           "title": "Axion-sourced fireballs from supernovae",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.103029.png"
         },
@@ -61,7 +101,7 @@
           "description": "Author(s): Qile Wu and Mark S. Sherwin\nThe authors derive here an explicit formula for a nonperturbative nonlinear optical phenomena called high-order sideband generation (HSG). The formula is valid over a wide range of experimentally accessible conditions. The results indicate a way to extract information on band structures and nonequilibrium dephasing rates from HSG experiments with simple algebraic calculations. This work also provides hints for analysis of HSG in multiband systems with non-Abelian Berry curvatures, as well as interband processes in high-harmonic generation.\n\n[Phys. Rev. B 107, 174308] Published Thu May 18, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174308",
           "publishedOn": "2023-05-18T10:00:00.000Z",
-          "wordCount": 2280,
+          "wordCount": 2306,
           "title": "Explicit formula for high-order sideband polarization by extreme tailoring of Feynman path integrals",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174308.png"
         },
@@ -71,7 +111,7 @@
           "description": "Author(s): Oles Matsyshyn, Justin C. W. Song, Inti Sodemann Villadiego, and Li-kun Shi\nThis work demonstrates exactly that, when coupled to an ideal fermionic bath, the occupation of a driven Floquet band deviates from the Fermi-Dirac distribution function of the Floquet energy, and instead becomes a staircase version of this distribution. This allows us to show the existence of a finite rectified electric current within the optical gap of a metal, even in the limit of vanishing carrier relaxation rates.\n\n[Phys. Rev. B 107, 195135] Published Thu May 18, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.195135",
           "publishedOn": "2023-05-18T10:00:00.000Z",
-          "wordCount": 1190,
+          "wordCount": 1216,
           "title": "Fermi-Dirac staircase occupation of Floquet bands and current rectification inside the optical gap of metals: An exact approach",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.195135.png"
         },
@@ -81,7 +121,7 @@
           "description": "Author(s): Raphaël Marion, Martin Čížek, and Xavier Urbain\nThe authors measure the autodetachment spectra of D2− and HD− using the velocity-map imaging technique by incorporating an electron-neutral coincidence arrangement, which leads to increased energy resolution. The experimental results confirm the main features predicted by theory while resolving the apparent discrepancy between spontaneous dissociation and detachment experiments.\n\n[Phys. Rev. A 107, 052808] Published Thu May 18, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.052808",
           "publishedOn": "2023-05-18T10:00:00.000Z",
-          "wordCount": 1068,
+          "wordCount": 1094,
           "title": "Autodetachment spectroscopy of metastable ${\\mathrm{D}}_{2}{}^{−}$ and ${\\mathrm{HD}}^{−}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.052808.png"
         },
@@ -91,7 +131,7 @@
           "description": "Author(s): T. C. H. de Raadt, J. G. H. Franssen, and O. J. Luiten\nA method for producing ultrashort, ultracold electron bunches could improve the resolution of electron-based imaging methods.\n\n[Phys. Rev. Lett. 130, 205001] Published Wed May 17, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.205001",
           "publishedOn": "2023-05-17T10:00:00.000Z",
-          "wordCount": 1061,
+          "wordCount": 1087,
           "title": "Subpicosecond Ultracold Electron Source",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.205001.png"
         },
@@ -101,7 +141,7 @@
           "description": "Author(s): Sebastian Bichelmaier, Jesús Carrete, Ralf Wanzenböck, Florian Buchner, and Georg K. H. Madsen\nMachine learning methods, and in particular neural-network force fields (NNFF), are bridging the gap between macroscopically relevant parameters and quantum mechanical simulations. This work describes an NNFF training strategy and uses it as the back end for an effective harmonic potential study of phase transitions in hafnia. While good agreement with experiment is found regarding the monoclinic-tetragonal transition, the commonly assumed transition to a Fm3¯m cubic phase is found to be unlikely for the stoichiometric material\n\n[Phys. Rev. B 107, 184111] Published Wed May 17, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.184111",
           "publishedOn": "2023-05-17T10:00:00.000Z",
-          "wordCount": 1119,
+          "wordCount": 1145,
           "title": "Neural-network-backed effective harmonic potential study of the ambient pressure phases of hafnia",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.184111.png"
         },
@@ -111,7 +151,7 @@
           "description": "Author(s): Jonathan Z. Sun, Christopher Safranski, Philip Trouilloud, Christopher D'Emic, Pouya Hashemi, and Guohan Hu\nSuper-paramagnetic fluctuation of a nanomagnet, when confined by a strong easy-plane anisotropy, can yield GHz speed random signal. A magnetic tunnel junction converts such moment movement into conductance fluctuation, and is useful as an entropy source for modern computing circuits. Here, the authors experimentally explore the base-line behavior of easy-plane magnetic tunnel junctions in the super-paramagnetic limit, using a CMOS back-end integrated fabrication process, and introduce some measurement methodologies to identify factors in device materials and fabrication in need of future optimization.\n\n[Phys. Rev. B 107, 184433] Published Wed May 17, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.184433",
           "publishedOn": "2023-05-17T10:00:00.000Z",
-          "wordCount": 1287,
+          "wordCount": 1313,
           "title": "Stochastic magnetic tunnel junction with easy-plane dominant anisotropy",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.184433.png"
         },
@@ -121,7 +161,7 @@
           "description": "Author(s): Maaike Rump, Uddalok Sen, Roger Jeurissen, Hans Reinten, Michel Versluis, Detlef Lohse, Christian Diddens, and Tim Segers\n“Ugh, not again! Something’s wrong with this printer…” In inkjet printing the nozzles in the printhead have intermittent idle periods, during which the ink can evaporate from the nozzle exit. Inks are usually multicomponent, and each component has its own characteristic evaporation rate, resulting in concentration gradients within the ink that can alter the jetting process. Through experiments, analytical modeling, and numerical simulations, the authors unravel the complex physicochemical hydrodynamics associated with the drying of ink at a printhead nozzle.\n\n[Phys. Rev. Applied 19, 054056] Published Wed May 17, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054056",
           "publishedOn": "2023-05-17T10:00:00.000Z",
-          "wordCount": 1734,
+          "wordCount": 1760,
           "title": "Selective Evaporation at the Nozzle Exit in Piezoacoustic Inkjet Printing",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054056.png"
         },
@@ -131,7 +171,7 @@
           "description": "Author(s): M. Link, K. Gao, A. Kell, M. Breyer, D. Eberz, B. Rauf, and M. Köhl\nAn artificial neural network is used to determine the phase diagram of strongly correlated fermions across the BCS-BEC crossover, revealing a maximum in the critical temperature at the bosonic side.\n\n[Phys. Rev. Lett. 130, 203401] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.203401",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 895,
+          "wordCount": 921,
           "title": "Machine Learning the Phase Diagram of a Strongly Interacting Fermi Gas",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.203401.png"
         },
@@ -141,7 +181,7 @@
           "description": "Author(s): Wenqiang Zheng, Hengyan Wang, Rebecca Schmieg, Alan Oesterle, and Eugene S. Polzik\nQuantum effects improve the performance of magnetic induction tomography—an imaging technique that has promising medical applications.\n\n[Phys. Rev. Lett. 130, 203602] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.203602",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1120,
+          "wordCount": 1146,
           "title": "Entanglement-Enhanced Magnetic Induction Tomography",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.203602.png"
         },
@@ -151,7 +191,7 @@
           "description": "Author(s): Weixuan Zhang, Haiteng Wang, Houjun Sun, and Xiangdong Zhang\nA topoelectrical circuit shows that localized and extended eigenstates coexist in a non-Abelian flat-band system with disorder.\n\n[Phys. Rev. Lett. 130, 206401] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.206401",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 960,
+          "wordCount": 986,
           "title": "Non-Abelian Inverse Anderson Transitions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.206401.png"
         },
@@ -161,7 +201,7 @@
           "description": "Author(s): Zhiyu Dong, Olumakinde Ogunnaike, and Leonid Levitov\nRecently observed metallic phases in multilayer graphene support chiral edge modes allowing spin waves to propagate without backscattering.\n\n[Phys. Rev. Lett. 130, 206701] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.206701",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 786,
+          "wordCount": 812,
           "title": "Collective Excitations in Chiral Stoner Magnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.206701.png"
         },
@@ -171,7 +211,7 @@
           "description": "Author(s): Marco Biroli, Hernan Larralde, Satya N. Majumdar, and Grégory Schehr\nA new, experimentally realizable, many-particle model that can be solved exactly describes a resetting gas with strong, long-range interactions in the steady state.\n\n[Phys. Rev. Lett. 130, 207101] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.207101",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 861,
+          "wordCount": 887,
           "title": "Extreme Statistics and Spacing Distribution in a Brownian Gas Correlated by Resetting",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.207101.png"
         },
@@ -181,7 +221,7 @@
           "description": "Author(s): Lingyao Kong, Jin Tang, Weiwei Wang, Yaodong Wu, Jialiang Jiang, Yihao Wang, Junbo Li, Yimin Xiong, Mingliang Tian, and Haifeng Du\nIt has been widely established that there exist two types of magnetic bubbles. Here, the authors present the theory and experiment of a novel three-dimensional bubble state, referred to as the type-III bubble, which is composed of Néel-twisted skyrmions with topological charge Q = -1 in the near-surface layers and type-II bubbles with Q = 0 in the interior layers. Furthermore, the authors demonstrate a method for creating the type-III bubble and the topological magnetic transformation among the three types of bubbles.\n\n[Phys. Rev. B 107, 174425] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174425",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1083,
+          "wordCount": 1109,
           "title": "Observation of hybrid magnetic skyrmion bubbles in ${\\mathrm{Fe}}_{3}{\\mathrm{Sn}}_{2}$ nanodisks",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174425.png"
         },
@@ -191,7 +231,7 @@
           "description": "Author(s): Seungho Lee, Kouki Nakata, Oleg Tchernyshyov, and Se Kwon Kim\nThe novel interaction of a skyrmion-textured domain wall and magnons is investigated theoretically for 2D antiferromagnets with the aid of supersymmetric quantum mechanics. The scattering of propagating magnons at the domain wall is found to be governed by the emergent magnetic field coming from the skyrmion texture of the domain wall, which gives rise to the tunable spin Nernst effect. The exact theoretical analysis also yields new nonreciprocal magnons, bound to the topologically textured domain wall.\n\n[Phys. Rev. B 107, 184432] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.184432",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1010,
+          "wordCount": 1036,
           "title": "Magnon dynamics in a skyrmion-textured domain wall of antiferromagnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.184432.png"
         },
@@ -201,7 +241,7 @@
           "description": "Author(s): Philip Zechmann, Ehud Altman, Michael Knap, and Johannes Feldmeier\nDynamical constraints have drastic consequences for the properties of many-particle quantum systems. Here, the authors study the quantum ground state phases in a fracton system of interacting bosons with dipole conservation. Through a combination of low-energy field theory and tensor network simulations, they identify a novel dipole Luttinger liquid phase as well as a fracton analogue of a supersolid state.\n\n[Phys. Rev. B 107, 195131] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.195131",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1659,
+          "wordCount": 1685,
           "title": "Fractonic Luttinger liquids and supersolids in a constrained Bose-Hubbard model",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.195131.png"
         },
@@ -211,7 +251,7 @@
           "description": "Author(s): Ethan Lake, Hyun-Yong Lee, Jung Hoon Han, and T. Senthil\nThe authors study a Bose-Hubbard model whose dynamics conserves the total center of mass, a situation which arises in strongly tilted optical lattices. Center of mass conservation is shown to dramatically alter the nature of the quantum phase diagram, which hosts several types of unusual gapless phases. These results hint at a wealth of interesting phenomena waiting to be uncovered in the physics of kinetically constrained many-body systems.\n\n[Phys. Rev. B 107, 195132] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.195132",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1474,
+          "wordCount": 1500,
           "title": "Dipole condensates in tilted Bose-Hubbard chains",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.195132.png"
         },
@@ -221,7 +261,7 @@
           "description": "Author(s): Álvaro R. Puente-Uriona, Stepan S. Tsirkin, Ivo Souza, and Julen Ibañez-Azpiroz\nThe type-II Weyl semimetal TaIrTe4 exhibits one of the largest nonlinear photoresponses measured to date [Ma et al., Nature Materials 18, 476 (2019)]. The present work provides theoretical calculations on several competing candidate effects that can account for it. The third-order contribution known as the jerk current matches the measured magnitude of the photocurrent as well as its angular distribution. The origin of the large photoresponse is traced back to a constructive interference between the effective mass and the dipole matrix element of the Weyl bands crossing the Fermi level.\n\n[Phys. Rev. B 107, 205204] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.205204",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1379,
+          "wordCount": 1405,
           "title": "<i>Ab initio</i> study of the nonlinear optical properties and dc photocurrent of the Weyl semimetal ${\\mathrm{TaIrTe}}_{4}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.205204.png"
         },
@@ -231,7 +271,7 @@
           "description": "Author(s): Peng Ye, Wei Chen, Guo-Wei Zhang, Feng-Yu Lu, Fang-Xiang Wang, Guan-Zhong Huang, Shuang Wang, De-Yong He, Zhen-Qiang Yin, Guang-Can Guo, and Zheng-Fu Han\nLithium niobate (LN) devices have been widely adopted in systems for quantum key distribution (QKD), but the photorefractive effect in LN devices can be exploited as a potential loophole for malicious attacks by eavesdroppers. This work points out a vulnerability of LN devices of which manufacturers and users must become aware, so that appropriate countermeasures may be implemented. Moreover, the physical mechanism and techniques introduced in this work open an important avenue to the security analysis of QKD systems.\n\n[Phys. Rev. Applied 19, 054052] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054052",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1276,
+          "wordCount": 1302,
           "title": "Induced-Photorefraction Attack against Quantum key Distribution",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054052.png"
         },
@@ -241,7 +281,7 @@
           "description": "Author(s): Baoying Dou, Stefano Falletta, Jörg Neugebauer, Christoph Freysoldt, Xie Zhang, and Su-Huai Wei\nUnderstanding nonradiative recombination is important for improving semiconductor devices. For Cu(In,Ga)Se2 (CIGS) solar cells, antisite defects have long been considered the main recombination centers, yet the underlying mechanism has remained elusive. Here first-principles calculations show that these “killer centers” themselves cannot capture holes efficiently for effective recombination. However, internal conversion to the distorted neutral DX center does open an efficient hole-capture pathway, and DX’s stability in CIGS increases with Ga concentration, which resolves the longstanding issue of why the efficiency of CIGS solar cells decreases at high Ga concentration.\n\n[Phys. Rev. Applied 19, 054054] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054054",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1074,
+          "wordCount": 1100,
           "title": "Chemical Trend of Nonradiative Recombination in $\\mathrm{Cu}(\\mathrm{In},\\mathrm{Ga}){\\mathrm{Se}}_{2}$ Alloys",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054054.png"
         },
@@ -251,7 +291,7 @@
           "description": "Author(s): Qiankun Li, Shun Wang, Jinshuo Xue, Ziwen Zhou, Yiqi Hu, Zhou Zhou, Zhijian Feng, Qingyu Yan, Yiqing Yu, Yuyan Weng, Rujun Tang, Xiaodong Su, Fengang Zheng, Liang Fang, and Lu You\nIonic migration in solid phases is actively explored as a mechanism for neuromorphic computing elements, for example, but direct imaging of the ionic migration and its correlation with macroscopic electronic transport are tricky. Through multiple state-of-the-art microscopy techniques the authors visualize Ag+ migration in AgBiP2Se6, and how it modulates the interfacial barrier to induce switchable diodelike transport in a device. Illuminating the device can be used to switch off its ionic tunability, expanding its functionality. These results provide direct insight into the mechanism of ion-mediated transport in ionically active semiconductors.\n\n[Phys. Rev. Applied 19, 054055] Published Tue May 16, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054055",
           "publishedOn": "2023-05-16T10:00:00.000Z",
-          "wordCount": 1453,
+          "wordCount": 1479,
           "title": "Optoelectronic and Ionic Effects on Transport in van der Waals Metal Selenophosphate ${\\mathrm{Ag}\\mathrm{Bi}\\mathrm{P}}_{2}{\\mathrm{Se}}_{6}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054055.png"
         },
@@ -261,7 +301,7 @@
           "description": "Author(s): S.-B. Zhang, Z.-L. Ba, D.-H. Ning, N.-F. Zhai, Z.-T. Lu, and D. Sheng\nA new search for an interaction between a particle’s intrinsic spin and Earth’s gravitational field probes physics in the regime where quantum theory meets gravity.\n\n[Phys. Rev. Lett. 130, 201401] Published Mon May 15, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.201401",
           "publishedOn": "2023-05-15T10:00:00.000Z",
-          "wordCount": 1171,
+          "wordCount": 1197,
           "title": "Search for Spin-Dependent Gravitational Interactions at Earth Range",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.201401.png"
         },
@@ -271,7 +311,7 @@
           "description": "Author(s): Richard Hess, Henry F. Legg, Daniel Loss, and Jelena Klinovaja\nAn Andreev band, formed from multiple bound states via equal distribution within a nanowire at similar energies, mimics the topological bulk closing and reopening signature of a bulk band gap.\n\n[Phys. Rev. Lett. 130, 207001] Published Mon May 15, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.207001",
           "publishedOn": "2023-05-15T10:00:00.000Z",
-          "wordCount": 1043,
+          "wordCount": 1069,
           "title": "Trivial Andreev Band Mimicking Topological Bulk Gap Reopening in the Nonlocal Conductance of Long Rashba Nanowires",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.207001.png"
         },
@@ -281,7 +321,7 @@
           "description": "Author(s): Ireth García-Aguilar, Steven Zwaan, and Luca Giomi\nThe mechanical origin of polymorphism in two-dimensional tubulin assemblies, including microtubules and other structures such as twisted ribbons, flat sheets, and macrotubules, is examined by modeling these as anisotropic elastic shells. Varying asymmetries at a dimer level, expressed as spontaneous curvature, naturally gives rise to the polymorphic landscape. The results provide insight in the robustness of cylindrical structures and mechanical aspects of microtubule disassembly.\n\n[Phys. Rev. Research 5, 023093] Published Fri May 12, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.023093",
           "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1239,
+          "wordCount": 1265,
           "title": "Polymorphism in tubulin assemblies: A mechanical model",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.023093.png"
         },
@@ -291,7 +331,7 @@
           "description": "Author(s): Da Xu, Xu-Ke Gu, He-Kang Li, Yuan-Chao Weng, Yi-Pu Wang, Jie Li, H. Wang, Shi-Yao Zhu, and J. Q. You\nBy coupling an yttrium-iron-garnet nanosphere to a superconducting qubit, experiments succeed in generating a single magnon state and its superposition with a vacuum.\n\n[Phys. Rev. Lett. 130, 193603] Published Fri May 12, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.193603",
           "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1576,
+          "wordCount": 1602,
           "title": "Quantum Control of a Single Magnon in a Macroscopic Spin System",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.193603.png"
         },
@@ -301,7 +341,7 @@
           "description": "Author(s): V. Valenzuela-Villaseca, L. G. Suttle, F. Suzuki-Vidal, J. W. D. Halliday, S. Merlini, D. R. Russell, E. R. Tubman, J. D. Hare, J. P. Chittenden, M. E. Koepke, E. G. Blackman, and S. V. Lebedev\nA spinning plasma ring mimics the rotating structure surrounding a black hole.\n\n[Phys. Rev. Lett. 130, 195101] Published Fri May 12, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.195101",
           "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1108,
+          "wordCount": 1134,
           "title": "Characterization of Quasi-Keplerian, Differentially Rotating, Free-Boundary Laboratory Plasmas",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.195101.png"
         },
@@ -311,7 +351,7 @@
           "description": "Author(s): Sayed Ali Akbar Ghorashi, Aaron Dunbrack, Ahmed Abouelkomsan, Jiacheng Sun, Xu Du, and Jennifer Cano\nBilayer graphene in the presence of a superlattice potential can be an alternative platform to realize moiŕe physics, where the superlattice symmetry and geometry can be chosen on demand.\n\n[Phys. Rev. Lett. 130, 196201] Published Fri May 12, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.196201",
           "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1079,
+          "wordCount": 1105,
           "title": "Topological and Stacked Flat Bands in Bilayer Graphene with a Superlattice Potential",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.196201.png"
         },
@@ -321,7 +361,7 @@
           "description": "Author(s): Pantelis Bampoulis, Carolien Castenmiller, Dennis J. Klaassen, Jelle van Mil, Yichen Liu, Cheng-Cheng Liu, Yugui Yao, Motohiko Ezawa, Alexander N. Rudenko, and Harold J. W. Zandvliet\nGermanene undergoes a topological phase transition and then becomes a normal insulator when the strength of an applied electric field is dialed up.\n\n[Phys. Rev. Lett. 130, 196401] Published Fri May 12, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.196401",
           "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1294,
+          "wordCount": 1320,
           "title": "Quantum Spin Hall States and Topological Phase Transition in Germanene",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.196401.png"
         },
@@ -331,7 +371,7 @@
           "description": "Author(s): Nicolas Lanchon, Daniel Odens Mora, Eduardo Monsalve, and Pierre-Philippe Cortet\nTurbulence experiments in a stratified fluid driven by a set of internal gravity waves commonly lead to a discretization of the energy in frequency and wavenumber due to the emergence of eigenmodes of the fluid domain. In this article, we present an experimental means to inhibit this process and to direct the flow towards the regime described by the weak internal-wave turbulence theory which aims at modeling the oceanic dynamics at small scales.\n\n[Phys. Rev. Fluids 8, 054802] Published Fri May 12, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.054802",
           "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1848,
+          "wordCount": 1874,
           "title": "Internal wave turbulence in a stratified fluid with and without eigenmodes of the experimental domain",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.054802.png"
         },
@@ -341,7 +381,7 @@
           "description": "Author(s): Martí Gutierrez Latorre, Gerard Higgins, Achintya Paradkar, Thilo Bauch, and Witlef Wieczorek\nThe authors present a platform for quantum experiments on levitated particles with masses ranging from nanograms to micrograms. They exploit the Meissner effect to magnetically levitate superconducting microparticles on a chip, in vacuum at ultralow temperatures. Integrated magnetic readout enables coupling to superconducting quantum circuits. This platform allows for precise measurements of force and acceleration, with potential applications in sensing, including the search for dark matter.\n\n[Phys. Rev. Applied 19, 054047] Published Fri May 12, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054047",
           "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1654,
+          "wordCount": 1680,
           "title": "Superconducting Microsphere Magnetically Levitated in an Anharmonic Potential with Integrated Magnetic Readout",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054047.png"
         },
@@ -351,7 +391,7 @@
           "description": "Author(s): Xue-Mei Gu, Liang Huang, Alejandro Pozas-Kerstjens, Yang-Fan Jiang, Dian Wu, Bing Bai, Qi-Chao Sun, Ming-Cheng Chen, Jun Zhang, Sixia Yu, Qiang Zhang, Chao-Yang Lu, and Jian-Wei Pan\nResearchers prove the fully nonclassical nature of a three-party quantum network, a requirement for developing secure quantum communication technologies.\n\n[Phys. Rev. Lett. 130, 190201] Published Thu May 11, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.190201",
           "publishedOn": "2023-05-11T10:00:00.000Z",
-          "wordCount": 1341,
+          "wordCount": 1367,
           "title": "Experimental Full Network Nonlocality with Independent Sources and Strict Locality Constraints",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.190201.png"
         },
@@ -361,7 +401,7 @@
           "description": "Author(s): G. Aad et al. (ATLAS Collaboration)\nWhen two nuclei collide at relativistic energies, the collisions between nucleons create back-to-back streams (jets) of particles. These jets traverse the hot and dense strongly interacting medium produced in these collisions. The ATLAS Collaboration measured the differential yields of dijets as a function of the dijet momentum balance for selections on collisional geometry in Pb+Pb collisions at the LHC. They quantified the centrality dependence of dijet suppression and studied the suppression of the leading and sub-leading jets constituting the dijet. These results provide important information on dijet suppression and provide new insights into the path-length dependence on jet medium interactions.\n\n[Phys. Rev. C 107, 054908] Published Thu May 11, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.054908",
           "publishedOn": "2023-05-11T10:00:00.000Z",
-          "wordCount": 1656,
+          "wordCount": 1682,
           "title": "Measurements of the suppression and correlations of dijets in Pb+Pb collisions at $\\sqrt{{s}_{NN}}=5.02$ TeV",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.054908.png"
         },
@@ -371,7 +411,7 @@
           "description": "Author(s): Zhiyu Dong, Andrey V. Chubukov, and Leonid Levitov\nThe recently discovered superconductivity in Bernal bilayer graphene features unique behavior that distinguishes it from conventional superconductors. Firstly, the onset of superconductivity is associated with the emergence of an isospin-polarized phase, driven by Stoner instability. Secondly, the superconductivity is activated by a magnetic field and persists beyond the Pauli limit. These properties have sparked the interest of researchers and prompted the search for a pairing mechanism that can account for these findings. This paper reports on recent progress in this quest.​\n\n[Phys. Rev. B 107, 174512] Published Thu May 11, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174512",
           "publishedOn": "2023-05-11T10:00:00.000Z",
-          "wordCount": 1209,
+          "wordCount": 1235,
           "title": "Transformer spin-triplet superconductivity at the onset of isospin order in bilayer graphene",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174512.png"
         },
@@ -381,7 +421,7 @@
           "description": "Author(s): Stefano Falletta and Alfredo Pasquarello\nPolarons have a large impact on transport properties of materials and on related applications in photovoltaics. This work demonstrates that enforcing the piecewise linearity condition leads to robust polaron properties upon variation of the functional. Considered properties include electron densities, lattice bonds, formation energies, hyperfine and superhyperfine parameters, hopping barriers, and transfer rates. This lends justification to the use of efficient semilocal functionals, thus paving the way to accurate and systematic studies of polaronic transport properties from first principles.\n\n[Phys. Rev. B 107, 205125] Published Thu May 11, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.205125",
           "publishedOn": "2023-05-11T10:00:00.000Z",
-          "wordCount": 1133,
+          "wordCount": 1159,
           "title": "Polaron hopping through piecewise-linear functionals",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.205125.png"
         },
@@ -391,7 +431,7 @@
           "description": "Author(s): Junnosuke Takai, Kosuke Shibata, Naota Sekiguchi, and Takuya Hirano\nThe authors develop an experimental method for measuring the quadratic ac Stark shifts between Zeeman sublevels in an 87Rb Bose–Einstein condensate using a multistate atomic interferometer. The measured quadratic shifts are shown in good agreement with the theoretical calculations. The method could be useful for improving atomic sensors, such as magnetometers and atomic clocks.\n\n[Phys. Rev. A 107, 053308] Published Thu May 11, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.053308",
           "publishedOn": "2023-05-11T10:00:00.000Z",
-          "wordCount": 1424,
+          "wordCount": 1450,
           "title": "Multistate interferometric measurement of the nonlinear ac Stark shift",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.053308.png"
         },
@@ -401,7 +441,7 @@
           "description": "Author(s): Hongda Jiang and Shenshen Wang\nA study of the mechanical forces in certain immune cells may give new insights into how organisms deal with ever-evolving pathogens.\n\n[Phys. Rev. X 13, 021022] Published Wed May 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.021022",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 2434,
+          "wordCount": 2460,
           "title": "Molecular Tug of War Reveals Adaptive Potential of an Immune Cell Repertoire",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.021022.png"
         },
@@ -411,7 +451,7 @@
           "description": "Author(s): Justin J. Burau, Parul Aggarwal, Kameron Mehling, and Jun Ye\nA novel laser cooling and trapping technique squeezes large numbers of molecules into a confined space while keeping them ultracold.\n\n[Phys. Rev. Lett. 130, 193401] Published Wed May 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.193401",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 1236,
+          "wordCount": 1262,
           "title": "Blue-Detuned Magneto-optical Trap of Molecules",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.193401.png"
         },
@@ -421,7 +461,7 @@
           "description": "Author(s): Alexei A. Mailybaev\nWe describe a hidden scaling symmetry in developed turbulence which is restored in the inertial interval and, as a consequence, substantiates basic properties of intermittency, such as anomalous scaling. In this work we focus on how this symmetry gets broken in the forcing and dissipation ranges. The study is based on a shell model.\n\n[Phys. Rev. Fluids 8, 054605] Published Wed May 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.054605",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1569,
           "title": "Hidden scale invariance of turbulence in a shell model: From forcing to dissipation scales",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.054605.png"
         },
@@ -431,7 +471,7 @@
           "description": "Author(s): Xingyue Ma, Mingxing Chen, Jun-Ming Liu, Di Wu, and Yurong Yang\nThe electrocaloric effect offers a promising alternative to traditional gas compressing refrigeration. Unlike the normal electrocaloric effect, the inverse electrocaloric effect is believed to be very rare. In this study, first-principles-based effective Hamiltonian methods are used and the inverse electrocaloric effect is found to be a universal phenomenon in oxide and halide perovskites over different structural phases. Such an unusual effect originates from the entropy change related to the oxygen/halogen octahedron.\n\n[Phys. Rev. B 107, 184105] Published Wed May 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.184105",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 1399,
+          "wordCount": 1425,
           "title": "Universal inverse electrocaloric effect in perovskites",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.184105.png"
         },
@@ -441,7 +481,7 @@
           "description": "Author(s): Artur M. Lacerda, Archak Purkayastha, Michael Kewming, Gabriel T. Landi, and John Goold\nIn the mesoscopic leads technique, continuum environments at finite temperature are modeled via a finite-set modes, which are in turn damped by Markovian dissipation. Here, the authors extended this approach to include arbitrary time dependence in the Hamiltonian of the central system and performed detailed assessment of the thermodynamic quantities. They illustrated their approach by applying the technique to the driven resonant level model and to a driven double dot system, which is a noninteracting system exhibiting rectification.\n\n[Phys. Rev. B 107, 195117] Published Wed May 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.195117",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 1326,
+          "wordCount": 1352,
           "title": "Quantum thermodynamics with fast driving and strong coupling via the mesoscopic leads approach",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.195117.png"
         },
@@ -451,7 +491,7 @@
           "description": "Author(s): Ben Z. Steinberg and Nader Engheta\nThe omnipresence of rotation, often observed in its own rest frame of reference, profoundly affects human experience, science and technology. Here, the authors develop a formulation governing the rest frame electrodynamics in rotating electromagnetic systems and circuits. This study reveals new rotation-induced effects such as fictitious charges, gain, energy harvesting, and new device functionalities, e.g., positive or negative memristors and their dualities. These effects may potentially offer pathways to new technologies and materials.\n\n[Phys. Rev. B 107, 195418] Published Wed May 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.195418",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 1217,
+          "wordCount": 1243,
           "title": "Rest-frame quasistatic theory for rotating electromagnetic systems and circuits",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.195418.png"
         },
@@ -461,7 +501,7 @@
           "description": "Author(s): K.D. Osborn and W. Wustmann\nReversible computing exploits thermodynamic principles to replace irreversible Boolean logic with higher-efficiency reversible logic, and could change the future of computers. How best to implement reversible gates and architectures remains an open problem. Superconducting hardware features negligible intrinsic damping, which allows for exploration of many digital circuit types with varying degrees of reversibility. This study simulates Josephson junctions, where single flux quanta serve as bits in this logic type, with the goal of replacing an irreversible shift-register memory. The authors find that asynchronous access, and therefore simpler architecture, is possible.\n\n[Phys. Rev. Applied 19, 054034] Published Wed May 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054034",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 2518,
+          "wordCount": 2544,
           "title": "Asynchronous Reversible Computing Unveiled Using Ballistic Shift Registers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054034.png"
         },
@@ -471,7 +511,7 @@
           "description": "Author(s): Hamed Pezeshki, Pingzhi Li, Reinoud Lavrijsen, Martijn Heck, Erwin Bente, Jos van der Tol, and Bert Koopmans\nThis paper provides a key solution for integrating spintronic memories with photonic integrated circuits, for all-optical switching and reading of nanoscale magnetic bits. Problems associated with nonlinear absorption and the intrinsically weak magneto-optical effect are solved by a hybrid scheme, exploiting plasmonic and photonic resonators. Thus the authors have developed a device concept that paves the way toward ultrafast, energy-efficient advanced on-chip applications.\n\n[Phys. Rev. Applied 19, 054036] Published Wed May 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054036",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 1276,
+          "wordCount": 1302,
           "title": "Integrated Hybrid Plasmonic-Photonic Device for All-Optical Switching and Reading of Spintronic Memory",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054036.png"
         },
@@ -481,7 +521,7 @@
           "description": "Author(s): Yu-Hao Deng, Si-Qiu Gong, Yi-Chao Gu, Zhi-Jiong Zhang, Hua-Liang Liu, Hao Su, Hao-Yang Tang, Jia-Min Xu, Meng-Hao Jia, Ming-Cheng Chen, Han-Sen Zhong, Hui Wang, Jiarong Yan, Yi Hu, Jia Huang, Wei-Jun Zhang, Hao Li, Xiao Jiang, Lixing You, Zhen Wang, Li Li, Nai-Le Liu, Chao-Yang Lu, and Jian-Wei Pan\nA quantum photonic device can perform some real-world tasks more efficiently than classical computers.\n\n[Phys. Rev. Lett. 130, 190601] Published Tue May 09, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.190601",
           "publishedOn": "2023-05-09T10:00:00.000Z",
-          "wordCount": 1887,
+          "wordCount": 1913,
           "title": "Solving Graph Problems Using Gaussian Boson Sampling",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.190601.png"
         },
@@ -491,7 +531,7 @@
           "description": "Author(s): Jiajun Li, Markus Müller, Aaram J. Kim, Andreas M. Läuchli, and Philipp Werner\nNumerical simulations based on dynamical mean field theory and exact diagonalization demonstrate that photodoping can induce a chiral superconducting phase in Mott insulators on geometrically frustrated lattices. This metastable phase features a phase twist between lattice sites, which breaks both time-reversal and inversion symmetry. Under an external electric pulse, the chiral superconducting state can exhibit a second-order supercurrent perpendicular to the field, similar to a nonlinear anomalous Hall effect.\n\n[Phys. Rev. B 107, 205115] Published Tue May 09, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.205115",
           "publishedOn": "2023-05-09T10:00:00.000Z",
-          "wordCount": 1830,
+          "wordCount": 1856,
           "title": "Twisted chiral superconductivity in photodoped frustrated Mott insulators",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.205115.png"
         },
@@ -501,7 +541,7 @@
           "description": "Author(s): Haiyan Fan, He Gao, Tuo Liu, Shuowei An, Xianghong Kong, Guoqiang Xu, Jie Zhu, Cheng-Wei Qiu, and Zhongqing Su\nRecent explorations show that the non-Hermiticity, associated with loss and/or gain, can play a surprisingly significant role in topological insulators, where the topological states can only penetrate the bulk structure if the topological phase changes in the interior. In this work, by introducing non-Hermiticity into an acoustic quadrupole topological insulator, the authors show experimentally that the topological corner and edge states could be engineered at any desired positions without a topological phase transition, making the bulk sites useful.\n\n[Phys. Rev. B 107, L201108] Published Tue May 09, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L201108",
           "publishedOn": "2023-05-09T10:00:00.000Z",
-          "wordCount": 1217,
+          "wordCount": 1243,
           "title": "Reconfigurable topological modes in acoustic non-Hermitian crystals",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L201108.png"
         },
@@ -511,7 +551,7 @@
           "description": "Author(s): Han Liu, Xueqin Huang, Mou Yan, Jiuyang Lu, Weiyin Deng, and Zhengyou Liu\nLong-range couplings beyond the nearest neighbors can trigger exotic topological phases in metamaterials but have been overlooked in many topological models. The authors study the effect of the long-range couplings on the topological properties, and demonstrate that a Su-Schrieffer-Heeger model including the third nearest coupling, implemented by acoustic metamaterials, can lead to topological phases of large winding numbers. The experimental results show additional topological end states and rotonlike dispersions for sound waves, highlighting the potential of these long-range metamaterials in creating rich topological features.\n\n[Phys. Rev. Applied 19, 054028] Published Tue May 09, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054028",
           "publishedOn": "2023-05-09T10:00:00.000Z",
-          "wordCount": 1091,
+          "wordCount": 1116,
           "title": "Acoustic Topological Metamaterials of Large Winding Number",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054028.png"
         },
@@ -521,7 +561,7 @@
           "description": "Author(s): F. Claude, M. J. Jacquet, I. Carusotto, Q. Glorieux, E. Giacobino, and A. Bramati\nThe phenomenology of superfluids and Bose-Einstein condensates is generally understood in terms of quantum hydrodynamics, which depend on the dispersion of the collective excitation modes in the quantum fluid. Here, via the implementation of a high-resolution spectroscopy technique, the authors highlight the peculiarities of collective excitations of a polariton superfluid and reveal a wealth of phenomena intrinsically linked to the light-matter and driven-dissipative nature of their system, such as the observation of a ghost branch highlighted in red in the image.\n\n[Phys. Rev. B 107, 174507] Published Mon May 08, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174507",
           "publishedOn": "2023-05-08T10:00:00.000Z",
-          "wordCount": 1719,
+          "wordCount": 1745,
           "title": "Spectrum of collective excitations of a quantum fluid of polaritons",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174507.png"
         },
@@ -531,7 +571,7 @@
           "description": "Author(s): Mathieu Lizée, Matthias Stosiek, Igor Burmistrov, Tristan Cren, and Christophe Brun\nCould disorder enhance superconductivity? Close to the Anderson transition, electronic wave functions show a peculiar multifractal structure, predicted to enhance Cooper pairing. Here, the authors probe the weak disorder limit using an atomic monolayer of lead with high-resolution scanning tunneling spectroscopy. They show that mesoscopic spatial fluctuations of the electronic density of states indicate coherent diffusion of electrons. They use these energy-dependent fluctuations to reveal tiny energy gap fluctuations and to extract the elastic mean free path, dephasing length, as theoretically expected.\n\n[Phys. Rev. B 107, 174508] Published Mon May 08, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174508",
           "publishedOn": "2023-05-08T10:00:00.000Z",
-          "wordCount": 1689,
+          "wordCount": 1715,
           "title": "Local density of states fluctuations in a two-dimensional superconductor as a probe of quantum diffusion",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174508.png"
         },
@@ -541,7 +581,7 @@
           "description": "Author(s): M. Hinderling, D. Sabonis, S. Paredes, D.Z. Haxell, M. Coraiola, S.C. ten Kate, E. Cheah, F. Krizek, R. Schott, W. Wegscheider, and F. Nichele\nMeasurement and coherent manipulation of Andreev bound states (ABSs) in planar superconductor-semiconductor heterostructures could enable gate-controllable, small-footprint superconducting spin qubits with long coherence times. So far, readout capabilities and device coherence have been limited by lossy III−V substrates, but here researchers overcome this limitation with a flip-chip approach to microwave experiments on ABSs. Superconductor-semiconductor devices and microwave resonators are placed on different chips and inductively coupled via a vacuum gap, enabling high-quality readout without sacrificing device properties.\n\n[Phys. Rev. Applied 19, 054026] Published Mon May 08, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054026",
           "publishedOn": "2023-05-08T10:00:00.000Z",
-          "wordCount": 3338,
+          "wordCount": 3364,
           "title": "Flip-Chip-Based Microwave Spectroscopy of Andreev Bound States in a Planar Josephson Junction",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054026.png"
         },
@@ -551,7 +591,7 @@
           "description": "Author(s): Malte Schlosser, Sascha Tichelmann, Dominik Schäffner, Daniel Ohl de Mello, Moritz Hambach, Jan Schütz, and Gerhard Birkl\nUsing lasers, researchers have trapped thousands of atoms in a new kind of 3D lattice that could eventually serve as a quantum computing platform.\n\n[Phys. Rev. Lett. 130, 180601] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.180601",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 1353,
+          "wordCount": 1379,
           "title": "Scalable Multilayer Architecture of Assembled Single-Atom Qubit Arrays in a Three-Dimensional Talbot Tweezer Lattice",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.180601.png"
         },
@@ -561,7 +601,7 @@
           "description": "Author(s): Tobias Heldt, Jonathan Dubois, Paul Birk, Gergana D. Borisova, Gabriel M. Lando, Christian Ott, and Thomas Pfeifer\nA new experiment follows the trajectories of electrons as pulsed laser light yanks them away from their atoms and slams them back.\n\n[Phys. Rev. Lett. 130, 183201] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.183201",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 1421,
+          "wordCount": 1447,
           "title": "Attosecond Real-Time Observation of Recolliding Electron Trajectories in Helium at Low Laser Intensities",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.183201.png"
         },
@@ -571,7 +611,7 @@
           "description": "Author(s): Armin Kianfar, Mario Di Renzo, Christopher Williams, Ahmed Elnahhas, and Perry L. Johnson\nAngular momentum and moment of total enthalpy integral (AMI and MTEI) equations provide a quantitative mapping between flow phenomena such as turbulence on skin friction and surface heat flux for high-speed boundary layers relative to laminar flows. Using the AMI equation, the effect of edge Mach number (Ma) and wall-cooling are measured on the turbulent torque that enhances the skin friction coefficient. Moreover, the AMI equation introduces stress-weighted density that yields a more robust collapse of the dataset with different configurations. The MTEI equation distinguishes the impact of Ma and wall-cooling on the turbulent flux of mean kinetic energy and enthalpy, respectively.\n\n[Phys. Rev. Fluids 8, 054603] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.054603",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 1830,
+          "wordCount": 1856,
           "title": "Angular momentum and moment of total enthalpy integral equations for high-speed boundary layers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.054603.png"
         },
@@ -581,7 +621,7 @@
           "description": "Author(s): Hunter Boswell, Guirong Yan, and Wouter Mostert\nWhile understanding breaking waves is crucial for the development of parameterizations used in modeling ocean and climate, the complete description of wave breaking is not well understood. We present direct numerical simulations of two-dimensional solitary waves that break on a uniform beach in shallow water, including storm surge represented by an inshore region.\n\n[Phys. Rev. Fluids 8, 054801] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.054801",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 1486,
+          "wordCount": 1512,
           "title": "Characterizing energy dissipation of shallow-water wave breaking in a storm surge",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.054801.png"
         },
@@ -591,7 +631,7 @@
           "description": "Author(s): G. Aad et al. (ATLAS Collaboration\n)\nIn ultrarelativistic heavy-ion collisions the Lorentz-contracted electromagnetic fields of the nuclei are a source of high-energy quasireal photons which can produce muon pairs via the process γ+γ→μ++μ−. In hadronic Pb+Pb collisions the two leptons in the final state provide a sensitive probe of the quark-gluon plasma created in the Pb+Pb collision or the strong magnetic fields that the plasma generates. This work presents new measurements by the ATLAS collaboration at the LHC of the Pb+Pb collision centrality dependence of the angular decorrelation of muon pairs created via the γγ process. Comparisons of the results to theoretical calculations suggest that the observed decorrelation in more central collisions results from an initial-state broadening of the photon transverse momenta and not from the interaction of the muons with the plasma or its magnetic field.\n\n[Phys. Rev. C 107, 054907] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.054907",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 2516,
+          "wordCount": 2542,
           "title": "Measurement of muon pairs produced via $γγ$ scattering in nonultraperipheral $\\mathrm{Pb}+\\mathrm{Pb}$ collisions at $\\sqrt{{s}_{NN}}=5.02$ TeV with the ATLAS detector",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.054907.png"
         },
@@ -601,7 +641,7 @@
           "description": "Author(s): D. Flavián, J. Nagl, S. Hayashida, M. Yan, O. Zaharko, T. Fennell, D. Khalyavin, Z. Yan, S. Gvasaliya, and A. Zheludev\nThe newly discovered Nd3BWO9 is a rare instance of a disorder-free magnet with an exchange topology interpolating between 2D kagome and 1D spin tubes. In this study, an array of measurements reveals its exotic phase diagram. The complex frustration mechanism results in several ordered phases, including two different, typically two-dimensional 1/3- magnetization plateaux. Meanwhile, one-dimensional tube correlations are unequivocally identified by signatures in both thermodynamic and microscopic probes.\n\n[Phys. Rev. B 107, 174406] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174406",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 1850,
+          "wordCount": 1876,
           "title": "Magnetic phase diagram of the breathing-kagome antiferromagnet ${\\mathrm{Nd}}_{3}{\\mathrm{BWO}}_{9}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174406.png"
         },
@@ -611,7 +651,7 @@
           "description": "Author(s): M. Volkov, S. A. Sato, A. Niedermayr, A. Rubio, L. Gallmann, and U. Keller\nComplex nonadiabatic dynamics are observed when the quiver energy of an electron-hole pair in a strong laser field becomes comparable to the photon energy. Here, the authors extend quasistatic electromodulation spectroscopy based on the Franz-Keldysh effect to this regime and show that in this limit it is governed by resonant transitions between Floquet-Bloch states. This regime opens opportunities to probe the effective mass as well as the ponderomotive and binding energies of the electron-hole pair on the attosecond timescale.\n\n[Phys. Rev. B 107, 184304] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.184304",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 2092,
+          "wordCount": 2118,
           "title": "Floquet-Bloch resonances in near-petahertz electroabsorption spectroscopy of ${\\mathrm{SiO}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.184304.png"
         },
@@ -621,7 +661,7 @@
           "description": "Author(s): Jean-Yves Desaules, Ana Hudomal, Debasish Banerjee, Arnab Sen, Zlatko Papić, and Jad C. Halimeh\nQuantum many-body scars (QMBSs) are a paradigm of weak ergodicity breaking with direct technological applications. The authors show that QMBSs are ubiquitous in quantum link formulations of gauge theories, opening the door to a large venue of models where QMBSs can be explored. They demonstrate that QMBSs are not an artifact of these quantum link formulations, rather, they may be an inherent feature of the ideal gauge theory itself.\n\n[Phys. Rev. B 107, 205112] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.205112",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 2244,
+          "wordCount": 2270,
           "title": "Prominent quantum many-body scars in a truncated Schwinger model",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.205112.png"
         },
@@ -631,7 +671,7 @@
           "description": "Author(s): Nathan R. Gemmell, Jefferson Flórez, Emma Pearce, Olaf Czerwinski, Chris C. Phillips, Rupert F. Oulton, and Alex S. Clark\nSensing with undetected photons is a fascinating technique that allows imaging at wavelengths outside a particular detector’s range—enabling, for example, biological imaging without perturbing live cells. In this interference technique, performance can be very sensitive to both sample transmission and losses. This study shows that by balancing the nonlinear interferometer’s arms, one can completely recover fringe visibility caused by signal loss. Moreover, intentional unbalancing offers a reduced-interaction regime where the detected power can be 200 times higher than the power reaching the sample, for ultrasensitive midinfrared sensing well below the conventional noise floor.\n\n[Phys. Rev. Applied 19, 054019] Published Fri May 05, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054019",
           "publishedOn": "2023-05-05T10:00:00.000Z",
-          "wordCount": 1173,
+          "wordCount": 1199,
           "title": "Loss-Compensated and Enhanced Midinfrared Interaction-Free Sensing with Undetected Photons",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054019.png"
         },
@@ -641,7 +681,7 @@
           "description": "Author(s): Pavel A. Volkov, Justin H. Wilson, Kevin P. Lucht, and J. H. Pixley\nTopological superconductivity can be realized in twisted bilayers of nodal superconductors by the application of an interlayer current and is achievable with available experimental setups.\n\n[Phys. Rev. Lett. 130, 186001] Published Thu May 04, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.186001",
           "publishedOn": "2023-05-04T10:00:00.000Z",
-          "wordCount": 1073,
+          "wordCount": 1099,
           "title": "Current- and Field-Induced Topology in Twisted Nodal Superconductors",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.186001.png"
         },
@@ -651,7 +691,7 @@
           "description": "Author(s): Deng Pan and Hongxing Xu\nA proposed technique would use light and nanowires to generate electron beams with nearly pure spin polarization.\n\n[Phys. Rev. Lett. 130, 186901] Published Thu May 04, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.186901",
           "publishedOn": "2023-05-04T10:00:00.000Z",
-          "wordCount": 1163,
+          "wordCount": 1189,
           "title": "Polarizing Free Electrons in Optical Near Fields",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.186901.png"
         },
@@ -661,7 +701,7 @@
           "description": "Author(s): Pavel A. Volkov, Justin H. Wilson, Kevin P. Lucht, and J. H. Pixley\nStacking 2D materials with a twist has proven to be a successful strategy to realize exotic phases of electrons. Here, the authors apply these ideas to intrinsic 2D nodal superconductors, showing a similar degree of control over neutral Dirac quasiparticles. Their velocity is quenched close to a “magic” angle, where interactions drive a time-reversal breaking phase transition. Gating and application of current and magnetic fields are shown to allow tuning their dispersion in future experiments and to open topological gaps.\n\n[Phys. Rev. B 107, 174506] Published Thu May 04, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.174506",
           "publishedOn": "2023-05-04T10:00:00.000Z",
-          "wordCount": 1519,
+          "wordCount": 1545,
           "title": "Magic angles and correlations in twisted nodal superconductors",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.174506.png"
         },
@@ -671,7 +711,7 @@
           "description": "Author(s): Peng Li, Huiqing Ye, Yong Hu, Yuan Fang, Zhiguang Xiao, Zhongzheng Wu, Zhaoyang Shan, Ravi P. Singh, Geetha Balakrishnan, Dawei Shen, Yi-feng Yang, Chao Cao, Nicholas C. Plumb, Michael Smidman, Ming Shi, Johann Kroha, Huiqiu Yuan, Frank Steglich, and Yang Liu\nCompetition between magnetic order and the Kondo effect is essential for the rich physics of heavy-fermion systems, but its photoemission signature remains elusive. Here, using high-resolution resonant photoemission, the authors reveal that the intensity of the 4f quasiparticle band in CeCoGe3 exhibits a clear deviation from Kondo-like behavior around the magnetic ordering temperature. The intensity begins to saturate at lower temperatures, coinciding with a change of the magnetic structure. The results demonstrate a distinct scenario for the microscopic coexistence and competition of these phenomena.\n\n[Phys. Rev. B 107, L201104] Published Thu May 04, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L201104",
           "publishedOn": "2023-05-04T10:00:00.000Z",
-          "wordCount": 1183,
+          "wordCount": 1209,
           "title": "Photoemission signature of the competition between magnetic order and Kondo effect in ${\\mathrm{CeCoGe}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L201104.png"
         },
@@ -681,7 +721,7 @@
           "description": "Author(s): Federico Mogavero, Nam H. Hoang, and Jacques Laskar\nA new theory explains why our planets avoid collisions for far longer times than standard theories of planetary stability predict.\n\n[Phys. Rev. X 13, 021018] Published Wed May 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.021018",
           "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1996,
+          "wordCount": 2022,
           "title": "Timescales of Chaos in the Inner Solar System: Lyapunov Spectrum and Quasi-integrals of Motion",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.021018.png"
         },
@@ -691,7 +731,7 @@
           "description": "Author(s): D. Kraus et al.\nIn situ x-ray diffraction of shock-compressed plastics suggests the formation of liquid metallic hydrogen via carbon-hydrogen phase separation.\n\n[Phys. Rev. Research 5, L022023] Published Wed May 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L022023",
           "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1192,
+          "wordCount": 1218,
           "title": "Indirect evidence for elemental hydrogen in laser-compressed hydrocarbons",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.L022023.png"
         },
@@ -701,7 +741,7 @@
           "description": "Author(s): Wu Shi, Salman Kahn, Nicolas Leconte, Takashi Taniguchi, Kenji Watanabe, Michael Crommie, Jeil Jung, and Alex Zettl\nA new electron-beam doping technique achieves ultrahigh carrier densities in graphene/BN superlattices while preserving moiré features and unraveling higher-order fractal quantum oscillation features.\n\n[Phys. Rev. Lett. 130, 186204] Published Wed May 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.186204",
           "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1322,
+          "wordCount": 1348,
           "title": "High-Order Fractal Quantum Oscillations in Graphene/BN Superlattices in the Extreme Doping Limit",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.186204.png"
         },
@@ -711,7 +751,7 @@
           "description": "Author(s): Timoteo Carletti, Lorenzo Giambagli, and Ginestra Bianconi\nTopological obstruction impedes odd dimensional signals from globally synchronizing in simplicial complexes, while cell complexes can overcome this obstruction and in some structures, signals of any dimension can achieve global synchronization.\n\n[Phys. Rev. Lett. 130, 187401] Published Wed May 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.187401",
           "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 889,
+          "wordCount": 915,
           "title": "Global Topological Synchronization on Simplicial and Cell Complexes",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.187401.png"
         },
@@ -721,7 +761,7 @@
           "description": "Author(s): Omer Atasi, Mithun Ravisankar, Dominique Legendre, and Roberto Zenit\nIn this paper we explain why bubble chains are stable in champagne, but unstable in other carbonated beverages. The hydrodynamic interactions among bubbles in a chain determine its stability. The wake behind each bubble affects the subsequent ones, producing a lift force. For a clean and small bubble, the lift force is destabilizing; when surfactants are present or the bubble size exceeds a certain value, the additional vorticity production on the surface changes the structure of the wake and the sign of the lift force is reversed resulting in a stable chain.\n\n[Phys. Rev. Fluids 8, 053601] Published Wed May 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.053601",
           "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1290,
+          "wordCount": 1316,
           "title": "Presence of surfactants controls the stability of bubble chains in carbonated drinks",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.053601.png"
         },
@@ -731,7 +771,7 @@
           "description": "Author(s): Jacques Distler, Grant Elliot, Monica Jinwoo Kang, and Craig Lawrie\nA common way to construct 4D superconformal field theories (SCFTs) is to compactify the N=(2,0) 6D SCFT on a Riemann surface with a variety of punctures. One question that arises is, when are the 4D SCFTs obtained from distinct constructions isomorphic? The authors show in great detail and with a large class of examples that this happens when there exists a “parent” N=(1,0) 6D SCFT. However, there are also some “oddball” candidates of isomorphic theories without a six-dimensional origin.\n\n[Phys. Rev. D 107, 106005] Published Wed May 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.106005",
           "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1192,
+          "wordCount": 1218,
           "title": "Isomorphisms of 4D $\\mathcal{N}=2$ SCFTs from 6D",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.106005.png"
         },
@@ -741,7 +781,7 @@
           "description": "Author(s): Haipeng An, Shuailiang Ge, Wen-Qing Guo, Xiaoyuan Huang, Jia Liu, and Zhiyao Lu\nA search for rare interactions between dark photons and regular matter provides constraints on the properties of ultralight dark matter.\n\n[Phys. Rev. Lett. 130, 181001] Published Tue May 02, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.181001",
           "publishedOn": "2023-05-02T10:00:00.000Z",
-          "wordCount": 1156,
+          "wordCount": 1182,
           "title": "Direct Detection of Dark Photon Dark Matter Using Radio Telescopes",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.181001.png"
         },
@@ -751,7 +791,7 @@
           "description": "Author(s): L. Münster and M. Weigel\nPhase transitions in spin models can be described in terms of percolation by clusters of spins, but for frustrated systems such as spin glasses our understanding is not complete. The authors make progress by identifying several types of clusters in two-dimensional spin glasses that are consistent with this system’s transition at zero temperature.\n\n[Phys. Rev. E 107, 054103] Published Tue May 02, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.054103",
           "publishedOn": "2023-05-02T10:00:00.000Z",
-          "wordCount": 1936,
+          "wordCount": 1962,
           "title": "Cluster percolation in the two-dimensional Ising spin glass",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.054103.png"
         },
@@ -761,7 +801,7 @@
           "description": "Author(s): Andrei Stankevych, Rishabh Saxena, Alexander Vakhnin, Falk May, Naomi Kinaret, Denis Andrienko, Jan Genoe, Heinz Bässler, Anna Köhler, and Andrey Kadashchuk\nInjected or photogenerated charge carriers in disordered organic semiconductors relax in energy to form an occupied density of states (ODOS) that is inherently difficult to probe. Thus little is known about nonequilibrium ODOS properties, although they are important in e.g. solar cells and LEDs. This work presents an optical technique for monitoring the ODOS distribution of relaxed charge carriers at low temperatures. The distribution that forms under nonequilibrium conditions is always narrower than that of the full DOS, in a universal ratio of about 2/3 that is reproduced by kinetic Monte Carlo simulations assuming spatially correlated disorder.\n\n[Phys. Rev. Applied 19, 054007] Published Tue May 02, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054007",
           "publishedOn": "2023-05-02T10:00:00.000Z",
-          "wordCount": 1346,
+          "wordCount": 1372,
           "title": "Monitoring the Charge-Carrier-Occupied Density of States in Disordered Organic Semiconductors under Nonequilibrium Conditions Using Thermally Stimulated Luminescence Spectroscopy",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054007.png"
         },
@@ -771,7 +811,7 @@
           "description": "Author(s): Jinsheng Lu, Vincent Ginis, Cheng-Wei Qiu, and Federico Capasso\nA new model describes the range of forces and torques that light in a fiber can impart on dielectric particles nearby, even in the absence of helical light polarization.\n\n[Phys. Rev. Lett. 130, 183601] Published Mon May 01, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.183601",
           "publishedOn": "2023-05-01T10:00:00.000Z",
-          "wordCount": 1254,
+          "wordCount": 1280,
           "title": "Polarization-Dependent Forces and Torques at Resonance in a Microfiber-Microcavity System",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.183601.png"
         },
@@ -781,7 +821,7 @@
           "description": "Author(s): Dominik Kiesenhofer, Helene Hainzer, Artem Zhdanov, Philip C. Holz, Matthias Bock, Tuomas Ollikainen, and Christian F. Roos\nStationary, 2D ion crystals of more than 100 ions are carefully characterized and cooled to near the ground state, paving the way for new quantum simulations with long-range interactions.\n\n[PRX Quantum 4, 020317] Published Fri Apr 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.020317",
           "publishedOn": "2023-04-28T10:00:00.000Z",
-          "wordCount": 2115,
+          "wordCount": 2141,
           "title": "Controlling Two-Dimensional Coulomb Crystals of More Than 100 Ions in a Monolithic Radio-Frequency Trap",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.020317.png"
         },
@@ -791,7 +831,7 @@
           "description": "Author(s): I. Arnquist et al. (DAMIC-M Collaboration)\nWorld-leading constraints are placed on electron interactions with dark matter in the MeV to GeV range by the first underground operation of a new CCD detector.\n\n[Phys. Rev. Lett. 130, 171003] Published Fri Apr 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.171003",
           "publishedOn": "2023-04-28T10:00:00.000Z",
-          "wordCount": 1029,
+          "wordCount": 1055,
           "title": "First Constraints from DAMIC-M on Sub-GeV Dark-Matter Particles Interacting with Electrons",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.171003.png"
         },
@@ -801,7 +841,7 @@
           "description": "Author(s): Alireza Hooshanginejad, Timothy Sheppard, Purui Xu, Janeth Manyalla, John Jaicks, Ehsan Esmaili, and Sunghwan Jung\nOur work investigates cleaning surfaces coated with protein solutions or bacterial biofilms using continuous collisions and sliding air bubbles in an aqueous medium. Air bubbles between 0.5-1 mm in radius perform best when tilted at 20-25 degrees with respect to the horizontal plane. Based on our model, the interplay between the steady sliding speed and the steady film thickness between the bubble and the surface yields the best cleaning at 22.5 degrees. The technique offers a safe and environmentally friendly way of cleaning fresh agricultural produce without damaging it or reducing its freshness period.\n\n[Phys. Rev. Fluids 8, 043602] Published Fri Apr 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.043602",
           "publishedOn": "2023-04-28T10:00:00.000Z",
-          "wordCount": 1518,
+          "wordCount": 1544,
           "title": "Effect of angle in removing proteins or bacteria on a tilted surface using air bubbles",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.043602.png"
         },
@@ -811,7 +851,7 @@
           "description": "Author(s): C. Frosin et al. (INDRA-FAZIA Collaboration)\nHigh-energy collisions result in the formation of clusters of neutrons and protons inside atomic nuclei and in the emission of energetic ions.\n\n[Phys. Rev. C 107, 044614] Published Fri Apr 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.044614",
           "publishedOn": "2023-04-28T10:00:00.000Z",
-          "wordCount": 1458,
+          "wordCount": 1484,
           "title": "Examination of cluster production in excited light systems at Fermi energies from new experimental data and comparison with transport model calculations",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.044614.png"
         },
@@ -821,7 +861,7 @@
           "description": "Author(s): Cui-Xian Guo, Xueliang Wang, Haiping Hu, and Shu Chen\nSystems with local non-Hermiticity are beyond the scope of both Bloch and non-Bloch band descriptions. Here, the authors establish a new paradigm for such systems: the emergence of scale-free localized states induced by local non-Hermiticity. They demonstrate that the scale-free localization is a generic phenomenon, regardless of the parity-time symmetry, the eigenstates’ coalescence, or even the incommensurate disorder. The results also indicate that the bulk properties of the original Hermitian systems can be globally reshaped by local non-Hermiticity.\n\n[Phys. Rev. B 107, 134121] Published Fri Apr 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.134121",
           "publishedOn": "2023-04-28T10:00:00.000Z",
-          "wordCount": 1552,
+          "wordCount": 1578,
           "title": "Accumulation of scale-free localized states induced by local non-Hermiticity",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.134121.png"
         },
@@ -831,7 +871,7 @@
           "description": "Author(s): Sean E. Sullivan, Hwijong Lee, Annie Weathers, and Li Shi\nRecent theories have predicted a magnonic unidirectional magnetoresistance (UMR) for a heavy metal on a magnetic insulator due to a nonlinear interfacial spin current. The authors show here that the spin Peltier heat flux carried by the interfacial spin current can cause a much larger UMR than the prediction. Their analytical model reveals how the observed frequency-dependent spin Peltier magnetoresistance and spin Seebeck effect are controlled by the magnon spin and energy relaxation lengths and the thermal penetration depth.\n\n[Phys. Rev. B 107, L140412] Published Fri Apr 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L140412",
           "publishedOn": "2023-04-28T10:00:00.000Z",
-          "wordCount": 1169,
+          "wordCount": 1195,
           "title": "Frequency-dependent phonon-mediated unidirectional magnetoresistance in a metal on an insulator with highly nonequilibrium magnons",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L140412.png"
         },
@@ -841,7 +881,7 @@
           "description": "Author(s): Marco Colangelo et al.\nSuperconducting nanowire single-photon detectors (SNSPDs) are the highest-performance photon-counting technology in the near infrared, but traditional designs typically trade off between timing resolution and detection efficiency. The authors utilize transmission-line engineering and differential readout to achieve a design with high detection efficiency and low jitter simultaneously. This design also enables imaging capabilities and photon-number resolution, and is compatible with commercial time taggers. The device is a versatile solution for photon counting in various applications, including quantum computing, quantum communication, biomedicine, and ranging.\n\n[Phys. Rev. Applied 19, 044093] Published Fri Apr 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.044093",
           "publishedOn": "2023-04-28T10:00:00.000Z",
-          "wordCount": 1665,
+          "wordCount": 1691,
           "title": "Impedance-Matched Differential Superconducting Nanowire Detectors",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.044093.png"
         },
@@ -851,7 +891,7 @@
           "description": "Author(s): Louise Terrien, Benjamin Favier, and Edgar Knobloch\nExtensive model calculations and numerical simulations show that undesirable vertical modes of turbulent heat flow near the inner walls of a rapidly rotating Rayleigh-Benard cell can be eliminated by the introduction of narrow horizontal channels.\n\n[Phys. Rev. Lett. 130, 174002] Published Thu Apr 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.174002",
           "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 1071,
+          "wordCount": 1097,
           "title": "Suppression of Wall Modes in Rapidly Rotating Rayleigh-Bénard Convection by Narrow Horizontal Fins",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.174002.png"
         },
@@ -861,7 +901,7 @@
           "description": "Author(s): Sergey Trishin, Christian Lotze, Friedemann Lohss, Giada Franceschi, Leonid I. Glazman, Felix von Oppen, and Katharina J. Franke\nA moiré pattern enables tuning of exchange coupling of Mn atoms with the substrate (a monolayer of MoS2 on gold), providing a new experimental signature of Kondo screening.\n\n[Phys. Rev. Lett. 130, 176201] Published Thu Apr 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.176201",
           "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 1282,
+          "wordCount": 1308,
           "title": "Tuning a Two-Impurity Kondo System by a Moiré Superstructure",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.176201.png"
         },
@@ -871,7 +911,7 @@
           "description": "Author(s): Matthew P. Leighton and David A. Sivak\nMachines that consist of two coupled biomolecules trade thermodynamic efficiency for operating speed.\n\n[Phys. Rev. Lett. 130, 178401] Published Thu Apr 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.178401",
           "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 898,
+          "wordCount": 924,
           "title": "Inferring Subsystem Efficiencies in Bipartite Molecular Machines",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.178401.png"
         },
@@ -881,7 +921,7 @@
           "description": "Author(s): Rahul Dandekar, P. L. Krapivsky, and Kirone Mallick\nThis article studies the dynamical properties of single-file Brownian particles interacting via a Riesz potential. The authors observe an anomalous scaling of the fluctuations of the current and the position of the particles with time when the interaction is long ranged, and a subdiffusive behavior for particles with short-range interactions that is reminiscent of fractional Brownian motion.\n\n[Phys. Rev. E 107, 044129] Published Thu Apr 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.044129",
           "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 641,
+          "wordCount": 667,
           "title": "Dynamical fluctuations in the Riesz gas",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.044129.png"
         },
@@ -891,7 +931,7 @@
           "description": "Author(s): Steffen Backes, Yuta Murakami, Shiro Sakai, and Ryotaro Arita\nUtilizing quantum computers for real materials calculations is highly promising, but hinges on qubit fidelity and fault-tolerant quantum algorithms. Here, the authors show that a representative model for real materials, the Hubbard-Holstein model, which describes interacting electrons on a lattice coupled to bosonic degrees of freedom, can be reliably investigated using today’s Quantum processors. Adapting state-of-the-art mathematical tools is shown to be critical to overcome limitations imposed by the noise level of current quantum computing devices.\n\n[Phys. Rev. B 107, 165155] Published Thu Apr 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.165155",
           "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 1283,
+          "wordCount": 1309,
           "title": "Dynamical mean-field theory for the Hubbard-Holstein model on a quantum device",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.165155.png"
         },
@@ -901,7 +941,7 @@
           "description": "Author(s): Lev Arzamasskiy, Matthew W. Kunz, Jonathan Squire, Eliot Quataert, and Alexander A. Schekochihin\nNew computer simulations show that wave-particle interactions endow thin plasmas with an effective viscosity that regulates their turbulent motions and heating.\n\n[Phys. Rev. X 13, 021014] Published Wed Apr 26, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.021014",
           "publishedOn": "2023-04-26T10:00:00.000Z",
-          "wordCount": 3115,
+          "wordCount": 3141,
           "title": "Kinetic Turbulence in Collisionless High-$β$ Plasmas",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.021014.png"
         },
@@ -911,7 +951,7 @@
           "description": "Author(s): Dong-min Kim, Sinwoo Choi, Jungwan Cho, Mikyung Lim, and Bong Jae Lee\nA new observation of heat transport by surface waves involving electrons could lead to improved cooling strategies for microscale electronic components.\n\n[Phys. Rev. Lett. 130, 176302] Published Wed Apr 26, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.176302",
           "publishedOn": "2023-04-26T10:00:00.000Z",
-          "wordCount": 1051,
+          "wordCount": 1077,
           "title": "Boosting Thermal Conductivity by Surface Plasmon Polaritons Propagating along a Thin Ti Film",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.176302.png"
         },
@@ -921,7 +961,7 @@
           "description": "Author(s): Ryo Takeuchi, Farid Labib, Takafumi Tsugawa, Yuto Akai, Asuka Ishikawa, Shintaro Suzuki, Takenori Fujii, and Ryuji Tamura\nA ferromagnetic icosahedral quasicrystal with high-phase purity and a large single-phase region provides a medium in which to realize easy rotation of magnetic moments.\n\n[Phys. Rev. Lett. 130, 176701] Published Wed Apr 26, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.176701",
           "publishedOn": "2023-04-26T10:00:00.000Z",
-          "wordCount": 1081,
+          "wordCount": 1107,
           "title": "High Phase-Purity and Composition-Tunable Ferromagnetic Icosahedral Quasicrystal",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.176701.png"
         },
@@ -931,7 +971,7 @@
           "description": "Author(s): Daniel Castro and Hillel Aharoni\nMaterials that stretch on demand often bend in undesired directions, but a new theoretical model can produce stress-free designs that change shape without buckling.\n\n[Phys. Rev. Lett. 130, 178101] Published Wed Apr 26, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.178101",
           "publishedOn": "2023-04-26T10:00:00.000Z",
-          "wordCount": 914,
+          "wordCount": 940,
           "title": "Shape Morphing of Planar Liquid Crystal Elastomers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.178101.png"
         },
@@ -941,7 +981,7 @@
           "description": "Author(s): Markus Dierigl, Jonathan J. Heckman, Miguel Montero, and Ethan Torres\nThe authors argue for the existence of a new object in string theory which they dub Reflection 7-Branes (R7-branes). The so-called cobordism conjecture, which is analogous to the conjecture that quantum gravity does not allow for global symmetries, implies that these objects are present in certain type IIB backgrounds, as the authors demonstrate. It is shown that these R7-branes are non-supersymmetric, strings can end on them, and a 3-form field lives on its worldvolume.\n\n[Phys. Rev. D 107, 086015] Published Wed Apr 26, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.086015",
           "publishedOn": "2023-04-26T10:00:00.000Z",
-          "wordCount": 1026,
+          "wordCount": 1052,
           "title": "IIB string theory explored: Reflection 7-branes",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.086015.png"
         },
@@ -951,7 +991,7 @@
           "description": "Author(s): Steffi Y. Woo, Alberto Zobelli, Robert Schneider, Ashish Arora, Johann A. Preuß, Benjamin J. Carey, Steffen Michaelis de Vasconcellos, Maurizia Palummo, Rudolf Bratschitsch, and Luiz H. G. Tizei\nThe excitonic response in twisted bilayer WSe2 as a function of the moiré angle has been investigated using electron energy loss spectroscopy under cryogenic conditions, and interpreted on the basis of first-principles calculations of the dielectric response of the AA′ stacked bilayer WSe2 relative to monolayer WSe2. This work provides valuable insight into the physical origins of high-energy absorption resonances in twisted bilayers, where the tuning of the excitonic peak C transitions is an effective indicator of the interlayer coupling.\n\n[Phys. Rev. B 107, 155429] Published Wed Apr 26, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.155429",
           "publishedOn": "2023-04-26T10:00:00.000Z",
-          "wordCount": 1426,
+          "wordCount": 1452,
           "title": "Excitonic absorption signatures of twisted bilayer ${\\mathrm{WSe}}_{2}$ by electron energy-loss spectroscopy",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.155429.png"
         },
@@ -961,49 +1001,9 @@
           "description": "Author(s): C. Martin, V. A. Martinez, M. Opačić, S. Djurdjić-Mijin, P. Mitrić, A. Umićević, A. Poudel, I. Sydoryk, Weijun Ren, R. M. Martin, D. B. Tanner, N. Lazarević, C. Petrovic, and D. Tanasković\nThe authors perform optical, Raman, and Mössbauer spectroscopy measurements of the narrow-gap semiconductor FeGa3, along with DFT band structure and vibrational frequencies calculation. The results indicate that the spectral weight below the charge gap of approximately 0.4 eV originates from the impurities and not from the correlation effects. Both the infrared and Raman lines are very narrow, and so too are the Mössbauer spectral lines, which implies a good crystallinity of the sample.\n\n[Phys. Rev. B 107, 165151] Published Wed Apr 26, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.165151",
           "publishedOn": "2023-04-26T10:00:00.000Z",
-          "wordCount": 1091,
+          "wordCount": 1117,
           "title": "Optical conductivity and vibrational spectra of the narrow-gap semiconductor ${\\mathrm{FeGa}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.165151.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.L041002",
-          "author": "Mohamed Farhat, Pai-Yen Chen, and Ying Wu",
-          "description": "Author(s): Mohamed Farhat, Pai-Yen Chen, and Ying Wu\nAlthough optical fiber has revolutionized modern life, creating a corresponding fiber as a waveguide for airborne sound has proven difficult, due to the scarcity of high-index acoustic materials. In this study the authors utilize spinning of the air inside a metamaterial tube to create an acoustic fiber. Their simulations demonstrate nonreciprocal propagation resulting from the acoustic equivalent of the Zeeman effect, which leads to robust waveguiding in the proposed fiber. This contribution may open avenues for studying the physics of acoustic vortex beams and nonreciprocal phenomena.\n\n[Phys. Rev. Applied 19, L041002] Published Wed Apr 26, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.L041002",
-          "publishedOn": "2023-04-26T10:00:00.000Z",
-          "wordCount": 1116,
-          "title": "Sound Waveguiding by Spinning: An Avenue toward Unidirectional Acoustic Spinning Fibers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.L041002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.178202",
-          "author": "Ellen Zheng, Martin Brandenbourger, Louis Robinet, Peter Schall, Edan Lerner, and Corentin Coulais",
-          "description": "Author(s): Ellen Zheng, Martin Brandenbourger, Louis Robinet, Peter Schall, Edan Lerner, and Corentin Coulais\nA centimeter-sized model system for one-dimensional elastoactive structures show that such structures exhibit flagellar motion when pinned at one end, self-snapping when pinned at two ends, and synchronization when coupled together with a sufficiently stiff link.\n\n[Phys. Rev. Lett. 130, 178202] Published Tue Apr 25, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.178202",
-          "publishedOn": "2023-04-25T10:00:00.000Z",
-          "wordCount": 1304,
-          "title": "Self-Oscillation and Synchronization Transitions in Elastoactive Structures",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.178202.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.084042",
-          "author": "Pierre Heidmann, Ibrahima Bah, and Emanuele Berti",
-          "description": "Author(s): Pierre Heidmann, Ibrahima Bah, and Emanuele Berti\nThe authors study photon geodesics in the gravitational background generated by smooth horizonless topological solitons with the same large distance behaviour as neutral non-rotating black holes. They show that incoming photons experience very high redshift, inducing phenomenological horizon-like behaviors from the point of view of photon scattering. Thus, they provide a compelling case for real-world gravitational solitons and topological alternatives to black holes.\n\n[Phys. Rev. D 107, 084042] Published Tue Apr 25, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.084042",
-          "publishedOn": "2023-04-25T10:00:00.000Z",
-          "wordCount": 1086,
-          "title": "Imaging topological solitons: The microstructure behind the shadow",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.084042.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.134115",
-          "author": "Martin Ottesen, Emma Ehrenreich-Petersen, Camilla Hjort Kronbo, François Baudelet, Lucie Nataf, Innokenty Kantor, Mads Ry Vogel Jørgensen, and Martin Bremholm",
-          "description": "Author(s): Martin Ottesen, Emma Ehrenreich-Petersen, Camilla Hjort Kronbo, François Baudelet, Lucie Nataf, Innokenty Kantor, Mads Ry Vogel Jørgensen, and Martin Bremholm\nThe improper ferroelectricity and frustrated magnetism observed in hexagonal rare-earth manganites are tied to Mn trimerization in the basal plane. Multiferroic properties interplay via the lattice leading to complex structural behavior with temperature and pressure. Applying hydrostatic pressure to hexagonal HoMnO3 induces a phase transition to a rhombohedrally distorted superstructure, accompanied by disproportionation of Mn(III) and compressibility of the basal plane. These findings reveal new insights into multiferroic manganites under extreme conditions, highlighting the complicated interactions between their properties.\n\n[Phys. Rev. B 107, 134115] Published Tue Apr 25, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.134115",
-          "publishedOn": "2023-04-25T10:00:00.000Z",
-          "wordCount": 1133,
-          "title": "Pressure-induced charge-transfer and structural transition in hexagonal multiferroic ${\\mathrm{HoMnO}}_{3}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.134115.png"
         }
       ]
     }
