@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.216001",
+          "author": "C. D. Brown, Y. Wang, M. Namazi, G. I. Harris, M. T. Uysal, and J. G. E. Harris",
+          "description": "Author(s): C. D. Brown, Y. Wang, M. Namazi, G. I. Harris, M. T. Uysal, and J. G. E. Harris\nMillimeter-scale drops of superfluid liquid helium can be trapped indefinitely in high vacuum.\n\n[Phys. Rev. Lett. 130, 216001] Published Wed May 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.216001",
+          "publishedOn": "2023-05-24T10:00:00.000Z",
+          "wordCount": 1034,
+          "title": "Superfluid Helium Drops Levitated in High Vacuum",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.216001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.218202",
+          "author": "Davide Riccobelli, Hedar H. Al-Terke, Päivi Laaksonen, Pierangelo Metrangolo, Arja Paananen, Robin H. A. Ras, Pasquale Ciarletta, and Dominic Vella",
+          "description": "Author(s): Davide Riccobelli, Hedar H. Al-Terke, Päivi Laaksonen, Pierangelo Metrangolo, Arja Paananen, Robin H. A. Ras, Pasquale Ciarletta, and Dominic Vella\nWhether sitting or hanging, the surface of a protein-containing droplet changes as the water escapes, an effect researchers link to the pull of gravity.\n\n[Phys. Rev. Lett. 130, 218202] Published Wed May 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.218202",
+          "publishedOn": "2023-05-24T10:00:00.000Z",
+          "wordCount": 1430,
+          "title": "Flattened and Wrinkled Encapsulated Droplets: Shape Morphing Induced by Gravity and Evaporation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.218202.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.103045",
+          "author": "D. Ehlert, F. Oikonomou, and M. Unger",
+          "description": "Author(s): D. Ehlert, F. Oikonomou, and M. Unger\nModels of sources of ultra high energy cosmic rays (UHECR)s usually assume that these sources, despite significant variability between them, accelerate particles to the same maximum energy. Here, the authors improve on this assumption by assigning their array of sources a broken-power-law distribution of the maximum energies. They observe that a power law distribution necessitates that the source to source variation be small.\n\n[Phys. Rev. D 107, 103045] Published Wed May 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.103045",
+          "publishedOn": "2023-05-24T10:00:00.000Z",
+          "wordCount": 1647,
+          "title": "Curious case of the maximum rigidity distribution of cosmic-ray accelerators",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.103045.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054077",
+          "author": "Joshua Ziegler, Florian Luthi, Mick Ramsey, Felix Borjans, Guoji Zheng, and Justyna P. Zwolak",
+          "description": "Author(s): Joshua Ziegler, Florian Luthi, Mick Ramsey, Felix Borjans, Guoji Zheng, and Justyna P. Zwolak\nSingle electrons trapped on semiconductor-defined quantum dots (QDs) are a promising platform for large-scale quantum computing. The authors demonstrate a reliable, automated method to identify the capacitive coupling between QDs. The approach combines machine learning with traditional fitting, to take advantage of the desirable properties of each. Also, analysis of cross capacitance may be used for automatic identification of the spurious QDs that occasionally form during device tuning. These techniques can autonomously flag devices with spurious dots near the operating regime, which is crucial information for reliable tuning for qubit operations.\n\n[Phys. Rev. Applied 19, 054077] Published Wed May 24, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054077",
+          "publishedOn": "2023-05-24T10:00:00.000Z",
+          "wordCount": 1297,
+          "title": "Automated Extraction of Capacitive Coupling for Quantum Dot Systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054077.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.215001",
           "author": "Xinzhe Zhu, Boyuan Li, Feng Liu, Jianlong Li, Zewu Bi, Xulei Ge, Hongyang Deng, Ziyang Zhang, Peilin Cui, Lin Lu, Wenchao Yan, Xiaohui Yuan, Liming Chen, Qiang Cao, Zhenyu Liu, Zhengming Sheng, Min Chen, and Jie Zhang",
           "description": "Author(s): Xinzhe Zhu, Boyuan Li, Feng Liu, Jianlong Li, Zewu Bi, Xulei Ge, Hongyang Deng, Ziyang Zhang, Peilin Cui, Lin Lu, Wenchao Yan, Xiaohui Yuan, Liming Chen, Qiang Cao, Zhenyu Liu, Zhengming Sheng, Min Chen, and Jie Zhang\nA curved “laser wakefield accelerator” could boost the acceleration potential of a multistage version of this device.\n\n[Phys. Rev. Lett. 130, 215001] Published Tue May 23, 2023",
@@ -964,46 +1004,6 @@
           "wordCount": 1097,
           "title": "Suppression of Wall Modes in Rapidly Rotating Rayleigh-Bénard Convection by Narrow Horizontal Fins",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.174002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.176201",
-          "author": "Sergey Trishin, Christian Lotze, Friedemann Lohss, Giada Franceschi, Leonid I. Glazman, Felix von Oppen, and Katharina J. Franke",
-          "description": "Author(s): Sergey Trishin, Christian Lotze, Friedemann Lohss, Giada Franceschi, Leonid I. Glazman, Felix von Oppen, and Katharina J. Franke\nA moiré pattern enables tuning of exchange coupling of Mn atoms with the substrate (a monolayer of MoS2 on gold), providing a new experimental signature of Kondo screening.\n\n[Phys. Rev. Lett. 130, 176201] Published Thu Apr 27, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.176201",
-          "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 1308,
-          "title": "Tuning a Two-Impurity Kondo System by a Moiré Superstructure",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.176201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.178401",
-          "author": "Matthew P. Leighton and David A. Sivak",
-          "description": "Author(s): Matthew P. Leighton and David A. Sivak\nMachines that consist of two coupled biomolecules trade thermodynamic efficiency for operating speed.\n\n[Phys. Rev. Lett. 130, 178401] Published Thu Apr 27, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.178401",
-          "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 924,
-          "title": "Inferring Subsystem Efficiencies in Bipartite Molecular Machines",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.178401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.044129",
-          "author": "Rahul Dandekar, P. L. Krapivsky, and Kirone Mallick",
-          "description": "Author(s): Rahul Dandekar, P. L. Krapivsky, and Kirone Mallick\nThis article studies the dynamical properties of single-file Brownian particles interacting via a Riesz potential. The authors observe an anomalous scaling of the fluctuations of the current and the position of the particles with time when the interaction is long ranged, and a subdiffusive behavior for particles with short-range interactions that is reminiscent of fractional Brownian motion.\n\n[Phys. Rev. E 107, 044129] Published Thu Apr 27, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.044129",
-          "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 667,
-          "title": "Dynamical fluctuations in the Riesz gas",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.044129.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.165155",
-          "author": "Steffen Backes, Yuta Murakami, Shiro Sakai, and Ryotaro Arita",
-          "description": "Author(s): Steffen Backes, Yuta Murakami, Shiro Sakai, and Ryotaro Arita\nUtilizing quantum computers for real materials calculations is highly promising, but hinges on qubit fidelity and fault-tolerant quantum algorithms. Here, the authors show that a representative model for real materials, the Hubbard-Holstein model, which describes interacting electrons on a lattice coupled to bosonic degrees of freedom, can be reliably investigated using today’s Quantum processors. Adapting state-of-the-art mathematical tools is shown to be critical to overcome limitations imposed by the noise level of current quantum computing devices.\n\n[Phys. Rev. B 107, 165155] Published Thu Apr 27, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.165155",
-          "publishedOn": "2023-04-27T10:00:00.000Z",
-          "wordCount": 1309,
-          "title": "Dynamical mean-field theory for the Hubbard-Holstein model on a quantum device",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.165155.png"
         }
       ]
     }
