@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.021031",
+          "author": "Paolo Colciaghi, Yifan Li, Philipp Treutlein, and Tilman Zibold",
+          "description": "Author(s): Paolo Colciaghi, Yifan Li, Philipp Treutlein, and Tilman Zibold\nA new demonstration involving hundreds of entangled atoms tests Schrödinger’s interpretation of Einstein, Rosen, and Podolsky’s classic thought experiment.\n\n[Phys. Rev. X 13, 021031] Published Tue May 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.021031",
+          "publishedOn": "2023-05-30T10:00:00.000Z",
+          "wordCount": 1677,
+          "title": "Einstein-Podolsky-Rosen Experiment with Two Bose-Einstein Condensates",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.021031.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.226002",
+          "author": "Martin Speight, Thomas Winyard, and Egor Babaev",
+          "description": "Author(s): Martin Speight, Thomas Winyard, and Egor Babaev\nAn unusual kind of superconductor harbors magnetic vortices that researchers predict should be readily observable thanks to the striped configurations they adopt.\n\n[Phys. Rev. Lett. 130, 226002] Published Tue May 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.226002",
+          "publishedOn": "2023-05-30T10:00:00.000Z",
+          "wordCount": 1150,
+          "title": "Magnetic Response of Nematic Superconductors: Skyrmion Stripes and Their Signatures in Muon Spin Relaxation Experiments",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.226002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.054408",
+          "author": "Youngmin Park, Cécile Leduc, Sandrine Etienne-Manneville, and Stéphanie Portet",
+          "description": "Author(s): Youngmin Park, Cécile Leduc, Sandrine Etienne-Manneville, and Stéphanie Portet\nSeveral processes interact in the formation of intermediate filament networks. This paper reports on a study of one of those processes, a continuous flow towards the cell center caused by movement of actin filaments. The authors use mathematical modeling to compare several biologically realistic scenarios to interpret their experimental data. They conclude that the data are best explained by some spatial variation of transport and trapping.\n\n[Phys. Rev. E 107, 054408] Published Tue May 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.054408",
+          "publishedOn": "2023-05-30T10:00:00.000Z",
+          "wordCount": 2139,
+          "title": "Models of vimentin organization under actin-driven transport",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.054408.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.195204",
+          "author": "Martin Speight, Thomas Winyard, and Egor Babaev",
+          "description": "Author(s): Martin Speight, Thomas Winyard, and Egor Babaev\nThe structure of vortex lattices for unconventional superconductors is mostly unknown and a mathematically challenging problem. The authors propose a general method to find vortex lattices for any superconducting system. They focus on the example of nematic superconductors, demonstrating that in an external magnetic field such superconductors form chains of fractional vortices. Their approach, by describing the geometry of the unit cell, directly maps to the signal such lattices exhibit in muon spin rotation experiments, producing a powerful tool to study the superconducting order parameter.\n\n[Phys. Rev. B 107, 195204] Published Tue May 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.195204",
+          "publishedOn": "2023-05-30T10:00:00.000Z",
+          "wordCount": 2185,
+          "title": "Symmetries, length scales, magnetic response, and skyrmion chains in nematic superconductors",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.195204.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.205153",
+          "author": "Michele Fossati, Filiberto Ares, and Pasquale Calabrese",
+          "description": "Author(s): Michele Fossati, Filiberto Ares, and Pasquale Calabrese\nNon-Hermitian quantum systems display unusual features that set them apart from the Hermitian ones, yet their understanding is still very poor. Here, by studying how entanglement distributes in the symmetry sectors, the authors manage to explain one of these elusive features, namely, the origin of the nonpositiveness of the reduced density.\n\n[Phys. Rev. B 107, 205153] Published Tue May 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.205153",
+          "publishedOn": "2023-05-30T10:00:00.000Z",
+          "wordCount": 1285,
+          "title": "Symmetry-resolved entanglement in critical non-Hermitian systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.205153.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054090",
+          "author": "Xingyi Wang, Christian Zimmermann, Michael Titze, Vasileios Niaouris, Ethan R. Hansen, Samuel H. D’Ambrosia, Lasse Vines, Edward S. Bielejec, and Kai-Mei C. Fu",
+          "description": "Author(s): Xingyi Wang, Christian Zimmermann, Michael Titze, Vasileios Niaouris, Ethan R. Hansen, Samuel H. D’Ambrosia, Lasse Vines, Edward S. Bielejec, and Kai-Mei C. Fu\nPoint-defect spin qubits with an optical interface may become the building blocks of future quantum networks. In this study, ion implantation at low fluences is used to create neutral In donors in ZnO that demonstrate desirable qubit properties. Notably, the authors also observe the signature of the indium electron-nuclear hyperfine interaction, which could enable access to a long-lived nuclear-spin memory. This result is an important step toward scalable formation of donor qubits in ZnO with optical access to a nuclear-spin memory.\n\n[Phys. Rev. Applied 19, 054090] Published Tue May 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054090",
+          "publishedOn": "2023-05-30T10:00:00.000Z",
+          "wordCount": 1728,
+          "title": "Properties of Donor Qubits in $\\mathrm{Zn}\\mathrm{O}$ Formed by Indium-Ion Implantation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054090.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.053319",
+          "author": "Kajsa-My Tempest and Svante Jonsell",
+          "description": "Author(s): Kajsa-My Tempest and Svante Jonsell\nBecause Feshbach resonances can be used to tune atom-atom scattering, they are used as a tool to study Efimov physics in three-body ultracold systems. Here the authors develop and test a model that explicitly includes the multichannel nature of the physics near a Feshbach resonance, and find that the model captures features that are missed by the typical single-channel model.\n\n[Phys. Rev. A 107, 053319] Published Tue May 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.053319",
+          "publishedOn": "2023-05-30T10:00:00.000Z",
+          "wordCount": 1371,
+          "title": "Multichannel hyperspherical model for Efimov physics with van der Waals interactions controlled by a Feshbach resonance",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.053319.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.021030",
           "author": "Jianzhu Ju, Gabriel E. Sanoja, Med Yassine Nagazi, Luca Cipelletti, Zezhou Liu, Chung Yuen Hui, Matteo Ciccotti, Tetsuharu Narita, and Costantino Creton",
           "description": "Author(s): Jianzhu Ju, Gabriel E. Sanoja, Med Yassine Nagazi, Luca Cipelletti, Zezhou Liu, Chung Yuen Hui, Matteo Ciccotti, Tetsuharu Narita, and Costantino Creton\nA combination of two techniques provides warning signs that the stress on a material will lead to failure.\n\n[Phys. Rev. X 13, 021030] Published Fri May 26, 2023",
@@ -934,76 +1004,6 @@
           "wordCount": 1996,
           "title": "Timescales of Chaos in the Inner Solar System: Lyapunov Spectrum and Quasi-integrals of Motion",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.021018.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L022023",
-          "author": "D. Kraus <em>et al.</em>",
-          "description": "Author(s): D. Kraus et al.\nIn situ x-ray diffraction of shock-compressed plastics suggests the formation of liquid metallic hydrogen via carbon-hydrogen phase separation.\n\n[Phys. Rev. Research 5, L022023] Published Wed May 03, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L022023",
-          "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1192,
-          "title": "Indirect evidence for elemental hydrogen in laser-compressed hydrocarbons",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.L022023.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.186204",
-          "author": "Wu Shi, Salman Kahn, Nicolas Leconte, Takashi Taniguchi, Kenji Watanabe, Michael Crommie, Jeil Jung, and Alex Zettl",
-          "description": "Author(s): Wu Shi, Salman Kahn, Nicolas Leconte, Takashi Taniguchi, Kenji Watanabe, Michael Crommie, Jeil Jung, and Alex Zettl\nA new electron-beam doping technique achieves ultrahigh carrier densities in graphene/BN superlattices while preserving moiré features and unraveling higher-order fractal quantum oscillation features.\n\n[Phys. Rev. Lett. 130, 186204] Published Wed May 03, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.186204",
-          "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1322,
-          "title": "High-Order Fractal Quantum Oscillations in Graphene/BN Superlattices in the Extreme Doping Limit",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.186204.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.187401",
-          "author": "Timoteo Carletti, Lorenzo Giambagli, and Ginestra Bianconi",
-          "description": "Author(s): Timoteo Carletti, Lorenzo Giambagli, and Ginestra Bianconi\nTopological obstruction impedes odd dimensional signals from globally synchronizing in simplicial complexes, while cell complexes can overcome this obstruction and in some structures, signals of any dimension can achieve global synchronization.\n\n[Phys. Rev. Lett. 130, 187401] Published Wed May 03, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.187401",
-          "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 889,
-          "title": "Global Topological Synchronization on Simplicial and Cell Complexes",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.187401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.053601",
-          "author": "Omer Atasi, Mithun Ravisankar, Dominique Legendre, and Roberto Zenit",
-          "description": "Author(s): Omer Atasi, Mithun Ravisankar, Dominique Legendre, and Roberto Zenit\nIn this paper we explain why bubble chains are stable in champagne, but unstable in other carbonated beverages. The hydrodynamic interactions among bubbles in a chain determine its stability. The wake behind each bubble affects the subsequent ones, producing a lift force. For a clean and small bubble, the lift force is destabilizing; when surfactants are present or the bubble size exceeds a certain value, the additional vorticity production on the surface changes the structure of the wake and the sign of the lift force is reversed resulting in a stable chain.\n\n[Phys. Rev. Fluids 8, 053601] Published Wed May 03, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.053601",
-          "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1290,
-          "title": "Presence of surfactants controls the stability of bubble chains in carbonated drinks",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.053601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.106005",
-          "author": "Jacques Distler, Grant Elliot, Monica Jinwoo Kang, and Craig Lawrie",
-          "description": "Author(s): Jacques Distler, Grant Elliot, Monica Jinwoo Kang, and Craig Lawrie\nA common way to construct 4D superconformal field theories (SCFTs) is to compactify the N=(2,0) 6D SCFT on a Riemann surface with a variety of punctures. One question that arises is, when are the 4D SCFTs obtained from distinct constructions isomorphic? The authors show in great detail and with a large class of examples that this happens when there exists a “parent” N=(1,0) 6D SCFT. However, there are also some “oddball” candidates of isomorphic theories without a six-dimensional origin.\n\n[Phys. Rev. D 107, 106005] Published Wed May 03, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.106005",
-          "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": 1192,
-          "title": "Isomorphisms of 4D $\\mathcal{N}=2$ SCFTs from 6D",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.106005.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.181001",
-          "author": "Haipeng An, Shuailiang Ge, Wen-Qing Guo, Xiaoyuan Huang, Jia Liu, and Zhiyao Lu",
-          "description": "Author(s): Haipeng An, Shuailiang Ge, Wen-Qing Guo, Xiaoyuan Huang, Jia Liu, and Zhiyao Lu\nA search for rare interactions between dark photons and regular matter provides constraints on the properties of ultralight dark matter.\n\n[Phys. Rev. Lett. 130, 181001] Published Tue May 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.181001",
-          "publishedOn": "2023-05-02T10:00:00.000Z",
-          "wordCount": 1156,
-          "title": "Direct Detection of Dark Photon Dark Matter Using Radio Telescopes",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.181001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.054103",
-          "author": "L. Münster and M. Weigel",
-          "description": "Author(s): L. Münster and M. Weigel\nPhase transitions in spin models can be described in terms of percolation by clusters of spins, but for frustrated systems such as spin glasses our understanding is not complete. The authors make progress by identifying several types of clusters in two-dimensional spin glasses that are consistent with this system’s transition at zero temperature.\n\n[Phys. Rev. E 107, 054103] Published Tue May 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.054103",
-          "publishedOn": "2023-05-02T10:00:00.000Z",
-          "wordCount": 1936,
-          "title": "Cluster percolation in the two-dimensional Ising spin glass",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.054103.png"
         }
       ]
     }
