@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-01T01:10:30.482Z</id>
+    <id>urn:2023-06-02T00:59:39.089Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-01T01:10:30.482Z</updated>
+    <updated>2023-06-02T00:59:39.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tangent Space Approach for Thermal Tensor Network Simulations of the 2D Hubbard Model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.226502</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.226502"/>
+        <updated>2023-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Qiaoyi Li, Yuan Gao, Yuan-Yao He, Yang Qi, Bin-Bin Chen, and Wei Li
+A new tangent space tensor renormalization group method is well-controlled, highly efficient, and accurate for strongly correlated 2D lattice models at finite temperature.
+
+[Phys. Rev. Lett. 130, 226502] Published Thu Jun 01, 2023]]></summary>
+        <author>
+            <name>Qiaoyi Li, Yuan Gao, Yuan-Yao He, Yang Qi, Bin-Bin Chen, and Wei Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological invariants for symmetry-protected topological phase entanglers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.235104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.235104"/>
+        <updated>2023-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Carolyn Zhang
+Broad classes of symmetry protected topological (SPT) phases can be prepared from a product state by locality preserving unitary operators that respect the symmetry as a whole, but cannot be written as symmetric finite depth quantum circuits. This work provides a framework for obtaining explicit topological invariants of such unitary operators, based on a special easily computable flux insertion operator. For unitary operators that are SPT entanglers, these invariants are related to the cocycle that labels the SPT phase.
+
+[Phys. Rev. B 107, 235104] Published Thu Jun 01, 2023]]></summary>
+        <author>
+            <name>Carolyn Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evidence for three-dimensional Dirac conical bands in TlBiSSe by optical and magneto-optical spectroscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L241101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L241101"/>
+        <updated>2023-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. Le Mardelé, J. Wyzula, I. Mohelsky, S. Nasrallah, M. Loh, S. Ben David, O. Toledano, D. Tolj, M. Novak, G. Eguchi, S. Paschen, N. Barišić, J. Chen, A. Kimura, M. Orlita, Z. Rukelj, Ana Akrap, and D. Santos-Cottin
+TlBiSSe is a 3D Dirac semimetal that exists at the interface between a topological insulator, TlBiS2, and a trivial insulator, TlBiSe2. It is one of the few systems with an ideal band structure, exhibiting only conical dispersive bands over almost half an electronvolt. Here, the authors find a rare unequivocal signature of a 3D Dirac cone in its optical and magneto-optical properties, achieved by carefully controlled synthesis that places the Fermi level very close to the Dirac point.
+
+[Phys. Rev. B 107, L241101] Published Thu Jun 01, 2023]]></summary>
+        <author>
+            <name>F. Le Mardelé, J. Wyzula, I. Mohelsky, S. Nasrallah, M. Loh, S. Ben David, O. Toledano, D. Tolj, M. Novak, G. Eguchi, S. Paschen, N. Barišić, J. Chen, A. Kimura, M. Orlita, Z. Rukelj, Ana Akrap, and D. Santos-Cottin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fundamental limits of pulsed quantum light spectroscopy: Dipole moment estimation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.062601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.062601"/>
+        <updated>2023-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Francesco Albarelli, Evangelia Bisketzi, Aiman Khan, and Animesh Datta
+In order to rigorously find the limit of estimation precision for an atom probed by a quantum light pulse, the authors incorporate tools from quantum metrology and atomic spectroscopy. Their methodology uses a Hamiltonian model of the light-matter interaction to compute the information in the quantum state of the light after interaction with the atom.
+
+[Phys. Rev. A 107, 062601] Published Thu Jun 01, 2023]]></summary>
+        <author>
+            <name>Francesco Albarelli, Evangelia Bisketzi, Aiman Khan, and Animesh Datta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Partition Function for a Volume of Space]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.221501</id>
@@ -1251,58 +1303,6 @@ Measurement and coherent manipulation of Andreev bound states (ABSs) in planar s
 [Phys. Rev. Applied 19, 054026] Published Mon May 08, 2023]]></summary>
         <author>
             <name>M. Hinderling, D. Sabonis, S. Paredes, D.Z. Haxell, M. Coraiola, S.C. ten Kate, E. Cheah, F. Krizek, R. Schott, W. Wegscheider, and F. Nichele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable Multilayer Architecture of Assembled Single-Atom Qubit Arrays in a Three-Dimensional Talbot Tweezer Lattice]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.180601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.180601"/>
-        <updated>2023-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Malte Schlosser, Sascha Tichelmann, Dominik Schäffner, Daniel Ohl de Mello, Moritz Hambach, Jan Schütz, and Gerhard Birkl
-Using lasers, researchers have trapped thousands of atoms in a new kind of 3D lattice that could eventually serve as a quantum computing platform.
-
-[Phys. Rev. Lett. 130, 180601] Published Fri May 05, 2023]]></summary>
-        <author>
-            <name>Malte Schlosser, Sascha Tichelmann, Dominik Schäffner, Daniel Ohl de Mello, Moritz Hambach, Jan Schütz, and Gerhard Birkl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attosecond Real-Time Observation of Recolliding Electron Trajectories in Helium at Low Laser Intensities]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.183201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.183201"/>
-        <updated>2023-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tobias Heldt, Jonathan Dubois, Paul Birk, Gergana D. Borisova, Gabriel M. Lando, Christian Ott, and Thomas Pfeifer
-A new experiment follows the trajectories of electrons as pulsed laser light yanks them away from their atoms and slams them back.
-
-[Phys. Rev. Lett. 130, 183201] Published Fri May 05, 2023]]></summary>
-        <author>
-            <name>Tobias Heldt, Jonathan Dubois, Paul Birk, Gergana D. Borisova, Gabriel M. Lando, Christian Ott, and Thomas Pfeifer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular momentum and moment of total enthalpy integral equations for high-speed boundary layers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.054603</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.054603"/>
-        <updated>2023-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Armin Kianfar, Mario Di Renzo, Christopher Williams, Ahmed Elnahhas, and Perry L. Johnson
-Angular momentum and moment of total enthalpy integral (AMI and MTEI) equations provide a quantitative mapping between flow phenomena such as turbulence on skin friction and surface heat flux for high-speed boundary layers relative to laminar flows. Using the AMI equation, the effect of edge Mach number (Ma) and wall-cooling are measured on the turbulent torque that enhances the skin friction coefficient. Moreover, the AMI equation introduces stress-weighted density that yields a more robust collapse of the dataset with different configurations. The MTEI equation distinguishes the impact of Ma and wall-cooling on the turbulent flux of mean kinetic energy and enthalpy, respectively.
-
-[Phys. Rev. Fluids 8, 054603] Published Fri May 05, 2023]]></summary>
-        <author>
-            <name>Armin Kianfar, Mario Di Renzo, Christopher Williams, Ahmed Elnahhas, and Perry L. Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Characterizing energy dissipation of shallow-water wave breaking in a storm surge]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.054801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.054801"/>
-        <updated>2023-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hunter Boswell, Guirong Yan, and Wouter Mostert
-While understanding breaking waves is crucial for the development of parameterizations used in modeling ocean and climate, the complete description of wave breaking is not well understood. We present direct numerical simulations of two-dimensional solitary waves that break on a uniform beach in shallow water, including storm surge represented by an inshore region.
-
-[Phys. Rev. Fluids 8, 054801] Published Fri May 05, 2023]]></summary>
-        <author>
-            <name>Hunter Boswell, Guirong Yan, and Wouter Mostert</name>
         </author>
     </entry>
 </feed>
