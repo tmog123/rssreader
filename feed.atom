@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T00:58:49.505Z</id>
+    <id>urn:2023-06-06T01:01:47.071Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T00:58:49.505Z</updated>
+    <updated>2023-06-06T01:01:47.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Future quantum workforce: Competences, requirements, and forecasts]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010137</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010137"/>
+        <updated>2023-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Franziska Greinert, Rainer Müller, Philipp Bitzenbauer, Malte S. Ubben, and Kim-Alessandro Weber
+A survey of experts to map requirements and forecasts for the future quantum workforce.
+
+[Phys. Rev. Phys. Educ. Res. 19, 010137] Published Mon Jun 05, 2023]]></summary>
+        <author>
+            <name>Franziska Greinert, Rainer Müller, Philipp Bitzenbauer, Malte S. Ubben, and Kim-Alessandro Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shockwavelike Behavior across Social Media]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.237401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.237401"/>
+        <updated>2023-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pedro D. Manrique, Frank Yingjie Huo, Sara El Oud, Minzhang Zheng, Lucia Illari, and Neil F. Johnson
+A theory derived from nonlinear fluid dynamics is able to reproduce the formation dynamics of online hate communities—offering insights that could inform public policies.
+
+[Phys. Rev. Lett. 130, 237401] Published Mon Jun 05, 2023]]></summary>
+        <author>
+            <name>Pedro D. Manrique, Frank Yingjie Huo, Sara El Oud, Minzhang Zheng, Lucia Illari, and Neil F. Johnson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gravitational Pair Production and Black Hole Evaporation]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.221502</id>
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.221502"/>
         <updated>2023-06-02T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Michael F. Wondrak, Walter D. van Suijlekom, and Heino Falcke
-The gravitational fields of black holes and other compact objects are strong enough to wrest pairs of particles and antiparticles out of the vacuum and into existence, causing the objects to decay.
+The gravitational fields of black holes and other compact objects are strong enough that they might wrest massless particles out of the vacuum and into existence, causing the objects to decay.
 
 [Phys. Rev. Lett. 130, 221502] Published Fri Jun 02, 2023]]></summary>
         <author>
@@ -1277,32 +1303,6 @@ The omnipresence of rotation, often observed in its own rest frame of reference,
 [Phys. Rev. B 107, 195418] Published Wed May 10, 2023]]></summary>
         <author>
             <name>Ben Z. Steinberg and Nader Engheta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous Reversible Computing Unveiled Using Ballistic Shift Registers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.054034</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.054034"/>
-        <updated>2023-05-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): K.D. Osborn and W. Wustmann
-Reversible computing exploits thermodynamic principles to replace irreversible Boolean logic with higher-efficiency reversible logic, and could change the future of computers. How best to implement reversible gates and architectures remains an open problem. Superconducting hardware features negligible intrinsic damping, which allows for exploration of many digital circuit types with varying degrees of reversibility. This study simulates Josephson junctions, where single flux quanta serve as bits in this logic type, with the goal of replacing an irreversible shift-register memory. The authors find that asynchronous access, and therefore simpler architecture, is possible.
-
-[Phys. Rev. Applied 19, 054034] Published Wed May 10, 2023]]></summary>
-        <author>
-            <name>K.D. Osborn and W. Wustmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrated Hybrid Plasmonic-Photonic Device for All-Optical Switching and Reading of Spintronic Memory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.19.054036</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.19.054036"/>
-        <updated>2023-05-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hamed Pezeshki, Pingzhi Li, Reinoud Lavrijsen, Martijn Heck, Erwin Bente, Jos van der Tol, and Bert Koopmans
-This paper provides a key solution for integrating spintronic memories with photonic integrated circuits, for all-optical switching and reading of nanoscale magnetic bits. Problems associated with nonlinear absorption and the intrinsically weak magneto-optical effect are solved by a hybrid scheme, exploiting plasmonic and photonic resonators. Thus the authors have developed a device concept that paves the way toward ultrafast, energy-efficient advanced on-chip applications.
-
-[Phys. Rev. Applied 19, 054036] Published Wed May 10, 2023]]></summary>
-        <author>
-            <name>Hamed Pezeshki, Pingzhi Li, Reinoud Lavrijsen, Martijn Heck, Erwin Bente, Jos van der Tol, and Bert Koopmans</name>
         </author>
     </entry>
 </feed>
