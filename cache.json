@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.236102",
+          "author": "Basile Radisson and Eva Kanso",
+          "description": "Author(s): Basile Radisson and Eva Kanso\nElastic shape transitions can be predicted from geometric symmetries and symmetry-breaking mechanisms, providing universal design rules for these transitions.\n\n[Phys. Rev. Lett. 130, 236102] Published Thu Jun 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.236102",
+          "publishedOn": "2023-06-08T10:00:00.000Z",
+          "wordCount": 1122,
+          "title": "Elastic Snap-Through Instabilities Are Governed by Geometric Symmetries",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.236102.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.064701",
+          "author": "Girguis Sedky, Antonios Gementzopoulos, Francis D. Lagor, and Anya R. Jones",
+          "description": "Author(s): Girguis Sedky, Antonios Gementzopoulos, Francis D. Lagor, and Anya R. Jones\nIn this work, we experimentally demonstrate the utility of unsteady potential flow models in developing closed-loop control strategies for mitigating the lift transients on a wing experiencing large-amplitude transverse gusts. The developed closed-loop controller mitigates lift for gusts of various strengths and directions and for wings with pre- and post-stall angles of attack. Time-resolved force and flow field measurements are used to discover the salient flow physics during these encounters and illustrate how closed-loop actuation mitigates their lift transients.\n\n[Phys. Rev. Fluids 8, 064701] Published Thu Jun 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.064701",
+          "publishedOn": "2023-06-08T10:00:00.000Z",
+          "wordCount": 1400,
+          "title": "Experimental mitigation of large-amplitude transverse gusts via closed-loop pitch control",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.064701.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L061601",
+          "author": "Yuki Wakata, Ning Zhu, Xiaoliang Chen, Sijia Lyu, Detlef Lohse, Xing Chao, and Chao Sun",
+          "description": "Author(s): Yuki Wakata, Ning Zhu, Xiaoliang Chen, Sijia Lyu, Detlef Lohse, Xing Chao, and Chao Sun\nUnderstanding and regulating the Leidenfrost temperature is of great importance for practical applications such as spray cooling. In this study, nonnegligible cooling effects of Leidenfrost drops on surfaces with small thermal diffusivities are observed with an IR camera. The influence of thermal properties and surface roughness on the Leidenfrost temperature is investigated experimentally and explained by a simple theoretical model.\n\n[Phys. Rev. Fluids 8, L061601] Published Thu Jun 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L061601",
+          "publishedOn": "2023-06-08T10:00:00.000Z",
+          "wordCount": 1129,
+          "title": "How roughness and thermal properties of a solid substrate determine the Leidenfrost temperature: Experiments and a model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L061601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.123006",
+          "author": "Vo Hong Minh Phan, Sarah Recchia, Philipp Mertsch, and Stefano Gabici",
+          "description": "Author(s): Vo Hong Minh Phan, Sarah Recchia, Philipp Mertsch, and Stefano Gabici\nThis paper demonstrates that a stochastic, rather than uniform, injection rate of MeV cosmic rays from supernovae can successfully model the observed ionization rate distribution for Galactic molecular clouds.\n\n[Phys. Rev. D 107, 123006] Published Thu Jun 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.123006",
+          "publishedOn": "2023-06-08T10:00:00.000Z",
+          "wordCount": 1279,
+          "title": "Stochasticity of cosmic rays from supernova remnants and the ionization rates in molecular clouds",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.123006.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.L061302",
+          "author": "Kuan-Yu Li, Yicheng Zhang, Kangning Yang, Kuan-Yu Lin, Sarang Gopalakrishnan, Marcos Rigol, and Benjamin L. Lev",
+          "description": "Author(s): Kuan-Yu Li, Yicheng Zhang, Kangning Yang, Kuan-Yu Lin, Sarang Gopalakrishnan, Marcos Rigol, and Benjamin L. Lev\nThe effects of integrability-breaking interactions on equilibrium states are explored using a one-dimensional Bose gas of highly magnetic atoms. A dressed-quasiparticle description is found to be necessary to predict equilibrium rapidity and momentum distributions as the strength of the integrability-breaking perturbation increases.\n\n[Phys. Rev. A 107, L061302] Published Thu Jun 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.L061302",
+          "publishedOn": "2023-06-08T10:00:00.000Z",
+          "wordCount": 1177,
+          "title": "Rapidity and momentum distributions of one-dimensional dipolar quantum gases",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.L061302.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXEnergy.2.023009",
           "author": "Robin Delabays, Andrey Y. Lokhov, Melvyn Tyloo, and Marc Vuffray",
           "description": "Author(s): Robin Delabays, Andrey Y. Lokhov, Melvyn Tyloo, and Marc Vuffray\nA fully data-driven method solves an outstanding challenge in power grids, inferring the correct source and frequency of forced oscillations that pose significant risks to critical infrastructures.\n\n[PRX Energy 2, 023009] Published Wed Jun 07, 2023",
@@ -371,7 +421,7 @@
           "description": "Author(s): Youngmin Park, Cécile Leduc, Sandrine Etienne-Manneville, and Stéphanie Portet\nSeveral processes interact in the formation of intermediate filament networks. This paper reports on a study of one of those processes, a continuous flow towards the cell center caused by movement of actin filaments. The authors use mathematical modeling to compare several biologically realistic scenarios to interpret their experimental data. They conclude that the data are best explained by some spatial variation of transport and trapping.\n\n[Phys. Rev. E 107, 054408] Published Tue May 30, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.054408",
           "publishedOn": "2023-05-30T10:00:00.000Z",
-          "wordCount": 2139,
+          "wordCount": 2138,
           "title": "Models of vimentin organization under actin-driven transport",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.054408.png"
         },
@@ -954,56 +1004,6 @@
           "wordCount": 1576,
           "title": "Quantum Control of a Single Magnon in a Macroscopic Spin System",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.193603.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.195101",
-          "author": "V. Valenzuela-Villaseca, L. G. Suttle, F. Suzuki-Vidal, J. W. D. Halliday, S. Merlini, D. R. Russell, E. R. Tubman, J. D. Hare, J. P. Chittenden, M. E. Koepke, E. G. Blackman, and S. V. Lebedev",
-          "description": "Author(s): V. Valenzuela-Villaseca, L. G. Suttle, F. Suzuki-Vidal, J. W. D. Halliday, S. Merlini, D. R. Russell, E. R. Tubman, J. D. Hare, J. P. Chittenden, M. E. Koepke, E. G. Blackman, and S. V. Lebedev\nA spinning plasma ring mimics the rotating structure surrounding a black hole.\n\n[Phys. Rev. Lett. 130, 195101] Published Fri May 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.195101",
-          "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1108,
-          "title": "Characterization of Quasi-Keplerian, Differentially Rotating, Free-Boundary Laboratory Plasmas",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.195101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.196201",
-          "author": "Sayed Ali Akbar Ghorashi, Aaron Dunbrack, Ahmed Abouelkomsan, Jiacheng Sun, Xu Du, and Jennifer Cano",
-          "description": "Author(s): Sayed Ali Akbar Ghorashi, Aaron Dunbrack, Ahmed Abouelkomsan, Jiacheng Sun, Xu Du, and Jennifer Cano\nBilayer graphene in the presence of a superlattice potential can be an alternative platform to realize moiŕe physics, where the superlattice symmetry and geometry can be chosen on demand.\n\n[Phys. Rev. Lett. 130, 196201] Published Fri May 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.196201",
-          "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1079,
-          "title": "Topological and Stacked Flat Bands in Bilayer Graphene with a Superlattice Potential",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.196201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.196401",
-          "author": "Pantelis Bampoulis, Carolien Castenmiller, Dennis J. Klaassen, Jelle van Mil, Yichen Liu, Cheng-Cheng Liu, Yugui Yao, Motohiko Ezawa, Alexander N. Rudenko, and Harold J. W. Zandvliet",
-          "description": "Author(s): Pantelis Bampoulis, Carolien Castenmiller, Dennis J. Klaassen, Jelle van Mil, Yichen Liu, Cheng-Cheng Liu, Yugui Yao, Motohiko Ezawa, Alexander N. Rudenko, and Harold J. W. Zandvliet\nGermanene undergoes a topological phase transition and then becomes a normal insulator when the strength of an applied electric field is dialed up.\n\n[Phys. Rev. Lett. 130, 196401] Published Fri May 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.196401",
-          "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1294,
-          "title": "Quantum Spin Hall States and Topological Phase Transition in Germanene",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.196401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.054802",
-          "author": "Nicolas Lanchon, Daniel Odens Mora, Eduardo Monsalve, and Pierre-Philippe Cortet",
-          "description": "Author(s): Nicolas Lanchon, Daniel Odens Mora, Eduardo Monsalve, and Pierre-Philippe Cortet\nTurbulence experiments in a stratified fluid driven by a set of internal gravity waves commonly lead to a discretization of the energy in frequency and wavenumber due to the emergence of eigenmodes of the fluid domain. In this article, we present an experimental means to inhibit this process and to direct the flow towards the regime described by the weak internal-wave turbulence theory which aims at modeling the oceanic dynamics at small scales.\n\n[Phys. Rev. Fluids 8, 054802] Published Fri May 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.054802",
-          "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1848,
-          "title": "Internal wave turbulence in a stratified fluid with and without eigenmodes of the experimental domain",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.054802.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054047",
-          "author": "Martí Gutierrez Latorre, Gerard Higgins, Achintya Paradkar, Thilo Bauch, and Witlef Wieczorek",
-          "description": "Author(s): Martí Gutierrez Latorre, Gerard Higgins, Achintya Paradkar, Thilo Bauch, and Witlef Wieczorek\nThe authors present a platform for quantum experiments on levitated particles with masses ranging from nanograms to micrograms. They exploit the Meissner effect to magnetically levitate superconducting microparticles on a chip, in vacuum at ultralow temperatures. Integrated magnetic readout enables coupling to superconducting quantum circuits. This platform allows for precise measurements of force and acceleration, with potential applications in sensing, including the search for dark matter.\n\n[Phys. Rev. Applied 19, 054047] Published Fri May 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.054047",
-          "publishedOn": "2023-05-12T10:00:00.000Z",
-          "wordCount": 1654,
-          "title": "Superconducting Microsphere Magnetically Levitated in an Anharmonic Potential with Integrated Magnetic Readout",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.054047.png"
         }
       ]
     }
