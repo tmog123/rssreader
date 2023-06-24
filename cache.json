@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.253202",
+          "author": "Meng Han, Jacqueline Fedyk, Jia-Bao Ji, Victor Despré, Alexander I. Kuleff, and Hans Jakob Wörner",
+          "description": "Author(s): Meng Han, Jacqueline Fedyk, Jia-Bao Ji, Victor Despré, Alexander I. Kuleff, and Hans Jakob Wörner\nQuantum interference in the nuclear dynamics driving interatomic excitation-energy transfer, also known as frustrated interatomic Coulombic decay, acts as an electronic-relaxation mechanism in many forms of matter, including clusters and liquids.\n\n[Phys. Rev. Lett. 130, 253202] Published Fri Jun 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.253202",
+          "publishedOn": "2023-06-23T10:00:00.000Z",
+          "wordCount": 903,
+          "title": "Observation of Nuclear Wave-Packet Interference in Ultrafast Interatomic Energy Transfer",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.253202.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.064501",
+          "author": "Hayoon Chung and Jeffrey R. Koseff",
+          "description": "Author(s): Hayoon Chung and Jeffrey R. Koseff\nBuoyant convective plumes have a strong impact on the behavior and spread of wildfires. This experimental study investigates the role of turbulent coherent structures rising from canopy mixing layers on the trajectory and behavior of buoyant plumes. The turbulent structures give rise to unsteady behavior of the buoyant plume that is observed as strong vertical oscillatory motions. This oscillatory motion is found to fluctuate at the dominant frequency of the canopy-induced instability. The analysis also looks at mixing and transport rates through the impacted plume.\n\n[Phys. Rev. Fluids 8, 064501] Published Fri Jun 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.064501",
+          "publishedOn": "2023-06-23T10:00:00.000Z",
+          "wordCount": 2097,
+          "title": "Interaction of a buoyant plume with a turbulent canopy mixing layer",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.064501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.L220204",
+          "author": "Aidan Zabalo, Justin H. Wilson, Michael J. Gullans, Romain Vasseur, Sarang Gopalakrishnan, David A. Huse, and J. H. Pixley",
+          "description": "Author(s): Aidan Zabalo, Justin H. Wilson, Michael J. Gullans, Romain Vasseur, Sarang Gopalakrishnan, David A. Huse, and J. H. Pixley\nThe measurement-induced phase transition (MIPT) represents a critical point connected to quantum information and nonequilibrium statistical physics. However, any quantum code utilizing the MIPT can be affected by noise introduced in device fabrication, appearing as static disorder. Leveraging analytics and large-scale simulations, the authors show that this static noise destabilizes the MIPT towards an infinite-randomness critical point. Their findings reveal the Harris criterion’s applicability beyond equilibrium, indicating the relevance of perturbations at this phase transition.\n\n[Phys. Rev. B 107, L220204] Published Fri Jun 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L220204",
+          "publishedOn": "2023-06-23T10:00:00.000Z",
+          "wordCount": 1119,
+          "title": "Infinite-randomness criticality in monitored quantum dynamics with static disorder",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L220204.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.253001",
           "author": "M. Filzinger, S. Dörscher, R. Lange, J. Klose, M. Steinel, E. Benkler, E. Peik, C. Lisdat, and N. Huntemann",
           "description": "Author(s): M. Filzinger, S. Dörscher, R. Lange, J. Klose, M. Steinel, E. Benkler, E. Peik, C. Lisdat, and N. Huntemann\nA search for oscillations in the frequencies of optical clocks has set new bounds on ultralight dark matter particles.\n\n[Phys. Rev. Lett. 130, 253001] Published Thu Jun 22, 2023",
@@ -341,7 +371,7 @@
           "description": "Author(s): Alessia Ciccotelli, Robert B. Appleby, Francesco Cerutti, Kacper Bilko, Luigi Salvatore Esposito, Ruben Garcia Alia, Anton Lechner, and Andrea Tsinganis\nA detailed model of an LHC experimental region predicts the energy deposition from proton-proton collisions.\n\n[Phys. Rev. Accel. Beams 26, 061002] Published Thu Jun 15, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.061002",
           "publishedOn": "2023-06-15T10:00:00.000Z",
-          "wordCount": 2243,
+          "wordCount": 2244,
           "title": "Energy deposition studies for the LHCb insertion region of the CERN Large Hadron Collider",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.26.061002.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 1371,
           "title": "Multichannel hyperspherical model for Efimov physics with van der Waals interactions controlled by a Feshbach resonance",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.053319.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.021030",
-          "author": "Jianzhu Ju, Gabriel E. Sanoja, Med Yassine Nagazi, Luca Cipelletti, Zezhou Liu, Chung Yuen Hui, Matteo Ciccotti, Tetsuharu Narita, and Costantino Creton",
-          "description": "Author(s): Jianzhu Ju, Gabriel E. Sanoja, Med Yassine Nagazi, Luca Cipelletti, Zezhou Liu, Chung Yuen Hui, Matteo Ciccotti, Tetsuharu Narita, and Costantino Creton\nA combination of two techniques provides warning signs that the stress on a material will lead to failure.\n\n[Phys. Rev. X 13, 021030] Published Fri May 26, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.021030",
-          "publishedOn": "2023-05-26T10:00:00.000Z",
-          "wordCount": 2282,
-          "title": "Real-Time Early Detection of Crack Propagation Precursors in Delayed Fracture of Soft Elastomers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.021030.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.107.055007",
-          "author": "Théophile Rémond, Vincent Dolique, Renaud G. Rinaldi, and Jean-Christophe Géminard",
-          "description": "Author(s): Théophile Rémond, Vincent Dolique, Renaud G. Rinaldi, and Jean-Christophe Géminard\nThe angle of incidence and the friction of the surface are the only factors that impact the spin of a table tennis ball after it collides with a rigid surface.\n\n[Phys. Rev. E 107, 055007] Published Fri May 26, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.107.055007",
-          "publishedOn": "2023-05-26T10:00:00.000Z",
-          "wordCount": 1288,
-          "title": "Oblique impact of a buckling table-tennis ball on a rigid surface",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.107.055007.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.L050601",
-          "author": "Deviprasath Palani, Florian Hasse, Philip Kiefer, Frederick Boeckling, Jan-Philipp Schroeder, Ulrich Warring, and Tobias Schaetz",
-          "description": "Author(s): Deviprasath Palani, Florian Hasse, Philip Kiefer, Frederick Boeckling, Jan-Philipp Schroeder, Ulrich Warring, and Tobias Schaetz\nThe authors investigate a trapped-ion architecture with thirteen trapping sites for quantum control of multiple particles. They demonstrate automated qubit loading and shuttling within a three-dimensional trapping landscape, achieving a high success rate while preserving coherence.\n\n[Phys. Rev. A 107, L050601] Published Fri May 26, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.L050601",
-          "publishedOn": "2023-05-26T10:00:00.000Z",
-          "wordCount": 1221,
-          "title": "High-fidelity transport of trapped-ion qubits in a multilayer array",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.L050601.png"
         }
       ]
     }
