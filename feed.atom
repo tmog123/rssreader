@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-30T01:00:51.300Z</id>
+    <id>urn:2023-07-01T01:10:21.706Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T01:00:51.300Z</updated>
+    <updated>2023-07-01T01:10:21.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cosmography Using Strongly Lensed Gravitational Waves from Binary Black Holes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.261401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.261401"/>
+        <updated>2023-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Souvik Jana, Shasvath J. Kapadia, Tejaswi Venumadhav, and Parameswaran Ajith
+The path of a gravitational wave passing near a galaxy can be bent, producing multiple signals that could help next-generation detectors measure the expansion of the Universe.
+
+[Phys. Rev. Lett. 130, 261401] Published Fri Jun 30, 2023]]></summary>
+        <author>
+            <name>Souvik Jana, Shasvath J. Kapadia, Tejaswi Venumadhav, and Parameswaran Ajith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridging Carrollian and celestial holography]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.107.126027</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.107.126027"/>
+        <updated>2023-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Laura Donnay, Adrien Fiorucci, Yannick Herfray, and Romain Ruzziconi
+Formulating a precise notion of holography between gravity in asymptotically flat spacetime and a lower-dimensional field theory remains an outstanding problem. In this paper, the authors discuss two seemingly disparate existing approaches to such a duality, namely the celestial and Carrolian holography, and show that they are connected by an integral transform.
+
+[Phys. Rev. D 107, 126027] Published Fri Jun 30, 2023]]></summary>
+        <author>
+            <name>Laura Donnay, Adrien Fiorucci, Yannick Herfray, and Romain Ruzziconi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Millisecond Coherence in a Superconducting Qubit]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.267001</id>
@@ -63,7 +89,7 @@ This study presents an experimental technique to tackle technical obstacles in g
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.263601"/>
         <updated>2023-06-28T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Chao Liang, Yuanjiang Tang, An-Ning Xu, and Yong-Chun Liu
-Two experimental studies realized enhanced atomic sensing and chiral heat transport near “exceptional points,” where the states of an open, non-Hermitian system overlap.
+Two experimental studies realized enhanced atomic sensing and chiral heat transport near exceptional points—singularities inherent to open, non-Hermitian systems.
 
 [Phys. Rev. Lett. 130, 263601] Published Wed Jun 28, 2023]]></summary>
         <author>
@@ -89,7 +115,7 @@ Nuclear magnetic resonance spectroscopy offers strong evidence that YPtBi can ex
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.266303"/>
         <updated>2023-06-28T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Guoqiang Xu, Xue Zhou, Ying Li, Qitao Cao, Weijin Chen, Yunfeng Xiao, Lan Yang, and Cheng-Wei Qiu
-Two experimental studies realized enhanced atomic sensing and chiral heat transport near “exceptional points,” where the states of an open, non-Hermitian system overlap.
+Two experimental studies realized enhanced atomic sensing and chiral heat transport near exceptional points—singularities inherent to open, non-Hermitian systems.
 
 [Phys. Rev. Lett. 130, 266303] Published Wed Jun 28, 2023]]></summary>
         <author>
@@ -1129,8 +1155,7 @@ Ytterbium-doped CsPbCl3 emerges as the primary contender for a quantum cutting c
         <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.224304"/>
         <updated>2023-06-07T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Florian Knoop, Matthias Scheffler, and Christian Carbogno
-Ab initio Green-Kubo simulations provide an accurate description of lattice thermal conductivities from first principles. This approach reliably describes the full range from harmonic to strongly anharmonic materials. The latter are not handled well by often employed, perturbed phonon models. Using challenging benchmark materials as examples, this paper discusses various physical and computational strategies that speed up the calculations. These advancements pave the way for efficiently exploring materials space in the search for thermal insulators, as demonstrated in the accompanying PRL.
-Can we pls add a hyperlink to the word “PRL” to the published wrapper page for the PRL
+Ab initio Green-Kubo simulations provide an accurate description of lattice thermal conductivities from first principles. This approach reliably describes the full range from harmonic to strongly anharmonic materials. The latter are not handled well by often employed, perturbed phonon models. Using challenging benchmark materials as examples, this paper discusses various physical and computational strategies that speed up the calculations. These advancements pave the way for efficiently exploring materials space in the search for thermal insulators, as demonstrated in the accompanying PRL (DOI: https://doi.org/10.1103/PhysRevLett.130.236301).
 
 [Phys. Rev. B 107, 224304] Published Wed Jun 07, 2023]]></summary>
         <author>
@@ -1278,32 +1303,6 @@ By exploiting a phenomenon called stochastic resonance, sensors can perform bett
 [Phys. Rev. Lett. 130, 227201] Published Fri Jun 02, 2023]]></summary>
         <author>
             <name>Zhipeng Li, Chenhui Li, Ze Xiong, Guoqiang Xu, Yongtai Raymond Wang, Xi Tian, Xin Yang, Zhu Liu, Qihang Zeng, Rongzhou Lin, Ying Li, Jason Kai Wei Lee, John S. Ho, and Cheng-Wei Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orientation dynamics of two-dimensional concavo-convex bodies]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.L062301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.L062301"/>
-        <updated>2023-06-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. Ravichandran and J. S. Wettlaufer
-We study the complex orientation dynamics of a settling body with concave and convex surfaces using particle-resolving direct numerical simulations, and find multiple bifurcations of the dynamics as the Reynolds number of the body is varied from O(1) to O(20). The dynamics of irregularly shaped solid bodies in this range of Reynolds numbers is relevant in such varied phenomena as the tumbling of ice particles in atmospheric clouds, and of plant and animal microorganisms in the ocean.
-
-[Phys. Rev. Fluids 8, L062301] Published Fri Jun 02, 2023]]></summary>
-        <author>
-            <name>S. Ravichandran and J. S. Wettlaufer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramagnetic electronic structure of CrSBr: Comparison between <i>ab initio</i> $GW$ theory and angle-resolved photoemission spectroscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.235107</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.235107"/>
-        <updated>2023-06-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Marco Bianchi, Swagata Acharya, Florian Dirnberger, Julian Klein, Dimitar Pashov, Kseniia Mosina, Zdenek Sofer, Alexander N. Rudenko, Mikhail I. Katsnelson, Mark van Schilfgaarde, Malte Rösner, and Philip Hofmann
-Understanding the electronic structure of the layered magnetic semiconductor CrSBr is a formidable challenge for both experiment and theory. The material is highly insulating at low temperatures, preventing angle-resolved photoemission spectroscopy investigations in the magnetically ordered phase. Theoretically, not only the non-local Coulomb interaction in the low-dimensional compound needs to be addressed properly, but a comparison to the experimental data also requires an approximate handling of the paramagnetic phase. Including these effects gives an excellent understanding of the experimentally observed band structure.
-
-[Phys. Rev. B 107, 235107] Published Fri Jun 02, 2023]]></summary>
-        <author>
-            <name>Marco Bianchi, Swagata Acharya, Florian Dirnberger, Julian Klein, Dimitar Pashov, Kseniia Mosina, Zdenek Sofer, Alexander N. Rudenko, Mikhail I. Katsnelson, Mark van Schilfgaarde, Malte Rösner, and Philip Hofmann</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.261401",
+          "author": "Souvik Jana, Shasvath J. Kapadia, Tejaswi Venumadhav, and Parameswaran Ajith",
+          "description": "Author(s): Souvik Jana, Shasvath J. Kapadia, Tejaswi Venumadhav, and Parameswaran Ajith\nThe path of a gravitational wave passing near a galaxy can be bent, producing multiple signals that could help next-generation detectors measure the expansion of the Universe.\n\n[Phys. Rev. Lett. 130, 261401] Published Fri Jun 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.261401",
+          "publishedOn": "2023-06-30T10:00:00.000Z",
+          "wordCount": 1096,
+          "title": "Cosmography Using Strongly Lensed Gravitational Waves from Binary Black Holes",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.261401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.126027",
+          "author": "Laura Donnay, Adrien Fiorucci, Yannick Herfray, and Romain Ruzziconi",
+          "description": "Author(s): Laura Donnay, Adrien Fiorucci, Yannick Herfray, and Romain Ruzziconi\nFormulating a precise notion of holography between gravity in asymptotically flat spacetime and a lower-dimensional field theory remains an outstanding problem. In this paper, the authors discuss two seemingly disparate existing approaches to such a duality, namely the celestial and Carrolian holography, and show that they are connected by an integral transform.\n\n[Phys. Rev. D 107, 126027] Published Fri Jun 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.126027",
+          "publishedOn": "2023-06-30T10:00:00.000Z",
+          "wordCount": 989,
+          "title": "Bridging Carrollian and celestial holography",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.126027.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.267001",
           "author": "Aaron Somoroff, Quentin Ficheux, Raymond A. Mencia, Haonan Xiong, Roman Kuzmin, and Vladimir E. Manucharyan",
           "description": "Author(s): Aaron Somoroff, Quentin Ficheux, Raymond A. Mencia, Haonan Xiong, Roman Kuzmin, and Vladimir E. Manucharyan\nResearchers demonstrate a fluxonium qubit that retains its quantum information for 1.43 milliseconds, 10 times longer than the previous best lifetime for this system.\n\n[Phys. Rev. Lett. 130, 267001] Published Thu Jun 29, 2023",
@@ -48,10 +68,10 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.263601",
           "author": "Chao Liang, Yuanjiang Tang, An-Ning Xu, and Yong-Chun Liu",
-          "description": "Author(s): Chao Liang, Yuanjiang Tang, An-Ning Xu, and Yong-Chun Liu\nTwo experimental studies realized enhanced atomic sensing and chiral heat transport near “exceptional points,” where the states of an open, non-Hermitian system overlap.\n\n[Phys. Rev. Lett. 130, 263601] Published Wed Jun 28, 2023",
+          "description": "Author(s): Chao Liang, Yuanjiang Tang, An-Ning Xu, and Yong-Chun Liu\nTwo experimental studies realized enhanced atomic sensing and chiral heat transport near exceptional points—singularities inherent to open, non-Hermitian systems.\n\n[Phys. Rev. Lett. 130, 263601] Published Wed Jun 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.263601",
           "publishedOn": "2023-06-28T10:00:00.000Z",
-          "wordCount": 1366,
+          "wordCount": 1402,
           "title": "Observation of Exceptional Points in Thermal Atomic Ensembles",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.263601.png"
         },
@@ -68,10 +88,10 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.266303",
           "author": "Guoqiang Xu, Xue Zhou, Ying Li, Qitao Cao, Weijin Chen, Yunfeng Xiao, Lan Yang, and Cheng-Wei Qiu",
-          "description": "Author(s): Guoqiang Xu, Xue Zhou, Ying Li, Qitao Cao, Weijin Chen, Yunfeng Xiao, Lan Yang, and Cheng-Wei Qiu\nTwo experimental studies realized enhanced atomic sensing and chiral heat transport near “exceptional points,” where the states of an open, non-Hermitian system overlap.\n\n[Phys. Rev. Lett. 130, 266303] Published Wed Jun 28, 2023",
+          "description": "Author(s): Guoqiang Xu, Xue Zhou, Ying Li, Qitao Cao, Weijin Chen, Yunfeng Xiao, Lan Yang, and Cheng-Wei Qiu\nTwo experimental studies realized enhanced atomic sensing and chiral heat transport near exceptional points—singularities inherent to open, non-Hermitian systems.\n\n[Phys. Rev. Lett. 130, 266303] Published Wed Jun 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.266303",
           "publishedOn": "2023-06-28T10:00:00.000Z",
-          "wordCount": 1210,
+          "wordCount": 1246,
           "title": "Non-Hermitian Chiral Heat Transport",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.266303.png"
         },
@@ -361,7 +381,7 @@
           "description": "Author(s): Grace J. Li and Mason A. Porter\nA bounded-confidence model of opinion dynamics on networks with node weights, which encode heterogeneous activity levels, is studied. The presence of heterogeneous node weights increases both opinion fragmentation and convergence times to steady state.\n\n[Phys. Rev. Research 5, 023179] Published Wed Jun 21, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.023179",
           "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1471,
+          "wordCount": 1501,
           "title": "Bounded-confidence model of opinion dynamics with heterogeneous node-activity levels",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.023179.png"
         },
@@ -621,7 +641,7 @@
           "description": "Author(s): Alexander C. Mark, Muhtar Ahart, Ravhi Kumar, Changyong Park, Yue Meng, Dmitry Popov, Liangzi Deng, Ching-Wu Chu, Juan Carlos Campuzano, and Russell J. Hemley\nExperiments on a family of cuprate superconductors resolve discrepancies in previous work and elucidate why the critical temperature varies with pressure.\n\n[Phys. Rev. Materials 7, 064803] Published Wed Jun 14, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.064803",
           "publishedOn": "2023-06-14T10:00:00.000Z",
-          "wordCount": 1787,
+          "wordCount": 1786,
           "title": "Structure and equation of state of ${\\mathrm{Bi}}_{2}{\\mathrm{Sr}}_{2}{\\mathrm{Ca}}_{n−1}{\\mathrm{Cu}}_{n}{\\mathrm{O}}_{2n+4+δ}$ from x-ray diffraction to megabar pressures",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.064803.png"
         },
@@ -868,7 +888,7 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.224304",
           "author": "Florian Knoop, Matthias Scheffler, and Christian Carbogno",
-          "description": "Author(s): Florian Knoop, Matthias Scheffler, and Christian Carbogno\nAb initio Green-Kubo simulations provide an accurate description of lattice thermal conductivities from first principles. This approach reliably describes the full range from harmonic to strongly anharmonic materials. The latter are not handled well by often employed, perturbed phonon models. Using challenging benchmark materials as examples, this paper discusses various physical and computational strategies that speed up the calculations. These advancements pave the way for efficiently exploring materials space in the search for thermal insulators, as demonstrated in the accompanying PRL.\nCan we pls add a hyperlink to the word “PRL” to the published wrapper page for the PRL\n\n[Phys. Rev. B 107, 224304] Published Wed Jun 07, 2023",
+          "description": "Author(s): Florian Knoop, Matthias Scheffler, and Christian Carbogno\nAb initio Green-Kubo simulations provide an accurate description of lattice thermal conductivities from first principles. This approach reliably describes the full range from harmonic to strongly anharmonic materials. The latter are not handled well by often employed, perturbed phonon models. Using challenging benchmark materials as examples, this paper discusses various physical and computational strategies that speed up the calculations. These advancements pave the way for efficiently exploring materials space in the search for thermal insulators, as demonstrated in the accompanying PRL (DOI: https://doi.org/10.1103/PhysRevLett.130.236301).\n\n[Phys. Rev. B 107, 224304] Published Wed Jun 07, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.224304",
           "publishedOn": "2023-06-07T10:00:00.000Z",
           "wordCount": 1443,
@@ -984,26 +1004,6 @@
           "wordCount": 1385,
           "title": "Stochastic Exceptional Points for Noise-Assisted Sensing",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.227201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L062301",
-          "author": "S. Ravichandran and J. S. Wettlaufer",
-          "description": "Author(s): S. Ravichandran and J. S. Wettlaufer\nWe study the complex orientation dynamics of a settling body with concave and convex surfaces using particle-resolving direct numerical simulations, and find multiple bifurcations of the dynamics as the Reynolds number of the body is varied from O(1) to O(20). The dynamics of irregularly shaped solid bodies in this range of Reynolds numbers is relevant in such varied phenomena as the tumbling of ice particles in atmospheric clouds, and of plant and animal microorganisms in the ocean.\n\n[Phys. Rev. Fluids 8, L062301] Published Fri Jun 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L062301",
-          "publishedOn": "2023-06-02T10:00:00.000Z",
-          "wordCount": 1364,
-          "title": "Orientation dynamics of two-dimensional concavo-convex bodies",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L062301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.235107",
-          "author": "Marco Bianchi, Swagata Acharya, Florian Dirnberger, Julian Klein, Dimitar Pashov, Kseniia Mosina, Zdenek Sofer, Alexander N. Rudenko, Mikhail I. Katsnelson, Mark van Schilfgaarde, Malte Rösner, and Philip Hofmann",
-          "description": "Author(s): Marco Bianchi, Swagata Acharya, Florian Dirnberger, Julian Klein, Dimitar Pashov, Kseniia Mosina, Zdenek Sofer, Alexander N. Rudenko, Mikhail I. Katsnelson, Mark van Schilfgaarde, Malte Rösner, and Philip Hofmann\nUnderstanding the electronic structure of the layered magnetic semiconductor CrSBr is a formidable challenge for both experiment and theory. The material is highly insulating at low temperatures, preventing angle-resolved photoemission spectroscopy investigations in the magnetically ordered phase. Theoretically, not only the non-local Coulomb interaction in the low-dimensional compound needs to be addressed properly, but a comparison to the experimental data also requires an approximate handling of the paramagnetic phase. Including these effects gives an excellent understanding of the experimentally observed band structure.\n\n[Phys. Rev. B 107, 235107] Published Fri Jun 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.235107",
-          "publishedOn": "2023-06-02T10:00:00.000Z",
-          "wordCount": 1184,
-          "title": "Paramagnetic electronic structure of CrSBr: Comparison between <i>ab initio</i> $GW$ theory and angle-resolved photoemission spectroscopy",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.235107.png"
         }
       ]
     }
