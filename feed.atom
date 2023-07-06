@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T01:05:21.578Z</id>
+    <id>urn:2023-07-06T01:06:12.520Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T01:05:21.578Z</updated>
+    <updated>2023-07-06T01:06:12.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Orbital Fulde-Ferrell Pairing State in Moiré Ising Superconductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.016001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.016001"/>
+        <updated>2023-07-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ying-Ming Xie and K. T. Law
+An orbital field-driven Fulde–Ferrell (FF) pairing state can be driven by the orbital effects of in-plane magnetic fields (different from the conventional Zeeman effects-driven FF state), such a pairing makes possible a giant and gate-tunable superconducting diode effect.
+
+[Phys. Rev. Lett. 131, 016001] Published Wed Jul 05, 2023]]></summary>
+        <author>
+            <name>Ying-Ming Xie and K. T. Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renormalization group flow as optimal transport]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.025003</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.025003"/>
+        <updated>2023-07-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jordan Cotler and Semon Rezchikov
+This highly original paper relates the exact renormalization group (ERG) flow to optimal gradient flow which naturally leads to the (previously known) interpretation of the ERG as a flow that minimizes the relative entropy of a probability distribution. This provides an elegant explanation of otherwise opaque features of ERG schemes and establishes a clear and intriguing link to information theory. The intuitive picture that emerges is that the coarse-graining of the RG flow produces entropy and this entropy production determines the flow itself. All these basic relations are established nonperturbatively.
+
+[Phys. Rev. D 108, 025003] Published Wed Jul 05, 2023]]></summary>
+        <author>
+            <name>Jordan Cotler and Semon Rezchikov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic anisotropy, magnetoelastic coupling, and the magnetic phase diagram of ${\mathrm{Ni}}_{0.25}{\mathrm{Mn}}_{0.75}{\mathrm{TiO}}_{3}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.014406</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.014406"/>
+        <updated>2023-07-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Elghandour, L. Gries, L. Singer, M. Hoffmann, S. Spachmann, M. Uhlarz, K. Dey, and R. Klingeler
+Magnetic anisotropy describes the tendency of a material to exhibit different magnetic behavior along different crystallographic directions. Here, the authors mix two antiferromagnets, namely MnTiO3 and NiTiO3, to form Ni0.25Mn0.75TiO3. The parent magnets are of competing anisotropy. The former has an easy magnetic axis along the c axis, whereas the latter has an easy magnetic plane within the ab plane. The authors also shed light on the doping effect upon the long-range magnetic order, emergent magnetic phases, and the magnetic entropy consumption in comparison to the parent magnets. Finally, they employ different thermodynamic probes to build a complex and rich anisotropic magnetic phase diagram of Ni0.25Mn0.75TiO3.
+
+[Phys. Rev. B 108, 014406] Published Wed Jul 05, 2023]]></summary>
+        <author>
+            <name>A. Elghandour, L. Gries, L. Singer, M. Hoffmann, S. Spachmann, M. Uhlarz, K. Dey, and R. Klingeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Roosbroeck's equations with topological terms: The case of Weyl semimetals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.024301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.024301"/>
+        <updated>2023-07-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pierre-Antoine Graham, Simon Bertrand, Michaël Bédard, Robin Durand, and Ion Garate
+For decades, van Roosbroeck’s (VR) equations have been used to model microelectronic devices made from ordinary semiconductors. The advent of topological materials raises a largely unexplored question: how are VR equations and their solutions modified when electronic bands are topological? Here, the authors solve VR equations analytically in a Weyl semimetal placed under a magnetic field and subjected to a spatially inhomogeneous light pulse. They predict photoinduced plasma oscillations, which originate from a topological term in VR equations.
+
+[Phys. Rev. B 108, 024301] Published Wed Jul 05, 2023]]></summary>
+        <author>
+            <name>Pierre-Antoine Graham, Simon Bertrand, Michaël Bédard, Robin Durand, and Ion Garate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultrafast relaxation dynamics of spin density wave order in ${\mathrm{BaFe}}_{2}{\mathrm{As}}_{2}$ under high pressures]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.035101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.035101"/>
+        <updated>2023-07-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ivan Fotev, Stephan Winnerl, Saicharan Aswartham, Sabine Wurmehl, Bernd Büchner, Harald Schneider, Manfred Helm, and Alexej Pashkin
+Application of pressure offers a way to continuously tune the ground state of a system across different phases realizing so-called quantum phase transitions. However, studying the order parameter is challenging because some established experimental techniques are not compatible with diamond anvil pressure cells. Here, the authors show that ultrafast pump-probe spectroscopy is an efficient method to accomplish this task. Using this approach, they succeed in mapping the spin density wave order parameter in iron-based superconductor BaFe2As2 over a broad range of pressures and temperatures.
+
+[Phys. Rev. B 108, 035101] Published Wed Jul 05, 2023]]></summary>
+        <author>
+            <name>Ivan Fotev, Stephan Winnerl, Saicharan Aswartham, Sabine Wurmehl, Bernd Büchner, Harald Schneider, Manfred Helm, and Alexej Pashkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cosmography Using Strongly Lensed Gravitational Waves from Binary Black Holes]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.261401</id>
@@ -1173,71 +1238,6 @@ Symmetry-breaking phase transitions are ubiquitous in nature. The study of their
 [Phys. Rev. B 107, 245112] Published Wed Jun 07, 2023]]></summary>
         <author>
             <name>Antonio Picano, Francesco Grandi, and Martin Eckstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effect of a flight stream on subsonic turbulent jets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.063902</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.063902"/>
-        <updated>2023-06-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Igor A. Maia, Guillaume Brès, Lutz Lesshafft, and Peter Jordan
-We study a turbulent jet in a uniform external flow stream. This flow configuration is of interest in aeroacoustics and aeronautics, as it mimics the effect of forward flight in real aircraft. We perform a thorough characterization of the effect of the flight stream, combining experimental and numerical data, signal processing, and linear modeling. We show that the flight stream reduces fluctuation energy in a broad region of the frequency-wavenumber space and stabilizes flow structures underpinned by modal and non-modal instability mechanisms. Streaky structures, associated with helical azimuthal wavenumbers and very slow timescales, are the most strongly affected by the flight stream.
-
-[Phys. Rev. Fluids 8, 063902] Published Tue Jun 06, 2023]]></summary>
-        <author>
-            <name>Igor A. Maia, Guillaume Brès, Lutz Lesshafft, and Peter Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Role of herbivory in shaping the dryland vegetation ecosystem: Linking spiral vegetation patterns and nonlinear, nonlocal grazing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.064403</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.064403"/>
-        <updated>2023-06-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mrinal Kanti Pal and Swarup Poria
-Model improvements uncover more information on the link between grazing animals and the formation of spiral vegetation patterns in arid climates.
-
-[Phys. Rev. E 107, 064403] Published Tue Jun 06, 2023]]></summary>
-        <author>
-            <name>Mrinal Kanti Pal and Swarup Poria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Few-nucleon scattering in pionless effective field theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.064001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.064001"/>
-        <updated>2023-06-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Martin Schäfer and Betzalel Bazak
-In nuclear physics, effective field theory is a low-energy manifestation of QCD with baryons and pions as its constituents, rather than quarks and gluons. At very low energies, even the pions can be integrated out, providing a simple yet thorough framework to study nuclear physics with controlled theoretical uncertainties. This work extends previous studies to A≤4 with accurate predictions for low-energy few-nucleon scattering, comparable to those from the best current analyses. The work confirms that a four-body force is needed at next-to-leading order to achieve cutoff-independent results.
-
-[Phys. Rev. C 107, 064001] Published Tue Jun 06, 2023]]></summary>
-        <author>
-            <name>Martin Schäfer and Betzalel Bazak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlocal optical potential in inelastic deuteron scattering off $^{24}\mathrm{Mg}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.107.064602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.107.064602"/>
-        <updated>2023-06-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Deltuva and D. Jurčiukonis
-Nuclear reactions are a powerful tool for obtaining information on yet unknown aspects of nuclear structure. This work combines an elaborate reaction framework, based on the Faddeev equations, with novel nonlocal nucleon-nucleus potentials including core excitations. The authors show that nonlocalities lead to an improved description of inelastic deuteron scattering data and may impact the extracted structure information. These results may serve as motivation for exploring a wider range of reaction frameworks.
-
-[Phys. Rev. C 107, 064602] Published Tue Jun 06, 2023]]></summary>
-        <author>
-            <name>A. Deltuva and D. Jurčiukonis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement of the conduction band spin-orbit splitting in ${\mathrm{WSe}}_{2}$ and ${\mathrm{WS}}_{2}$ monolayers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.245407</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.245407"/>
-        <updated>2023-06-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lei Ren, Cedric Robert, Hanan Dery, Minhao He, Pengke Li, Dinh Van Tuan, Pierre Renucci, Delphine Lagarde, Takashi Taniguchi, Kenji Watanabe, Xiaodong Xu, and Xavier Marie
-The conduction band spin-orbit splitting ∆c has a strong impact on optical, transport, and spin-valley properties of 2D materials based on transition metal dichalcogenide monolayers. Here, the authors study charge tunable devices based on WSe2 and WS2 monolayers. In addition to the well-known radiative recombination of neutral and charged excitons, photoluminescence measurements highlight a weaker intensity optical transition. This line is interpreted as an impurity-assisted recombination of the negatively charged exciton (triplet trion), whose radiative recombination energy differs by ∆c from that of the trion’s direct optically active recombination.
-
-[Phys. Rev. B 107, 245407] Published Tue Jun 06, 2023]]></summary>
-        <author>
-            <name>Lei Ren, Cedric Robert, Hanan Dery, Minhao He, Pengke Li, Dinh Van Tuan, Pierre Renucci, Delphine Lagarde, Takashi Taniguchi, Kenji Watanabe, Xiaodong Xu, and Xavier Marie</name>
         </author>
     </entry>
 </feed>
