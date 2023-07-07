@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.011803",
+          "author": "A. Tumasyan <em>et al.</em> (CMS Collaboration)",
+          "description": "Author(s): A. Tumasyan et al. (CMS Collaboration)\nCollider experiments have set new direct limits on the existence of hypothetical heavy neutrinos, helping to constrain how ordinary neutrinos get their mass.\n\n[Phys. Rev. Lett. 131, 011803] Published Thu Jul 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.011803",
+          "publishedOn": "2023-07-06T10:00:00.000Z",
+          "wordCount": 1046,
+          "title": "Probing Heavy Majorana Neutrinos and the Weinberg Operator through Vector Boson Fusion Processes in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.011803.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.013801",
+          "author": "Qiao Jiang, Peng Hu, Jun Wang, Dezhuan Han, and Jian Zi",
+          "description": "Author(s): Qiao Jiang, Peng Hu, Jun Wang, Dezhuan Han, and Jian Zi\nA graph-theory-based approach reveals a new kind of bound state in the continuum at an arbitrary point in momentum space, useful for the classification and evolution of polarization singularities in the whole momentum space.\n\n[Phys. Rev. Lett. 131, 013801] Published Thu Jul 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.013801",
+          "publishedOn": "2023-07-06T10:00:00.000Z",
+          "wordCount": 1147,
+          "title": "General Bound States in the Continuum in Momentum Space",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.013801.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.013804",
+          "author": "Shiqi Xia, Yongsheng Liang, Liqin Tang, Daohong Song, Jingjun Xu, and Zhigang Chen",
+          "description": "Author(s): Shiqi Xia, Yongsheng Liang, Liqin Tang, Daohong Song, Jingjun Xu, and Zhigang Chen\nA photonic version of graphene hosts never-before-seen “twig” edge states—which could provide new avenues for realizing topological phases in graphene-like materials.\n\n[Phys. Rev. Lett. 131, 013804] Published Thu Jul 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.013804",
+          "publishedOn": "2023-07-06T10:00:00.000Z",
+          "wordCount": 1374,
+          "title": "Photonic Realization of a Generic Type of Graphene Edge States Exhibiting Topological Flat Band",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.013804.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.014901",
+          "author": "Vrinda D. Desai, Farnaz Fazelpour, Alexander L. Handwerger, and Karen E. Daniels",
+          "description": "Author(s): Vrinda D. Desai, Farnaz Fazelpour, Alexander L. Handwerger, and Karen E. Daniels\nA new method based on satellite data and network models can identify hillsides that may be at risk of catastrophic landslides.\n\n[Phys. Rev. E 108, 014901] Published Thu Jul 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.014901",
+          "publishedOn": "2023-07-06T10:00:00.000Z",
+          "wordCount": 1404,
+          "title": "Forecasting landslides using community detection on geophysical satellite data",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.014901.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.016001",
           "author": "Ying-Ming Xie and K. T. Law",
           "description": "Author(s): Ying-Ming Xie and K. T. Law\nAn orbital field-driven Fulde–Ferrell (FF) pairing state can be driven by the orbital effects of in-plane magnetic fields (different from the conventional Zeeman effects-driven FF state), such a pairing makes possible a giant and gate-tunable superconducting diode effect.\n\n[Phys. Rev. Lett. 131, 016001] Published Wed Jul 05, 2023",
@@ -581,7 +621,7 @@
           "description": "Author(s): Teodora Grigorova, Christian Brahms, Federico Belli, and John C. Travers\nGas-filled hollow capillary fibers can be used for continuum generation and pulse compression. Here, the authors change the gas pressure inside hollow capillary fibers and investigate how ultrashort laser pulses propagating through the fibers respond to these changes. The use of short pulses and a long capillary fiber enables the authors to survey a much wider range of dynamics than previously observed.\n\n[Phys. Rev. A 107, 063512] Published Tue Jun 20, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.063512",
           "publishedOn": "2023-06-20T10:00:00.000Z",
-          "wordCount": 1804,
+          "wordCount": 1805,
           "title": "Dispersion tuning of nonlinear optical pulse dynamics in gas-filled hollow capillary fibers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.063512.png"
         },
@@ -894,66 +934,6 @@
           "wordCount": 1177,
           "title": "Rapidity and momentum distributions of one-dimensional dipolar quantum gases",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.L061302.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXEnergy.2.023009",
-          "author": "Robin Delabays, Andrey Y. Lokhov, Melvyn Tyloo, and Marc Vuffray",
-          "description": "Author(s): Robin Delabays, Andrey Y. Lokhov, Melvyn Tyloo, and Marc Vuffray\nA fully data-driven method solves an outstanding challenge in power grids, inferring the correct source and frequency of forced oscillations that pose significant risks to critical infrastructures.\n\n[PRX Energy 2, 023009] Published Wed Jun 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PRXEnergy.2.023009",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 1771,
-          "title": "Locating the Source of Forced Oscillations in Transmission Power Grids",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXENERGY/key_images/10.1103/PRXEnergy.2.023009.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.064201",
-          "author": "Brenden R. Ortiz, Ganesh Pokharel, Malia Gundayao, Hong Li, Farnaz Kaboudvand, Linus Kautzsch, Suchismita Sarker, Jacob P. C. Ruff, Tom Hogan, Steven J. Gomez Alvarado, Paul M. Sarte, Guang Wu, Tara Braden, Ram Seshadri, Eric S. Toberer, Ilija Zeljkovic, and Stephen D. Wilson",
-          "description": "Author(s): Brenden R. Ortiz, Ganesh Pokharel, Malia Gundayao, Hong Li, Farnaz Kaboudvand, Linus Kautzsch, Suchismita Sarker, Jacob P. C. Ruff, Tom Hogan, Steven J. Gomez Alvarado, Paul M. Sarte, Guang Wu, Tara Braden, Ram Seshadri, Eric S. Toberer, Ilija Zeljkovic, and Stephen D. Wilson\nMotivated in part by the success of the AV3Sb5 kagome superconductors, ongoing efforts to explore new kagome metals have led to the discovery of a range of materials exhibiting unique magnetic and electronic properties. In this study, the authors present novel vanadium-based kagome antimonides that incorporate the chemical flexibility of a rare-earth site, allowing for the intertwining of magnetic and charge degrees of freedom. These new compounds, namely EuV3Sb4 and YbV3Sb4, provide valuable insights into the relatively small LnM3X4 family and open up potential avenues for the realization of additional rare-earth, antimonide-based kagome metals.\n\n[Phys. Rev. Materials 7, 064201] Published Wed Jun 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.064201",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 1246,
-          "title": "${\\mathrm{YbV}}_{3}{\\mathrm{Sb}}_{4}$ and ${\\mathrm{EuV}}_{3}{\\mathrm{Sb}}_{4}$ vanadium-based kagome metals with ${\\mathrm{Yb}}^{2+}$ and ${\\mathrm{Eu}}^{2+}$ zigzag chains",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.064201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.065403",
-          "author": "Bianca Baldassarri, Jiangang He, Xin Qian, Emanuela Mastronardo, Sean Griesemer, Sossina M. Haile, and Christopher Wolverton",
-          "description": "Author(s): Bianca Baldassarri, Jiangang He, Xin Qian, Emanuela Mastronardo, Sean Griesemer, Sossina M. Haile, and Christopher Wolverton\nThe computation of the oxygen vacancy formation energy using density functional theory is a critical factor in applications like solar thermochemical hydrogen production. However, when we calculate it using structures that are dynamically unstable, results in artificially reduced values and lack of convergence with cell size. By comparing the calculated values with experimental data, the authors can clearly see the importance of using dynamically stable structures for accurate calculations. This comparison also validates the reliability of density functional theory calculations. Furthermore, using a high-throughput approach, the authors perform such calculations to identify new candidates for solar thermochemical hydrogen production among ABO3 perovskite materials, demonstrating the striong influence of B-site cations on the oxygen vacancy formation energy.\n\n[Phys. Rev. Materials 7, 065403] Published Wed Jun 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.065403",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 1429,
-          "title": "Accuracy of DFT computed oxygen-vacancy formation energies and high-throughput search of solar thermochemical water-splitting compounds",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.065403.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.065404",
-          "author": "Iver J. Cleveland, Minh N. Tran, Suryansh Kabra, Kajini Sandrakumar, Haripriya Kannan, Ayaskanta Sahu, and Eray S. Aydil",
-          "description": "Author(s): Iver J. Cleveland, Minh N. Tran, Suryansh Kabra, Kajini Sandrakumar, Haripriya Kannan, Ayaskanta Sahu, and Eray S. Aydil\nYtterbium-doped CsPbCl3 emerges as the primary contender for a quantum cutting coating on silicon solar cells, aiming to enhance both their efficiencies and durability. This is accomplished by converting each incident ultraviolet and blue photon with energies greater than 2.5 eV into two 1.25 eV near-infrared red photons. The potential of this approach lies in the possibility of surpassing the Quessier limit, thereby augmenting the efficiencies of silicon solar cells. While thin films produced through colloidal synthesis and nanocrystal dispersions have demonstrated photoluminescence quantum yields nearing 200%, there has been a growing interest in employing physical vapor deposition as a large-area scalable method due to sub-band gap absorption exhibited by colloidal films. In the present study, the authors made an intriguing discovery regarding the significant influence of post-deposition annealing environment and protocols on the near-infrared photoluminescence quantum yields in Yb-doped halide perovskite films that demonstrate the downconversion of ultraviolet and blue light through quantum cutting.\n\n[Phys. Rev. Materials 7, 065404] Published Wed Jun 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.065404",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 1506,
-          "title": "Physical vapor deposition of Yb-doped $\\mathrm{CsPb}{\\mathrm{Cl}}_{3}$ thin films for quantum cutting",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.065404.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.224304",
-          "author": "Florian Knoop, Matthias Scheffler, and Christian Carbogno",
-          "description": "Author(s): Florian Knoop, Matthias Scheffler, and Christian Carbogno\nAb initio Green-Kubo simulations provide an accurate description of lattice thermal conductivities from first principles. This approach reliably describes the full range from harmonic to strongly anharmonic materials. The latter are not handled well by often employed, perturbed phonon models. Using challenging benchmark materials as examples, this paper discusses various physical and computational strategies that speed up the calculations. These advancements pave the way for efficiently exploring materials space in the search for thermal insulators, as demonstrated in the accompanying PRL (DOI: https://doi.org/10.1103/PhysRevLett.130.236301).\n\n[Phys. Rev. B 107, 224304] Published Wed Jun 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.224304",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 1443,
-          "title": "<i>Ab initio</i> Green-Kubo simulations of heat transport in solids: Method and implementation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.224304.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.245112",
-          "author": "Antonio Picano, Francesco Grandi, and Martin Eckstein",
-          "description": "Author(s): Antonio Picano, Francesco Grandi, and Martin Eckstein\nSymmetry-breaking phase transitions are ubiquitous in nature. The study of their dynamics in solids has often been performed using homogeneous order parameter theories. By microscopically modeling the photoinduced melting and recovery of a charge density wave, the authors instead show here that the transient dynamics can lead to disordered state, where the average order parameter is not representative of the atomic-scale configuration. This provides a possible minimal model description of the experimentally proposed inhomogeneous disordering pathway in photoinduced phase transitions.\n\n[Phys. Rev. B 107, 245112] Published Wed Jun 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.245112",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 1189,
-          "title": "Inhomogeneous disordering at a photoinduced charge density wave transition",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.245112.png"
         }
       ]
     }
