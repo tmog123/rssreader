@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.013401",
+          "author": "Alexander Guttridge, Daniel K. Ruttley, Archie C. Baldock, Rosario González-Férez, H. R. Sadeghpour, C. S. Adams, and Simon L. Cornish",
+          "description": "Author(s): Alexander Guttridge, Daniel K. Ruttley, Archie C. Baldock, Rosario González-Férez, H. R. Sadeghpour, C. S. Adams, and Simon L. Cornish\nResearchers take a step toward a new form of quantum computation by demonstrating a state-controlling interaction called Rydberg blockade between an atom and a molecule.\n\n[Phys. Rev. Lett. 131, 013401] Published Fri Jul 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.013401",
+          "publishedOn": "2023-07-07T10:00:00.000Z",
+          "wordCount": 1472,
+          "title": "Observation of Rydberg Blockade Due to the Charge-Dipole Interaction between an Atom and a Polar Molecule",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.013401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.015102",
+          "author": "I. V. Igumenshchev <em>et al.</em>",
+          "description": "Author(s): I. V. Igumenshchev et al.\nA laser experiment provides a proof-of-principle test for an alternative fusion concept that uses targets made with liquid fuel rather than conventional frozen fuel.\n\n[Phys. Rev. Lett. 131, 015102] Published Fri Jul 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.015102",
+          "publishedOn": "2023-07-07T10:00:00.000Z",
+          "wordCount": 981,
+          "title": "Proof-of-Principle Experiment on the Dynamic Shell Formation for Inertial Confinement Fusion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.015102.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.016601",
+          "author": "Sarath Sankar, Eran Sela, and Cheolhee Han",
+          "description": "Author(s): Sarath Sankar, Eran Sela, and Cheolhee Han\nA new scheme that combines a quantum point contact with a quantum dot may enable the elusive measurement of topological entanglement entropy in systems such the fractional quantum Hall state.\n\n[Phys. Rev. Lett. 131, 016601] Published Fri Jul 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.016601",
+          "publishedOn": "2023-07-07T10:00:00.000Z",
+          "wordCount": 1091,
+          "title": "Measuring Topological Entanglement Entropy Using Maxwell Relations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.016601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.014112",
+          "author": "Costantino Di Bello, Alexander K. Hartmann, Satya N. Majumdar, Francesco Mori, Alberto Rosso, and Grégory Schehr",
+          "description": "Author(s): Costantino Di Bello, Alexander K. Hartmann, Satya N. Majumdar, Francesco Mori, Alberto Rosso, and Grégory Schehr\nThe authors investigate the effects of stochastic resetting on current fluctuations for two different models for particle motion: Brownian motion and run-and-tumble motion. Using analytical and numerical methods, they find large differences in how the two models approach the steady state in the annealed and the quenched cases.\n\n[Phys. Rev. E 108, 014112] Published Fri Jul 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.014112",
+          "publishedOn": "2023-07-07T10:00:00.000Z",
+          "wordCount": 1337,
+          "title": "Current fluctuations in stochastically resetting particle systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.014112.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.011803",
           "author": "A. Tumasyan <em>et al.</em> (CMS Collaboration)",
           "description": "Author(s): A. Tumasyan et al. (CMS Collaboration)\nCollider experiments have set new direct limits on the existence of hypothetical heavy neutrinos, helping to constrain how ordinary neutrinos get their mass.\n\n[Phys. Rev. Lett. 131, 011803] Published Thu Jul 06, 2023",
@@ -621,7 +661,7 @@
           "description": "Author(s): Teodora Grigorova, Christian Brahms, Federico Belli, and John C. Travers\nGas-filled hollow capillary fibers can be used for continuum generation and pulse compression. Here, the authors change the gas pressure inside hollow capillary fibers and investigate how ultrashort laser pulses propagating through the fibers respond to these changes. The use of short pulses and a long capillary fiber enables the authors to survey a much wider range of dynamics than previously observed.\n\n[Phys. Rev. A 107, 063512] Published Tue Jun 20, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.063512",
           "publishedOn": "2023-06-20T10:00:00.000Z",
-          "wordCount": 1805,
+          "wordCount": 1804,
           "title": "Dispersion tuning of nonlinear optical pulse dynamics in gas-filled hollow capillary fibers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.063512.png"
         },
@@ -731,7 +771,7 @@
           "description": "Author(s): Alexander C. Mark, Muhtar Ahart, Ravhi Kumar, Changyong Park, Yue Meng, Dmitry Popov, Liangzi Deng, Ching-Wu Chu, Juan Carlos Campuzano, and Russell J. Hemley\nExperiments on a family of cuprate superconductors resolve discrepancies in previous work and elucidate why the critical temperature varies with pressure.\n\n[Phys. Rev. Materials 7, 064803] Published Wed Jun 14, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.064803",
           "publishedOn": "2023-06-14T10:00:00.000Z",
-          "wordCount": 1787,
+          "wordCount": 1786,
           "title": "Structure and equation of state of ${\\mathrm{Bi}}_{2}{\\mathrm{Sr}}_{2}{\\mathrm{Ca}}_{n−1}{\\mathrm{Cu}}_{n}{\\mathrm{O}}_{2n+4+δ}$ from x-ray diffraction to megabar pressures",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.064803.png"
         },
@@ -884,56 +924,6 @@
           "wordCount": 1462,
           "title": "Spin-motion coupling in a circular-Rydberg-state quantum simulator: Case of two atoms",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.063106.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.236102",
-          "author": "Basile Radisson and Eva Kanso",
-          "description": "Author(s): Basile Radisson and Eva Kanso\nElastic shape transitions can be predicted from geometric symmetries and symmetry-breaking mechanisms, providing universal design rules for these transitions.\n\n[Phys. Rev. Lett. 130, 236102] Published Thu Jun 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.236102",
-          "publishedOn": "2023-06-08T10:00:00.000Z",
-          "wordCount": 1126,
-          "title": "Elastic Snap-Through Instabilities Are Governed by Geometric Symmetries",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.236102.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.064701",
-          "author": "Girguis Sedky, Antonios Gementzopoulos, Francis D. Lagor, and Anya R. Jones",
-          "description": "Author(s): Girguis Sedky, Antonios Gementzopoulos, Francis D. Lagor, and Anya R. Jones\nIn this work, we experimentally demonstrate the utility of unsteady potential flow models in developing closed-loop control strategies for mitigating the lift transients on a wing experiencing large-amplitude transverse gusts. The developed closed-loop controller mitigates lift for gusts of various strengths and directions and for wings with pre- and post-stall angles of attack. Time-resolved force and flow field measurements are used to discover the salient flow physics during these encounters and illustrate how closed-loop actuation mitigates their lift transients.\n\n[Phys. Rev. Fluids 8, 064701] Published Thu Jun 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.064701",
-          "publishedOn": "2023-06-08T10:00:00.000Z",
-          "wordCount": 1404,
-          "title": "Experimental mitigation of large-amplitude transverse gusts via closed-loop pitch control",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.064701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L061601",
-          "author": "Yuki Wakata, Ning Zhu, Xiaoliang Chen, Sijia Lyu, Detlef Lohse, Xing Chao, and Chao Sun",
-          "description": "Author(s): Yuki Wakata, Ning Zhu, Xiaoliang Chen, Sijia Lyu, Detlef Lohse, Xing Chao, and Chao Sun\nUnderstanding and regulating the Leidenfrost temperature is of great importance for practical applications such as spray cooling. In this study, nonnegligible cooling effects of Leidenfrost drops on surfaces with small thermal diffusivities are observed with an IR camera. The influence of thermal properties and surface roughness on the Leidenfrost temperature is investigated experimentally and explained by a simple theoretical model.\n\n[Phys. Rev. Fluids 8, L061601] Published Thu Jun 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L061601",
-          "publishedOn": "2023-06-08T10:00:00.000Z",
-          "wordCount": 1129,
-          "title": "How roughness and thermal properties of a solid substrate determine the Leidenfrost temperature: Experiments and a model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L061601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.107.123006",
-          "author": "Vo Hong Minh Phan, Sarah Recchia, Philipp Mertsch, and Stefano Gabici",
-          "description": "Author(s): Vo Hong Minh Phan, Sarah Recchia, Philipp Mertsch, and Stefano Gabici\nThis paper demonstrates that a stochastic, rather than uniform, injection rate of MeV cosmic rays from supernovae can successfully model the observed ionization rate distribution for Galactic molecular clouds.\n\n[Phys. Rev. D 107, 123006] Published Thu Jun 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.107.123006",
-          "publishedOn": "2023-06-08T10:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Stochasticity of cosmic rays from supernova remnants and the ionization rates in molecular clouds",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.107.123006.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.107.L061302",
-          "author": "Kuan-Yu Li, Yicheng Zhang, Kangning Yang, Kuan-Yu Lin, Sarang Gopalakrishnan, Marcos Rigol, and Benjamin L. Lev",
-          "description": "Author(s): Kuan-Yu Li, Yicheng Zhang, Kangning Yang, Kuan-Yu Lin, Sarang Gopalakrishnan, Marcos Rigol, and Benjamin L. Lev\nThe effects of integrability-breaking interactions on equilibrium states are explored using a one-dimensional Bose gas of highly magnetic atoms. A dressed-quasiparticle description is found to be necessary to predict equilibrium rapidity and momentum distributions as the strength of the integrability-breaking perturbation increases.\n\n[Phys. Rev. A 107, L061302] Published Thu Jun 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.107.L061302",
-          "publishedOn": "2023-06-08T10:00:00.000Z",
-          "wordCount": 1177,
-          "title": "Rapidity and momentum distributions of one-dimensional dipolar quantum gases",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.107.L061302.png"
         }
       ]
     }
