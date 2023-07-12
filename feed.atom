@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T00:58:15.867Z</id>
+    <id>urn:2023-07-12T01:04:25.455Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T00:58:15.867Z</updated>
+    <updated>2023-07-12T01:04:25.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Final Measurement of the $^{235}\mathrm{U}$ Antineutrino Energy Spectrum with the PROSPECT-I Detector at HFIR]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.021802</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.021802"/>
+        <updated>2023-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Andriamirado et al. (PROSPECT Collaboration)
+The most precise measurement of the antineutrino spectrum of Uranium-235 using the PROSPECT-I detector at the High Flux Isotope Reactor.
+
+[Phys. Rev. Lett. 131, 021802] Published Tue Jul 11, 2023]]></summary>
+        <author>
+            <name>M. Andriamirado &lt;em&gt;et al.&lt;/em&gt; (PROSPECT Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving Alkali Rydberg Transitions with a Phase-Modulated Optical Lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.023201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.023201"/>
+        <updated>2023-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): R. Cardman and G. Raithel
+Oscillating an optical lattice of Rydberg atoms at the right frequency causes the atoms to make electronic transitions, which can be useful for quantum processing techniques.
+
+[Phys. Rev. Lett. 131, 023201] Published Tue Jul 11, 2023]]></summary>
+        <author>
+            <name>R. Cardman and G. Raithel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Difference between fixed-order and contour-improved perturbation theory]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.014007</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.014007"/>
+        <updated>2023-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maarten Golterman, Kim Maltman, and Santiago Peris
+Contour-Improved Perturbation Theory and Fixed-Order Perturbation Theory are two methods used to approach the poorly converging QCD calculations involved in extracting the strong coupling constant from tau decays. However, they give somewhat differing results. Here, the authors introduce a new measure of the distance between the FOPT Borel sum and the CIPT series which clarifies the differences, and confirms that CIPT is inconsistent with the Operator Product Expansion.
+
+[Phys. Rev. D 108, 014007] Published Tue Jul 11, 2023]]></summary>
+        <author>
+            <name>Maarten Golterman, Kim Maltman, and Santiago Peris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viscosity of pure-glue QCD from the lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.014503</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.014503"/>
+        <updated>2023-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Luis Altenkort, Alexander M. Eller, Anthony Francis, Olaf Kaczmarek, Lukas Mazur, Guy D. Moore, and Hai-Tao Shu
+The shear and bulk viscosities in the Quark-Gluon Plasma are quantities of enormous interest for the collisions of heavy ions at RHIC and the LHC. Using lattices up to 1443 x 36 in size, and applying gradient flow and blocking methods with high precision, the authors compute these viscosities at 1.5 times the deconfining transition temperature in the pure glue theory. This shows that obtaining values with dynamical quarks, which can be compared directly to experiment, is feasible in the near future.
+
+[Phys. Rev. D 108, 014503] Published Tue Jul 11, 2023]]></summary>
+        <author>
+            <name>Luis Altenkort, Alexander M. Eller, Anthony Francis, Olaf Kaczmarek, Lukas Mazur, Guy D. Moore, and Hai-Tao Shu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Direct Measurement of Inverse Piezoelectric Effects in Thin Films Using Laser Doppler Vibrometry]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.014017</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.014017"/>
+        <updated>2023-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Megha Acharya, Djamila Lou, Abel Fernandez, Jieun Kim, Zishen Tian, and Lane W. Martin
+This study highlights efforts to develop an accurate, simple methodology to assess the electromechanical response in thin-film heterostructures, using laser Doppler vibrometry to measuring surface displacements smaller than 1 nm. The work demonstrates how to use the measured values to extract the piezoelectric coefficient d33 for a generic thin-film system by means of finite-element modeling. Finally, the work shows how to assess the electromechanical figure of merit for thin films, and offers a procedure for how to compare them to their bulk counterparts via the electromechanical coupling coefficient k33.
+
+[Phys. Rev. Applied 20, 014017] Published Tue Jul 11, 2023]]></summary>
+        <author>
+            <name>Megha Acharya, Djamila Lou, Abel Fernandez, Jieun Kim, Zishen Tian, and Lane W. Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acoustic Radiation From a Superconducting Qubit: From Spontaneous Emission to Rabi Oscillations]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.014018</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.014018"/>
+        <updated>2023-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Vijay Jain, Vladislav D. Kurilovich, Yanni D. Dahmani, Chan U Lei, David Mason, Taekwan Yoon, Peter T. Rakich, Leonid I. Glazman, and Robert J. Schoelkopf
+A phonon (quantized vibration of a crystalline medium) is much shorter in wavelength than a photon of the same frequency. This length-scale reduction offers an opportunity to achieve higher density of quantum information storage, and may open a path to scalable implementations of superconducting quantum processors. However, the smallness of the acoustic wavelength also poses a challenge: It may result in fast qubit decoherence via an unintentional emission of phonons. The authors demonstrate how to circumvent such spontaneous emission and attain quantum coherent coupling of a qubit to an isolated phonon mode.
+
+[Phys. Rev. Applied 20, 014018] Published Tue Jul 11, 2023]]></summary>
+        <author>
+            <name>Vijay Jain, Vladislav D. Kurilovich, Yanni D. Dahmani, Chan U Lei, David Mason, Taekwan Yoon, Peter T. Rakich, Leonid I. Glazman, and Robert J. Schoelkopf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classical Analogue to the Kitaev Model and Majoranalike Topological Bound States]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.014019</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.014019"/>
+        <updated>2023-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ting-Wei Liu and Fabio Semperlotti
+Despite the fundamental differences between quantum and classical topological material systems, recent studies have shown remarkable similarities in their underlying mathematical structure. This study discusses the classical analogue of the well-known second-quantization formalism, and uses it to analyze a dimerized mechanical chain. The formalism reveals a striking resemblance between the Hamiltonians of the classical dimerized chain and the Kitaev chain, a toy model renowned for bound-state solutions akin to Majorana zero modes. This formulation provides a powerful tool to discover and design classical mechanical mimics of topological quantum systems.
+
+[Phys. Rev. Applied 20, 014019] Published Tue Jul 11, 2023]]></summary>
+        <author>
+            <name>Ting-Wei Liu and Fabio Semperlotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interaction of Domain Walls with Grain Boundaries in Uniaxial Insulating Antiferromagnets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.014020</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.014020"/>
+        <updated>2023-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Oleksandr V. Pylypovskyi, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner, René Hübner, Brendan Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky, and Denys Makarov
+Antiferromagnetic (AFM) spin-orbitronics and data storage rely on the motion of AFM solitons (domain walls and skyrmions) in thin films consisting of nanocrystalline grains. The design of high-performance antiferromagnet-based memory and logic devices has been limited by a lack of knowledge about the interaction of AFM solitons with grain boundaries. The authors develop a model of a nanocrystalline AFM material (e.g. magnetoelectric Cr2O3), including proper intergrain exchange. Their approach provides design rules for granular AFM memory devices, and should stimulate further research on ultrafast magnetization dynamics of the order parameter in insulating granular AFM thin films.
+
+[Phys. Rev. Applied 20, 014020] Published Tue Jul 11, 2023]]></summary>
+        <author>
+            <name>Oleksandr V. Pylypovskyi, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner, René Hübner, Brendan Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky, and Denys Makarov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[State of Cell Unjamming Correlates with Distant Metastasis in Cancer Patients]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.13.031003</id>
@@ -1159,58 +1263,6 @@ Molecular spintronics is usually based on paramagnetic or ferromagnetic (S ≠ 0
 [Phys. Rev. B 107, 245414] Published Tue Jun 13, 2023]]></summary>
         <author>
             <name>Claire Besson, Philipp Stegmann, Michael Schnee, Zeila Zanolli, Simona Achilli, Nils Wittemeier, Asmus Vierck, Robert Frielinghaus, Paul Kögerler, Janina Maultzsch, Pablo Ordejón, Claus M. Schneider, Alfred Hucht, Jürgen König, and Carola Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Oscillations in Graphene Using Surface Acoustic Wave Resonators]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.246201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.246201"/>
-        <updated>2023-06-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yawen Fang, Yang Xu, Kaifei Kang, Benyamin Davaji, Kenji Watanabe, Takashi Taniguchi, Amit Lal, Kin Fai Mak, Jie Shan, and B. J. Ramshaw
-High quality factor surface acoustic wave resonators can be optimized to measure quantum transport in graphene at low temperatures and high magnetic fields.
-
-[Phys. Rev. Lett. 130, 246201] Published Mon Jun 12, 2023]]></summary>
-        <author>
-            <name>Yawen Fang, Yang Xu, Kaifei Kang, Benyamin Davaji, Kenji Watanabe, Takashi Taniguchi, Amit Lal, Kin Fai Mak, Jie Shan, and B. J. Ramshaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biphasic Chemokinesis of Mammalian Sperm]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.248401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.248401"/>
-        <updated>2023-06-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Meisam Zaferani and Alireza Abbaspourrad
-Mammalian sperm adopt a complex stochastic navigation strategy that depends on the local environment’s chemical conditions and rheological properties.
-
-[Phys. Rev. Lett. 130, 248401] Published Mon Jun 12, 2023]]></summary>
-        <author>
-            <name>Meisam Zaferani and Alireza Abbaspourrad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large upper critical fields and dimensionality crossover of superconductivity in the infinite-layer nickelate ${\mathrm{La}}_{0.8}{\mathrm{Sr}}_{0.2}{\mathrm{NiO}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L220503</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L220503"/>
-        <updated>2023-06-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wei Wei, Wenjie Sun, Yue Sun, Yongqiang Pan, Gangjian Jin, Feng Yang, Yueying Li, Zengwei Zhu, Yuefeng Nie, and Zhixiang Shi
-The recent discovery of superconductivity in nickelates, sharing structural and electronic similarities with cuprates, is crucial for understanding the high-Tc superconducting pairing mechanism. Here, the authors study the Hc2 of a high-quality La0.8Sr0.2NiO2 thin film. Significantly large Hc2 (∼ 40 T for H || c and ∼ 52 T for H || ab) are obtained. The anisotropy decreases from ∼10 near Tc to ∼1.5 at 2 K, which confirms a crossover from 2D to 3D superconductivity based on the angle dependence of Hc2.
-
-[Phys. Rev. B 107, L220503] Published Mon Jun 12, 2023]]></summary>
-        <author>
-            <name>Wei Wei, Wenjie Sun, Yue Sun, Yongqiang Pan, Gangjian Jin, Feng Yang, Yueying Li, Zengwei Zhu, Yuefeng Nie, and Zhixiang Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phase transitions and spin state of iron in FeO under the conditions of Earth's deep interior]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.L241103</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.L241103"/>
-        <updated>2023-06-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): E. Greenberg, R. Nazarov, A. Landa, J. Ying, R. Q. Hood, B. Hen, R. Jeanloz, V. B. Prakapenka, V. V. Struzhkin, G. Kh. Rozenberg, and I. V. Leonov
-Iron oxide (FexO) serves as a model constituent of Earth-like planetary interiors, reflecting the distinctive high-pressure chemistry of their cores and rocky mantles. Under pressure it undergoes crystal structural transitions and metallization, accompanied by a local-moment collapse of Fe ions. Here, the experiments and theoretical calculations characterize the complex interplay between electron states and structural phases, resulting in a rich phase diagram and revealing the existence of a metallic high-spin state of iron at the conditions near those of Earth’s core-mantle boundary.
-
-[Phys. Rev. B 107, L241103] Published Mon Jun 12, 2023]]></summary>
-        <author>
-            <name>E. Greenberg, R. Nazarov, A. Landa, J. Ying, R. Q. Hood, B. Hen, R. Jeanloz, V. B. Prakapenka, V. V. Struzhkin, G. Kh. Rozenberg, and I. V. Leonov</name>
         </author>
     </entry>
 </feed>
