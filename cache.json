@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L071401",
+          "author": "Konstantin Shapovalov and Massimiliano Stengel",
+          "description": "Author(s): Konstantin Shapovalov and Massimiliano Stengel\nThough antiferroelectricity in PbZrO3 was discovered over 70 years ago, there is still no consensus on the exact physical mechanism behind its formation. In this study, the authors rationalize the antiferroelectric Pbam state of PbZrO3 as a modulated phase, where polarization and antiphase O6 octahedra tilts are coupled via a trilinear gradient term – the so-called rotopolar coupling. A Landau-like continuum Hamiltonian, with gradient terms calculated directly from first principles, gives an accurate description of the energetics and structure of the Pbam phase. Besides reconciling the existing theories on PbZrO3, this study may facilitate the understanding of other modulated structures in perovskites, including ferrielectric and incommensurate phases.\n\n[Phys. Rev. Materials 7, L071401] Published Wed Jul 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L071401",
+          "publishedOn": "2023-07-12T10:00:00.000Z",
+          "wordCount": 948,
+          "title": "Tilt-driven antiferroelectricity in ${\\mathrm{PbZrO}}_{3}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.L071401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.027301",
+          "author": "Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung",
+          "description": "Author(s): Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung\nA new theory allows researchers to determine the ability of arbitrarily complex neural networks to perform recognition tasks on data with intricate structure.\n\n[Phys. Rev. Lett. 131, 027301] Published Wed Jul 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.027301",
+          "publishedOn": "2023-07-12T10:00:00.000Z",
+          "wordCount": 1123,
+          "title": "Linear Classification of Neural Manifolds with Correlated Variability",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.027301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.014415",
+          "author": "Carmen Martín Valderrama, Mikel Quintana, and Andreas Berger",
+          "description": "Author(s): Carmen Martín Valderrama, Mikel Quintana, and Andreas Berger\nThe magneto-optical Kerr effect (MOKE) is described by a dielectric tensor ϵ that contains magnetization dependent terms, whose impact on reflected light is solved as an electromagnetic boundary problem. Corresponding solutions for the Jones-type reflection matrix R have been known for decades, but have not been rigorously confirmed in experiments. Here, the authors have verified that the MOKE coefficients of R describe an ellipsoid (ellipse) for a random three-dimensional (two-dimensional) magnetization vector as predicted. The experiments accomplish the simultaneous measurements of all R components through generalized magneto-optical ellipsometry.\n\n[Phys. Rev. B 108, 014415] Published Wed Jul 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.014415",
+          "publishedOn": "2023-07-12T10:00:00.000Z",
+          "wordCount": 1812,
+          "title": "Experimental verification of the reflection matrix description in linear magneto-optics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.014415.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014024",
+          "author": "Pranav Chandarana, Narendra N. Hegade, Iraitz Montalban, Enrique Solano, and Xi Chen",
+          "description": "Author(s): Pranav Chandarana, Narendra N. Hegade, Iraitz Montalban, Enrique Solano, and Xi Chen\nThe challenge of predicting protein folding—a pivotal task in biology, chemistry, and drug design—has yet to be fully surmounted, due to the complexity of finding the lowest-energy configuration of the constituent amino acids. The current study provides a hybrid classical-quantum digitized counterdiabatic approach that enhances the performance of existing quantum algorithms, producing remarkable results even in the NISQ era. This innovative solution opens up possibilities for tackling complex problems in biology and chemistry, pushing the boundaries of what is achievable with quantum computing.\n\n[Phys. Rev. Applied 20, 014024] Published Wed Jul 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014024",
+          "publishedOn": "2023-07-12T10:00:00.000Z",
+          "wordCount": 1547,
+          "title": "Digitized Counterdiabatic Quantum Algorithm for Protein Folding",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.014024.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.021802",
           "author": "M. Andriamirado <em>et al.</em> (PROSPECT Collaboration)",
           "description": "Author(s): M. Andriamirado et al. (PROSPECT Collaboration)\nThe most precise measurement of the antineutrino spectrum of Uranium-235 using the PROSPECT-I detector at the High Flux Isotope Reactor.\n\n[Phys. Rev. Lett. 131, 021802] Published Tue Jul 11, 2023",
@@ -934,46 +974,6 @@
           "wordCount": 1156,
           "title": "Electrically driven photon statistics engineering in quantum-dot circuit quantum electrodynamics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L241405.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010140",
-          "author": "Johanna Larsson and Anna T. Danielsson",
-          "description": "Author(s): Johanna Larsson and Anna T. Danielsson\nIt is important for women physics teacher candidates to have the option to participate in physics without needing to adopt physics norms associated with nerdiness.\n\n[Phys. Rev. Phys. Educ. Res. 19, 010140] Published Tue Jun 13, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010140",
-          "publishedOn": "2023-06-13T10:00:00.000Z",
-          "wordCount": 822,
-          "title": "How women physics teacher candidates utilize their double outsider identities to productively learn physics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRPER/key_images/10.1103/PhysRevPhysEducRes.19.010140.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.242501",
-          "author": "T. J. Gray <em>et al.</em>",
-          "description": "Author(s): T. J. Gray et al.\nResearchers may have found an unstable sodium nucleus that has an excited state with a spherical wave function—an elusive prospect for the study of nuclear shapes.\n\n[Phys. Rev. Lett. 130, 242501] Published Tue Jun 13, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.242501",
-          "publishedOn": "2023-06-13T10:00:00.000Z",
-          "wordCount": 1008,
-          "title": "Microsecond Isomer at the $N=20$ Island of Shape Inversion Observed at FRIB",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.242501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.235123",
-          "author": "Fabian M. Faulstich, Kevin D. Stubbs, Qinyi Zhu, Tomohiro Soejima, Rohit Dilip, Huanchen Zhai, Raehyun Kim, Michael P. Zaletel, Garnet Kin-Lic Chan, and Lin Lin",
-          "description": "Author(s): Fabian M. Faulstich, Kevin D. Stubbs, Qinyi Zhu, Tomohiro Soejima, Rohit Dilip, Huanchen Zhai, Raehyun Kim, Michael P. Zaletel, Garnet Kin-Lic Chan, and Lin Lin\nTwisted bilayer graphene (TBG) has garnered significant interest in condensed matter physics over the past few years. Here, the authors present numerical investigations of TBG implementing state-of-the-art quantum chemistry methods. Using a gauge-invariant order parameter, they show a C2z𝒯 phase transition at charge neutrality which persists at noninteger fillings near charge neutrality. The work is the first systematic study of TBG for noninteger fillings near charge neutrality.\n\n[Phys. Rev. B 107, 235123] Published Tue Jun 13, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.235123",
-          "publishedOn": "2023-06-13T10:00:00.000Z",
-          "wordCount": 1932,
-          "title": "Interacting models for twisted bilayer graphene: A quantum chemistry approach",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.235123.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.245414",
-          "author": "Claire Besson, Philipp Stegmann, Michael Schnee, Zeila Zanolli, Simona Achilli, Nils Wittemeier, Asmus Vierck, Robert Frielinghaus, Paul Kögerler, Janina Maultzsch, Pablo Ordejón, Claus M. Schneider, Alfred Hucht, Jürgen König, and Carola Meyer",
-          "description": "Author(s): Claire Besson, Philipp Stegmann, Michael Schnee, Zeila Zanolli, Simona Achilli, Nils Wittemeier, Asmus Vierck, Robert Frielinghaus, Paul Kögerler, Janina Maultzsch, Pablo Ordejón, Claus M. Schneider, Alfred Hucht, Jürgen König, and Carola Meyer\nMolecular spintronics is usually based on paramagnetic or ferromagnetic (S ≠ 0) species. Here, the authors study small ensembles of two molecular antiferromagnets, {Mn4} and {Co4}, bound to carbon nanotube quantum dots. The current through the quantum dots shows a random telegraph signal caused by transitions between nondegenerate Stot = 0 states of individual molecular antiferromagnets. Statistical analysis shows that transitions between those states are independent in the case of {Co4} ensembles, while {Mn4} ensembles display long-lived coherent superposition involving multiple complexes.\n\n[Phys. Rev. B 107, 245414] Published Tue Jun 13, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.245414",
-          "publishedOn": "2023-06-13T10:00:00.000Z",
-          "wordCount": 1653,
-          "title": "Independent and coherent transitions between antiferromagnetic states of few-molecule systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.245414.png"
         }
       ]
     }

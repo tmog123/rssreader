@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T01:04:25.455Z</id>
+    <id>urn:2023-07-13T01:06:18.380Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T01:04:25.456Z</updated>
+    <updated>2023-07-13T01:06:18.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tilt-driven antiferroelectricity in ${\mathrm{PbZrO}}_{3}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L071401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L071401"/>
+        <updated>2023-07-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Konstantin Shapovalov and Massimiliano Stengel
+Though antiferroelectricity in PbZrO3 was discovered over 70 years ago, there is still no consensus on the exact physical mechanism behind its formation. In this study, the authors rationalize the antiferroelectric Pbam state of PbZrO3 as a modulated phase, where polarization and antiphase O6 octahedra tilts are coupled via a trilinear gradient term – the so-called rotopolar coupling. A Landau-like continuum Hamiltonian, with gradient terms calculated directly from first principles, gives an accurate description of the energetics and structure of the Pbam phase. Besides reconciling the existing theories on PbZrO3, this study may facilitate the understanding of other modulated structures in perovskites, including ferrielectric and incommensurate phases.
+
+[Phys. Rev. Materials 7, L071401] Published Wed Jul 12, 2023]]></summary>
+        <author>
+            <name>Konstantin Shapovalov and Massimiliano Stengel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Classification of Neural Manifolds with Correlated Variability]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.027301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.027301"/>
+        <updated>2023-07-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung
+A new theory allows researchers to determine the ability of arbitrarily complex neural networks to perform recognition tasks on data with intricate structure.
+
+[Phys. Rev. Lett. 131, 027301] Published Wed Jul 12, 2023]]></summary>
+        <author>
+            <name>Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental verification of the reflection matrix description in linear magneto-optics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.014415</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.014415"/>
+        <updated>2023-07-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Carmen Martín Valderrama, Mikel Quintana, and Andreas Berger
+The magneto-optical Kerr effect (MOKE) is described by a dielectric tensor ϵ that contains magnetization dependent terms, whose impact on reflected light is solved as an electromagnetic boundary problem. Corresponding solutions for the Jones-type reflection matrix R have been known for decades, but have not been rigorously confirmed in experiments. Here, the authors have verified that the MOKE coefficients of R describe an ellipsoid (ellipse) for a random three-dimensional (two-dimensional) magnetization vector as predicted. The experiments accomplish the simultaneous measurements of all R components through generalized magneto-optical ellipsometry.
+
+[Phys. Rev. B 108, 014415] Published Wed Jul 12, 2023]]></summary>
+        <author>
+            <name>Carmen Martín Valderrama, Mikel Quintana, and Andreas Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digitized Counterdiabatic Quantum Algorithm for Protein Folding]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.014024</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.014024"/>
+        <updated>2023-07-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pranav Chandarana, Narendra N. Hegade, Iraitz Montalban, Enrique Solano, and Xi Chen
+The challenge of predicting protein folding—a pivotal task in biology, chemistry, and drug design—has yet to be fully surmounted, due to the complexity of finding the lowest-energy configuration of the constituent amino acids. The current study provides a hybrid classical-quantum digitized counterdiabatic approach that enhances the performance of existing quantum algorithms, producing remarkable results even in the NISQ era. This innovative solution opens up possibilities for tackling complex problems in biology and chemistry, pushing the boundaries of what is achievable with quantum computing.
+
+[Phys. Rev. Applied 20, 014024] Published Wed Jul 12, 2023]]></summary>
+        <author>
+            <name>Pranav Chandarana, Narendra N. Hegade, Iraitz Montalban, Enrique Solano, and Xi Chen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Final Measurement of the $^{235}\mathrm{U}$ Antineutrino Energy Spectrum with the PROSPECT-I Detector at HFIR]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.021802</id>
@@ -1211,58 +1263,6 @@ Quantum-dot circuit quantum electrodynamics (QD-cQED) has enabled the probe and 
 [Phys. Rev. B 107, L241405] Published Wed Jun 14, 2023]]></summary>
         <author>
             <name>Lei-Lei Nian, Bo Zheng, and Jing-Tao Lü</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How women physics teacher candidates utilize their double outsider identities to productively learn physics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010140</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.010140"/>
-        <updated>2023-06-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Johanna Larsson and Anna T. Danielsson
-It is important for women physics teacher candidates to have the option to participate in physics without needing to adopt physics norms associated with nerdiness.
-
-[Phys. Rev. Phys. Educ. Res. 19, 010140] Published Tue Jun 13, 2023]]></summary>
-        <author>
-            <name>Johanna Larsson and Anna T. Danielsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsecond Isomer at the $N=20$ Island of Shape Inversion Observed at FRIB]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.242501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.242501"/>
-        <updated>2023-06-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. J. Gray et al.
-Researchers may have found an unstable sodium nucleus that has an excited state with a spherical wave function—an elusive prospect for the study of nuclear shapes.
-
-[Phys. Rev. Lett. 130, 242501] Published Tue Jun 13, 2023]]></summary>
-        <author>
-            <name>T. J. Gray &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interacting models for twisted bilayer graphene: A quantum chemistry approach]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.235123</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.235123"/>
-        <updated>2023-06-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Fabian M. Faulstich, Kevin D. Stubbs, Qinyi Zhu, Tomohiro Soejima, Rohit Dilip, Huanchen Zhai, Raehyun Kim, Michael P. Zaletel, Garnet Kin-Lic Chan, and Lin Lin
-Twisted bilayer graphene (TBG) has garnered significant interest in condensed matter physics over the past few years. Here, the authors present numerical investigations of TBG implementing state-of-the-art quantum chemistry methods. Using a gauge-invariant order parameter, they show a C2z𝒯 phase transition at charge neutrality which persists at noninteger fillings near charge neutrality. The work is the first systematic study of TBG for noninteger fillings near charge neutrality.
-
-[Phys. Rev. B 107, 235123] Published Tue Jun 13, 2023]]></summary>
-        <author>
-            <name>Fabian M. Faulstich, Kevin D. Stubbs, Qinyi Zhu, Tomohiro Soejima, Rohit Dilip, Huanchen Zhai, Raehyun Kim, Michael P. Zaletel, Garnet Kin-Lic Chan, and Lin Lin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Independent and coherent transitions between antiferromagnetic states of few-molecule systems]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.245414</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.245414"/>
-        <updated>2023-06-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Claire Besson, Philipp Stegmann, Michael Schnee, Zeila Zanolli, Simona Achilli, Nils Wittemeier, Asmus Vierck, Robert Frielinghaus, Paul Kögerler, Janina Maultzsch, Pablo Ordejón, Claus M. Schneider, Alfred Hucht, Jürgen König, and Carola Meyer
-Molecular spintronics is usually based on paramagnetic or ferromagnetic (S ≠ 0) species. Here, the authors study small ensembles of two molecular antiferromagnets, {Mn4} and {Co4}, bound to carbon nanotube quantum dots. The current through the quantum dots shows a random telegraph signal caused by transitions between nondegenerate Stot = 0 states of individual molecular antiferromagnets. Statistical analysis shows that transitions between those states are independent in the case of {Co4} ensembles, while {Mn4} ensembles display long-lived coherent superposition involving multiple complexes.
-
-[Phys. Rev. B 107, 245414] Published Tue Jun 13, 2023]]></summary>
-        <author>
-            <name>Claire Besson, Philipp Stegmann, Michael Schnee, Zeila Zanolli, Simona Achilli, Nils Wittemeier, Asmus Vierck, Robert Frielinghaus, Paul Kögerler, Janina Maultzsch, Pablo Ordejón, Claus M. Schneider, Alfred Hucht, Jürgen König, and Carola Meyer</name>
         </author>
     </entry>
 </feed>
