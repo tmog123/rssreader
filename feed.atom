@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-19T01:56:55.075Z</id>
+    <id>urn:2023-07-20T00:56:45.542Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T01:56:55.075Z</updated>
+    <updated>2023-07-20T00:56:45.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First Direct Observation of Collider Neutrinos with FASER at the LHC]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.031801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.031801"/>
+        <updated>2023-07-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Henso Abreu et al. (FASER Collaboration)
+The first observation of neutrinos produced at a particle collider opens a new field of study and offers ways to test the limits of the standard model.
+
+[Phys. Rev. Lett. 131, 031801] Published Wed Jul 19, 2023]]></summary>
+        <author>
+            <name>Henso Abreu &lt;em&gt;et al.&lt;/em&gt; (FASER Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation of Collider Muon Neutrinos with the SND@LHC Experiment]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.031802</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.031802"/>
+        <updated>2023-07-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): R. Albanese et al. (SND@LHC Collaboration)
+We report the direct observation of muon neutrino interactions with the SND@LHC detector at the Large Hadron Collider. A dataset of proton-proton collisions at $\sqrt{s}=13.6\text{ }\text{ }\mathrm{TeV}$ collected by SND@LHC in 2022 is used, corresponding to an integrated luminosity of $36.8\text{ }…
+[Phys. Rev. Lett. 131, 031802] Published Wed Jul 19, 2023]]></summary>
+        <author>
+            <name>R. Albanese &lt;em&gt;et al.&lt;/em&gt; (SND@LHC Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-Momentum-Transfer Atom Interferometers with $\mathrm{μ}\mathrm{rad}$-Accuracy Using Bragg Diffraction]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.033602</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.033602"/>
+        <updated>2023-07-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J.-N. Kirsten-Siemß, F. Fitzek, C. Schubert, E. M. Rasel, N. Gaaloul, and K. Hammerer
+A new method using atoms on optical gratings significantly improves the precision of the Bragg atom interferometers by reducing some of the detrimental systematic effects.
+
+[Phys. Rev. Lett. 131, 033602] Published Wed Jul 19, 2023]]></summary>
+        <author>
+            <name>J.-N. Kirsten-Siemß, F. Fitzek, C. Schubert, E. M. Rasel, N. Gaaloul, and K. Hammerer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extended Spatial Coherence of Interlayer Excitons in ${\mathrm{MoSe}}_{2}/{\mathrm{WSe}}_{2}$ Heterobilayers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.036902</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.036902"/>
+        <updated>2023-07-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mirco Troue, Johannes Figueiredo, Lukas Sigl, Christos Paspalides, Manuel Katzer, Takashi Taniguchi, Kenji Watanabe, Malte Selig, Andreas Knorr, Ursula Wurstbauer, and Alexander W. Holleitner
+Evidence of coherent light emission from excitons in a 2D-material structure could inspire new quantum-technology applications.
+
+[Phys. Rev. Lett. 131, 036902] Published Wed Jul 19, 2023]]></summary>
+        <author>
+            <name>Mirco Troue, Johannes Figueiredo, Lukas Sigl, Christos Paspalides, Manuel Katzer, Takashi Taniguchi, Kenji Watanabe, Malte Selig, Andreas Knorr, Ursula Wurstbauer, and Alexander W. Holleitner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compensation of seeding bias for particle tracking velocimetry in turbulent flows]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.074603</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.074603"/>
+        <updated>2023-07-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thomas Barois, Bianca Viggiano, Thomas Basset, Raúl Bayoán Cal, Romain Volk, Mathieu Gibert, and Mickaël Bourgoin
+For small particles locally injected in a turbulent flow and used as fluid tracers, the reconstruction of the mean flow is biased by the particle dispersion caused by turbulence. For example, in a turbulent jet with nozzle injection, the entrained flow is inaccurately measured because all the tracked particles come from the jet source. In this work, we present a compensation method that provides the accurate mean velocity for turbulent flows in non-homogeneous seeding conditions.
+
+[Phys. Rev. Fluids 8, 074603] Published Wed Jul 19, 2023]]></summary>
+        <author>
+            <name>Thomas Barois, Bianca Viggiano, Thomas Basset, Raúl Bayoán Cal, Romain Volk, Mathieu Gibert, and Mickaël Bourgoin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability of the modulator in a plasma-modulated plasma accelerator]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.108.015204</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.108.015204"/>
+        <updated>2023-07-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. J. van de Wetering, S. M. Hooker, and R. Walczak
+Laser-plasma accelerators can provide a compact method for acceleration of particles. The authors of this paper derive a three-dimensional analytic theory for a laser-plasma accelerator that some of the authors introduced earlier. Using theory and simulations, they evaluate the influence of various parameters on the stability of the accelerator and conclude that higher energies can be achieved than those demonstrated in the original proposal.
+
+[Phys. Rev. E 108, 015204] Published Wed Jul 19, 2023]]></summary>
+        <author>
+            <name>J. J. van de Wetering, S. M. Hooker, and R. Walczak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interplay between magnetism and band topology in the kagome magnets $R{\mathrm{Mn}}_{6}{\mathrm{Sn}}_{6}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.045132</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.045132"/>
+        <updated>2023-07-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Y. Lee, R. Skomski, X. Wang, P. P. Orth, Y. Ren, Byungkyun Kang, A. K. Pathak, A. Kutepov, B. N. Harmon, R. J. McQueeney, I. I. Mazin, and Liqin Ke
+The kagome magnets RMn6Sn6 have recently emerged as a new topological materials platform. By elucidating the topological nature of the band structure, the authors conclude that the observed anomalous Hall conductivity is unrelated to the previously speculated quasi-two-dimensional Dirac points. The microscopic origin of magnetocrystalline anisotropy is explored at various levels: phenomenological, analytical, and ab initio. The authors discovered how the special Mn coordination of the rare-earth atoms results in significant high-order anisotropy.
+
+[Phys. Rev. B 108, 045132] Published Wed Jul 19, 2023]]></summary>
+        <author>
+            <name>Y. Lee, R. Skomski, X. Wang, P. P. Orth, Y. Ren, Byungkyun Kang, A. K. Pathak, A. Kutepov, B. N. Harmon, R. J. McQueeney, I. I. Mazin, and Liqin Ke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Single-Photon Synchronization with a Room-Temperature Atomic Quantum Memory]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.033601</id>
@@ -63,7 +153,7 @@ This paper introduces a novel, “hybrid” (optical+spectroscopic) estimator fo
         <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.035136"/>
         <updated>2023-07-18T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Pak Kau Lim, Michael Mulligan, and Jeffrey C. Y. Teo
-Interactions are crucial for topological phenomena in bosonic systems. Some condenses bosons, like helium-4, into a symmetry breaking phase. Instead, the authors construct here exactly solvable models of interacting bosons that preserve charge conservation. They focus on the E8 bosonic integer quantum Hall state, and show that the intrinsic E8 symmetry allows the emergence of fractional topological phases of bosons. They detail charge and statistics of the excitations of the resulting fractional phases.
+Interactions are crucial in driving topological phenomena in bosonic systems. Here, the authors construct exactly solvable models of topological phases of interacting bosons that preserve electric charge. They focus on the E8 bosonic integer quantum Hall state and show how its intrinsic E8 symmetry allows for the emergence of fractional topological phases of bosons. They detail the charge and statistics of the quasiparticle excitations of the resulting fractional quantum Hall states.
 
 [Phys. Rev. B 108, 035136] Published Tue Jul 18, 2023]]></summary>
         <author>
@@ -1212,97 +1302,6 @@ The physical implementation of any quantum computer still faces important issues
 [Phys. Rev. Applied 19, 064060] Published Wed Jun 21, 2023]]></summary>
         <author>
             <name>A. Chiesa, S. Roca, S. Chicco, M.C. de Ory, A. Gómez-León, A. Gomez, D. Zueco, F. Luis, and S. Carretta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Quantum Communication Overcomes the Rate-Loss Limit without Global Phase Tracking]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.250801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.250801"/>
-        <updated>2023-06-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lai Zhou, Jinping Lin, Yuan-Mei Xie, Yu-Shuo Lu, Yumang Jing, Hua-Lei Yin, and Zhiliang Yuan
-A series of demonstrations considerably ease the requirements for implementing quantum cryptography protocols over large distances.
-
-[Phys. Rev. Lett. 130, 250801] Published Tue Jun 20, 2023]]></summary>
-        <author>
-            <name>Lai Zhou, Jinping Lin, Yuan-Mei Xie, Yu-Shuo Lu, Yumang Jing, Hua-Lei Yin, and Zhiliang Yuan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twin-Field Quantum Key Distribution without Phase Locking]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.130.250802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.130.250802"/>
-        <updated>2023-06-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wei Li, Likang Zhang, Yichen Lu, Zheng-Ping Li, Cong Jiang, Yang Liu, Jia Huang, Hao Li, Zhen Wang, Xiang-Bin Wang, Qiang Zhang, Lixing You, Feihu Xu, and Jian-Wei Pan
-A series of demonstrations considerably ease the requirements for implementing quantum cryptography protocols over large distances.
-
-[Phys. Rev. Lett. 130, 250802] Published Tue Jun 20, 2023]]></summary>
-        <author>
-            <name>Wei Li, Likang Zhang, Yichen Lu, Zheng-Ping Li, Cong Jiang, Yang Liu, Jia Huang, Hao Li, Zhen Wang, Xiang-Bin Wang, Qiang Zhang, Lixing You, Feihu Xu, and Jian-Wei Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanism for giant enhancement of transport induced by active fluctuations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.107.064120</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.107.064120"/>
-        <updated>2023-06-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): K. Białas and J. Spiechowicz
-Transport of a particle diffusing in a periodic potential can be greatly enhanced by active fluctuations. In this paper, the authors investigate the effect of different kinds of active noise and construct a simple model that provides additional insight.
-
-[Phys. Rev. E 107, 064120] Published Tue Jun 20, 2023]]></summary>
-        <author>
-            <name>K. Białas and J. Spiechowicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic ground state and perturbations of the distorted kagome Ising metal TmAgGe]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.224419</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.224419"/>
-        <updated>2023-06-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. B. Larsen, D. G. Mazzone, N. Gauthier, H. D. Rosales, F. A. Gómez Albarracín, J. Lass, X. Boraley, S. L. Bud'ko, P. C. Canfield, and O. Zaharko
-Magnetic order and excitations of the distorted kagome intermetallic magnet TmAgGe are explored using a variety of methods, including single-crystal neutron diffraction, inelastic neutron scattering, Monte Carlo simulations, and the random phase approximation. The magnetic properties are governed by strong, local single-ion anisotropy and geometrically frustrated magnetic exchanges. The authors establish multi-k structures at several different magnetic field configurations and model effective exchange parameters using field-dependencies of the magnetic neutron diffraction reflections and the weakly dispersive crystal electric field mode.
-
-[Phys. Rev. B 107, 224419] Published Tue Jun 20, 2023]]></summary>
-        <author>
-            <name>C. B. Larsen, D. G. Mazzone, N. Gauthier, H. D. Rosales, F. A. Gómez Albarracín, J. Lass, X. Boraley, S. L. Bud'ko, P. C. Canfield, and O. Zaharko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Symmetry-conserving maximally projected Wannier functions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.235135</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.235135"/>
-        <updated>2023-06-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): K. Koepernik, O. Janson, Yan Sun, and J. van den Brink
-Wannier functions are a powerful tool for the determination of topological properties of solids based on band structure calculations. Here, the authors present a simple and efficient scheme to obtain symmetry-conserving Wannier functions especially suitable for local orbital codes. They analyze which approximation of the basis contribution to the Berry connection and curvature matrices preserves symmetry and argue which Bloch function gauge is best suited for model systems, where the basis is not explicitly known.
-
-[Phys. Rev. B 107, 235135] Published Tue Jun 20, 2023]]></summary>
-        <author>
-            <name>K. Koepernik, O. Janson, Yan Sun, and J. van den Brink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topological Andreev rectification]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.107.245422</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.107.245422"/>
-        <updated>2023-06-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pok Man Tam, Christophe De Beule, and Charles L. Kane
-Quantized transport is a powerful probe of topological phases, and metals are topologically classified by the Euler characteristic of the Fermi sea. Here, the authors demonstrate analytically and numerically that a 2D metal proximitized by a Josephson π junction exhibits rectification for current along the junction. They introduce the rectified nonlocal conductance and show it is quantized by the Fermi sea topology. InAs-based heterostructures, as well as monolayer and bilayer graphene, are identified as promising platforms for demonstrating this effect.
-
-[Phys. Rev. B 107, 245422] Published Tue Jun 20, 2023]]></summary>
-        <author>
-            <name>Pok Man Tam, Christophe De Beule, and Charles L. Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dispersion tuning of nonlinear optical pulse dynamics in gas-filled hollow capillary fibers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.107.063512</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.107.063512"/>
-        <updated>2023-06-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Teodora Grigorova, Christian Brahms, Federico Belli, and John C. Travers
-Gas-filled hollow capillary fibers can be used for continuum generation and pulse compression. Here, the authors change the gas pressure inside hollow capillary fibers and investigate how ultrashort laser pulses propagating through the fibers respond to these changes. The use of short pulses and a long capillary fiber enables the authors to survey a much wider range of dynamics than previously observed.
-
-[Phys. Rev. A 107, 063512] Published Tue Jun 20, 2023]]></summary>
-        <author>
-            <name>Teodora Grigorova, Christian Brahms, Federico Belli, and John C. Travers</name>
         </author>
     </entry>
 </feed>
