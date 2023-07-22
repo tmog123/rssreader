@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033039",
+          "author": "Paul Hamann, Linda Kordts, Alexey Filinov, Michael Bonitz, Tobias Dornheim, and Jan Vorberger",
+          "description": "Author(s): Paul Hamann, Linda Kordts, Alexey Filinov, Michael Bonitz, Tobias Dornheim, and Jan Vorberger\nThis paper provides confirmation that a roton-type correlation effect manifest itself in warm dense hydrogen.\n\n[Phys. Rev. Research 5, 033039] Published Fri Jul 21, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033039",
+          "publishedOn": "2023-07-21T10:00:00.000Z",
+          "wordCount": 1586,
+          "title": "Prediction of a roton-type feature in warm dense hydrogen",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.033039.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031601",
+          "author": "Liangdong Hu, Yin-Chen He, and W. Zhu",
+          "description": "Author(s): Liangdong Hu, Yin-Chen He, and W. Zhu\nA new numerical technique leads to the precise determination of conformal data in the 3D Ising model, including some previously unknown expansion coefficients.\n\n[Phys. Rev. Lett. 131, 031601] Published Fri Jul 21, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031601",
+          "publishedOn": "2023-07-21T10:00:00.000Z",
+          "wordCount": 897,
+          "title": "Operator Product Expansion Coefficients of the 3D Ising Criticality via Quantum Fuzzy Spheres",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.031601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.073101",
+          "author": "Jiacheng Guo (郭佳诚), Pan Han (韩攀), Wei Zhang (张伟), Junshi Wang (王君实), George V. Lauder, Valentina Di Santo, and Haibo Dong (董海波)",
+          "description": "Author(s): Jiacheng Guo (郭佳诚), Pan Han (韩攀), Wei Zhang (张伟), Junshi Wang (王君实), George V. Lauder, Valentina Di Santo, and Haibo Dong (董海波)\nThe generation of leading-edge vortices (LEV) by the caudal fin (CF) has long been recognized as playing a key role in efficient propulsion in fish-like swimming. This study focuses on LEV enhancement due to vortex shedding of the median anal fin (AF), utilizing trout’s unique morphology and fin configurations. The shed anal-fin vortex (AFV) is found to stabilize and strengthen the LEV of the CF through its shearing with the CF leading edge, creating stronger leading-edge suction, resulting in stronger thrust production and increased propulsive efficiency in trout-like swimming.\n\n[Phys. Rev. Fluids 8, 073101] Published Fri Jul 21, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.073101",
+          "publishedOn": "2023-07-21T10:00:00.000Z",
+          "wordCount": 1938,
+          "title": "Vortex dynamics and fin-fin interactions resulting in performance enhancement in fish-like propulsion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.073101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014048",
+          "author": "Bo Liu, Randy A. Meijer, Wei Li, Javier Hernandez-Rueda, Hanneke Gelderblom, and Oscar O. Versolato",
+          "description": "Author(s): Bo Liu, Randy A. Meijer, Wei Li, Javier Hernandez-Rueda, Hanneke Gelderblom, and Oscar O. Versolato\nThis article reports experiments on the mass partitioning of a fragmenting liquid sheet, formed after the impact of a nanosecond laser pulse on a tin microdroplet, to help in optimizing mass utilization of the liquid tin that is key to extreme-ultraviolet nanolithography. The authors apply machine learning to analyze subresolution fragments in the temporal evolution of the sheet and its bounding rim, ligaments protruding from the rim, and droplets shed by the ligaments. A full accounting includes the further contributions unique to laser-droplet impact: the mass ablated by the laser, and a surprising, centrally located mass remnant.\n\n[Phys. Rev. Applied 20, 014048] Published Fri Jul 21, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014048",
+          "publishedOn": "2023-07-21T10:00:00.000Z",
+          "wordCount": 2580,
+          "title": "Mass Partitioning in Fragmenting Tin Sheets",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.014048.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXLife.1.013003",
           "author": "C. Maggi, F. Saglimbeni, V. Carmona Sosa, R. Di Leonardo, B. Nath, and A. Puglisi",
           "description": "Author(s): C. Maggi, F. Saglimbeni, V. Carmona Sosa, R. Di Leonardo, B. Nath, and A. Puglisi\nThis study employs the thermodynamic uncertainty relation to explore the connection between energy dissipation and mesoscopic fluctuations in sperm beating, elucidating the role of the coupling among molecular motors that actuate the flagellar movement.\n\n[PRX Life 1, 013003] Published Thu Jul 20, 2023",
@@ -78,12 +118,12 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031802",
           "author": "R. Albanese <em>et al.</em> (SND@LHC Collaboration)",
-          "description": "Author(s): R. Albanese et al. (SND@LHC Collaboration)\nWe report the direct observation of muon neutrino interactions with the SND@LHC detector at the Large Hadron Collider. A dataset of proton-proton collisions at $\\sqrt{s}=13.6\\text{ }\\text{ }\\mathrm{TeV}$ collected by SND@LHC in 2022 is used, corresponding to an integrated luminosity of $36.8\\text{ }…\n[Phys. Rev. Lett. 131, 031802] Published Wed Jul 19, 2023",
+          "description": "Author(s): R. Albanese et al. (SND@LHC Collaboration)\nThe first observation of neutrinos produced at a particle collider opens a new field of study and offers ways to test the limits of the standard model.\n\n[Phys. Rev. Lett. 131, 031802] Published Wed Jul 19, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031802",
           "publishedOn": "2023-07-19T10:00:00.000Z",
-          "wordCount": 953,
+          "wordCount": 945,
           "title": "Observation of Collider Muon Neutrinos with the SND@LHC Experiment",
-          "imageUrl": null
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.031802.png"
         },
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.033602",
@@ -884,96 +924,6 @@
           "wordCount": 1121,
           "title": "Infinite-randomness criticality in monitored quantum dynamics with static disorder",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L220204.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.253001",
-          "author": "M. Filzinger, S. Dörscher, R. Lange, J. Klose, M. Steinel, E. Benkler, E. Peik, C. Lisdat, and N. Huntemann",
-          "description": "Author(s): M. Filzinger, S. Dörscher, R. Lange, J. Klose, M. Steinel, E. Benkler, E. Peik, C. Lisdat, and N. Huntemann\nA search for oscillations in the frequencies of optical clocks has set new bounds on ultralight dark matter particles.\n\n[Phys. Rev. Lett. 130, 253001] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.253001",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 1165,
-          "title": "Improved Limits on the Coupling of Ultralight Bosonic Dark Matter to Photons from Optical Atomic Clock Comparisons",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.253001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.256401",
-          "author": "Abhishodh Prakash, Michele Fava, and S. A. Parameswaran",
-          "description": "Author(s): Abhishodh Prakash, Michele Fava, and S. A. Parameswaran\nTwo new concepts, multiversality and unnecessary criticality, useful for the quantum field theoretic description of topological properties, have been demonstrated using one-dimensional quantum spin systems.\n\n[Phys. Rev. Lett. 130, 256401] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.256401",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 1058,
-          "title": "Multiversality and Unnecessary Criticality in One Dimension",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.256401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.256801",
-          "author": "Shintaro Hoshino, Michi-To Suzuki, and Hiroaki Ikeda",
-          "description": "Author(s): Shintaro Hoshino, Michi-To Suzuki, and Hiroaki Ikeda\nThe relation between the spin current tensor, electric toroidal multipole, and chirality based on a relativistic quantum mechanical formalism, shows that the spin-derived polarization associated with the spin current tensor serves as a fundamental physical quantity that characterizes electric toroidal multipoles.\n\n[Phys. Rev. Lett. 130, 256801] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.256801",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 891,
-          "title": "Spin-Derived Electric Polarization and Chirality Density Inherent in Localized Electron Orbitals",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.256801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.130.256902",
-          "author": "Xiao Jiang, Lei Kang, Jianfeng Wang, and Bing Huang",
-          "description": "Author(s): Xiao Jiang, Lei Kang, Jianfeng Wang, and Bing Huang\nFirst-principles model calculations predict a large tunable photovoltaic effect in electric-field-biased bilayers made of heteronodal-line systems, such as HSnN-MoS2 bilayers.\n\n[Phys. Rev. Lett. 130, 256902] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.130.256902",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 1077,
-          "title": "Giant Bulk Electrophotovoltaic Effect in Heteronodal-Line Systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.256902.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.107.064609",
-          "author": "Xiang-Xiang Sun (孙向向) and Lu Guo (郭璐)",
-          "description": "Author(s): Xiang-Xiang Sun (孙向向) and Lu Guo (郭璐)\nThe hot fusion reaction 48C + 238U is studied with time-dependent Hartree-Fock theory in combination with coupled-channels and fusion-by-diffusion models. The authors find that the fusion probability is strongly dependent on the orientation of the 238U nucleus, with the probability being greatest for the tip collision orientation. This understanding will be applied in the future to determine optimal target and projectile combinations for the synthesis of elements Z=119 and 120.\n\n[Phys. Rev. C 107, 064609] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.107.064609",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 1024,
-          "title": "Microscopic study of the hot-fusion reaction $^{48}\\mathrm{Ca}+^{238}\\mathrm{U}$ with the constraints from time-dependent Hartree-Fock theory",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.107.064609.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.245304",
-          "author": "A. Banerjee, O. Lesser, M. A. Rahman, H.-R. Wang, M.-R. Li, A. Kringhøj, A. M. Whiticar, A. C. C. Drachmann, C. Thomas, T. Wang, M. J. Manfra, E. Berg, Y. Oreg, Ady Stern, and C. M. Marcus",
-          "description": "Author(s): A. Banerjee, O. Lesser, M. A. Rahman, H.-R. Wang, M.-R. Li, A. Kringhøj, A. M. Whiticar, A. C. C. Drachmann, C. Thomas, T. Wang, M. J. Manfra, E. Berg, Y. Oreg, Ady Stern, and C. M. Marcus\nIntense scrutiny over the last decade of experiments on a variety of platforms aiming to identify topological superconductivity has raised the stakes in this search. Because nontopological Andreev bound states at or near zero energy can resemble topological states, signatures beyond spectroscopy of zero-energy modes are called for. A key signature of a topological phase transition - namely, the closing and reopening of the superconducting gap - is mostly unobserved in previous experiments. Here, this phenomenon is reported in planar Josephson junction devices made from superconductor-semiconductor hybrid materials. Consistency between experiment and numerics, along with a number of other characteristic signatures, including dependence on phase, magnetic field, and chemical potential, support the conclusion that the observed gap closing and reopening, with associated appearance of a zero-bias conductance peaks upon reopening, are associated with topological transition.\n\n[Phys. Rev. B 107, 245304] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.245304",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 1984,
-          "title": "Signatures of a topological phase transition in a planar Josephson junction",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.245304.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.L220405",
-          "author": "M. Grelier, F. Godel, A. Vecchiola, S. Collin, K. Bouzehouane, V. Cros, N. Reyren, R. Battistelli, H. Popescu, C. Léveillé, N. Jaouen, and F. Büttner",
-          "description": "Author(s): M. Grelier, F. Godel, A. Vecchiola, S. Collin, K. Bouzehouane, V. Cros, N. Reyren, R. Battistelli, H. Popescu, C. Léveillé, N. Jaouen, and F. Büttner\nThe development and characterization of three-dimensional topological magnetic textures has become an important topic in modern magnetism from both fundamental and technological perspectives. Here, the authors stabilize skyrmionic cocoons by engineering the properties of Pt/Co/Al based multilayers with variable Co thickness. These new textures can be observed in transmission with x-ray holography. Their coexistence with skyrmion tubes is particularly interesting as they can open new paths for three-dimensional spintronics.\n\n[Phys. Rev. B 107, L220405] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L220405",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 1177,
-          "title": "X-ray holography of skyrmionic cocoons in aperiodic magnetic multilayers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L220405.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.107.L220406",
-          "author": "Aman Kumar and Vikram Tripathi",
-          "description": "Author(s): Aman Kumar and Vikram Tripathi\nHistorically, analytical treatments for the thermal Hall effect of many-body systems have been based around an underlying quasiparticle assumption. The authors introduce here a new purification-based tensor network method for the thermal Hall response of gapped systems, making no prior quasiparticle assumption. Motivated by reports of half-quantized thermal Hall response of Kitaev materials near field-suppressed magnetic order, the authors calculate the thermal Hall response in this parameter regime and find that it is large, but non-universal, ruling out the possibility of a revival of Ising topological order and a Majorana Hall state through this route.\n\n[Phys. Rev. B 107, L220406] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.107.L220406",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 1120,
-          "title": "Thermal Hall conductivity near field-suppressed magnetic order in a Kitaev-Heisenberg model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.107.L220406.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.L061001",
-          "author": "Lei Wu and Damiano Pasini",
-          "description": "Author(s): Lei Wu and Damiano Pasini\nIn situ tuning of elastic stiffness enriches the range of functionalities of mechanical metamaterials for next-generation multifunctional devices. While stiffness tunability has been demonstrated under compression and tension, tuning flexural stiffness in multistable materials is now addressed in this work. Researchers leverage a multistable topological transformation induced by internal contact to activate zero-energy modes that yield both stiff and soft flexural modes. This remarkable tunability of flexural stiffness endows the architecture with a reversible rigid-flexible switch, which could support diverse applications from soft robotics to medical devices.\n\n[Phys. Rev. Applied 19, L061001] Published Thu Jun 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.19.L061001",
-          "publishedOn": "2023-06-22T10:00:00.000Z",
-          "wordCount": 950,
-          "title": "Topological Transformation with Emerging Zero Modes in Multistable Metamaterials for Reprogrammable Flexural Stiffness",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.19.L061001.png"
         }
       ]
     }
