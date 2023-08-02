@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.050401",
+          "author": "Han-Yi Wang, Wei-Yong Zhang, Zhiyuan Yao, Ying Liu, Zi-Hang Zhu, Yong-Guang Zheng, Xuan-Kai Wang, Hui Zhai, Zhen-Sheng Yuan, and Jian-Wei Pan",
+          "description": "Author(s): Han-Yi Wang, Wei-Yong Zhang, Zhiyuan Yao, Ying Liu, Zi-Hang Zhu, Yong-Guang Zheng, Xuan-Kai Wang, Hui Zhai, Zhen-Sheng Yuan, and Jian-Wei Pan\nAtoms trapped in a one-dimensional optical lattice can mimic how—in a basic quantum field theory—massive particles reach, or fail to reach, thermal equilibrium.\n\n[Phys. Rev. Lett. 131, 050401] Published Tue Aug 01, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.050401",
+          "publishedOn": "2023-08-01T10:00:00.000Z",
+          "wordCount": 1462,
+          "title": "Interrelated Thermalization and Quantum Criticality in a Lattice Gauge Simulator",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.050401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.056001",
+          "author": "Valentin Crépel, Daniele Guerci, Jennifer Cano, J. H. Pixley, and Andrew Millis",
+          "description": "Author(s): Valentin Crépel, Daniele Guerci, Jennifer Cano, J. H. Pixley, and Andrew Millis\nRobust attraction and low-energy symmetry properties in transition metal dichalcogenide twisted bilayers may produce topologically protected superconductivity.\n\n[Phys. Rev. Lett. 131, 056001] Published Tue Aug 01, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.056001",
+          "publishedOn": "2023-08-01T10:00:00.000Z",
+          "wordCount": 1202,
+          "title": "Topological Superconductivity in Doped Magnetic Moiré Semiconductors",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.056001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.056501",
+          "author": "Ori Grossman and Erez Berg",
+          "description": "Author(s): Ori Grossman and Erez Berg\nFor all known symmetry-classes that generate a sign-problem free model within the determinant quantum Monte Carlo method, the Fermi liquid is unstable at zero temperature.\n\n[Phys. Rev. Lett. 131, 056501] Published Tue Aug 01, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.056501",
+          "publishedOn": "2023-08-01T10:00:00.000Z",
+          "wordCount": 889,
+          "title": "Robust Fermi-Liquid Instabilities in Sign Problem-Free Models",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.056501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.054301",
+          "author": "Zihao Qi, Thomas Scaffidi, and Xiangyu Cao",
+          "description": "Author(s): Zihao Qi, Thomas Scaffidi, and Xiangyu Cao\nQuantum dynamics of spin systems with uniform infinite-range interaction are often considered “simple” because they become semiclassical in the thermodynamic limit. However, the standard semiclassical theory only applies to a shallow surface of the vast many-body Hilbert space. What happens away from this? Here, the authors dive into the “deep Hilbert space” and unveil a number of exotic phenomena in this rarely charted territory.\n\n[Phys. Rev. B 108, 054301] Published Tue Aug 01, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.054301",
+          "publishedOn": "2023-08-01T10:00:00.000Z",
+          "wordCount": 1474,
+          "title": "Surprises in the deep Hilbert space of all-to-all systems: From superexponential scrambling to slow entanglement growth",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.054301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.064301",
+          "author": "Christina Psaroudaki and Gil Refael",
+          "description": "Author(s): Christina Psaroudaki and Gil Refael\nQuantum machines have been a fascination for years. This paper examines a specific quantum machine - a spin driven by two harmonically related light beams. When the spin adopts a specific Floquet state, it receives energy from one beam and transfers it to the other, acting as an energy frequency converter. The authors study the power distribution of this 2-beam and spin system, uncovering an intriguing transition in distribution width, tuned by the drive amplitude.\n\n[Phys. Rev. B 108, 064301] Published Tue Aug 01, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.064301",
+          "publishedOn": "2023-08-01T10:00:00.000Z",
+          "wordCount": 1642,
+          "title": "Energy transfer in random-matrix ensembles of Floquet Hamiltonians",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.064301.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.052503",
           "author": "M. Stukel <em>et al.</em> (KDK Collaboration)",
           "description": "Author(s): M. Stukel et al. (KDK Collaboration)\nResearchers revisit a neglected decay mode with implications for fundamental physics and for dating some of the oldest rocks on Earth and in the Solar System.\n\n[Phys. Rev. Lett. 131, 052503] Published Mon Jul 31, 2023",
@@ -954,46 +1004,6 @@
           "wordCount": 1086,
           "title": "Orbital Fulde-Ferrell Pairing State in Moiré Ising Superconductors",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.016001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.025003",
-          "author": "Jordan Cotler and Semon Rezchikov",
-          "description": "Author(s): Jordan Cotler and Semon Rezchikov\nThis highly original paper relates the exact renormalization group (ERG) flow to optimal gradient flow which naturally leads to the (previously known) interpretation of the ERG as a flow that minimizes the relative entropy of a probability distribution. This provides an elegant explanation of otherwise opaque features of ERG schemes and establishes a clear and intriguing link to information theory. The intuitive picture that emerges is that the coarse-graining of the RG flow produces entropy and this entropy production determines the flow itself. All these basic relations are established nonperturbatively.\n\n[Phys. Rev. D 108, 025003] Published Wed Jul 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.025003",
-          "publishedOn": "2023-07-05T10:00:00.000Z",
-          "wordCount": 844,
-          "title": "Renormalization group flow as optimal transport",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.025003.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.014406",
-          "author": "A. Elghandour, L. Gries, L. Singer, M. Hoffmann, S. Spachmann, M. Uhlarz, K. Dey, and R. Klingeler",
-          "description": "Author(s): A. Elghandour, L. Gries, L. Singer, M. Hoffmann, S. Spachmann, M. Uhlarz, K. Dey, and R. Klingeler\nMagnetic anisotropy describes the tendency of a material to exhibit different magnetic behavior along different crystallographic directions. Here, the authors mix two antiferromagnets, namely MnTiO3 and NiTiO3, to form Ni0.25Mn0.75TiO3. The parent magnets are of competing anisotropy. The former has an easy magnetic axis along the c axis, whereas the latter has an easy magnetic plane within the ab plane. The authors also shed light on the doping effect upon the long-range magnetic order, emergent magnetic phases, and the magnetic entropy consumption in comparison to the parent magnets. Finally, they employ different thermodynamic probes to build a complex and rich anisotropic magnetic phase diagram of Ni0.25Mn0.75TiO3.\n\n[Phys. Rev. B 108, 014406] Published Wed Jul 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.014406",
-          "publishedOn": "2023-07-05T10:00:00.000Z",
-          "wordCount": 1612,
-          "title": "Magnetic anisotropy, magnetoelastic coupling, and the magnetic phase diagram of ${\\mathrm{Ni}}_{0.25}{\\mathrm{Mn}}_{0.75}{\\mathrm{TiO}}_{3}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.014406.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.024301",
-          "author": "Pierre-Antoine Graham, Simon Bertrand, Michaël Bédard, Robin Durand, and Ion Garate",
-          "description": "Author(s): Pierre-Antoine Graham, Simon Bertrand, Michaël Bédard, Robin Durand, and Ion Garate\nFor decades, van Roosbroeck’s (VR) equations have been used to model microelectronic devices made from ordinary semiconductors. The advent of topological materials raises a largely unexplored question: how are VR equations and their solutions modified when electronic bands are topological? Here, the authors solve VR equations analytically in a Weyl semimetal placed under a magnetic field and subjected to a spatially inhomogeneous light pulse. They predict photoinduced plasma oscillations, which originate from a topological term in VR equations.\n\n[Phys. Rev. B 108, 024301] Published Wed Jul 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.024301",
-          "publishedOn": "2023-07-05T10:00:00.000Z",
-          "wordCount": 982,
-          "title": "Van Roosbroeck's equations with topological terms: The case of Weyl semimetals",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.024301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.035101",
-          "author": "Ivan Fotev, Stephan Winnerl, Saicharan Aswartham, Sabine Wurmehl, Bernd Büchner, Harald Schneider, Manfred Helm, and Alexej Pashkin",
-          "description": "Author(s): Ivan Fotev, Stephan Winnerl, Saicharan Aswartham, Sabine Wurmehl, Bernd Büchner, Harald Schneider, Manfred Helm, and Alexej Pashkin\nApplication of pressure offers a way to continuously tune the ground state of a system across different phases realizing so-called quantum phase transitions. However, studying the order parameter is challenging because some established experimental techniques are not compatible with diamond anvil pressure cells. Here, the authors show that ultrafast pump-probe spectroscopy is an efficient method to accomplish this task. Using this approach, they succeed in mapping the spin density wave order parameter in iron-based superconductor BaFe2As2 over a broad range of pressures and temperatures.\n\n[Phys. Rev. B 108, 035101] Published Wed Jul 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.035101",
-          "publishedOn": "2023-07-05T10:00:00.000Z",
-          "wordCount": 1098,
-          "title": "Ultrafast relaxation dynamics of spin density wave order in ${\\mathrm{BaFe}}_{2}{\\mathrm{As}}_{2}$ under high pressures",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.035101.png"
         }
       ]
     }
