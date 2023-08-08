@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-07T00:53:00.390Z</id>
+    <id>urn:2023-08-08T00:51:46.273Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-07T00:53:00.390Z</updated>
+    <updated>2023-08-08T00:51:46.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fast Neutrino Flavor Conversions Can Help and Hinder Neutrino-Driven Explosions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.061401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.061401"/>
+        <updated>2023-08-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jakob Ehring, Sajad Abbar, Hans-Thomas Janka, Georg Raffelt, and Irene Tamborra
+We present the first simulations of core-collapse supernovae in axial symmetry with feedback from fast neutrino flavor conversion (FFC). Our schematic treatment of FFCs assumes instantaneous flavor equilibration under the constraint of lepton-number conservation individually for each flavor. Systema…
+[Phys. Rev. Lett. 131, 061401] Published Mon Aug 07, 2023]]></summary>
+        <author>
+            <name>Jakob Ehring, Sajad Abbar, Hans-Thomas Janka, Georg Raffelt, and Irene Tamborra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search for Higgs Boson Decay to a Charm Quark-Antiquark Pair in Proton-Proton Collisions at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.061801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.061801"/>
+        <updated>2023-08-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Tumasyan et al. (CMS Collaboration)
+Decays of Z bosons to charm quark-antiquark pairs have been observed for the first time at a hadron collider, as part of a search for decays of Higgs bosons to charm quark-antiquark pairs, which are bounded at 14 times the standard model value.
+
+[Phys. Rev. Lett. 131, 061801] Published Mon Aug 07, 2023]]></summary>
+        <author>
+            <name>A. Tumasyan &lt;em&gt;et al.&lt;/em&gt; (CMS Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-Parity-Time Symmetry in a Su-Schrieffer-Heeger Sonic Lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.066601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.066601"/>
+        <updated>2023-08-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bolun Hu, Zhiwang Zhang, Zichong Yue, Danwei Liao, Yimin Liu, Haixiao Zhang, Ying Cheng, Xiaojun Liu, and Johan Christensen
+A novel acoustic Su-Schrieffer-Heeger chain with non-Hermitian components displays a non-Hermitian phase transition and reveals new acoustic topological interface states with tunable robust confinement.
+
+[Phys. Rev. Lett. 131, 066601] Published Mon Aug 07, 2023]]></summary>
+        <author>
+            <name>Bolun Hu, Zhiwang Zhang, Zichong Yue, Danwei Liao, Yimin Liu, Haixiao Zhang, Ying Cheng, Xiaojun Liu, and Johan Christensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.068401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.068401"/>
+        <updated>2023-08-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Samuel J. Bryant and Benjamin B. Machta
+Calculations of the minimum energy a cell requires to transmit a signal between two internal components could help scientists understand how energy and information combine to produce living systems.
+
+[Phys. Rev. Lett. 131, 068401] Published Mon Aug 07, 2023]]></summary>
+        <author>
+            <name>Samuel J. Bryant and Benjamin B. Machta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bichromatic Imaging of Single Molecules in an Optical Tweezer Array]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.053202</id>
@@ -1251,58 +1302,6 @@ The magneto-optical Kerr effect (MOKE) is described by a dielectric tensor ϵ th
 [Phys. Rev. B 108, 014415] Published Wed Jul 12, 2023]]></summary>
         <author>
             <name>Carmen Martín Valderrama, Mikel Quintana, and Andreas Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digitized Counterdiabatic Quantum Algorithm for Protein Folding]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.014024</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.014024"/>
-        <updated>2023-07-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pranav Chandarana, Narendra N. Hegade, Iraitz Montalban, Enrique Solano, and Xi Chen
-The challenge of predicting protein folding—a pivotal task in biology, chemistry, and drug design—has yet to be fully surmounted, due to the complexity of finding the lowest-energy configuration of the constituent amino acids. The current study provides a hybrid classical-quantum digitized counterdiabatic approach that enhances the performance of existing quantum algorithms, producing remarkable results even in the NISQ era. This innovative solution opens up possibilities for tackling complex problems in biology and chemistry, pushing the boundaries of what is achievable with quantum computing.
-
-[Phys. Rev. Applied 20, 014024] Published Wed Jul 12, 2023]]></summary>
-        <author>
-            <name>Pranav Chandarana, Narendra N. Hegade, Iraitz Montalban, Enrique Solano, and Xi Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final Measurement of the $^{235}\mathrm{U}$ Antineutrino Energy Spectrum with the PROSPECT-I Detector at HFIR]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.021802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.021802"/>
-        <updated>2023-07-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Andriamirado et al. (PROSPECT Collaboration)
-The most precise measurement of the antineutrino spectrum of Uranium-235 using the PROSPECT-I detector at the High Flux Isotope Reactor.
-
-[Phys. Rev. Lett. 131, 021802] Published Tue Jul 11, 2023]]></summary>
-        <author>
-            <name>M. Andriamirado &lt;em&gt;et al.&lt;/em&gt; (PROSPECT Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driving Alkali Rydberg Transitions with a Phase-Modulated Optical Lattice]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.023201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.023201"/>
-        <updated>2023-07-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. Cardman and G. Raithel
-Oscillating an optical lattice of Rydberg atoms at the right frequency causes the atoms to make electronic transitions, which can be useful for quantum processing techniques.
-
-[Phys. Rev. Lett. 131, 023201] Published Tue Jul 11, 2023]]></summary>
-        <author>
-            <name>R. Cardman and G. Raithel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Difference between fixed-order and contour-improved perturbation theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.014007</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.014007"/>
-        <updated>2023-07-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Maarten Golterman, Kim Maltman, and Santiago Peris
-Contour-Improved Perturbation Theory and Fixed-Order Perturbation Theory are two methods used to approach the poorly converging QCD calculations involved in extracting the strong coupling constant from tau decays. However, they give somewhat differing results. Here, the authors introduce a new measure of the distance between the FOPT Borel sum and the CIPT series which clarifies the differences, and confirms that CIPT is inconsistent with the Operator Product Expansion.
-
-[Phys. Rev. D 108, 014007] Published Tue Jul 11, 2023]]></summary>
-        <author>
-            <name>Maarten Golterman, Kim Maltman, and Santiago Peris</name>
         </author>
     </entry>
 </feed>
