@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033091",
+          "author": "Pedro Portugal, Fredrik Brange, Kalle S. U. Kansanen, Peter Samuelsson, and Christian Flindt",
+          "description": "Author(s): Pedro Portugal, Fredrik Brange, Kalle S. U. Kansanen, Peter Samuelsson, and Christian Flindt\nA theory that can predict the photon-emission statistics from driven microwave cavities is developed. Specifically, it’s shown how the photon-emission statistics is fully determined by a Riccati equation.\n\n[Phys. Rev. Research 5, 033091] Published Tue Aug 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033091",
+          "publishedOn": "2023-08-08T10:00:00.000Z",
+          "wordCount": 1290,
+          "title": "Photon emission statistics of a driven microwave cavity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.033091.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.061601",
+          "author": "J. Sommerfeldt, V. A. Yerokhin, Th. Stöhlker, and A. Surzhykov",
+          "description": "Author(s): J. Sommerfeldt, V. A. Yerokhin, Th. Stöhlker, and A. Surzhykov\nImproved calculations of a quantum phenomenon called Delbrück scattering resolve a long-standing discrepancy between theory and experiment.\n\n[Phys. Rev. Lett. 131, 061601] Published Tue Aug 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.061601",
+          "publishedOn": "2023-08-08T10:00:00.000Z",
+          "wordCount": 1036,
+          "title": "All-Order Coulomb Corrections to Delbrück Scattering above the Pair-Production Threshold",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.061601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.054410",
+          "author": "Christopher Roth, Attila Szabó, and Allan H. MacDonald",
+          "description": "Author(s): Christopher Roth, Attila Szabó, and Allan H. MacDonald\nEstablishing quantum spin liquid physics in microscopic models is a daunting task due to a variety of competing low-energy states, requiring sophisticated computational approaches to find the true ground state. Here, the authors present such a technique, based on neural networks with space-group symmetry, to obtain significantly improved ground-state wave functions of frustrated Heisenberg models. The authors also use this approach to find excited states and provide a blueprint for testing analytical predictions from spin-liquid theories.\n\n[Phys. Rev. B 108, 054410] Published Tue Aug 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.054410",
+          "publishedOn": "2023-08-08T10:00:00.000Z",
+          "wordCount": 1042,
+          "title": "High-accuracy variational Monte Carlo for frustrated magnets with deep neural networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.054410.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.075121",
+          "author": "Stefano Longhi",
+          "description": "Author(s): Stefano Longhi\nStrongly correlated systems in non-Hermitian models are an emergent area of research. Here, the author considers the correlated hopping dynamics of two fermions in a quasicrystal with a complex phase, unraveling non-Hermitian-induced mobility edges and the tendency of the fermions to stick together, forming a doublon state in the long time limit of evolution, a phenomenon that can be dubbed non-Hermitian particle bunching.\n\n[Phys. Rev. B 108, 075121] Published Tue Aug 08, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.075121",
+          "publishedOn": "2023-08-08T10:00:00.000Z",
+          "wordCount": 1176,
+          "title": "Phase transitions and bunching of correlated particles in a non-Hermitian quasicrystal",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.075121.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.061401",
           "author": "Jakob Ehring, Sajad Abbar, Hans-Thomas Janka, Georg Raffelt, and Irene Tamborra",
           "description": "Author(s): Jakob Ehring, Sajad Abbar, Hans-Thomas Janka, Georg Raffelt, and Irene Tamborra\nWe present the first simulations of core-collapse supernovae in axial symmetry with feedback from fast neutrino flavor conversion (FFC). Our schematic treatment of FFCs assumes instantaneous flavor equilibration under the constraint of lepton-number conservation individually for each flavor. Systema…\n[Phys. Rev. Lett. 131, 061401] Published Mon Aug 07, 2023",
@@ -964,46 +1004,6 @@
           "wordCount": 1614,
           "title": "Drag, lift, and buoyancy forces on a single large particle in dense granular flows",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.074301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014025",
-          "author": "Antoine Reigue, Francesco Fogliano, Philip Heringlake, Laure Mercier de Lépinay, Benjamin Besga, Jakob Reichel, Benjamin Pigeau, and Olivier Arcizet",
-          "description": "Author(s): Antoine Reigue, Francesco Fogliano, Philip Heringlake, Laure Mercier de Lépinay, Benjamin Besga, Jakob Reichel, Benjamin Pigeau, and Olivier Arcizet\nAn ongoing line of inquiry in cavity optomechanics consists of increasing the strength of the light-oscillator interaction to explore various dynamical regimes. By combining a high-finesse microcavity with an ultrasensitive force sensor (a suspended SiC nanowire), one can reach the regime where a single photon in the cavity has a measurable impact on the nanoresonator. The internal optical resonances of the nanowire strongly structure and possibly enhance the light-nanowire interaction, which can be fine-tuned through careful positioning of the subwavelength-sized nanowire within the standing wave inside the cavity.\n\n[Phys. Rev. Applied 20, 014025] Published Thu Jul 13, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014025",
-          "publishedOn": "2023-07-13T10:00:00.000Z",
-          "wordCount": 2302,
-          "title": "Cavity Nano-Optomechanics with Suspended Subwavelength-Sized Nanowires",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.014025.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L071401",
-          "author": "Konstantin Shapovalov and Massimiliano Stengel",
-          "description": "Author(s): Konstantin Shapovalov and Massimiliano Stengel\nThough antiferroelectricity in PbZrO3 was discovered over 70 years ago, there is still no consensus on the exact physical mechanism behind its formation. In this study, the authors rationalize the antiferroelectric Pbam state of PbZrO3 as a modulated phase, where polarization and antiphase O6 octahedra tilts are coupled via a trilinear gradient term – the so-called rotopolar coupling. A Landau-like continuum Hamiltonian, with gradient terms calculated directly from first principles, gives an accurate description of the energetics and structure of the Pbam phase. Besides reconciling the existing theories on PbZrO3, this study may facilitate the understanding of other modulated structures in perovskites, including ferrielectric and incommensurate phases.\n\n[Phys. Rev. Materials 7, L071401] Published Wed Jul 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L071401",
-          "publishedOn": "2023-07-12T10:00:00.000Z",
-          "wordCount": 950,
-          "title": "Tilt-driven antiferroelectricity in ${\\mathrm{PbZrO}}_{3}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.L071401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.027301",
-          "author": "Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung",
-          "description": "Author(s): Albert J. Wakhloo, Tamara J. Sussman, and SueYeon Chung\nA new theory allows researchers to determine the ability of arbitrarily complex neural networks to perform recognition tasks on data with intricate structure.\n\n[Phys. Rev. Lett. 131, 027301] Published Wed Jul 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.027301",
-          "publishedOn": "2023-07-12T10:00:00.000Z",
-          "wordCount": 1125,
-          "title": "Linear Classification of Neural Manifolds with Correlated Variability",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.027301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.014415",
-          "author": "Carmen Martín Valderrama, Mikel Quintana, and Andreas Berger",
-          "description": "Author(s): Carmen Martín Valderrama, Mikel Quintana, and Andreas Berger\nThe magneto-optical Kerr effect (MOKE) is described by a dielectric tensor ϵ that contains magnetization dependent terms, whose impact on reflected light is solved as an electromagnetic boundary problem. Corresponding solutions for the Jones-type reflection matrix R have been known for decades, but have not been rigorously confirmed in experiments. Here, the authors have verified that the MOKE coefficients of R describe an ellipsoid (ellipse) for a random three-dimensional (two-dimensional) magnetization vector as predicted. The experiments accomplish the simultaneous measurements of all R components through generalized magneto-optical ellipsometry.\n\n[Phys. Rev. B 108, 014415] Published Wed Jul 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.014415",
-          "publishedOn": "2023-07-12T10:00:00.000Z",
-          "wordCount": 1814,
-          "title": "Experimental verification of the reflection matrix description in linear magneto-optics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.014415.png"
         }
       ]
     }
