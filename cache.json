@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.071002",
+          "author": "Po-Wen Chang, Ivan Esteban, John F. Beacom, Todd A. Thompson, and Christopher M. Hirata",
+          "description": "Author(s): Po-Wen Chang, Ivan Esteban, John F. Beacom, Todd A. Thompson, and Christopher M. Hirata\nA beyond-standard-model interaction between neutrinos could show up in future supernovae observations.\n\n[Phys. Rev. Lett. 131, 071002] Published Tue Aug 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.071002",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 1105,
+          "title": "Toward Powerful Probes of Neutrino Self-Interactions in Supernovae",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.071002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.024129",
+          "author": "Zhiyi Li, Zongzheng Zhou, Sheng Fang, and Youjin Deng",
+          "description": "Author(s): Zhiyi Li, Zongzheng Zhou, Sheng Fang, and Youjin Deng\nIn this article, a worm algorithm is used to study the problem of the Ising model on a complete graph. The approach shows connections between different representations of the model and leads to a better understanding of its scaling properties and critical behavior.\n\n[Phys. Rev. E 108, 024129] Published Tue Aug 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.024129",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 1180,
+          "title": "Geometric properties of the complete-graph Ising model in the loop representation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.024129.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.064418",
+          "author": "Jonathan Z. Sun, Christopher Safranski, Philip Trouilloud, Christopher D'Emic, Pouya Hashemi, and Guohan Hu",
+          "description": "Author(s): Jonathan Z. Sun, Christopher Safranski, Philip Trouilloud, Christopher D'Emic, Pouya Hashemi, and Guohan Hu\nSuperparamagnetic fluctuation of a nanomagnet, when confined by a strong easy-plane anisotropy, can yield a GHz-speed random signal. A magnetic tunnel junction converts such moment movement into conductance fluctuation and is useful as an entropy source for modern computing circuits. Here, the authors experimentally explore a magnetic tunnel junction with a synthetic antiferromagnetically coupled free layer and reference layer, in their superparamagnetic limit, to demonstrate hardware-based generation of a Gb/sec random bit stream, and to learn of factors in device materials and the fabrication process that are in need of future optimization.\n\n[Phys. Rev. B 108, 064418] Published Tue Aug 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.064418",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 1569,
+          "title": "Easy-plane dominant stochastic magnetic tunnel junction with synthetic antiferromagnetic layers",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.064418.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.085117",
+          "author": "Aidan P. Reddy, Faisal Alsallom, Yang Zhang, Trithep Devakul, and Liang Fu",
+          "description": "Author(s): Aidan P. Reddy, Faisal Alsallom, Yang Zhang, Trithep Devakul, and Liang Fu\nThe recent observation of the fractional quantum anomalous Hall effect opens a new frontier in topological phases and quantum materials. Here, the authors demonstrate that the strong interaction in partially filled topological moiré bands of twisted semiconductor bilayers induces a variety of phases, including ferromagnetic metals, charge density waves, and fractional quantum anomalous Hall states. This work reveals a remarkably rich phase diagram as a function of twist angle, awaiting further exploration.\n\n[Phys. Rev. B 108, 085117] Published Tue Aug 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.085117",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 1248,
+          "title": "Fractional quantum anomalous Hall states in twisted bilayer ${\\mathrm{MoTe}}_{2}$ and ${\\mathrm{WSe}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.085117.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L081111",
+          "author": "Tharindu Fernando and Ting Cao",
+          "description": "Author(s): Tharindu Fernando and Ting Cao\nClassifying the multiband topology of two-dimensional parameter space submanifolds, exemplified by electron valleys in a Brillouin zone, has historically been a complex endeavor. In response to these limitations, the authors unveil here a gauge-invariant, quantized interband topological index. This refined approach enhances the classification of valleys, and additionally sheds light on the nature of edge states resulting from band inversions in multiband systems. These findings deepen our grasp of valley physics and the intricacies of interband topology.\n\n[Phys. Rev. B 108, L081111] Published Tue Aug 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L081111",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 1009,
+          "title": "Quantized interband topological index in two-dimensional systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L081111.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.071901",
           "author": "R. Aaij <em>et al.</em> (LHCb Collaboration)",
           "description": "Author(s): R. Aaij et al. (LHCb Collaboration)\nThe LHCb collaboration reports the observation of a resonant structure around 3960 MeV that could be a 0++ cc¯ss¯ state.\n\n[Phys. Rev. Lett. 131, 071901] Published Mon Aug 14, 2023",
@@ -954,56 +1004,6 @@
           "wordCount": 1555,
           "title": "Optical magnetoelectric effects resonantly enhanced via electromagnons in cycloidal helimagnets ${\\mathrm{Eu}}_{1−x}{\\mathrm{Y}}_{x}{\\mathrm{MnO}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.024418.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.045134",
-          "author": "Anuj Apte, Clay Córdova, and Ho Tat Lam",
-          "description": "Author(s): Anuj Apte, Clay Córdova, and Ho Tat Lam\nOur understanding of quantum symmetry of systems has considerably broadened over the last decade. The idea of symmetry has become intrinsically linked with topology described and algebraically characterized by higher categories. Studying three-dimensional systems with noninvertible symmetries, the authors show here that these symmetries are in general incompatible with a unique gapped ground state. Their results extend the ideas behind the Lieb-Shultz-Mattis theorem to the arena of higher-dimensional field theories invariant under a novel class of symmetries.\n\n[Phys. Rev. B 108, 045134] Published Thu Jul 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.045134",
-          "publishedOn": "2023-07-20T10:00:00.000Z",
-          "wordCount": 1077,
-          "title": "Obstructions to gapped phases from noninvertible symmetries",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.045134.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L041404",
-          "author": "Z. An, P. Soubelet, Y. Zhumagulov, M. Zopf, A. Delhomme, C. Qian, P. E. Faria Junior, J. Fabian, X. Cao, J. Yang, A. V. Stier, F. Ding, and J. J. Finley",
-          "description": "Author(s): Z. An, P. Soubelet, Y. Zhumagulov, M. Zopf, A. Delhomme, C. Qian, P. E. Faria Junior, J. Fabian, X. Cao, J. Yang, A. V. Stier, F. Ding, and J. J. Finley\nThe spin-valley physics of monolayer transition metal dichalcogenides (TMDs) remains one of the main interests in the class of van der Waals materials. At low temperature, it is mainly driven by the electron-hole exchange interaction (EHEI) that describes the annihilation of an exciton in one valley and the creation of an exciton in the time-reversal equivalent valley. Here, the authors show that the EHEI in monolayer TMDs is biaxial strain dependent and, surprisingly, it is an order of magnitude more strain dependent than expected from these first principles calculations. This points to a valley scattering channel that has not been considered in the literature so far.\n\n[Phys. Rev. B 108, L041404] Published Thu Jul 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L041404",
-          "publishedOn": "2023-07-20T10:00:00.000Z",
-          "wordCount": 1092,
-          "title": "Strain control of exciton and trion spin-valley dynamics in monolayer transition metal dichalcogenides",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L041404.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031801",
-          "author": "Henso Abreu <em>et al.</em> (FASER Collaboration)",
-          "description": "Author(s): Henso Abreu et al. (FASER Collaboration)\nThe first observation of neutrinos produced at a particle collider opens a new field of study and offers ways to test the limits of the standard model.\n\n[Phys. Rev. Lett. 131, 031801] Published Wed Jul 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031801",
-          "publishedOn": "2023-07-19T10:00:00.000Z",
-          "wordCount": 1094,
-          "title": "First Direct Observation of Collider Neutrinos with FASER at the LHC",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.031801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031802",
-          "author": "R. Albanese <em>et al.</em> (SND@LHC Collaboration)",
-          "description": "Author(s): R. Albanese et al. (SND@LHC Collaboration)\nThe first observation of neutrinos produced at a particle collider opens a new field of study and offers ways to test the limits of the standard model.\n\n[Phys. Rev. Lett. 131, 031802] Published Wed Jul 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031802",
-          "publishedOn": "2023-07-19T10:00:00.000Z",
-          "wordCount": 945,
-          "title": "Observation of Collider Muon Neutrinos with the SND@LHC Experiment",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.031802.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.033602",
-          "author": "J.-N. Kirsten-Siemß, F. Fitzek, C. Schubert, E. M. Rasel, N. Gaaloul, and K. Hammerer",
-          "description": "Author(s): J.-N. Kirsten-Siemß, F. Fitzek, C. Schubert, E. M. Rasel, N. Gaaloul, and K. Hammerer\nA new method using atoms on optical gratings significantly improves the precision of the Bragg atom interferometers by reducing some of the detrimental systematic effects.\n\n[Phys. Rev. Lett. 131, 033602] Published Wed Jul 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.033602",
-          "publishedOn": "2023-07-19T10:00:00.000Z",
-          "wordCount": 1284,
-          "title": "Large-Momentum-Transfer Atom Interferometers with $\\mathrm{μ}\\mathrm{rad}$-Accuracy Using Bragg Diffraction",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.033602.png"
         }
       ]
     }
