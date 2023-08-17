@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.076002",
+          "author": "Anatoli Ulmer <em>et al.</em>",
+          "description": "Author(s): Anatoli Ulmer et al.\nResearchers have created vortex-free helium nanodroplets that contain more helium atoms than previous droplets of this type, allowing the system to be used in a wider range of studies.\n\n[Phys. Rev. Lett. 131, 076002] Published Wed Aug 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.076002",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 1029,
+          "title": "Generation of Large Vortex-Free Superfluid Helium Nanodroplets",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.076002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.077101",
+          "author": "Naruo Ohga, Sosuke Ito, and Artemy Kolchinsky",
+          "description": "Author(s): Naruo Ohga, Sosuke Ito, and Artemy Kolchinsky\nDissipation affects the time asymmetry of fluctuations in systems out of thermodynamic equilibrium. A newly discovered inequality elucidates that connection.\n\n[Phys. Rev. Lett. 131, 077101] Published Wed Aug 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.077101",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 1054,
+          "title": "Thermodynamic Bound on the Asymmetry of Cross-Correlations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.077101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.084303",
+          "author": "D. Saccone, M. De Marchis, B. Milici, and C. Marchioli",
+          "description": "Author(s): D. Saccone, M. De Marchis, B. Milici, and C. Marchioli\nThis study examines combined effects of particle inertia, particle aspect ratio, and wall roughness on dynamics of prolate ellipsoidal particles dispersed in turbulent channel flow bounded by rough walls. We use direct numerical simulation of the turbulence and Lagrangian tracking of the particles. The particles spatial distribution within the flow domain and their translational statistics is shown to depend almost exclusively on the combined effect of inertia and wall roughness, with weak aspect ratio effects. These effects are observed in the particle orientation statistics: Longer particles exhibit a stronger tendency to align with the mean flow direction, especially at low inertia.\n\n[Phys. Rev. Fluids 8, 084303] Published Wed Aug 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.084303",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 1414,
+          "title": "Transport of inertial ellipsoidal particles in turbulent flow over rough walls",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.084303.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.043521",
+          "author": "Adrian E. Bayer, Jia Liu, Ryo Terasawa, Alexandre Barreira, Yici Zhong, and Yu Feng",
+          "description": "Author(s): Adrian E. Bayer, Jia Liu, Ryo Terasawa, Alexandre Barreira, Yici Zhong, and Yu Feng\nThe authors study the super-sample covariance (SSC) on higher-order statistics which are becoming standard tools for cosmological inferences from the non-linear small-scale regime of the cosmic structure. To this end, they compare small box sizes of simulations with those embedded in larger simulations that include SCC modes that are cut off by the small boxes. It is observed that these finite-size effects have to be taken into account in future cosmological analyses.\n\n[Phys. Rev. D 108, 043521] Published Wed Aug 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.043521",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 1127,
+          "title": "Super-sample covariance of the power spectrum, bispectrum, halos, voids, and their cross covariances",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.043521.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L060301",
+          "author": "Raja Sen, Nathalie Vast, and Jelena Sjakste",
+          "description": "Author(s): Raja Sen, Nathalie Vast, and Jelena Sjakste\nIt is commonly believed that phonon drag, a phenomenon where electrons are dragged from the hot to the cold side of the sample by out-of-equilibrium phonons, does not play any significant role on the nanoscale. Here, the authors show that, even if the phonon-drag contribution is strongly reduced by nanostructuring, a silicon thin film of 100 nm thickness can still preserve more than 20% of the bulk phonon-drag contribution at 300 K along the in-plane direction of the thin film.\n\n[Phys. Rev. B 108, L060301] Published Wed Aug 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L060301",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 921,
+          "title": "Role of dimensionality and size in controlling the drag Seebeck coefficient of doped silicon nanostructures: A fundamental understanding",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L060301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.024037",
+          "author": "A. Portier, F. Donatini, D. Dauvergne, M.-L. Gallin-Martel, and J. Pernot",
+          "description": "Author(s): A. Portier, F. Donatini, D. Dauvergne, M.-L. Gallin-Martel, and J. Pernot\nDiamond is hard: Carrier mobility in diamond is a key parameter for the development of future electronics and quantum devices, yet the low-field mobility of holes in ultrapure diamond is unknown, below 80 K or so. This study presents a time-of-flight technique using electron-beam-induced current to measure the velocities of electrons and holes as a function of temperature and electric field. A low-field mobility of (1.03±0.05)×106 cm2 V−1 s−1 is measured for holes at 13 K, demonstrating that diamond is a suitable material for ballistic transport of charge carriers at a length scale of greater than 10 μm.\n\n[Phys. Rev. Applied 20, 024037] Published Wed Aug 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.024037",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 1112,
+          "title": "Carrier Mobility up to ${10}^{6}\\phantom{\\rule{0.2em}{0ex}}{\\mathrm{cm}}^{2}\\phantom{\\rule{0.1em}{0ex}}{\\mathrm{V}}^{−1}\\phantom{\\rule{0.1em}{0ex}}{\\mathrm{s}}^{−1}$ Measured in Single-Crystal Diamond by the Time-of-Flight Electron-Beam-Induced-Current Technique",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.024037.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.024039",
+          "author": "Alberto Ghirri, Claudio Bonizzoni, Maksut Maksutoglu, Alberto Mercurio, Omar Di Stefano, Salvatore Savasta, and Marco Affronte",
+          "description": "Author(s): Alberto Ghirri, Claudio Bonizzoni, Maksut Maksutoglu, Alberto Mercurio, Omar Di Stefano, Salvatore Savasta, and Marco Affronte\nControlling magnon-photon coupling is one of the keys to enabling cavity magnonics in several emerging applications, where the realization of all-on-chip devices is crucial to integrating magnonic systems with microwave circuits. This study shows that ultrastrong coupling can be achieved with a ferrimagnetic film in direct contact with a superconducting resonator. Analysis shows that the diamagnetic coupling term is vanishingly small, suggesting a potential route to superradiant phase transitions. These results ought to be relevant for microwave technologies including memory devices, microwave-to-optical transducers, haloscopes for axion detection, and coherent microwave sources.\n\n[Phys. Rev. Applied 20, 024039] Published Wed Aug 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.024039",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 1472,
+          "title": "Ultrastrong Magnon-Photon Coupling Achieved by Magnetic Films in Contact with Superconducting Resonators",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.024039.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.071002",
           "author": "Po-Wen Chang, Ivan Esteban, John F. Beacom, Todd A. Thompson, and Christopher M. Hirata",
           "description": "Author(s): Po-Wen Chang, Ivan Esteban, John F. Beacom, Todd A. Thompson, and Christopher M. Hirata\nA beyond-standard-model interaction between neutrinos could show up in future supernovae observations.\n\n[Phys. Rev. Lett. 131, 071002] Published Tue Aug 15, 2023",
@@ -41,7 +111,7 @@
           "description": "Author(s): Aidan P. Reddy, Faisal Alsallom, Yang Zhang, Trithep Devakul, and Liang Fu\nThe recent observation of the fractional quantum anomalous Hall effect opens a new frontier in topological phases and quantum materials. Here, the authors demonstrate that the strong interaction in partially filled topological moiré bands of twisted semiconductor bilayers induces a variety of phases, including ferromagnetic metals, charge density waves, and fractional quantum anomalous Hall states. This work reveals a remarkably rich phase diagram as a function of twist angle, awaiting further exploration.\n\n[Phys. Rev. B 108, 085117] Published Tue Aug 15, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.085117",
           "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 1248,
+          "wordCount": 1247,
           "title": "Fractional quantum anomalous Hall states in twisted bilayer ${\\mathrm{MoTe}}_{2}$ and ${\\mathrm{WSe}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.085117.png"
         },
@@ -934,76 +1004,6 @@
           "wordCount": 1586,
           "title": "Prediction of a roton-type feature in warm dense hydrogen",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.033039.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031601",
-          "author": "Liangdong Hu, Yin-Chen He, and W. Zhu",
-          "description": "Author(s): Liangdong Hu, Yin-Chen He, and W. Zhu\nA new numerical technique leads to the precise determination of conformal data in the 3D Ising model, including some previously unknown expansion coefficients.\n\n[Phys. Rev. Lett. 131, 031601] Published Fri Jul 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.031601",
-          "publishedOn": "2023-07-21T10:00:00.000Z",
-          "wordCount": 897,
-          "title": "Operator Product Expansion Coefficients of the 3D Ising Criticality via Quantum Fuzzy Spheres",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.031601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.073101",
-          "author": "Jiacheng Guo (郭佳诚), Pan Han (韩攀), Wei Zhang (张伟), Junshi Wang (王君实), George V. Lauder, Valentina Di Santo, and Haibo Dong (董海波)",
-          "description": "Author(s): Jiacheng Guo (郭佳诚), Pan Han (韩攀), Wei Zhang (张伟), Junshi Wang (王君实), George V. Lauder, Valentina Di Santo, and Haibo Dong (董海波)\nThe generation of leading-edge vortices (LEV) by the caudal fin (CF) has long been recognized as playing a key role in efficient propulsion in fish-like swimming. This study focuses on LEV enhancement due to vortex shedding of the median anal fin (AF), utilizing trout’s unique morphology and fin configurations. The shed anal-fin vortex (AFV) is found to stabilize and strengthen the LEV of the CF through its shearing with the CF leading edge, creating stronger leading-edge suction, resulting in stronger thrust production and increased propulsive efficiency in trout-like swimming.\n\n[Phys. Rev. Fluids 8, 073101] Published Fri Jul 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.073101",
-          "publishedOn": "2023-07-21T10:00:00.000Z",
-          "wordCount": 1938,
-          "title": "Vortex dynamics and fin-fin interactions resulting in performance enhancement in fish-like propulsion",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.073101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014048",
-          "author": "Bo Liu, Randy A. Meijer, Wei Li, Javier Hernandez-Rueda, Hanneke Gelderblom, and Oscar O. Versolato",
-          "description": "Author(s): Bo Liu, Randy A. Meijer, Wei Li, Javier Hernandez-Rueda, Hanneke Gelderblom, and Oscar O. Versolato\nThis article reports experiments on the mass partitioning of a fragmenting liquid sheet, formed after the impact of a nanosecond laser pulse on a tin microdroplet, to help in optimizing mass utilization of the liquid tin that is key to extreme-ultraviolet nanolithography. The authors apply machine learning to analyze subresolution fragments in the temporal evolution of the sheet and its bounding rim, ligaments protruding from the rim, and droplets shed by the ligaments. A full accounting includes the further contributions unique to laser-droplet impact: the mass ablated by the laser, and a surprising, centrally located mass remnant.\n\n[Phys. Rev. Applied 20, 014048] Published Fri Jul 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014048",
-          "publishedOn": "2023-07-21T10:00:00.000Z",
-          "wordCount": 2580,
-          "title": "Mass Partitioning in Fragmenting Tin Sheets",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.014048.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXLife.1.013003",
-          "author": "C. Maggi, F. Saglimbeni, V. Carmona Sosa, R. Di Leonardo, B. Nath, and A. Puglisi",
-          "description": "Author(s): C. Maggi, F. Saglimbeni, V. Carmona Sosa, R. Di Leonardo, B. Nath, and A. Puglisi\nThis study employs the thermodynamic uncertainty relation to explore the connection between energy dissipation and mesoscopic fluctuations in sperm beating, elucidating the role of the coupling among molecular motors that actuate the flagellar movement.\n\n[PRX Life 1, 013003] Published Thu Jul 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PRXLife.1.013003",
-          "publishedOn": "2023-07-20T10:00:00.000Z",
-          "wordCount": 2155,
-          "title": "Thermodynamic Limits of Sperm Swimming Precision",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXLIFE/key_images/10.1103/PRXLife.1.013003.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.014506",
-          "author": "Rune Højlund, Emil Grovn, Sahar Pakdel, Kristian S. Thygesen, and Fredrik Nilsson",
-          "description": "Author(s): Rune Højlund, Emil Grovn, Sahar Pakdel, Kristian S. Thygesen, and Fredrik Nilsson\nvan der Waal heterostructures can host long-lived excitons that can condense and exhibit superfluidity at low temperatures. In this paper, Højlund, Grovn and coworkers derive a first-principles framework, based on existing open-source codes, that can be used to model these systems. This framework is then used to evaluate the exciton binding energies and superfluid properties of hundreds of different heterostructures. Based on these calculations, the authors propose optimized materials with superior properties compared to the standard platforms.\n\n[Phys. Rev. B 108, 014506] Published Thu Jul 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.014506",
-          "publishedOn": "2023-07-20T10:00:00.000Z",
-          "wordCount": 1533,
-          "title": "Exciton superfluidity in two-dimensional heterostructures from first principles: Importance of material-specific screening",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.014506.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.014507",
-          "author": "T. Kouchi, K. Yoshinaga, T. Asano, S. Nishioka, M. Yashima, H. Mukuda, A. Iyo, T. Kawashima, and S. Miyasaka",
-          "description": "Author(s): T. Kouchi, K. Yoshinaga, T. Asano, S. Nishioka, M. Yashima, H. Mukuda, A. Iyo, T. Kawashima, and S. Miyasaka\nSince the discovery of the iron-based high-temperature superconductors, the superconductivity mechanism related to spin fluctuations and nematic (orbital) fluctuations has been much discussed, but it is remains unclear. Here, the authors reveal that the isotope 121,123Sb nuclei with large quadrupole moments are a sensitive local probe to observe the dynamics of orbital degrees of freedom. This provides us with a new approach to investigate systematically the correlation between the superconductivity and both the nematic and spin fluctuations, even in polycrystalline samples.\n\n[Phys. Rev. B 108, 014507] Published Thu Jul 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.014507",
-          "publishedOn": "2023-07-20T10:00:00.000Z",
-          "wordCount": 1187,
-          "title": "Dynamics of orbital degrees of freedom probed via isotope $^{121,123}\\mathrm{Sb}$ nuclear quadrupole moments in Sb-substituted iron pnictide superconductors",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.014507.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.024418",
-          "author": "M. Ogino, Y. Kaneko, Y. Tokura, and Y. Takahashi",
-          "description": "Author(s): M. Ogino, Y. Kaneko, Y. Tokura, and Y. Takahashi\nDynamical magnetoelectric coupling gives rise to nonreciprocal phenomena for light such as the optical diode effect and the nonreciprocity of light polarization. Here, the authors comprehensively study these nonreciprocal optical effects resonantly enhanced by electromagnons for multiferroic spin spiral states of perovskite manganites. The giant nonreciprocity observed near the phase boundary demonstrates an important role of anharmonicity of spin excitations for these nonreciprocal effects. Furthermore, they find one of the largest values for the dynamical magnetoelectric coupling on the resonance of electromagnons.\n\n[Phys. Rev. B 108, 024418] Published Thu Jul 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.024418",
-          "publishedOn": "2023-07-20T10:00:00.000Z",
-          "wordCount": 1555,
-          "title": "Optical magnetoelectric effects resonantly enhanced via electromagnons in cycloidal helimagnets ${\\mathrm{Eu}}_{1−x}{\\mathrm{Y}}_{x}{\\mathrm{MnO}}_{3}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.024418.png"
         }
       ]
     }
