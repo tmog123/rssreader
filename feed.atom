@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T00:40:57.158Z</id>
+    <id>urn:2023-08-18T00:41:23.860Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T00:40:57.158Z</updated>
+    <updated>2023-08-18T00:41:23.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pressure-enhanced fractional Chern insulators along a magic line in moiré transition metal dichalcogenides]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.L032022</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.5.L032022"/>
+        <updated>2023-08-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Nicolás Morales-Durán, Jie Wang, Gabriel R. Schleder, Mattia Angeli, Ziyan Zhu, Efthimios Kaxiras, Cécile Repellin, and Jennifer Cano
+The effect of applied pressure on fractional Chern insulators (FCIs) in moiré TMDs is numerically studied, indicating that pressure can enhance the many-body gap of these topologically ordered phases. This is supported by showing that, within the region of stability of the FCI, the quantum geometry of the topmost moiré flat band almost satisfies the ideal condition.
+
+[Phys. Rev. Research 5, L032022] Published Thu Aug 17, 2023]]></summary>
+        <author>
+            <name>Nicolás Morales-Durán, Jie Wang, Gabriel R. Schleder, Mattia Angeli, Ziyan Zhu, Efthimios Kaxiras, Cécile Repellin, and Jennifer Cano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting partial synchrony in a complex oscillatory network using pseudovortices]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.108.024307</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.108.024307"/>
+        <updated>2023-08-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yasuhiro Yamada and Kensuke Inaba
+The dynamics of a collection of coupled neurons resemble that of vortices in a commonly studied two-dimensional lattice model, a finding that could help in understanding brain function and dysfunction.
+
+[Phys. Rev. E 108, 024307] Published Thu Aug 17, 2023]]></summary>
+        <author>
+            <name>Yasuhiro Yamada and Kensuke Inaba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Annealing Optimization Method for the Design of Barrier Materials in Magnetic Tunnel Junctions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.024044</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.024044"/>
+        <updated>2023-08-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kenji Nawa, Tsuyoshi Suzuki, Keisuke Masuda, Shu Tanaka, and Yoshio Miura
+Materials informatics has boosted materials design, but the search for optimal atomic configurations in spintronic devices is challenging, due to many degrees of freedom and the need to design at the atomic level. Quantum annealing offers a breakthrough for such challenges in huge search spaces. The authors propose a combination of quantum annealing, machine learning, and first-principles calculations that is computationally cheaper than ordinary machine learning in designing atomically disordered spinel oxides (promising materials for magnetoresistive devices). Furthermore, the origins of physical properties of interest can be interpreted from the obtained Ising model Hamiltonian.
+
+[Phys. Rev. Applied 20, 024044] Published Thu Aug 17, 2023]]></summary>
+        <author>
+            <name>Kenji Nawa, Tsuyoshi Suzuki, Keisuke Masuda, Shu Tanaka, and Yoshio Miura</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generation of Large Vortex-Free Superfluid Helium Nanodroplets]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.076002</id>
@@ -1263,45 +1302,6 @@ By coupling antiferromagnetic and ferromagnetic modes in a ferromagnet-antiferro
 [Phys. Rev. Lett. 131, 046701] Published Mon Jul 24, 2023]]></summary>
         <author>
             <name>Hassan Al-Hamdo, Tobias Wagner, Yaryna Lytvynenko, Gutenberg Kendzo, Sonka Reimers, Moritz Ruhwedel, Misbah Yaqoob, Vitaliy I. Vasyuchka, Philipp Pirro, Jairo Sinova, Mathias Kläui, Martin Jourdan, Olena Gomonay, and Mathias Weiler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drag resistance mediated by quantum spin liquids]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.014425</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.014425"/>
-        <updated>2023-07-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Raffaele Mazzilli, Alex Levchenko, and Elio J. König
-Probing quantum spin liquid behavior in atomically thin materials is a challenging task. The authors propose here an experimental setup consisting of two metallic layers separated by a thin quantum spin liquid. The voltage induced in one of the metals by injecting a current in the other metal probes the nontrivial dynamics of gapless excitations in the quantum spin liquid. This analysis captures U(1) and ℤ2 quantum spin liquids and may find realizations in materials such as α-RuCl3, 1T-TaSe2, and 1T-TaS2.
-
-[Phys. Rev. B 108, 014425] Published Mon Jul 24, 2023]]></summary>
-        <author>
-            <name>Raffaele Mazzilli, Alex Levchenko, and Elio J. König</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetocaloric-Effect-Enhanced Near-Field Magneto-optical Thermal Switch]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.014053</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.014053"/>
-        <updated>2023-07-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Simo Pajovic and Svetlana V. Boriskina
-Magnetism has played an increasingly important role in thermal technologies over the past century, including solid-state magnetic refrigerators and magneto-optical thermal switches. In this study, modeling shows that a two-pronged approach enables a thermal switch with two tuning “knobs”: a magnetocaloric knob to tune the temperature gradient, and a magneto-optical knob to fine-tune the effective thermal resistance. This enables additional modes of operation, such as reversing the flow of heat. This work highlights the utility of combining various “-caloric” effects with complementary modes of heat transfer for fresh ways of controlling thermal energy.
-
-[Phys. Rev. Applied 20, 014053] Published Mon Jul 24, 2023]]></summary>
-        <author>
-            <name>Simo Pajovic and Svetlana V. Boriskina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction of a roton-type feature in warm dense hydrogen]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033039</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.5.033039"/>
-        <updated>2023-07-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Paul Hamann, Linda Kordts, Alexey Filinov, Michael Bonitz, Tobias Dornheim, and Jan Vorberger
-This paper provides confirmation that a roton-type correlation effect manifest itself in warm dense hydrogen.
-
-[Phys. Rev. Research 5, 033039] Published Fri Jul 21, 2023]]></summary>
-        <author>
-            <name>Paul Hamann, Linda Kordts, Alexey Filinov, Michael Bonitz, Tobias Dornheim, and Jan Vorberger</name>
         </author>
     </entry>
 </feed>

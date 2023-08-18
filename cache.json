@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L032022",
+          "author": "Nicolás Morales-Durán, Jie Wang, Gabriel R. Schleder, Mattia Angeli, Ziyan Zhu, Efthimios Kaxiras, Cécile Repellin, and Jennifer Cano",
+          "description": "Author(s): Nicolás Morales-Durán, Jie Wang, Gabriel R. Schleder, Mattia Angeli, Ziyan Zhu, Efthimios Kaxiras, Cécile Repellin, and Jennifer Cano\nThe effect of applied pressure on fractional Chern insulators (FCIs) in moiré TMDs is numerically studied, indicating that pressure can enhance the many-body gap of these topologically ordered phases. This is supported by showing that, within the region of stability of the FCI, the quantum geometry of the topmost moiré flat band almost satisfies the ideal condition.\n\n[Phys. Rev. Research 5, L032022] Published Thu Aug 17, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L032022",
+          "publishedOn": "2023-08-17T10:00:00.000Z",
+          "wordCount": 1163,
+          "title": "Pressure-enhanced fractional Chern insulators along a magic line in moiré transition metal dichalcogenides",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.L032022.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.024307",
+          "author": "Yasuhiro Yamada and Kensuke Inaba",
+          "description": "Author(s): Yasuhiro Yamada and Kensuke Inaba\nThe dynamics of a collection of coupled neurons resemble that of vortices in a commonly studied two-dimensional lattice model, a finding that could help in understanding brain function and dysfunction.\n\n[Phys. Rev. E 108, 024307] Published Thu Aug 17, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.024307",
+          "publishedOn": "2023-08-17T10:00:00.000Z",
+          "wordCount": 1331,
+          "title": "Detecting partial synchrony in a complex oscillatory network using pseudovortices",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.024307.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.024044",
+          "author": "Kenji Nawa, Tsuyoshi Suzuki, Keisuke Masuda, Shu Tanaka, and Yoshio Miura",
+          "description": "Author(s): Kenji Nawa, Tsuyoshi Suzuki, Keisuke Masuda, Shu Tanaka, and Yoshio Miura\nMaterials informatics has boosted materials design, but the search for optimal atomic configurations in spintronic devices is challenging, due to many degrees of freedom and the need to design at the atomic level. Quantum annealing offers a breakthrough for such challenges in huge search spaces. The authors propose a combination of quantum annealing, machine learning, and first-principles calculations that is computationally cheaper than ordinary machine learning in designing atomically disordered spinel oxides (promising materials for magnetoresistive devices). Furthermore, the origins of physical properties of interest can be interpreted from the obtained Ising model Hamiltonian.\n\n[Phys. Rev. Applied 20, 024044] Published Thu Aug 17, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.024044",
+          "publishedOn": "2023-08-17T10:00:00.000Z",
+          "wordCount": 1673,
+          "title": "Quantum Annealing Optimization Method for the Design of Barrier Materials in Magnetic Tunnel Junctions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.024044.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.076002",
           "author": "Anatoli Ulmer <em>et al.</em>",
           "description": "Author(s): Anatoli Ulmer et al.\nResearchers have created vortex-free helium nanodroplets that contain more helium atoms than previous droplets of this type, allowing the system to be used in a wider range of studies.\n\n[Phys. Rev. Lett. 131, 076002] Published Wed Aug 16, 2023",
@@ -111,7 +141,7 @@
           "description": "Author(s): Aidan P. Reddy, Faisal Alsallom, Yang Zhang, Trithep Devakul, and Liang Fu\nThe recent observation of the fractional quantum anomalous Hall effect opens a new frontier in topological phases and quantum materials. Here, the authors demonstrate that the strong interaction in partially filled topological moiré bands of twisted semiconductor bilayers induces a variety of phases, including ferromagnetic metals, charge density waves, and fractional quantum anomalous Hall states. This work reveals a remarkably rich phase diagram as a function of twist angle, awaiting further exploration.\n\n[Phys. Rev. B 108, 085117] Published Tue Aug 15, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.085117",
           "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 1247,
+          "wordCount": 1248,
           "title": "Fractional quantum anomalous Hall states in twisted bilayer ${\\mathrm{MoTe}}_{2}$ and ${\\mathrm{WSe}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.085117.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 954,
           "title": "Coupling of Ferromagnetic and Antiferromagnetic Spin Dynamics in ${\\mathrm{Mn}}_{2}\\mathrm{Au}/\\mathrm{NiFe}$ Thin Film Bilayers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.046701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.014425",
-          "author": "Raffaele Mazzilli, Alex Levchenko, and Elio J. König",
-          "description": "Author(s): Raffaele Mazzilli, Alex Levchenko, and Elio J. König\nProbing quantum spin liquid behavior in atomically thin materials is a challenging task. The authors propose here an experimental setup consisting of two metallic layers separated by a thin quantum spin liquid. The voltage induced in one of the metals by injecting a current in the other metal probes the nontrivial dynamics of gapless excitations in the quantum spin liquid. This analysis captures U(1) and ℤ2 quantum spin liquids and may find realizations in materials such as α-RuCl3, 1T-TaSe2, and 1T-TaS2.\n\n[Phys. Rev. B 108, 014425] Published Mon Jul 24, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.014425",
-          "publishedOn": "2023-07-24T10:00:00.000Z",
-          "wordCount": 1540,
-          "title": "Drag resistance mediated by quantum spin liquids",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.014425.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014053",
-          "author": "Simo Pajovic and Svetlana V. Boriskina",
-          "description": "Author(s): Simo Pajovic and Svetlana V. Boriskina\nMagnetism has played an increasingly important role in thermal technologies over the past century, including solid-state magnetic refrigerators and magneto-optical thermal switches. In this study, modeling shows that a two-pronged approach enables a thermal switch with two tuning “knobs”: a magnetocaloric knob to tune the temperature gradient, and a magneto-optical knob to fine-tune the effective thermal resistance. This enables additional modes of operation, such as reversing the flow of heat. This work highlights the utility of combining various “-caloric” effects with complementary modes of heat transfer for fresh ways of controlling thermal energy.\n\n[Phys. Rev. Applied 20, 014053] Published Mon Jul 24, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.014053",
-          "publishedOn": "2023-07-24T10:00:00.000Z",
-          "wordCount": 1847,
-          "title": "Magnetocaloric-Effect-Enhanced Near-Field Magneto-optical Thermal Switch",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.014053.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033039",
-          "author": "Paul Hamann, Linda Kordts, Alexey Filinov, Michael Bonitz, Tobias Dornheim, and Jan Vorberger",
-          "description": "Author(s): Paul Hamann, Linda Kordts, Alexey Filinov, Michael Bonitz, Tobias Dornheim, and Jan Vorberger\nThis paper provides confirmation that a roton-type correlation effect manifest itself in warm dense hydrogen.\n\n[Phys. Rev. Research 5, 033039] Published Fri Jul 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033039",
-          "publishedOn": "2023-07-21T10:00:00.000Z",
-          "wordCount": 1586,
-          "title": "Prediction of a roton-type feature in warm dense hydrogen",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.033039.png"
         }
       ]
     }
