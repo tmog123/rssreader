@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T00:41:59.685Z</id>
+    <id>urn:2023-08-22T00:42:42.852Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T00:41:59.685Z</updated>
+    <updated>2023-08-22T00:42:42.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Microwave Parametric Interferometer]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.024049</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.024049"/>
+        <updated>2023-08-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. Kronowetter, F. Fesquet, M. Renger, K. Honasoge, Y. Nojiri, K. Inomata, Y. Nakamura, A. Marx, R. Gross, and K.G. Fedorov
+Interferometers are extremely powerful tools for precision measurements in a plethora of research fields and applications, such as the detection of gravitational waves. The authors present experimental realization of a nonlinear microwave interferometer based on superconducting quantum circuits. Useful properties of this device range from a signal-to-noise ratio that exceeds the shot-noise limit, to sub-Poissonian intensity fluctuations between its outputs. These intriguing findings will promote applications ranging from quantum illumination to the search for axionic dark matter.
+
+[Phys. Rev. Applied 20, 024049] Published Mon Aug 21, 2023]]></summary>
+        <author>
+            <name>F. Kronowetter, F. Fesquet, M. Renger, K. Honasoge, Y. Nojiri, K. Inomata, Y. Nakamura, A. Marx, R. Gross, and K.G. Fedorov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sensing Rotations with Multiplane Light Conversion]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.024052</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.024052"/>
+        <updated>2023-08-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Eriksson, A.Z. Goldberg, M. Hiekkamäki, F. Bouchard, J. Rehacek, Z. Hradil, G. Leuchs, R. Fickler, and L.L. Sánchez-Soto
+Because any unitary operation is a rotation, in a sense measuring rotation is the most universal sort of measurement. In practice, precise rotation measurements are essential, from magnetometry to inertial navigation to fundamental tests of physics. The ultimate limits for simultaneously measuring all of the components of a rotation are dictated by quantum theory, and here are tested using light’s orbital angular momentum and multiplane light conversion. Rotated states are projected onto a set of coherent states to deduce the rotation parameters, using a method inspired by GPS. The results are near the ultimate limits of quantum precision.
+
+[Phys. Rev. Applied 20, 024052] Published Mon Aug 21, 2023]]></summary>
+        <author>
+            <name>M. Eriksson, A.Z. Goldberg, M. Hiekkamäki, F. Bouchard, J. Rehacek, Z. Hradil, G. Leuchs, R. Fickler, and L.L. Sánchez-Soto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optically trapped Feshbach molecules of fermionic $^{161}\mathrm{Dy}$ and $^{40}\mathrm{K}$]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033117</id>
@@ -1276,32 +1302,6 @@ In this study, the authors utilize optogenetic tools to achieve precise in vivo 
 [PRX Life 1, 013004] Published Tue Jul 25, 2023]]></summary>
         <author>
             <name>R. Marisol Herrera-Perez, Christian Cupo, Cole Allan, Alicia B. Dagle, and Karen E. Kasza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flat $\mathrm{Γ}$ Moiré Bands in Twisted Bilayer ${\mathrm{WSe}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.046401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.046401"/>
-        <updated>2023-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): G. Gatti, J. Issing, L. Rademaker, F. Margot, T. A. de Jong, S. J. van der Molen, J. Teyssier, T. K. Kim, M. D. Watson, C. Cacho, P. Dudin, J. Avila, K. Cordero Edwards, P. Paruch, N. Ubrig, I. Gutiérrez-Lezama, A. F. Morpurgo, A. Tamai, and F. Baumberger
-Combined real- and momentum-space mapping of moire superlattices reveals intriguing flat-band physics of certain van der Waals materials.
-
-[Phys. Rev. Lett. 131, 046401] Published Tue Jul 25, 2023]]></summary>
-        <author>
-            <name>G. Gatti, J. Issing, L. Rademaker, F. Margot, T. A. de Jong, S. J. van der Molen, J. Teyssier, T. K. Kim, M. D. Watson, C. Cacho, P. Dudin, J. Avila, K. Cordero Edwards, P. Paruch, N. Ubrig, I. Gutiérrez-Lezama, A. F. Morpurgo, A. Tamai, and F. Baumberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two-Dimensional Crystals far from Equilibrium]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.047101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.047101"/>
-        <updated>2023-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Leonardo Galliano, Michael E. Cates, and Ludovic Berthier
-Crystals cannot form in two-dimensional particle systems at equilibrium. A new study has found a regime where a crystal can form if the system is driven out of equilibrium.
-
-[Phys. Rev. Lett. 131, 047101] Published Tue Jul 25, 2023]]></summary>
-        <author>
-            <name>Leonardo Galliano, Michael E. Cates, and Ludovic Berthier</name>
         </author>
     </entry>
 </feed>
