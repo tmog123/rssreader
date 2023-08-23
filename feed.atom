@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T00:42:42.852Z</id>
+    <id>urn:2023-08-23T00:41:42.011Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T00:42:42.852Z</updated>
+    <updated>2023-08-23T00:41:42.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Mpemba Effect in a Quantum Dot with Reservoirs]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.080402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.080402"/>
+        <updated>2023-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Amit Kumar Chatterjee, Satoshi Takada, and Hisao Hayakawa
+The temperatures of two copies of a quantum dot, one initially hotter than the other, can cross each other at some finite time and reverse their identities, the first such prediction in a quantum regime.
+
+[Phys. Rev. Lett. 131, 080402] Published Tue Aug 22, 2023]]></summary>
+        <author>
+            <name>Amit Kumar Chatterjee, Satoshi Takada, and Hisao Hayakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Space Imaging of Triplon Excitations in Engineered Quantum Magnets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.086701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.086701"/>
+        <updated>2023-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Robert Drost, Shawulienu Kezilebieke, Jose L. Lado, and Peter Liljeroth
+A minimal quantum magnet with triplon excitations has been engineered using molecular building blocks in the singlet ground state.
+
+[Phys. Rev. Lett. 131, 086701] Published Tue Aug 22, 2023]]></summary>
+        <author>
+            <name>Robert Drost, Shawulienu Kezilebieke, Jose L. Lado, and Peter Liljeroth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drag on a partially immersed sphere at the capillary scale]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.084003</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.084003"/>
+        <updated>2023-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Robert Hunt, Ze Zhao, Eli Silver, Jinhui Yan, Yuri Bazilevs, and Daniel M. Harris
+Drag on a sphere in a steady flow is an important and thoroughly studied problem in fluid dynamics, yet relatively little work includes the effects of a free surface. Through experiments and simulations, we characterize the drag on a sphere partially immersed at an air-water interface as a function of submergence depth. The presence of the free surface can induce drag forces several times greater than the equivalent fully submerged case, with pronounced hysteretic effects strongly influenced by the sphere’s wettability. We ascribe the drag increase to an asymmetric pressure loading on the sphere that persists for flows both above and below the minimum capillary-gravity wave speed.
+
+[Phys. Rev. Fluids 8, 084003] Published Tue Aug 22, 2023]]></summary>
+        <author>
+            <name>Robert Hunt, Ze Zhao, Eli Silver, Jinhui Yan, Yuri Bazilevs, and Daniel M. Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sublattice interference promotes pair density wave order in kagome metals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L081117</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L081117"/>
+        <updated>2023-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yi-Ming Wu, Ronny Thomale, and S. Raghu
+Pair density wave superconductivity arises when the two paired fermions have finite center-of-mass momentum. It is usually not a weak coupling instability and requires stringent conditions, such as the pairing interaction remaining attractive at finite momentum, and the interaction strength has to be strong enough. Here, the authors find that the kagome lattice model, when doped to a particular Van Hove filling with both onsite and nearest neighbor repulsion, can serve as an ideal platform for realizing this novel superconducting state.
+
+[Phys. Rev. B 108, L081117] Published Tue Aug 22, 2023]]></summary>
+        <author>
+            <name>Yi-Ming Wu, Ronny Thomale, and S. Raghu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crucial role of thermal fluctuations and vertex corrections for the magnetic pseudogap]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L081118</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L081118"/>
+        <updated>2023-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mengxing Ye and Andrey V. Chubukov
+It is known that thermal magnetic fluctuations can give rise to pseudogap behavior in a paramagnetic metal. However, the role of vertex corrections for the pseudogap formation is not well understood. The authors show here that without vertex corrections there is no pseudogap, but an inclusion of even infinitesimally small vertex corrections gives rise to pseudogap behavior. The authors further generalize this statement to a set of boundary models, in which the pseudogap develops upon inclusion of perturbations. This work provides an understanding of recent numerical studies of the pseudogap.
+
+[Phys. Rev. B 108, L081118] Published Tue Aug 22, 2023]]></summary>
+        <author>
+            <name>Mengxing Ye and Andrey V. Chubukov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Microwave Parametric Interferometer]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.024049</id>
@@ -1237,71 +1302,6 @@ In this study, associative polymer hydrogels formed by well-defined artificial p
 [Phys. Rev. Materials 7, 075602] Published Wed Jul 26, 2023]]></summary>
         <author>
             <name>Ameya Rao, Brian R. Carrick, Helen Yao, and Bradley D. Olsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stability and magnetic behavior of exfoliable nanowire one-dimensional materials]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.076002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.076002"/>
-        <updated>2023-07-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Joshua T. Paul, Janet Lu, Sohum Shah, Stephen R. Xie, and Richard G. Hennig
-Researchers have demonstrated a way to sift a database of crystalline compounds for structures that can be separated into useful one-dimensional materials.
-
-[Phys. Rev. Materials 7, 076002] Published Wed Jul 26, 2023]]></summary>
-        <author>
-            <name>Joshua T. Paul, Janet Lu, Sohum Shah, Stephen R. Xie, and Richard G. Hennig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electroassociation of Ultracold Dipolar Molecules into Tetramer Field-Linked States]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.043402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.043402"/>
-        <updated>2023-07-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Goulven Quéméner, John L. Bohn, and James F. E. Croft
-A proposed method uses electric fields to form tetramers from two ultracold dipolar molecules, analogous to the magnetic field association between two atoms to form molecules.
-
-[Phys. Rev. Lett. 131, 043402] Published Wed Jul 26, 2023]]></summary>
-        <author>
-            <name>Goulven Quéméner, John L. Bohn, and James F. E. Croft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Information-field-based global Bayesian inference of the jet transport coefficient]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.108.L011901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.108.L011901"/>
-        <updated>2023-07-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Man Xie, Weiyao Ke, Hanzhong Zhang, and Xin-Nian Wang
-All recent analyses of heavy-ion data that extract information about the transport properties of excited strongly interacting matter use Bayesian techniques to fit parameters of functional forms motivated by physical insight. These explicit parameterizations may introduce undesired long-range correlations between different regions of parameter space. This paper develops an information field approach to avoid an explicit functional parameterization and obtain a global Bayesian inference of the jet transport coefficient q̂ as a function of the temperature.
-
-[Phys. Rev. C 108, L011901] Published Wed Jul 26, 2023]]></summary>
-        <author>
-            <name>Man Xie, Weiyao Ke, Hanzhong Zhang, and Xin-Nian Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revealing temperature evolution of the Dirac band in ${\mathrm{ZrTe}}_{5}$ via magnetoinfrared spectroscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L041202</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L041202"/>
-        <updated>2023-07-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yuxuan Jiang, Tianhao Zhao, Luojia Zhang, Qiang Chen, Haidong Zhou, Mykhaylo Ozerov, Dmitry Smirnov, and Zhigang Jiang
-The topological phases and their dependence on the lattice constant in zirconium pentatelluride ZrTe5 have been under heated debate. Here, the authors study the temperature evolution of the Dirac band in ZrTe5 and find no indication of band-gap closure as temperature changes. They show that a weak topological insulator phase across the temperature range may not be the only explanation. A topological phase transition is still possible if the band mixing and inversion are considered.
-
-[Phys. Rev. B 108, L041202] Published Wed Jul 26, 2023]]></summary>
-        <author>
-            <name>Yuxuan Jiang, Tianhao Zhao, Luojia Zhang, Qiang Chen, Haidong Zhou, Mykhaylo Ozerov, Dmitry Smirnov, and Zhigang Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tissue Flows Are Tuned by Actomyosin-Dependent Mechanics in Developing Embryos]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXLife.1.013004</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXLife.1.013004"/>
-        <updated>2023-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. Marisol Herrera-Perez, Christian Cupo, Cole Allan, Alicia B. Dagle, and Karen E. Kasza
-In this study, the authors utilize optogenetic tools to achieve precise in vivo manipulation of actomyosin, allowing them to investigate the effects of its activation and deactivation on tissue behavior during early development in Drosophila.
-
-[PRX Life 1, 013004] Published Tue Jul 25, 2023]]></summary>
-        <author>
-            <name>R. Marisol Herrera-Perez, Christian Cupo, Cole Allan, Alicia B. Dagle, and Karen E. Kasza</name>
         </author>
     </entry>
 </feed>
