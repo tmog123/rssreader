@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXLife.1.013011",
+          "author": "Haochen Fu, Fangzhou Xiao, and Suckjoon Jun",
+          "description": "Author(s): Haochen Fu, Fangzhou Xiao, and Suckjoon Jun\nThis study unveils a molecular model for DNA replication control in cells at different growth conditions. It tackles the long-standing challenge of how bacteria manage DNA initiation with constant protein concentrations, achieving very precise control of their size.\n\n[PRX Life 1, 013011] Published Mon Aug 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PRXLife.1.013011",
+          "publishedOn": "2023-08-28T10:00:00.000Z",
+          "wordCount": 1625,
+          "title": "Bacterial Replication Initiation as Precision Control by Protein Counting",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXLIFE/key_images/10.1103/PRXLife.1.013011.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.024142",
+          "author": "A. K. Hartmann and A. P. Young",
+          "description": "Author(s): A. K. Hartmann and A. P. Young\nThe authors numerically investigate the Ising spin glass state at zero temperature in two dimensions. They find a single ground state, in accordance with the droplet model, and also show that a single power law describes corrections to this result down to the smallest sizes.\n\n[Phys. Rev. E 108, 024142] Published Mon Aug 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.024142",
+          "publishedOn": "2023-08-28T10:00:00.000Z",
+          "wordCount": 956,
+          "title": "Metastate analysis of the ground states of two-dimensional Ising spin glasses",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.024142.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.075162",
+          "author": "Abhishek Kumar, Premala Chandra, and Pavel A. Volkov",
+          "description": "Author(s): Abhishek Kumar, Premala Chandra, and Pavel A. Volkov\nIn spin-orbit coupled metals, polar phonons couple to the spin of electrons by inducing a dynamical Rashba-type spin splitting. Here, the authors study the consequences of such coupling in polar metals, where one of the polar phonons has undergone a symmetry-breaking transition. They show that application of magnetic field reveals a spectrum of collective modes that can change their character (electronic vs. lattice) and energy as a function of field strength. Optical spectroscopy experiments are shown to have the capability to probe these modes.\n\n[Phys. Rev. B 108, 075162] Published Mon Aug 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.075162",
+          "publishedOn": "2023-08-28T10:00:00.000Z",
+          "wordCount": 1903,
+          "title": "Phonon-induced collective modes in spin-orbit coupled polar metals",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.075162.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.022815",
+          "author": "R. A. Brienza, Y. Lu, C. Wang, S. K. Kanungo, T. C. Killian, F. B. Dunning, J. Burgdörfer, and S. Yoshida",
+          "description": "Author(s): R. A. Brienza, Y. Lu, C. Wang, S. K. Kanungo, T. C. Killian, F. B. Dunning, J. Burgdörfer, and S. Yoshida\nThe authors use microwave spectroscopy to measure the quantum defects for lower-l singlet strontium Rydberg states at intermediate n. The results are used to develop a revised set of Rydberg-Ritz quantum defect parameters that could help make accurate predictions of the energy intervals between other high-lying states.\n\n[Phys. Rev. A 108, 022815] Published Mon Aug 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.022815",
+          "publishedOn": "2023-08-28T10:00:00.000Z",
+          "wordCount": 1001,
+          "title": "Microwave spectroscopy of low-$l$ singlet strontium Rydberg states at intermediate $n, 50≲n≲70$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.022815.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.023316",
+          "author": "Qing-Xian Lv, Hong-Zhi Liu, Yan-Xiong Du, Lin-Qing Chen, Meng Wang, Jia-Hao Liang, Zhao-Xin Fu, Zi-Yuan Chen, Hui Yan, and Shi-Liang Zhu",
+          "description": "Author(s): Qing-Xian Lv, Hong-Zhi Liu, Yan-Xiong Du, Lin-Qing Chen, Meng Wang, Jia-Hao Liang, Zhao-Xin Fu, Zi-Yuan Chen, Hui Yan, and Shi-Liang Zhu\nThe authors propose a scheme to measure the non-Abelian gauge field through multiloop evolution and robust holonomic quantum gates, and experimentally demonstrate it in the degenerate eigensubspace of a double-Λ four-level atomic system of 87Rb. The results could be useful for the development of high-resolution and high-precision measurements of the gauge fields.\n\n[Phys. Rev. A 108, 023316] Published Mon Aug 28, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.023316",
+          "publishedOn": "2023-08-28T10:00:00.000Z",
+          "wordCount": 1571,
+          "title": "Measurement of non-Abelian gauge fields using multiloop amplification",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.023316.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.084204",
           "author": "Dongxue Du, Laxman Raju Thoutam, Konrad T. Genser, Chenyu Zhang, Karin M. Rabe, Tamalika Samanta, Taehwan Jung, Bharat Jalan, Paul M. Voyles, and Jason K. Kawasaki",
           "description": "Author(s): Dongxue Du, Laxman Raju Thoutam, Konrad T. Genser, Chenyu Zhang, Karin M. Rabe, Tamalika Samanta, Taehwan Jung, Bharat Jalan, Paul M. Voyles, and Jason K. Kawasaki\nBismuth-containing half-Heusler compounds were among the first identified Weyl semimetals. However, it remains a question whether other half-Heuslers also exhibit Weyl physics. Additionally, the impacts of point defects on the transport properties of Weyl semimetals are often overlooked. One experimental signature of Weyl nodes is the chiral anomaly, which involves charge pumping between Weyl nodes in reciprocal space. In this study, the authors demonstrate that naturally occurring Pt vacancies in GdPtxSb epitaxial films complicate the identification of the chiral anomaly through magnetotransport measurements. On the other hand, they observe signatures of the topological Hall effect, indicating the presence of chiral spin textures in real space.\n\n[Phys. Rev. Materials 7, 084204] Published Fri Aug 25, 2023",
@@ -551,7 +601,7 @@
           "description": "Author(s): Mauro Fanciulli, David Bresteau, Jérôme Gaudin, Shuo Dong, Romain Géneaux, Thierry Ruchon, Olivier Tcherbakoff, Ján Minár, Olivier Heckmann, Maria Christine Richter, Karol Hricovini, and Samuel Beaulieu\nMultifaceted (spin-, time-, and angle-resolved) photoemission spectroscopy in transitional metal dichalcogenides provide optical control of excitons that could aid the study of spintronics in these systems.\n\n[Phys. Rev. Lett. 131, 066402] Published Thu Aug 10, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.066402",
           "publishedOn": "2023-08-10T10:00:00.000Z",
-          "wordCount": 1208,
+          "wordCount": 1209,
           "title": "Ultrafast Hidden Spin Polarization Dynamics of Bright and Dark Excitons in $2\\mathrm{H}\\text{−}{\\mathrm{WSe}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.066402.png"
         },
@@ -954,56 +1004,6 @@
           "wordCount": 889,
           "title": "Robust Fermi-Liquid Instabilities in Sign Problem-Free Models",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.056501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.054301",
-          "author": "Zihao Qi, Thomas Scaffidi, and Xiangyu Cao",
-          "description": "Author(s): Zihao Qi, Thomas Scaffidi, and Xiangyu Cao\nQuantum dynamics of spin systems with uniform infinite-range interaction are often considered “simple” because they become semiclassical in the thermodynamic limit. However, the standard semiclassical theory only applies to a shallow surface of the vast many-body Hilbert space. What happens away from this? Here, the authors dive into the “deep Hilbert space” and unveil a number of exotic phenomena in this rarely charted territory.\n\n[Phys. Rev. B 108, 054301] Published Tue Aug 01, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.054301",
-          "publishedOn": "2023-08-01T10:00:00.000Z",
-          "wordCount": 1474,
-          "title": "Surprises in the deep Hilbert space of all-to-all systems: From superexponential scrambling to slow entanglement growth",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.054301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.064301",
-          "author": "Christina Psaroudaki and Gil Refael",
-          "description": "Author(s): Christina Psaroudaki and Gil Refael\nQuantum machines have been a fascination for years. This paper examines a specific quantum machine - a spin driven by two harmonically related light beams. When the spin adopts a specific Floquet state, it receives energy from one beam and transfers it to the other, acting as an energy frequency converter. The authors study the power distribution of this 2-beam and spin system, uncovering an intriguing transition in distribution width, tuned by the drive amplitude.\n\n[Phys. Rev. B 108, 064301] Published Tue Aug 01, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.064301",
-          "publishedOn": "2023-08-01T10:00:00.000Z",
-          "wordCount": 1642,
-          "title": "Energy transfer in random-matrix ensembles of Floquet Hamiltonians",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.064301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.052503",
-          "author": "M. Stukel <em>et al.</em> (KDK Collaboration)",
-          "description": "Author(s): M. Stukel et al. (KDK Collaboration)\nResearchers revisit a neglected decay mode with implications for fundamental physics and for dating some of the oldest rocks on Earth and in the Solar System.\n\n[Phys. Rev. Lett. 131, 052503] Published Mon Jul 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.052503",
-          "publishedOn": "2023-07-31T10:00:00.000Z",
-          "wordCount": 1062,
-          "title": "Rare $^{40}\\mathrm{K}$ Decay with Implications for Fundamental Physics and Geochronology",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.052503.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.055201",
-          "author": "Lorenzo Sironi, Luca Comisso, and Ryan Golant",
-          "description": "Author(s): Lorenzo Sironi, Luca Comisso, and Ryan Golant\nWeibel-generated magnetic fields can be dynamo amplified and reach near equipartition under the continuous action of turbulent gravitational forces generated by the large-scale structure in the universe.\n\n[Phys. Rev. Lett. 131, 055201] Published Mon Jul 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.055201",
-          "publishedOn": "2023-07-31T10:00:00.000Z",
-          "wordCount": 1108,
-          "title": "Generation of Near-Equipartition Magnetic Fields in Turbulent Collisionless Plasmas",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.055201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.108.014327",
-          "author": "L. Hariasz <em>et al.</em> (KDK Collaboration)",
-          "description": "Author(s): L. Hariasz et al. (KDK Collaboration)\nPotassium-40 (40K) is a long-lived, naturally occurring radioisotope whose decay properties impact geochronology as well as rare-event searches. The KDK Collaboration reports first experimental evidence for the existence of the very rare electron-capture branch from 40K to the ground state of 40Ar, suppressed by two orders of magnitude as compared to the decay to the excited state of 40Ar. This measurement quantifies a previously ill-known background in rare-event searches, resolves a longstanding uncertainty in potassium-based geological age estimates, and benchmarks the theoretical modeling of highly forbidden weak decays including a neutrinoless double-β decay.\n\n[Phys. Rev. C 108, 014327] Published Mon Jul 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.108.014327",
-          "publishedOn": "2023-07-31T10:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Evidence for ground-state electron capture of $^{40}\\mathrm{K}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.108.014327.png"
         }
       ]
     }
