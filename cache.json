@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.092502",
+          "author": "K. Tsukada, Y. Abe, A. Enokizono, T. Goke, M. Hara, Y. Honda, T. Hori, S. Ichikawa, Y. Ito, K. Kurita, C. Legris, Y. Maehara, T. Ohnishi, R. Ogawara, T. Suda, T. Tamae, M. Wakasugi, M. Watanabe, and H. Wauke",
+          "description": "Author(s): K. Tsukada, Y. Abe, A. Enokizono, T. Goke, M. Hara, Y. Honda, T. Hori, S. Ichikawa, Y. Ito, K. Kurita, C. Legris, Y. Maehara, T. Ohnishi, R. Ogawara, T. Suda, T. Tamae, M. Wakasugi, M. Watanabe, and H. Wauke\nThe first electron-scattering experiment off unstable radioisotopes marks a milestone for understanding the shape of exotic atomic nuclei.\n\n[Phys. Rev. Lett. 131, 092502] Published Wed Aug 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.092502",
+          "publishedOn": "2023-08-30T10:00:00.000Z",
+          "wordCount": 1030,
+          "title": "First Observation of Electron Scattering from Online-Produced Radioactive Target",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.092502.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.096301",
+          "author": "Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto",
+          "description": "Author(s): Yuya Ikeda, Sota Kitamura, and Takahiro Morimoto\nA flower-petal pattern of light could induce electrical currents in a wider array of crystalline materials.\n\n[Phys. Rev. Lett. 131, 096301] Published Wed Aug 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.096301",
+          "publishedOn": "2023-08-30T10:00:00.000Z",
+          "wordCount": 988,
+          "title": "Photocurrent Induced by a Bicircular Light Drive in Centrosymmetric Systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.096301.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.030328",
           "author": "Kohei Kawabata, Anish Kulkarni, Jiachen Li, Tokiro Numasawa, and Shinsei Ryu",
           "description": "Author(s): Kohei Kawabata, Anish Kulkarni, Jiachen Li, Tokiro Numasawa, and Shinsei Ryu\nA novel method to classify open quantum systems in terms of non-Hermitian operators sheds light on the interplay between coherent and dissipative dynamics, with applications to quantum chaos.\n\n[PRX Quantum 4, 030328] Published Tue Aug 29, 2023",
@@ -18,7 +38,7 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.091802",
           "author": "R. Aaij <em>et al.</em> (LHCb Collaboration)",
-          "description": "Author(s): R. Aaij et al. (LHCb Collaboration)\nThe measurement of time-integrated CP asymmetry in the Cabibbo-suppressed D0→K−K+ decay results in the first direct evidence for CP violation in D0 decay.\n\n[Phys. Rev. Lett. 131, 091802] Published Tue Aug 29, 2023",
+          "description": "Author(s): R. Aaij et al. (LHCb Collaboration)\nThe measurement of time-integrated CP asymmetry in the Cabibbo-suppressed D0→K−K+ decay results in the first evidence for direct CP violation in a specific D0 decay mode.\n\n[Phys. Rev. Lett. 131, 091802] Published Tue Aug 29, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.091802",
           "publishedOn": "2023-08-29T10:00:00.000Z",
           "wordCount": 838,
@@ -984,26 +1004,6 @@
           "wordCount": 1257,
           "title": "Dispersion induced by unsteady diffusion-driven flow in a parallel-plate channel",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.084501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.024101",
-          "author": "Satyaki Kundu, Ranjan Kumar Patel, Srimanta Middey, and Bhavtosh Bansal",
-          "description": "Author(s): Satyaki Kundu, Ranjan Kumar Patel, Srimanta Middey, and Bhavtosh Bansal\nDynamic hysteresis is a delay in the response of a bistable system because it cannot keep up with the rate of change of a driving field. The authors study this phenomenon experimentally for a metal-insulator transition in a thin film, and show theoretically that the system exhibits power-law scaling with a nonuniversal exponent.\n\n[Phys. Rev. E 108, 024101] Published Wed Aug 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.024101",
-          "publishedOn": "2023-08-02T10:00:00.000Z",
-          "wordCount": 1424,
-          "title": "Dynamic hysteresis at a noisy saddle node shows power-law scaling but nonuniversal exponent",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.024101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.032002",
-          "author": "R. Aaij <em>et al.</em> (LHCb Collaboration)",
-          "description": "Author(s): R. Aaij et al. (LHCb Collaboration)\nNew data from observations of B-meson decay again vindicate the standard model of particle physics.\n\n[Phys. Rev. D 108, 032002] Published Wed Aug 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.032002",
-          "publishedOn": "2023-08-02T10:00:00.000Z",
-          "wordCount": 2180,
-          "title": "Measurement of lepton universality parameters in ${B}^{+}→{K}^{+}{ℓ}^{+}{ℓ}^{−}$ and ${B}^{0}→{K}^{*0}{ℓ}^{+}{ℓ}^{−}$ decays",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.032002.png"
         }
       ]
     }
