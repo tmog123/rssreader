@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-06T00:42:52.710Z</id>
+    <id>urn:2023-09-07T00:42:22.455Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T00:42:52.710Z</updated>
+    <updated>2023-09-07T00:42:22.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Attributing equity gaps to course structure in introductory physics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020126</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020126"/>
+        <updated>2023-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): David J. Webb and Cassandra A. Paul
+Changes to the structure of introductory physics courses can eliminate some demographic grade gaps.
+
+[Phys. Rev. Phys. Educ. Res. 19, 020126] Published Wed Sep 06, 2023]]></summary>
+        <author>
+            <name>David J. Webb and Cassandra A. Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tritium Beta Spectrum Measurement and Neutrino Mass Limit from Cyclotron Radiation Emission Spectroscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.102502</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.102502"/>
+        <updated>2023-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Ashtari Esfahani et al. (Project 8 Collaboration)
+The first frequency-based limit on the neutrino’s mass sets the stage for next-generation experiments.
+
+[Phys. Rev. Lett. 131, 102502] Published Wed Sep 06, 2023]]></summary>
+        <author>
+            <name>A. Ashtari Esfahani &lt;em&gt;et al.&lt;/em&gt; (Project 8 Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universality of Critical Dynamics with Finite Entanglement]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.106501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.106501"/>
+        <updated>2023-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): N. E. Sherman, A. Avdoshkin, and J. E. Moore
+A study based on matrix product state simulation of spin chains establishes how finite entanglement affects the Kibble-Zurek mechanism, thereby illustrating the role of entanglement in dynamical critical phenomena.
+
+[Phys. Rev. Lett. 131, 106501] Published Wed Sep 06, 2023]]></summary>
+        <author>
+            <name>N. E. Sherman, A. Avdoshkin, and J. E. Moore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuity equation for the many-electron spectral function]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.115110</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.115110"/>
+        <updated>2023-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. Aryasetiawan
+A continuity equation determining the total spectral function of a many-electron system is derived within the recently proposed exchange-correlation field framework. A practical scheme is constructed in which only the diagonal part of the exchange-correlation field is needed as input, leading to an explicit formula for the spectral function. This will greatly simplify calculations of spectral functions provided a reliable approximation for the exchange-correlation field is available. The local-density approximation could be a suitable starting point for an accurate approximation.
+
+[Phys. Rev. B 108, 115110] Published Wed Sep 06, 2023]]></summary>
+        <author>
+            <name>F. Aryasetiawan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crossover from exciton polarons to trions in doped two-dimensional semiconductors at finite temperature]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.125406</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.125406"/>
+        <updated>2023-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Antonio Tiene, Brendan C. Mulkerin, Jesper Levinsen, Meera M. Parish, and Francesca Maria Marchetti
+Should the optical response of doped two-dimensional semiconductors be described within a Fermi polaron or a trion model? Using a finite-temperature Fermi polaron theory, the authors demonstrate here a crossover from a quantum degenerate regime with a well-defined polaron quasiparticle to an incoherent regime at high temperature or low doping, where the lowest-energy attractive polaron becomes subsumed into a broad trion-hole continuum. The crossover is accompanied by a characteristic evolution of the emission profile, from a symmetric Lorentzian to an asymmetric peak.
+
+[Phys. Rev. B 108, 125406] Published Wed Sep 06, 2023]]></summary>
+        <author>
+            <name>Antonio Tiene, Brendan C. Mulkerin, Jesper Levinsen, Meera M. Parish, and Francesca Maria Marchetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exactly solvable lattice models for interacting electronic insulators in two dimensions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L121104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L121104"/>
+        <updated>2023-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Qing-Rui Wang, Yang Qi, Chen Fang, Meng Cheng, and Zheng-Cheng Gu
+Topological insulators in two-dimensional systems are well-understood within the context of free-fermion systems. Nevertheless, comprehending their strongly interacting counterparts presents a significant challenge. Here, the authors developed an innovative lattice model based on U(1)f fermionic charge decorations. The model furnishes a rigorous mathematical framework for delving into fermionic symmetry-protected topological phases that conserve U(1)f charge, among other types of symmetries. Notably, this research expands the existing theoretical landscape by presenting an exactly solvable Hamiltonian with a finite local Hilbert space and a sophisticated classification scheme for continuous symmetries.
+
+[Phys. Rev. B 108, L121104] Published Wed Sep 06, 2023]]></summary>
+        <author>
+            <name>Qing-Rui Wang, Yang Qi, Chen Fang, Meng Cheng, and Zheng-Cheng Gu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Damping in Free Layers of Spin-Transfer-Torque Magnetic Memory at Elevated Temperatures]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.034006</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.034006"/>
+        <updated>2023-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Adam Whitney, Chuanpu Liu, Tiffany S. Santos, Rajesh V. Chopdekar, Matthew Carey, Galen Street, Vijaysankar Kalappattil, Keira Leistikow, and Mingzhong Wu
+The efficiency of spin-transfer-torque magnetic random-access memory (MRAM) critically depends on the damping of the free layer. As MRAM cells operate above room temperature, it is crucial to determine the damping parameter of the free layer at elevated temperatures. This study uses ferromagnetic resonance techniques to measure the damping of MRAM free layers up to 520 K. The data show significant differences in temperature dependence between conventional and low-damping free-layer designs, paving the way for MRAM cells with lower switching current. These insights could impact the development of more efficient and thermally stable MRAM technologies.
+
+[Phys. Rev. Applied 20, 034006] Published Wed Sep 06, 2023]]></summary>
+        <author>
+            <name>Adam Whitney, Chuanpu Liu, Tiffany S. Santos, Rajesh V. Chopdekar, Matthew Carey, Galen Street, Vijaysankar Kalappattil, Keira Leistikow, and Mingzhong Wu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Probing the Connection between Entangled Particles and Wormholes in General Relativity]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.101001</id>
@@ -1212,97 +1303,6 @@ The authors show that a certain wave-particle duality relation is a type of unce
 [Phys. Rev. A 108, 022207] Published Thu Aug 10, 2023]]></summary>
         <author>
             <name>Lorenzo Catani, Matthew Leifer, Giovanni Scala, David Schmid, and Robert W. Spekkens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Cross an Energy Barrier at Zero Kelvin without Tunneling Effect]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.066701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.066701"/>
-        <updated>2023-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Seiji Miyashita and Bernard Barbara
-Irradiating a uniaxial magnetic system with a specific sequence of microwave pulses can induce in the system quantum oscillations that cause the material’s spins to flip back and forth.
-
-[Phys. Rev. Lett. 131, 066701] Published Wed Aug 09, 2023]]></summary>
-        <author>
-            <name>Seiji Miyashita and Bernard Barbara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instability of Magnetic Skyrmion Strings Induced by Longitudinal Spin Currents]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.066702</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.066702"/>
-        <updated>2023-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Shun Okumura, Volodymyr P. Kravchuk, and Markus Garst
-A simple mechanism to topologically unwind magnetic textures uses currents flowing perpendicular to the skyrmion plane to trigger a Goldstone spin-wave instability that eventually destroys skyrmions.
-
-[Phys. Rev. Lett. 131, 066702] Published Wed Aug 09, 2023]]></summary>
-        <author>
-            <name>Shun Okumura, Volodymyr P. Kravchuk, and Markus Garst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Von Kármán vortex street past a permeable circular cylinder: Two-dimensional flow and dynamic-mode-decomposition-based secondary stability analysis]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.083901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.083901"/>
-        <updated>2023-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Caruso Lombardi, A. Bongarzone, G. A. Zampogna, F. Gallaire, S. Camarri, and P. G. Ledda
-We explore the role of permeability in modifying the vortex shedding past a permeable circular cylinder. The two-dimensional (2D) von Kármán vortex street sets at progressively larger distances from the body and is eventually suppressed, as permeability increases. Using Dynamic Mode Decomposition we perform a linear stability analysis with respect to three-dimensional perturbations of the 2D periodic vortex shedding. We identify a range of permeability in which the shedding remains 2D, at least for the values of Reynolds number considered here; for larger values of permeability, the wake remains steady and 2D.
-
-[Phys. Rev. Fluids 8, 083901] Published Wed Aug 09, 2023]]></summary>
-        <author>
-            <name>F. Caruso Lombardi, A. Bongarzone, G. A. Zampogna, F. Gallaire, S. Camarri, and P. G. Ledda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refined spin-wave model and multimagnon bound states in ${\mathrm{Li}}_{2}{\mathrm{CuO}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.064408</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.064408"/>
-        <updated>2023-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Eli Zoghlin, Matthew B. Stone, and Stephen D. Wilson
-Quasi-one-dimensional materials serve as both testbeds for tractable magnetic models and as a perennial source of intriguing physics. An excellent example is the emergence of multimagnon bound states in ferromagnetic (FM) spin chains, which provide a platform for probing a few-body quantum phenomenon. Despite being studied for many years, the exchange anisotropy-driven bound state of a FM chain has yet to be observed by inelastic neutron scattering (INS). As INS provides a unique window into the nature of magnon-magnon interactions, this represents a substantive gap in the literature. Here, the authors rectify this gap by presenting detailed INS data on the S=½ spin chain Li2CuO2. Their data allows for determination of a refined spin Hamiltonian which fully describes the one-magnon dispersion. With these details in hand, they demonstrate the existence of two-magnon and, potentially, three-magnon bound states in Li2CuO2, with the potential three-magnon bound state showing anomalous behavior.
-
-[Phys. Rev. B 108, 064408] Published Wed Aug 09, 2023]]></summary>
-        <author>
-            <name>Eli Zoghlin, Matthew B. Stone, and Stephen D. Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid higher-order skin-topological effect in hyperbolic lattices]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.075122</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.075122"/>
-        <updated>2023-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Junsong Sun, Chang-An Li, Shiping Feng, and Huaiming Guo
-The hyperbolic lattice, existing in a space of constant negative curvature, displays unique physical properties compared to its Euclidean counterpart, and has garnered significant attention recently. Here, the authors have proposed the existence of a higher-order skin-topological effect in hyperbolic lattices. This result first introduces a non-Hermitian effect into hyperbolic lattices, which extends the regime of topological phases with hyperbolic geometry.
-
-[Phys. Rev. B 108, 075122] Published Wed Aug 09, 2023]]></summary>
-        <author>
-            <name>Junsong Sun, Chang-An Li, Shiping Feng, and Huaiming Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-dissipation data bus via coherent quantum dynamics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.075405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.075405"/>
-        <updated>2023-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Dylan Lewis, João P. Moutinho, Antonio T. Costa, Yasser Omar, and Sougato Bose
-The transport of information is an essential component of both classical and quantum computers. Coherent quantum dynamics offers the potential for the transfer of information through a linear array of quantum dots almost without dissipation. Here, the authors describe a protocol and calculate the energetic cost of transferring quantum states as a quantum or classical data bus, showing its advantage over the shuttling of electrons and classical data buses.
-
-[Phys. Rev. B 108, 075405] Published Wed Aug 09, 2023]]></summary>
-        <author>
-            <name>Dylan Lewis, João P. Moutinho, Antonio T. Costa, Yasser Omar, and Sougato Bose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic nematic order in the normal state of strontium ruthenate]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L081105</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L081105"/>
-        <updated>2023-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ryan S. Russell, Hari P. Nair, Kyle M. Shen, Darrell G. Schlom, and John W. Harter
-The nature of unconventional superconductivity in Sr2RuO4 remains stubbornly unresolved, and it is clear that a fundamental piece of the puzzle is still missing. Here, the authors use static and ultrafast optical dichroism measurements to uncover signatures of electronic nematic order in high quality epitaxially strained thin films of Sr2RuO4. Through the development of a simple Ising model of the nematic order, the authors show that optical pumping induces a coherent oscillation of its amplitude mode. Whether and how this nematic order ultimately influences the superconductivity in Sr2RuO4 remains a key open question.
-
-[Phys. Rev. B 108, L081105] Published Wed Aug 09, 2023]]></summary>
-        <author>
-            <name>Ryan S. Russell, Hari P. Nair, Kyle M. Shen, Darrell G. Schlom, and John W. Harter</name>
         </author>
     </entry>
 </feed>
