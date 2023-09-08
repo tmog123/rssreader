@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033165",
+          "author": "Rodrigo C. V. Coelho, Hélio R. J. C. Figueiredo, and Margarida M. Telo da Gama",
+          "description": "Author(s): Rodrigo C. V. Coelho, Hélio R. J. C. Figueiredo, and Margarida M. Telo da Gama\nActive nematic droplets on surfaces are studied at different activities on a wide range of surfaces. The analysis provides a global description of the dynamical regimes reported for active nematic droplets, such as active wetting, propulsion, and chaotic motion, and it reveals the dimensionless parameters that characterize the dynamics of droplets on surfaces.\n\n[Phys. Rev. Research 5, 033165] Published Thu Sep 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033165",
+          "publishedOn": "2023-09-07T10:00:00.000Z",
+          "wordCount": 1883,
+          "title": "Active nematics on flat surfaces: From droplet motility and scission to active wetting",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.033165.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.106601",
+          "author": "Jinchao Zhao, Peizhi Mai, Barry Bradlyn, and Philip Phillips",
+          "description": "Author(s): Jinchao Zhao, Peizhi Mai, Barry Bradlyn, and Philip Phillips\nWhen zeros appear in the Green function, as in strongly correlated systems, the invariant N3 for the two-dimensional quantum anomalous Hall insulator not necessarily encodes a topological invariant of the ground state, in contrast to expectations.\n\n[Phys. Rev. Lett. 131, 106601] Published Thu Sep 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.106601",
+          "publishedOn": "2023-09-07T10:00:00.000Z",
+          "wordCount": 835,
+          "title": "Failure of Topological Invariants in Strongly Correlated Matter",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.106601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.108001",
+          "author": "Evan V. Miu, James R. McKone, and Giannis Mpourmpakis",
+          "description": "Author(s): Evan V. Miu, James R. McKone, and Giannis Mpourmpakis\nThe reactivity of a material is describable using only the arrangement of its atoms, a finding that could be used to speed up the search for new catalytic materials.\n\n[Phys. Rev. Lett. 131, 108001] Published Thu Sep 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.108001",
+          "publishedOn": "2023-09-07T10:00:00.000Z",
+          "wordCount": 1029,
+          "title": "Global and Local Connectivities Describe Hydrogen Intercalation in Metal Oxides",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.108001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.093701",
+          "author": "I. Rubinstein and B. Zaltzman",
+          "description": "Author(s): I. Rubinstein and B. Zaltzman\nDendrite formation due to morphological instability in cathodic electrodeposition of a metal and related fluid flows are investigated. We show that the electric double layer fine structure and the finite electrode reaction rate regularize the electrodeposition front short-wave singularity and select a range of unstable perturbation modes. The critical wavelength corresponds to the fastest growing mode and scales with the electric double layer width and the reaction-diffusion length. The emerging electroconvective (electroosmotic) flow in the nonequilibrium regime selects the cathodic diffusion layer width as the dominant length scale for morphological instability and emerging dendrites.\n\n[Phys. Rev. Fluids 8, 093701] Published Thu Sep 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.093701",
+          "publishedOn": "2023-09-07T10:00:00.000Z",
+          "wordCount": 1813,
+          "title": "How the fine structure of the electric double layer and the flow affect morphological instability in electrodeposition",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.093701.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020126",
           "author": "David J. Webb and Cassandra A. Paul",
           "description": "Author(s): David J. Webb and Cassandra A. Paul\nChanges to the structure of introductory physics courses can eliminate some demographic grade gaps.\n\n[Phys. Rev. Phys. Educ. Res. 19, 020126] Published Wed Sep 06, 2023",
@@ -331,7 +371,7 @@
           "description": "Author(s): Kohei Kawabata, Anish Kulkarni, Jiachen Li, Tokiro Numasawa, and Shinsei Ryu\nA novel method to classify open quantum systems in terms of non-Hermitian operators sheds light on the interplay between coherent and dissipative dynamics, with applications to quantum chaos.\n\n[PRX Quantum 4, 030328] Published Tue Aug 29, 2023",
           "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.030328",
           "publishedOn": "2023-08-29T10:00:00.000Z",
-          "wordCount": 3027,
+          "wordCount": 3028,
           "title": "Symmetry of Open Quantum Systems: Classification of Dissipative Quantum Chaos",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.030328.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1220,
           "title": "Physics and modeling of liquid films in pulsating heat pipes",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.084002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.054419",
-          "author": "Chiara Bigi, Lei Qiao, Chao Liu, Paolo Barone, Monica Ciomaga Hatnean, Gesa-R. Siemann, Barat Achinuq, Daniel Alexander Mayoh, Giovanni Vinai, Vincent Polewczyk, Deepak Dagur, Federico Mazzola, Peter Bencok, Thorsten Hesjedal, Gerrit van der Laan, Wei Ren, Geetha Balakrishnan, Silvia Picozzi, and Phil D. C. King",
-          "description": "Author(s): Chiara Bigi, Lei Qiao, Chao Liu, Paolo Barone, Monica Ciomaga Hatnean, Gesa-R. Siemann, Barat Achinuq, Daniel Alexander Mayoh, Giovanni Vinai, Vincent Polewczyk, Deepak Dagur, Federico Mazzola, Peter Bencok, Thorsten Hesjedal, Gerrit van der Laan, Wei Ren, Geetha Balakrishnan, Silvia Picozzi, and Phil D. C. King\nThis work establishes the spectroscopic fingerprints of ferrimagnetic Mn3Si2Te6, providing a comprehensive understanding of the electronic states underpinning its magnetic interactions. The authors show the pivotal role played by covalency, which weakens the electronic correlations and influences the magnetic frustrations and anisotropic exchange, leading to the onset of the long-range ferrimagnetic order in this compound. The approach of combining spectroscopic experiments with state-of-the-art first-principles theory will have widespread applicability across the families of layered and quasilayered magnetic materials.\n\n[Phys. Rev. B 108, 054419] Published Fri Aug 11, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.054419",
-          "publishedOn": "2023-08-11T10:00:00.000Z",
-          "wordCount": 1647,
-          "title": "Covalency, correlations, and interlayer interactions governing the magnetic and electronic structure of ${\\mathrm{Mn}}_{3}{\\mathrm{Si}}_{2}{\\mathrm{Te}}_{6}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.054419.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.066402",
-          "author": "Mauro Fanciulli, David Bresteau, Jérôme Gaudin, Shuo Dong, Romain Géneaux, Thierry Ruchon, Olivier Tcherbakoff, Ján Minár, Olivier Heckmann, Maria Christine Richter, Karol Hricovini, and Samuel Beaulieu",
-          "description": "Author(s): Mauro Fanciulli, David Bresteau, Jérôme Gaudin, Shuo Dong, Romain Géneaux, Thierry Ruchon, Olivier Tcherbakoff, Ján Minár, Olivier Heckmann, Maria Christine Richter, Karol Hricovini, and Samuel Beaulieu\nMultifaceted (spin-, time-, and angle-resolved) photoemission spectroscopy in transitional metal dichalcogenides provide optical control of excitons that could aid the study of spintronics in these systems.\n\n[Phys. Rev. Lett. 131, 066402] Published Thu Aug 10, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.066402",
-          "publishedOn": "2023-08-10T10:00:00.000Z",
-          "wordCount": 1208,
-          "title": "Ultrafast Hidden Spin Polarization Dynamics of Bright and Dark Excitons in $2\\mathrm{H}\\text{−}{\\mathrm{WSe}}_{2}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.066402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.067301",
-          "author": "Qiaofeng Li, Tianyi Wang, Vwani Roychowdhury, and M. K. Jawed",
-          "description": "Author(s): Qiaofeng Li, Tianyi Wang, Vwani Roychowdhury, and M. K. Jawed\nA new artificial intelligence algorithm can model the behavior of a set of objects, such as helical springs or pendulums, using a method that can extrapolate to objects that the algorithm hasn’t previously analyzed.\n\n[Phys. Rev. Lett. 131, 067301] Published Thu Aug 10, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.067301",
-          "publishedOn": "2023-08-10T10:00:00.000Z",
-          "wordCount": 1333,
-          "title": "Metalearning Generalizable Dynamics from Trajectories",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.067301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.022207",
-          "author": "Lorenzo Catani, Matthew Leifer, Giovanni Scala, David Schmid, and Robert W. Spekkens",
-          "description": "Author(s): Lorenzo Catani, Matthew Leifer, Giovanni Scala, David Schmid, and Robert W. Spekkens\nThe authors show that a certain wave-particle duality relation is a type of uncertainty relation whose functional form is known to be able to witness the impossibility of a noncontextual model. In this way, they show that the quantum trade-off between path distinguishability and fringe visibility can witness contextuality and they discuss the requirements on an interferometric experiment necessary for achieving a noise-robust test.\n\n[Phys. Rev. A 108, 022207] Published Thu Aug 10, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.022207",
-          "publishedOn": "2023-08-10T10:00:00.000Z",
-          "wordCount": 958,
-          "title": "Aspects of the phenomenology of interference that are genuinely nonclassical",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.022207.png"
         }
       ]
     }
