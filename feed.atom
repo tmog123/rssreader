@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T00:42:36.388Z</id>
+    <id>urn:2023-09-09T00:41:43.079Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T00:42:36.388Z</updated>
+    <updated>2023-09-09T00:41:43.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nanoscale Transport during Liquid Film Thinning Inhibits Bubble Coalescing Behavior in Electrolyte Solutions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.104003</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.104003"/>
+        <updated>2023-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bo Liu, Rogerio Manica, Qingxia Liu, Zhenghe Xu, Evert Klaseboer, and Qiang Yang
+Observations of air-bubble mergers in water explain why dissolved salt slows this process and leads to foam.
+
+[Phys. Rev. Lett. 131, 104003] Published Fri Sep 08, 2023]]></summary>
+        <author>
+            <name>Bo Liu, Rogerio Manica, Qingxia Liu, Zhenghe Xu, Evert Klaseboer, and Qiang Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two-way photoeffectlike occupancy dynamics in a single (InGa)As quantum dot]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.125301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.125301"/>
+        <updated>2023-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pavel Sterin, Kai Hühn, Mikhail M. Glazov, Jens Hübner, and Michael Oestreich
+Spin noise spectroscopy on single quantum dots (QDs) has matured to a highly efficient method to study the spin and charge dynamics of semiconductor quantum dots, including the subtle impact of their surroundings. Here, the authors extend the theory and the experimental technique of optical spin noise spectroscopy to high magnetic fields and study the fundamental mechanisms of decharging and recharging of (InGa)As QDs at quasiresonant and nonresonant optical excitation. The resulting photoinduced two-way charge dynamics in single QDs is not only interesting from the fundamental point of view but plays an important role in many quantum dot based photonic devices, such as optically addressable qubits or reliable single-photon emitters.
+
+[Phys. Rev. B 108, 125301] Published Fri Sep 08, 2023]]></summary>
+        <author>
+            <name>Pavel Sterin, Kai Hühn, Mikhail M. Glazov, Jens Hübner, and Michael Oestreich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error mitigation for quantum approximate optimization]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.032408</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.032408"/>
+        <updated>2023-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Anita Weidinger, Glen Bigan Mbeng, and Wolfgang Lechner
+Quantum error mitigation involves reducing errors in hybrid quantum-classical algorithms, which is particularly relevant for near-term noisy quantum devices. The authors introduce an error mitigation technique based on redundant parity encoding of logical variables. They demonstrate the use of this technique by applying it to the quantum approximate optimization algorithm.
+
+[Phys. Rev. A 108, 032408] Published Fri Sep 08, 2023]]></summary>
+        <author>
+            <name>Anita Weidinger, Glen Bigan Mbeng, and Wolfgang Lechner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulations of a frequency-chirped magneto-optical trap of MgF]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.033105</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.033105"/>
+        <updated>2023-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kayla J. Rodriguez, Nickolas H. Pilgram, Daniel S. Barker, Stephen P. Eckel, and Eric B. Norrgard
+The authors present a theoretical analysis of a frequency-chirped molecular magneto-optical trap (MOT) that may open the way for efficient cooling of a class of light molecules. They show that this approach can increase the capture velocity of the MOT which could be used to capture more molecules from typical molecular sources and, in some cases, perhaps remove the need for laser slowing before capture in the MOT.
+
+[Phys. Rev. A 108, 033105] Published Fri Sep 08, 2023]]></summary>
+        <author>
+            <name>Kayla J. Rodriguez, Nickolas H. Pilgram, Daniel S. Barker, Stephen P. Eckel, and Eric B. Norrgard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Active nematics on flat surfaces: From droplet motility and scission to active wetting]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033165</id>
@@ -24,7 +76,7 @@ Active nematic droplets on surfaces are studied at different activities on a wid
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.106601"/>
         <updated>2023-09-07T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Jinchao Zhao, Peizhi Mai, Barry Bradlyn, and Philip Phillips
-When zeros appear in the Green function, as in strongly correlated systems, the invariant N3 for the two-dimensional quantum anomalous Hall insulator not necessarily encodes a topological invariant of the ground state, in contrast to expectations.
+When zeros appear in the Green’s function, as in strongly correlated systems, the invariant N3 for the two-dimensional quantum anomalous Hall insulator does not necessarily encode a topological invariant of the ground state, in contrast to expectations.
 
 [Phys. Rev. Lett. 131, 106601] Published Thu Sep 07, 2023]]></summary>
         <author>
@@ -1251,58 +1303,6 @@ The authors make a polarimetric study of a fast radio burst (FRB) from a particu
 [Phys. Rev. D 108, 043009] Published Mon Aug 14, 2023]]></summary>
         <author>
             <name>Pravir Kumar, Ryan M. Shannon, Marcus E. Lower, Adam T. Deller, and J. Xavier Prochaska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strain-coupling and relaxation dynamics in multicaloric ammonium sulphate ${({\mathrm{NH}}_{4})}_{2}{\mathrm{SO}}_{4}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.083601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.083601"/>
-        <updated>2023-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michael A. Carpenter, Miguel B. Costa, Guillaume F. Nataf, and Xavier Moya
-The properties of materials that lay the groundwork for greenhouse gas-free solid-state cooling are intricately tied to their proximity to a phase transition—a phenomenon that unfolds reversibly in response to an externally applied field. Enter ammonium sulfate, a material that holds the promise of effectiveness and affordability within this remarkable realm. Its allure stems from a structural phase transition occurring at 225 K, which can be driven by changing hydrostatic pressure and electric fields. However, because of a large change in volume, cycling crystals through the transition typically results in mechanical failure. In this work, resonant ultrasound spectroscopy reveals the strain relaxation mechanisms responsible for this failure and a thermal pathway by which it can be avoided.
-
-[Phys. Rev. Materials 7, 083601] Published Fri Aug 11, 2023]]></summary>
-        <author>
-            <name>Michael A. Carpenter, Miguel B. Costa, Guillaume F. Nataf, and Xavier Moya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intrinsic Nonlinear Hall Effect and Gate-Switchable Berry Curvature Sliding in Twisted Bilayer Graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.066301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.066301"/>
-        <updated>2023-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Meizhen Huang, Zefei Wu, Xu Zhang, Xuemeng Feng, Zishu Zhou, Shi Wang, Yong Chen, Chun Cheng, Kai Sun, Zi Yang Meng, and Ning Wang
-An out-of-plane displacement field substantially affects the nonlinear Hall effect in high-mobility twisted bilayer graphene devices.
-
-[Phys. Rev. Lett. 131, 066301] Published Fri Aug 11, 2023]]></summary>
-        <author>
-            <name>Meizhen Huang, Zefei Wu, Xu Zhang, Xuemeng Feng, Zishu Zhou, Shi Wang, Yong Chen, Chun Cheng, Kai Sun, Zi Yang Meng, and Ning Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large Scale Zigzag Pattern Emerging from Circulating Active Shakers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.068301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.068301"/>
-        <updated>2023-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gaspard Junot, Marco De Corato, and Pietro Tierno
-A zigzag arrangement that appears spontaneously in a collection of magnetic particles and some other colloids is explained by the fluid flow around each particle.
-
-[Phys. Rev. Lett. 131, 068301] Published Fri Aug 11, 2023]]></summary>
-        <author>
-            <name>Gaspard Junot, Marco De Corato, and Pietro Tierno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics and modeling of liquid films in pulsating heat pipes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.084002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.084002"/>
-        <updated>2023-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xiaolong Zhang (张晓龙) and Vadim S. Nikolayev
-A pulsating heat pipe (PHP) is a capillary meandering between hot spot and cooled area filled with a two-phase fluid that oscillates inside it due to evaporation and condensation. We introduce a one-dimensional physical model, the Oscillating Film Thickness model, that incorporates previously overlooked physics related to liquid film deposition, evaporation, and contact line motion. The model more accurately represents the physics of the phenomena without loss of computational efficiency. Improvements in modeling accuracy and computational efficiency are demonstrated for the case of the simplest, single branch PHP.
-
-[Phys. Rev. Fluids 8, 084002] Published Fri Aug 11, 2023]]></summary>
-        <author>
-            <name>Xiaolong Zhang (张晓龙) and Vadim S. Nikolayev</name>
         </author>
     </entry>
 </feed>
