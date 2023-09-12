@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.031026",
+          "author": "Gianluca Stefanucci, Robert van Leeuwen, and Enrico Perfetto",
+          "description": "Author(s): Gianluca Stefanucci, Robert van Leeuwen, and Enrico Perfetto\nA new set of equations captures the dynamical interplay of electrons and vibrations in crystals and forms a basis for computational studies.\n\n[Phys. Rev. X 13, 031026] Published Mon Sep 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.031026",
+          "publishedOn": "2023-09-11T10:00:00.000Z",
+          "wordCount": 1427,
+          "title": "In and Out-of-Equilibrium <i>Ab Initio</i> Theory of Electrons and Phonons",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.031026.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.111001",
+          "author": "Nhat-Minh Nguyen, Dragan Huterer, and Yuewei Wen",
+          "description": "Author(s): Nhat-Minh Nguyen, Dragan Huterer, and Yuewei Wen\nA joint analysis of data from the CMB, weak lensing, peculiar velocities, and galaxy clustering, shows that an extension of the concordance cosmological model which includes the suppression of the growth of cosmic structure can alleviate two widely discussed cosmological tensions.\n\n[Phys. Rev. Lett. 131, 111001] Published Mon Sep 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.111001",
+          "publishedOn": "2023-09-11T10:00:00.000Z",
+          "wordCount": 1072,
+          "title": "Evidence for Suppression of Structure Growth in the Concordance Cosmological Model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.111001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.116201",
+          "author": "J. Vallejo Bustamante, R. Ribeiro-Palau, C. Fermon, M. Pannetier-Lecoeur, K. Watanabe, T. Tanigushi, R. Deblock, S. Guéron, M. Ferrier, J. N. Fuchs, G. Montambaux, F. Piéchon, and H. Bouchiat",
+          "description": "Author(s): J. Vallejo Bustamante, R. Ribeiro-Palau, C. Fermon, M. Pannetier-Lecoeur, K. Watanabe, T. Tanigushi, R. Deblock, S. Guéron, M. Ferrier, J. N. Fuchs, G. Montambaux, F. Piéchon, and H. Bouchiat\nMagnetization measurements on graphene/hBN samples in a wide range of chemical potential reveal paramagnetism at saddle points of the moiré band structure.\n\n[Phys. Rev. Lett. 131, 116201] Published Mon Sep 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.116201",
+          "publishedOn": "2023-09-11T10:00:00.000Z",
+          "wordCount": 1324,
+          "title": "Paramagnetic Singularities of the Orbital Magnetism in Graphene with a Moiré Potential",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.116201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.064017",
+          "author": "Christopher Whittall and Leor Barack",
+          "description": "Author(s): Christopher Whittall and Leor Barack\nThe self-force problem in gravity is an approach to the two-body problem in which the mass ratio is extreme enough that the smaller-mass body can be usefully treated as a test particle to the lowest order in the mass ratio. In this paper, frequency domain methods, which are particularly suited for bound orbital motion, are developed in an innovative way so that they can be applied to study hyperbolic scattering in the “toy” problem of a scalar charge. Frequency domain methods as developed here may prove to be a promising approach to the full gravitational self-force problem.\n\n[Phys. Rev. D 108, 064017] Published Mon Sep 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.064017",
+          "publishedOn": "2023-09-11T10:00:00.000Z",
+          "wordCount": 1598,
+          "title": "Frequency-domain approach to self-force in hyperbolic scattering",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.064017.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.125411",
+          "author": "Paul Henderson, Areg Ghazaryan, Alexander A. Zibrov, Andrea F. Young, and Maksym Serbyn",
+          "description": "Author(s): Paul Henderson, Areg Ghazaryan, Alexander A. Zibrov, Andrea F. Young, and Maksym Serbyn\nHarnessing the power of deep learning, researchers have developed a novel method to fit the band structure parameters of complex 2D materials, such as trilayer graphene. By training neural networks on simulated data for the density of states, and then minimizing the effective distance between network-generated images and experimental data, the authors obtain here accurate predictions of tight-binding parameters, validating their results against literature values. This method can be easily extended to other complex two-dimensional materials, as well as to other experimental techniques.\n\n[Phys. Rev. B 108, 125411] Published Mon Sep 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.125411",
+          "publishedOn": "2023-09-11T10:00:00.000Z",
+          "wordCount": 1294,
+          "title": "Deep learning extraction of band structure parameters from density of states: A case study on trilayer graphene",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.125411.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.034017",
+          "author": "T. Vasselon, A. Hernández-Mínguez, M. Hollenbach, G.V. Astakhov, and P.V. Santos",
+          "description": "Author(s): T. Vasselon, A. Hernández-Mínguez, M. Hollenbach, G.V. Astakhov, and P.V. Santos\nSilicon vacancies in 4H-SiC are color centers with promising applications in quantum technologies, but spin control of the centers generated in a hexagonal local crystallographic environment has yet to be demonstrated above cryogenic temperatures. The authors use the dynamic strain of surface acoustic waves to overcome this limitation and efficiently excite spin transitions in the excited states of these color centers up to room temperature. The acoustic spin control of silicon vacancies opens possibilities for the implementation of efficient quantum spin control and sensing protocols using spin optomechanics.\n\n[Phys. Rev. Applied 20, 034017] Published Mon Sep 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.034017",
+          "publishedOn": "2023-09-11T10:00:00.000Z",
+          "wordCount": 1191,
+          "title": "Acoustically Induced Spin Resonances of Silicon-Vacancy Centers in $4H$-SiC",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.034017.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.104003",
           "author": "Bo Liu, Rogerio Manica, Qingxia Liu, Zhenghe Xu, Evert Klaseboer, and Qiang Yang",
           "description": "Author(s): Bo Liu, Rogerio Manica, Qingxia Liu, Zhenghe Xu, Evert Klaseboer, and Qiang Yang\nObservations of air-bubble mergers in water explain why dissolved salt slows this process and leads to foam.\n\n[Phys. Rev. Lett. 131, 104003] Published Fri Sep 08, 2023",
@@ -641,7 +701,7 @@
           "description": "Author(s): Rebecca W. Smaha, John S. Mangum, Ian A. Leahy, Julian Calder, Matthew P. Hautzinger, Christopher P. Muzzillo, Craig L. Perkins, Kevin R. Talley, Serena Eley, Prashun Gorai, Sage R. Bauers, and Andriy Zakutayev\nPerovskite and related materials exhibit a staggering array of interesting ground states and functional applications. Among these, nitride perovskites are predicted to possess intriguing physical properties, but they remain underexplored due to the challenges in synthesizing materials without unintentional oxygen incorporation. LaWN3, recently identified as the first fully nitrided perovskite, displays polar symmetry and a large piezoelectric coefficient. However, its predicted polarization switching (common for ferroelectrics) is hindered by a significant leakage current, necessitating a better understanding of its electronic structure and optical properties. This study delves into the structure and optoelectronic properties of thin film LaWN3 in greater detail, employing combinatorial techniques to establish correlations between properties and cation stoichiometry.\n\n[Phys. Rev. Materials 7, 084411] Published Wed Aug 23, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.084411",
           "publishedOn": "2023-08-23T10:00:00.000Z",
-          "wordCount": 1687,
+          "wordCount": 1688,
           "title": "Structural and optoelectronic properties of thin film ${\\mathrm{LaWN}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.084411.png"
         },
@@ -941,69 +1001,9 @@
           "description": "Author(s): Jonathan Z. Sun, Christopher Safranski, Philip Trouilloud, Christopher D'Emic, Pouya Hashemi, and Guohan Hu\nSuperparamagnetic fluctuation of a nanomagnet, when confined by a strong easy-plane anisotropy, can yield a GHz-speed random signal. A magnetic tunnel junction converts such moment movement into conductance fluctuation and is useful as an entropy source for modern computing circuits. Here, the authors experimentally explore a magnetic tunnel junction with a synthetic antiferromagnetically coupled free layer and reference layer, in their superparamagnetic limit, to demonstrate hardware-based generation of a Gb/sec random bit stream, and to learn of factors in device materials and the fabrication process that are in need of future optimization.\n\n[Phys. Rev. B 108, 064418] Published Tue Aug 15, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.064418",
           "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 1569,
+          "wordCount": 1568,
           "title": "Easy-plane dominant stochastic magnetic tunnel junction with synthetic antiferromagnetic layers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.064418.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.085117",
-          "author": "Aidan P. Reddy, Faisal Alsallom, Yang Zhang, Trithep Devakul, and Liang Fu",
-          "description": "Author(s): Aidan P. Reddy, Faisal Alsallom, Yang Zhang, Trithep Devakul, and Liang Fu\nThe recent observation of the fractional quantum anomalous Hall effect opens a new frontier in topological phases and quantum materials. Here, the authors demonstrate that the strong interaction in partially filled topological moiré bands of twisted semiconductor bilayers induces a variety of phases, including ferromagnetic metals, charge density waves, and fractional quantum anomalous Hall states. This work reveals a remarkably rich phase diagram as a function of twist angle, awaiting further exploration.\n\n[Phys. Rev. B 108, 085117] Published Tue Aug 15, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.085117",
-          "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 1248,
-          "title": "Fractional quantum anomalous Hall states in twisted bilayer ${\\mathrm{MoTe}}_{2}$ and ${\\mathrm{WSe}}_{2}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.085117.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L081111",
-          "author": "Tharindu Fernando and Ting Cao",
-          "description": "Author(s): Tharindu Fernando and Ting Cao\nClassifying the multiband topology of two-dimensional parameter space submanifolds, exemplified by electron valleys in a Brillouin zone, has historically been a complex endeavor. In response to these limitations, the authors unveil here a gauge-invariant, quantized interband topological index. This refined approach enhances the classification of valleys, and additionally sheds light on the nature of edge states resulting from band inversions in multiband systems. These findings deepen our grasp of valley physics and the intricacies of interband topology.\n\n[Phys. Rev. B 108, L081111] Published Tue Aug 15, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L081111",
-          "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 1009,
-          "title": "Quantized interband topological index in two-dimensional systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L081111.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.071901",
-          "author": "R. Aaij <em>et al.</em> (LHCb Collaboration)",
-          "description": "Author(s): R. Aaij et al. (LHCb Collaboration)\nThe LHCb collaboration reports the observation of a resonant structure around 3960 MeV that could be a 0++ cc¯ss¯ state.\n\n[Phys. Rev. Lett. 131, 071901] Published Mon Aug 14, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.071901",
-          "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 805,
-          "title": "Observation of a Resonant Structure near the ${D}_{s}^{+}{D}_{s}^{−}$ Threshold in the ${B}^{+}→{D}_{s}^{+}{D}_{s}^{−}{K}^{+}$ Decay",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.071901.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.075101",
-          "author": "V. G. Kiptily, R. Dumont, M. Fitzgerald, D. Keeling, S. E. Sharapov, M. Poradzinski, Ž. Štancar, P. J. Bonofiglo, E. Delabie, Z. Ghani, V. Goloborodko, S. Menmuir, E. Kowalska-Strzeciwilk, M. Podestà, H. Sun, D. M. Taylor, J. Bernardo, I. S. Carvalho, D. Douai, J. Garcia, M. Lennholm, C. F. Maggi, J. Mailloux, F. Rimini, and P. Siren",
-          "description": "Author(s): V. G. Kiptily, R. Dumont, M. Fitzgerald, D. Keeling, S. E. Sharapov, M. Poradzinski, Ž. Štancar, P. J. Bonofiglo, E. Delabie, Z. Ghani, V. Goloborodko, S. Menmuir, E. Kowalska-Strzeciwilk, M. Podestà, H. Sun, D. M. Taylor, J. Bernardo, I. S. Carvalho, D. Douai, J. Garcia, M. Lennholm, C. F. Maggi, J. Mailloux, F. Rimini, and P. Siren\nThe observation of self-heating in magnetically confined plasmas represents a milestone on the road to fusion reactors based on such plasmas.\n\n[Phys. Rev. Lett. 131, 075101] Published Mon Aug 14, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.075101",
-          "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 1319,
-          "title": "Evidence of Electron Heating by Alpha Particles in JET Deuterium-Tritium Plasmas",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.075101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.034012",
-          "author": "R. Aaij <em>et al.</em> (LHCb Collaboration)",
-          "description": "Author(s): R. Aaij et al. (LHCb Collaboration)\nThe LHCb collaboration reports the observation of a resonant structure around 3960 MeV that could be a 0++ cc¯ss¯ state.\n\n[Phys. Rev. D 108, 034012] Published Mon Aug 14, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.034012",
-          "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 815,
-          "title": "First observation of the ${B}^{+}→{D}_{s}^{+}{D}_{s}^{−}{K}^{+}$ decay",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.034012.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.043009",
-          "author": "Pravir Kumar, Ryan M. Shannon, Marcus E. Lower, Adam T. Deller, and J. Xavier Prochaska",
-          "description": "Author(s): Pravir Kumar, Ryan M. Shannon, Marcus E. Lower, Adam T. Deller, and J. Xavier Prochaska\nThe authors make a polarimetric study of a fast radio burst (FRB) from a particular source. The burst displays a considerable frequency-dependent circularly polarized component, which they analyze within a phenomenological generalized Faraday rotation framework. They find that initially linearly polarized radiation is transformed into circularly polarized radiation by a relativistic plasma located along the line of sight from the progenitor.\n\n[Phys. Rev. D 108, 043009] Published Mon Aug 14, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.043009",
-          "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 1094,
-          "title": "Propagation of a fast radio burst through a birefringent relativistic plasma",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.043009.png"
         }
       ]
     }
