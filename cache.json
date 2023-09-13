@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.118301",
+          "author": "Hongbo Zhao, Andrej Košmrlj, and Sujit S. Datta",
+          "description": "Author(s): Hongbo Zhao, Andrej Košmrlj, and Sujit S. Datta\nChemotaxis and motility-induced phase separation compete against each other in systems of active particles.\n\n[Phys. Rev. Lett. 131, 118301] Published Tue Sep 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.118301",
+          "publishedOn": "2023-09-12T10:00:00.000Z",
+          "wordCount": 1014,
+          "title": "Chemotactic Motility-Induced Phase Separation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.118301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.104203",
+          "author": "Adam Nahum and Kay Jörg Wiese",
+          "description": "Author(s): Adam Nahum and Kay Jörg Wiese\nField theoretic renormalization group is applied to measurement and entanglement phase transitions. The renormalization group flows for both random tensor networks and monitored systems show that, in high dimensions, there exist distinct weak- and strong-coupling universality classes for these phase transitions. In addition, one of the field theories exhibits a supersymmetry that leads to dimensional reduction by four.\n\n[Phys. Rev. B 108, 104203] Published Tue Sep 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.104203",
+          "publishedOn": "2023-09-12T10:00:00.000Z",
+          "wordCount": 1039,
+          "title": "Renormalization group for measurement and entanglement phase transitions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.104203.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L100505",
+          "author": "Andrew C. Yuan, Yaar Vituri, Erez Berg, Boris Spivak, and Steven A. Kivelson",
+          "description": "Author(s): Andrew C. Yuan, Yaar Vituri, Erez Berg, Boris Spivak, and Steven A. Kivelson\nThe lowest-order Josephson coupling between d-wave superconductors vanishes by symmetry when the twist angle is close to 45 degrees. The authors propose here an “order by disorder” mechanism, whereby spatial fluctuations in the local Josephson coupling generate an effective higher-order coupling, leading to a time reversal symmetry breaking superconducting phase at the twisted interface. This mechanism may offer an explanation for recent experiments in twist junctions between high-Tc cuprate superconductors. These findings have broader implications for high-Tc cuprate physics, requiring a local admixture of an s-wave component in the d-wave order parameter.\n\n[Phys. Rev. B 108, L100505] Published Tue Sep 12, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L100505",
+          "publishedOn": "2023-09-12T10:00:00.000Z",
+          "wordCount": 843,
+          "title": "Inhomogeneity-induced time-reversal symmetry breaking in cuprate twist junctions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L100505.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.031026",
           "author": "Gianluca Stefanucci, Robert van Leeuwen, and Enrico Perfetto",
           "description": "Author(s): Gianluca Stefanucci, Robert van Leeuwen, and Enrico Perfetto\nA new set of equations captures the dynamical interplay of electrons and vibrations in crystals and forms a basis for computational studies.\n\n[Phys. Rev. X 13, 031026] Published Mon Sep 11, 2023",
@@ -974,36 +1004,6 @@
           "wordCount": 1472,
           "title": "Ultrastrong Magnon-Photon Coupling Achieved by Magnetic Films in Contact with Superconducting Resonators",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.024039.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.071002",
-          "author": "Po-Wen Chang, Ivan Esteban, John F. Beacom, Todd A. Thompson, and Christopher M. Hirata",
-          "description": "Author(s): Po-Wen Chang, Ivan Esteban, John F. Beacom, Todd A. Thompson, and Christopher M. Hirata\nA beyond-standard-model interaction between neutrinos could show up in future supernovae observations.\n\n[Phys. Rev. Lett. 131, 071002] Published Tue Aug 15, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.071002",
-          "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 1105,
-          "title": "Toward Powerful Probes of Neutrino Self-Interactions in Supernovae",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.071002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.024129",
-          "author": "Zhiyi Li, Zongzheng Zhou, Sheng Fang, and Youjin Deng",
-          "description": "Author(s): Zhiyi Li, Zongzheng Zhou, Sheng Fang, and Youjin Deng\nIn this article, a worm algorithm is used to study the problem of the Ising model on a complete graph. The approach shows connections between different representations of the model and leads to a better understanding of its scaling properties and critical behavior.\n\n[Phys. Rev. E 108, 024129] Published Tue Aug 15, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.024129",
-          "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 1180,
-          "title": "Geometric properties of the complete-graph Ising model in the loop representation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.024129.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.064418",
-          "author": "Jonathan Z. Sun, Christopher Safranski, Philip Trouilloud, Christopher D'Emic, Pouya Hashemi, and Guohan Hu",
-          "description": "Author(s): Jonathan Z. Sun, Christopher Safranski, Philip Trouilloud, Christopher D'Emic, Pouya Hashemi, and Guohan Hu\nSuperparamagnetic fluctuation of a nanomagnet, when confined by a strong easy-plane anisotropy, can yield a GHz-speed random signal. A magnetic tunnel junction converts such moment movement into conductance fluctuation and is useful as an entropy source for modern computing circuits. Here, the authors experimentally explore a magnetic tunnel junction with a synthetic antiferromagnetically coupled free layer and reference layer, in their superparamagnetic limit, to demonstrate hardware-based generation of a Gb/sec random bit stream, and to learn of factors in device materials and the fabrication process that are in need of future optimization.\n\n[Phys. Rev. B 108, 064418] Published Tue Aug 15, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.064418",
-          "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 1568,
-          "title": "Easy-plane dominant stochastic magnetic tunnel junction with synthetic antiferromagnetic layers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.064418.png"
         }
       ]
     }
