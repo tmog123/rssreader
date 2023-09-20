@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-19T00:43:50.760Z</id>
+    <id>urn:2023-09-20T00:43:20.247Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T00:43:50.760Z</updated>
+    <updated>2023-09-20T00:43:20.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Network Effects Lead to Self-Organization in Metabolic Cycles of Self-Repelling Catalysts]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.128301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.128301"/>
+        <updated>2023-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Vincent Ouazan-Reboul, Ramin Golestanian, and Jaime Agudo-Canalejo
+Catalytically active particles form clusters when they respond not only to their own chemical targets but to those of other catalysts, too.
+
+[Phys. Rev. Lett. 131, 128301] Published Tue Sep 19, 2023]]></summary>
+        <author>
+            <name>Vincent Ouazan-Reboul, Ramin Golestanian, and Jaime Agudo-Canalejo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ac Josephson effect in a gate-tunable ${\mathrm{Cd}}_{3}{\mathrm{As}}_{2}$ nanowire superconducting weak link]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.094514</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.094514"/>
+        <updated>2023-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): R. Haller, M. Osterwalder, G. Fülöp, J. Ridderbos, M. Jung, and C. Schönenberger
+Experimental signatures of topological superconductivity have been notoriously difficult to verify, even though they are actively being researched. Here, the authors use nanowires of Cd3As2 – a Dirac semimetal – to hunt for these signatures by simultaneously looking at Josephson radiation and Shapiro patterns at different doping levels. By cross-checking the experimental results with an extensive (RCSJ) model that includes thermal noise, it is concluded that trivial supercurrent dominates and that topological supercurrent, if existent, falls below the detection limit of the setup.
+
+[Phys. Rev. B 108, 094514] Published Tue Sep 19, 2023]]></summary>
+        <author>
+            <name>R. Haller, M. Osterwalder, G. Fülöp, J. Ridderbos, M. Jung, and C. Schönenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental demonstration of splitting rules for exceptional points and their topological characterization]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.115427</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.115427"/>
+        <updated>2023-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yi-Xin Xiao, Jing Hu, Zhao-Qing Zhang, and C. T. Chan
+This work establishes clear relationships between how exceptional points of varying orders split and which parts of the system are perturbed. Additionally, two topological invariants are identified to fully characterize the various splitting behavior. These findings provide a comprehensive understanding of how exceptional points split in various non-Hermitian systems, and can help optimize the performance of sensors that rely on exceptional points.
+
+[Phys. Rev. B 108, 115427] Published Tue Sep 19, 2023]]></summary>
+        <author>
+            <name>Yi-Xin Xiao, Jing Hu, Zhao-Qing Zhang, and C. T. Chan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laser-Induced Cavitation for Controlling Crystallization from Solution]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.124001</id>
@@ -1264,45 +1303,6 @@ The authors provide the most accurate up to date tests of CP symmetry for neutra
 [Phys. Rev. D 108, L031106] Published Wed Aug 23, 2023]]></summary>
         <author>
             <name>M. Ablikim &lt;em&gt;et al.&lt;/em&gt; (BESIII Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exchange-renormalized crystal field excitations in the quantum Ising magnet ${\mathrm{KTmSe}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.054435</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.054435"/>
-        <updated>2023-08-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Shiyi Zheng, Hongliang Wo, Yiqing Gu, Rui Leonard Luo, Yimeng Gu, Yinghao Zhu, Paul Steffens, Martin Boehm, Qisi Wang, Gang Chen, and Jun Zhao
-Emerging as a platform for novel quantum effects, triangular-lattice rare-earth delafossite compounds have attracted significant attention. This study investigates KTmSe2 using thermodynamic and neutron scattering methods, revealing highly dispersive crystal electric field excitations. From the transverse field Ising model and a full crystal field scheme, the findings uncover a strong interplay between spin exchange interactions and crystal field effects. These insights will provide a valuable framework for understanding low-temperature magnetism in materials of a similar type.
-
-[Phys. Rev. B 108, 054435] Published Wed Aug 23, 2023]]></summary>
-        <author>
-            <name>Shiyi Zheng, Hongliang Wo, Yiqing Gu, Rui Leonard Luo, Yimeng Gu, Yinghao Zhu, Paul Steffens, Martin Boehm, Qisi Wang, Gang Chen, and Jun Zhao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Mpemba Effect in a Quantum Dot with Reservoirs]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.080402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.080402"/>
-        <updated>2023-08-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Amit Kumar Chatterjee, Satoshi Takada, and Hisao Hayakawa
-The temperatures of two copies of a quantum dot, one initially hotter than the other, can cross each other at some finite time and reverse their identities, the first such prediction in a quantum regime.
-
-[Phys. Rev. Lett. 131, 080402] Published Tue Aug 22, 2023]]></summary>
-        <author>
-            <name>Amit Kumar Chatterjee, Satoshi Takada, and Hisao Hayakawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Space Imaging of Triplon Excitations in Engineered Quantum Magnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.086701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.086701"/>
-        <updated>2023-08-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Robert Drost, Shawulienu Kezilebieke, Jose L. Lado, and Peter Liljeroth
-A minimal quantum magnet with triplon excitations has been engineered using molecular building blocks in the singlet ground state.
-
-[Phys. Rev. Lett. 131, 086701] Published Tue Aug 22, 2023]]></summary>
-        <author>
-            <name>Robert Drost, Shawulienu Kezilebieke, Jose L. Lado, and Peter Liljeroth</name>
         </author>
     </entry>
 </feed>
