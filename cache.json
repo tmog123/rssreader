@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128401",
+          "author": "Lauritz Hahn, Aleksandra M. Walczak, and Thierry Mora",
+          "description": "Author(s): Lauritz Hahn, Aleksandra M. Walczak, and Thierry Mora\nThe concurrent analysis of two measurements of a biochemical signaling network can provide more information than two separate probes of the datasets.\n\n[Phys. Rev. Lett. 131, 128401] Published Wed Sep 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128401",
+          "publishedOn": "2023-09-20T10:00:00.000Z",
+          "wordCount": 1061,
+          "title": "Dynamical Information Synergy in Biochemical Signaling Networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.128401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.066015",
+          "author": "Daniel Louis Jafferis, David K. Kolchmeyer, Baur Mukhametzhanov, and Julian Sonner",
+          "description": "Author(s): Daniel Louis Jafferis, David K. Kolchmeyer, Baur Mukhametzhanov, and Julian Sonner\nIt was conjectured that a particular two-dimensional gravity, Jackiw–Teitelboim (JT) gravity, is dual to a single-trace one-matrix Random Matrix Model (RMM). The authors extend this duality to JT gravity minimally coupled to a free massive scalar field and a single-trace two-matrix model. They study in detail the matching of genus zero one- and two-boundary expectation values in the matrix model to the gravitational disk correlators.\n\n[Phys. Rev. D 108, 066015] Published Wed Sep 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.066015",
+          "publishedOn": "2023-09-20T10:00:00.000Z",
+          "wordCount": 3440,
+          "title": "Jackiw-Teitelboim gravity with matter, generalized eigenstate thermalization hypothesis, and random matrices",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.066015.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.125130",
+          "author": "Wanda Hou and Yi-Zhuang You",
+          "description": "Author(s): Wanda Hou and Yi-Zhuang You\nThis paper investigates the symmetric mass generation transition in a bilayer honeycomb lattice model using variational Monte Carlo simulations. By measuring the fermion scaling dimension at the critical point, the authors provide evidence for fermion fractionalization into deconfined emergent particles, supporting the hypothesis that the transition is a fermionic deconfined quantum critical point. The numerical results, including the critical exponent and fermion dimension, agree with theoretical predictions.\n\n[Phys. Rev. B 108, 125130] Published Wed Sep 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.125130",
+          "publishedOn": "2023-09-20T10:00:00.000Z",
+          "wordCount": 941,
+          "title": "Variational Monte Carlo study of symmetric mass generation in a bilayer honeycomb lattice model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.125130.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128301",
           "author": "Vincent Ouazan-Reboul, Ramin Golestanian, and Jaime Agudo-Canalejo",
           "description": "Author(s): Vincent Ouazan-Reboul, Ramin Golestanian, and Jaime Agudo-Canalejo\nCatalytically active particles form clusters when they respond not only to their own chemical targets but to those of other catalysts, too.\n\n[Phys. Rev. Lett. 131, 128301] Published Tue Sep 19, 2023",
@@ -974,36 +1004,6 @@
           "wordCount": 1688,
           "title": "Structural and optoelectronic properties of thin film ${\\mathrm{LaWN}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.084411.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L081601",
-          "author": "Maximilian J. Schilcher, David J. Abramovitch, Matthew Z. Mayers, Liang Z. Tan, David R. Reichman, and David A. Egger",
-          "description": "Author(s): Maximilian J. Schilcher, David J. Abramovitch, Matthew Z. Mayers, Liang Z. Tan, David R. Reichman, and David A. Egger\nCharge transport characteristics in optoelectronic devices play a crucial role in their efficiency. Research over the past decades has established strategies to alter charge transport behavior through material design. However, when atomic motion becomes complex at elevated, application-relevant temperatures, the established structure-property relations are less predictive. In this work, the authors take a major step to solve this critical problem by quantitatively connecting vibrational anharmonicity and dynamic disorder in model anharmonic semiconductors. It is reported that the materials’ correlated behavior determine carrier mobilities and their temperature dependencies in halide perovskites, establishing these phenomena as knobs to tune key optoelectronic properties of important optoelectronic materials.\n\n[Phys. Rev. Materials 7, L081601] Published Wed Aug 23, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L081601",
-          "publishedOn": "2023-08-23T10:00:00.000Z",
-          "wordCount": 974,
-          "title": "Correlated anharmonicity and dynamic disorder control carrier transport in halide perovskites",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.L081601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.045014",
-          "author": "A. O. Barvinsky and W. Wachowski",
-          "description": "Author(s): A. O. Barvinsky and W. Wachowski\nExplicit expressions for anomalies and associated effective actions may take many different forms. Here the authors discuss the conformal anomaly and solve in a clear and explicit manner long-standing confusions and controversies for several wildly different looking effective actions. They show how they are related by different choices of the conformal gauge, reflecting the ambiguity caused by Weyl-invariant pieces. They also discuss applications of these new results to anomaly-driven inflation and the “running” of gravitational and cosmological constants.\n\n[Phys. Rev. D 108, 045014] Published Wed Aug 23, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.045014",
-          "publishedOn": "2023-08-23T10:00:00.000Z",
-          "wordCount": 951,
-          "title": "Notes on conformal anomaly, nonlocal effective action, and the metamorphosis of the running scale",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.045014.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.L031106",
-          "author": "M. Ablikim <em>et al.</em> (BESIII Collaboration)",
-          "description": "Author(s): M. Ablikim et al. (BESIII Collaboration)\nThe authors provide the most accurate up to date tests of CP symmetry for neutral hyperons in the decay of J/ψ.\n\n[Phys. Rev. D 108, L031106] Published Wed Aug 23, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.L031106",
-          "publishedOn": "2023-08-23T10:00:00.000Z",
-          "wordCount": 895,
-          "title": "Tests of $CP$ symmetry in entangled ${\\mathrm{Ξ}}^{0}−{\\overline{\\mathrm{Ξ}}}^{0}$ pairs",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.L031106.png"
         }
       ]
     }
