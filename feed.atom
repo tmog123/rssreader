@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-25T00:44:02.632Z</id>
+    <id>urn:2023-09-26T00:44:08.723Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T00:44:02.632Z</updated>
+    <updated>2023-09-26T00:44:08.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Static Black Binaries in de Sitter Space]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.131401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.131401"/>
+        <updated>2023-09-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Óscar J. C. Dias, Gary W. Gibbons, Jorge E. Santos, and Benson Way
+Black holes may be less unique than previously thought, as the expansion due to a cosmological constant can hold apart a pair of holes and allow them to mimic a single black hole.
+
+[Phys. Rev. Lett. 131, 131401] Published Mon Sep 25, 2023]]></summary>
+        <author>
+            <name>Óscar J. C. Dias, Gary W. Gibbons, Jorge E. Santos, and Benson Way</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gallium neutrino absorption cross section and its uncertainty]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.108.035502</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.108.035502"/>
+        <updated>2023-09-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. R. Elliott, V. N. Gavrin, W. C. Haxton, T. V. Ibragimova, and E. J. Rule
+The 71Ga radiochemical experiments provided the first constraint on the flux of low-energy electron neutrinos coming from the Sun. Crucial neutrino calibration experiments, however, using intense β-decay sources, yielded rates below that predicted by theory. A recent effort to check the “gallium anomaly” using a more intense source exacerbated the discrepancy. This paper carefully reexamines the nuclear physics of neutrino absorption on 71Ga, slightly reducing but not eliminating the puzzling anomaly.
+
+[Phys. Rev. C 108, 035502] Published Mon Sep 25, 2023]]></summary>
+        <author>
+            <name>S. R. Elliott, V. N. Gavrin, W. C. Haxton, T. V. Ibragimova, and E. J. Rule</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase diagram of the $\mathrm{SU}\text{(}N\text{)}$ antiferromagnet of spin $S$ on a square lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.115151</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.115151"/>
+        <updated>2023-09-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jonas Schwab, Francesco Parisen Toldin, and Fakher F. Assaad
+Spin systems are a fundamental concept in condensed matter and statistical physics. Here, the authors provide the very first computation of the spin-S SU(N) antiferromagnet in a representation amenable to negative sign free fermion Monte Carlo simulations. They offer a numerical proof of the seminal works of Read and Sachdev. It highlights the close connection between topology and the melting of the quantum antiferromagnet, with the Berry phase explaining the various states observed in the vicinity of the quantum antiferromagnet.
+
+[Phys. Rev. B 108, 115151] Published Mon Sep 25, 2023]]></summary>
+        <author>
+            <name>Jonas Schwab, Francesco Parisen Toldin, and Fakher F. Assaad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raman Probing the Local Ultrastrong Coupling of Vibrational Plasmon Polaritons on Metallic Gratings]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.126902</id>
@@ -1264,32 +1303,6 @@ In spin-orbit coupled metals, polar phonons couple to the spin of electrons by i
 [Phys. Rev. B 108, 075162] Published Mon Aug 28, 2023]]></summary>
         <author>
             <name>Abhishek Kumar, Premala Chandra, and Pavel A. Volkov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microwave spectroscopy of low-$l$ singlet strontium Rydberg states at intermediate $n, 50≲n≲70$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.022815</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.022815"/>
-        <updated>2023-08-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. A. Brienza, Y. Lu, C. Wang, S. K. Kanungo, T. C. Killian, F. B. Dunning, J. Burgdörfer, and S. Yoshida
-The authors use microwave spectroscopy to measure the quantum defects for lower-l singlet strontium Rydberg states at intermediate n. The results are used to develop a revised set of Rydberg-Ritz quantum defect parameters that could help make accurate predictions of the energy intervals between other high-lying states.
-
-[Phys. Rev. A 108, 022815] Published Mon Aug 28, 2023]]></summary>
-        <author>
-            <name>R. A. Brienza, Y. Lu, C. Wang, S. K. Kanungo, T. C. Killian, F. B. Dunning, J. Burgdörfer, and S. Yoshida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement of non-Abelian gauge fields using multiloop amplification]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.023316</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.023316"/>
-        <updated>2023-08-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Qing-Xian Lv, Hong-Zhi Liu, Yan-Xiong Du, Lin-Qing Chen, Meng Wang, Jia-Hao Liang, Zhao-Xin Fu, Zi-Yuan Chen, Hui Yan, and Shi-Liang Zhu
-The authors propose a scheme to measure the non-Abelian gauge field through multiloop evolution and robust holonomic quantum gates, and experimentally demonstrate it in the degenerate eigensubspace of a double-Λ four-level atomic system of 87Rb. The results could be useful for the development of high-resolution and high-precision measurements of the gauge fields.
-
-[Phys. Rev. A 108, 023316] Published Mon Aug 28, 2023]]></summary>
-        <author>
-            <name>Qing-Xian Lv, Hong-Zhi Liu, Yan-Xiong Du, Lin-Qing Chen, Meng Wang, Jia-Hao Liang, Zhao-Xin Fu, Zi-Yuan Chen, Hui Yan, and Shi-Liang Zhu</name>
         </author>
     </entry>
 </feed>

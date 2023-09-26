@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.131401",
+          "author": "Óscar J. C. Dias, Gary W. Gibbons, Jorge E. Santos, and Benson Way",
+          "description": "Author(s): Óscar J. C. Dias, Gary W. Gibbons, Jorge E. Santos, and Benson Way\nBlack holes may be less unique than previously thought, as the expansion due to a cosmological constant can hold apart a pair of holes and allow them to mimic a single black hole.\n\n[Phys. Rev. Lett. 131, 131401] Published Mon Sep 25, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.131401",
+          "publishedOn": "2023-09-25T10:00:00.000Z",
+          "wordCount": 922,
+          "title": "Static Black Binaries in de Sitter Space",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.131401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.108.035502",
+          "author": "S. R. Elliott, V. N. Gavrin, W. C. Haxton, T. V. Ibragimova, and E. J. Rule",
+          "description": "Author(s): S. R. Elliott, V. N. Gavrin, W. C. Haxton, T. V. Ibragimova, and E. J. Rule\nThe 71Ga radiochemical experiments provided the first constraint on the flux of low-energy electron neutrinos coming from the Sun. Crucial neutrino calibration experiments, however, using intense β-decay sources, yielded rates below that predicted by theory. A recent effort to check the “gallium anomaly” using a more intense source exacerbated the discrepancy. This paper carefully reexamines the nuclear physics of neutrino absorption on 71Ga, slightly reducing but not eliminating the puzzling anomaly.\n\n[Phys. Rev. C 108, 035502] Published Mon Sep 25, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.108.035502",
+          "publishedOn": "2023-09-25T10:00:00.000Z",
+          "wordCount": 1120,
+          "title": "Gallium neutrino absorption cross section and its uncertainty",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.108.035502.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.115151",
+          "author": "Jonas Schwab, Francesco Parisen Toldin, and Fakher F. Assaad",
+          "description": "Author(s): Jonas Schwab, Francesco Parisen Toldin, and Fakher F. Assaad\nSpin systems are a fundamental concept in condensed matter and statistical physics. Here, the authors provide the very first computation of the spin-S SU(N) antiferromagnet in a representation amenable to negative sign free fermion Monte Carlo simulations. They offer a numerical proof of the seminal works of Read and Sachdev. It highlights the close connection between topology and the melting of the quantum antiferromagnet, with the Berry phase explaining the various states observed in the vicinity of the quantum antiferromagnet.\n\n[Phys. Rev. B 108, 115151] Published Mon Sep 25, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.115151",
+          "publishedOn": "2023-09-25T10:00:00.000Z",
+          "wordCount": 1670,
+          "title": "Phase diagram of the $\\mathrm{SU}\\text{(}N\\text{)}$ antiferromagnet of spin $S$ on a square lattice",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.115151.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.126902",
           "author": "Rakesh Arul, Kishan Menghrajani, Marie S. Rider, Rohit Chikkaraddy, William L. Barnes, and Jeremy J. Baumberg",
           "description": "Author(s): Rakesh Arul, Kishan Menghrajani, Marie S. Rider, Rohit Chikkaraddy, William L. Barnes, and Jeremy J. Baumberg\nUsing a metallic grating and infrared light, researchers have uncovered a light–matter coupling regime where the local coupling strength can be 3.5 times higher than the global average for the material.\n\n[Phys. Rev. Lett. 131, 126902] Published Fri Sep 22, 2023",
@@ -531,7 +561,7 @@
           "description": "Author(s): Rodrigo C. V. Coelho, Hélio R. J. C. Figueiredo, and Margarida M. Telo da Gama\nActive nematic droplets on surfaces are studied at different activities on a wide range of surfaces. The analysis provides a global description of the dynamical regimes reported for active nematic droplets, such as active wetting, propulsion, and chaotic motion, and it reveals the dimensionless parameters that characterize the dynamics of droplets on surfaces.\n\n[Phys. Rev. Research 5, 033165] Published Thu Sep 07, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033165",
           "publishedOn": "2023-09-07T10:00:00.000Z",
-          "wordCount": 1890,
+          "wordCount": 1889,
           "title": "Active nematics on flat surfaces: From droplet motility and scission to active wetting",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.033165.png"
         },
@@ -581,7 +611,7 @@
           "description": "Author(s): A. Ashtari Esfahani et al. (Project 8 Collaboration)\nThe first frequency-based limit on the neutrino’s mass sets the stage for next-generation experiments.\n\n[Phys. Rev. Lett. 131, 102502] Published Wed Sep 06, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.102502",
           "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": 996,
+          "wordCount": 997,
           "title": "Tritium Beta Spectrum Measurement and Neutrino Mass Limit from Cyclotron Radiation Emission Spectroscopy",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.102502.png"
         },
@@ -974,26 +1004,6 @@
           "wordCount": 1923,
           "title": "Phonon-induced collective modes in spin-orbit coupled polar metals",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.075162.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.022815",
-          "author": "R. A. Brienza, Y. Lu, C. Wang, S. K. Kanungo, T. C. Killian, F. B. Dunning, J. Burgdörfer, and S. Yoshida",
-          "description": "Author(s): R. A. Brienza, Y. Lu, C. Wang, S. K. Kanungo, T. C. Killian, F. B. Dunning, J. Burgdörfer, and S. Yoshida\nThe authors use microwave spectroscopy to measure the quantum defects for lower-l singlet strontium Rydberg states at intermediate n. The results are used to develop a revised set of Rydberg-Ritz quantum defect parameters that could help make accurate predictions of the energy intervals between other high-lying states.\n\n[Phys. Rev. A 108, 022815] Published Mon Aug 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.022815",
-          "publishedOn": "2023-08-28T10:00:00.000Z",
-          "wordCount": 1001,
-          "title": "Microwave spectroscopy of low-$l$ singlet strontium Rydberg states at intermediate $n, 50≲n≲70$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.022815.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.023316",
-          "author": "Qing-Xian Lv, Hong-Zhi Liu, Yan-Xiong Du, Lin-Qing Chen, Meng Wang, Jia-Hao Liang, Zhao-Xin Fu, Zi-Yuan Chen, Hui Yan, and Shi-Liang Zhu",
-          "description": "Author(s): Qing-Xian Lv, Hong-Zhi Liu, Yan-Xiong Du, Lin-Qing Chen, Meng Wang, Jia-Hao Liang, Zhao-Xin Fu, Zi-Yuan Chen, Hui Yan, and Shi-Liang Zhu\nThe authors propose a scheme to measure the non-Abelian gauge field through multiloop evolution and robust holonomic quantum gates, and experimentally demonstrate it in the degenerate eigensubspace of a double-Λ four-level atomic system of 87Rb. The results could be useful for the development of high-resolution and high-precision measurements of the gauge fields.\n\n[Phys. Rev. A 108, 023316] Published Mon Aug 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.023316",
-          "publishedOn": "2023-08-28T10:00:00.000Z",
-          "wordCount": 1584,
-          "title": "Measurement of non-Abelian gauge fields using multiloop amplification",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.023316.png"
         }
       ]
     }
