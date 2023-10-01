@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-30T00:42:42.048Z</id>
+    <id>urn:2023-10-01T00:51:18.122Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T00:42:42.048Z</updated>
+    <updated>2023-10-01T00:51:18.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1264,45 +1264,6 @@ Single-electron sources are vital for modern nanoelectronics, enabling advances 
 [Phys. Rev. Applied 20, 034005] Published Tue Sep 05, 2023]]></summary>
         <author>
             <name>Matteo Aluffi, Thomas Vasselon, Seddik Ouacel, Hermann Edlbauer, Clément Geffroy, Preden Roulleau, D. Christian Glattli, Giorgos Georgiou, and Christopher Bäuerle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entangling quantum memories via heralded photonic Bell measurement]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033149</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.5.033149"/>
-        <updated>2023-09-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Prajit Dhara, Dirk Englund, and Saikat Guha
-Analytical modeling of a quantum communication link is based on a photonic swap in the middle architecture. The effect of network and hardware nonidealities on the distributed entangled state is analyzed with the density operator formalism and with implications on the choice of distillation circuits of heralded states.
-
-[Phys. Rev. Research 5, 033149] Published Fri Sep 01, 2023]]></summary>
-        <author>
-            <name>Prajit Dhara, Dirk Englund, and Saikat Guha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combining electron-phonon and dynamical mean-field theory calculations of correlated materials: Transport in the correlated metal ${\mathrm{Sr}}_{2}{\mathrm{RuO}}_{4}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.093801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.093801"/>
-        <updated>2023-09-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): David J. Abramovitch, Jin-Jian Zhou, Jernej Mravlje, Antoine Georges, and Marco Bernardi
-In correlated quantum materials, strong electronic interactions lead to unconventional transport and exotic phases. Dynamical mean field theory (DMFT) calculations can describe the purely electronic dynamics in these materials. Here, the authors integrate into this framework the interactions between electrons and lattice vibrations (phonons). They apply this method to the correlated metal Sr2RuO4, elucidating the respective contributions of electron-electron and electron-phonon scattering to the resistivity and spectral functions. The method presented in this work enables future studies of electron-phonon physics in various classes of correlated materials, including Mott insulators, high-Tc superconductors and strange metals.
-
-[Phys. Rev. Materials 7, 093801] Published Fri Sep 01, 2023]]></summary>
-        <author>
-            <name>David J. Abramovitch, Jin-Jian Zhou, Jernej Mravlje, Antoine Georges, and Marco Bernardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Particle Acceleration in 3D Hybrid Simulations of Quasiperpendicular Shocks]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.095201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.095201"/>
-        <updated>2023-09-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Luca Orusa and Damiano Caprioli
-3D hybrid kinetic simulations show how ions can be spontaneously and efficiently accelerated by shock-drift acceleration at nonrelativistic quasiperpendicular shocks, ubiquitous in space and astrophysical environments.
-
-[Phys. Rev. Lett. 131, 095201] Published Fri Sep 01, 2023]]></summary>
-        <author>
-            <name>Luca Orusa and Damiano Caprioli</name>
         </author>
     </entry>
 </feed>
