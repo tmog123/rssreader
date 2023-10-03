@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T00:44:23.973Z</id>
+    <id>urn:2023-10-03T00:44:28.962Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T00:44:23.973Z</updated>
+    <updated>2023-10-03T00:44:28.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unsteady Inherent Convective Mixing in Thermal-Energy-Storage Systems during Standby Periods]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXEnergy.2.043001</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXEnergy.2.043001"/>
+        <updated>2023-10-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Henning Otto, Clemens Naumann, Christian Odenthal, and Christian Cierpka
+Experimental studies of the fluid dynamics of small- and large-scale stratified-thermal-storage tanks demonstrate that inherent flow near the tank sidewalls increases mixing of the hot and cold fluid layers and decreases the energy storage efficiency.
+
+[PRX Energy 2, 043001] Published Mon Oct 02, 2023]]></summary>
+        <author>
+            <name>Henning Otto, Clemens Naumann, Christian Odenthal, and Christian Cierpka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy dissipation of a carbon monoxide molecule manipulated using a metallic tip on copper surfaces]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.165401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.165401"/>
+        <updated>2023-10-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Norio Okabayashi, Thomas Frederiksen, Alexander Liebig, and Franz J. Giessibl
+The manipulation process of a single CO molecule on a copper single crystal by a metallic tip is studied here using noncontact atomic force microscopy, with dissipation energy detection, vibrational spectroscopy, and density functional theory calculations. The manipulation of the CO molecule between the two adjacent top sites is found to occur via an intermediate state of CO on the bridging site. Furthermore, this finding allows for the interpretation of static and dynamic friction at the atomic scale.
+
+[Phys. Rev. B 108, 165401] Published Mon Oct 02, 2023]]></summary>
+        <author>
+            <name>Norio Okabayashi, Thomas Frederiksen, Alexander Liebig, and Franz J. Giessibl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient and quantum-adaptive machine learning with fermion neural networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.044002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.044002"/>
+        <updated>2023-10-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pei-Lin Zheng, Jia-Bao Wang, and Yi Zhang
+Application of machine learning to quantum data and models has been held back by the lack of adaptability and efficiency in present-day neural networks. This study proposes fermion neural networks for quantum-adaptive machine learning with direct applications to complex quantum systems, and offers in situ analysis without preprocessing or presumption. An efficient optimization comparable to back propagation is established, enabling competitive performance in challenging machine-learning benchmarks. Fermion neural networks’ quantum properties, such as entanglement and correlation, also bring various advantages and insights.
+
+[Phys. Rev. Applied 20, 044002] Published Mon Oct 02, 2023]]></summary>
+        <author>
+            <name>Pei-Lin Zheng, Jia-Bao Wang, and Yi Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Long-Lived Squeezed Ground States in a Quantum Spin Ensemble]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.133402</id>
