@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.145002",
+          "author": "Michael Yannai, Yuval Adiv, Raphael Dahan, Kangpeng Wang, Alexey Gorlach, Nicholas Rivera, Tal Fishman, Michael Krüger, and Ido Kaminer",
+          "description": "Author(s): Michael Yannai, Yuval Adiv, Raphael Dahan, Kangpeng Wang, Alexey Gorlach, Nicholas Rivera, Tal Fishman, Michael Krüger, and Ido Kaminer\nResearchers demonstrate a method to reduce the energy spread of electrons used in electron microscopes, opening the door to time- and energy-resolved studies of quasiparticles such as phonons and plasmons.\n\n[Phys. Rev. Lett. 131, 145002] Published Wed Oct 04, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.145002",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1440,
+          "title": "Lossless Monochromator in an Ultrafast Electron Microscope Using Near-Field THz Radiation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.145002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.134102",
+          "author": "Xinwei Wang, Seán R. Kavanagh, David O. Scanlon, and Aron Walsh",
+          "description": "Author(s): Xinwei Wang, Seán R. Kavanagh, David O. Scanlon, and Aron Walsh\nNegative-U defects in solids break the assumption that like charges repel. The standard negative-U model describes the favorable attraction of a second electron to a defect centre. Here, the authors demonstrate an extension of negative-U behavior up to a change of four electrons. This occurs for the emerging photovoltaic compound Sb2Se3. The phenomenon is explained as a special case of valence alternation arising from the large change in structure and bonding that accompanies electron capture.\n\n[Phys. Rev. B 108, 134102] Published Wed Oct 04, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.134102",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1029,
+          "title": "Four-electron negative-$U$ vacancy defects in antimony selenide",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.134102.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.144501",
+          "author": "Eli Mueller, Yusuke Iguchi, Christopher Watson, Clifford W. Hicks, Yoshiteru Maeno, and Kathryn A. Moler",
+          "description": "Author(s): Eli Mueller, Yusuke Iguchi, Christopher Watson, Clifford W. Hicks, Yoshiteru Maeno, and Kathryn A. Moler\nStrontium ruthenate continues to draw considerable scientific interest as an unconventional superconductor. One open question is whether the superconducting order parameter has a single component or two degenerate components. Here, the authors use scanning SQUID microscopy to test for a second superconducting transition in the superfluid density under application of symmetry breaking strain, a key prediction for a system with a two-component order parameter. The reported non-observation of a second superconducting transition constrains future models of unconventional superconductivity in this fascinating material.\n\n[Phys. Rev. B 108, 144501] Published Wed Oct 04, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.144501",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1573,
+          "title": "Constraints on a split superconducting transition under uniaxial strain in ${\\mathrm{Sr}}_{2}{\\mathrm{RuO}}_{4}$ from scanning SQUID microscopy",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.144501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L140402",
+          "author": "N. Li, R. R. Neumann, S. K. Guang, Q. Huang, J. Liu, K. Xia, X. Y. Yue, Y. Sun, Y. Y. Wang, Q. J. Li, Y. Jiang, J. Fang, Z. Jiang, X. Zhao, A. Mook, J. Henk, I. Mertig, H. D. Zhou, and X. F. Sun",
+          "description": "Author(s): N. Li, R. R. Neumann, S. K. Guang, Q. Huang, J. Liu, K. Xia, X. Y. Yue, Y. Sun, Y. Y. Wang, Q. J. Li, Y. Jiang, J. Fang, Z. Jiang, X. Zhao, A. Mook, J. Henk, I. Mertig, H. D. Zhou, and X. F. Sun\nThe thermal Hall effect, where a transverse heat current is generated in response to a longitudinal temperature gradient, probes charge-neutral excitations in insulating quantum matter. By studying thermal transport in the Heisenberg-Kitaev antiferromagnet and spin liquid candidate Na2Co2TeO6, the authors find here that magnon polarons, i.e., hybridized phonons and magnons produced by spin-lattice coupling, govern the sign and magnitude of the observed signal. This is in contrast to a pure magnon transport theory, which fails to capture important features of the experiment.\n\n[Phys. Rev. B 108, L140402] Published Wed Oct 04, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L140402",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1350,
+          "title": "Magnon-polaron driven thermal Hall effect in a Heisenberg-Kitaev antiferromagnet",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L140402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.043502",
+          "author": "Sebastian Franke, Juanjuan Ren, and Stephen Hughes",
+          "description": "Author(s): Sebastian Franke, Juanjuan Ren, and Stephen Hughes\nThe authors develop a regularized quasinormal-mode perturbation theory for quasinormal modes of leaky resonators, which can be used to predict the impact of weak perturbations placed outside the resonators of interest. The general method is then applied to two illustrative examples, a one-dimensional double-barrier system and a three-dimensional plasmonic dimer structure.\n\n[Phys. Rev. A 108, 043502] Published Wed Oct 04, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.043502",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1827,
+          "title": "Impact of mode regularization for quasinormal-mode perturbation theories",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.043502.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041002",
           "author": "Jialiang Yu, Sebastian Häfner, Thomas Legero, Sofia Herbers, Daniele Nicolodi, Chun Yu Ma, Fritz Riehle, Uwe Sterr, Dhruv Kedar, John M. Robinson, Eric Oelker, and Jun Ye",
           "description": "Author(s): Jialiang Yu, Sebastian Häfner, Thomas Legero, Sofia Herbers, Daniele Nicolodi, Chun Yu Ma, Fritz Riehle, Uwe Sterr, Dhruv Kedar, John M. Robinson, Eric Oelker, and Jun Ye\nA crystalline reflective coating being considered for future gravitational-wave detectors exhibits peculiar noise features at cryogenic temperatures.\n\n[Phys. Rev. X 13, 041002] Published Tue Oct 03, 2023",
@@ -36,6 +86,16 @@
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.145001.png"
         },
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.147102",
+          "author": "John Cardy",
+          "description": "Author(s): John Cardy\nA nonrandom fluid in d dimensions with finite-range two-body potentials is precisely equivalent to one in a quenched random medium in d+2 dimensions.\n\n[Phys. Rev. Lett. 131, 147102] Published Tue Oct 03, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.147102",
+          "publishedOn": "2023-10-03T10:00:00.000Z",
+          "wordCount": 826,
+          "title": "Fluids in Random Media and Dimensional Augmentation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.147102.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.148202",
           "author": "Daniel Duffy, Joselle M. McCracken, Tayler S. Hebner, Timothy J. White, and John S. Biggins",
           "description": "Author(s): Daniel Duffy, Joselle M. McCracken, Tayler S. Hebner, Timothy J. White, and John S. Biggins\nThe early failure of thin-walled cones under compression was thought to arise mainly from the presence of imperfections. A new model suggests otherwise.\n\n[Phys. Rev. Lett. 131, 148202] Published Tue Oct 03, 2023",
@@ -58,7 +118,7 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.165104",
           "author": "Brian Cunningham, Myrta Grüning, Dimitar Pashov, and Mark van Schilfgaarde",
-          "description": "Author(s): Brian Cunningham, Myrta Grüning, Dimitar Pashov, and Mark van Schilfgaarde\nThe QSGŴ approximation is presented here. It is an extension to the QSGW formulation [PRB 76, 165106 (2007)] with ladder diagrams in the screening W via the Bethe-Salpeter Equation. Implemented in Questaal (), additional short-ranged correlations in QSGŴ ameliorate much of the discrepancies with experiment for the one-body self-energy and two-body dielectric response in both simple semiconductors and correlated systems such as NiO and CoO, with a stronger effect observed for flat bands.\n\n[Phys. Rev. B 108, 165104] Published Tue Oct 03, 2023",
+          "description": "Author(s): Brian Cunningham, Myrta Grüning, Dimitar Pashov, and Mark van Schilfgaarde\nThe QSGŴ approximation is presented here. It is an extension to the QSGW formulation [PRB 76, 165106 (2007)] with ladder diagrams in the screening W via the Bethe-Salpeter Equation. Implemented in Questaal (https://www.questaal.org), additional short-ranged correlations in QSGŴ ameliorate much of the discrepancies with experiment for the one-body self-energy and two-body dielectric response in both simple semiconductors and correlated systems such as NiO and CoO, with a stronger effect observed for flat bands.\n\n[Phys. Rev. B 108, 165104] Published Tue Oct 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.165104",
           "publishedOn": "2023-10-03T10:00:00.000Z",
           "wordCount": 3333,
@@ -944,66 +1004,6 @@
           "wordCount": 981,
           "title": "Continuity equation for the many-electron spectral function",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.115110.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.125406",
-          "author": "Antonio Tiene, Brendan C. Mulkerin, Jesper Levinsen, Meera M. Parish, and Francesca Maria Marchetti",
-          "description": "Author(s): Antonio Tiene, Brendan C. Mulkerin, Jesper Levinsen, Meera M. Parish, and Francesca Maria Marchetti\nShould the optical response of doped two-dimensional semiconductors be described within a Fermi polaron or a trion model? Using a finite-temperature Fermi polaron theory, the authors demonstrate here a crossover from a quantum degenerate regime with a well-defined polaron quasiparticle to an incoherent regime at high temperature or low doping, where the lowest-energy attractive polaron becomes subsumed into a broad trion-hole continuum. The crossover is accompanied by a characteristic evolution of the emission profile, from a symmetric Lorentzian to an asymmetric peak.\n\n[Phys. Rev. B 108, 125406] Published Wed Sep 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.125406",
-          "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": 1526,
-          "title": "Crossover from exciton polarons to trions in doped two-dimensional semiconductors at finite temperature",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.125406.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L121104",
-          "author": "Qing-Rui Wang, Yang Qi, Chen Fang, Meng Cheng, and Zheng-Cheng Gu",
-          "description": "Author(s): Qing-Rui Wang, Yang Qi, Chen Fang, Meng Cheng, and Zheng-Cheng Gu\nTopological insulators in two-dimensional systems are well-understood within the context of free-fermion systems. Nevertheless, comprehending their strongly interacting counterparts presents a significant challenge. Here, the authors developed an innovative lattice model based on U(1)f fermionic charge decorations. The model furnishes a rigorous mathematical framework for delving into fermionic symmetry-protected topological phases that conserve U(1)f charge, among other types of symmetries. Notably, this research expands the existing theoretical landscape by presenting an exactly solvable Hamiltonian with a finite local Hilbert space and a sophisticated classification scheme for continuous symmetries.\n\n[Phys. Rev. B 108, L121104] Published Wed Sep 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L121104",
-          "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": 824,
-          "title": "Exactly solvable lattice models for interacting electronic insulators in two dimensions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L121104.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.034006",
-          "author": "Adam Whitney, Chuanpu Liu, Tiffany S. Santos, Rajesh V. Chopdekar, Matthew Carey, Galen Street, Vijaysankar Kalappattil, Keira Leistikow, and Mingzhong Wu",
-          "description": "Author(s): Adam Whitney, Chuanpu Liu, Tiffany S. Santos, Rajesh V. Chopdekar, Matthew Carey, Galen Street, Vijaysankar Kalappattil, Keira Leistikow, and Mingzhong Wu\nThe efficiency of spin-transfer-torque magnetic random-access memory (MRAM) critically depends on the damping of the free layer. As MRAM cells operate above room temperature, it is crucial to determine the damping parameter of the free layer at elevated temperatures. This study uses ferromagnetic resonance techniques to measure the damping of MRAM free layers up to 520 K. The data show significant differences in temperature dependence between conventional and low-damping free-layer designs, paving the way for MRAM cells with lower switching current. These insights could impact the development of more efficient and thermally stable MRAM technologies.\n\n[Phys. Rev. Applied 20, 034006] Published Wed Sep 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.034006",
-          "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": 1448,
-          "title": "Damping in Free Layers of Spin-Transfer-Torque Magnetic Memory at Elevated Temperatures",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.034006.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.101001",
-          "author": "Ben Kain",
-          "description": "Author(s): Ben Kain\nA numerical study tests how entangled particles may have a dual description involving connection via nontraversable wormholes.\n\n[Phys. Rev. Lett. 131, 101001] Published Tue Sep 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.101001",
-          "publishedOn": "2023-09-05T10:00:00.000Z",
-          "wordCount": 811,
-          "title": "Probing the Connection between Entangled Particles and Wormholes in General Relativity",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.101001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.102302",
-          "author": "S. Acharya <em>et al.</em> (ALICE Collaboration)",
-          "description": "Author(s): S. Acharya et al. (ALICE Collaboration)\nResearchers have pinned down the binding energy and lifetime of the so-called hypertriton, a particle that could help explain the structure of neutron stars.\n\n[Phys. Rev. Lett. 131, 102302] Published Tue Sep 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.102302",
-          "publishedOn": "2023-09-05T10:00:00.000Z",
-          "wordCount": 973,
-          "title": "Measurement of the Lifetime and $\\mathrm{Λ}$ Separation Energy of $_{\\mathrm{Λ}}^{3}\\mathrm{H}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.102302.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.108301",
-          "author": "Xia-qing Shi, Fu Cheng, and Hugues Chaté",
-          "description": "Author(s): Xia-qing Shi, Fu Cheng, and Hugues Chaté\nActive particles can form two-dimensional solids different from those formed by nonmotile particles, showing long-range crystalline order accompanied by giant spontaneous deformations.\n\n[Phys. Rev. Lett. 131, 108301] Published Tue Sep 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.108301",
-          "publishedOn": "2023-09-05T10:00:00.000Z",
-          "wordCount": 1203,
-          "title": "Extreme Spontaneous Deformations of Active Crystals",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.108301.png"
         }
       ]
     }
