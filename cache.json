@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXLife.1.023001",
+          "author": "Tabea Heckenthaler, Tobias Holder, Ariel Amir, Ofer Feinerman, and Ehud Fonio",
+          "description": "Author(s): Tabea Heckenthaler, Tobias Holder, Ariel Amir, Ofer Feinerman, and Ehud Fonio\nDrawing from the physics of self-propelled particles, the authors introduce a macroscopic model to describe their experiments on ants’ cooperative transport. They connected this to previous coupled-carrier models, bridging the gap from micro to macro scales.\n\n[PRX Life 1, 023001] Published Thu Oct 05, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PRXLife.1.023001",
+          "publishedOn": "2023-10-05T10:00:00.000Z",
+          "wordCount": 1593,
+          "title": "Connecting cooperative transport by ants with the physics of self-propelled particles",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXLIFE/key_images/10.1103/PRXLife.1.023001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.141801",
+          "author": "D. S. M. Alves, S. R. Elliott, R. Massarczyk, S. J. Meijer, and H. Ramani",
+          "description": "Author(s): D. S. M. Alves, S. R. Elliott, R. Massarczyk, S. J. Meijer, and H. Ramani\nA search for the collisional deexcitation of metastable 178mHf puts new constraints on the parameter space of inelastic dark matter.\n\n[Phys. Rev. Lett. 131, 141801] Published Thu Oct 05, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.141801",
+          "publishedOn": "2023-10-05T10:00:00.000Z",
+          "wordCount": 898,
+          "title": "Dark Matter Constraints from Isomeric $^{178m}\\mathrm{Hf}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.141801.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.146601",
+          "author": "Ying-Ming Xie, Étienne Lantagne-Hurtubise, Andrea F. Young, Stevan Nadj-Perge, and Jason Alicea",
+          "description": "Author(s): Ying-Ming Xie, Étienne Lantagne-Hurtubise, Andrea F. Young, Stevan Nadj-Perge, and Jason Alicea\nGapped superconductivity emerging via intervalley coherence in bilayer graphene or monolayer WSe2 can lead to formation of Majorana zero modes.\n\n[Phys. Rev. Lett. 131, 146601] Published Thu Oct 05, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.146601",
+          "publishedOn": "2023-10-05T10:00:00.000Z",
+          "wordCount": 989,
+          "title": "Gate-Defined Topological Josephson Junctions in Bernal Bilayer Graphene",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.146601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.165405",
+          "author": "Bob Minyu Wang, Yuqing Zhu, Henry Clark Travaglini, Renzhi Sun, Sergey Y. Savrasov, William Hahn, Klaus van Benthem, and Dong Yu",
+          "description": "Author(s): Bob Minyu Wang, Yuqing Zhu, Henry Clark Travaglini, Renzhi Sun, Sergey Y. Savrasov, William Hahn, Klaus van Benthem, and Dong Yu\nDirac semimetals (DSMs) have demonstrated many exotic properties, such as high carrier mobility, 3D quantum spin Hall effect, and topologically protected spin transport. However, their spin degeneracy has inhibited widespread applications in spintronics and quantum devices. Using a helicity-dependent photocurrent (HDPC), the authors demonstrate here spin generation in strain-free DSM Cd3As2 nanobelt field effect transistors at room temperature. The observed HDPC is attributed to spin-polarized Fermi arcs at the surface. This work provides key insights on light-controlled spin manipulation in Dirac materials.\n\n[Phys. Rev. B 108, 165405] Published Thu Oct 05, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.165405",
+          "publishedOn": "2023-10-05T10:00:00.000Z",
+          "wordCount": 1424,
+          "title": "Spatially dispersive helicity-dependent photocurrent in Dirac semimetal ${\\mathrm{Cd}}_{3}{\\mathrm{As}}_{2}$ nanobelts",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.165405.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.145002",
           "author": "Michael Yannai, Yuval Adiv, Raphael Dahan, Kangpeng Wang, Alexey Gorlach, Nicholas Rivera, Tal Fishman, Michael Krüger, and Ido Kaminer",
           "description": "Author(s): Michael Yannai, Yuval Adiv, Raphael Dahan, Kangpeng Wang, Alexey Gorlach, Nicholas Rivera, Tal Fishman, Michael Krüger, and Ido Kaminer\nResearchers demonstrate a method to reduce the energy spread of electrons used in electron microscopes, opening the door to time- and energy-resolved studies of quasiparticles such as phonons and plasmons.\n\n[Phys. Rev. Lett. 131, 145002] Published Wed Oct 04, 2023",
@@ -911,7 +951,7 @@
           "description": "Author(s): Anita Weidinger, Glen Bigan Mbeng, and Wolfgang Lechner\nQuantum error mitigation involves reducing errors in hybrid quantum-classical algorithms, which is particularly relevant for near-term noisy quantum devices. The authors introduce an error mitigation technique based on redundant parity encoding of logical variables. They demonstrate the use of this technique by applying it to the quantum approximate optimization algorithm.\n\n[Phys. Rev. A 108, 032408] Published Fri Sep 08, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.032408",
           "publishedOn": "2023-09-08T10:00:00.000Z",
-          "wordCount": 1367,
+          "wordCount": 1460,
           "title": "Error mitigation for quantum approximate optimization",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.032408.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1818,
           "title": "How the fine structure of the electric double layer and the flow affect morphological instability in electrodeposition",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.093701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020126",
-          "author": "David J. Webb and Cassandra A. Paul",
-          "description": "Author(s): David J. Webb and Cassandra A. Paul\nChanges to the structure of introductory physics courses can eliminate some demographic grade gaps.\n\n[Phys. Rev. Phys. Educ. Res. 19, 020126] Published Wed Sep 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020126",
-          "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": 1079,
-          "title": "Attributing equity gaps to course structure in introductory physics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRPER/key_images/10.1103/PhysRevPhysEducRes.19.020126.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.102502",
-          "author": "A. Ashtari Esfahani <em>et al.</em> (Project 8 Collaboration)",
-          "description": "Author(s): A. Ashtari Esfahani et al. (Project 8 Collaboration)\nThe first frequency-based limit on the neutrino’s mass sets the stage for next-generation experiments.\n\n[Phys. Rev. Lett. 131, 102502] Published Wed Sep 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.102502",
-          "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": 997,
-          "title": "Tritium Beta Spectrum Measurement and Neutrino Mass Limit from Cyclotron Radiation Emission Spectroscopy",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.102502.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.106501",
-          "author": "N. E. Sherman, A. Avdoshkin, and J. E. Moore",
-          "description": "Author(s): N. E. Sherman, A. Avdoshkin, and J. E. Moore\nA study based on matrix product state simulation of spin chains establishes how finite entanglement affects the Kibble-Zurek mechanism, thereby illustrating the role of entanglement in dynamical critical phenomena.\n\n[Phys. Rev. Lett. 131, 106501] Published Wed Sep 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.106501",
-          "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": 935,
-          "title": "Universality of Critical Dynamics with Finite Entanglement",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.106501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.115110",
-          "author": "F. Aryasetiawan",
-          "description": "Author(s): F. Aryasetiawan\nA continuity equation determining the total spectral function of a many-electron system is derived within the recently proposed exchange-correlation field framework. A practical scheme is constructed in which only the diagonal part of the exchange-correlation field is needed as input, leading to an explicit formula for the spectral function. This will greatly simplify calculations of spectral functions provided a reliable approximation for the exchange-correlation field is available. The local-density approximation could be a suitable starting point for an accurate approximation.\n\n[Phys. Rev. B 108, 115110] Published Wed Sep 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.115110",
-          "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": 981,
-          "title": "Continuity equation for the many-electron spectral function",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.115110.png"
         }
       ]
     }
