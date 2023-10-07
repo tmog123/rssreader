@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T00:43:53.467Z</id>
+    <id>urn:2023-10-07T00:43:13.459Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T00:43:53.467Z</updated>
+    <updated>2023-10-07T00:43:13.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Topologically constrained fluctuations and thermodynamics regulate nonequilibrium response]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.108.044113</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.108.044113"/>
+        <updated>2023-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Gabriela Fernandes Martins and Jordan M. Horowitz
+Near equilibrium, the fluctuation-dissipation theorem is an important tool in understanding how a system responds to external perturbations. Here the authors derive expressions that describe the response of physical observables outside of equilibrium, in terms of both the topology of the microscopic state space and the strength of thermodynamic driving.
+
+[Phys. Rev. E 108, 044113] Published Fri Oct 06, 2023]]></summary>
+        <author>
+            <name>Gabriela Fernandes Martins and Jordan M. Horowitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near-infrared hybrid quantum photonic interface for ${}^{171}{\mathrm{Yb}}^{3+}$ solid-state qubits]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.044018</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.044018"/>
+        <updated>2023-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chun-Ju Wu, Daniel Riedel, Andrei Ruskuc, Ding Zhong, Hyounghan Kwon, and Andrei Faraon
+171Yb3+ ions in yttrium orthovanadate are promising candidates for building quantum networks, based on their excellent optical and spin properties and access to a secondary nuclear-spin quantum register. In this study the authors transfer GaAs photonic crystal nanobeam resonators to the surface of the host YVO4 to enhance the optical transitions of the Yb3+ ions and efficiently collect the emitted photons. This hybrid quantum photonic interface facilitates addressing of single Yb3+ ions and paves the way for the implementation of a scalable photonic architecture in the near infrared.
+
+[Phys. Rev. Applied 20, 044018] Published Fri Oct 06, 2023]]></summary>
+        <author>
+            <name>Chun-Ju Wu, Daniel Riedel, Andrei Ruskuc, Ding Zhong, Hyounghan Kwon, and Andrei Faraon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connecting cooperative transport by ants with the physics of self-propelled particles]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXLife.1.023001</id>
@@ -1251,58 +1277,6 @@ The authors present a theoretical analysis of a frequency-chirped molecular magn
 [Phys. Rev. A 108, 033105] Published Fri Sep 08, 2023]]></summary>
         <author>
             <name>Kayla J. Rodriguez, Nickolas H. Pilgram, Daniel S. Barker, Stephen P. Eckel, and Eric B. Norrgard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Active nematics on flat surfaces: From droplet motility and scission to active wetting]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.033165</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.5.033165"/>
-        <updated>2023-09-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Rodrigo C. V. Coelho, Hélio R. J. C. Figueiredo, and Margarida M. Telo da Gama
-Active nematic droplets on surfaces are studied at different activities on a wide range of surfaces. The analysis provides a global description of the dynamical regimes reported for active nematic droplets, such as active wetting, propulsion, and chaotic motion, and it reveals the dimensionless parameters that characterize the dynamics of droplets on surfaces.
-
-[Phys. Rev. Research 5, 033165] Published Thu Sep 07, 2023]]></summary>
-        <author>
-            <name>Rodrigo C. V. Coelho, Hélio R. J. C. Figueiredo, and Margarida M. Telo da Gama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Failure of Topological Invariants in Strongly Correlated Matter]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.106601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.106601"/>
-        <updated>2023-09-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jinchao Zhao, Peizhi Mai, Barry Bradlyn, and Philip Phillips
-When zeros appear in the Green’s function, as in strongly correlated systems, the invariant N3 for the two-dimensional quantum anomalous Hall insulator does not necessarily encode a topological invariant of the ground state, in contrast to expectations.
-
-[Phys. Rev. Lett. 131, 106601] Published Thu Sep 07, 2023]]></summary>
-        <author>
-            <name>Jinchao Zhao, Peizhi Mai, Barry Bradlyn, and Philip Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global and Local Connectivities Describe Hydrogen Intercalation in Metal Oxides]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.108001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.108001"/>
-        <updated>2023-09-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Evan V. Miu, James R. McKone, and Giannis Mpourmpakis
-The reactivity of a material is describable using only the arrangement of its atoms, a finding that could be used to speed up the search for new catalytic materials.
-
-[Phys. Rev. Lett. 131, 108001] Published Thu Sep 07, 2023]]></summary>
-        <author>
-            <name>Evan V. Miu, James R. McKone, and Giannis Mpourmpakis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the fine structure of the electric double layer and the flow affect morphological instability in electrodeposition]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.093701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.093701"/>
-        <updated>2023-09-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): I. Rubinstein and B. Zaltzman
-Dendrite formation due to morphological instability in cathodic electrodeposition of a metal and related fluid flows are investigated. We show that the electric double layer fine structure and the finite electrode reaction rate regularize the electrodeposition front short-wave singularity and select a range of unstable perturbation modes. The critical wavelength corresponds to the fastest growing mode and scales with the electric double layer width and the reaction-diffusion length. The emerging electroconvective (electroosmotic) flow in the nonequilibrium regime selects the cathodic diffusion layer width as the dominant length scale for morphological instability and emerging dendrites.
-
-[Phys. Rev. Fluids 8, 093701] Published Thu Sep 07, 2023]]></summary>
-        <author>
-            <name>I. Rubinstein and B. Zaltzman</name>
         </author>
     </entry>
 </feed>

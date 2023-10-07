@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.044113",
+          "author": "Gabriela Fernandes Martins and Jordan M. Horowitz",
+          "description": "Author(s): Gabriela Fernandes Martins and Jordan M. Horowitz\nNear equilibrium, the fluctuation-dissipation theorem is an important tool in understanding how a system responds to external perturbations. Here the authors derive expressions that describe the response of physical observables outside of equilibrium, in terms of both the topology of the microscopic state space and the strength of thermodynamic driving.\n\n[Phys. Rev. E 108, 044113] Published Fri Oct 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.044113",
+          "publishedOn": "2023-10-06T10:00:00.000Z",
+          "wordCount": 1570,
+          "title": "Topologically constrained fluctuations and thermodynamics regulate nonequilibrium response",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.044113.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.044018",
+          "author": "Chun-Ju Wu, Daniel Riedel, Andrei Ruskuc, Ding Zhong, Hyounghan Kwon, and Andrei Faraon",
+          "description": "Author(s): Chun-Ju Wu, Daniel Riedel, Andrei Ruskuc, Ding Zhong, Hyounghan Kwon, and Andrei Faraon\n171Yb3+ ions in yttrium orthovanadate are promising candidates for building quantum networks, based on their excellent optical and spin properties and access to a secondary nuclear-spin quantum register. In this study the authors transfer GaAs photonic crystal nanobeam resonators to the surface of the host YVO4 to enhance the optical transitions of the Yb3+ ions and efficiently collect the emitted photons. This hybrid quantum photonic interface facilitates addressing of single Yb3+ ions and paves the way for the implementation of a scalable photonic architecture in the near infrared.\n\n[Phys. Rev. Applied 20, 044018] Published Fri Oct 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.044018",
+          "publishedOn": "2023-10-06T10:00:00.000Z",
+          "wordCount": 1458,
+          "title": "Near-infrared hybrid quantum photonic interface for ${}^{171}{\\mathrm{Yb}}^{3+}$ solid-state qubits",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.044018.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXLife.1.023001",
           "author": "Tabea Heckenthaler, Tobias Holder, Ariel Amir, Ofer Feinerman, and Ehud Fonio",
           "description": "Author(s): Tabea Heckenthaler, Tobias Holder, Ariel Amir, Ofer Feinerman, and Ehud Fonio\nDrawing from the physics of self-propelled particles, the authors introduce a macroscopic model to describe their experiments on ants’ cooperative transport. They connected this to previous coupled-carrier models, bridging the gap from micro to macro scales.\n\n[PRX Life 1, 023001] Published Thu Oct 05, 2023",
@@ -301,7 +321,7 @@
           "description": "Author(s): Li Cheng, Linpeng Nie, Xuanyu Long, Li Liang, Dan Zhao, Jian Li, Zheng Liu, Tao Wu, Xianhui Chen, Wenhui Duan, and Xiaolong Zou\nThe combination of nuclear magnetic resonance with first-principles calculations uncovers the stacking patterns of layers of a quantum material—information that could enable a deeper understanding of the material’s behavior.\n\n[Phys. Rev. Materials 7, L091001] Published Wed Sep 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L091001",
           "publishedOn": "2023-09-27T10:00:00.000Z",
-          "wordCount": 1323,
+          "wordCount": 1322,
           "title": "Probing complex stacking in a layered material via electron-nuclear quadrupolar coupling",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.L091001.png"
         },
@@ -964,46 +984,6 @@
           "wordCount": 1141,
           "title": "Simulations of a frequency-chirped magneto-optical trap of MgF",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.033105.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033165",
-          "author": "Rodrigo C. V. Coelho, Hélio R. J. C. Figueiredo, and Margarida M. Telo da Gama",
-          "description": "Author(s): Rodrigo C. V. Coelho, Hélio R. J. C. Figueiredo, and Margarida M. Telo da Gama\nActive nematic droplets on surfaces are studied at different activities on a wide range of surfaces. The analysis provides a global description of the dynamical regimes reported for active nematic droplets, such as active wetting, propulsion, and chaotic motion, and it reveals the dimensionless parameters that characterize the dynamics of droplets on surfaces.\n\n[Phys. Rev. Research 5, 033165] Published Thu Sep 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033165",
-          "publishedOn": "2023-09-07T10:00:00.000Z",
-          "wordCount": 1890,
-          "title": "Active nematics on flat surfaces: From droplet motility and scission to active wetting",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.033165.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.106601",
-          "author": "Jinchao Zhao, Peizhi Mai, Barry Bradlyn, and Philip Phillips",
-          "description": "Author(s): Jinchao Zhao, Peizhi Mai, Barry Bradlyn, and Philip Phillips\nWhen zeros appear in the Green’s function, as in strongly correlated systems, the invariant N3 for the two-dimensional quantum anomalous Hall insulator does not necessarily encode a topological invariant of the ground state, in contrast to expectations.\n\n[Phys. Rev. Lett. 131, 106601] Published Thu Sep 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.106601",
-          "publishedOn": "2023-09-07T10:00:00.000Z",
-          "wordCount": 835,
-          "title": "Failure of Topological Invariants in Strongly Correlated Matter",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.106601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.108001",
-          "author": "Evan V. Miu, James R. McKone, and Giannis Mpourmpakis",
-          "description": "Author(s): Evan V. Miu, James R. McKone, and Giannis Mpourmpakis\nThe reactivity of a material is describable using only the arrangement of its atoms, a finding that could be used to speed up the search for new catalytic materials.\n\n[Phys. Rev. Lett. 131, 108001] Published Thu Sep 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.108001",
-          "publishedOn": "2023-09-07T10:00:00.000Z",
-          "wordCount": 1029,
-          "title": "Global and Local Connectivities Describe Hydrogen Intercalation in Metal Oxides",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.108001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.093701",
-          "author": "I. Rubinstein and B. Zaltzman",
-          "description": "Author(s): I. Rubinstein and B. Zaltzman\nDendrite formation due to morphological instability in cathodic electrodeposition of a metal and related fluid flows are investigated. We show that the electric double layer fine structure and the finite electrode reaction rate regularize the electrodeposition front short-wave singularity and select a range of unstable perturbation modes. The critical wavelength corresponds to the fastest growing mode and scales with the electric double layer width and the reaction-diffusion length. The emerging electroconvective (electroosmotic) flow in the nonequilibrium regime selects the cathodic diffusion layer width as the dominant length scale for morphological instability and emerging dendrites.\n\n[Phys. Rev. Fluids 8, 093701] Published Thu Sep 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.093701",
-          "publishedOn": "2023-09-07T10:00:00.000Z",
-          "wordCount": 1818,
-          "title": "How the fine structure of the electric double layer and the flow affect morphological instability in electrodeposition",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.093701.png"
         }
       ]
     }
