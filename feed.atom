@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-11T00:43:41.685Z</id>
+    <id>urn:2023-10-12T00:42:00.937Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T00:43:41.685Z</updated>
+    <updated>2023-10-12T00:42:00.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimal Generators for Quantum Sensing]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.150802</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.150802"/>
+        <updated>2023-10-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jarrod T. Reilly, John Drew Wilson, Simon B. Jäger, Christopher Wilson, and Murray J. Holland
+A new method identifies the most sensitive measurement that can be performed using a given quantum state, knowledge key for designing improved quantum sensors.
+
+[Phys. Rev. Lett. 131, 150802] Published Wed Oct 11, 2023]]></summary>
+        <author>
+            <name>Jarrod T. Reilly, John Drew Wilson, Simon B. Jäger, Christopher Wilson, and Murray J. Holland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magneto-Optical Detection of the Orbital Hall Effect in Chromium]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.156702</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.156702"/>
+        <updated>2023-10-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Igor Lyalin, Sanaz Alikhah, Marco Berritta, Peter M. Oppeneer, and Roland K. Kawakami
+Two different experiments on two different transition metals reveal that a current of electron orbital angular momentum flows in response to an electric field.
+
+[Phys. Rev. Lett. 131, 156702] Published Wed Oct 11, 2023]]></summary>
+        <author>
+            <name>Igor Lyalin, Sanaz Alikhah, Marco Berritta, Peter M. Oppeneer, and Roland K. Kawakami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orbital Hanle Magnetoresistance in a $3d$ Transition Metal]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.156703</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.156703"/>
+        <updated>2023-10-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Giacomo Sala, Hanchen Wang, William Legrand, and Pietro Gambardella
+Two different experiments on two different transition metals reveal that a current of electron orbital angular momentum flows in response to an electric field.
+
+[Phys. Rev. Lett. 131, 156703] Published Wed Oct 11, 2023]]></summary>
+        <author>
+            <name>Giacomo Sala, Hanchen Wang, William Legrand, and Pietro Gambardella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Optics Measurement Scheme for Quantum Geometry and Topological Invariants]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.156901</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.156901"/>
+        <updated>2023-10-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Markus Lysne, Michael Schüler, and Philipp Werner
+A proposed optical setup combines a Fabry-Perot-type optical cavity with heterodyne photon detection for extracting the topological properties of two-dimensional semiconductor materials.
+
+[Phys. Rev. Lett. 131, 156901] Published Wed Oct 11, 2023]]></summary>
+        <author>
+            <name>Markus Lysne, Michael Schüler, and Philipp Werner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Green's-function treatment of Rydberg molecules with spins]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.042805</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.042805"/>
+        <updated>2023-10-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chris H. Greene and Matthew T. Eiles
+The authors present a method based on the Coulomb Green’s function to derive the electronic structure of ultra-long-range Rydberg molecules including spins, providing a promising alternative to the standard method based on basis-set expansion, which was shown to have serious convergence problems. Use of this approach should enable more accurate studies of Rydberg-molecule spectra and the electron-atom scattering phase shifts upon which they depend.
+
+[Phys. Rev. A 108, 042805] Published Wed Oct 11, 2023]]></summary>
+        <author>
+            <name>Chris H. Greene and Matthew T. Eiles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Testing the topological insulator behavior of half-Heusler PdYBi and PtYBi (111) epitaxial thin films]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.104203</id>
@@ -1238,71 +1303,6 @@ Magneto-optical experiments on ultrathin uniaxial cobalt films reveal (for the f
 [Phys. Rev. Lett. 131, 116701] Published Wed Sep 13, 2023]]></summary>
         <author>
             <name>M. Quintana and A. Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximally localized exciton Wannier functions for solids]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.125118</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.125118"/>
-        <updated>2023-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jonah B. Haber, Diana Y. Qiu, Felipe H. da Jornada, and Jeffrey B. Neaton
-Over 25 years ago, Marzari and Vanderbilt introduced maximally localized Wannier functions (MLWFs), the most compact real-space representation of electronic wavefunctions in solids. Here, the authors put forward a generalization of this scheme for excitons, correlated electron-hole pairs that dictate the optical properties of materials. Much as MLWFs have transformed our understanding of electrons in solids, from chemical bonding to polarization to topology, these maximally localized exciton Wannier functions should deepen our understanding of photophysical and excited-state phenomena of materials.
-
-[Phys. Rev. B 108, 125118] Published Wed Sep 13, 2023]]></summary>
-        <author>
-            <name>Jonah B. Haber, Diana Y. Qiu, Felipe H. da Jornada, and Jeffrey B. Neaton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal single-qubit tomography: Realization of locally optimal measurements on a quantum computer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.032605</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.032605"/>
-        <updated>2023-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Bacui Li, Lorcán O. Conlon, Ping Koy Lam, and Syed M. Assad
-The authors map qubit tomography to a quantum multiparameter estimation problem and find the optimal single-qubit measurements. Using a quantum computing demonstration they show that the optimal separable measurement bound can be saturated.
-
-[Phys. Rev. A 108, 032605] Published Wed Sep 13, 2023]]></summary>
-        <author>
-            <name>Bacui Li, Lorcán O. Conlon, Ping Koy Lam, and Syed M. Assad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chemotactic Motility-Induced Phase Separation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.118301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.118301"/>
-        <updated>2023-09-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hongbo Zhao, Andrej Košmrlj, and Sujit S. Datta
-Chemotaxis and motility-induced phase separation compete against each other in systems of active particles.
-
-[Phys. Rev. Lett. 131, 118301] Published Tue Sep 12, 2023]]></summary>
-        <author>
-            <name>Hongbo Zhao, Andrej Košmrlj, and Sujit S. Datta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renormalization group for measurement and entanglement phase transitions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.104203</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.104203"/>
-        <updated>2023-09-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Adam Nahum and Kay Jörg Wiese
-Field theoretic renormalization group is applied to measurement and entanglement phase transitions. The renormalization group flows for both random tensor networks and monitored systems show that, in high dimensions, there exist distinct weak- and strong-coupling universality classes for these phase transitions. In addition, one of the field theories exhibits a supersymmetry that leads to dimensional reduction by four.
-
-[Phys. Rev. B 108, 104203] Published Tue Sep 12, 2023]]></summary>
-        <author>
-            <name>Adam Nahum and Kay Jörg Wiese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inhomogeneity-induced time-reversal symmetry breaking in cuprate twist junctions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L100505</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L100505"/>
-        <updated>2023-09-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andrew C. Yuan, Yaar Vituri, Erez Berg, Boris Spivak, and Steven A. Kivelson
-The lowest-order Josephson coupling between d-wave superconductors vanishes by symmetry when the twist angle is close to 45 degrees. The authors propose here an “order by disorder” mechanism, whereby spatial fluctuations in the local Josephson coupling generate an effective higher-order coupling, leading to a time reversal symmetry breaking superconducting phase at the twisted interface. This mechanism may offer an explanation for recent experiments in twist junctions between high-Tc cuprate superconductors. These findings have broader implications for high-Tc cuprate physics, requiring a local admixture of an s-wave component in the d-wave order parameter.
-
-[Phys. Rev. B 108, L100505] Published Tue Sep 12, 2023]]></summary>
-        <author>
-            <name>Andrew C. Yuan, Yaar Vituri, Erez Berg, Boris Spivak, and Steven A. Kivelson</name>
         </author>
     </entry>
 </feed>

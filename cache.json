@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.150802",
+          "author": "Jarrod T. Reilly, John Drew Wilson, Simon B. Jäger, Christopher Wilson, and Murray J. Holland",
+          "description": "Author(s): Jarrod T. Reilly, John Drew Wilson, Simon B. Jäger, Christopher Wilson, and Murray J. Holland\nA new method identifies the most sensitive measurement that can be performed using a given quantum state, knowledge key for designing improved quantum sensors.\n\n[Phys. Rev. Lett. 131, 150802] Published Wed Oct 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.150802",
+          "publishedOn": "2023-10-11T10:00:00.000Z",
+          "wordCount": 941,
+          "title": "Optimal Generators for Quantum Sensing",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.150802.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.156702",
+          "author": "Igor Lyalin, Sanaz Alikhah, Marco Berritta, Peter M. Oppeneer, and Roland K. Kawakami",
+          "description": "Author(s): Igor Lyalin, Sanaz Alikhah, Marco Berritta, Peter M. Oppeneer, and Roland K. Kawakami\nTwo different experiments on two different transition metals reveal that a current of electron orbital angular momentum flows in response to an electric field.\n\n[Phys. Rev. Lett. 131, 156702] Published Wed Oct 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.156702",
+          "publishedOn": "2023-10-11T10:00:00.000Z",
+          "wordCount": 994,
+          "title": "Magneto-Optical Detection of the Orbital Hall Effect in Chromium",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.156702.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.156703",
+          "author": "Giacomo Sala, Hanchen Wang, William Legrand, and Pietro Gambardella",
+          "description": "Author(s): Giacomo Sala, Hanchen Wang, William Legrand, and Pietro Gambardella\nTwo different experiments on two different transition metals reveal that a current of electron orbital angular momentum flows in response to an electric field.\n\n[Phys. Rev. Lett. 131, 156703] Published Wed Oct 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.156703",
+          "publishedOn": "2023-10-11T10:00:00.000Z",
+          "wordCount": 1082,
+          "title": "Orbital Hanle Magnetoresistance in a $3d$ Transition Metal",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.156703.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.156901",
+          "author": "Markus Lysne, Michael Schüler, and Philipp Werner",
+          "description": "Author(s): Markus Lysne, Michael Schüler, and Philipp Werner\nA proposed optical setup combines a Fabry-Perot-type optical cavity with heterodyne photon detection for extracting the topological properties of two-dimensional semiconductor materials.\n\n[Phys. Rev. Lett. 131, 156901] Published Wed Oct 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.156901",
+          "publishedOn": "2023-10-11T10:00:00.000Z",
+          "wordCount": 1026,
+          "title": "Quantum Optics Measurement Scheme for Quantum Geometry and Topological Invariants",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.156901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.042805",
+          "author": "Chris H. Greene and Matthew T. Eiles",
+          "description": "Author(s): Chris H. Greene and Matthew T. Eiles\nThe authors present a method based on the Coulomb Green’s function to derive the electronic structure of ultra-long-range Rydberg molecules including spins, providing a promising alternative to the standard method based on basis-set expansion, which was shown to have serious convergence problems. Use of this approach should enable more accurate studies of Rydberg-molecule spectra and the electron-atom scattering phase shifts upon which they depend.\n\n[Phys. Rev. A 108, 042805] Published Wed Oct 11, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.042805",
+          "publishedOn": "2023-10-11T10:00:00.000Z",
+          "wordCount": 1401,
+          "title": "Green's-function treatment of Rydberg molecules with spins",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.042805.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.104203",
           "author": "V. Palin, A. Anadón, S. Andrieu, Y. Fagot-Revurat, C. de Melo, J. Ghanbaja, O. Kurnosikov, S. Petit-Watelot, F. Bertran, and J.-C. Rojas-Sánchez",
           "description": "Author(s): V. Palin, A. Anadón, S. Andrieu, Y. Fagot-Revurat, C. de Melo, J. Ghanbaja, O. Kurnosikov, S. Petit-Watelot, F. Bertran, and J.-C. Rojas-Sánchez\nMaterials with high spin-to-charge interconversion efficiency are of high interest for advanced spintronic applications. Previous work has suggested that topological insulators may exhibit higher efficiency than traditionally-used heavy metals. Here, the authors explore the half-Heusler compounds PdYBi and PtYBi and their potential use for spin-to-charge interconversion. Epitaxial thin films of PdYBi and PtYBi are successfully prepared and demonstrated to exhibit nontrivial topology. Characterization of the magnetotransport in a model device shows that these half-Heusler films can outperform platinum in spin-to-charge interconversion.\n\n[Phys. Rev. Materials 7, 104203] Published Tue Oct 10, 2023",
@@ -954,56 +1004,6 @@
           "wordCount": 883,
           "title": "Experimental Observation of Critical Scaling in Magnetic Dynamic Phase Transitions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.116701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.125118",
-          "author": "Jonah B. Haber, Diana Y. Qiu, Felipe H. da Jornada, and Jeffrey B. Neaton",
-          "description": "Author(s): Jonah B. Haber, Diana Y. Qiu, Felipe H. da Jornada, and Jeffrey B. Neaton\nOver 25 years ago, Marzari and Vanderbilt introduced maximally localized Wannier functions (MLWFs), the most compact real-space representation of electronic wavefunctions in solids. Here, the authors put forward a generalization of this scheme for excitons, correlated electron-hole pairs that dictate the optical properties of materials. Much as MLWFs have transformed our understanding of electrons in solids, from chemical bonding to polarization to topology, these maximally localized exciton Wannier functions should deepen our understanding of photophysical and excited-state phenomena of materials.\n\n[Phys. Rev. B 108, 125118] Published Wed Sep 13, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.125118",
-          "publishedOn": "2023-09-13T10:00:00.000Z",
-          "wordCount": 1039,
-          "title": "Maximally localized exciton Wannier functions for solids",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.125118.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.032605",
-          "author": "Bacui Li, Lorcán O. Conlon, Ping Koy Lam, and Syed M. Assad",
-          "description": "Author(s): Bacui Li, Lorcán O. Conlon, Ping Koy Lam, and Syed M. Assad\nThe authors map qubit tomography to a quantum multiparameter estimation problem and find the optimal single-qubit measurements. Using a quantum computing demonstration they show that the optimal separable measurement bound can be saturated.\n\n[Phys. Rev. A 108, 032605] Published Wed Sep 13, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.032605",
-          "publishedOn": "2023-09-13T10:00:00.000Z",
-          "wordCount": 1548,
-          "title": "Optimal single-qubit tomography: Realization of locally optimal measurements on a quantum computer",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.032605.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.118301",
-          "author": "Hongbo Zhao, Andrej Košmrlj, and Sujit S. Datta",
-          "description": "Author(s): Hongbo Zhao, Andrej Košmrlj, and Sujit S. Datta\nChemotaxis and motility-induced phase separation compete against each other in systems of active particles.\n\n[Phys. Rev. Lett. 131, 118301] Published Tue Sep 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.118301",
-          "publishedOn": "2023-09-12T10:00:00.000Z",
-          "wordCount": 1044,
-          "title": "Chemotactic Motility-Induced Phase Separation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.118301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.104203",
-          "author": "Adam Nahum and Kay Jörg Wiese",
-          "description": "Author(s): Adam Nahum and Kay Jörg Wiese\nField theoretic renormalization group is applied to measurement and entanglement phase transitions. The renormalization group flows for both random tensor networks and monitored systems show that, in high dimensions, there exist distinct weak- and strong-coupling universality classes for these phase transitions. In addition, one of the field theories exhibits a supersymmetry that leads to dimensional reduction by four.\n\n[Phys. Rev. B 108, 104203] Published Tue Sep 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.104203",
-          "publishedOn": "2023-09-12T10:00:00.000Z",
-          "wordCount": 1051,
-          "title": "Renormalization group for measurement and entanglement phase transitions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.104203.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L100505",
-          "author": "Andrew C. Yuan, Yaar Vituri, Erez Berg, Boris Spivak, and Steven A. Kivelson",
-          "description": "Author(s): Andrew C. Yuan, Yaar Vituri, Erez Berg, Boris Spivak, and Steven A. Kivelson\nThe lowest-order Josephson coupling between d-wave superconductors vanishes by symmetry when the twist angle is close to 45 degrees. The authors propose here an “order by disorder” mechanism, whereby spatial fluctuations in the local Josephson coupling generate an effective higher-order coupling, leading to a time reversal symmetry breaking superconducting phase at the twisted interface. This mechanism may offer an explanation for recent experiments in twist junctions between high-Tc cuprate superconductors. These findings have broader implications for high-Tc cuprate physics, requiring a local admixture of an s-wave component in the d-wave order parameter.\n\n[Phys. Rev. B 108, L100505] Published Tue Sep 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L100505",
-          "publishedOn": "2023-09-12T10:00:00.000Z",
-          "wordCount": 845,
-          "title": "Inhomogeneity-induced time-reversal symmetry breaking in cuprate twist junctions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L100505.png"
         }
       ]
     }
