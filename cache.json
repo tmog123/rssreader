@@ -6,6 +6,96 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043044",
+          "author": "Rainer Engelken, Fred Wolf, and L. F. Abbott",
+          "description": "Author(s): Rainer Engelken, Fred Wolf, and L. F. Abbott\nThe Lyapunov spectrum of recurrent neural networks is calculated and analytical approximations through random matrix theory are provided. The dependency of attractor dimensions and entropy rates on coupling strength and input fluctuations is identified and a point symmetry of the Lyapunov spectrum is revealed. A link is shown between Lyapunov exponents to error propagation and stability in trained recurrent networks for machine-learning applications.\n\n[Phys. Rev. Research 5, 043044] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043044",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 3689,
+          "title": "Lyapunov spectra of chaotic recurrent neural networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.043044.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.161801",
+          "author": "Yu. M. Andreev <em>et al.</em> (NA64 Collaboration)",
+          "description": "Author(s): Yu. M. Andreev et al. (NA64 Collaboration)\nAn experiment at CERN performed by scattering 100 GeV electrons off a fixed target results in limits on thermal dark matter—that requires interactions mediated by hypothetical dark photons—in the MeV mass range.\n\n[Phys. Rev. Lett. 131, 161801] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.161801",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 1039,
+          "title": "Search for Light Dark Matter with NA64 at CERN",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.161801.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.161901",
+          "author": "Yan Lyu, Sinya Aoki, Takumi Doi, Tetsuo Hatsuda, Yoichi Ikeda, and Jie Meng",
+          "description": "Author(s): Yan Lyu, Sinya Aoki, Takumi Doi, Tetsuo Hatsuda, Yoichi Ikeda, and Jie Meng\nA lattice QCD computation close to the physical point finds a near-threshold virtual state in the DD* scattering channel, that suggests the formation of a loosely bound state at the physical point consistent with the experimental observation of a doubly charmed tetraquark Tcc+.\n\n[Phys. Rev. Lett. 131, 161901] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.161901",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 1068,
+          "title": "Doubly Charmed Tetraquark ${T}_{cc}^{+}$ from Lattice QCD near Physical Point",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.161901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166704",
+          "author": "Zhejunyu Jin, Xianglong Yao, Zhenyu Wang, H. Y. Yuan, Zhaozhuo Zeng, Weiwei Wang, Yunshan Cao, and Peng Yan",
+          "description": "Author(s): Zhejunyu Jin, Xianglong Yao, Zhenyu Wang, H. Y. Yuan, Zhaozhuo Zeng, Weiwei Wang, Yunshan Cao, and Peng Yan\nNonlinear scattering of magnons and skyrmions in antiferromagnets leads to a spin Hall effect that emerges from real-space topology.\n\n[Phys. Rev. Lett. 131, 166704] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166704",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 1078,
+          "title": "Nonlinear Topological Magnon Spin Hall Effect",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.166704.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.167101",
+          "author": "Andreas Dechant, Jérôme Garnier-Brun, and Shin-ichi Sasa",
+          "description": "Author(s): Andreas Dechant, Jérôme Garnier-Brun, and Shin-ichi Sasa\nAn analysis of the correlation time of physical observables in steady-state diffusive systems reveals the existence of lower bounds both in and out of equilibrium.\n\n[Phys. Rev. Lett. 131, 167101] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.167101",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 847,
+          "title": "Thermodynamic Bounds on Correlation Times",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.167101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.144106",
+          "author": "P. Bouvier, L. Bussmann, D. Machon, I. Breslavetz, G. Garbarino, P. Strobel, and V. Dmitriev",
+          "description": "Author(s): P. Bouvier, L. Bussmann, D. Machon, I. Breslavetz, G. Garbarino, P. Strobel, and V. Dmitriev\nThe authors unveil here new findings in the realm of phase transitions in VO2 single crystals, all achieved under hydrostatic pressure conditions. They provide experimental results, exploiting the observation of soft phonons through Raman spectroscopy and high-quality structural refinements. These findings offer a fresh perspective on phase diagrams, including a precise description of the M1-M1′ isostructural transition occurring at a staggering 14 GPa. The study also reveals that isothermal compression at 298 K drives a thrilling journey close to the critical point. The authors present the first Raman signature of the elusive metallic X-phase, observed at pressures exceeding 32 GPa.\n\n[Phys. Rev. B 108, 144106] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.144106",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 1517,
+          "title": "${\\mathrm{VO}}_{2}$ under hydrostatic pressure: Isostructural phase transition close to a critical endpoint",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.144106.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.044039",
+          "author": "Dimitris Kechrakos, Vito Puliafito, Alejandro Riveros, Jiahao Liu, Wanjun Jiang, Mario Carpentieri, Riccardo Tomasello, and Giovanni Finocchio",
+          "description": "Author(s): Dimitris Kechrakos, Vito Puliafito, Alejandro Riveros, Jiahao Liu, Wanjun Jiang, Mario Carpentieri, Riccardo Tomasello, and Giovanni Finocchio\nAfter more than a decade of investigation, unconventional Skyrmionics stands as one of the most promising and interesting directions to explore. The authors show the potentials of the combination of skyrmions with nanoring geometry, by proposing three energy-efficient nanoscale devices: A skyrmion clock with a tunable frequency, a skyrmion alternator where the skyrmion motion is converted into an electrical signal (potentially at μV), and a skyrmion energy harvester to partially recover dissipated heat into electrical energy. This work will stimulate further development in this exciting research direction.\n\n[Phys. Rev. Applied 20, 044039] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.044039",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 1794,
+          "title": "Skyrmions in nanorings: A versatile platform for skyrmionics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.044039.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.044041",
+          "author": "Xi Tan, Hang Song, Ye Ji, Hao Tang, Ying-Yu Fang, Xiao-Yun Xu, Yang-Yang Li, Xuan-Kun Li, Ka-Di Zhu, and Xian-Min Jin",
+          "description": "Author(s): Xi Tan, Hang Song, Ye Ji, Hao Tang, Ying-Yu Fang, Xiao-Yun Xu, Yang-Yang Li, Xuan-Kun Li, Ka-Di Zhu, and Xian-Min Jin\nThree-dimensional photonic chips are superior in handling NP-complete problems, but their large-scale application is hindered by the difficulty of programming them. The authors experimentally demonstrate a programmable three-dimensional photonic processor capable of solving the maximum clique problem by encoding injection conditions of photons. The prototype shows the potential of photonic computing, and is applied to solve molecular docking problems. The combination of non-von Neumann parallel computing architectures with fully programmable capabilities paves the way for wider practical applications and photonic computational advantages.\n\n[Phys. Rev. Applied 20, 044041] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.044041",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 1806,
+          "title": "Scalable and programmable three-dimensional photonic processor",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.044041.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.042414",
+          "author": "Shikha Bangar, Leanto Sunny, Kübra Yeter-Aydeniz, and George Siopsis",
+          "description": "Author(s): Shikha Bangar, Leanto Sunny, Kübra Yeter-Aydeniz, and George Siopsis\nThe authors propose a continuous-variable quantum-classical neural network protocol that could be potentially realized in current photonic experiments. Their protocol only uses Gaussian operations, and a nonlinear operation is obtained through repeat-until-success measurements on ancillary qumodes. They applied their method to simulate quantum machine learning and computing problems.\n\n[Phys. Rev. A 108, 042414] Published Mon Oct 16, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.042414",
+          "publishedOn": "2023-10-16T10:00:00.000Z",
+          "wordCount": 1673,
+          "title": "Experimentally realizable continuous-variable quantum neural networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.042414.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.151902",
           "author": "G. Aad <em>et al.</em> (ATLAS Collaboration)",
           "description": "Author(s): G. Aad et al. (ATLAS Collaboration)\nStatistically significant excesses are seen in the di-J/ψ and J/ψ+ψ(2S) channels using the ATLAS detector.\n\n[Phys. Rev. Lett. 131, 151902] Published Fri Oct 13, 2023",
@@ -651,7 +741,7 @@
           "description": "Author(s): Li Cheng, Linpeng Nie, Xuanyu Long, Li Liang, Dan Zhao, Jian Li, Zheng Liu, Tao Wu, Xianhui Chen, Wenhui Duan, and Xiaolong Zou\nThe combination of nuclear magnetic resonance with first-principles calculations uncovers the stacking patterns of layers of a quantum material—information that could enable a deeper understanding of the material’s behavior.\n\n[Phys. Rev. Materials 7, L091001] Published Wed Sep 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L091001",
           "publishedOn": "2023-09-27T10:00:00.000Z",
-          "wordCount": 1322,
+          "wordCount": 1323,
           "title": "Probing complex stacking in a layered material via electron-nuclear quadrupolar coupling",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.L091001.png"
         },
@@ -914,86 +1004,6 @@
           "wordCount": 1422,
           "title": "Robust intralayer antiferromagnetism and tricriticality in the van der Waals compound $\\mathrm{V}{\\mathrm{Br}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.104416.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128401",
-          "author": "Lauritz Hahn, Aleksandra M. Walczak, and Thierry Mora",
-          "description": "Author(s): Lauritz Hahn, Aleksandra M. Walczak, and Thierry Mora\nThe concurrent analysis of two measurements of a biochemical signaling network can provide more information than two separate probes of the datasets.\n\n[Phys. Rev. Lett. 131, 128401] Published Wed Sep 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128401",
-          "publishedOn": "2023-09-20T10:00:00.000Z",
-          "wordCount": 1061,
-          "title": "Dynamical Information Synergy in Biochemical Signaling Networks",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.128401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.066015",
-          "author": "Daniel Louis Jafferis, David K. Kolchmeyer, Baur Mukhametzhanov, and Julian Sonner",
-          "description": "Author(s): Daniel Louis Jafferis, David K. Kolchmeyer, Baur Mukhametzhanov, and Julian Sonner\nIt was conjectured that a particular two-dimensional gravity, Jackiw–Teitelboim (JT) gravity, is dual to a single-trace one-matrix Random Matrix Model (RMM). The authors extend this duality to JT gravity minimally coupled to a free massive scalar field and a single-trace two-matrix model. They study in detail the matching of genus zero one- and two-boundary expectation values in the matrix model to the gravitational disk correlators.\n\n[Phys. Rev. D 108, 066015] Published Wed Sep 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.066015",
-          "publishedOn": "2023-09-20T10:00:00.000Z",
-          "wordCount": 3440,
-          "title": "Jackiw-Teitelboim gravity with matter, generalized eigenstate thermalization hypothesis, and random matrices",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.066015.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.125130",
-          "author": "Wanda Hou and Yi-Zhuang You",
-          "description": "Author(s): Wanda Hou and Yi-Zhuang You\nThis paper investigates the symmetric mass generation transition in a bilayer honeycomb lattice model using variational Monte Carlo simulations. By measuring the fermion scaling dimension at the critical point, the authors provide evidence for fermion fractionalization into deconfined emergent particles, supporting the hypothesis that the transition is a fermionic deconfined quantum critical point. The numerical results, including the critical exponent and fermion dimension, agree with theoretical predictions.\n\n[Phys. Rev. B 108, 125130] Published Wed Sep 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.125130",
-          "publishedOn": "2023-09-20T10:00:00.000Z",
-          "wordCount": 941,
-          "title": "Variational Monte Carlo study of symmetric mass generation in a bilayer honeycomb lattice model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.125130.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128301",
-          "author": "Vincent Ouazan-Reboul, Ramin Golestanian, and Jaime Agudo-Canalejo",
-          "description": "Author(s): Vincent Ouazan-Reboul, Ramin Golestanian, and Jaime Agudo-Canalejo\nCatalytically active particles form clusters when they respond not only to their own chemical targets but to those of other catalysts, too.\n\n[Phys. Rev. Lett. 131, 128301] Published Tue Sep 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128301",
-          "publishedOn": "2023-09-19T10:00:00.000Z",
-          "wordCount": 1308,
-          "title": "Network Effects Lead to Self-Organization in Metabolic Cycles of Self-Repelling Catalysts",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.128301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.094514",
-          "author": "R. Haller, M. Osterwalder, G. Fülöp, J. Ridderbos, M. Jung, and C. Schönenberger",
-          "description": "Author(s): R. Haller, M. Osterwalder, G. Fülöp, J. Ridderbos, M. Jung, and C. Schönenberger\nExperimental signatures of topological superconductivity have been notoriously difficult to verify, even though they are actively being researched. Here, the authors use nanowires of Cd3As2 – a Dirac semimetal – to hunt for these signatures by simultaneously looking at Josephson radiation and Shapiro patterns at different doping levels. By cross-checking the experimental results with an extensive (RCSJ) model that includes thermal noise, it is concluded that trivial supercurrent dominates and that topological supercurrent, if existent, falls below the detection limit of the setup.\n\n[Phys. Rev. B 108, 094514] Published Tue Sep 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.094514",
-          "publishedOn": "2023-09-19T10:00:00.000Z",
-          "wordCount": 1500,
-          "title": "ac Josephson effect in a gate-tunable ${\\mathrm{Cd}}_{3}{\\mathrm{As}}_{2}$ nanowire superconducting weak link",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.094514.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.115427",
-          "author": "Yi-Xin Xiao, Jing Hu, Zhao-Qing Zhang, and C. T. Chan",
-          "description": "Author(s): Yi-Xin Xiao, Jing Hu, Zhao-Qing Zhang, and C. T. Chan\nThis work establishes clear relationships between how exceptional points of varying orders split and which parts of the system are perturbed. Additionally, two topological invariants are identified to fully characterize the various splitting behavior. These findings provide a comprehensive understanding of how exceptional points split in various non-Hermitian systems, and can help optimize the performance of sensors that rely on exceptional points.\n\n[Phys. Rev. B 108, 115427] Published Tue Sep 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.115427",
-          "publishedOn": "2023-09-19T10:00:00.000Z",
-          "wordCount": 1239,
-          "title": "Experimental demonstration of splitting rules for exceptional points and their topological characterization",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.115427.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.124001",
-          "author": "Nagaraj Nagalingam, Aswin Raghunathan, Vikram Korede, Christian Poelma, Carlas S. Smith, Remco Hartkamp, Johan T. Padding, and Hüseyin Burak Eral",
-          "description": "Author(s): Nagaraj Nagalingam, Aswin Raghunathan, Vikram Korede, Christian Poelma, Carlas S. Smith, Remco Hartkamp, Johan T. Padding, and Hüseyin Burak Eral\nHigh-speed microscope measurements show the nucleation and growth of single KCl crystals at the inner container wall of a supersaturated solution where submillimeter cavitation bubbles are generated by incident laser pulses.\n\n[Phys. Rev. Lett. 131, 124001] Published Mon Sep 18, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.124001",
-          "publishedOn": "2023-09-18T10:00:00.000Z",
-          "wordCount": 1138,
-          "title": "Laser-Induced Cavitation for Controlling Crystallization from Solution",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.124001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.064033",
-          "author": "Mateja Bošković and Enrico Barausse",
-          "description": "Author(s): Mateja Bošković and Enrico Barausse\nDue to non-linearities, the two body problem in tensor-scalar theory with kinetic screening is notoriously difficult to solve. In this work, the authors present an analytical solution to this problem and validate it with numerical simulations. They demonstrate that the efficiency of the screening depends on the mass ratio of the two bodies.\n\n[Phys. Rev. D 108, 064033] Published Mon Sep 18, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.064033",
-          "publishedOn": "2023-09-18T10:00:00.000Z",
-          "wordCount": 1567,
-          "title": "Two-body problem in theories with kinetic screening",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.064033.png"
         }
       ]
     }
