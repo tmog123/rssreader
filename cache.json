@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.163401",
+          "author": "J. Tao, M. Zhao, and I. B. Spielman",
+          "description": "Author(s): J. Tao, M. Zhao, and I. B. Spielman\nTrapping a Bose-Einstein condensate (BEC) in an optical lattice, researchers confirm a 53-year-old theory that connects BECs to superfluids and supersolids.\n\n[Phys. Rev. Lett. 131, 163401] Published Wed Oct 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.163401",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 1222,
+          "title": "Observation of Anisotropic Superfluid Density in an Artificial Crystal",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.163401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166001",
+          "author": "Alexander A. Milner and Valery Milner",
+          "description": "Author(s): Alexander A. Milner and Valery Milner\nA laser pulse with rotating linear polarization creates roton pairs in superfluid helium.\n\n[Phys. Rev. Lett. 131, 166001] Published Wed Oct 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166001",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 996,
+          "title": "Controlled Excitation of Rotons in Superfluid Helium with an Optical Centrifuge",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.166001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.044131",
+          "author": "Ramgopal Agrawal, Federico Corberi, Eugenio Lippiello, and Sanjay Puri",
+          "description": "Author(s): Ramgopal Agrawal, Federico Corberi, Eugenio Lippiello, and Sanjay Puri\nThere has been progress in understanding the phase-ordering dynamics of systems with long-range interactions, but less is known for such systems with disorder. This work addresses that topic by studying the influence of long-range interactions on the phase ordering dynamics of the one-dimensional random-field Ising model.\n\n[Phys. Rev. E 108, 044131] Published Wed Oct 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.044131",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 1483,
+          "title": "Phase ordering dynamics of the random-field long-range Ising model in one dimension",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.044131.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.134424",
+          "author": "Aishwarya Chauhan, Atanu Maity, Chunxiao Liu, Jonas Sonnenschein, Francesco Ferrari, and Yasir Iqbal",
+          "description": "Author(s): Aishwarya Chauhan, Atanu Maity, Chunxiao Liu, Jonas Sonnenschein, Francesco Ferrari, and Yasir Iqbal\nThe diamond lattice has been a promising playground for both classical and quantum spin liquids. Here, the authors conduct a comprehensive symmetry classification of S=½ quantum spin liquids with SU(2), U(1), and ℤ2 gauge fields, and present dynamical spin structure factors within a self-consistent simulation. The authors highlight three discoveries: spinon Ansätze with robust gapless nodal loops, topological bands realizing topological insulators, and that Gutzwiller projection of the 0- and π-flux SU(2) spin liquids generates long-range Néel order.\n\n[Phys. Rev. B 108, 134424] Published Wed Oct 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.134424",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 1445,
+          "title": "Quantum spin liquids on the diamond lattice",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.134424.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.144420",
+          "author": "Luise Siegl, Michaela Lammel, Akashdeep Kamra, Hans Huebl, Wolfgang Belzig, and Sebastian T. B. Goennenwein",
+          "description": "Author(s): Luise Siegl, Michaela Lammel, Akashdeep Kamra, Hans Huebl, Wolfgang Belzig, and Sebastian T. B. Goennenwein\nThe spin of so-called squeezed magnons has been shown to deviate from the common value ħ, with corresponding changes in the spin-current shot noise. The authors calculate here the magnitude of the concomitant voltage noise in the charge channel for a typical electrically detected spin pumping signal and find that it is significantly smaller than the inevitable Johnson-Nyquist noise. Their analysis thus provides important guidance for the challenges in experimentally detecting squeezed magnons through electrical noise measurements.\n\n[Phys. Rev. B 108, 144420] Published Wed Oct 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.144420",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 1114,
+          "title": "Electrical detectability of magnon-mediated spin current shot noise",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.144420.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.155130",
+          "author": "Tommaso Roscilde, Tommaso Comparin, and Fabio Mezzacapo",
+          "description": "Author(s): Tommaso Roscilde, Tommaso Comparin, and Fabio Mezzacapo\nElementary excitations of ordered quantum magnets are harmonic spin waves. Yet, when ordering breaks a continuous symmetry, excitations at zero momentum cannot really be treated as harmonic, because they correspond to the Goldstone mode that restores the symmetry in finite-size systems. Here, the authors show that zero-momentum excitations can be treated in a fully nonlinear way in terms of a macroscopic spin variable (the rotor): its spectrum reconstructs the so-called Anderson tower of states, a hallmark of continuous-symmetry breaking systems. The rotor variable can be considered as nearly separate from finite-momentum spin waves, leading to a quantitative reconstruction of the low-energy excitation spectrum of finite-size systems.\n\n[Phys. Rev. B 108, 155130] Published Wed Oct 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.155130",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 1357,
+          "title": "Rotor/spin-wave theory for quantum spin models with U(1) symmetry",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.155130.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.042214",
+          "author": "Pierre Lassègues, Mateus Antônio Fernandes Biscassi, Martial Morisse, André Cidrim, Pablo Gabriel Santos Dias, Hodei Eneriz, Raul Celistrino Teixeira, Robin Kaiser, Romain Bachelard, and Mathilde Hugbart",
+          "description": "Author(s): Pierre Lassègues, Mateus Antônio Fernandes Biscassi, Martial Morisse, André Cidrim, Pablo Gabriel Santos Dias, Hodei Eneriz, Raul Celistrino Teixeira, Robin Kaiser, Romain Bachelard, and Mathilde Hugbart\nThe authors study the loss of light coherence when scattered by a macroscopic atomic cloud of cold neutral atoms through intensity-intensity correlation measurements. They demonstrate experimentally and theoretically the transition between classical and quantum mechanisms regimes for the coherence loss.\n\n[Phys. Rev. A 108, 042214] Published Wed Oct 18, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.042214",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 1098,
+          "title": "Transition from classical to quantum loss of light coherence",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.042214.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.161802",
           "author": "D. P. Aguillard <em>et al.</em> (The Muon <math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mi>g</mi><mo>−</mo><mn>2</mn></math> Collaboration)",
           "description": "Author(s): D. P. Aguillard et al. (The Muon g−2 Collaboration)\nThe magnetic moment of the muon, a key probe of the standard model and its possible extensions, has been measured to a precision of 200 parts per billion, 2.3 times more precise than their first landmark result.\n\n[Phys. Rev. Lett. 131, 161802] Published Tue Oct 17, 2023",
@@ -934,76 +1004,6 @@
           "wordCount": 1985,
           "title": "Deep thermalization in constrained quantum systems",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.104317.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L100406",
-          "author": "Wenxuan Zhu, Cheng Song, Lei Han, Hua Bai, Chong Chen, and Feng Pan",
-          "description": "Author(s): Wenxuan Zhu, Cheng Song, Lei Han, Hua Bai, Chong Chen, and Feng Pan\nThe authors experimentally show here that the Curie temperature of van der Waals CrPS4 is elevated from 40 K up to room temperature by the interfacial effect from graphene. The compatible Fermi level between CrPS4 and graphene enables sufficient interfacial charge transfer across their atomically fine interface, leading to promoted exchange coupling and higher Curie temperature of CrPS4 without the participation of strong spin-orbit coupling. The enhanced magnetism of CrPS4 further induces room-temperature exchange splitting in graphene by the magnetic proximity effect.\n\n[Phys. Rev. B 108, L100406] Published Tue Sep 26, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L100406",
-          "publishedOn": "2023-09-26T10:00:00.000Z",
-          "wordCount": 1022,
-          "title": "Interface-enhanced room-temperature Curie temperature in $\\mathrm{CrP}{\\mathrm{S}}_{4}\\text{/}\\text{graphene}$ van der Waals heterostructure",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L100406.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L121411",
-          "author": "Constantine Yannouleas and Uzi Landman",
-          "description": "Author(s): Constantine Yannouleas and Uzi Landman\nQuantum Wigner molecules (WMs) in strongly interacting few-body fermionic moiré quantum dots in twisted bilayers of transition metal dichalcogenide (TMD) materials are uncovered via full configuration interaction calculations, going beyond the Aufbau principle of natural atoms and Hubbard modeling. Nested polygonal sliding rings of localized fermions, hidden in the exact particle densities, are revealed through wavefunction correlation analysis [see (3,9) and (1,6,10) electron WMs in 2D semiconductors], broadening the WM portfolio to include the TMD trilobal symmetry as an added resource in twistronics, and providing benchmarks for AI-based many-body computations.\n\n[Phys. Rev. B 108, L121411] Published Tue Sep 26, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L121411",
-          "publishedOn": "2023-09-26T10:00:00.000Z",
-          "wordCount": 1165,
-          "title": "Quantum Wigner molecules in moiré materials",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L121411.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.131401",
-          "author": "Óscar J. C. Dias, Gary W. Gibbons, Jorge E. Santos, and Benson Way",
-          "description": "Author(s): Óscar J. C. Dias, Gary W. Gibbons, Jorge E. Santos, and Benson Way\nBlack holes may be less unique than previously thought, as the expansion due to a cosmological constant can hold apart a pair of holes and allow them to mimic a single black hole.\n\n[Phys. Rev. Lett. 131, 131401] Published Mon Sep 25, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.131401",
-          "publishedOn": "2023-09-25T10:00:00.000Z",
-          "wordCount": 922,
-          "title": "Static Black Binaries in de Sitter Space",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.131401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.108.035502",
-          "author": "S. R. Elliott, V. N. Gavrin, W. C. Haxton, T. V. Ibragimova, and E. J. Rule",
-          "description": "Author(s): S. R. Elliott, V. N. Gavrin, W. C. Haxton, T. V. Ibragimova, and E. J. Rule\nThe 71Ga radiochemical experiments provided the first constraint on the flux of low-energy electron neutrinos coming from the Sun. Crucial neutrino calibration experiments, however, using intense β-decay sources, yielded rates below that predicted by theory. A recent effort to check the “gallium anomaly” using a more intense source exacerbated the discrepancy. This paper carefully reexamines the nuclear physics of neutrino absorption on 71Ga, slightly reducing but not eliminating the puzzling anomaly.\n\n[Phys. Rev. C 108, 035502] Published Mon Sep 25, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.108.035502",
-          "publishedOn": "2023-09-25T10:00:00.000Z",
-          "wordCount": 1120,
-          "title": "Gallium neutrino absorption cross section and its uncertainty",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.108.035502.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.115151",
-          "author": "Jonas Schwab, Francesco Parisen Toldin, and Fakher F. Assaad",
-          "description": "Author(s): Jonas Schwab, Francesco Parisen Toldin, and Fakher F. Assaad\nSpin systems are a fundamental concept in condensed matter and statistical physics. Here, the authors provide the very first computation of the spin-S SU(N) antiferromagnet in a representation amenable to negative sign free fermion Monte Carlo simulations. They offer a numerical proof of the seminal works of Read and Sachdev. It highlights the close connection between topology and the melting of the quantum antiferromagnet, with the Berry phase explaining the various states observed in the vicinity of the quantum antiferromagnet.\n\n[Phys. Rev. B 108, 115151] Published Mon Sep 25, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.115151",
-          "publishedOn": "2023-09-25T10:00:00.000Z",
-          "wordCount": 1670,
-          "title": "Phase diagram of the $\\mathrm{SU}\\text{(}N\\text{)}$ antiferromagnet of spin $S$ on a square lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.115151.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.126902",
-          "author": "Rakesh Arul, Kishan Menghrajani, Marie S. Rider, Rohit Chikkaraddy, William L. Barnes, and Jeremy J. Baumberg",
-          "description": "Author(s): Rakesh Arul, Kishan Menghrajani, Marie S. Rider, Rohit Chikkaraddy, William L. Barnes, and Jeremy J. Baumberg\nUsing a metallic grating and infrared light, researchers have uncovered a light–matter coupling regime where the local coupling strength can be 3.5 times higher than the global average for the material.\n\n[Phys. Rev. Lett. 131, 126902] Published Fri Sep 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.126902",
-          "publishedOn": "2023-09-22T10:00:00.000Z",
-          "wordCount": 1293,
-          "title": "Raman Probing the Local Ultrastrong Coupling of Vibrational Plasmon Polaritons on Metallic Gratings",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.126902.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128101",
-          "author": "Pawel Pieranski, Mehdi Zeghal, Maria Helena Godinho, Patrick Judeinstein, Rémi Bouffet-Klein, Bastien Liagre, and Nicodème Rouger",
-          "description": "Author(s): Pawel Pieranski, Mehdi Zeghal, Maria Helena Godinho, Patrick Judeinstein, Rémi Bouffet-Klein, Bastien Liagre, and Nicodème Rouger\nTwo or more linear defects can twist around one another to form an entity that may affect the properties of a material.\n\n[Phys. Rev. Lett. 131, 128101] Published Fri Sep 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.128101",
-          "publishedOn": "2023-09-22T10:00:00.000Z",
-          "wordCount": 1105,
-          "title": "Topological Metadefects: Tangles of Dislocations",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.128101.png"
         }
       ]
     }
