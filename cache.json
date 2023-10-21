@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.040314",
+          "author": "V. Esteso, R. Duquennoy, R.C. Ng, M. Colautti, P. Lombardi, G. Arregui, E. Chavez-Angel, C.M. Sotomayor-Torres, P.D. Garcia, M. Hilke, and C. Toninelli",
+          "description": "Author(s): V. Esteso, R. Duquennoy, R.C. Ng, M. Colautti, P. Lombardi, G. Arregui, E. Chavez-Angel, C.M. Sotomayor-Torres, P.D. Garcia, M. Hilke, and C. Toninelli\nA single-molecule thermometer provides two-dimensional mapping with high spatial and temperature resolution under cryogenic conditions.\n\n[PRX Quantum 4, 040314] Published Fri Oct 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.040314",
+          "publishedOn": "2023-10-20T10:00:00.000Z",
+          "wordCount": 2588,
+          "title": "Quantum Thermometry with Single Molecules in Nanoprobes",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.040314.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041011",
+          "author": "Szabolcs Zakany and Michel C. Milinkovitch",
+          "description": "Author(s): Szabolcs Zakany and Michel C. Milinkovitch\nResearchers have predicted—and confirmed—a secondary pattern on the ocellated lizard’s scales that is too subtle for our eyes to see.\n\n[Phys. Rev. X 13, 041011] Published Fri Oct 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041011",
+          "publishedOn": "2023-10-20T10:00:00.000Z",
+          "wordCount": 2529,
+          "title": "Simple Reaction-Diffusion Modeling Predicts Inconspicuous Neighborhood-Dependent Color Subclustering of Lizard Scales",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041011.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.042615",
+          "author": "Federico Centrone, Frederic Grosshans, and Valentina Parigi",
+          "description": "Author(s): Federico Centrone, Frederic Grosshans, and Valentina Parigi\nThe authors give insight into the amount of entanglement that can be achieved from Gaussian graph states as well as the amount of squeezing required to prepare them. They find that these quantities are highly dependent on the structure of the quantum network.\n\n[Phys. Rev. A 108, 042615] Published Fri Oct 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.042615",
+          "publishedOn": "2023-10-20T10:00:00.000Z",
+          "wordCount": 1748,
+          "title": "Cost and routing of continuous-variable quantum networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.042615.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.040313",
           "author": "M. Malinowski, D.T.C. Allcock, and C.J. Ballance",
           "description": "Author(s): M. Malinowski, D.T.C. Allcock, and C.J. Ballance\nA concrete proposal for a 1000-qubit trapped-ion quantum processor takes advantage of integrated switching electronics to reduce the wiring complexity without reducing operation fidelity.\n\n[PRX Quantum 4, 040313] Published Thu Oct 19, 2023",
@@ -211,7 +241,7 @@
           "description": "Author(s): GiBaik Sim, Frank Pollmann, and Johannes Knolle\nThis work explores the effectiveness of two-dimensional coherent spectroscopy for understanding the microscopic properties of quantum magnets. Motivated by experiments on the Ising chain magnet CoNb2O6, it is shown that the 2D spectra are markedly different for the two proposed microscopic Hamiltonians - the transverse field Ising model and the twisted Kitaev spin chain - even though the linear response is similar. The findings showcase the power of 2D spectroscopy for quantifying microscopic descriptions and understanding the dynamics of fractionalized excitations of quantum magnets.\n\n[Phys. Rev. B 108, 134423] Published Tue Oct 17, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.134423",
           "publishedOn": "2023-10-17T10:00:00.000Z",
-          "wordCount": 1058,
+          "wordCount": 1057,
           "title": "Microscopic details of two-dimensional spectroscopy of one-dimensional quantum Ising magnets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.134423.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 1994,
           "title": "Experimental and numerical investigations on rotor noise in axial descending flight",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.094803.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.063531",
-          "author": "Valerio De Luca, Alex Kehagias, and Antonio Riotto",
-          "description": "Author(s): Valerio De Luca, Alex Kehagias, and Antonio Riotto\nRecent pulsar timing array data suggest the presence of stochastic gravitational waves, implying a significant amplitude in curvature perturbations and thus a large abundance of primordial black holes (PBH). The latter is at odds with the observed constraints on the PBH abundance. The authors scrutinize in detail the standard calculation and approximations in determining the PBH abundance and point out several uncertainties, concluding that the PBH abundance is likely much smaller than what is the current consensus.\n\n[Phys. Rev. D 108, 063531] Published Thu Sep 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.063531",
-          "publishedOn": "2023-09-28T10:00:00.000Z",
-          "wordCount": 782,
-          "title": "How well do we know the primordial black hole abundance: The crucial role of nonlinearities when approaching the horizon",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.063531.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.034067",
-          "author": "Joshua Ziegler, Florian Luthi, Mick Ramsey, Felix Borjans, Guoji Zheng, and Justyna P. Zwolak",
-          "description": "Author(s): Joshua Ziegler, Florian Luthi, Mick Ramsey, Felix Borjans, Guoji Zheng, and Justyna P. Zwolak\nMany methods to automatically tune silicon spin qubits are limited by reliability and data efficiency, which makes them less likely to be scalable. The authors demonstrate a reliable, efficient, physics-informed tuning algorithm (PIT) for navigating to a target charge configuration⏤a prerequisite to forming qubits. This tuning method combines machine learning and physical intuition with an algorithm that leverages one-dimensional scans (rays) and conventional peak-finding to navigate from a coarse, unknown device state to a desired charge occupation efficiently and effectively. PIT enables the transformation of an uncalibrated circuit to a functioning quantum processor.\n\n[Phys. Rev. Applied 20, 034067] Published Thu Sep 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.034067",
-          "publishedOn": "2023-09-28T10:00:00.000Z",
-          "wordCount": 1653,
-          "title": "Tuning Arrays with Rays: Physics-Informed Tuning of Quantum Dot Charge States",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.034067.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.031037",
-          "author": "Fan Xu, Zheng Sun, Tongtong Jia, Chang Liu, Cheng Xu, Chushan Li, Yu Gu, Kenji Watanabe, Takashi Taniguchi, Bingbing Tong, Jinfeng Jia, Zhiwen Shi, Shengwei Jiang, Yang Zhang, Xiaoxue Liu, and Tingxin Li",
-          "description": "Author(s): Fan Xu, Zheng Sun, Tongtong Jia, Chang Liu, Cheng Xu, Chushan Li, Yu Gu, Kenji Watanabe, Takashi Taniguchi, Bingbing Tong, Jinfeng Jia, Zhiwen Shi, Shengwei Jiang, Yang Zhang, Xiaoxue Liu, and Tingxin Li\nDirect evidence of the integer and fractional quantum anomalous Hall effects in twisted bilayer MoTe2 paves the way for studies of fractionally charged excitations at zero magnetic field in semiconductor moiré materials.\n\n[Phys. Rev. X 13, 031037] Published Wed Sep 27, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.031037",
-          "publishedOn": "2023-09-27T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Observation of Integer and Fractional Quantum Anomalous Hall Effects in Twisted Bilayer ${\\mathrm{MoTe}}_{2}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.031037.png"
         }
       ]
     }

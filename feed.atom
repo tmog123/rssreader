@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T00:44:04.031Z</id>
+    <id>urn:2023-10-21T00:42:34.892Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T00:44:04.031Z</updated>
+    <updated>2023-10-21T00:42:34.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Thermometry with Single Molecules in Nanoprobes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.4.040314</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.4.040314"/>
+        <updated>2023-10-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): V. Esteso, R. Duquennoy, R.C. Ng, M. Colautti, P. Lombardi, G. Arregui, E. Chavez-Angel, C.M. Sotomayor-Torres, P.D. Garcia, M. Hilke, and C. Toninelli
+A single-molecule thermometer provides two-dimensional mapping with high spatial and temperature resolution under cryogenic conditions.
+
+[PRX Quantum 4, 040314] Published Fri Oct 20, 2023]]></summary>
+        <author>
+            <name>V. Esteso, R. Duquennoy, R.C. Ng, M. Colautti, P. Lombardi, G. Arregui, E. Chavez-Angel, C.M. Sotomayor-Torres, P.D. Garcia, M. Hilke, and C. Toninelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Reaction-Diffusion Modeling Predicts Inconspicuous Neighborhood-Dependent Color Subclustering of Lizard Scales]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041011</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041011"/>
+        <updated>2023-10-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Szabolcs Zakany and Michel C. Milinkovitch
+Researchers have predicted—and confirmed—a secondary pattern on the ocellated lizard’s scales that is too subtle for our eyes to see.
+
+[Phys. Rev. X 13, 041011] Published Fri Oct 20, 2023]]></summary>
+        <author>
+            <name>Szabolcs Zakany and Michel C. Milinkovitch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost and routing of continuous-variable quantum networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.042615</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.042615"/>
+        <updated>2023-10-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Federico Centrone, Frederic Grosshans, and Valentina Parigi
+The authors give insight into the amount of entanglement that can be achieved from Gaussian graph states as well as the amount of squeezing required to prepare them. They find that these quantities are highly dependent on the structure of the quantum network.
+
+[Phys. Rev. A 108, 042615] Published Fri Oct 20, 2023]]></summary>
+        <author>
+            <name>Federico Centrone, Frederic Grosshans, and Valentina Parigi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Wire a $1000$-Qubit Trapped-Ion Quantum Computer]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.4.040313</id>
@@ -1264,45 +1303,6 @@ We investigate the aerodynamic and aeroacoustic characteristics of a small-scale
 [Phys. Rev. Fluids 8, 094803] Published Thu Sep 28, 2023]]></summary>
         <author>
             <name>Yuhong Li, Xiangtian Li, Han Wu, Peng Zhou, Xin Zhang, and Siyang Zhong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How well do we know the primordial black hole abundance: The crucial role of nonlinearities when approaching the horizon]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.063531</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.063531"/>
-        <updated>2023-09-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Valerio De Luca, Alex Kehagias, and Antonio Riotto
-Recent pulsar timing array data suggest the presence of stochastic gravitational waves, implying a significant amplitude in curvature perturbations and thus a large abundance of primordial black holes (PBH). The latter is at odds with the observed constraints on the PBH abundance. The authors scrutinize in detail the standard calculation and approximations in determining the PBH abundance and point out several uncertainties, concluding that the PBH abundance is likely much smaller than what is the current consensus.
-
-[Phys. Rev. D 108, 063531] Published Thu Sep 28, 2023]]></summary>
-        <author>
-            <name>Valerio De Luca, Alex Kehagias, and Antonio Riotto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuning Arrays with Rays: Physics-Informed Tuning of Quantum Dot Charge States]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.034067</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.034067"/>
-        <updated>2023-09-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Joshua Ziegler, Florian Luthi, Mick Ramsey, Felix Borjans, Guoji Zheng, and Justyna P. Zwolak
-Many methods to automatically tune silicon spin qubits are limited by reliability and data efficiency, which makes them less likely to be scalable. The authors demonstrate a reliable, efficient, physics-informed tuning algorithm (PIT) for navigating to a target charge configuration⏤a prerequisite to forming qubits. This tuning method combines machine learning and physical intuition with an algorithm that leverages one-dimensional scans (rays) and conventional peak-finding to navigate from a coarse, unknown device state to a desired charge occupation efficiently and effectively. PIT enables the transformation of an uncalibrated circuit to a functioning quantum processor.
-
-[Phys. Rev. Applied 20, 034067] Published Thu Sep 28, 2023]]></summary>
-        <author>
-            <name>Joshua Ziegler, Florian Luthi, Mick Ramsey, Felix Borjans, Guoji Zheng, and Justyna P. Zwolak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of Integer and Fractional Quantum Anomalous Hall Effects in Twisted Bilayer ${\mathrm{MoTe}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.031037</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.031037"/>
-        <updated>2023-09-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Fan Xu, Zheng Sun, Tongtong Jia, Chang Liu, Cheng Xu, Chushan Li, Yu Gu, Kenji Watanabe, Takashi Taniguchi, Bingbing Tong, Jinfeng Jia, Zhiwen Shi, Shengwei Jiang, Yang Zhang, Xiaoxue Liu, and Tingxin Li
-Direct evidence of the integer and fractional quantum anomalous Hall effects in twisted bilayer MoTe2 paves the way for studies of fractionally charged excitations at zero magnetic field in semiconductor moiré materials.
-
-[Phys. Rev. X 13, 031037] Published Wed Sep 27, 2023]]></summary>
-        <author>
-            <name>Fan Xu, Zheng Sun, Tongtong Jia, Chang Liu, Cheng Xu, Chushan Li, Yu Gu, Kenji Watanabe, Takashi Taniguchi, Bingbing Tong, Jinfeng Jia, Zhiwen Shi, Shengwei Jiang, Yang Zhang, Xiaoxue Liu, and Tingxin Li</name>
         </author>
     </entry>
 </feed>
