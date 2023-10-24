@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041012",
+          "author": "J. Nakamura, S. Liang, G. C. Gardner, and M. J. Manfra",
+          "description": "Author(s): J. Nakamura, S. Liang, G. C. Gardner, and M. J. Manfra\nFabry-Perot interferometry can observe anyon behavior at complex fractional states—a key requirement for analyzing non-abelian states that are sought after for intrinsically fault-tolerant qubits.\n\n[Phys. Rev. X 13, 041012] Published Mon Oct 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041012",
+          "publishedOn": "2023-10-23T10:00:00.000Z",
+          "wordCount": 1889,
+          "title": "Fabry-Pérot Interferometry at the $ν=2/5$ Fractional Quantum Hall State",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041012.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.104004",
+          "author": "Wenyi Zhou, Alexander J. Bishop, Xiyue S. Zhang, Katherine Robinson, Igor Lyalin, Ziling Li, Ryan Bailey-Crandell, Thow Min Jerald Cham, Shuyu Cheng, Yunqiu Kelly Luo, Daniel C. Ralph, David A. Muller, and Roland K. Kawakami",
+          "description": "Author(s): Wenyi Zhou, Alexander J. Bishop, Xiyue S. Zhang, Katherine Robinson, Igor Lyalin, Ziling Li, Ryan Bailey-Crandell, Thow Min Jerald Cham, Shuyu Cheng, Yunqiu Kelly Luo, Daniel C. Ralph, David A. Muller, and Roland K. Kawakami\nThe heterostructures of 2D magnets and topological insulators are attractive candidates for quantum anomalous hall effect and highly-efficient spin-orbit torque switching. To better study these phenomena, it will be crucial to synthesize epitaxial heterostructures for scalability while maintaining high-quality interfaces to preserve the topological surface states and having the Curie temperature (TC) above room temperature. Here, the authors utilize molecular beam epitaxy to tune the TC in heterostructures of van der Waals (vdW) magnet Fe3GeTe2 and topological insulator Bi2Te3 to above room temperature by varying growth conditions. Electron microscopy reveals the existence of thicker vdW compounds in the FemGenTe2 family, as well as some intercalants in between vdW gaps, which are possible origins for the enhanced TC.\n\n[Phys. Rev. Materials 7, 104004] Published Mon Oct 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.104004",
+          "publishedOn": "2023-10-23T10:00:00.000Z",
+          "wordCount": 1153,
+          "title": "Tuning the Curie temperature of a two-dimensional magnet/topological insulator heterostructure to above room temperature by epitaxial growth",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.104004.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.177301",
+          "author": "Liyao Lyu and Huan Lei",
+          "description": "Author(s): Liyao Lyu and Huan Lei\nA machine-learning-based coarse-grained molecular dynamics (CGMD) model faithfully retains the many-body nature of the intermolecular dissipative interactions.\n\n[Phys. Rev. Lett. 131, 177301] Published Mon Oct 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.177301",
+          "publishedOn": "2023-10-23T10:00:00.000Z",
+          "wordCount": 776,
+          "title": "Construction of Coarse-Grained Molecular Dynamics with Many-Body Non-Markovian Memory",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.177301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.178001",
+          "author": "F. Gobet, P. Barberet, M.-H. Delville, G. Devès, T. Guérin, R. Liénard, H. N. Tran, C. Vecco-Garda, A. Würger, S. Zein, and H. Seznec",
+          "description": "Author(s): F. Gobet, P. Barberet, M.-H. Delville, G. Devès, T. Guérin, R. Liénard, H. N. Tran, C. Vecco-Garda, A. Würger, S. Zein, and H. Seznec\nUltrahigh dose rates of proton irradiation induce electrokinetic effects in water that can perturb the dynamics of charged particles, such as macromolecules, in biological tissues and other aqueous systems.\n\n[Phys. Rev. Lett. 131, 178001] Published Mon Oct 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.178001",
+          "publishedOn": "2023-10-23T10:00:00.000Z",
+          "wordCount": 953,
+          "title": "Electric Fields in Liquid Water Irradiated with Protons at Ultrahigh Dose Rates",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.178001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.082006",
+          "author": "Stephen Fairhurst, Charlie Hoy, Rhys Green, Cameron Mills, and Samantha A. Usman",
+          "description": "Author(s): Stephen Fairhurst, Charlie Hoy, Rhys Green, Cameron Mills, and Samantha A. Usman\nRapid extraction of parameters to characterize sources of gravitational wave signals is vitally important to gravitational wave astronomy. This paper provides an intuitive method for extracting parameters more efficiently than existing full parameter estimation methods. Among other applications, these new methods appear to be promising ways of addressing real-time needs such as generating gravitational wave event alerts.\n\n[Phys. Rev. D 108, 082006] Published Mon Oct 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.082006",
+          "publishedOn": "2023-10-23T10:00:00.000Z",
+          "wordCount": 2320,
+          "title": "Simple parameter estimation using observable features of gravitational-wave signals",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.082006.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.155137",
+          "author": "Piet W. Brouwer and Vatsal Dwivedi",
+          "description": "Author(s): Piet W. Brouwer and Vatsal Dwivedi\nFragile and delicate topological phases of noninteracting fermions can be trivialized under addition of trivial bands, in contrast to strong topological phases. Here, the authors describe a classification procedure based on homotopy theory for topological insulators with a fixed number of bands. They thereby classify band structures symmetric under discrete rotations and time-reversal at the highest possible level of granularity and identify instances of “representation-protected stable topology”, which is robust to addition of trivial bands with a fixed orbital type.\n\n[Phys. Rev. B 108, 155137] Published Mon Oct 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.155137",
+          "publishedOn": "2023-10-23T10:00:00.000Z",
+          "wordCount": 1522,
+          "title": "Homotopic classification of band structures: Stable, fragile, delicate, and stable representation-protected topology",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.155137.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.165142",
+          "author": "Yang Yang, Georgia Prokopiou, Tian Qiu, Aaron M. Schankler, Andrew M. Rappe, Leeor Kronik, and Robert A. DiStasio, Jr.",
+          "description": "Author(s): Yang Yang, Georgia Prokopiou, Tian Qiu, Aaron M. Schankler, Andrew M. Rappe, Leeor Kronik, and Robert A. DiStasio, Jr.\nThis work presents a general scheme for constructing pseudopotentials for advanced density functional theory (DFT) calculations employing range-separated hybrid (RSH) functionals. The authors demonstrate pseudopotential construction for several atoms and RSH functionals, and find that pseudopotential consistency errors tend to be systematic when computing solid-state properties and can exceed 0.1 eV for band gaps. This work removes the need to incur such unnecessary errors when performing state-of-the-art electronic structure calculations at the computationally demanding RSH-DFT level.\n\n[Phys. Rev. B 108, 165142] Published Mon Oct 23, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.165142",
+          "publishedOn": "2023-10-23T10:00:00.000Z",
+          "wordCount": 844,
+          "title": "Range-separated hybrid functional pseudopotentials",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.165142.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.040314",
           "author": "V. Esteso, R. Duquennoy, R.C. Ng, M. Colautti, P. Lombardi, G. Arregui, E. Chavez-Angel, C.M. Sotomayor-Torres, P.D. Garcia, M. Hilke, and C. Toninelli",
           "description": "Author(s): V. Esteso, R. Duquennoy, R.C. Ng, M. Colautti, P. Lombardi, G. Arregui, E. Chavez-Angel, C.M. Sotomayor-Torres, P.D. Garcia, M. Hilke, and C. Toninelli\nA single-molecule thermometer provides two-dimensional mapping with high spatial and temperature resolution under cryogenic conditions.\n\n[PRX Quantum 4, 040314] Published Fri Oct 20, 2023",
@@ -934,76 +1004,6 @@
           "wordCount": 1642,
           "title": "Efficient and quantum-adaptive machine learning with fermion neural networks",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.044002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.133402",
-          "author": "Lin Xin, Maryrose Barrios, Julia T. Cohen, and Michael S. Chapman",
-          "description": "Author(s): Lin Xin, Maryrose Barrios, Julia T. Cohen, and Michael S. Chapman\nSpin squeezed ground states of a Bose-Einstein condensate are achieved by a shortcut to adiabaticity involving Hamiltonian tuning.\n\n[Phys. Rev. Lett. 131, 133402] Published Fri Sep 29, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.133402",
-          "publishedOn": "2023-09-29T10:00:00.000Z",
-          "wordCount": 1114,
-          "title": "Long-Lived Squeezed Ground States in a Quantum Spin Ensemble",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.133402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.136902",
-          "author": "Jan Reislöhner, Xiao Chen, Doyeong Kim, Silvana Botti, and Adrian N. Pfeiffer",
-          "description": "Author(s): Jan Reislöhner, Xiao Chen, Doyeong Kim, Silvana Botti, and Adrian N. Pfeiffer\nBy using a pair of offset beams, researchers are able to generate femtosecond UV pulses that can be aimed directly into a target as a spectroscopic probe.\n\n[Phys. Rev. Lett. 131, 136902] Published Fri Sep 29, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.136902",
-          "publishedOn": "2023-09-29T10:00:00.000Z",
-          "wordCount": 1166,
-          "title": "Dynamical Franz-Keldysh Effect in Diamond in the Deep Ultraviolet Probed by Transient Absorption and Dispersion Spectroscopy Using a Miniature Beamline",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.136902.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L100511",
-          "author": "Claudio Guarcello, Alessandro Braggio, Francesco Giazotto, and Roberta Citro",
-          "description": "Author(s): Claudio Guarcello, Alessandro Braggio, Francesco Giazotto, and Roberta Citro\nThe authors suggest here how to unveil the symmetry of the order parameter in iron-based superconductors (FeSCs) via thermoelectricity: in the quest to unveil their specific symmetry, a groundbreaking avenue emerges. Harnessing the power of linear thermoelectric effects in low-temperature tunnel junctions with FeSCs, a novel window into the world of superconducting order parameters is opened. Dive into the realm of unconventional coupling states and discover how thermoelectric measurements can unlock the hidden complexities of Fe-based systems, with implications spanning from quantum technologies to energy harvesting. Explore the untapped potential of thermoelectricity in deciphering the puzzles of quantum materials.\n\n[Phys. Rev. B 108, L100511] Published Fri Sep 29, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L100511",
-          "publishedOn": "2023-09-29T10:00:00.000Z",
-          "wordCount": 933,
-          "title": "Thermoelectric signatures of order-parameter symmetries in iron-based superconducting tunnel junctions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L100511.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.092401",
-          "author": "Hiroshi Yamaguchi, Tsutomu Taniuchi, Kenji Fukami, Yasuhiro Takemura, Tsuyoshi Aoki, Shiro Takano, and Takahiro Watanabe",
-          "description": "Author(s): Hiroshi Yamaguchi, Tsutomu Taniuchi, Kenji Fukami, Yasuhiro Takemura, Tsuyoshi Aoki, Shiro Takano, and Takahiro Watanabe\nA novel topology decreases the current density and power consumption of dc septum magnets.\n\n[Phys. Rev. Accel. Beams 26, 092401] Published Fri Sep 29, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.092401",
-          "publishedOn": "2023-09-29T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Design and demonstration of low current density dc septum magnet",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.26.092401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033226",
-          "author": "Juan M. Cornejo, Johannes Brombacher, Julia A. Coenders, Moritz von Boehn, Teresa Meiners, Malte Niemann, Stefan Ulmer, and Christian Ospelkaus",
-          "description": "Author(s): Juan M. Cornejo, Johannes Brombacher, Julia A. Coenders, Moritz von Boehn, Teresa Meiners, Malte Niemann, Stefan Ulmer, and Christian Ospelkaus\nA sideband spectroscopy of a single beryllium ion in a Penning trap is demonstrated, finding a temperature of (3.1 ± 0.4) mK. This is a key step for ground-state cooling, so that motional degrees of freedom in Penning traps can be manipulated at the single-quantum level for quantum logic applications and precision measurements.\n\n[Phys. Rev. Research 5, 033226] Published Thu Sep 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.033226",
-          "publishedOn": "2023-09-28T10:00:00.000Z",
-          "wordCount": 1121,
-          "title": "Optical stimulated-Raman sideband spectroscopy of a single $^{9}\\mathrm{Be}^{+}$ ion in a Penning trap",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.033226.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.133401",
-          "author": "N. Dupont, L. Gabardos, F. Arrouas, N. Ombredane, J. Billy, B. Peaudecerf, and D. Guéry-Odelin",
-          "description": "Author(s): N. Dupont, L. Gabardos, F. Arrouas, N. Ombredane, J. Billy, B. Peaudecerf, and D. Guéry-Odelin\nResearchers have turned an optical lattice into a ratchet that moves atoms from one site to the next.\n\n[Phys. Rev. Lett. 131, 133401] Published Thu Sep 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.133401",
-          "publishedOn": "2023-09-28T10:00:00.000Z",
-          "wordCount": 1159,
-          "title": "Hamiltonian Ratchet for Matter-Wave Transport",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.133401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.094803",
-          "author": "Yuhong Li, Xiangtian Li, Han Wu, Peng Zhou, Xin Zhang, and Siyang Zhong",
-          "description": "Author(s): Yuhong Li, Xiangtian Li, Han Wu, Peng Zhou, Xin Zhang, and Siyang Zhong\nWe investigate the aerodynamic and aeroacoustic characteristics of a small-scale drone rotor operating in axial descending flight. The integrated aerodynamic forces and the far-field noise are measured by wind tunnel experiments. Then, near-field flow structures and corresponding noise source analysis are presented based on computational aeroacoustics (CAA) simulations. We found the unique acoustic feature of descending flight is the haystacking-like spectral humps, possibly caused by the interaction between the blade leading edge and the rotor wake.\n\n[Phys. Rev. Fluids 8, 094803] Published Thu Sep 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.094803",
-          "publishedOn": "2023-09-28T10:00:00.000Z",
-          "wordCount": 1994,
-          "title": "Experimental and numerical investigations on rotor noise in axial descending flight",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.094803.png"
         }
       ]
     }
