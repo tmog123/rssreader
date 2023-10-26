@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T00:43:50.238Z</id>
+    <id>urn:2023-10-26T00:42:52.321Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T00:43:50.238Z</updated>
+    <updated>2023-10-26T00:42:52.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Educational data augmentation in physics education research using ChatGPT]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020150</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020150"/>
+        <updated>2023-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fabian Kieser, Peter Wulff, Jochen Kuhn, and Stefan Küchemann
+ChatGPT can be used to answer concept inventories and subsequently generate humanlike answers.
+
+[Phys. Rev. Phys. Educ. Res. 19, 020150] Published Wed Oct 25, 2023]]></summary>
+        <author>
+            <name>Fabian Kieser, Peter Wulff, Jochen Kuhn, and Stefan Küchemann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Data Release from the European Pulsar Timing Array: Challenging the Ultralight Dark Matter Paradigm]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.171001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.171001"/>
+        <updated>2023-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Clemente Smarra et al. (European Pulsar Timing Array)
+If ultralight dark matter particles exist, they can contribute no more than 70% of the dark matter between Earth and a set of monitored pulsars.
+
+[Phys. Rev. Lett. 131, 171001] Published Wed Oct 25, 2023]]></summary>
+        <author>
+            <name>Clemente Smarra &lt;em&gt;et al.&lt;/em&gt; (European Pulsar Timing Array)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluid-Glass-Jamming Rheology of Soft Active Brownian Particles]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.178302</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.178302"/>
+        <updated>2023-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Roland Wiese, Klaus Kroy, and Demian Levis
+With activity taking the place of temperature, a fluid-glass-jamming phase diagram is constructed for active Brownian particles under shear.
+
+[Phys. Rev. Lett. 131, 178302] Published Wed Oct 25, 2023]]></summary>
+        <author>
+            <name>Roland Wiese, Klaus Kroy, and Demian Levis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorentz Reciprocal Theorem in Fluids with Odd Viscosity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.178303</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.178303"/>
+        <updated>2023-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yuto Hosaka, Ramin Golestanian, and Andrej Vilfan
+The Lorentz reciprocal theorem, crucial for understanding microswimmer propulsion, is generalizable to fluids with odd viscosity.
+
+[Phys. Rev. Lett. 131, 178303] Published Wed Oct 25, 2023]]></summary>
+        <author>
+            <name>Yuto Hosaka, Ramin Golestanian, and Andrej Vilfan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spontaneous Demixing of Binary Colloidal Flocks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.178304</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.178304"/>
+        <updated>2023-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Samadarshi Maity and Alexandre Morin
+A homogenous mixture of two self-propelling species first forms a polar vortex and then spontaneously demixes, thanks to a difference in speeds and other competing effects.
+
+[Phys. Rev. Lett. 131, 178304] Published Wed Oct 25, 2023]]></summary>
+        <author>
+            <name>Samadarshi Maity and Alexandre Morin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation of inertia-gravity wave attractors in an axisymmetric enclosed basin]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.104802</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.104802"/>
+        <updated>2023-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Corentin Pacary, Thierry Dauxois, Evgeny Ermanyuk, Pascal Metz, Marc Moulin, and Sylvain Joubaud
+The peculiar reflection of internal waves in rotating stratified fluids enables the concentration of energy on a limit cycle, called an attractor. In this work, the existence of internal gravity wave attractors for rotating stratified fluids is predicted in three-dimensional axisymmetric geometry. This information is used to design experiments using a truncated conical shaped tank in order to form an inertia-gravity waves attractor. We highlight an important difference in the nonlinear regime between the stratification-only and the rotation-only cases.
+
+[Phys. Rev. Fluids 8, 104802] Published Wed Oct 25, 2023]]></summary>
+        <author>
+            <name>Corentin Pacary, Thierry Dauxois, Evgeny Ermanyuk, Pascal Metz, Marc Moulin, and Sylvain Joubaud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Negative tripartite mutual information after quantum quenches in integrable systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.134434</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.134434"/>
+        <updated>2023-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fabio Caceffo and Vincenzo Alba
+The tripartite information (TMI) has emerged as a tool to sieve quantum correlations in quantum many-body systems. A negative TMI is interpreted as evidence for quantum information delocalization in chaotic systems. Here, the authors show that a negative TMI can appear in out-of-equilibrium free-fermion models, and it is linked to the presence of entangled multiplets of excitations. Negative TMI signals a weakening of the relationship between entanglement and thermodynamics, which can be understood in a generalized quasiparticle picture framework.
+
+[Phys. Rev. B 108, 134434] Published Wed Oct 25, 2023]]></summary>
+        <author>
+            <name>Fabio Caceffo and Vincenzo Alba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perpendicular electronic transport and moiré-induced resonance in twisted interfaces of three-dimensional graphite]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.165422</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.165422"/>
+        <updated>2023-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tenta Tani, Takuto Kawakami, and Mikito Koshino
+In moiré materials, the interference patterns give rise to flat bands and introduce novel physical properties. While previous work has mainly focused on two-dimensional systems, the authors theoretically investigate here emergent phenomena in twisted three-dimensional graphite composed of a misoriented pair of graphite pieces. Despite the twisted interface comprising only a small fraction of the entire structure, it is revealed that the moiré pattern produces interface localized bands, leading to a pronounced Fano resonance in electric conduction.
+
+[Phys. Rev. B 108, 165422] Published Wed Oct 25, 2023]]></summary>
+        <author>
+            <name>Tenta Tani, Takuto Kawakami, and Mikito Koshino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making context explicit in equation construction and interpretation: Symbolic blending]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020149</id>
@@ -1199,110 +1303,6 @@ Gapped superconductivity emerging via intervalley coherence in bilayer graphene 
 [Phys. Rev. Lett. 131, 146601] Published Thu Oct 05, 2023]]></summary>
         <author>
             <name>Ying-Ming Xie, Étienne Lantagne-Hurtubise, Andrea F. Young, Stevan Nadj-Perge, and Jason Alicea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatially dispersive helicity-dependent photocurrent in Dirac semimetal ${\mathrm{Cd}}_{3}{\mathrm{As}}_{2}$ nanobelts]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.165405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.165405"/>
-        <updated>2023-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Bob Minyu Wang, Yuqing Zhu, Henry Clark Travaglini, Renzhi Sun, Sergey Y. Savrasov, William Hahn, Klaus van Benthem, and Dong Yu
-Dirac semimetals (DSMs) have demonstrated many exotic properties, such as high carrier mobility, 3D quantum spin Hall effect, and topologically protected spin transport. However, their spin degeneracy has inhibited widespread applications in spintronics and quantum devices. Using a helicity-dependent photocurrent (HDPC), the authors demonstrate here spin generation in strain-free DSM Cd3As2 nanobelt field effect transistors at room temperature. The observed HDPC is attributed to spin-polarized Fermi arcs at the surface. This work provides key insights on light-controlled spin manipulation in Dirac materials.
-
-[Phys. Rev. B 108, 165405] Published Thu Oct 05, 2023]]></summary>
-        <author>
-            <name>Bob Minyu Wang, Yuqing Zhu, Henry Clark Travaglini, Renzhi Sun, Sergey Y. Savrasov, William Hahn, Klaus van Benthem, and Dong Yu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lossless Monochromator in an Ultrafast Electron Microscope Using Near-Field THz Radiation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.145002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.145002"/>
-        <updated>2023-10-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michael Yannai, Yuval Adiv, Raphael Dahan, Kangpeng Wang, Alexey Gorlach, Nicholas Rivera, Tal Fishman, Michael Krüger, and Ido Kaminer
-Researchers demonstrate a method to reduce the energy spread of electrons used in electron microscopes, opening the door to time- and energy-resolved studies of quasiparticles such as phonons and plasmons.
-
-[Phys. Rev. Lett. 131, 145002] Published Wed Oct 04, 2023]]></summary>
-        <author>
-            <name>Michael Yannai, Yuval Adiv, Raphael Dahan, Kangpeng Wang, Alexey Gorlach, Nicholas Rivera, Tal Fishman, Michael Krüger, and Ido Kaminer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four-electron negative-$U$ vacancy defects in antimony selenide]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.134102</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.134102"/>
-        <updated>2023-10-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xinwei Wang, Seán R. Kavanagh, David O. Scanlon, and Aron Walsh
-Negative-U defects in solids break the assumption that like charges repel. The standard negative-U model describes the favorable attraction of a second electron to a defect centre. Here, the authors demonstrate an extension of negative-U behavior up to a change of four electrons. This occurs for the emerging photovoltaic compound Sb2Se3. The phenomenon is explained as a special case of valence alternation arising from the large change in structure and bonding that accompanies electron capture.
-
-[Phys. Rev. B 108, 134102] Published Wed Oct 04, 2023]]></summary>
-        <author>
-            <name>Xinwei Wang, Seán R. Kavanagh, David O. Scanlon, and Aron Walsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constraints on a split superconducting transition under uniaxial strain in ${\mathrm{Sr}}_{2}{\mathrm{RuO}}_{4}$ from scanning SQUID microscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.144501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.144501"/>
-        <updated>2023-10-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Eli Mueller, Yusuke Iguchi, Christopher Watson, Clifford W. Hicks, Yoshiteru Maeno, and Kathryn A. Moler
-Strontium ruthenate continues to draw considerable scientific interest as an unconventional superconductor. One open question is whether the superconducting order parameter has a single component or two degenerate components. Here, the authors use scanning SQUID microscopy to test for a second superconducting transition in the superfluid density under application of symmetry breaking strain, a key prediction for a system with a two-component order parameter. The reported non-observation of a second superconducting transition constrains future models of unconventional superconductivity in this fascinating material.
-
-[Phys. Rev. B 108, 144501] Published Wed Oct 04, 2023]]></summary>
-        <author>
-            <name>Eli Mueller, Yusuke Iguchi, Christopher Watson, Clifford W. Hicks, Yoshiteru Maeno, and Kathryn A. Moler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnon-polaron driven thermal Hall effect in a Heisenberg-Kitaev antiferromagnet]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L140402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L140402"/>
-        <updated>2023-10-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): N. Li, R. R. Neumann, S. K. Guang, Q. Huang, J. Liu, K. Xia, X. Y. Yue, Y. Sun, Y. Y. Wang, Q. J. Li, Y. Jiang, J. Fang, Z. Jiang, X. Zhao, A. Mook, J. Henk, I. Mertig, H. D. Zhou, and X. F. Sun
-The thermal Hall effect, where a transverse heat current is generated in response to a longitudinal temperature gradient, probes charge-neutral excitations in insulating quantum matter. By studying thermal transport in the Heisenberg-Kitaev antiferromagnet and spin liquid candidate Na2Co2TeO6, the authors find here that magnon polarons, i.e., hybridized phonons and magnons produced by spin-lattice coupling, govern the sign and magnitude of the observed signal. This is in contrast to a pure magnon transport theory, which fails to capture important features of the experiment.
-
-[Phys. Rev. B 108, L140402] Published Wed Oct 04, 2023]]></summary>
-        <author>
-            <name>N. Li, R. R. Neumann, S. K. Guang, Q. Huang, J. Liu, K. Xia, X. Y. Yue, Y. Sun, Y. Y. Wang, Q. J. Li, Y. Jiang, J. Fang, Z. Jiang, X. Zhao, A. Mook, J. Henk, I. Mertig, H. D. Zhou, and X. F. Sun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact of mode regularization for quasinormal-mode perturbation theories]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.043502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.043502"/>
-        <updated>2023-10-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sebastian Franke, Juanjuan Ren, and Stephen Hughes
-The authors develop a regularized quasinormal-mode perturbation theory for quasinormal modes of leaky resonators, which can be used to predict the impact of weak perturbations placed outside the resonators of interest. The general method is then applied to two illustrative examples, a one-dimensional double-barrier system and a three-dimensional plasmonic dimer structure.
-
-[Phys. Rev. A 108, 043502] Published Wed Oct 04, 2023]]></summary>
-        <author>
-            <name>Sebastian Franke, Juanjuan Ren, and Stephen Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excess Noise and Photoinduced Effects in Highly Reflective Crystalline Mirror Coatings]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041002"/>
-        <updated>2023-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jialiang Yu, Sebastian Häfner, Thomas Legero, Sofia Herbers, Daniele Nicolodi, Chun Yu Ma, Fritz Riehle, Uwe Sterr, Dhruv Kedar, John M. Robinson, Eric Oelker, and Jun Ye
-A crystalline reflective coating being considered for future gravitational-wave detectors exhibits peculiar noise features at cryogenic temperatures.
-
-[Phys. Rev. X 13, 041002] Published Tue Oct 03, 2023]]></summary>
-        <author>
-            <name>Jialiang Yu, Sebastian Häfner, Thomas Legero, Sofia Herbers, Daniele Nicolodi, Chun Yu Ma, Fritz Riehle, Uwe Sterr, Dhruv Kedar, John M. Robinson, Eric Oelker, and Jun Ye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final Results of GERDA on the Two-Neutrino Double-$β$ Decay Half-Life of $^{76}\mathrm{Ge}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.142501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.142501"/>
-        <updated>2023-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Agostini et al. (GERDA Collaboration)
-The GERDA collaboration has made the most precise determination of the two-neutrino double-β decay half-life of 76Ge.
-
-[Phys. Rev. Lett. 131, 142501] Published Tue Oct 03, 2023]]></summary>
-        <author>
-            <name>M. Agostini &lt;em&gt;et al.&lt;/em&gt; (GERDA Collaboration)</name>
         </author>
     </entry>
 </feed>
