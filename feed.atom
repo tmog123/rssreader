@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-26T00:42:52.321Z</id>
+    <id>urn:2023-10-27T00:43:12.671Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T00:42:52.321Z</updated>
+    <updated>2023-10-27T00:43:12.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Emergence of a Spin Microemulsion in Spin-Orbit Coupled Bose-Einstein Condensates]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.173403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.173403"/>
+        <updated>2023-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ethan C. McGarrigle, Kris T. Delaney, Leon Balents, and Glenn H. Fredrickson
+A phase that shares some properties with mayonnaise can form in a Bose-Einstein condensate.
+
+[Phys. Rev. Lett. 131, 173403] Published Thu Oct 26, 2023]]></summary>
+        <author>
+            <name>Ethan C. McGarrigle, Kris T. Delaney, Leon Balents, and Glenn H. Fredrickson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internal clock of many-body delocalization]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.134204</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.134204"/>
+        <updated>2023-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ferdinand Evers, Ishita Modak, and Soumya Bera
+For over two decades, researchers have investigated the effect of many-body interactions on Anderson localization. Early studies proposed many-body localization, i.e., strict particle confinement under strong disorder. Here, the authors challenge this notion by highlighting the prevalence of many-body delocalization in a fruit-fly model: the disordered Heisenberg chain. Its relaxation dynamics synchronize over various variables and parameters while adopting the entanglement entropy as an “internal clock”. These results suggest entanglement evolution as a novel temporal measure for a nuanced understanding of relaxation dynamics.
+
+[Phys. Rev. B 108, 134204] Published Thu Oct 26, 2023]]></summary>
+        <author>
+            <name>Ferdinand Evers, Ishita Modak, and Soumya Bera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Educational data augmentation in physics education research using ChatGPT]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020150</id>
@@ -1277,32 +1303,6 @@ Drawing from the physics of self-propelled particles, the authors introduce a ma
 [PRX Life 1, 023001] Published Thu Oct 05, 2023]]></summary>
         <author>
             <name>Tabea Heckenthaler, Tobias Holder, Ariel Amir, Ofer Feinerman, and Ehud Fonio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark Matter Constraints from Isomeric $^{178m}\mathrm{Hf}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.141801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.141801"/>
-        <updated>2023-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. S. M. Alves, S. R. Elliott, R. Massarczyk, S. J. Meijer, and H. Ramani
-A search for the collisional deexcitation of metastable 178mHf puts new constraints on the parameter space of inelastic dark matter.
-
-[Phys. Rev. Lett. 131, 141801] Published Thu Oct 05, 2023]]></summary>
-        <author>
-            <name>D. S. M. Alves, S. R. Elliott, R. Massarczyk, S. J. Meijer, and H. Ramani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gate-Defined Topological Josephson Junctions in Bernal Bilayer Graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.146601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.146601"/>
-        <updated>2023-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ying-Ming Xie, Étienne Lantagne-Hurtubise, Andrea F. Young, Stevan Nadj-Perge, and Jason Alicea
-Gapped superconductivity emerging via intervalley coherence in bilayer graphene or monolayer WSe2 can lead to formation of Majorana zero modes.
-
-[Phys. Rev. Lett. 131, 146601] Published Thu Oct 05, 2023]]></summary>
-        <author>
-            <name>Ying-Ming Xie, Étienne Lantagne-Hurtubise, Andrea F. Young, Stevan Nadj-Perge, and Jason Alicea</name>
         </author>
     </entry>
 </feed>

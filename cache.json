@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.173403",
+          "author": "Ethan C. McGarrigle, Kris T. Delaney, Leon Balents, and Glenn H. Fredrickson",
+          "description": "Author(s): Ethan C. McGarrigle, Kris T. Delaney, Leon Balents, and Glenn H. Fredrickson\nA phase that shares some properties with mayonnaise can form in a Bose-Einstein condensate.\n\n[Phys. Rev. Lett. 131, 173403] Published Thu Oct 26, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.173403",
+          "publishedOn": "2023-10-26T10:00:00.000Z",
+          "wordCount": 1193,
+          "title": "Emergence of a Spin Microemulsion in Spin-Orbit Coupled Bose-Einstein Condensates",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.173403.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.134204",
+          "author": "Ferdinand Evers, Ishita Modak, and Soumya Bera",
+          "description": "Author(s): Ferdinand Evers, Ishita Modak, and Soumya Bera\nFor over two decades, researchers have investigated the effect of many-body interactions on Anderson localization. Early studies proposed many-body localization, i.e., strict particle confinement under strong disorder. Here, the authors challenge this notion by highlighting the prevalence of many-body delocalization in a fruit-fly model: the disordered Heisenberg chain. Its relaxation dynamics synchronize over various variables and parameters while adopting the entanglement entropy as an “internal clock”. These results suggest entanglement evolution as a novel temporal measure for a nuanced understanding of relaxation dynamics.\n\n[Phys. Rev. B 108, 134204] Published Thu Oct 26, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.134204",
+          "publishedOn": "2023-10-26T10:00:00.000Z",
+          "wordCount": 1896,
+          "title": "Internal clock of many-body delocalization",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.134204.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020150",
           "author": "Fabian Kieser, Peter Wulff, Jochen Kuhn, and Stefan Küchemann",
           "description": "Author(s): Fabian Kieser, Peter Wulff, Jochen Kuhn, and Stefan Küchemann\nChatGPT can be used to answer concept inventories and subsequently generate humanlike answers.\n\n[Phys. Rev. Phys. Educ. Res. 19, 020150] Published Wed Oct 25, 2023",
@@ -181,7 +201,7 @@
           "description": "Author(s): Wenyi Zhou, Alexander J. Bishop, Xiyue S. Zhang, Katherine Robinson, Igor Lyalin, Ziling Li, Ryan Bailey-Crandell, Thow Min Jerald Cham, Shuyu Cheng, Yunqiu Kelly Luo, Daniel C. Ralph, David A. Muller, and Roland K. Kawakami\nThe heterostructures of 2D magnets and topological insulators are attractive candidates for quantum anomalous hall effect and highly-efficient spin-orbit torque switching. To better study these phenomena, it will be crucial to synthesize epitaxial heterostructures for scalability while maintaining high-quality interfaces to preserve the topological surface states and having the Curie temperature (TC) above room temperature. Here, the authors utilize molecular beam epitaxy to tune the TC in heterostructures of van der Waals (vdW) magnet Fe3GeTe2 and topological insulator Bi2Te3 to above room temperature by varying growth conditions. Electron microscopy reveals the existence of thicker vdW compounds in the FemGenTe2 family, as well as some intercalants in between vdW gaps, which are possible origins for the enhanced TC.\n\n[Phys. Rev. Materials 7, 104004] Published Mon Oct 23, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.104004",
           "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1152,
+          "wordCount": 1153,
           "title": "Tuning the Curie temperature of a two-dimensional magnet/topological insulator heterostructure to above room temperature by epitaxial growth",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.104004.png"
         },
@@ -984,26 +1004,6 @@
           "wordCount": 1593,
           "title": "Connecting cooperative transport by ants with the physics of self-propelled particles",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXLIFE/key_images/10.1103/PRXLife.1.023001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.141801",
-          "author": "D. S. M. Alves, S. R. Elliott, R. Massarczyk, S. J. Meijer, and H. Ramani",
-          "description": "Author(s): D. S. M. Alves, S. R. Elliott, R. Massarczyk, S. J. Meijer, and H. Ramani\nA search for the collisional deexcitation of metastable 178mHf puts new constraints on the parameter space of inelastic dark matter.\n\n[Phys. Rev. Lett. 131, 141801] Published Thu Oct 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.141801",
-          "publishedOn": "2023-10-05T10:00:00.000Z",
-          "wordCount": 898,
-          "title": "Dark Matter Constraints from Isomeric $^{178m}\\mathrm{Hf}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.141801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.146601",
-          "author": "Ying-Ming Xie, Étienne Lantagne-Hurtubise, Andrea F. Young, Stevan Nadj-Perge, and Jason Alicea",
-          "description": "Author(s): Ying-Ming Xie, Étienne Lantagne-Hurtubise, Andrea F. Young, Stevan Nadj-Perge, and Jason Alicea\nGapped superconductivity emerging via intervalley coherence in bilayer graphene or monolayer WSe2 can lead to formation of Majorana zero modes.\n\n[Phys. Rev. Lett. 131, 146601] Published Thu Oct 05, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.146601",
-          "publishedOn": "2023-10-05T10:00:00.000Z",
-          "wordCount": 989,
-          "title": "Gate-Defined Topological Josephson Junctions in Bernal Bilayer Graphene",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.146601.png"
         }
       ]
     }
