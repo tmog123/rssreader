@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041021",
+          "author": "D. Ganapathy <em>et al.</em> (LIGO O4 Detector Collaboration)",
+          "description": "Author(s): D. Ganapathy et al. (LIGO O4 Detector Collaboration)\nThe LIGO experiment has demonstrated a noise-squeezing technique for its entire frequency-detection range—a feat that could boost the detection rate of black hole mergers by up to 65%.\n\n[Phys. Rev. X 13, 041021] Published Mon Oct 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041021",
+          "publishedOn": "2023-10-30T10:00:00.000Z",
+          "wordCount": 1842,
+          "title": "Broadband Quantum Enhancement of the LIGO Detectors with Frequency-Dependent Squeezing",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041021.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.181901",
+          "author": "G. Aad <em>et al.</em> (ATLAS Collaboration)",
+          "description": "Author(s): G. Aad et al. (ATLAS Collaboration)\nThe Large Hadron Collider’s ATLAS Collaboration observes, for the first time, the coincident production of a photon and a top quark.\n\n[Phys. Rev. Lett. 131, 181901] Published Mon Oct 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.181901",
+          "publishedOn": "2023-10-30T10:00:00.000Z",
+          "wordCount": 819,
+          "title": "Observation of Single-Top-Quark Production in Association with a Photon Using the ATLAS Detector",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.181901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.186902",
+          "author": "Anton D. Putintsev, Kirsty E. McGhee, Denis Sannikov, Anton V. Zasedatelev, Julian D. Töpfer, Till Jessewitsch, Ullrich Scherf, David G. Lidzey, and Pavlos G. Lagoudakis",
+          "description": "Author(s): Anton D. Putintsev, Kirsty E. McGhee, Denis Sannikov, Anton V. Zasedatelev, Julian D. Töpfer, Till Jessewitsch, Ullrich Scherf, David G. Lidzey, and Pavlos G. Lagoudakis\nUltrafast and reversible manipulation of the spatial profile and energy landscape of organic polariton condensates is experimentally demonstrated in double-dye cavities by shaping both the local potential and the dissipation in real space at room temperature.\n\n[Phys. Rev. Lett. 131, 186902] Published Mon Oct 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.186902",
+          "publishedOn": "2023-10-30T10:00:00.000Z",
+          "wordCount": 1284,
+          "title": "Controlling the Spatial Profile and Energy Landscape of Organic Polariton Condensates in Double-Dye Cavities",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.186902.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.144438",
+          "author": "Ismael Ribeiro de Assis, Ingrid Mertig, and Börge Göbel",
+          "description": "Author(s): Ismael Ribeiro de Assis, Ingrid Mertig, and Börge Göbel\nSkyrmions in weak parameter gradients behave similarly to current-driven skyrmions, moving uniformly along a fixed skyrmion Hall angle relative to the current direction. This study reveals a distinct type of motion that becomes relevant for large parameter gradients: skyrmions undergo significant profile changes, resulting in a nonuniform motion. They accelerate and follow curved trajectories. Leveraging this insight, the authors introduce novel strategies for suppressing the skyrmion Hall effect, both parallel and perpendicular to the gradient direction.\n\n[Phys. Rev. B 108, 144438] Published Mon Oct 30, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.144438",
+          "publishedOn": "2023-10-30T10:00:00.000Z",
+          "wordCount": 1690,
+          "title": "Skyrmion motion in magnetic anisotropy gradients: Acceleration caused by deformation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.144438.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.172501",
           "author": "R. J. Charity, J. Wylie, S. M. Wang, T. B. Webb, K. W. Brown, G. Cerizza, Z. Chajecki, J. M. Elson, J. Estee, D. E. M. Hoff, S. A. Kuvin, W. G. Lynch, J. Manfredi, N. Michel, D. G. McNeel, P. Morfouace, W. Nazarewicz, C. D. Pruitt, C. Santamaria, S. Sweany, J. Smith, L. G. Sobotka, M. B. Tsang, and A. H. Wuosmaa",
           "description": "Author(s): R. J. Charity, J. Wylie, S. M. Wang, T. B. Webb, K. W. Brown, G. Cerizza, Z. Chajecki, J. M. Elson, J. Estee, D. E. M. Hoff, S. A. Kuvin, W. G. Lynch, J. Manfredi, N. Michel, D. G. McNeel, P. Morfouace, W. Nazarewicz, C. D. Pruitt, C. Santamaria, S. Sweany, J. Smith, L. G. Sobotka, M. B. Tsang, and A. H. Wuosmaa\nA highly unstable nucleus that decays by emitting five protons has been observed, offering an extreme case for testing nuclear models.\n\n[Phys. Rev. Lett. 131, 172501] Published Fri Oct 27, 2023",
@@ -964,46 +1004,6 @@
           "wordCount": 1227,
           "title": "Particle acceleration by magnetic Rayleigh-Taylor instability: Mechanism for flares in black hole accretion flows",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.043023.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.151001",
-          "author": "Zhen Cao <em>et al.</em> (LHAASO Collaboration)",
-          "description": "Author(s): Zhen Cao et al. (LHAASO Collaboration)\nInterstellar magnetic fields perturb the trajectories of cosmic rays, making it difficult to identify their sources. A new survey of gamma radiation produced when cosmic rays interact with the interstellar medium should help in this identification.\n\n[Phys. Rev. Lett. 131, 151001] Published Mon Oct 09, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.151001",
-          "publishedOn": "2023-10-09T10:00:00.000Z",
-          "wordCount": 1010,
-          "title": "Measurement of Ultra-High-Energy Diffuse Gamma-Ray Emission of the Galactic Plane from 10 TeV to 1 PeV with LHAASO-KM2A",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.151001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.158001",
-          "author": "Ling Liu, Yingqi Tian, Xuanye Yang, and Chungen Liu",
-          "description": "Author(s): Ling Liu, Yingqi Tian, Xuanye Yang, and Chungen Liu\nMachine learning-assisted metadynamics is used to study water autoionization, one of the most important properties of water for all biological and chemical process including electrolysis (related to batteries).\n\n[Phys. Rev. Lett. 131, 158001] Published Mon Oct 09, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.158001",
-          "publishedOn": "2023-10-09T10:00:00.000Z",
-          "wordCount": 1024,
-          "title": "Mechanistic Insights into Water Autoionization through Metadynamics Simulation Enhanced by Machine Learning",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.158001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.103501",
-          "author": "Valentin Dorel, Patrice Le Gal, and Michael Le Bars",
-          "description": "Author(s): Valentin Dorel, Patrice Le Gal, and Michael Le Bars\nPenetrative convection is the interaction between a lower turbulent convective layer of fluid and an upper stably-stratified one. It plays a key role in the atmosphere’s dynamics and in stellar interiors. In this study, we built an experiment of penetrative convection in gases which is closer to the geophysical applications. The internal gravity waves field is studied, as well as the growth of the convective layer. In our setup, the convective layer grows quadratically in time which is strikingly different from the 1/2 exponent obtained with classical models and salted water experiments.\n\n[Phys. Rev. Fluids 8, 103501] Published Mon Oct 09, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.103501",
-          "publishedOn": "2023-10-09T10:00:00.000Z",
-          "wordCount": 1314,
-          "title": "Experimental study of the penetrative convection in gases",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.103501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.104602",
-          "author": "Ryo Enoki, Tomoaki Watanabe, and Koji Nagata",
-          "description": "Author(s): Ryo Enoki, Tomoaki Watanabe, and Koji Nagata\nVelocity fields induced by small-scale shear layers and vortex tubes in turbulence are investigated with the triple decomposition of a velocity gradient tensor. The velocity fields are reconstructed with the Biot-Savart law applied to the vorticity vectors of shear and rigid-body rotation. The key image shows a mean flow pattern of small-scale shear layers in isotropic turbulence. The velocity associated with the shear layers dominates the turbulent kinetic energy budget, scalar transport, and energy cascade in isotropic turbulence and planar jets.\n\n[Phys. Rev. Fluids 8, 104602] Published Mon Oct 09, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.104602",
-          "publishedOn": "2023-10-09T10:00:00.000Z",
-          "wordCount": 1463,
-          "title": "Statistical properties of shear and nonshear velocity components in isotropic turbulence and turbulent jets",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.104602.png"
         }
       ]
     }
