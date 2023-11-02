@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T00:47:56.352Z</id>
+    <id>urn:2023-11-02T00:44:07.829Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T00:47:56.352Z</updated>
+    <updated>2023-11-02T00:44:07.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Comparative study of the superconductivity in the Holstein and optical Su-Schrieffer-Heeger models]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.184501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.184501"/>
+        <updated>2023-11-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Andy Tanjaroon Ly, Benjamin Cohen-Stead, Sohan Malkaruge Costa, and Steven Johnston
+Su-Schrieffer-Heeger (SSH) electron-phonon (e−ph) interactions have been theorized to play critical roles in several novel states of matter, ranging from nontrivial topological states to high-temperature bipolaronic superconductivity. This work compares the superconducting and competing charge and bond correlations of the two-dimensional Holstein and optical (SSH) models. The authors find that near half-filling, light SSH (bi)polarons support superconductivity to larger values of e−ph coupling compared to the Holstein polaron. These results are essential for identifying and engineering bipolaronic superconductivity in quantum materials.
+
+[Phys. Rev. B 108, 184501] Published Wed Nov 01, 2023]]></summary>
+        <author>
+            <name>Andy Tanjaroon Ly, Benjamin Cohen-Stead, Sohan Malkaruge Costa, and Steven Johnston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piezo-orbital backaction force in a rare-earth-doped crystal]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.054004</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.054004"/>
+        <updated>2023-11-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Louchet-Chauvet, P. Verlot, J.-P. Poizat, and T. Chanelière
+Hybrid optomechanics can bridge the quantum and classical domains, to generally extend quantum principles to macroscopic scale. A milestone here would be observing the fundamental backaction force that occurs when a hybrid mechanical system is optically probed, which can be dominated by classical thermal effects. Using a large ensemble of rare-earth ions in a crystal plus time-resolved tomography, researchers see this backaction as a tiny distortion of the crystal’s surface around a laser beam’s spot, and unambiguously distinguish the photothermal contribution from that of the backaction. Thus rare-earth ions in crystals are confirmed as a promising platform for hybrid optomechanics.
+
+[Phys. Rev. Applied 20, 054004] Published Wed Nov 01, 2023]]></summary>
+        <author>
+            <name>A. Louchet-Chauvet, P. Verlot, J.-P. Poizat, and T. Chanelière</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imaging electron angular distributions to assess a full-power petawatt-class laser focus]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.053101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.053101"/>
+        <updated>2023-11-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Smrithan Ravichandran, Marine Huault, Roberto Lera, Calvin Z. He, Andrew Longman, Robert Fedosejevs, Luis Roso, and Wendell T. Hill, III
+Electrons can help infer laser intensities that are too high to measure using conventional methods.
+
+[Phys. Rev. A 108, 053101] Published Wed Nov 01, 2023]]></summary>
+        <author>
+            <name>Smrithan Ravichandran, Marine Huault, Roberto Lera, Calvin Z. He, Andrew Longman, Robert Fedosejevs, Luis Roso, and Wendell T. Hill, III</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiral currents in Bose-Einstein condensates subject to current-density interactions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.053302</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.053302"/>
+        <updated>2023-11-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maria Arazo, Montserrat Guilleumas, Ricardo Mayol, Vicente Delgado, and Antonio Muñoz Mateo
+The authors study a quasi-one-dimensional Bose-Einstein condensate in a rotating ring geometry subject to a current nonlinearity. The stability of stationary states is examined both by linear excitation analysis and time evolution of the Gross-Pitaevskii equation with current-density interactions.
+
+[Phys. Rev. A 108, 053302] Published Wed Nov 01, 2023]]></summary>
+        <author>
+            <name>Maria Arazo, Montserrat Guilleumas, Ricardo Mayol, Vicente Delgado, and Antonio Muñoz Mateo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engineering Field-Insensitive Molecular Clock Transitions for Symmetry Violation Searches]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.183003</id>
@@ -1251,58 +1303,6 @@ A new method identifies the most sensitive measurement that can be performed usi
 [Phys. Rev. Lett. 131, 150802] Published Wed Oct 11, 2023]]></summary>
         <author>
             <name>Jarrod T. Reilly, John Drew Wilson, Simon B. Jäger, Christopher Wilson, and Murray J. Holland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magneto-Optical Detection of the Orbital Hall Effect in Chromium]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.156702</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.156702"/>
-        <updated>2023-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Igor Lyalin, Sanaz Alikhah, Marco Berritta, Peter M. Oppeneer, and Roland K. Kawakami
-Two different experiments on two different transition metals reveal that a current of electron orbital angular momentum flows in response to an electric field.
-
-[Phys. Rev. Lett. 131, 156702] Published Wed Oct 11, 2023]]></summary>
-        <author>
-            <name>Igor Lyalin, Sanaz Alikhah, Marco Berritta, Peter M. Oppeneer, and Roland K. Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orbital Hanle Magnetoresistance in a $3d$ Transition Metal]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.156703</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.156703"/>
-        <updated>2023-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Giacomo Sala, Hanchen Wang, William Legrand, and Pietro Gambardella
-Two different experiments on two different transition metals reveal that a current of electron orbital angular momentum flows in response to an electric field.
-
-[Phys. Rev. Lett. 131, 156703] Published Wed Oct 11, 2023]]></summary>
-        <author>
-            <name>Giacomo Sala, Hanchen Wang, William Legrand, and Pietro Gambardella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Optics Measurement Scheme for Quantum Geometry and Topological Invariants]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.156901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.156901"/>
-        <updated>2023-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Markus Lysne, Michael Schüler, and Philipp Werner
-A proposed optical setup combines a Fabry-Perot-type optical cavity with heterodyne photon detection for extracting the topological properties of two-dimensional semiconductor materials.
-
-[Phys. Rev. Lett. 131, 156901] Published Wed Oct 11, 2023]]></summary>
-        <author>
-            <name>Markus Lysne, Michael Schüler, and Philipp Werner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Green's-function treatment of Rydberg molecules with spins]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.042805</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.042805"/>
-        <updated>2023-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chris H. Greene and Matthew T. Eiles
-The authors present a method based on the Coulomb Green’s function to derive the electronic structure of ultra-long-range Rydberg molecules including spins, providing a promising alternative to the standard method based on basis-set expansion, which was shown to have serious convergence problems. Use of this approach should enable more accurate studies of Rydberg-molecule spectra and the electron-atom scattering phase shifts upon which they depend.
-
-[Phys. Rev. A 108, 042805] Published Wed Oct 11, 2023]]></summary>
-        <author>
-            <name>Chris H. Greene and Matthew T. Eiles</name>
         </author>
     </entry>
 </feed>
