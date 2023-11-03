@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042017",
+          "author": "Zachary G. Nicolaou, Guanyu Huo, Yihui Chen, Steven L. Brunton, and J. Nathan Kutz",
+          "description": "Author(s): Zachary G. Nicolaou, Guanyu Huo, Yihui Chen, Steven L. Brunton, and J. Nathan Kutz\nA new machine-learning framework enables the discovery of governing equations in pattern-forming systems parameterized by external driving conditions. The resulting data-driven models reveal effective nonlinear corrections to classical perturbation theory, enabling extrapolation including the prediction of bifurcations far from the conditions used in training.\n\n[Phys. Rev. Research 5, L042017] Published Thu Nov 02, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042017",
+          "publishedOn": "2023-11-02T10:00:00.000Z",
+          "wordCount": 1200,
+          "title": "Data-driven discovery and extrapolation of parameterized pattern-forming dynamics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.L042017.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.L052102",
+          "author": "R. K. Singh and Stanislav Burov",
+          "description": "Author(s): R. K. Singh and Stanislav Burov\nIn a large class of systems governed by rare event statistics, the probability density function for particle position shows a universal exponential decay. Using the continuous-time random walk method, this paper shows that there is a critical transition between this universal behavior and a more specific, slower decay.\n\n[Phys. Rev. E 108, L052102] Published Thu Nov 02, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.L052102",
+          "publishedOn": "2023-11-02T10:00:00.000Z",
+          "wordCount": 865,
+          "title": "Universal to nonuniversal transition of the statistics of rare events during the spread of random walks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.L052102.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054006",
+          "author": "Takashi Kikkawa, Haruka Kiguchi, Alexey A. Kaverzin, Ryo Takahashi, and Eiji Saitoh",
+          "description": "Author(s): Takashi Kikkawa, Haruka Kiguchi, Alexey A. Kaverzin, Ryo Takahashi, and Eiji Saitoh\nExploring low-temperature thermometry, particularly at the micro- to nanoscale, is essential not only for advancing thermoelectric science, but also for the development of quantum technology. The authors present a methodology and an experimental platform based on an on-chip microthermometer, enabling the detection of extremely small temperature changes in thin films, down to tens of nanokelvins. Using this approach, the authors observe the spin Peltier effect (temperature modulation induced by spin current) at 2 K. Their methods have the potential to uncover other low-temperature thermoelectric effects in microdevices, including those made of two-dimensional van der Waals materials.\n\n[Phys. Rev. Applied 20, 054006] Published Thu Nov 02, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054006",
+          "publishedOn": "2023-11-02T10:00:00.000Z",
+          "wordCount": 1619,
+          "title": "Cryogenic spin Peltier effect detected by a ${\\mathrm{Ru}\\mathrm{O}}_{2}\\text{−}{\\mathrm{Al}\\mathrm{O}}_{x}$ on-chip microthermometer",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054006.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.184501",
           "author": "Andy Tanjaroon Ly, Benjamin Cohen-Stead, Sohan Malkaruge Costa, and Steven Johnston",
           "description": "Author(s): Andy Tanjaroon Ly, Benjamin Cohen-Stead, Sohan Malkaruge Costa, and Steven Johnston\nSu-Schrieffer-Heeger (SSH) electron-phonon (e−ph) interactions have been theorized to play critical roles in several novel states of matter, ranging from nontrivial topological states to high-temperature bipolaronic superconductivity. This work compares the superconducting and competing charge and bond correlations of the two-dimensional Holstein and optical (SSH) models. The authors find that near half-filling, light SSH (bi)polarons support superconductivity to larger values of e−ph coupling compared to the Holstein polaron. These results are essential for identifying and engineering bipolaronic superconductivity in quantum materials.\n\n[Phys. Rev. B 108, 184501] Published Wed Nov 01, 2023",
@@ -111,7 +141,7 @@
           "description": "Author(s): D. Ganapathy et al. (LIGO O4 Detector Collaboration)\nThe LIGO experiment has demonstrated a noise-squeezing technique for its entire frequency-detection range—a feat that could boost the detection rate of black hole mergers by up to 65%.\n\n[Phys. Rev. X 13, 041021] Published Mon Oct 30, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041021",
           "publishedOn": "2023-10-30T10:00:00.000Z",
-          "wordCount": 1842,
+          "wordCount": 1841,
           "title": "Broadband Quantum Enhancement of the LIGO Detectors with Frequency-Dependent Squeezing",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041021.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 1967,
           "title": "Scrambling and operator entanglement in local non-Hermitian quantum systems",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.134305.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.144410",
-          "author": "R. Kohno, K. An, E. Clot, V. V. Naletov, N. Thiery, L. Vila, R. Schlitz, N. Beaulieu, J. Ben Youssef, A. Anane, V. Cros, H. Merbouche, T. Hauet, V. E. Demidov, S. O. Demokritov, G. de Loubens, and O. Klein",
-          "description": "Author(s): R. Kohno, K. An, E. Clot, V. V. Naletov, N. Thiery, L. Vila, R. Schlitz, N. Beaulieu, J. Ben Youssef, A. Anane, V. Cros, H. Merbouche, T. Hauet, V. E. Demidov, S. O. Demokritov, G. de Loubens, and O. Klein\nCombining the nonlinear properties of ferromagnets with the spin-transfer effect promises to realize a “perfect” diode with pure spin conductors. Practical implementations are nonlocal devices that emit and collect magnons between two parallel electrodes on a magnetic insulator. A diode-like current-voltage characteristic appears, which is attributed to nonlinear enhancement of the low-energy magnon population. However, its amplitude is rather small and can be explained by the strong enhancement of magnon-magnon scattering near the diode threshold. This suggests conductance by a magnon fluid instead of a frictionless condensate.\n\n[Phys. Rev. B 108, 144410] Published Thu Oct 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.144410",
-          "publishedOn": "2023-10-12T10:00:00.000Z",
-          "wordCount": 2614,
-          "title": "Nonlocal magnon transconductance in extended magnetic insulating films. I. Spin diode effect",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.144410.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.144411",
-          "author": "R. Kohno, K. An, E. Clot, V. V. Naletov, N. Thiery, L. Vila, R. Schlitz, N. Beaulieu, J. Ben Youssef, A. Anane, V. Cros, H. Merbouche, T. Hauet, V. E. Demidov, S. O. Demokritov, G. de Loubens, and O. Klein",
-          "description": "Author(s): R. Kohno, K. An, E. Clot, V. V. Naletov, N. Thiery, L. Vila, R. Schlitz, N. Beaulieu, J. Ben Youssef, A. Anane, V. Cros, H. Merbouche, T. Hauet, V. E. Demidov, S. O. Demokritov, G. de Loubens, and O. Klein\nPractical implementations of diode-like devices with pure spin conductors use magnon transport between two metallic electrodes deposited on a magnetic insulator. However, a diode-like response is only visible for a sufficiently large separation between the two electrodes. The authors attribute this behavior to the contribution of thermal magnons, which respond linearly to excitation and dominate the response for small separations. Their contribution decays rapidly with distance, revealing at large separations the nonlinear behavior that is associated with long-range propagating low-energy magnons.\n\n[Phys. Rev. B 108, 144411] Published Thu Oct 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.144411",
-          "publishedOn": "2023-10-12T10:00:00.000Z",
-          "wordCount": 2461,
-          "title": "Nonlocal magnon transconductance in extended magnetic insulating films. II. Two-fluid behavior",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.144411.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.150802",
-          "author": "Jarrod T. Reilly, John Drew Wilson, Simon B. Jäger, Christopher Wilson, and Murray J. Holland",
-          "description": "Author(s): Jarrod T. Reilly, John Drew Wilson, Simon B. Jäger, Christopher Wilson, and Murray J. Holland\nA new method identifies the most sensitive measurement that can be performed using a given quantum state, knowledge key for designing improved quantum sensors.\n\n[Phys. Rev. Lett. 131, 150802] Published Wed Oct 11, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.150802",
-          "publishedOn": "2023-10-11T10:00:00.000Z",
-          "wordCount": 941,
-          "title": "Optimal Generators for Quantum Sensing",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.150802.png"
         }
       ]
     }
