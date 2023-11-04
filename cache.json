@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041024",
+          "author": "Seunghwi Kim, Yu-Gui Peng, Simon Yves, and Andrea Alù",
+          "description": "Author(s): Seunghwi Kim, Yu-Gui Peng, Simon Yves, and Andrea Alù\nIlluminating a high-resolution lens with waves whose intensity diminishes over time can improve the image quality.\n\n[Phys. Rev. X 13, 041024] Published Fri Nov 03, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041024",
+          "publishedOn": "2023-11-03T10:00:00.000Z",
+          "wordCount": 1677,
+          "title": "Loss Compensation and Superresolution in Metamaterials with Excitations at Complex Frequencies",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041024.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.184003",
+          "author": "Hadrien Bense, Emmanuel Siéfert, and Fabian Brau",
+          "description": "Author(s): Hadrien Bense, Emmanuel Siéfert, and Fabian Brau\nThe attractive force that causes floating Cheerios to clump together increases in strength when objects are withdrawn from a liquid.\n\n[Phys. Rev. Lett. 131, 184003] Published Fri Nov 03, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.184003",
+          "publishedOn": "2023-11-03T10:00:00.000Z",
+          "wordCount": 1256,
+          "title": "Measurement of Capillary Forces Using Two Fibers Dynamically Withdrawn from a Liquid: Evidence for an Enhanced Cheerios Effect",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.184003.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.186703",
+          "author": "Xu Yang, Liang Qiu, Yan Li, Hao-Pu Xue, Jia-Nan Liu, Rui Sun, Qing-Lin Yang, Xue-Song Gai, Yan-Sheng Wei, Andrew H. Comstock, Dali Sun, Xiang-Qun Zhang, Wei He, Yusheng Hou, and Zhao-Hua Cheng",
+          "description": "Author(s): Xu Yang, Liang Qiu, Yan Li, Hao-Pu Xue, Jia-Nan Liu, Rui Sun, Qing-Lin Yang, Xue-Song Gai, Yan-Sheng Wei, Andrew H. Comstock, Dali Sun, Xiang-Qun Zhang, Wei He, Yusheng Hou, and Zhao-Hua Cheng\nAnisotropic nonlocal Gilbert damping, an effect induced by the anisotropic splitting of energy bands, has been observed experimentally for the first time in GeTe.\n\n[Phys. Rev. Lett. 131, 186703] Published Fri Nov 03, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.186703",
+          "publishedOn": "2023-11-03T10:00:00.000Z",
+          "wordCount": 1211,
+          "title": "Anisotropic Nonlocal Damping in $\\mathrm{Ferromagnet}/α\\text{−}\\mathrm{GeTe}$ Bilayers Enabled by Splitting Energy Bands",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.186703.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054008",
+          "author": "Mostafa Khezri, Alex Opremcak, Zijun Chen, Kevin C. Miao, Matt McEwen, Andreas Bengtsson, Theodore White, Ofer Naaman, Daniel Sank, Alexander N. Korotkov, Yu Chen, and Vadim Smelyanskiy",
+          "description": "Author(s): Mostafa Khezri, Alex Opremcak, Zijun Chen, Kevin C. Miao, Matt McEwen, Andreas Bengtsson, Theodore White, Ofer Naaman, Daniel Sank, Alexander N. Korotkov, Yu Chen, and Vadim Smelyanskiy\nFast nondemolition measurement of superconducting qubits is important for the operation of quantum computers, but readout is constrained by measurement-induced state transitions that shift the qubit population outside of its computational subspace. This work experimentally characterizes the phenomenon and provides an intuitive model to explain its physical process. Surprisingly, the offset charge of the transmon qubit, which is usually ignored, is important in explaining the experiments. These results inform engineering and physics-based solutions to this problem by providing performance limits for the dispersive readout of superconducting qubits.\n\n[Phys. Rev. Applied 20, 054008] Published Fri Nov 03, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054008",
+          "publishedOn": "2023-11-03T10:00:00.000Z",
+          "wordCount": 1815,
+          "title": "Measurement-induced state transitions in a superconducting qubit: Within the rotating-wave approximation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054008.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042017",
           "author": "Zachary G. Nicolaou, Guanyu Huo, Yihui Chen, Steven L. Brunton, and J. Nathan Kutz",
           "description": "Author(s): Zachary G. Nicolaou, Guanyu Huo, Yihui Chen, Steven L. Brunton, and J. Nathan Kutz\nA new machine-learning framework enables the discovery of governing equations in pattern-forming systems parameterized by external driving conditions. The resulting data-driven models reveal effective nonlinear corrections to classical perturbation theory, enabling extrapolation including the prediction of bifurcations far from the conditions used in training.\n\n[Phys. Rev. Research 5, L042017] Published Thu Nov 02, 2023",
@@ -141,7 +181,7 @@
           "description": "Author(s): D. Ganapathy et al. (LIGO O4 Detector Collaboration)\nThe LIGO experiment has demonstrated a noise-squeezing technique for its entire frequency-detection range—a feat that could boost the detection rate of black hole mergers by up to 65%.\n\n[Phys. Rev. X 13, 041021] Published Mon Oct 30, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041021",
           "publishedOn": "2023-10-30T10:00:00.000Z",
-          "wordCount": 1841,
+          "wordCount": 1842,
           "title": "Broadband Quantum Enhancement of the LIGO Detectors with Frequency-Dependent Squeezing",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041021.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1094,
           "title": "Controllable Single Cooper Pair Splitting in Hybrid Quantum Dot Systems",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.157001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.044125",
-          "author": "Claudio Bonati, Andrea Pelissetto, and Ettore Vicari",
-          "description": "Author(s): Claudio Bonati, Andrea Pelissetto, and Ettore Vicari\nThe authors study critical behavior of three-dimensional lattice gauge models. Results are consistent with predictions of the Abelian Higgs field theory and provide information of interest for statistical physics, condensed matter, and high-energy physics.\n\n[Phys. Rev. E 108, 044125] Published Thu Oct 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.044125",
-          "publishedOn": "2023-10-12T10:00:00.000Z",
-          "wordCount": 1220,
-          "title": "Coulomb-Higgs phase transition of three-dimensional lattice Abelian Higgs gauge models with noncompact gauge variables and gauge fixing",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.044125.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.086019",
-          "author": "Samuel Leutheusser and Hong Liu",
-          "description": "Author(s): Samuel Leutheusser and Hong Liu\nIn a series of two papers, the authors explore the holographic duality between an eternal AdS black hole in the bulk and two copies of the boundary CFT in the thermal field double state. They provide an explicit construction in the boundary theory of an evolution operator for a bulk in-falling observer, thus making manifest the boundary emergence of the black hole horizons, the interiors, and the associated causal structure. They also elucidate that the emergence of the sharp bulk event horizon is related to the infinite N limit of the boundary theory.\n\n[Phys. Rev. D 108, 086019] Published Thu Oct 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.086019",
-          "publishedOn": "2023-10-12T10:00:00.000Z",
-          "wordCount": 1378,
-          "title": "Causal connectability between quantum systems and the black hole interior in holographic duality",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.086019.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.086020",
-          "author": "Sam Leutheusser and Hong Liu",
-          "description": "Author(s): Sam Leutheusser and Hong Liu\nIn a series of two papers, the authors explore the holographic duality between an eternal AdS black hole in the bulk and two copies of the boundary CFT in the thermal field double state. They provide an explicit construction in the boundary theory of an evolution operator for a bulk in-falling observer, thus making manifest the boundary emergence of the black hole horizons, the interiors, and the associated causal structure. They also elucidate that the emergence of the sharp bulk event horizon is related to the infinite N limit of the boundary theory.\n\n[Phys. Rev. D 108, 086020] Published Thu Oct 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.086020",
-          "publishedOn": "2023-10-12T10:00:00.000Z",
-          "wordCount": 1769,
-          "title": "Emergent times in holographic duality",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.086020.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.134305",
-          "author": "Brian Barch, Namit Anand, Jeffrey Marshall, Eleanor Rieffel, and Paolo Zanardi",
-          "description": "Author(s): Brian Barch, Namit Anand, Jeffrey Marshall, Eleanor Rieffel, and Paolo Zanardi\nIn weakly monitored quantum systems, traditional diagnostics of operator spreading such as out-of-time-ordered-correlators and Lieb-Robinson bounds can break down, as entanglement can spread at seemingly unbounded velocity. This has the adverse effect of making integrable and chaotic quantum dynamics appear identical. However, as the authors show here, the humble quantity of global operator entanglement remains a reliable metric of chaoticity in these systems. They elucidate this by studying entanglement phase transitions in a local, non-Hermitian transverse-field Ising model under the lens of operator and quenched entanglement dynamics.\n\n[Phys. Rev. B 108, 134305] Published Thu Oct 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.134305",
-          "publishedOn": "2023-10-12T10:00:00.000Z",
-          "wordCount": 1967,
-          "title": "Scrambling and operator entanglement in local non-Hermitian quantum systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.134305.png"
         }
       ]
     }
