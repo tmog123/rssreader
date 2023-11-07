@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.094010",
+          "author": "Fabrizio Caola, Radosław Grabarczyk, Maxwell L. Hutt, Gavin P. Salam, Ludovic Scyboz, and Jesse Thaler",
+          "description": "Author(s): Fabrizio Caola, Radosław Grabarczyk, Maxwell L. Hutt, Gavin P. Salam, Ludovic Scyboz, and Jesse Thaler\nA longstanding goal in collider analysis has been to assign flavor consistently to jets of final state particles which can then be associated with the initial partons coming from hard scattering processes. This paper presents “Interleaved Flavor Neutralization” to define jets with infrared- and collinear-safe (IRC safe) flavor and clustering properties similar to successful kinematic jet definitions. The authors carry out detailed checks to show the algorithm is IRC safe to at least sixth order in the strong coupling constant.\n\n[Phys. Rev. D 108, 094010] Published Mon Nov 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.094010",
+          "publishedOn": "2023-11-06T10:00:00.000Z",
+          "wordCount": 3169,
+          "title": "Flavored jets with exact anti-${k}_{t}$ kinematics and tests of infrared and collinear safety",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.094010.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.184302",
+          "author": "Alessio Paviglianiti and Alessandro Silva",
+          "description": "Author(s): Alessio Paviglianiti and Alessandro Silva\nQuantum systems subject to external monitoring manifest a rich phenomenology in their entanglement properties. Here, the authors use quantum Fisher information to uncover a multipartite entanglement phase transition in the monitored quantum Ising chain. By changing the measurement rate, they observe a shift from bounded to long-range multipartiteness of quantum correlations. They show that the quantum Fisher information displays distinct behavior from the entanglement entropy, and the two outline different phase boundaries.\n\n[Phys. Rev. B 108, 184302] Published Mon Nov 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.184302",
+          "publishedOn": "2023-11-06T10:00:00.000Z",
+          "wordCount": 835,
+          "title": "Multipartite entanglement in the measurement-induced phase transition of the quantum Ising chain",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.184302.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041024",
           "author": "Seunghwi Kim, Yu-Gui Peng, Simon Yves, and Andrea Alù",
           "description": "Author(s): Seunghwi Kim, Yu-Gui Peng, Simon Yves, and Andrea Alù\nIlluminating a high-resolution lens with waves whose intensity diminishes over time can improve the image quality.\n\n[Phys. Rev. X 13, 041024] Published Fri Nov 03, 2023",
@@ -261,7 +281,7 @@
           "description": "Author(s): Nicolas Zorn Morales, Daniel Steffen Rühl, Sergey Sadofev, Giovanni Ligorio, Emil List-Kratochvil, Günter Kewes, and Sylke Blumstengel\nThis paper shows that the strong coupling regime between excitons in a WS2 monolayer and surface plasmon polaritons of a thin Ag film can be reached in a planar geometry of utmost simplicity. Total internal reflection ellipsometry provides a salient feature of strong coupling. The finding opens up the opportunity to engineer the light-matter interaction strength and even to tune the exciton-plasmon system between the weak and strong coupling regime via application of external stimuli.\n\n[Phys. Rev. B 108, 165426] Published Fri Oct 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.165426",
           "publishedOn": "2023-10-27T10:00:00.000Z",
-          "wordCount": 1394,
+          "wordCount": 1393,
           "title": "Strong coupling of monolayer $\\mathrm{W}{\\mathrm{S}}_{2}$ excitons and surface plasmon polaritons in a planar $\\mathrm{Ag}/\\mathrm{W}{\\mathrm{S}}_{2}$ hybrid structure",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.165426.png"
         },
@@ -601,7 +621,7 @@
           "description": "Author(s): M. Leonard, J. Van Hulle, F. Weyer, D. Terwagne, and N. Vandewalle\nExploring droplet dynamics: This study sheds light on the behavior of droplets sliding down vertical fibers, a key issue in microfluidics and fog harvesting. Using real-time tracking, the research covers single and multi-fiber systems. A standout finding is that multiple vertical fibers increase droplet speed but also lead to greater liquid loss in grooves. This discovery is captured in a detailed theoretical model, offering valuable insights for optimizing droplet-based technologies.\n\n[Phys. Rev. Fluids 8, 103601] Published Thu Oct 19, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.103601",
           "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 1107,
+          "wordCount": 1106,
           "title": "Droplets sliding on single and multiple vertical fibers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.103601.png"
         },
@@ -984,26 +1004,6 @@
           "wordCount": 955,
           "title": "Observation of the $γγ→ττ$ Process in $\\mathrm{Pb}+\\mathrm{Pb}$ Collisions and Constraints on the $τ$-Lepton Anomalous Magnetic Moment with the ATLAS Detector",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.151802.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.151803",
-          "author": "A. Tumasyan <em>et al.</em> (CMS Collaboration)",
-          "description": "Author(s): A. Tumasyan et al. (CMS Collaboration)\nThe ATLAS and CMS experiments have separately measured photon-induced τ-lepton pair production in Pb+Pb collisions, providing a novel probe of the τ anomalous magnetic moment.\n\n[Phys. Rev. Lett. 131, 151803] Published Thu Oct 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.151803",
-          "publishedOn": "2023-10-12T10:00:00.000Z",
-          "wordCount": 1046,
-          "title": "Observation of $τ$ Lepton Pair Production in Ultraperipheral Pb-Pb Collisions at $\\sqrt{{s}_{NN}}=5.02\\text{ }\\text{ }\\mathrm{TeV}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.151803.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.157001",
-          "author": "Damaz de Jong, Christian G. Prosko, Lin Han, Filip K. Malinowski, Yu Liu, Leo P. Kouwenhoven, and Wolfgang Pfaff",
-          "description": "Author(s): Damaz de Jong, Christian G. Prosko, Lin Han, Filip K. Malinowski, Yu Liu, Leo P. Kouwenhoven, and Wolfgang Pfaff\nA superconducting island with quantum dots on either side allows for coherent splitting of a single Cooper pair and detection of an emerging unpaired electron.\n\n[Phys. Rev. Lett. 131, 157001] Published Thu Oct 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.157001",
-          "publishedOn": "2023-10-12T10:00:00.000Z",
-          "wordCount": 1094,
-          "title": "Controllable Single Cooper Pair Splitting in Hybrid Quantum Dot Systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.157001.png"
         }
       ]
     }

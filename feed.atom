@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-06T00:46:05.736Z</id>
+    <id>urn:2023-11-07T00:45:33.209Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T00:46:05.736Z</updated>
+    <updated>2023-11-07T00:45:33.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Flavored jets with exact anti-${k}_{t}$ kinematics and tests of infrared and collinear safety]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.094010</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.094010"/>
+        <updated>2023-11-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fabrizio Caola, Radosław Grabarczyk, Maxwell L. Hutt, Gavin P. Salam, Ludovic Scyboz, and Jesse Thaler
+A longstanding goal in collider analysis has been to assign flavor consistently to jets of final state particles which can then be associated with the initial partons coming from hard scattering processes. This paper presents “Interleaved Flavor Neutralization” to define jets with infrared- and collinear-safe (IRC safe) flavor and clustering properties similar to successful kinematic jet definitions. The authors carry out detailed checks to show the algorithm is IRC safe to at least sixth order in the strong coupling constant.
+
+[Phys. Rev. D 108, 094010] Published Mon Nov 06, 2023]]></summary>
+        <author>
+            <name>Fabrizio Caola, Radosław Grabarczyk, Maxwell L. Hutt, Gavin P. Salam, Ludovic Scyboz, and Jesse Thaler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multipartite entanglement in the measurement-induced phase transition of the quantum Ising chain]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.184302</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.184302"/>
+        <updated>2023-11-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alessio Paviglianiti and Alessandro Silva
+Quantum systems subject to external monitoring manifest a rich phenomenology in their entanglement properties. Here, the authors use quantum Fisher information to uncover a multipartite entanglement phase transition in the monitored quantum Ising chain. By changing the measurement rate, they observe a shift from bounded to long-range multipartiteness of quantum correlations. They show that the quantum Fisher information displays distinct behavior from the entanglement entropy, and the two outline different phase boundaries.
+
+[Phys. Rev. B 108, 184302] Published Mon Nov 06, 2023]]></summary>
+        <author>
+            <name>Alessio Paviglianiti and Alessandro Silva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loss Compensation and Superresolution in Metamaterials with Excitations at Complex Frequencies]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041024</id>
@@ -1277,32 +1303,6 @@ The ATLAS and CMS experiments have separately measured photon-induced τ-lepton 
 [Phys. Rev. Lett. 131, 151802] Published Thu Oct 12, 2023]]></summary>
         <author>
             <name>G. Aad &lt;em&gt;et al.&lt;/em&gt; (ATLAS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of $τ$ Lepton Pair Production in Ultraperipheral Pb-Pb Collisions at $\sqrt{{s}_{NN}}=5.02\text{ }\text{ }\mathrm{TeV}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.151803</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.151803"/>
-        <updated>2023-10-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Tumasyan et al. (CMS Collaboration)
-The ATLAS and CMS experiments have separately measured photon-induced τ-lepton pair production in Pb+Pb collisions, providing a novel probe of the τ anomalous magnetic moment.
-
-[Phys. Rev. Lett. 131, 151803] Published Thu Oct 12, 2023]]></summary>
-        <author>
-            <name>A. Tumasyan &lt;em&gt;et al.&lt;/em&gt; (CMS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controllable Single Cooper Pair Splitting in Hybrid Quantum Dot Systems]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.157001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.157001"/>
-        <updated>2023-10-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Damaz de Jong, Christian G. Prosko, Lin Han, Filip K. Malinowski, Yu Liu, Leo P. Kouwenhoven, and Wolfgang Pfaff
-A superconducting island with quantum dots on either side allows for coherent splitting of a single Cooper pair and detection of an emerging unpaired electron.
-
-[Phys. Rev. Lett. 131, 157001] Published Thu Oct 12, 2023]]></summary>
-        <author>
-            <name>Damaz de Jong, Christian G. Prosko, Lin Han, Filip K. Malinowski, Yu Liu, Leo P. Kouwenhoven, and Wolfgang Pfaff</name>
         </author>
     </entry>
 </feed>
