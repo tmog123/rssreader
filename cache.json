@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L112601",
+          "author": "Asif Manzoor Hasan, Johan Larsson, Sergio Pirozzoli, and Rene Pecnik",
+          "description": "Author(s): Asif Manzoor Hasan, Johan Larsson, Sergio Pirozzoli, and Rene Pecnik\nThe law of the wall states that, after appropriate scaling, the mean velocity of incompressible turbulent flows near flat solid walls is a universal function of the wall-normal distance. An analogous law does not exist for compressible flows due to complexities arising from mean property variations and intrinsic compressibility effects, which occur when pressure directly changes the density of fluid elements. By accounting for both these effects, we propose a new velocity scaling that transforms the mean velocity of compressible flows to the incompressible law of the wall. This transformation is more accurate than the state-of-the-art, and is applicable to a wider range of flows.\n\n[Phys. Rev. Fluids 8, L112601] Published Thu Nov 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L112601",
+          "publishedOn": "2023-11-09T10:00:00.000Z",
+          "wordCount": 936,
+          "title": "Incorporating intrinsic compressibility effects in velocity transformations for wall-bounded turbulent flows",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L112601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.L051101",
+          "author": "Fang-Fei Wu, Ting-Yun Shi, Wei-Tou Ni, and Li-Yan Tang",
+          "description": "Author(s): Fang-Fei Wu, Ting-Yun Shi, Wei-Tou Ni, and Li-Yan Tang\nThe authors theoretically investigate the impact of Dirac negative-energy states on the E2 and M1 polarizabilities in optical clocks. They demonstrate the importance of negative-energy states for the M1 polarizability and resolve the sign inconsistency between the theoretical calculations and experimental measurements in the E2-M1 polarizability difference of the Sr clock.\n\n[Phys. Rev. A 108, L051101] Published Thu Nov 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.L051101",
+          "publishedOn": "2023-11-09T10:00:00.000Z",
+          "wordCount": 811,
+          "title": "Contribution of negative-energy states to the $E2\\text{−}M1$ polarizability of optical clocks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.L051101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.L051102",
+          "author": "S. G. Porsev, M. G. Kozlov, and M. S. Safronova",
+          "description": "Author(s): S. G. Porsev, M. G. Kozlov, and M. S. Safronova\nAn accurate formula for the magnetic-dipole polarizability that takes into account both the positive- and negative-energy-state contributions is presented. The major discrepancy between the theory and experiment is explained.\n\n[Phys. Rev. A 108, L051102] Published Thu Nov 09, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.L051102",
+          "publishedOn": "2023-11-09T10:00:00.000Z",
+          "wordCount": 735,
+          "title": "Contribution of negative-energy states to multipolar polarizabilities of the Sr optical lattice clock",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.L051102.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043131",
           "author": "Yuki Sato and Kiyoshi Kanazawa",
           "description": "Author(s): Yuki Sato and Kiyoshi Kanazawa\nAn analysis of data from the Tokyo Stock Exchange provides the first quantitative evidence for the Lillo-Mike-Farmer model—a long-standing theory in economics.\n\n[Phys. Rev. Research 5, 043131] Published Wed Nov 08, 2023",
@@ -691,7 +721,7 @@
           "description": "Author(s): M. Malinowski, D.T.C. Allcock, and C.J. Ballance\nA concrete proposal for a 1000-qubit trapped-ion quantum processor takes advantage of integrated switching electronics to reduce the wiring complexity without reducing operation fidelity.\n\n[PRX Quantum 4, 040313] Published Thu Oct 19, 2023",
           "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.040313",
           "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 2655,
+          "wordCount": 2656,
           "title": "How to Wire a $1000$-Qubit Trapped-Ion Quantum Computer",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.040313.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 1039,
           "title": "Search for Light Dark Matter with NA64 at CERN",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.161801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.161901",
-          "author": "Yan Lyu, Sinya Aoki, Takumi Doi, Tetsuo Hatsuda, Yoichi Ikeda, and Jie Meng",
-          "description": "Author(s): Yan Lyu, Sinya Aoki, Takumi Doi, Tetsuo Hatsuda, Yoichi Ikeda, and Jie Meng\nA lattice QCD computation close to the physical point finds a near-threshold virtual state in the DD* scattering channel, that suggests the formation of a loosely bound state at the physical point consistent with the experimental observation of a doubly charmed tetraquark Tcc+.\n\n[Phys. Rev. Lett. 131, 161901] Published Mon Oct 16, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.161901",
-          "publishedOn": "2023-10-16T10:00:00.000Z",
-          "wordCount": 1068,
-          "title": "Doubly Charmed Tetraquark ${T}_{cc}^{+}$ from Lattice QCD near Physical Point",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.161901.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166704",
-          "author": "Zhejunyu Jin, Xianglong Yao, Zhenyu Wang, H. Y. Yuan, Zhaozhuo Zeng, Weiwei Wang, Yunshan Cao, and Peng Yan",
-          "description": "Author(s): Zhejunyu Jin, Xianglong Yao, Zhenyu Wang, H. Y. Yuan, Zhaozhuo Zeng, Weiwei Wang, Yunshan Cao, and Peng Yan\nNonlinear scattering of magnons and skyrmions in antiferromagnets leads to a spin Hall effect that emerges from real-space topology.\n\n[Phys. Rev. Lett. 131, 166704] Published Mon Oct 16, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166704",
-          "publishedOn": "2023-10-16T10:00:00.000Z",
-          "wordCount": 1078,
-          "title": "Nonlinear Topological Magnon Spin Hall Effect",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.166704.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.167101",
-          "author": "Andreas Dechant, Jérôme Garnier-Brun, and Shin-ichi Sasa",
-          "description": "Author(s): Andreas Dechant, Jérôme Garnier-Brun, and Shin-ichi Sasa\nAn analysis of the correlation time of physical observables in steady-state diffusive systems reveals the existence of lower bounds both in and out of equilibrium.\n\n[Phys. Rev. Lett. 131, 167101] Published Mon Oct 16, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.167101",
-          "publishedOn": "2023-10-16T10:00:00.000Z",
-          "wordCount": 847,
-          "title": "Thermodynamic Bounds on Correlation Times",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.167101.png"
         }
       ]
     }
