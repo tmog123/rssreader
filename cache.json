@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.202501",
+          "author": "J. G. Cubiss <em>et al.</em>",
+          "description": "Author(s): J. G. Cubiss et al.\nCharge radii of neutron-deficient gold isotopes measured with resonance-ionization laser spectroscopy display a unique pattern that has not been observed elsewhere in the nuclear chart.\n\n[Phys. Rev. Lett. 131, 202501] Published Tue Nov 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.202501",
+          "publishedOn": "2023-11-14T10:00:00.000Z",
+          "wordCount": 1202,
+          "title": "Deformation versus Sphericity in the Ground States of the Lightest Gold Isotopes",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.202501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.203401",
+          "author": "Damien Bloch, Britton Hofer, Sam R. Cohen, Antoine Browaeys, and Igor Ferrier-Barbut",
+          "description": "Author(s): Damien Bloch, Britton Hofer, Sam R. Cohen, Antoine Browaeys, and Igor Ferrier-Barbut\nTrapping and imaging single dysprosium atoms extends the utility of optical tweezer arrays to electronically complex species, opening the door to new quantum physics studies.\n\n[Phys. Rev. Lett. 131, 203401] Published Tue Nov 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.203401",
+          "publishedOn": "2023-11-14T10:00:00.000Z",
+          "wordCount": 1107,
+          "title": "Trapping and Imaging Single Dysprosium Atoms in Optical Tweezer Arrays",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.203401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.102005",
+          "author": "D. Basilico <em>et al.</em> (Borexino Collaboration)",
+          "description": "Author(s): D. Basilico et al. (Borexino Collaboration)\nAlthough only one percent or so of the sun’s luminosity comes from the Carbon-Nitrogen-Oxygen (CNO) reaction cycle, the Borexino Collaboration has managed to discriminate neutrinos arising from this process from the dominant pp cycle. In this new study, the collaboration uses a recently developed technique called the “correlated integrated directionality” (CID) method. This is an efficient way to separate solar neutrinos from background sources and further refine the detection of CNO cycle neutrinos through spectral analysis.\n\n[Phys. Rev. D 108, 102005] Published Tue Nov 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.102005",
+          "publishedOn": "2023-11-14T10:00:00.000Z",
+          "wordCount": 1765,
+          "title": "Final results of Borexino on CNO solar neutrinos",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.102005.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.108.L051602",
+          "author": "Richard Gumbel, Christian Ross, and A. S. Umar",
+          "description": "Author(s): Richard Gumbel, Christian Ross, and A. S. Umar\nHeavy-ion fusion is a major research area, and practical approaches to describe the evolution of the nucleon movement across the barrier between the two nuclei are highly relevant for elucidating the essential dynamics of the fusion process. When two nuclei approach each other to distances where the nuclear force becomes active, neutrons and protons could move from one nucleus to the other. This movement could open and facilitate the pathway to fusion. The authors employ a microscopic many-body approach based on the density-constrained time-dependent Hartree-Fock calculations to study the impact of isospin (i.e., proton versus neutron) dynamics on low-energy nuclear fusion along an isotope chain and its dependence on the deformation of the colliding nuclei. In asymmetric systems, iso-vector dynamics plays a significant role. Its typical effect is a reduction in the potential barrier, which turns into enhancement for neutron-rich systems. These effects could be studied at facilities that provide beams of exotic, unstable nuclei.\n\n[Phys. Rev. C 108, L051602] Published Tue Nov 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.108.L051602",
+          "publishedOn": "2023-11-14T10:00:00.000Z",
+          "wordCount": 1121,
+          "title": "Role of isospin composition in low-energy nuclear fusion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.108.L051602.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.201401",
           "author": "Gabriele Franciolini, Antonio Junior Iovino, Ville Vaskonen, and Hardi Veermäe",
           "description": "Author(s): Gabriele Franciolini, Antonio Junior Iovino, Ville Vaskonen, and Hardi Veermäe\nThe balance between the abundance of primordial black holes and non-Gaussianities is reanalyzed in light of the recent NANOGrav data.\n\n[Phys. Rev. Lett. 131, 201401] Published Mon Nov 13, 2023",
@@ -461,7 +501,7 @@
           "description": "Author(s): R. J. Charity and L. G. Sobotka\nA highly unstable nucleus that decays by emitting five protons has been observed, offering an extreme case for testing nuclear models.\n\n[Phys. Rev. C 108, 044318] Published Fri Oct 27, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevC.108.044318",
           "publishedOn": "2023-10-27T10:00:00.000Z",
-          "wordCount": 2173,
+          "wordCount": 2172,
           "title": "Invariant-mass spectroscopy in projectile fragmentation reactions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.108.044318.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1019,
           "title": "Femtosecond Reduction of Atomic Scattering Factors Triggered by Intense X-Ray Pulse",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.163201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166703",
-          "author": "Cheng Tan, Ji-Hai Liao, Guolin Zheng, Meri Algarni, Jia-Yi Lin, Xiang Ma, Edwin L. H. Mayes, Matthew R. Field, Sultan Albarakati, Majid Panahandeh-Fard, Saleh Alzahrani, Guopeng Wang, Yuanjun Yang, Dimitrie Culcer, James Partridge, Mingliang Tian, Bin Xiang, Yu-Jun Zhao, and Lan Wang",
-          "description": "Author(s): Cheng Tan, Ji-Hai Liao, Guolin Zheng, Meri Algarni, Jia-Yi Lin, Xiang Ma, Edwin L. H. Mayes, Matthew R. Field, Sultan Albarakati, Majid Panahandeh-Fard, Saleh Alzahrani, Guopeng Wang, Yuanjun Yang, Dimitrie Culcer, James Partridge, Mingliang Tian, Bin Xiang, Yu-Jun Zhao, and Lan Wang\nA ferromagnetism to antiferromagnetism phase transition in a van der Waals magnet at room temperature uses CrTe nanoflakes that may lead to improved spintronic devices.\n\n[Phys. Rev. Lett. 131, 166703] Published Tue Oct 17, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166703",
-          "publishedOn": "2023-10-17T10:00:00.000Z",
-          "wordCount": 1313,
-          "title": "Room-Temperature Magnetic Phase Transition in an Electrically Tuned van der Waals Ferromagnet",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.166703.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.134423",
-          "author": "GiBaik Sim, Frank Pollmann, and Johannes Knolle",
-          "description": "Author(s): GiBaik Sim, Frank Pollmann, and Johannes Knolle\nThis work explores the effectiveness of two-dimensional coherent spectroscopy for understanding the microscopic properties of quantum magnets. Motivated by experiments on the Ising chain magnet CoNb2O6, it is shown that the 2D spectra are markedly different for the two proposed microscopic Hamiltonians - the transverse field Ising model and the twisted Kitaev spin chain - even though the linear response is similar. The findings showcase the power of 2D spectroscopy for quantifying microscopic descriptions and understanding the dynamics of fractionalized excitations of quantum magnets.\n\n[Phys. Rev. B 108, 134423] Published Tue Oct 17, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.134423",
-          "publishedOn": "2023-10-17T10:00:00.000Z",
-          "wordCount": 1057,
-          "title": "Microscopic details of two-dimensional spectroscopy of one-dimensional quantum Ising magnets",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.134423.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.144418",
-          "author": "Charles R. W. Steward, Rafael M. Fernandes, and Jörg Schmalian",
-          "description": "Author(s): Charles R. W. Steward, Rafael M. Fernandes, and Jörg Schmalian\nAltermagnetic states are qualitatively different from ferromagnetic and antiferromagnetic ones, as they are invariant under a combination of rotation and time reversal. The unique properties afforded by such symmetries have attracted significant attention by the community. Here, the authors unearth an unusual dynamic coupling that exists between the altermagnetic and lattice degrees of freedom, which resembles the Hall viscosity. This effect results in a hybridization between altermagnetic and phonon modes, enabling one to directly probe altermagnetic excitations in the phonon spectrum.\n\n[Phys. Rev. B 108, 144418] Published Tue Oct 17, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.144418",
-          "publishedOn": "2023-10-17T10:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Dynamic paramagnon-polarons in altermagnets",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.144418.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.155306",
-          "author": "Peter Stano, Takashi Nakajima, Akito Noiri, Seigo Tarucha, and Daniel Loss",
-          "description": "Author(s): Peter Stano, Takashi Nakajima, Akito Noiri, Seigo Tarucha, and Daniel Loss\nWhen a quantum-dot electron spin is electrically driven to perform coherent Rabi oscillations, it can polarize nuclear spins through a resonance analogous to the Hartmann-Hahn effect known from NMR. Here, the authors theoretically analyze such a polarization rate in a generic setup including GaAs, Si, and Ge, and both electron and hole spin qubits. They present measurements in n-GaAs and estimate that the effect is also observable in Si. It might offer control over the Overhauser nuclear field in gated quantum dots.\n\n[Phys. Rev. B 108, 155306] Published Tue Oct 17, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.155306",
-          "publishedOn": "2023-10-17T10:00:00.000Z",
-          "wordCount": 1931,
-          "title": "Dynamical nuclear spin polarization in a quantum dot with an electron spin driven by electric dipole spin resonance",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.155306.png"
         }
       ]
     }
