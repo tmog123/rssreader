@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-15T00:46:40.980Z</id>
+    <id>urn:2023-11-16T00:47:37.404Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T00:46:40.980Z</updated>
+    <updated>2023-11-16T00:47:37.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tailoring hierarchical nanoporous gold on dual length scales]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.116001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.116001"/>
+        <updated>2023-11-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lukas Riedel, Jürgen Markmann, Jörg Weissmüller, and Shan Shi
+Researchers can fabricate gold foams that feature small and large pores with specific sizes.
+
+[Phys. Rev. Materials 7, 116001] Published Wed Nov 15, 2023]]></summary>
+        <author>
+            <name>Lukas Riedel, Jürgen Markmann, Jörg Weissmüller, and Shan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemomechanical model of sperm locomotion reveals two modes of swimming]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.113102</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.113102"/>
+        <updated>2023-11-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chenji Li, Brato Chakrabarti, Pedro Castilla, Achal Mahajan, and David Saintillan
+We present a chemomechanical model to analyze the propulsion of mammalian spermatozoa. The model accounts for motor kinetics, flagellar deformations, and the hydrodynamics of the suspending fluid. Simulations demonstrate spontaneous oscillations leading to realistic swimming patterns. Notably, the swimming velocity exhibits two distinct peaks as a function of the activity of the molecular motors. These peaks are characterized by distinct waveforms and trajectories. Our findings contribute to a deeper understanding of the biophysical mechanisms involved in sperm locomotion.
+
+[Phys. Rev. Fluids 8, 113102] Published Wed Nov 15, 2023]]></summary>
+        <author>
+            <name>Chenji Li, Brato Chakrabarti, Pedro Castilla, Achal Mahajan, and David Saintillan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deformation versus Sphericity in the Ground States of the Lightest Gold Isotopes]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.202501</id>
@@ -1277,32 +1303,6 @@ The authors study the loss of light coherence when scattered by a macroscopic at
 [Phys. Rev. A 108, 042214] Published Wed Oct 18, 2023]]></summary>
         <author>
             <name>Pierre Lassègues, Mateus Antônio Fernandes Biscassi, Martial Morisse, André Cidrim, Pablo Gabriel Santos Dias, Hodei Eneriz, Raul Celistrino Teixeira, Robin Kaiser, Romain Bachelard, and Mathilde Hugbart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement of the Positive Muon Anomalous Magnetic Moment to 0.20 ppm]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.161802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.161802"/>
-        <updated>2023-10-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. P. Aguillard et al. (The Muon g−2 Collaboration)
-The magnetic moment of the muon, a key probe of the standard model and its possible extensions, has been measured to a precision of 200 parts per billion, 2.3 times more precise than their first landmark result.
-
-[Phys. Rev. Lett. 131, 161802] Published Tue Oct 17, 2023]]></summary>
-        <author>
-            <name>D. P. Aguillard &lt;em&gt;et al.&lt;/em&gt; (The Muon &lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"&gt;&lt;mi&gt;g&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/math&gt; Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Femtosecond Reduction of Atomic Scattering Factors Triggered by Intense X-Ray Pulse]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.163201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.163201"/>
-        <updated>2023-10-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ichiro Inoue, Jumpei Yamada, Konrad J. Kapcia, Michal Stransky, Victor Tkachenko, Zoltan Jurek, Takato Inoue, Taito Osaka, Yuichi Inubushi, Atsuki Ito, Yuto Tanaka, Satoshi Matsuyama, Kazuto Yamauchi, Makina Yabashi, and Beata Ziaja
-Measurements indicate that intense x-ray pulses can change the electronic structure of a material on femtosecond timescales, a finding that could improve imaging of light–matter interactions.
-
-[Phys. Rev. Lett. 131, 163201] Published Tue Oct 17, 2023]]></summary>
-        <author>
-            <name>Ichiro Inoue, Jumpei Yamada, Konrad J. Kapcia, Michal Stransky, Victor Tkachenko, Zoltan Jurek, Takato Inoue, Taito Osaka, Yuichi Inubushi, Atsuki Ito, Yuto Tanaka, Satoshi Matsuyama, Kazuto Yamauchi, Makina Yabashi, and Beata Ziaja</name>
         </author>
     </entry>
 </feed>
