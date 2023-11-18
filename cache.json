@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.201001",
+          "author": "Samuel Goldstein, J. Colin Hill, Vid Iršič, and Blake D. Sherwin",
+          "description": "Author(s): Samuel Goldstein, J. Colin Hill, Vid Iršič, and Blake D. Sherwin\nAn early-Universe spike in dark energy could resolve a disagreement between two cosmic-expansion-rate measurements, but such a spike may conflict with observations of quasar spectra.\n\n[Phys. Rev. Lett. 131, 201001] Published Fri Nov 17, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.201001",
+          "publishedOn": "2023-11-17T10:00:00.000Z",
+          "wordCount": 1221,
+          "title": "Canonical Hubble-Tension-Resolving Early Dark Energy Cosmologies Are Inconsistent with the Lyman-$α$ Forest",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.201001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.204002",
+          "author": "L.-P. Euvé, K. Pham, R. Porter, P. Petitjeans, V. Pagneux, and A. Maurel",
+          "description": "Author(s): L.-P. Euvé, K. Pham, R. Porter, P. Petitjeans, V. Pagneux, and A. Maurel\nCavities at the sides of a water channel can cause waves to be completely absorbed, suggesting new techniques for protecting coastlines.\n\n[Phys. Rev. Lett. 131, 204002] Published Fri Nov 17, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.204002",
+          "publishedOn": "2023-11-17T10:00:00.000Z",
+          "wordCount": 1136,
+          "title": "Perfect Resonant Absorption of Guided Water Waves by Autler-Townes Splitting",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.204002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.103523",
+          "author": "Tomasz Krajewski, Marek Lewicki, and Mateusz Zych",
+          "description": "Author(s): Tomasz Krajewski, Marek Lewicki, and Mateusz Zych\nThe authors use numerical lattice simulations to study bubble nucleation in cosmological phase transitions. The terminal bubble velocity is an important parameter for the primordial gravitational wave spectrum as well as for electroweak (EW) baryogenesis. They are able to study an extreme parameter space that is the most promising for these phenomena. However, they find a hydrodynamical obstruction that creates a velocity gap that excludes the most promising models for EW baryogenesis, making it improbable to contribute to the solution of the baryon asymmetry problem.\n\n[Phys. Rev. D 108, 103523] Published Fri Nov 17, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.103523",
+          "publishedOn": "2023-11-17T10:00:00.000Z",
+          "wordCount": 1033,
+          "title": "Hydrodynamical constraints on the bubble wall velocity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.103523.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.205418",
+          "author": "Dong-min Kim, Jeongmin Nam, and Bong Jae Lee",
+          "description": "Author(s): Dong-min Kim, Jeongmin Nam, and Bong Jae Lee\nRecently, the thermal energy carried by surface waves along the boundaries of a thin film has drawn much attention. This work reports the measured plasmon thermal conductivity of novel metal films on a glass substrate with a Ti adhesive layer. When considering the size effect of the metal permittivity, a decrease of approximately 30% in plasmon thermal conductivity is observed. The authors demonstrate that the plasmon thermal conductivity of Au and Ag films can reach about 20% of their electron contribution.\n\n[Phys. Rev. B 108, 205418] Published Fri Nov 17, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.205418",
+          "publishedOn": "2023-11-17T10:00:00.000Z",
+          "wordCount": 1071,
+          "title": "Plasmon thermal conductivity of thin Au and Ag films",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.205418.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.053317",
+          "author": "Timur V. Tscherbul and Jose P. D'Incao",
+          "description": "Author(s): Timur V. Tscherbul and Jose P. D'Incao\nThe authors explore an alternative basis set for incorporating the effects of hyperfine structure and external magnetic fields in quantum scattering calculations on ultracold molecular collisions. The basis set combines the computational efficiency of the total-angular-momentum basis with the ease of evaluating matrix elements pertinent to the fully uncoupled basis.\n\n[Phys. Rev. A 108, 053317] Published Fri Nov 17, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.053317",
+          "publishedOn": "2023-11-17T10:00:00.000Z",
+          "wordCount": 1155,
+          "title": "Ultracold molecular collisions in magnetic fields: Efficient incorporation of hyperfine structure in the total rotational angular momentum representation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.053317.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.202303",
           "author": "Manjunath Omana Kuttan, Jan Steinheimer, Kai Zhou, and Horst Stoecker",
           "description": "Author(s): Manjunath Omana Kuttan, Jan Steinheimer, Kai Zhou, and Horst Stoecker\nA Bayesian analysis of heavy-ion collisions at intermediate collision energies puts strong constraints on the equation of state at large chemical potential and zero temperature.\n\n[Phys. Rev. Lett. 131, 202303] Published Thu Nov 16, 2023",
@@ -904,106 +954,6 @@
           "wordCount": 1748,
           "title": "Cost and routing of continuous-variable quantum networks",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.042615.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.4.040313",
-          "author": "M. Malinowski, D.T.C. Allcock, and C.J. Ballance",
-          "description": "Author(s): M. Malinowski, D.T.C. Allcock, and C.J. Ballance\nA concrete proposal for a 1000-qubit trapped-ion quantum processor takes advantage of integrated switching electronics to reduce the wiring complexity without reducing operation fidelity.\n\n[PRX Quantum 4, 040313] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.4.040313",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 2655,
-          "title": "How to Wire a $1000$-Qubit Trapped-Ion Quantum Computer",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.4.040313.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042013",
-          "author": "Guram Mikaberidze, Arthur Plaud, and Raissa M. D'Souza",
-          "description": "Author(s): Guram Mikaberidze, Arthur Plaud, and Raissa M. D'Souza\nModels of self-organized criticality can surprisingly produce dragon king failures—massive, self-amplifying cascading events. It is analytically demonstrated that dragon kings are created by the trade-off between driving impulse and dissipation rate.\n\n[Phys. Rev. Research 5, L042013] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042013",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 1067,
-          "title": "Dragon kings in self-organized criticality systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.L042013.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.104406",
-          "author": "Linus Kautzsch, Alexandru B. Georgescu, Danilo Puggioni, Greggory Kent, Keith M. Taddei, Aiden Reilly, Ram Seshadri, James M. Rondinelli, and Stephen D. Wilson",
-          "description": "Author(s): Linus Kautzsch, Alexandru B. Georgescu, Danilo Puggioni, Greggory Kent, Keith M. Taddei, Aiden Reilly, Ram Seshadri, James M. Rondinelli, and Stephen D. Wilson\nTernary nitrides are a burgeoning materials class hosting diverse structures, compositions, and properties that make them appealing for various applications. Magnetic nitrogen-rich compounds generally remain underexplored, despite the unique chemical bonding afforded by the N3− ion with open d-shell transition metals. Here, the authors explore the compound MnSiN2 where Mn2+ ions reside on a 3D diamond-like covalent network with strong magnetic superexchange pathways. The compound exhibits a high Néel ordering temperature of TN = 443 K and the precise canted ground state magnetic structure is resolved using a combination of DFT modeling and powder neutron diffraction.\n\n[Phys. Rev. Materials 7, 104406] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.104406",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 1204,
-          "title": "Canted antiferromagnetism in polar ${\\mathrm{MnSiN}}_{2}$ with high Néel temperature",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.104406.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.162302",
-          "author": "Peter Arnold, Omar Elgedawy, and Shahin Iqbal",
-          "description": "Author(s): Peter Arnold, Omar Elgedawy, and Shahin Iqbal\nA theoretical study demonstrates that in-medium showers of high-energy gluons can be approximately treated as a sequence of individual splitting processes.\n\n[Phys. Rev. Lett. 131, 162302] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.162302",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 798,
-          "title": "Are Gluon Showers inside a Quark-Gluon Plasma Strongly Coupled? A Theorist’s Test",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.162302.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166601",
-          "author": "Isaac H. Kim, Michael Levin, Ting-Chun Lin, Daniel Ranard, and Bowen Shi",
-          "description": "Author(s): Isaac H. Kim, Michael Levin, Ting-Chun Lin, Daniel Ranard, and Bowen Shi\nA lower bound to the topological entanglement entropy partially restores its universality.\n\n[Phys. Rev. Lett. 131, 166601] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.166601",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 951,
-          "title": "Universal Lower Bound on Topological Entanglement Entropy",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.166601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.103601",
-          "author": "M. Leonard, J. Van Hulle, F. Weyer, D. Terwagne, and N. Vandewalle",
-          "description": "Author(s): M. Leonard, J. Van Hulle, F. Weyer, D. Terwagne, and N. Vandewalle\nExploring droplet dynamics: This study sheds light on the behavior of droplets sliding down vertical fibers, a key issue in microfluidics and fog harvesting. Using real-time tracking, the research covers single and multi-fiber systems. A standout finding is that multiple vertical fibers increase droplet speed but also lead to greater liquid loss in grooves. This discovery is captured in a detailed theoretical model, offering valuable insights for optimizing droplet-based technologies.\n\n[Phys. Rev. Fluids 8, 103601] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.103601",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 1107,
-          "title": "Droplets sliding on single and multiple vertical fibers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.103601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.074015",
-          "author": "Peter Arnold, Omar Elgedawy, and Shahin Iqbal",
-          "description": "Author(s): Peter Arnold, Omar Elgedawy, and Shahin Iqbal\nA theoretical study demonstrates that in-medium showers of high-energy gluons can be approximately treated as a sequence of individual splitting processes.\n\n[Phys. Rev. D 108, 074015] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.074015",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 1968,
-          "title": "Landau-Pomeranchuk-Migdal effect in sequential bremsstrahlung: Gluon shower development",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.074015.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.074513",
-          "author": "A. Evangelista, R. Frezzotti, N. Tantalo, G. Gagliardi, F. Sanfilippo, S. Simula, and V. Lubicz (Extended Twisted Mass Collaboration)",
-          "description": "Author(s): A. Evangelista, R. Frezzotti, N. Tantalo, G. Gagliardi, F. Sanfilippo, S. Simula, and V. Lubicz (Extended Twisted Mass Collaboration)\nThe authors express the inclusive hadronic decay rate of the tau lepton as an integral over the spectral density of the two-point correlator of the weak V−A hadronic current which they compute fully nonperturbatively in lattice QCD. In a lattice QCD computation with all systematic errors except for isospin breaking effects under control, they then obtain the CKM matrix element Vud with subpercent errors showing that their nonperturbative method can become a viable alternative to superallowed nuclear beta decays for obtaining Vud.\n\n[Phys. Rev. D 108, 074513] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.074513",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 1526,
-          "title": "Inclusive hadronic decay rate of the $τ$ lepton from lattice QCD",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.074513.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.082005",
-          "author": "Baptiste Jost, Josquin Errard, and Radek Stompor",
-          "description": "Author(s): Baptiste Jost, Josquin Errard, and Radek Stompor\nThe authors propose a new analysis framework to account simultaneously for Galactic foregrounds and instrumental effects, in order to break the degeneracy between Cosmic Birefringence (CB) angle and Cosmic Microwave Background detector effects. They thus pave the way for Simons Observatory-like Small Aperture Telescopes to test claims for CB detection.\n\n[Phys. Rev. D 108, 082005] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.082005",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 1267,
-          "title": "Characterizing cosmic birefringence in the presence of Galactic foregrounds and instrumental systematic effects",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.082005.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.042419",
-          "author": "Francisco Riberi, Gerardo A. Paz-Silva, and Lorenza Viola",
-          "description": "Author(s): Francisco Riberi, Gerardo A. Paz-Silva, and Lorenza Viola\nThe authors consider frequency estimation in the presence of spatiotemporally correlated noise. They show that the usual approach involving unbiased estimators is ill-suited in such cases, and introduce new estimators which, at the cost of doubling the required resources, are insensitive to noise and retain the precision scaling of standard ones.\n\n[Phys. Rev. A 108, 042419] Published Thu Oct 19, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.042419",
-          "publishedOn": "2023-10-19T10:00:00.000Z",
-          "wordCount": 1422,
-          "title": "Nearly Heisenberg-limited noise-unbiased frequency estimation by tailored sensor design",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.042419.png"
         }
       ]
     }
