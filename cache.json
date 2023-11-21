@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020160",
+          "author": "Vidushi Adlakha and Eric Kuo",
+          "description": "Author(s): Vidushi Adlakha and Eric Kuo\nA starting point for researchers to learn more about the causal inference methods and analysis techniques that have been developed outside the field of PER.\n\n[Phys. Rev. Phys. Educ. Res. 19, 020160] Published Mon Nov 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020160",
+          "publishedOn": "2023-11-20T10:00:00.000Z",
+          "wordCount": 1193,
+          "title": "Critical issues in statistical causal inference for observational physics education research",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRPER/key_images/10.1103/PhysRevPhysEducRes.19.020160.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.218401",
+          "author": "John M. McBride, Konstantin Polev, Amirbek Abdirasulov, Vladimir Reinharz, Bartosz A. Grzybowski, and Tsvi Tlusty",
+          "description": "Author(s): John M. McBride, Konstantin Polev, Amirbek Abdirasulov, Vladimir Reinharz, Bartosz A. Grzybowski, and Tsvi Tlusty\nA new method based on AlphaFold2 improves the precision of single-mutation predictions for protein folding.\n\n[Phys. Rev. Lett. 131, 218401] Published Mon Nov 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.218401",
+          "publishedOn": "2023-11-20T10:00:00.000Z",
+          "wordCount": 1209,
+          "title": "AlphaFold2 Can Predict Single-Mutation Effects",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.218401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.174432",
+          "author": "Xianghan Xu, Lijun Wu, Yimei Zhu, and R. J. Cava",
+          "description": "Author(s): Xianghan Xu, Lijun Wu, Yimei Zhu, and R. J. Cava\nAs a Kramers ion, Co2+ can function as an effective spin-half ion, exhibiting large quantum fluctuations that give rise to rich and intriguing magnetic behaviors. Here, the authors present the synthesis of sizable single crystals of K2Co2TeO6. The structural characterization reveals a layered structure with an undistorted Co2+ honeycomb lattice stacking together. Magnetization and thermodynamics data unveil intricate magnetic phases and competing interactions. These results establish a promising platform for exploring Kitaev interactions and discovering exotic quantum phases.\n\n[Phys. Rev. B 108, 174432] Published Mon Nov 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.174432",
+          "publishedOn": "2023-11-20T10:00:00.000Z",
+          "wordCount": 1116,
+          "title": "${\\mathrm{K}}_{2}{\\mathrm{Co}}_{2}{\\mathrm{TeO}}_{6}$: A layered magnet with a $S=\\frac{1}{2}\\phantom{\\rule{0.16em}{0ex}}{\\mathrm{Co}}^{2+}$ honeycomb lattice",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.174432.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.205142",
+          "author": "Mário G. Silveirinha",
+          "description": "Author(s): Mário G. Silveirinha\nNontrivial topological phases in electronic materials are often associated with the quantization of the Hall conductivity. Here, the author introduces a photonic analogue of this phenomenon. It is shown that the physical acceleration of a material can induce a photon flow in a direction perpendicular to the acceleration, analogous to the electronic Hall effect. For nonreciprocal materials, the response function linking the induced energy flow with the acceleration is quantized and is determined by the photonic gap Chern number.\n\n[Phys. Rev. B 108, 205142] Published Mon Nov 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.205142",
+          "publishedOn": "2023-11-20T10:00:00.000Z",
+          "wordCount": 1119,
+          "title": "Shaking photons out of a topological material",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.205142.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054040",
+          "author": "Adomas Baliuka, Markus Stöcker, Michael Auer, Peter Freiwang, Harald Weinfurter, and Lukas Knips",
+          "description": "Author(s): Adomas Baliuka, Markus Stöcker, Michael Auer, Peter Freiwang, Harald Weinfurter, and Lukas Knips\nQuantum key distribution (QKD) is a technique that allows two distant parties to distribute and share a common secret, which then can be used as a cryptographic key. While mathematical proofs verify the security of perfectly implemented systems, imperfections in real devices allow attackers to retrieve information. This study uses machine-learning techniques to investigate information leakage via radio-frequency emissions of QKD device electronics. The approach allows researchers and engineers to harden devices against attacks.\n\n[Phys. Rev. Applied 20, 054040] Published Mon Nov 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054040",
+          "publishedOn": "2023-11-20T10:00:00.000Z",
+          "wordCount": 1782,
+          "title": "Deep-learning-based radio-frequency side-channel attack on quantum key distribution",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054040.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.052610",
+          "author": "Marta Gilaberte Basset, René Sondenheimer, Jorge Fuenzalida, Andres Vega, Sebastian Töpfer, Elkin A. Santos, Sina Saravi, Frank Setzpfandt, Fabian Steinlechner, and Markus Gräfe",
+          "description": "Author(s): Marta Gilaberte Basset, René Sondenheimer, Jorge Fuenzalida, Andres Vega, Sebastian Töpfer, Elkin A. Santos, Sina Saravi, Frank Setzpfandt, Fabian Steinlechner, and Markus Gräfe\nThe authors explore the resolution dependency of imaging with undetected light, specifically the connection between spatial resolution and the strength of position correlations of SPDC-generated photons. Their results show a discrepancy from theoretical models, so they introduce an extended model that better takes image resolution into account.\n\n[Phys. Rev. A 108, 052610] Published Mon Nov 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.052610",
+          "publishedOn": "2023-11-20T10:00:00.000Z",
+          "wordCount": 2013,
+          "title": "Experimental analysis of image resolution of quantum imaging with undetected light through position correlations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.052610.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.201001",
           "author": "Samuel Goldstein, J. Colin Hill, Vid Iršič, and Blake D. Sherwin",
           "description": "Author(s): Samuel Goldstein, J. Colin Hill, Vid Iršič, and Blake D. Sherwin\nAn early-Universe spike in dark energy could resolve a disagreement between two cosmic-expansion-rate measurements, but such a spike may conflict with observations of quasar spectra.\n\n[Phys. Rev. Lett. 131, 201001] Published Fri Nov 17, 2023",
