@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T00:48:18.569Z</id>
+    <id>urn:2023-11-29T00:47:47.385Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T00:48:18.569Z</updated>
+    <updated>2023-11-29T00:47:47.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Superconductivity Studied by Solving <i>Ab Initio</i> Low-Energy Effective Hamiltonians for Carrier Doped ${\mathrm{CaCuO}}_{2}$, ${\mathrm{Bi}}_{2}{\mathrm{Sr}}_{2}{\mathrm{CuO}}_{6}$, ${\mathrm{Bi}}_{2}{\mathrm{Sr}}_{2}{\mathrm{CaCu}}_{2}{\mathrm{O}}_{8}$, and ${\mathrm{HgBa}}_{2}{\mathrm{CuO}}_{4}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041036</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041036"/>
+        <updated>2023-11-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Michael Thobias Schmid, Jean-Baptiste Morée, Ryui Kaneko, Youhei Yamaji, and Masatoshi Imada
+A first-principles model accounts for the wide range of critical temperatures (Tc’s) for four materials and suggests a parameter that determines Tc in any high-temperature superconductor.
+
+[Phys. Rev. X 13, 041036] Published Tue Nov 28, 2023]]></summary>
+        <author>
+            <name>Michael Thobias Schmid, Jean-Baptiste Morée, Ryui Kaneko, Youhei Yamaji, and Masatoshi Imada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-Shot Measurements of Phonon Number States Using the Autler-Townes Effect]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.223603</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.223603"/>
+        <updated>2023-11-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Marion Mallweger, Murilo Henrique de Oliveira, Robin Thomm, Harry Parke, Natalia Kuk, Gerard Higgins, Romain Bachelard, Celso Jorge Villas-Boas, and Markus Hennrich
+A new method based on the Autler-Townes effect can be used to measure the motional states of trapped ions in the number basis.
+
+[Phys. Rev. Lett. 131, 223603] Published Tue Nov 28, 2023]]></summary>
+        <author>
+            <name>Marion Mallweger, Murilo Henrique de Oliveira, Robin Thomm, Harry Parke, Natalia Kuk, Gerard Higgins, Romain Bachelard, Celso Jorge Villas-Boas, and Markus Hennrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model for Nonrelativistic Topological Multiferroic Matter]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.226801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.226801"/>
+        <updated>2023-11-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Guidobeth Saez, Mario A. Castro, Sebastian Allende, and Alvaro S. Nunez
+A minimal model shows that different magnetic configurations give rise to electric polarization stemming from a nontrivial Berry phase of the system without spin-orbit coupling.
+
+[Phys. Rev. Lett. 131, 226801] Published Tue Nov 28, 2023]]></summary>
+        <author>
+            <name>Guidobeth Saez, Mario A. Castro, Sebastian Allende, and Alvaro S. Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic structure, dimer physics, orbital-selective behavior, and magnetic tendencies in the bilayer nickelate superconductor ${\mathrm{La}}_{3}{\mathrm{Ni}}_{2}{\mathrm{O}}_{7}$ under pressure]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L180510</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L180510"/>
+        <updated>2023-11-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yang Zhang, Ling-Fang Lin, Adriana Moreo, and Elbio Dagotto
+The recently discovered high-temperature superconductor La3Ni2O7 with Tc ~ 80 K under pressure has revolutionized the field of correlated electrons. The authors find here that an orbital-selective spin-singlet “dimer” linking the two planes of this bilayer via the d3z2−r2 orbital provides the primary building block to study its electronic properties. Furthermore, an in-plane robust interorbital hopping between eg states, competes with the more natural intraorbital hopping, leading to a dominant spin stripe (π, 0) order, as well as a rich phase diagram.
+
+[Phys. Rev. B 108, L180510] Published Tue Nov 28, 2023]]></summary>
+        <author>
+            <name>Yang Zhang, Ling-Fang Lin, Adriana Moreo, and Elbio Dagotto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-spin spectroscopy of spontaneous and phase-locked spin-torque-oscillator dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.054055</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.054055"/>
+        <updated>2023-11-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Adrian Solyom, Michael Caouette-Mansour, Brandon Ruffolo, Patrick Braganca, Lilian Childress, and Jack C. Sankey
+Nanoscale magnetic circuits provide an alternate paradigm for computation and signal processing, but characterizing the GHz-frequency magnetic dynamics in these systems has been challenging. The authors use the single spin of a nitrogen-vacancy (N-V) center in diamond to probe nanoscale magnetic fields in the GHz regime, identifying signatures of a free-running and phase-locked spin-torque oscillator in the fluorescence spectrum of a proximal N-V, and measure how the dynamics impact the N-V’s spin relaxation. This technique could enable new sensing modalities for revealing the nanoscale structure of GHz-frequency dynamics in emerging magnetic nanotechnologies.
+
+[Phys. Rev. Applied 20, 054055] Published Tue Nov 28, 2023]]></summary>
+        <author>
+            <name>Adrian Solyom, Michael Caouette-Mansour, Brandon Ruffolo, Patrick Braganca, Lilian Childress, and Jack C. Sankey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Propagating-spin-wave spectroscopy using inductive antennas: Conditions for unidirectional energy flow]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.054057</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.054057"/>
+        <updated>2023-11-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thibaut Devolder
+Spin waves are of central importance in spintronic as they determine the rate at which the magnetization can vary. They can be better studied by using propagating-spin-wave spectroscopy with a physically transparent model. This study of spin-wave transduction focuses on the interaction between spin waves and microwaves, and the impact of the spin-wave dispersion relation. The authors choose specific magnetization orientations so that the magnons and microwave photons do not couple, and show that line-shaped dispersion relations can be harnessed to engineer reconfigurable, nonreciprocal frequency filters transferring spin wave energy in a unidirectional manner.
+
+[Phys. Rev. Applied 20, 054057] Published Tue Nov 28, 2023]]></summary>
+        <author>
+            <name>Thibaut Devolder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tension Remodeling Regulates Topological Transitions in Epithelial Tissues]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXLife.1.023006</id>
@@ -1173,58 +1251,6 @@ The ease of applying external stimuli, such as pressure, is an attractive featur
 [Phys. Rev. B 108, 144439] Published Tue Oct 31, 2023]]></summary>
         <author>
             <name>Madeleine Geers, David M. Jarvis, Cheng Liu, Siddharth S. Saxena, Jem Pitcairn, Emily Myatt, Sebastian A. Hallweger, Silva M. Kronawitter, Gregor Kieslich, Sanliang Ling, Andrew B. Cairns, Dominik Daisenberger, Oscar Fabelo, Laura Cañadillas-Delgado, and Matthew J. Cliffe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broadband Quantum Enhancement of the LIGO Detectors with Frequency-Dependent Squeezing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041021</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041021"/>
-        <updated>2023-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. Ganapathy et al. (LIGO O4 Detector Collaboration)
-The LIGO experiment has demonstrated a noise-squeezing technique for its entire frequency-detection range—a feat that could boost the detection rate of black hole mergers by up to 65%.
-
-[Phys. Rev. X 13, 041021] Published Mon Oct 30, 2023]]></summary>
-        <author>
-            <name>D. Ganapathy &lt;em&gt;et al.&lt;/em&gt; (LIGO O4 Detector Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of Single-Top-Quark Production in Association with a Photon Using the ATLAS Detector]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.181901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.181901"/>
-        <updated>2023-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): G. Aad et al. (ATLAS Collaboration)
-The Large Hadron Collider’s ATLAS Collaboration observes, for the first time, the coincident production of a photon and a top quark.
-
-[Phys. Rev. Lett. 131, 181901] Published Mon Oct 30, 2023]]></summary>
-        <author>
-            <name>G. Aad &lt;em&gt;et al.&lt;/em&gt; (ATLAS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controlling the Spatial Profile and Energy Landscape of Organic Polariton Condensates in Double-Dye Cavities]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.186902</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.186902"/>
-        <updated>2023-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Anton D. Putintsev, Kirsty E. McGhee, Denis Sannikov, Anton V. Zasedatelev, Julian D. Töpfer, Till Jessewitsch, Ullrich Scherf, David G. Lidzey, and Pavlos G. Lagoudakis
-Ultrafast and reversible manipulation of the spatial profile and energy landscape of organic polariton condensates is experimentally demonstrated in double-dye cavities by shaping both the local potential and the dissipation in real space at room temperature.
-
-[Phys. Rev. Lett. 131, 186902] Published Mon Oct 30, 2023]]></summary>
-        <author>
-            <name>Anton D. Putintsev, Kirsty E. McGhee, Denis Sannikov, Anton V. Zasedatelev, Julian D. Töpfer, Till Jessewitsch, Ullrich Scherf, David G. Lidzey, and Pavlos G. Lagoudakis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skyrmion motion in magnetic anisotropy gradients: Acceleration caused by deformation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.144438</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.144438"/>
-        <updated>2023-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ismael Ribeiro de Assis, Ingrid Mertig, and Börge Göbel
-Skyrmions in weak parameter gradients behave similarly to current-driven skyrmions, moving uniformly along a fixed skyrmion Hall angle relative to the current direction. This study reveals a distinct type of motion that becomes relevant for large parameter gradients: skyrmions undergo significant profile changes, resulting in a nonuniform motion. They accelerate and follow curved trajectories. Leveraging this insight, the authors introduce novel strategies for suppressing the skyrmion Hall effect, both parallel and perpendicular to the gradient direction.
-
-[Phys. Rev. B 108, 144438] Published Mon Oct 30, 2023]]></summary>
-        <author>
-            <name>Ismael Ribeiro de Assis, Ingrid Mertig, and Börge Göbel</name>
         </author>
     </entry>
 </feed>
