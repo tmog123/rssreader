@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.114203",
+          "author": "Tyler J. Slade, Aashish Sapkota, John M. Wilde, Qiang Zhang, Lin-Lin Wang, Saul H. Lapidus, Juan Schmidt, Thomas Heitmann, Sergey L. Bud'ko, and Paul C. Canfield",
+          "description": "Author(s): Tyler J. Slade, Aashish Sapkota, John M. Wilde, Qiang Zhang, Lin-Lin Wang, Saul H. Lapidus, Juan Schmidt, Thomas Heitmann, Sergey L. Bud'ko, and Paul C. Canfield\nThe AMnPn2 (A = Alkali earth, Pn = Sb, Bi) materials are widely explored as candidate magnetic topological semimetals. Replacing A with a rare-earth atom (R) produces a comparably underinvestigated family, RMnxPn2, in which charge balance favors Mn vacancies (x 2 as a function of the Mn vacancy concentration. They grow single crystals with x = 0.74-0.97 and find that LaMnxSb2 has an exceptionally rich magnetic phase diagram, with six different antiferromagnetic phases and two different crystal structures, depending on T and x. The highly tunable nature of LaMnxSb2 suggests this material may be a good model system for understanding the effects of disorder on magnetic intermetallic compounds.\n\n[Phys. Rev. Materials 7, 114203] Published Wed Nov 29, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.114203",
+          "publishedOn": "2023-11-29T10:00:00.000Z",
+          "wordCount": 2740,
+          "title": "Vacancy-tuned magnetism in ${\\mathrm{LaMn}}_{x}{\\mathrm{Sb}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.114203.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.224002",
+          "author": "Liam C. Morrow, Callum Cuttle, and Christopher W. MacMinn",
+          "description": "Author(s): Liam C. Morrow, Callum Cuttle, and Christopher W. MacMinn\nThe onset time for “viscous fingering”—an instability that can occur at a gas–liquid boundary—depends on the compressibility of the gas, offering a way to control the behavior.\n\n[Phys. Rev. Lett. 131, 224002] Published Wed Nov 29, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.224002",
+          "publishedOn": "2023-11-29T10:00:00.000Z",
+          "wordCount": 1163,
+          "title": "Gas Compression Systematically Delays the Onset of Viscous Fingering",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.224002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.226503",
+          "author": "Y. Tokunaga, H. Sakai, S. Kambe, P. Opletal, Y. Tokiwa, Y. Haga, S. Kitagawa, K. Ishida, D. Aoki, G. Knebel, G. Lapertot, S. Krämer, and M. Horvatić",
+          "description": "Author(s): Y. Tokunaga, H. Sakai, S. Kambe, P. Opletal, Y. Tokiwa, Y. Haga, S. Kitagawa, K. Ishida, D. Aoki, G. Knebel, G. Lapertot, S. Krämer, and M. Horvatić\nHigh-field NMR measurements on single crystals of UTe2 show an enhancement of longitudinal spin fluctuations above 15 Tesla, exhibiting a divergence near the field-induced metamagnetic transition at 35 Tesla.\n\n[Phys. Rev. Lett. 131, 226503] Published Wed Nov 29, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.226503",
+          "publishedOn": "2023-11-29T10:00:00.000Z",
+          "wordCount": 995,
+          "title": "Longitudinal Spin Fluctuations Driving Field-Reinforced Superconductivity in ${\\mathrm{UTe}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.226503.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.226504",
+          "author": "N. Azari, M. Yakovlev, N. Rye, S. R. Dunsiger, S. Sundar, M. M. Bordelon, S. M. Thomas, J. D. Thompson, P. F. S. Rosa, and J. E. Sonier",
+          "description": "Author(s): N. Azari, M. Yakovlev, N. Rye, S. R. Dunsiger, S. Sundar, M. M. Bordelon, S. M. Thomas, J. D. Thompson, P. F. S. Rosa, and J. E. Sonier\nMuon spin relaxation measurements on a new generation of high-quality flux-grown single crystals show that UTe2 does not break time-reversal symmetry.\n\n[Phys. Rev. Lett. 131, 226504] Published Wed Nov 29, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.226504",
+          "publishedOn": "2023-11-29T10:00:00.000Z",
+          "wordCount": 1023,
+          "title": "Absence of Spontaneous Magnetic Fields due to Time-Reversal Symmetry Breaking in Bulk Superconducting ${\\mathrm{UTe}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.226504.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.227301",
+          "author": "Brandon Livio Annesi, Clarissa Lauditi, Carlo Lucibello, Enrico M. Malatesta, Gabriele Perugini, Fabrizio Pittorino, and Luca Saglietti",
+          "description": "Author(s): Brandon Livio Annesi, Clarissa Lauditi, Carlo Lucibello, Enrico M. Malatesta, Gabriele Perugini, Fabrizio Pittorino, and Luca Saglietti\nThe solutions of a nonconvex over-parametrized neural network model are geodesically connected in a star-shaped geometry.\n\n[Phys. Rev. Lett. 131, 227301] Published Wed Nov 29, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.227301",
+          "publishedOn": "2023-11-29T10:00:00.000Z",
+          "wordCount": 1267,
+          "title": "Star-Shaped Space of Solutions of the Spherical Negative Perceptron",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.227301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.113904",
+          "author": "Callum Cuttle, Liam C. Morrow, and Christopher W. MacMinn",
+          "description": "Author(s): Callum Cuttle, Liam C. Morrow, and Christopher W. MacMinn\nThe viscous-fingering instability that emerges when gas is injected into a liquid-filled Hele-Shaw cell is a paradigm of pattern formation that has been extensively studied. Here, we examine a previously neglected aspect of the problem: The compressibility of the injected gas. We use experiments, numerical simulations, and an axisymmetric model to show that gas compression controls the time-dependent injection rate and systematically delays the onset of viscous fingering at high capillary number. We quantify the importance of gas compression with a single dimensionless compressibility number.\n\n[Phys. Rev. Fluids 8, 113904] Published Wed Nov 29, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.113904",
+          "publishedOn": "2023-11-29T10:00:00.000Z",
+          "wordCount": 2187,
+          "title": "Compression-driven viscous fingering in a radial Hele-Shaw cell",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.113904.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.114602",
+          "author": "H. Timko, S. Albright, T. Argyropoulos, H. Damerau, K. Iliakis, L. Intelisano, B. E. Karlsen-Baeck, I. Karpov, A. Lasheen, L. Medina, D. Quartullo, J. Repond, A. L. Vanel, J. Esteban Müller, M. Schwarz, P. Tsapatsaris, and G. Typaldos",
+          "description": "Author(s): H. Timko, S. Albright, T. Argyropoulos, H. Damerau, K. Iliakis, L. Intelisano, B. E. Karlsen-Baeck, I. Karpov, A. Lasheen, L. Medina, D. Quartullo, J. Repond, A. L. Vanel, J. Esteban Müller, M. Schwarz, P. Tsapatsaris, and G. Typaldos\nA simulation suite that covers a range of applications from low to high energy synchrotrons, from electrons over protons to ions, and from space-charge to synchrotron-radiation dominated regimes.\n\n[Phys. Rev. Accel. Beams 26, 114602] Published Wed Nov 29, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.114602",
+          "publishedOn": "2023-11-29T10:00:00.000Z",
+          "wordCount": 1785,
+          "title": "Beam longitudinal dynamics simulation studies",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.26.114602.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.052825",
+          "author": "Robert M. Potvliege, Adair Nicolson, Matthew P. A. Jones, and Michael Spannowsky",
+          "description": "Author(s): Robert M. Potvliege, Adair Nicolson, Matthew P. A. Jones, and Michael Spannowsky\nThe authors discuss the use of precise spectroscopic data on hydrogenic atoms in order to obtain new, more stringent bounds on new physics beyond the Standard Model. Assuming a certain “reasonable” flavor dependence the authors obtain constraints that are orders of magnitude more stringent than constraints from hydrogen alone.\n\n[Phys. Rev. A 108, 052825] Published Wed Nov 29, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.052825",
+          "publishedOn": "2023-11-29T10:00:00.000Z",
+          "wordCount": 1839,
+          "title": "Deuterium spectroscopy for enhanced bounds on physics beyond the standard model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.052825.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041036",
           "author": "Michael Thobias Schmid, Jean-Baptiste Morée, Ryui Kaneko, Youhei Yamaji, and Masatoshi Imada",
           "description": "Author(s): Michael Thobias Schmid, Jean-Baptiste Morée, Ryui Kaneko, Youhei Yamaji, and Masatoshi Imada\nA first-principles model accounts for the wide range of critical temperatures (Tc’s) for four materials and suggests a parameter that determines Tc in any high-temperature superconductor.\n\n[Phys. Rev. X 13, 041036] Published Tue Nov 28, 2023",
@@ -904,66 +984,6 @@
           "wordCount": 1031,
           "title": "Chiral currents in Bose-Einstein condensates subject to current-density interactions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.053302.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.183003",
-          "author": "Yuiki Takahashi, Chi Zhang, Arian Jadbabaie, and Nicholas R. Hutzler",
-          "description": "Author(s): Yuiki Takahashi, Chi Zhang, Arian Jadbabaie, and Nicholas R. Hutzler\nResearchers have engineered ultracold molecular transitions ideally suited for probing beyond-standard-model effects of symmetry violations.\n\n[Phys. Rev. Lett. 131, 183003] Published Tue Oct 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.183003",
-          "publishedOn": "2023-10-31T10:00:00.000Z",
-          "wordCount": 937,
-          "title": "Engineering Field-Insensitive Molecular Clock Transitions for Symmetry Violation Searches",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.183003.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.183801",
-          "author": "Haoqi Zhao, Yichen Ma, Zihe Gao, Na Liu, Tianwei Wu, Shuang Wu, Xilin Feng, James Hone, Stefan Strauf, and Liang Feng",
-          "description": "Author(s): Haoqi Zhao, Yichen Ma, Zihe Gao, Na Liu, Tianwei Wu, Shuang Wu, Xilin Feng, James Hone, Stefan Strauf, and Liang Feng\nAn experiment combines the two-dimensional semiconductor WSe2 with a spin-orbit-coupled microring resonator to demonstrate the high-purity generation of twisted single photons and its convenient switching between different orbital angular momentum states.\n\n[Phys. Rev. Lett. 131, 183801] Published Tue Oct 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.183801",
-          "publishedOn": "2023-10-31T10:00:00.000Z",
-          "wordCount": 1558,
-          "title": "High-Purity Generation and Switching of Twisted Single Photons",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.183801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.186202",
-          "author": "Mingquan Xu, Aowen Li, Stephen J. Pennycook, Shang-Peng Gao, and Wu Zhou",
-          "description": "Author(s): Mingquan Xu, Aowen Li, Stephen J. Pennycook, Shang-Peng Gao, and Wu Zhou\nEnergy-loss spectroscopy mapping of a silicon point defect in graphene demonstrates real-space mapping of specific electronic excitations at the single-atom scale.\n\n[Phys. Rev. Lett. 131, 186202] Published Tue Oct 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.186202",
-          "publishedOn": "2023-10-31T10:00:00.000Z",
-          "wordCount": 1200,
-          "title": "Probing a Defect-Site-Specific Electronic Orbital in Graphene with Single-Atom Sensitivity",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.186202.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.103602",
-          "author": "Ramin Kaviani and John M. Kolinski",
-          "description": "Author(s): Ramin Kaviani and John M. Kolinski\nBefore a droplet can contact a solid surface, it must drain the air beneath it. In our daily experience, the air doesn’t alter the global outcome of contact formation in the blink of an eye. In this work, we find that the lubricating air film formed beneath an impacting droplet can resist rupture for droplets impacting at a velocity exceeding 1/2 a meter per second; however, beyond a critical impact velocity, contact always occurs from the liquid’s closest approach to the solid surface through the air, at a distance of 20 - 30 nanometers. Below the critical velocity, contact is suppressed for impact upon atomically smooth, cleaved mica, shedding light on the critical phase of liquid-solid contact.\n\n[Phys. Rev. Fluids 8, 103602] Published Tue Oct 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.103602",
-          "publishedOn": "2023-10-31T10:00:00.000Z",
-          "wordCount": 2544,
-          "title": "Characteristic rupture height of the mediating air film beneath an impacting drop on atomically smooth mica",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.103602.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.083533",
-          "author": "Toshiki Kurita and Masahiro Takada",
-          "description": "Author(s): Toshiki Kurita and Masahiro Takada\nThe authors employ a novel power-spectrum estimator to measure galaxy intrinsic alignments from Sloan Digital Sky Survey data. They showcase the method’s usefulness, constraining the level of non-gaussianities in primordial cosmological structure perturbations.\n\n[Phys. Rev. D 108, 083533] Published Tue Oct 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.083533",
-          "publishedOn": "2023-10-31T10:00:00.000Z",
-          "wordCount": 2228,
-          "title": "Constraints on anisotropic primordial non-Gaussianity from intrinsic alignments of SDSS-III BOSS galaxies",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.083533.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.144439",
-          "author": "Madeleine Geers, David M. Jarvis, Cheng Liu, Siddharth S. Saxena, Jem Pitcairn, Emily Myatt, Sebastian A. Hallweger, Silva M. Kronawitter, Gregor Kieslich, Sanliang Ling, Andrew B. Cairns, Dominik Daisenberger, Oscar Fabelo, Laura Cañadillas-Delgado, and Matthew J. Cliffe",
-          "description": "Author(s): Madeleine Geers, David M. Jarvis, Cheng Liu, Siddharth S. Saxena, Jem Pitcairn, Emily Myatt, Sebastian A. Hallweger, Silva M. Kronawitter, Gregor Kieslich, Sanliang Ling, Andrew B. Cairns, Dominik Daisenberger, Oscar Fabelo, Laura Cañadillas-Delgado, and Matthew J. Cliffe\nThe ease of applying external stimuli, such as pressure, is an attractive feature for devices based on van der Waals materials. The authors report here the effect of pressure up to 8 kbar on Ni(NCS)2, a two-dimensional van der Waals magnet, using bulk magnetic susceptibility and neutron and x-ray diffraction. Ni(NCS)2 is found to be more compressible than metal halide analogues, with anisotropic compressibility both within the layers and between them. In addition to the large mechanical response, the magnetic ordering temperature is significantly enhanced: ΔTN /TN = 19%.\n\n[Phys. Rev. B 108, 144439] Published Tue Oct 31, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.144439",
-          "publishedOn": "2023-10-31T10:00:00.000Z",
-          "wordCount": 1527,
-          "title": "High-pressure behavior of the magnetic van der Waals molecular framework Ni(NCS)${}_{2}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.144439.png"
         }
       ]
     }
