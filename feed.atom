@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T00:47:22.543Z</id>
+    <id>urn:2023-12-01T00:52:36.693Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T00:47:22.543Z</updated>
+    <updated>2023-12-01T00:52:36.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Thermo-osmotic slip flows around a thermophoretic microparticle characterized by optical trapping of tracers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.054061</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.054061"/>
+        <updated>2023-11-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tetsuro Tsuji, Satoshi Mei, and Satoshi Taguchi
+Using fluorescent tracers, researchers visualize the forces that move micrometer-diameter particles through a liquid subjected to a temperature gradient.
+
+[Phys. Rev. Applied 20, 054061] Published Thu Nov 30, 2023]]></summary>
+        <author>
+            <name>Tetsuro Tsuji, Satoshi Mei, and Satoshi Taguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vacancy-tuned magnetism in ${\mathrm{LaMn}}_{x}{\mathrm{Sb}}_{2}$]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.114203</id>
@@ -1225,58 +1238,6 @@ Exploring low-temperature thermometry, particularly at the micro- to nanoscale, 
 [Phys. Rev. Applied 20, 054006] Published Thu Nov 02, 2023]]></summary>
         <author>
             <name>Takashi Kikkawa, Haruka Kiguchi, Alexey A. Kaverzin, Ryo Takahashi, and Eiji Saitoh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparative study of the superconductivity in the Holstein and optical Su-Schrieffer-Heeger models]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.184501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.184501"/>
-        <updated>2023-11-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andy Tanjaroon Ly, Benjamin Cohen-Stead, Sohan Malkaruge Costa, and Steven Johnston
-Su-Schrieffer-Heeger (SSH) electron-phonon (e−ph) interactions have been theorized to play critical roles in several novel states of matter, ranging from nontrivial topological states to high-temperature bipolaronic superconductivity. This work compares the superconducting and competing charge and bond correlations of the two-dimensional Holstein and optical (SSH) models. The authors find that near half-filling, light SSH (bi)polarons support superconductivity to larger values of e−ph coupling compared to the Holstein polaron. These results are essential for identifying and engineering bipolaronic superconductivity in quantum materials.
-
-[Phys. Rev. B 108, 184501] Published Wed Nov 01, 2023]]></summary>
-        <author>
-            <name>Andy Tanjaroon Ly, Benjamin Cohen-Stead, Sohan Malkaruge Costa, and Steven Johnston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piezo-orbital backaction force in a rare-earth-doped crystal]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.054004</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.054004"/>
-        <updated>2023-11-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Louchet-Chauvet, P. Verlot, J.-P. Poizat, and T. Chanelière
-Hybrid optomechanics can bridge the quantum and classical domains, to generally extend quantum principles to macroscopic scale. A milestone here would be observing the fundamental backaction force that occurs when a hybrid mechanical system is optically probed, which can be dominated by classical thermal effects. Using a large ensemble of rare-earth ions in a crystal plus time-resolved tomography, researchers see this backaction as a tiny distortion of the crystal’s surface around a laser beam’s spot, and unambiguously distinguish the photothermal contribution from that of the backaction. Thus rare-earth ions in crystals are confirmed as a promising platform for hybrid optomechanics.
-
-[Phys. Rev. Applied 20, 054004] Published Wed Nov 01, 2023]]></summary>
-        <author>
-            <name>A. Louchet-Chauvet, P. Verlot, J.-P. Poizat, and T. Chanelière</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imaging electron angular distributions to assess a full-power petawatt-class laser focus]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.053101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.053101"/>
-        <updated>2023-11-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Smrithan Ravichandran, Marine Huault, Roberto Lera, Calvin Z. He, Andrew Longman, Robert Fedosejevs, Luis Roso, and Wendell T. Hill, III
-Electrons can help infer laser intensities that are too high to measure using conventional methods.
-
-[Phys. Rev. A 108, 053101] Published Wed Nov 01, 2023]]></summary>
-        <author>
-            <name>Smrithan Ravichandran, Marine Huault, Roberto Lera, Calvin Z. He, Andrew Longman, Robert Fedosejevs, Luis Roso, and Wendell T. Hill, III</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiral currents in Bose-Einstein condensates subject to current-density interactions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.053302</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.053302"/>
-        <updated>2023-11-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Maria Arazo, Montserrat Guilleumas, Ricardo Mayol, Vicente Delgado, and Antonio Muñoz Mateo
-The authors study a quasi-one-dimensional Bose-Einstein condensate in a rotating ring geometry subject to a current nonlinearity. The stability of stationary states is examined both by linear excitation analysis and time evolution of the Gross-Pitaevskii equation with current-density interactions.
-
-[Phys. Rev. A 108, 053302] Published Wed Nov 01, 2023]]></summary>
-        <author>
-            <name>Maria Arazo, Montserrat Guilleumas, Ricardo Mayol, Vicente Delgado, and Antonio Muñoz Mateo</name>
         </author>
     </entry>
 </feed>
