@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.228102",
+          "author": "Bolei Deng, Shu Wang, Chase Hartquist, and Xuanhe Zhao",
+          "description": "Author(s): Bolei Deng, Shu Wang, Chase Hartquist, and Xuanhe Zhao\nThe crack resistance of polymer materials is explained by a new model that incorporates a network of stretchable polymer chains.\n\n[Phys. Rev. Lett. 131, 228102] Published Fri Dec 01, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.228102",
+          "publishedOn": "2023-12-01T10:00:00.000Z",
+          "wordCount": 1199,
+          "title": "Nonlocal Intrinsic Fracture Energy of Polymerlike Networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.228102.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.064102",
+          "author": "E. Barkai, R. Flaquer-Galmés, and V. Méndez",
+          "description": "Author(s): E. Barkai, R. Flaquer-Galmés, and V. Méndez\nStochastic processes with resetting can exhibit different ergodic behaviors depending on the distribution of resetting times. For one-dimensional Brownian motion with resetting, the authors find two ergodic transitions, one of which is related to a competition between returns to the origin by resetting and returns by the diffusion process itself.\n\n[Phys. Rev. E 108, 064102] Published Fri Dec 01, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.064102",
+          "publishedOn": "2023-12-01T10:00:00.000Z",
+          "wordCount": 1764,
+          "title": "Ergodic properties of Brownian motion under stochastic resetting",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.064102.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054061",
           "author": "Tetsuro Tsuji, Satoshi Mei, and Satoshi Taguchi",
           "description": "Author(s): Tetsuro Tsuji, Satoshi Mei, and Satoshi Taguchi\nUsing fluorescent tracers, researchers visualize the forces that move micrometer-diameter particles through a liquid subjected to a temperature gradient.\n\n[Phys. Rev. Applied 20, 054061] Published Thu Nov 30, 2023",
@@ -172,7 +192,7 @@
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.221401",
           "publishedOn": "2023-11-27T10:00:00.000Z",
           "wordCount": 834,
-          "title": "Kerr Black Holes From Massive Higher-Spin Gauge Symmetry",
+          "title": "Kerr Black Holes from Massive Higher-Spin Gauge Symmetry",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.221401.png"
         },
         {
@@ -901,7 +921,7 @@
           "description": "Author(s): Hadrien Bense, Emmanuel Siéfert, and Fabian Brau\nThe attractive force that causes floating Cheerios to clump together increases in strength when objects are withdrawn from a liquid.\n\n[Phys. Rev. Lett. 131, 184003] Published Fri Nov 03, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.184003",
           "publishedOn": "2023-11-03T10:00:00.000Z",
-          "wordCount": 1257,
+          "wordCount": 1256,
           "title": "Measurement of Capillary Forces Using Two Fibers Dynamically Withdrawn from a Liquid: Evidence for an Enhanced Cheerios Effect",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.184003.png"
         },
@@ -924,36 +944,6 @@
           "wordCount": 1815,
           "title": "Measurement-induced state transitions in a superconducting qubit: Within the rotating-wave approximation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054008.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042017",
-          "author": "Zachary G. Nicolaou, Guanyu Huo, Yihui Chen, Steven L. Brunton, and J. Nathan Kutz",
-          "description": "Author(s): Zachary G. Nicolaou, Guanyu Huo, Yihui Chen, Steven L. Brunton, and J. Nathan Kutz\nA new machine-learning framework enables the discovery of governing equations in pattern-forming systems parameterized by external driving conditions. The resulting data-driven models reveal effective nonlinear corrections to classical perturbation theory, enabling extrapolation including the prediction of bifurcations far from the conditions used in training.\n\n[Phys. Rev. Research 5, L042017] Published Thu Nov 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.L042017",
-          "publishedOn": "2023-11-02T10:00:00.000Z",
-          "wordCount": 1200,
-          "title": "Data-driven discovery and extrapolation of parameterized pattern-forming dynamics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.L042017.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.L052102",
-          "author": "R. K. Singh and Stanislav Burov",
-          "description": "Author(s): R. K. Singh and Stanislav Burov\nIn a large class of systems governed by rare event statistics, the probability density function for particle position shows a universal exponential decay. Using the continuous-time random walk method, this paper shows that there is a critical transition between this universal behavior and a more specific, slower decay.\n\n[Phys. Rev. E 108, L052102] Published Thu Nov 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.L052102",
-          "publishedOn": "2023-11-02T10:00:00.000Z",
-          "wordCount": 865,
-          "title": "Universal to nonuniversal transition of the statistics of rare events during the spread of random walks",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.L052102.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054006",
-          "author": "Takashi Kikkawa, Haruka Kiguchi, Alexey A. Kaverzin, Ryo Takahashi, and Eiji Saitoh",
-          "description": "Author(s): Takashi Kikkawa, Haruka Kiguchi, Alexey A. Kaverzin, Ryo Takahashi, and Eiji Saitoh\nExploring low-temperature thermometry, particularly at the micro- to nanoscale, is essential not only for advancing thermoelectric science, but also for the development of quantum technology. The authors present a methodology and an experimental platform based on an on-chip microthermometer, enabling the detection of extremely small temperature changes in thin films, down to tens of nanokelvins. Using this approach, the authors observe the spin Peltier effect (temperature modulation induced by spin current) at 2 K. Their methods have the potential to uncover other low-temperature thermoelectric effects in microdevices, including those made of two-dimensional van der Waals materials.\n\n[Phys. Rev. Applied 20, 054006] Published Thu Nov 02, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054006",
-          "publishedOn": "2023-11-02T10:00:00.000Z",
-          "wordCount": 1619,
-          "title": "Cryogenic spin Peltier effect detected by a ${\\mathrm{Ru}\\mathrm{O}}_{2}\\text{−}{\\mathrm{Al}\\mathrm{O}}_{x}$ on-chip microthermometer",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054006.png"
         }
       ]
     }
