@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043203",
+          "author": "Andre S. Sunahara, Matjaž Perc, and Haroldo V. Ribeiro",
+          "description": "Author(s): Andre S. Sunahara, Matjaž Perc, and Haroldo V. Ribeiro\nMethods from time series analysis, dimensionality reduction, and network science are combined to show evidence for the natural emergence of six universal patterns of productivity in scientific careers: constant, u-shaped, decreasing, periodic, increasing, and canonical curves. Canonical curves are the most prevalent pattern, but contrary to expectations, productivity peaks occur much more frequently around midcareer rather than early.\n\n[Phys. Rev. Research 5, 043203] Published Tue Dec 05, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043203",
+          "publishedOn": "2023-12-05T10:00:00.000Z",
+          "wordCount": 1256,
+          "title": "Universal productivity patterns in research careers",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.043203.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.231901",
+          "author": "Luca Buonocore, Simone Devoto, Massimiliano Grazzini, Stefan Kallweit, Javier Mazzitelli, Luca Rottoli, and Chiara Savoini",
+          "description": "Author(s): Luca Buonocore, Simone Devoto, Massimiliano Grazzini, Stefan Kallweit, Javier Mazzitelli, Luca Rottoli, and Chiara Savoini\nSignificant reduction in the perturbative uncertainty due to the first second-order QCD calculation of the hadroproduction of a W boson in association with a top-antitop quark pair could lead to stringent tests of the standard model.\n\n[Phys. Rev. Lett. 131, 231901] Published Tue Dec 05, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.231901",
+          "publishedOn": "2023-12-05T10:00:00.000Z",
+          "wordCount": 984,
+          "title": "Precise Predictions for the Associated Production of a $W$ Boson with a Top-Antitop Quark Pair at the LHC",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.231901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.236501",
+          "author": "P. T. Madathil, K. A. Villegas Rosales, Y. J. Chung, K. W. West, K. W. Baldwin, L. N. Pfeiffer, L. W. Engel, and M. Shayegan",
+          "description": "Author(s): P. T. Madathil, K. A. Villegas Rosales, Y. J. Chung, K. W. West, K. W. Baldwin, L. N. Pfeiffer, L. W. Engel, and M. Shayegan\nResearchers have precisely measured the electrical-transport properties of a highly ordered Wigner solid—a crystalline state formed of electrons rather than atoms.\n\n[Phys. Rev. Lett. 131, 236501] Published Tue Dec 05, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.236501",
+          "publishedOn": "2023-12-05T10:00:00.000Z",
+          "wordCount": 1103,
+          "title": "Moving Crystal Phases of a Quantum Wigner Solid in an Ultra-High-Quality 2D Electron System",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.236501.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041040",
           "author": "Jonathan Oppenheim",
           "description": "Author(s): Jonathan Oppenheim\nA proposed model unites quantum theory with classical gravity by assuming that states evolve in a probabilistic way, like a game of chance.\n\n[Phys. Rev. X 13, 041040] Published Mon Dec 04, 2023",
@@ -251,7 +281,7 @@
           "description": "Author(s): Adrian Solyom, Michael Caouette-Mansour, Brandon Ruffolo, Patrick Braganca, Lilian Childress, and Jack C. Sankey\nNanoscale magnetic circuits provide an alternate paradigm for computation and signal processing, but characterizing the GHz-frequency magnetic dynamics in these systems has been challenging. The authors use the single spin of a nitrogen-vacancy (N-V) center in diamond to probe nanoscale magnetic fields in the GHz regime, identifying signatures of a free-running and phase-locked spin-torque oscillator in the fluorescence spectrum of a proximal N-V, and measure how the dynamics impact the N-V’s spin relaxation. This technique could enable new sensing modalities for revealing the nanoscale structure of GHz-frequency dynamics in emerging magnetic nanotechnologies.\n\n[Phys. Rev. Applied 20, 054055] Published Tue Nov 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054055",
           "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 1368,
+          "wordCount": 1367,
           "title": "Single-spin spectroscopy of spontaneous and phase-locked spin-torque-oscillator dynamics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054055.png"
         },
@@ -974,26 +1004,6 @@
           "wordCount": 1058,
           "title": "Capillary surfers: Wave-driven particles at a vibrating fluid interface",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L112001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.094010",
-          "author": "Fabrizio Caola, Radosław Grabarczyk, Maxwell L. Hutt, Gavin P. Salam, Ludovic Scyboz, and Jesse Thaler",
-          "description": "Author(s): Fabrizio Caola, Radosław Grabarczyk, Maxwell L. Hutt, Gavin P. Salam, Ludovic Scyboz, and Jesse Thaler\nA longstanding goal in collider analysis has been to assign flavor consistently to jets of final state particles which can then be associated with the initial partons coming from hard scattering processes. This paper presents “Interleaved Flavor Neutralization” to define jets with infrared- and collinear-safe (IRC safe) flavor and clustering properties similar to successful kinematic jet definitions. The authors carry out detailed checks to show the algorithm is IRC safe to at least sixth order in the strong coupling constant.\n\n[Phys. Rev. D 108, 094010] Published Mon Nov 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.094010",
-          "publishedOn": "2023-11-06T10:00:00.000Z",
-          "wordCount": 3169,
-          "title": "Flavored jets with exact anti-${k}_{t}$ kinematics and tests of infrared and collinear safety",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.094010.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.184302",
-          "author": "Alessio Paviglianiti and Alessandro Silva",
-          "description": "Author(s): Alessio Paviglianiti and Alessandro Silva\nQuantum systems subject to external monitoring manifest a rich phenomenology in their entanglement properties. Here, the authors use quantum Fisher information to uncover a multipartite entanglement phase transition in the monitored quantum Ising chain. By changing the measurement rate, they observe a shift from bounded to long-range multipartiteness of quantum correlations. They show that the quantum Fisher information displays distinct behavior from the entanglement entropy, and the two outline different phase boundaries.\n\n[Phys. Rev. B 108, 184302] Published Mon Nov 06, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.184302",
-          "publishedOn": "2023-11-06T10:00:00.000Z",
-          "wordCount": 835,
-          "title": "Multipartite entanglement in the measurement-induced phase transition of the quantum Ising chain",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.184302.png"
         }
       ]
     }
