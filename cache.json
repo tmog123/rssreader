@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.236202",
+          "author": "Nick A. von Jeinsen, Sam M. Lambrick, Matthew Bergin, Aleksandar Radić, Boyao Liu, Dan Seremet, Andrew P. Jardine, and David J. Ward",
+          "description": "Author(s): Nick A. von Jeinsen, Sam M. Lambrick, Matthew Bergin, Aleksandar Radić, Boyao Liu, Dan Seremet, Andrew P. Jardine, and David J. Ward\nResearchers have developed an atom-diffraction imaging method with micrometer spatial resolution, which may allow new applications in material characterization.\n\n[Phys. Rev. Lett. 131, 236202] Published Wed Dec 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.236202",
+          "publishedOn": "2023-12-06T10:00:00.000Z",
+          "wordCount": 1330,
+          "title": "2D Helium Atom Diffraction from a Microscopic Spot",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.236202.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.238001",
+          "author": "Samuel Del Fré, Alejandro Rivero Santamaría, Denis Duflot, Romain Basalgète, Géraldine Féraud, Mathieu Bertin, Jean-Hugues Fillion, and Maurice Monnerville",
+          "description": "Author(s): Samuel Del Fré, Alejandro Rivero Santamaría, Denis Duflot, Romain Basalgète, Géraldine Féraud, Mathieu Bertin, Jean-Hugues Fillion, and Maurice Monnerville\nMolecular “kicks” induced by ultraviolet light are predicted to cause carbon monoxide molecules to be released from the icy layers that cover cosmic dust.\n\n[Phys. Rev. Lett. 131, 238001] Published Wed Dec 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.238001",
+          "publishedOn": "2023-12-06T10:00:00.000Z",
+          "wordCount": 1007,
+          "title": "Mechanism of Ultraviolet-Induced CO Desorption from CO Ice: Role of Vibrational Relaxation Highlighted",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.238001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.124001",
+          "author": "J. Eggers",
+          "description": "Author(s): J. Eggers\nIn the image, the free surface between a liquid and air is deformed into a sharp cusp by the rapid rotation of the cylinder on the left. We show that such a structure is a generic feature of viscous flow, and study its properties. This is important, since air can enter the fluid through the cusp’s tip, and thus become entrained into the interior of the fluid.\n\n[Phys. Rev. Fluids 8, 124001] Published Wed Dec 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.124001",
+          "publishedOn": "2023-12-06T10:00:00.000Z",
+          "wordCount": 1021,
+          "title": "Viscous free-surface cusps: Local solution",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.124001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.235407",
+          "author": "Daniel Walkup, Fereshte Ghahari, Steven R. Blankenship, Kenji Watanabe, Takashi Taniguchi, Nikolai B. Zhitenev, and Joseph A. Stroscio",
+          "description": "Author(s): Daniel Walkup, Fereshte Ghahari, Steven R. Blankenship, Kenji Watanabe, Takashi Taniguchi, Nikolai B. Zhitenev, and Joseph A. Stroscio\nThe ability to pattern and simultaneously study a nanometer-scale potential landscape within hBN-based graphene devices using scanning tunneling microscopy (STM) opens a path for detailed investigation of model quantum systems. Here, the authors create a double-well potential and applied a strong magnetic field to induce Landau levels and the formation of quantum dots with single-electron charging characteristics. The system can be broadly tuned form weakly coupled dots to combined single dot while STM provides multiple measurement and manipulation modalities.\n\n[Phys. Rev. B 108, 235407] Published Wed Dec 06, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.235407",
+          "publishedOn": "2023-12-06T10:00:00.000Z",
+          "wordCount": 1380,
+          "title": "Visualizing the merger of tunably coupled graphene quantum dots",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.235407.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043203",
           "author": "Andre S. Sunahara, Matjaž Perc, and Haroldo V. Ribeiro",
           "description": "Author(s): Andre S. Sunahara, Matjaž Perc, and Haroldo V. Ribeiro\nMethods from time series analysis, dimensionality reduction, and network science are combined to show evidence for the natural emergence of six universal patterns of productivity in scientific careers: constant, u-shaped, decreasing, periodic, increasing, and canonical curves. Canonical curves are the most prevalent pattern, but contrary to expectations, productivity peaks occur much more frequently around midcareer rather than early.\n\n[Phys. Rev. Research 5, 043203] Published Tue Dec 05, 2023",
@@ -281,7 +321,7 @@
           "description": "Author(s): Adrian Solyom, Michael Caouette-Mansour, Brandon Ruffolo, Patrick Braganca, Lilian Childress, and Jack C. Sankey\nNanoscale magnetic circuits provide an alternate paradigm for computation and signal processing, but characterizing the GHz-frequency magnetic dynamics in these systems has been challenging. The authors use the single spin of a nitrogen-vacancy (N-V) center in diamond to probe nanoscale magnetic fields in the GHz regime, identifying signatures of a free-running and phase-locked spin-torque oscillator in the fluorescence spectrum of a proximal N-V, and measure how the dynamics impact the N-V’s spin relaxation. This technique could enable new sensing modalities for revealing the nanoscale structure of GHz-frequency dynamics in emerging magnetic nanotechnologies.\n\n[Phys. Rev. Applied 20, 054055] Published Tue Nov 28, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054055",
           "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 1367,
+          "wordCount": 1368,
           "title": "Single-spin spectroscopy of spontaneous and phase-locked spin-torque-oscillator dynamics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054055.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1176,
           "title": "Structure and dynamics of a pinned vortex liquid in a superconducting $a\\text{−}{\\mathrm{Re}}_{6}\\mathrm{Zr}$ thin film",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L180503.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.052408",
-          "author": "Robert Czupryniak, John Steinmetz, Paul G. Kwiat, and Andrew N. Jordan",
-          "description": "Author(s): Robert Czupryniak, John Steinmetz, Paul G. Kwiat, and Andrew N. Jordan\nThe authors propose two optimal phase-estimation schemes that can be used for quantum-enhanced long-baseline interferometry where distributed entanglement eliminates the loss of stellar photons during transmission over the baselines. The schemes can lead to a reduction of both the number of ancilla qubits and the number of gate operations by a factor of two.\n\n[Phys. Rev. A 108, 052408] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.052408",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 1034,
-          "title": "Optimal qubit circuits for quantum-enhanced telescopes",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.052408.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.197001",
-          "author": "Stefano Bosco, Simon Geyer, Leon C. Camenzind, Rafael S. Eggli, Andreas Fuhrer, Richard J. Warburton, Dominik M. Zumbühl, J. Carlos Egues, Andreas V. Kuhlmann, and Daniel Loss",
-          "description": "Author(s): Stefano Bosco, Simon Geyer, Leon C. Camenzind, Rafael S. Eggli, Andreas Fuhrer, Richard J. Warburton, Dominik M. Zumbühl, J. Carlos Egues, Andreas V. Kuhlmann, and Daniel Loss\nA microwave pulse modulates the phase of a spin qubit, providing an alternative driving mechanism in quantum information processing.\n\n[Phys. Rev. Lett. 131, 197001] Published Tue Nov 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.197001",
-          "publishedOn": "2023-11-07T10:00:00.000Z",
-          "wordCount": 1194,
-          "title": "Phase-Driving Hole Spin Qubits",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.197001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.114001",
-          "author": "Anand U. Oza, Giuseppe Pucci, Ian Ho, and Daniel M. Harris",
-          "description": "Author(s): Anand U. Oza, Giuseppe Pucci, Ian Ho, and Daniel M. Harris\n“Capillary surfers” are small objects that self-propel while floating at the interface of a vibrating fluid bath. In this paper, we construct and analyze a theoretical model for the waves generated by such surfers and thus the hydrodynamic forces exerted by one surfer on another. Our model recovers the dynamical modes of surfer pairs found in experiments, and predicts that surfer collectives may lock into a variety of quantized bound states. Generally, our work shows that capillary surfers are a promising platform for studying wave-coupled active matter.\n\n[Phys. Rev. Fluids 8, 114001] Published Tue Nov 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.114001",
-          "publishedOn": "2023-11-07T10:00:00.000Z",
-          "wordCount": 2476,
-          "title": "Theoretical modeling of capillary surfer interactions on a vibrating fluid bath",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.114001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L112001",
-          "author": "Ian Ho, Giuseppe Pucci, Anand U. Oza, and Daniel M. Harris",
-          "description": "Author(s): Ian Ho, Giuseppe Pucci, Anand U. Oza, and Daniel M. Harris\nA small solid particle resting atop a vibrating fluid interface generates a field of outwardly propagating capillary waves due to its relative vertical motion. In this paper, we show that if the particle’s symmetry is broken, the resultant unbalanced wave stresses enable steady self-propulsion along the interface. Such “capillary surfers” interact with each other hydrodynamically at long range via their mutual wavefield and form a number of dynamic bound states. This new active system bridges the gap between dissipation- and inertia-dominated regimes and promises a number of novel collective behaviors.\n\n[Phys. Rev. Fluids 8, L112001] Published Tue Nov 07, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.L112001",
-          "publishedOn": "2023-11-07T10:00:00.000Z",
-          "wordCount": 1058,
-          "title": "Capillary surfers: Wave-driven particles at a vibrating fluid interface",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.L112001.png"
         }
       ]
     }
