@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.231201",
+          "author": "Jack W. Skinner, Joonas Nättilä, and James Y-K. Cho",
+          "description": "Author(s): Jack W. Skinner, Joonas Nättilä, and James Y-K. Cho\nSupercomputer simulations of the weather on a hot Jupiter reveal a previously unseen storm pattern in which cyclones are repeatedly generated and destroyed.\n\n[Phys. Rev. Lett. 131, 231201] Published Thu Dec 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.231201",
+          "publishedOn": "2023-12-07T10:00:00.000Z",
+          "wordCount": 1515,
+          "title": "Repeated Cyclogenesis on Hot-Exoplanet Atmospheres with Deep Heating",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.231201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.238002",
+          "author": "Jianhang Xu, Ruiyi Zhou, Volker Blum, Tao E. Li, Sharon Hammes-Schiffer, and Yosuke Kanai",
+          "description": "Author(s): Jianhang Xu, Ruiyi Zhou, Volker Blum, Tao E. Li, Sharon Hammes-Schiffer, and Yosuke Kanai\nExtension of the real-time NEO-DFT method to periodic systems can help simulate the coupled quantum dynamics of electrons and protons in complex heterogeneous systems.\n\n[Phys. Rev. Lett. 131, 238002] Published Thu Dec 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.238002",
+          "publishedOn": "2023-12-07T10:00:00.000Z",
+          "wordCount": 1230,
+          "title": "First-Principles Approach for Coupled Quantum Dynamics of Electrons and Protons in Heterogeneous Systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.238002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.123101",
+          "author": "Yusuke Fujita and Makoto Iima",
+          "description": "Author(s): Yusuke Fujita and Makoto Iima\nDragonfly wings, with their unique corrugated structure, may achieve superior aerodynamic performance in specific flight conditions, although these conditions are not yet fully understood. This led us to investigate the vortex dynamics and lift generation as a corrugated wing transitions from a stationary state to translational motion. The results reveal that suppression of secondary vortices generated on the wing significantly improves the overall performance of corrugated wings. This advances our understanding of flight dynamics and can also contribute to applications in engineering and biomimicry.\n\n[Phys. Rev. Fluids 8, 123101] Published Thu Dec 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.8.123101",
+          "publishedOn": "2023-12-07T10:00:00.000Z",
+          "wordCount": 1196,
+          "title": "Dynamic lift enhancement mechanism of dragonfly wing model by vortex-corrugation interaction",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.8.123101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.064301",
+          "author": "Tobias Kühn and Rémi Monasson",
+          "description": "Author(s): Tobias Kühn and Rémi Monasson\nIt is known that information such as the position of an animal can be represented in a recurrent attractor neural network by localized bumps of activity of neurons. This work addresses the question of how heterogeneities in the interactions of neurons affect the accuracy of information storage. The authors calculate the Fisher information as a function of the intensity of disordered interactions. They find that moderate disorder does not wipe out all information in their model.\n\n[Phys. Rev. E 108, 064301] Published Thu Dec 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.064301",
+          "publishedOn": "2023-12-07T10:00:00.000Z",
+          "wordCount": 1021,
+          "title": "Information content in continuous attractor neural networks is preserved in the presence of moderate disordered background connectivity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.064301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.L111901",
+          "author": "Yin-Fa Shen, Jian-Peng Wang, and Qin Qin",
+          "description": "Author(s): Yin-Fa Shen, Jian-Peng Wang, and Qin Qin\nResearchers predict a large “CP” violation for the decay of a baryon that contains a bottom quark, a finding that has implications for how physicists understand the Universe.\n\n[Phys. Rev. D 108, L111901] Published Thu Dec 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.L111901",
+          "publishedOn": "2023-12-07T10:00:00.000Z",
+          "wordCount": 1017,
+          "title": "Possible large $CP$ violation in charmed ${\\mathrm{Λ}}_{b}$ decays",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.L111901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.235411",
+          "author": "Toshihiro Taen, Andhika Kiswandhi, and Toshihito Osada",
+          "description": "Author(s): Toshihiro Taen, Andhika Kiswandhi, and Toshihito Osada\nConventional quantum oscillations are periodic in an inverse of magnetic fields. Here, the authors observe magnetic-field periodic oscillations in a graphite thin film under magnetic fields where only two Landau levels remain. At this quasiquantum limit, they propose a new quantum oscillation mechanism: the quantum Sondheimer effect. The oscillations arise from the formation of the resonant modes periodically appearing in the magnetic fields. The period is inversely proportional to the film thickness, demonstrating its out-of-plane electron motion nature.\n\n[Phys. Rev. B 108, 235411] Published Thu Dec 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.235411",
+          "publishedOn": "2023-12-07T10:00:00.000Z",
+          "wordCount": 1640,
+          "title": "Magnetic-field periodic quantum Sondheimer oscillations in thin-film graphite",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.235411.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.064012",
+          "author": "Razmik A. Hovhannisyan, Taras Golod, and Vladimir M. Krasnov",
+          "description": "Author(s): Razmik A. Hovhannisyan, Taras Golod, and Vladimir M. Krasnov\nMagnetic sensors generally exhibit a trade-off between spatial resolution and field sensitivity: As sensor size decreases, resolution improves but sensitivity deteriorates. This study reveals that the field distribution in a superconducting Josephson junction can be inferred by analyzing the diffractionlike magnetic field modulation of the critical current Ic. Here the spatial resolution is constrained solely by the field range of the Ic(H) pattern and is unrelated to the junction’s size. A remarkable feature of this detection method is that high spatial resolution accompanies high field sensitivity.\n\n[Phys. Rev. Applied 20, 064012] Published Thu Dec 07, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.064012",
+          "publishedOn": "2023-12-07T10:00:00.000Z",
+          "wordCount": 1359,
+          "title": "Superresolution magnetic imaging by a Josephson junction via holographic reconstruction of ${I}_{c}(H)$ modulation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.064012.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.236202",
           "author": "Nick A. von Jeinsen, Sam M. Lambrick, Matthew Bergin, Aleksandar Radić, Boyao Liu, Dan Seremet, Andrew P. Jardine, and David J. Ward",
           "description": "Author(s): Nick A. von Jeinsen, Sam M. Lambrick, Matthew Bergin, Aleksandar Radić, Boyao Liu, Dan Seremet, Andrew P. Jardine, and David J. Ward\nResearchers have developed an atom-diffraction imaging method with micrometer spatial resolution, which may allow new applications in material characterization.\n\n[Phys. Rev. Lett. 131, 236202] Published Wed Dec 06, 2023",
@@ -924,86 +994,6 @@
           "wordCount": 735,
           "title": "Contribution of negative-energy states to multipolar polarizabilities of the Sr optical lattice clock",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.L051102.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043131",
-          "author": "Yuki Sato and Kiyoshi Kanazawa",
-          "description": "Author(s): Yuki Sato and Kiyoshi Kanazawa\nAn analysis of data from the Tokyo Stock Exchange provides the first quantitative evidence for the Lillo-Mike-Farmer model—a long-standing theory in economics.\n\n[Phys. Rev. Research 5, 043131] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043131",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 2932,
-          "title": "Quantitative statistical analysis of order-splitting behavior of individual trading accounts in the Japanese stock market over nine years",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.043131.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.194001",
-          "author": "Aurélien Goerlinger, Michael Baudoin, Farzam Zoueshtiagh, and Alexis Duchesne",
-          "description": "Author(s): Aurélien Goerlinger, Michael Baudoin, Farzam Zoueshtiagh, and Alexis Duchesne\nA fluid phenomenon seen daily in kitchens has been found to exhibit unexpected behavior.\n\n[Phys. Rev. Lett. 131, 194001] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.194001",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 1284,
-          "title": "Oscillations and Cavity Modes in the Circular Hydraulic Jump",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.194001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.196701",
-          "author": "Thomas P. Lyons, Jorge Puebla, Kei Yamamoto, Russell S. Deacon, Yunyoung Hwang, Koji Ishibashi, Sadamichi Maekawa, and Yoshichika Otani",
-          "description": "Author(s): Thomas P. Lyons, Jorge Puebla, Kei Yamamoto, Russell S. Deacon, Yunyoung Hwang, Koji Ishibashi, Sadamichi Maekawa, and Yoshichika Otani\nThe low oscillation frequency of spin waves in chromium trichloride enables researchers to explore this antiferromagnet’s rich properties with standard laboratory equipment.\n\n[Phys. Rev. Lett. 131, 196701] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.196701",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 1150,
-          "title": "Acoustically Driven Magnon-Phonon Coupling in a Layered Antiferromagnet",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.196701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.197401",
-          "author": "Yuki Sato and Kiyoshi Kanazawa",
-          "description": "Author(s): Yuki Sato and Kiyoshi Kanazawa\nAn analysis of data from the Tokyo Stock Exchange provides the first quantitative evidence for the Lillo-Mike-Farmer model—a long-standing theory in economics.\n\n[Phys. Rev. Lett. 131, 197401] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.197401",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 1426,
-          "title": "Inferring Microscopic Financial Information from the Long Memory in Market-Order Flow: A Quantitative Test of the Lillo-Mike-Farmer Model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.197401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.174412",
-          "author": "R. A. Ewings, M. Reehuis, F. Orlandi, P. Manuel, D. D. Khalyavin, A. S. Gibbs, A. D. Fortes, A. Hoser, A. J. Princep, and M. Jansen",
-          "description": "Author(s): R. A. Ewings, M. Reehuis, F. Orlandi, P. Manuel, D. D. Khalyavin, A. S. Gibbs, A. D. Fortes, A. Hoser, A. J. Princep, and M. Jansen\nCesium superoxide is magnetic, due to the half-occupied π orbitals on its O2− molecules. Neutron diffraction experiments done here find that the crystal structure undergoes a sequence of transitions from tetragonal to incommensurate to orthorhombic, with the latter two exhibiting staggered displacements of the cesium ions. The symmetry of this structure permits antisymmetric exchange, which is consistent with a canted antiferromagnetic structure also observed, and a nice example of a structure-property relationship.\n\n[Phys. Rev. B 108, 174412] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.174412",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 1595,
-          "title": "Crystal and magnetic structure of cesium superoxide",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.174412.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.205302",
-          "author": "Christopher Fuchs, Saquib Shamim, Pragya Shekhar, Lena Fürst, Johannes Kleinlein, Jukka I. Väyrynen, Hartmut Buhmann, and Laurens W. Molenkamp",
-          "description": "Author(s): Christopher Fuchs, Saquib Shamim, Pragya Shekhar, Lena Fürst, Johannes Kleinlein, Jukka I. Väyrynen, Hartmut Buhmann, and Laurens W. Molenkamp\nSince the first observation of the quantum spin Hall effect, it is known that the helical edge channel conductance exhibits fluctuations around the quantized value, in contrast to the (integer) quantum Hall effect. Here, the authors show, in a mechanistic study, that these fluctuations originate from spin-flip scattering mediated by charge puddles via a Kondo-type interaction, an effect which is expected to occur in any narrow-gap quantum spin Hall insulator.\n\n[Phys. Rev. B 108, 205302] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.205302",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 1247,
-          "title": "Kondo interaction of quantum spin Hall edge channels with charge puddles",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.205302.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L180102",
-          "author": "M. C. Cambria, G. Thiering, A. Norambuena, H. T. Dinani, A. Gardill, I. Kemeny, V. Lordi, Á. Gali, J. R. Maze, and S. Kolkowitz",
-          "description": "Author(s): M. C. Cambria, G. Thiering, A. Norambuena, H. T. Dinani, A. Gardill, I. Kemeny, V. Lordi, Á. Gali, J. R. Maze, and S. Kolkowitz\nThe zero-field splitting (ZFS) of the nitrogen vacancy (NV) center in diamond’s ground-state electronic spin is temperature dependent, enabling nanoscale thermometry with NV centers. Here, the authors propose a simple, analytical expression that captures the measured ZFS over a wide range of temperatures. The authors explain the physical motivations for this expression and suggest that similar expressions may apply to other properties of the NV center, as well as to other solid-state spin systems.\n\n[Phys. Rev. B 108, L180102] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L180102",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 1495,
-          "title": "Physically motivated analytical expression for the temperature dependence of the zero-field splitting of the nitrogen-vacancy center in diamond",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L180102.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L180503",
-          "author": "Rishabh Duhan, Subhamita Sengupta, Ruchi Tomar, Somak Basistha, Vivas Bagwe, Chandan Dasgupta, and Pratap Raychaudhuri",
-          "description": "Author(s): Rishabh Duhan, Subhamita Sengupta, Ruchi Tomar, Somak Basistha, Vivas Bagwe, Chandan Dasgupta, and Pratap Raychaudhuri\nReal space imaging using a scanning tunnelling microscope reveals the formation of an inhomogeneous vortex liquid state in few nanometer thick superconducting films that does not freeze into a crystal or a glass down to 0.41 K. Vortices in this two-dimensional liquid form a network of percolating paths, due to the combined effect of pinning and intervortex interaction. While some vortices remain static, others move on this network, with their relative fractions changing with magnetic field, temperature, and applied current.\n\n[Phys. Rev. B 108, L180503] Published Wed Nov 08, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L180503",
-          "publishedOn": "2023-11-08T10:00:00.000Z",
-          "wordCount": 1176,
-          "title": "Structure and dynamics of a pinned vortex liquid in a superconducting $a\\text{−}{\\mathrm{Re}}_{6}\\mathrm{Zr}$ thin film",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L180503.png"
         }
       ]
     }
