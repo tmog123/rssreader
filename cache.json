@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.246501",
+          "author": "Aidan P. Reddy, Trithep Devakul, and Liang Fu",
+          "description": "Author(s): Aidan P. Reddy, Trithep Devakul, and Liang Fu\nThe superlattice constant, the quantum confinement length, and the Wigner molecule size are three key length scales that control the properties of moiré materials at filling factors greater than one.\n\n[Phys. Rev. Lett. 131, 246501] Published Thu Dec 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.246501",
+          "publishedOn": "2023-12-14T10:00:00.000Z",
+          "wordCount": 959,
+          "title": "Artificial Atoms, Wigner Molecules, and an Emergent Kagome Lattice in Semiconductor Moiré Superlattices",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.246501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.L121502",
+          "author": "Dina Traykova, Rodrigo Vicente, Katy Clough, Thomas Helfer, Emanuele Berti, Pedro G. Ferreira, and Lam Hui",
+          "description": "Author(s): Dina Traykova, Rodrigo Vicente, Katy Clough, Thomas Helfer, Emanuele Berti, Pedro G. Ferreira, and Lam Hui\nThe authors compute the dynamical friction due to a scalar cloud on a moving, non-rotating black hole, offering for the first time a detailed comparison of analytical and numerical results, thereby putting both on firmer ground.\n\n[Phys. Rev. D 108, L121502] Published Thu Dec 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.L121502",
+          "publishedOn": "2023-12-14T10:00:00.000Z",
+          "wordCount": 1171,
+          "title": "Relativistic drag forces on black holes from scalar dark matter clouds of all sizes",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.L121502.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.214412",
+          "author": "J. Gronemann, S. Chattopadhyay, T. Gottschall, E. Osmic, A. T. M. N. Islam, V. K. Anand, B. Lake, H. Kaneko, H. Suzuki, J. Wosnitza, and T. Herrmannsdörfer",
+          "description": "Author(s): J. Gronemann, S. Chattopadhyay, T. Gottschall, E. Osmic, A. T. M. N. Islam, V. K. Anand, B. Lake, H. Kaneko, H. Suzuki, J. Wosnitza, and T. Herrmannsdörfer\nHere, the authors determine thermodynamic properties of pyrochlore spin-ice compounds at subkelvin temperatures. In particular, the magnetic field dependence of the heat capacity and magnetic entropy of Ho2Ti2O7 and Pr2Hf2O7 shows the existence of additional states beyond the electronic spin and orbital degrees of freedom. One can understand the data through the presence of hyperfine states and complex hyperfine-coupled term schemes.\n\n[Phys. Rev. B 108, 214412] Published Thu Dec 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.214412",
+          "publishedOn": "2023-12-14T10:00:00.000Z",
+          "wordCount": 1161,
+          "title": "Impact of hyperfine contributions on the ground state of spin-ice compounds",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.214412.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L241109",
+          "author": "Feng Ye, Zachary Morgan, Yu Zhang, Yifei Ni, and G. Cao",
+          "description": "Author(s): Feng Ye, Zachary Morgan, Yu Zhang, Yifei Ni, and G. Cao\nThe triple-layer, spin-orbit-coupled metal Sr4Ru3O10 features, peculiarly, a strong ferromagnetic state along the c axis but a contrasting metamagnetic state within the basal plane. Mere 4% Ir substitution for Ru readily alters the structural balance between the RuO6 layers, establishing a collinear ferromagnetic state with magnetic moments fully aligned along the c axis. The emerging perpendicular magnetic anisotropy increases the critical field for the metamagnetic transition, highlighting a critical coupling between the magnetic properties and the underlying lattice facilitated through orbital degrees of freedom and the enhanced spin-orbit interaction.\n\n[Phys. Rev. B 108, L241109] Published Thu Dec 14, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L241109",
+          "publishedOn": "2023-12-14T10:00:00.000Z",
+          "wordCount": 1103,
+          "title": "Stabilization of collinear ferromagnetic order in Ir-doped triple-layer ruthenate ${\\mathrm{Sr}}_{4}{\\mathrm{Ru}}_{3}{\\mathrm{O}}_{10}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L241109.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.242501",
           "author": "Z. H. Yang <em>et al.</em>",
           "description": "Author(s): Z. H. Yang et al.\nScattering experiments show that the four extra neutrons in helium-8 can pair up and form a nuclear analog of a Bose-Einstein condensate.\n\n[Phys. Rev. Lett. 131, 242501] Published Wed Dec 13, 2023",
@@ -921,7 +961,7 @@
           "description": "Author(s): Hanbit Oh and Ya-Hui Zhang\n80 K superconductivity was recently observed in a La3Ni2O7 under pressure. A pressing challenge is to unravel the intriguing pairing mechanism within these materials. Here, the authors point out a novel role of Hund’s rule to transmit the superexchange coupling of the dz2 orbital to the dx2−y2 orbital, which is a key factor for understanding the remarkably high Tc. The transmitted Hund coupling makes the dx2−y2 orbital feel a large interlayer spin coupling but no interlayer hopping, a situation not explored before. Within one-orbital mean-field theory, the authors find robust s-wave pairing even at 50% hole doping. Moreover, they propose a new analytical framework, the so-called type-II t-J model, which they argue is the minimal model to incorporate all essential ingredients, including large Hund’s coupling and two orbital effects. This work offers a new model, develops a pioneering method, and identifies intriguing pairing mechanisms in the emerging nickelate field.\n\n[Phys. Rev. B 108, 174511] Published Tue Nov 21, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.174511",
           "publishedOn": "2023-11-21T10:00:00.000Z",
-          "wordCount": 1198,
+          "wordCount": 1197,
           "title": "Type-II $t−J$ model and shared superexchange coupling from Hund's rule in superconducting ${\\mathrm{La}}_{3}{\\mathrm{Ni}}_{2}{\\mathrm{O}}_{7}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.174511.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1213,
           "title": "AlphaFold2 Can Predict Single-Mutation Effects",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.218401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.174432",
-          "author": "Xianghan Xu, Lijun Wu, Yimei Zhu, and R. J. Cava",
-          "description": "Author(s): Xianghan Xu, Lijun Wu, Yimei Zhu, and R. J. Cava\nAs a Kramers ion, Co2+ can function as an effective spin-half ion, exhibiting large quantum fluctuations that give rise to rich and intriguing magnetic behaviors. Here, the authors present the synthesis of sizable single crystals of K2Co2TeO6. The structural characterization reveals a layered structure with an undistorted Co2+ honeycomb lattice stacking together. Magnetization and thermodynamics data unveil intricate magnetic phases and competing interactions. These results establish a promising platform for exploring Kitaev interactions and discovering exotic quantum phases.\n\n[Phys. Rev. B 108, 174432] Published Mon Nov 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.174432",
-          "publishedOn": "2023-11-20T10:00:00.000Z",
-          "wordCount": 1116,
-          "title": "${\\mathrm{K}}_{2}{\\mathrm{Co}}_{2}{\\mathrm{TeO}}_{6}$: A layered magnet with a $S=\\frac{1}{2}\\phantom{\\rule{0.16em}{0ex}}{\\mathrm{Co}}^{2+}$ honeycomb lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.174432.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.205142",
-          "author": "Mário G. Silveirinha",
-          "description": "Author(s): Mário G. Silveirinha\nNontrivial topological phases in electronic materials are often associated with the quantization of the Hall conductivity. Here, the author introduces a photonic analogue of this phenomenon. It is shown that the physical acceleration of a material can induce a photon flow in a direction perpendicular to the acceleration, analogous to the electronic Hall effect. For nonreciprocal materials, the response function linking the induced energy flow with the acceleration is quantized and is determined by the photonic gap Chern number.\n\n[Phys. Rev. B 108, 205142] Published Mon Nov 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.205142",
-          "publishedOn": "2023-11-20T10:00:00.000Z",
-          "wordCount": 1119,
-          "title": "Shaking photons out of a topological material",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.205142.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054040",
-          "author": "Adomas Baliuka, Markus Stöcker, Michael Auer, Peter Freiwang, Harald Weinfurter, and Lukas Knips",
-          "description": "Author(s): Adomas Baliuka, Markus Stöcker, Michael Auer, Peter Freiwang, Harald Weinfurter, and Lukas Knips\nQuantum key distribution (QKD) is a technique that allows two distant parties to distribute and share a common secret, which then can be used as a cryptographic key. While mathematical proofs verify the security of perfectly implemented systems, imperfections in real devices allow attackers to retrieve information. This study uses machine-learning techniques to investigate information leakage via radio-frequency emissions of QKD device electronics. The approach allows researchers and engineers to harden devices against attacks.\n\n[Phys. Rev. Applied 20, 054040] Published Mon Nov 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054040",
-          "publishedOn": "2023-11-20T10:00:00.000Z",
-          "wordCount": 1782,
-          "title": "Deep-learning-based radio-frequency side-channel attack on quantum key distribution",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054040.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.052610",
-          "author": "Marta Gilaberte Basset, René Sondenheimer, Jorge Fuenzalida, Andres Vega, Sebastian Töpfer, Elkin A. Santos, Sina Saravi, Frank Setzpfandt, Fabian Steinlechner, and Markus Gräfe",
-          "description": "Author(s): Marta Gilaberte Basset, René Sondenheimer, Jorge Fuenzalida, Andres Vega, Sebastian Töpfer, Elkin A. Santos, Sina Saravi, Frank Setzpfandt, Fabian Steinlechner, and Markus Gräfe\nThe authors explore the resolution dependency of imaging with undetected light, specifically the connection between spatial resolution and the strength of position correlations of SPDC-generated photons. Their results show a discrepancy from theoretical models, so they introduce an extended model that better takes image resolution into account.\n\n[Phys. Rev. A 108, 052610] Published Mon Nov 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.052610",
-          "publishedOn": "2023-11-20T10:00:00.000Z",
-          "wordCount": 2013,
-          "title": "Experimental analysis of image resolution of quantum imaging with undetected light through position correlations",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.052610.png"
         }
       ]
     }
