@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.248102",
+          "author": "Max Huisman, Paul Digard, Wilson C. K. Poon, and Simon Titmuss",
+          "description": "Author(s): Max Huisman, Paul Digard, Wilson C. K. Poon, and Simon Titmuss\nExperiments verify a theory that explains why paint doesn’t dry any faster on a dry day than on a wet day.\n\n[Phys. Rev. Lett. 131, 248102] Published Fri Dec 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.248102",
+          "publishedOn": "2023-12-15T10:00:00.000Z",
+          "wordCount": 1099,
+          "title": "Evaporation of Concentrated Polymer Solutions Is Insensitive to Relative Humidity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.248102.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.064029",
+          "author": "Andrei Stankevych, Rishabh Saxena, Jeannine Grüne, Sebastian Lulei, Andreas Sperlich, Stavros Athanasopoulos, Alexander Vakhnin, Prakhar Sahay, Wolfgang Brütting, Vladimir Dyakonov, Heinz Bässler, Anna Köhler, and Andrey Kadashchuk",
+          "description": "Author(s): Andrei Stankevych, Rishabh Saxena, Jeannine Grüne, Sebastian Lulei, Andreas Sperlich, Stavros Athanasopoulos, Alexander Vakhnin, Prakhar Sahay, Wolfgang Brütting, Vladimir Dyakonov, Heinz Bässler, Anna Köhler, and Andrey Kadashchuk\nThis work demonstrates that triplet-triplet annihilation (TTA) is the predominant mechanism of intrinsic photogeneration of charge-carrier pairs via autoionization, in a single-component disordered organic system with no heavy atoms. The findings challenge established beliefs by revealing efficient carrier generation via TTA upon excitation near the absorption edge. Photocurrent measurements, optical spectroscopy, and spin-sensitive techniques support this model of bimolecular charge generation. Such mechanisms in organic semiconductors are relevant not just for OLEDs, but also for long-persistent luminescence, photovoltaics, and potentially for photocatalytic water splitting.\n\n[Phys. Rev. Applied 20, 064029] Published Fri Dec 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.064029",
+          "publishedOn": "2023-12-15T10:00:00.000Z",
+          "wordCount": 1633,
+          "title": "Charge-carrier photogeneration in single-component organic carbazole-based semiconductors via low excitation power triplet-triplet annihilation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.064029.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.120701",
+          "author": "Xiaobiao Huang, James Safranek, and Alexander Zholents",
+          "description": "Author(s): Xiaobiao Huang, James Safranek, and Alexander Zholents\nA simple twist makes the two-frequency crab cavity scheme an ideal add-on option to produce picosecond level short pulses in fourth-generation storage rings.\n\n[Phys. Rev. Accel. Beams 26, 120701] Published Fri Dec 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.120701",
+          "publishedOn": "2023-12-15T10:00:00.000Z",
+          "wordCount": 1314,
+          "title": "Obtaining picosecond x-ray pulses from fourth generation synchrotron light sources",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.26.120701.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.062214",
+          "author": "Abhisek Panda, Felix C. Binder, and Sai Vinjanampathy",
+          "description": "Author(s): Abhisek Panda, Felix C. Binder, and Sai Vinjanampathy\nThe authors introduce quantum thermal machines with feedback controlled by nonideal measurements. They shed light on overcoming a fundamental thermodynamic limitation against ideal projective measurements, by demonstrating that nonideal measurements can still drive engines consuming thermal or nonclassical correlations, albeit without additional thermodynamic benefit of quantum over classical correlations.\n\n[Phys. Rev. A 108, 062214] Published Fri Dec 15, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.062214",
+          "publishedOn": "2023-12-15T10:00:00.000Z",
+          "wordCount": 839,
+          "title": "Nonideal measurement heat engines",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.062214.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.246501",
           "author": "Aidan P. Reddy, Trithep Devakul, and Liang Fu",
           "description": "Author(s): Aidan P. Reddy, Trithep Devakul, and Liang Fu\nThe superlattice constant, the quantum confinement length, and the Wigner molecule size are three key length scales that control the properties of moiré materials at filling factors greater than one.\n\n[Phys. Rev. Lett. 131, 246501] Published Thu Dec 14, 2023",
@@ -961,49 +1001,9 @@
           "description": "Author(s): Hanbit Oh and Ya-Hui Zhang\n80 K superconductivity was recently observed in a La3Ni2O7 under pressure. A pressing challenge is to unravel the intriguing pairing mechanism within these materials. Here, the authors point out a novel role of Hund’s rule to transmit the superexchange coupling of the dz2 orbital to the dx2−y2 orbital, which is a key factor for understanding the remarkably high Tc. The transmitted Hund coupling makes the dx2−y2 orbital feel a large interlayer spin coupling but no interlayer hopping, a situation not explored before. Within one-orbital mean-field theory, the authors find robust s-wave pairing even at 50% hole doping. Moreover, they propose a new analytical framework, the so-called type-II t-J model, which they argue is the minimal model to incorporate all essential ingredients, including large Hund’s coupling and two orbital effects. This work offers a new model, develops a pioneering method, and identifies intriguing pairing mechanisms in the emerging nickelate field.\n\n[Phys. Rev. B 108, 174511] Published Tue Nov 21, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.174511",
           "publishedOn": "2023-11-21T10:00:00.000Z",
-          "wordCount": 1197,
+          "wordCount": 1198,
           "title": "Type-II $t−J$ model and shared superexchange coupling from Hund's rule in superconducting ${\\mathrm{La}}_{3}{\\mathrm{Ni}}_{2}{\\mathrm{O}}_{7}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.174511.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.205144",
-          "author": "Patrick J. Ledwith, Ashvin Vishwanath, and Daniel E. Parker",
-          "description": "Author(s): Patrick J. Ledwith, Ashvin Vishwanath, and Daniel E. Parker\nFractional Chern insulators exhibit the fractional quantum Hall effect (FQHE) in crystalline systems, without the need for strong magnetic fields, resulting in charge fractionalization, long-range entanglement, and anyonic statistics, potentially at elevated energy scales. The lowest Landau level (LLL) hosts the FQHE, but high Landau levels and many Chern bands do not. Vortexable bands capture the essential physics of the LLL that leads to the FQHE without requiring its more fine-tuned properties, such as uniformity of Berry curvature and of charge density.\n\n[Phys. Rev. B 108, 205144] Published Tue Nov 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.205144",
-          "publishedOn": "2023-11-21T10:00:00.000Z",
-          "wordCount": 1086,
-          "title": "Vortexability: A unifying criterion for ideal fractional Chern insulators",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.205144.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.205147",
-          "author": "Rui Sakano, Tokuro Hata, Kaiji Motoyama, Yoshimichi Teratani, Kazuhiko Tsutsumi, Akira Oguri, Tomonori Arakawa, Meydi Ferrier, Richard Deblock, Mikio Eto, and Kensuke Kobayashi",
-          "description": "Author(s): Rui Sakano, Tokuro Hata, Kaiji Motoyama, Yoshimichi Teratani, Kazuhiko Tsutsumi, Akira Oguri, Tomonori Arakawa, Meydi Ferrier, Richard Deblock, Mikio Eto, and Kensuke Kobayashi\nThe authors develop here an efficient and reliable method to estimate the Kondo temperature by exploiting the universal scaling property inherent in the Kondo effect, observed in the magnetic field dependent conductance in quantum dots. By applying this method to experiments conducted on a carbon nanotube quantum dot, they obtain successfully a quantitatively reliable estimate of the Kondo temperature. The method holds great promise for advancing the exploration of local Fermi liquid properties within various modern systems.\n\n[Phys. Rev. B 108, 205147] Published Tue Nov 21, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.205147",
-          "publishedOn": "2023-11-21T10:00:00.000Z",
-          "wordCount": 1350,
-          "title": "Kondo temperature evaluated from linear conductance in magnetic fields",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.205147.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020160",
-          "author": "Vidushi Adlakha and Eric Kuo",
-          "description": "Author(s): Vidushi Adlakha and Eric Kuo\nA starting point for researchers to learn more about the causal inference methods and analysis techniques that have been developed outside the field of PER.\n\n[Phys. Rev. Phys. Educ. Res. 19, 020160] Published Mon Nov 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.19.020160",
-          "publishedOn": "2023-11-20T10:00:00.000Z",
-          "wordCount": 1193,
-          "title": "Critical issues in statistical causal inference for observational physics education research",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRPER/key_images/10.1103/PhysRevPhysEducRes.19.020160.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.218401",
-          "author": "John M. McBride, Konstantin Polev, Amirbek Abdirasulov, Vladimir Reinharz, Bartosz A. Grzybowski, and Tsvi Tlusty",
-          "description": "Author(s): John M. McBride, Konstantin Polev, Amirbek Abdirasulov, Vladimir Reinharz, Bartosz A. Grzybowski, and Tsvi Tlusty\nA new method based on AlphaFold2 improves the precision of single-mutation predictions for protein folding.\n\n[Phys. Rev. Lett. 131, 218401] Published Mon Nov 20, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.218401",
-          "publishedOn": "2023-11-20T10:00:00.000Z",
-          "wordCount": 1213,
-          "title": "AlphaFold2 Can Predict Single-Mutation Effects",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.218401.png"
         }
       ]
     }
