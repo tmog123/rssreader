@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-18T00:49:06.482Z</id>
+    <id>urn:2023-12-19T00:47:40.545Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T00:49:06.482Z</updated>
+    <updated>2023-12-19T00:47:40.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Race-Track Trapped-Ion Quantum Processor]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041052</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041052"/>
+        <updated>2023-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. A. Moses et al.
+Major technical improvements to a quantum computer based on trapped ions could bring a large-scale version closer to reality.
+
+[Phys. Rev. X 13, 041052] Published Mon Dec 18, 2023]]></summary>
+        <author>
+            <name>S. A. Moses &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sampling Efficiency of Transverse Forces in Dense Liquids]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.257101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.257101"/>
+        <updated>2023-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Federico Ghimenti, Ludovic Berthier, Grzegorz Szamel, and Frédéric van Wijland
+Transverse forces that break detailed balance accelerate the dynamics of an overdamped many-body system while preserving the Boltzmann distribution.
+
+[Phys. Rev. Lett. 131, 257101] Published Mon Dec 18, 2023]]></summary>
+        <author>
+            <name>Federico Ghimenti, Ludovic Berthier, Grzegorz Szamel, and Frédéric van Wijland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$O(N)$ smectic $σ$ model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.224423</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.224423"/>
+        <updated>2023-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tzu-Chi Hsieh and Leo Radzihovsky
+A smectic liquid crystal is known to display quasi-long-range positional order in three dimensions due to its “soft” elasticity and corresponding strong thermal fluctuations. This work extends such uniaxial scalar density-wave order to N-component magnetic spin-density wave orders, and thereby derives a new class of O(N) smectic sigma model. The model provides a unifying description of the universal low-energy properties of a variety of physical systems, ranging from quantum striped states to helimagnets in frustrated spin systems.
+
+[Phys. Rev. B 108, 224423] Published Mon Dec 18, 2023]]></summary>
+        <author>
+            <name>Tzu-Chi Hsieh and Leo Radzihovsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spontaneous breaking of time-reversal symmetry and time-crystal states in chiral atomic systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.235154</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.235154"/>
+        <updated>2023-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mário G. Silveirinha, Hugo Terças, and Mauro Antezza
+Half-integer spin systems are characterized by a degenerate ground state. Here, the authors show that the chiral interactions of a spin-½ qubit with the vacuum fluctuations may spontaneously break both the time-reversal and the time-translation symmetries. In the former case, the electron spin becomes anchored along some particular direction of space determined by a geometrical symmetry. In contrast, the latter situation occurs when the intrinsic spin magnetic moment undergoes a cyclic oscillation in the ground state, realizing a time crystal.
+
+[Phys. Rev. B 108, 235154] Published Mon Dec 18, 2023]]></summary>
+        <author>
+            <name>Mário G. Silveirinha, Hugo Terças, and Mauro Antezza</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evaporation of Concentrated Polymer Solutions Is Insensitive to Relative Humidity]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.248102</id>
@@ -1251,58 +1303,6 @@ Charge asymmetry in mixtures of polyelectrolytes can slow down coarsening dynami
 [Phys. Rev. Lett. 131, 218201] Published Tue Nov 21, 2023]]></summary>
         <author>
             <name>Shensheng Chen and Zhen-Gang Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rayleigh-number dependence of the critical vibration frequency in vibrating thermal turbulence]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.113501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.113501"/>
-        <updated>2023-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ze-Lin Huang, Xi-Li Guo, Jian-Zhao Wu, Bo-Fu Wang, Kai Leong Chong, and Quan Zhou
-Vibration has the ability to control the convective heat transport depending on the relative direction of vibration to the gravitation. We show that horizontal vibration (perpendicular to gravitation) enhances heat transport while vertical vibration (parallel to gravitation) suppresses heat transport. The observed heat transport enhancement or suppression is indicated by the critical vibration frequency. We theoretically and numerically reveal the scaling law between the critical vibration frequency and the Rayleigh number.
-
-[Phys. Rev. Fluids 8, 113501] Published Tue Nov 21, 2023]]></summary>
-        <author>
-            <name>Ze-Lin Huang, Xi-Li Guo, Jian-Zhao Wu, Bo-Fu Wang, Kai Leong Chong, and Quan Zhou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric frustration of hard-disk packings on cones]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.108.054608</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.108.054608"/>
-        <updated>2023-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jessica H. Sun, Abigail Plummer, Grace H. Zhang, David R. Nelson, and Vinothan N. Manoharan
-This work models slow reaction-limited growth of crystals on a conical surface. Frustration arises from closure constraints when the crystal wraps around the cone. Defects form a seam running along the axial direction of the cone; a disordered region forms near the tip. The authors study how various parameters affect details.
-
-[Phys. Rev. E 108, 054608] Published Tue Nov 21, 2023]]></summary>
-        <author>
-            <name>Jessica H. Sun, Abigail Plummer, Grace H. Zhang, David R. Nelson, and Vinothan N. Manoharan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modeling backward-angle $(u\text{−}\text{channel})$ virtual Compton scattering at the future Electron-Ion Collider]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.108.055205</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.108.055205"/>
-        <updated>2023-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zachary Sweger, Saeahram Yoo, Ziyuan Zeng, Daniel Cebra, Spencer R. Klein, Yuanjing Ji, Xin Dong, and Minjung Kim
-High-energy backward scattering of photons can involve very large momentum transfers to the target baryons. This is in stark contrast to the more common forward scattering process which dominates the Compton scattering cross section and is widely recognized as one of the most important measurements in the quest to understand and image the proton and nuclei. The authors present a detailed study of such high-energy virtual Compton back scattering at the future Electron-Ion Collider (EIC). The paper describes new opportunities for obtaining relevant physics information from this particular scattering scenario and highlights the physics potential at the EIC.
-
-[Phys. Rev. C 108, 055205] Published Tue Nov 21, 2023]]></summary>
-        <author>
-            <name>Zachary Sweger, Saeahram Yoo, Ziyuan Zeng, Daniel Cebra, Spencer R. Klein, Yuanjing Ji, Xin Dong, and Minjung Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type-II $t−J$ model and shared superexchange coupling from Hund's rule in superconducting ${\mathrm{La}}_{3}{\mathrm{Ni}}_{2}{\mathrm{O}}_{7}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.174511</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.174511"/>
-        <updated>2023-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hanbit Oh and Ya-Hui Zhang
-80 K superconductivity was recently observed in a La3Ni2O7 under pressure. A pressing challenge is to unravel the intriguing pairing mechanism within these materials. Here, the authors point out a novel role of Hund’s rule to transmit the superexchange coupling of the dz2 orbital to the dx2−y2 orbital, which is a key factor for understanding the remarkably high Tc. The transmitted Hund coupling makes the dx2−y2 orbital feel a large interlayer spin coupling but no interlayer hopping, a situation not explored before. Within one-orbital mean-field theory, the authors find robust s-wave pairing even at 50% hole doping. Moreover, they propose a new analytical framework, the so-called type-II t-J model, which they argue is the minimal model to incorporate all essential ingredients, including large Hund’s coupling and two orbital effects. This work offers a new model, develops a pioneering method, and identifies intriguing pairing mechanisms in the emerging nickelate field.
-
-[Phys. Rev. B 108, 174511] Published Tue Nov 21, 2023]]></summary>
-        <author>
-            <name>Hanbit Oh and Ya-Hui Zhang</name>
         </author>
     </entry>
 </feed>
