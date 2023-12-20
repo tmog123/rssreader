@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-19T00:47:40.545Z</id>
+    <id>urn:2023-12-20T00:38:30.434Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T00:47:40.545Z</updated>
+    <updated>2023-12-20T00:38:30.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generalized Glauber Dynamics for Inference in Biology]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041053</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041053"/>
+        <updated>2023-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xiaowen Chen, Maciej Winiarski, Alicja Puścian, Ewelina Knapska, Aleksandra M. Walczak, and Thierry Mora
+A new model reproduces both the dynamical and steady-state behavior of a group of living organisms, a first for such systems.
+
+[Phys. Rev. X 13, 041053] Published Tue Dec 19, 2023]]></summary>
+        <author>
+            <name>Xiaowen Chen, Maciej Winiarski, Alicja Puścian, Ewelina Knapska, Aleksandra M. Walczak, and Thierry Mora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Domain Wall Speeds under Ultrafast Optical Excitation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.256702</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.256702"/>
+        <updated>2023-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rahul Jangid, Nanna Zhou Hagström, Meera Madhavi, Kyle Rockwell, Justin M. Shaw, Jeffrey A. Brock, Matteo Pancaldi, Dario De Angelis, Flavio Capotondi, Emanuele Pedersoli, Hans T. Nembach, Mark W. Keller, Stefano Bonetti, Eric E. Fullerton, Ezio Iacocca, Roopali Kukreja, and Thomas J. Silva
+Experiments reveal that the boundaries between magnetic domains in a multilayered magnetic metal can move faster than sound, confirming a previous prediction.
+
+[Phys. Rev. Lett. 131, 256702] Published Tue Dec 19, 2023]]></summary>
+        <author>
+            <name>Rahul Jangid, Nanna Zhou Hagström, Meera Madhavi, Kyle Rockwell, Justin M. Shaw, Jeffrey A. Brock, Matteo Pancaldi, Dario De Angelis, Flavio Capotondi, Emanuele Pedersoli, Hans T. Nembach, Mark W. Keller, Stefano Bonetti, Eric E. Fullerton, Ezio Iacocca, Roopali Kukreja, and Thomas J. Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dependence of scalar mixing on initial conditions in turbulent channel flow]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.124605</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.124605"/>
+        <updated>2023-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Milind Singh, Emmanuel Germaine, Laurent Mydlarski, and Luca Cortelezzi
+Scalar-field initial conditions can have a strong effect on the evolution(s) of scalar fields and the rate at which mixing occurs. The effects of the scalar field initial conditions are studied by analyzing the evolution of three scalar fields with interfaces oriented normal to the streamwise, wall-normal, and transverse directions. When the interface is aligned normal to the mean velocity vector, higher rates of production and destruction of the scalar dissipation, as well as strong advection and stretching of the interface by the mean flow are observed. It is therefore recommended that scalar interfaces be aligned normal to the mean velocity vector to promote mixing within internal flows.
+
+[Phys. Rev. Fluids 8, 124605] Published Tue Dec 19, 2023]]></summary>
+        <author>
+            <name>Milind Singh, Emmanuel Germaine, Laurent Mydlarski, and Luca Cortelezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monte Carlo generation of localized particle trajectories]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.108.065306</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.108.065306"/>
+        <updated>2023-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ivan Ahumada and James P. Edwards
+Monte Carlo simulations of path integrals suffer from reduced precision at large times due to undersampling. To address this problem the authors propose a scheme where the sampling trajectories are concentrated in more important regions, and they show the effectiveness of their method with some simple test cases.
+
+[Phys. Rev. E 108, 065306] Published Tue Dec 19, 2023]]></summary>
+        <author>
+            <name>Ivan Ahumada and James P. Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ionization clamping in ultrafast optical breakdown of transparent solids]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.064035</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.064035"/>
+        <updated>2023-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Anton Rudenko, Jerome V. Moloney, and Pavel Polynkin
+Internal modifications of transparent solid-state materials by intense, ultrashort laser pulses enable numerous applications in micromachining, photonics, and medicine. Understanding the highly nonlinear propagation of the laser beam through the interaction zone is important in developing these technologies. Here a comprehensive propagation model reveals that even under extremely tight focusing, the key physical quantities are rigidly clamped by plasma shielding, at values up to two orders of magnitude lower than those inferred from earlier studies. Potential routes to overcome the clamping limits are discussed.
+
+[Phys. Rev. Applied 20, 064035] Published Tue Dec 19, 2023]]></summary>
+        <author>
+            <name>Anton Rudenko, Jerome V. Moloney, and Pavel Polynkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monte Carlo graph search for quantum circuit optimization]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.062615</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.062615"/>
+        <updated>2023-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bodo Rosenhahn and Tobias J. Osborne
+The authors introduce a search algorithm aimed at optimizing the arrangement of quantum gates, leveraging different sampling techniques to dynamically grow a graph that represents potential quantum circuits. They demonstrate efficacy in reducing the quantum gate count, both theoretically and numerically, albeit with acknowledged computational challenges as the graph expands.
+
+[Phys. Rev. A 108, 062615] Published Tue Dec 19, 2023]]></summary>
+        <author>
+            <name>Bodo Rosenhahn and Tobias J. Osborne</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Race-Track Trapped-Ion Quantum Processor]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041052</id>
@@ -1225,84 +1303,6 @@ There are very few analytical methods to calculate entanglement entropy (EE) of 
 [Phys. Rev. B 108, 174309] Published Wed Nov 22, 2023]]></summary>
         <author>
             <name>Saranyo Moitra and Rajdeep Sensarma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strong magnetic proximity effect in van der Waals heterostructures driven by direct hybridization]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.184423</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.184423"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. Cardoso, A. T. Costa, A. H. MacDonald, and J. Fernández-Rossier
-The conventional spin proximity effect is normally pictured in terms of a small spin splitting of the bands of a nonmagnetic material, due to exchange coupling to a ferromagnet. In this work, the authors show a different type of proximity mechanism, where only one spin channel in the nonmagnetic material becomes strongly hybridized with the ferromagnet, whereas the other remains unaffected. In the case of graphene coupled to CrI3, a ferromagnetic insulator, the authors show that the hybridization proximity is both strong and electrically tunable.
-
-[Phys. Rev. B 108, 184423] Published Wed Nov 22, 2023]]></summary>
-        <author>
-            <name>C. Cardoso, A. T. Costa, A. H. MacDonald, and J. Fernández-Rossier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transport anomalies in multiband superconductors near the quantum critical point]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.184513</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.184513"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Maxim Dzero, Maxim Khodas, and Alex Levchenko
-Exploring quantum superconductor-metal transitions in correlated electron systems reveals intriguing phenomena under diverse nonthermal influences like pressure, chemical substitution, or magnetic field. This study delves into the impact of thermal and quantum fluctuations on transport properties as the system nears the superconducting state from the metallic phase. The focus is on multiband superconductors, unraveling the nuanced role of superconducting fluctuations. Interestingly, depending on the trajectory towards the quantum critical point, these fluctuations may induce localizing corrections to the normal-state conductivity.
-
-[Phys. Rev. B 108, 184513] Published Wed Nov 22, 2023]]></summary>
-        <author>
-            <name>Maxim Dzero, Maxim Khodas, and Alex Levchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wigner-Araki-Yanase Theorem for Continuous and Unbounded Conserved Observables]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.210201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.210201"/>
-        <updated>2023-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yui Kuramochi and Hiroyasu Tajima
-According to a new extension to an old theory, a particle’s position cannot be measured precisely even if its momentum is not measured simultaneously.
-
-[Phys. Rev. Lett. 131, 210201] Published Tue Nov 21, 2023]]></summary>
-        <author>
-            <name>Yui Kuramochi and Hiroyasu Tajima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logical Magic State Preparation with Fidelity beyond the Distillation Threshold on a Superconducting Quantum Processor]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.210603</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.210603"/>
-        <updated>2023-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yangsen Ye et al.
-An efficient and scalable protocol to prepare arbitrary logical states for the distance-3 surface code is demonstrated using 17 out of the 66 qubits on the Zuchongzhi 2.1 superconducting quantum processor.
-
-[Phys. Rev. Lett. 131, 210603] Published Tue Nov 21, 2023]]></summary>
-        <author>
-            <name>Yangsen Ye &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Validation of the $^{10}\mathrm{Be}$ Ground-State Molecular Structure Using $^{10}\mathrm{Be}(p,pα)^{6}\mathrm{He}$ Triple Differential Reaction Cross-Section Measurements]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.212501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.212501"/>
-        <updated>2023-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. J. Li et al.
-The protons and neutrons in a nucleus can form clusters analogous to atoms in a molecule, even in the nuclear ground state.
-
-[Phys. Rev. Lett. 131, 212501] Published Tue Nov 21, 2023]]></summary>
-        <author>
-            <name>P. J. Li &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charge Asymmetry Suppresses Coarsening Dynamics in Polyelectrolyte Complex Coacervation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.218201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.218201"/>
-        <updated>2023-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Shensheng Chen and Zhen-Gang Wang
-Charge asymmetry in mixtures of polyelectrolytes can slow down coarsening dynamics during liquid-liquid phase separation.
-
-[Phys. Rev. Lett. 131, 218201] Published Tue Nov 21, 2023]]></summary>
-        <author>
-            <name>Shensheng Chen and Zhen-Gang Wang</name>
         </author>
     </entry>
 </feed>
