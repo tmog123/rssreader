@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041054",
+          "author": "Siddharth Patwardhan, Varun K. Rao, Santo Fortunato, and Filippo Radicchi",
+          "description": "Author(s): Siddharth Patwardhan, Varun K. Rao, Santo Fortunato, and Filippo Radicchi\nDisease contagion is suppressed when different social groups have a large overlap in membership.\n\n[Phys. Rev. X 13, 041054] Published Wed Dec 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041054",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 2033,
+          "title": "Epidemic Spreading in Group-Structured Populations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041054.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041055",
+          "author": "C. A. Argüelles, P. Fernández, I. Martínez-Soler, and M. Jin (靳淼辰)",
+          "description": "Author(s): C. A. Argüelles, P. Fernández, I. Martínez-Soler, and M. Jin (靳淼辰)\nThe combined analysis of present and upcoming atmospheric-neutrino experiments may lead to the solution of outstanding puzzles in neutrino physics.\n\n[Phys. Rev. X 13, 041055] Published Wed Dec 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041055",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 2462,
+          "title": "Measuring Oscillations with a Million Atmospheric Neutrinos",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041055.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.123804",
+          "author": "Nico Unglert, Jesús Carrete, Livia B. Pártay, and Georg K. H. Madsen",
+          "description": "Author(s): Nico Unglert, Jesús Carrete, Livia B. Pártay, and Georg K. H. Madsen\nPhase diagrams map out the thermodynamically stable conditions for different phases. Their predictive atomistic simulations demands integration of statistical mechanics and quantum mechanics, making computational cost a challenge. Our work successfully combines a neural-network model for silicon’s potential energy with nested-sampling to predict its low-pressure phase diagram accurately. Trained on diverse silicon structures, the model aligns remarkably well with experiments, accurately reproducing the melting line and identifying stable structures. The fusion of neural networks and nested sampling opens the door to not only predict phase diagrams but also assess the accuracy of the underlying exchange-correlation functionals.\n\n[Phys. Rev. Materials 7, 123804] Published Wed Dec 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.123804",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 1304,
+          "title": "Neural-network force field backed nested sampling: Study of the silicon $p\\text{−}T$ phase diagram",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.123804.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.124057",
+          "author": "Patryk Mach, Adam Cieślik, and Andrzej Odrzywołek",
+          "description": "Author(s): Patryk Mach, Adam Cieślik, and Andrzej Odrzywołek\nUnderstanding the phase space distribution of charge particles around compact object especially black holes are a central question in understanding the physics of collisionless accretion around these objects. Here, the authors compute this distribution by doing a clever Monte Carlo sampling of particles far away from the black hole and computing how they evolve. This can potentially lead to the development of steady state solutions that can augment time-dependent solutions that are computed using particle-in-cell simulations.\n\n[Phys. Rev. D 108, 124057] Published Wed Dec 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.124057",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 1651,
+          "title": "Monte Carlo methods for stationary solutions of general-relativistic Vlasov systems: Collisionless accretion onto black holes",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.124057.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.124060",
+          "author": "Ethan Payne, Maximiliano Isi, Katerina Chatziioannou, and Will M. Farr",
+          "description": "Author(s): Ethan Payne, Maximiliano Isi, Katerina Chatziioannou, and Will M. Farr\nGravitational wave tests of general relativity (GR) can suffer from implicit population level biases that need to be addressed in order to accurately infer departures from GR. The authors show how modeling the astrophysical population simultaneously with the deviation from GR provides more trustworthy tests of GR.\n\n[Phys. Rev. D 108, 124060] Published Wed Dec 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.124060",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 1833,
+          "title": "Fortifying gravitational-wave tests of general relativity against astrophysical assumptions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.124060.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.235160",
+          "author": "R. Venturini, A. Sarkar, P. Sutar, Z. Jagličić, Y. Vaskivskyi, E. Goreshnik, D. Mihailovic, and T. Mertelj",
+          "description": "Author(s): R. Venturini, A. Sarkar, P. Sutar, Z. Jagličić, Y. Vaskivskyi, E. Goreshnik, D. Mihailovic, and T. Mertelj\nUsing transient optical spectroscopy, the authors investigate ultrafast optical suppression and recovery of the charge density wave (CDW) in 2H-NbSe2, a layered material where CDW and superconductivity coexist. The suppression is marked by the absence of coherent amplitude mode oscillations and a relatively slow, picosecond timescale, different from most typical CDW materials. The suppression of the CDW is only weakly nonthermal and is characterized by an excitation of a large number of phonon degrees of freedom. The recovery of the CDW phase is dominated by slow phonon diffusion.\n\n[Phys. Rev. B 108, 235160] Published Wed Dec 20, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.235160",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 1388,
+          "title": "Unconventional photoinduced charge density wave dynamics in $2H\\text{−}{\\mathrm{NbSe}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.235160.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041053",
           "author": "Xiaowen Chen, Maciej Winiarski, Alicja Puścian, Ewelina Knapska, Aleksandra M. Walczak, and Thierry Mora",
           "description": "Author(s): Xiaowen Chen, Maciej Winiarski, Alicja Puścian, Ewelina Knapska, Aleksandra M. Walczak, and Thierry Mora\nA new model reproduces both the dynamical and steady-state behavior of a group of living organisms, a first for such systems.\n\n[Phys. Rev. X 13, 041053] Published Tue Dec 19, 2023",
@@ -944,66 +1004,6 @@
           "wordCount": 2270,
           "title": "Midcircuit Qubit Measurement and Rearrangement in a $^{171}\\mathrm{Yb}$ Atomic Array",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041034.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041035",
-          "author": "Joanna W. Lis, Aruku Senoo, William F. McGrew, Felix Rönchen, Alec Jenkins, and Adam M. Kaufman",
-          "description": "Author(s): Joanna W. Lis, Aruku Senoo, William F. McGrew, Felix Rönchen, Alec Jenkins, and Adam M. Kaufman\nThree research groups have exploited the nuclear spins of ytterbium-171 to manipulate qubits before they are read out—an approach that could lead to efficient error-correction schemes for trapped-atom computing platforms.\n\n[Phys. Rev. X 13, 041035] Published Wed Nov 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041035",
-          "publishedOn": "2023-11-22T10:00:00.000Z",
-          "wordCount": 3359,
-          "title": "Midcircuit Operations Using the <i>omg</i> Architecture in Neutral Atom Arrays",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041035.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.216501",
-          "author": "Norimasa Sasabe, Masaichiro Mizumaki, Takayuki Uozumi, and Yuichi Yamasaki",
-          "description": "Author(s): Norimasa Sasabe, Masaichiro Mizumaki, Takayuki Uozumi, and Yuichi Yamasaki\nA theoretical study on the feasibility of observing x-ray magnetic circular dichroism on a compound with collinear antiferromagnetism reveals two possible magnetic phases, excitonic antiferromagnetism and van Vleck type paramagnetism.\n\n[Phys. Rev. Lett. 131, 216501] Published Wed Nov 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.216501",
-          "publishedOn": "2023-11-22T10:00:00.000Z",
-          "wordCount": 929,
-          "title": "Ferroic Order for Anisotropic Magnetic Dipole Term in Collinear Antiferromagnets of $({t}_{2g}{)}^{4}$ System",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.216501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.218301",
-          "author": "Brieuc Benvegnen, Omer Granek, Sunghan Ro, Ran Yaacoby, Hugues Chaté, Yariv Kafri, David Mukamel, Alexandre Solon, and Julien Tailleur",
-          "description": "Author(s): Brieuc Benvegnen, Omer Granek, Sunghan Ro, Ran Yaacoby, Hugues Chaté, Yariv Kafri, David Mukamel, Alexandre Solon, and Julien Tailleur\nDroplets of active particles moving in a direction opposite that of an ordered flocking phase nucleate and grow and spread ballistically in all directions, implying that discrete-symmetry flocks are metastable in all dimensions.\n\n[Phys. Rev. Lett. 131, 218301] Published Wed Nov 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.218301",
-          "publishedOn": "2023-11-22T10:00:00.000Z",
-          "wordCount": 1039,
-          "title": "Metastability of Discrete-Symmetry Flocks",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.218301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.108.054904",
-          "author": "Douglas D. Carvalho, Nicolao C. Lima, and Erick M. Franklin",
-          "description": "Author(s): Douglas D. Carvalho, Nicolao C. Lima, and Erick M. Franklin\nNumerical simulations reveal that an impact crater’s shape can depend on the impactor’s spin and its degree of cohesion.\n\n[Phys. Rev. E 108, 054904] Published Wed Nov 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.054904",
-          "publishedOn": "2023-11-22T10:00:00.000Z",
-          "wordCount": 1305,
-          "title": "Impact craters formed by spinning granular projectiles",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.054904.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.106018",
-          "author": "Lara B. Anderson, Callum R. Brodie, and James Gray",
-          "description": "Author(s): Lara B. Anderson, Callum R. Brodie, and James Gray\nThe authors study transitions of particular string compactifications (heterotic theories with N=1 supersymmetry in four dimensions) that change the topology and other nonpertubative properties of the internal manifold. This is part of trying to understand the string landscape, here the moduli space of heterotic compactifications, and string effective field theories. The authors provide geometric analyses, which are an important foundations for the physical understanding of these transitions.\n\n[Phys. Rev. D 108, 106018] Published Wed Nov 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.106018",
-          "publishedOn": "2023-11-22T10:00:00.000Z",
-          "wordCount": 1131,
-          "title": "Branes and bundles through conifold transitions and dualities in heterotic string theory",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.106018.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.174309",
-          "author": "Saranyo Moitra and Rajdeep Sensarma",
-          "description": "Author(s): Saranyo Moitra and Rajdeep Sensarma\nThere are very few analytical methods to calculate entanglement entropy (EE) of large quantum many-body states. Here, the authors show how to construct EE of generic interacting fermions in arbitrary spatial dimensions in terms of measurable correlation functions. They provide approximate answers for EE when only few-particle correlations are known. The field theory they construct is applicable to systems both in and out of thermal equilibrium.\n\n[Phys. Rev. B 108, 174309] Published Wed Nov 22, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.174309",
-          "publishedOn": "2023-11-22T10:00:00.000Z",
-          "wordCount": 2164,
-          "title": "Building entanglement entropy out of correlation functions for interacting fermions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.174309.png"
         }
       ]
     }

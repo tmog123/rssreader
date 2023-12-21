@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T00:38:30.434Z</id>
+    <id>urn:2023-12-21T00:46:44.239Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-20T00:38:30.434Z</updated>
+    <updated>2023-12-21T00:46:44.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Epidemic Spreading in Group-Structured Populations]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041054</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041054"/>
+        <updated>2023-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Siddharth Patwardhan, Varun K. Rao, Santo Fortunato, and Filippo Radicchi
+Disease contagion is suppressed when different social groups have a large overlap in membership.
+
+[Phys. Rev. X 13, 041054] Published Wed Dec 20, 2023]]></summary>
+        <author>
+            <name>Siddharth Patwardhan, Varun K. Rao, Santo Fortunato, and Filippo Radicchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Oscillations with a Million Atmospheric Neutrinos]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041055</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041055"/>
+        <updated>2023-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): C. A. Argüelles, P. Fernández, I. Martínez-Soler, and M. Jin (靳淼辰)
+The combined analysis of present and upcoming atmospheric-neutrino experiments may lead to the solution of outstanding puzzles in neutrino physics.
+
+[Phys. Rev. X 13, 041055] Published Wed Dec 20, 2023]]></summary>
+        <author>
+            <name>C. A. Argüelles, P. Fernández, I. Martínez-Soler, and M. Jin (靳淼辰)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural-network force field backed nested sampling: Study of the silicon $p\text{−}T$ phase diagram]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.123804</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.123804"/>
+        <updated>2023-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Nico Unglert, Jesús Carrete, Livia B. Pártay, and Georg K. H. Madsen
+Phase diagrams map out the thermodynamically stable conditions for different phases. Their predictive atomistic simulations demands integration of statistical mechanics and quantum mechanics, making computational cost a challenge. Our work successfully combines a neural-network model for silicon’s potential energy with nested-sampling to predict its low-pressure phase diagram accurately. Trained on diverse silicon structures, the model aligns remarkably well with experiments, accurately reproducing the melting line and identifying stable structures. The fusion of neural networks and nested sampling opens the door to not only predict phase diagrams but also assess the accuracy of the underlying exchange-correlation functionals.
+
+[Phys. Rev. Materials 7, 123804] Published Wed Dec 20, 2023]]></summary>
+        <author>
+            <name>Nico Unglert, Jesús Carrete, Livia B. Pártay, and Georg K. H. Madsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monte Carlo methods for stationary solutions of general-relativistic Vlasov systems: Collisionless accretion onto black holes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.124057</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.124057"/>
+        <updated>2023-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Patryk Mach, Adam Cieślik, and Andrzej Odrzywołek
+Understanding the phase space distribution of charge particles around compact object especially black holes are a central question in understanding the physics of collisionless accretion around these objects. Here, the authors compute this distribution by doing a clever Monte Carlo sampling of particles far away from the black hole and computing how they evolve. This can potentially lead to the development of steady state solutions that can augment time-dependent solutions that are computed using particle-in-cell simulations.
+
+[Phys. Rev. D 108, 124057] Published Wed Dec 20, 2023]]></summary>
+        <author>
+            <name>Patryk Mach, Adam Cieślik, and Andrzej Odrzywołek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortifying gravitational-wave tests of general relativity against astrophysical assumptions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.124060</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.124060"/>
+        <updated>2023-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ethan Payne, Maximiliano Isi, Katerina Chatziioannou, and Will M. Farr
+Gravitational wave tests of general relativity (GR) can suffer from implicit population level biases that need to be addressed in order to accurately infer departures from GR. The authors show how modeling the astrophysical population simultaneously with the deviation from GR provides more trustworthy tests of GR.
+
+[Phys. Rev. D 108, 124060] Published Wed Dec 20, 2023]]></summary>
+        <author>
+            <name>Ethan Payne, Maximiliano Isi, Katerina Chatziioannou, and Will M. Farr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unconventional photoinduced charge density wave dynamics in $2H\text{−}{\mathrm{NbSe}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.235160</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.235160"/>
+        <updated>2023-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): R. Venturini, A. Sarkar, P. Sutar, Z. Jagličić, Y. Vaskivskyi, E. Goreshnik, D. Mihailovic, and T. Mertelj
+Using transient optical spectroscopy, the authors investigate ultrafast optical suppression and recovery of the charge density wave (CDW) in 2H-NbSe2, a layered material where CDW and superconductivity coexist. The suppression is marked by the absence of coherent amplitude mode oscillations and a relatively slow, picosecond timescale, different from most typical CDW materials. The suppression of the CDW is only weakly nonthermal and is characterized by an excitation of a large number of phonon degrees of freedom. The recovery of the CDW phase is dominated by slow phonon diffusion.
+
+[Phys. Rev. B 108, 235160] Published Wed Dec 20, 2023]]></summary>
+        <author>
+            <name>R. Venturini, A. Sarkar, P. Sutar, Z. Jagličić, Y. Vaskivskyi, E. Goreshnik, D. Mihailovic, and T. Mertelj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generalized Glauber Dynamics for Inference in Biology]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041053</id>
@@ -1225,84 +1303,6 @@ Three research groups have exploited the nuclear spins of ytterbium-171 to manip
 [Phys. Rev. X 13, 041034] Published Wed Nov 22, 2023]]></summary>
         <author>
             <name>M. A. Norcia &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midcircuit Operations Using the <i>omg</i> Architecture in Neutral Atom Arrays]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041035</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041035"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Joanna W. Lis, Aruku Senoo, William F. McGrew, Felix Rönchen, Alec Jenkins, and Adam M. Kaufman
-Three research groups have exploited the nuclear spins of ytterbium-171 to manipulate qubits before they are read out—an approach that could lead to efficient error-correction schemes for trapped-atom computing platforms.
-
-[Phys. Rev. X 13, 041035] Published Wed Nov 22, 2023]]></summary>
-        <author>
-            <name>Joanna W. Lis, Aruku Senoo, William F. McGrew, Felix Rönchen, Alec Jenkins, and Adam M. Kaufman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferroic Order for Anisotropic Magnetic Dipole Term in Collinear Antiferromagnets of $({t}_{2g}{)}^{4}$ System]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.216501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.216501"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Norimasa Sasabe, Masaichiro Mizumaki, Takayuki Uozumi, and Yuichi Yamasaki
-A theoretical study on the feasibility of observing x-ray magnetic circular dichroism on a compound with collinear antiferromagnetism reveals two possible magnetic phases, excitonic antiferromagnetism and van Vleck type paramagnetism.
-
-[Phys. Rev. Lett. 131, 216501] Published Wed Nov 22, 2023]]></summary>
-        <author>
-            <name>Norimasa Sasabe, Masaichiro Mizumaki, Takayuki Uozumi, and Yuichi Yamasaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metastability of Discrete-Symmetry Flocks]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.218301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.218301"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Brieuc Benvegnen, Omer Granek, Sunghan Ro, Ran Yaacoby, Hugues Chaté, Yariv Kafri, David Mukamel, Alexandre Solon, and Julien Tailleur
-Droplets of active particles moving in a direction opposite that of an ordered flocking phase nucleate and grow and spread ballistically in all directions, implying that discrete-symmetry flocks are metastable in all dimensions.
-
-[Phys. Rev. Lett. 131, 218301] Published Wed Nov 22, 2023]]></summary>
-        <author>
-            <name>Brieuc Benvegnen, Omer Granek, Sunghan Ro, Ran Yaacoby, Hugues Chaté, Yariv Kafri, David Mukamel, Alexandre Solon, and Julien Tailleur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact craters formed by spinning granular projectiles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.108.054904</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.108.054904"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Douglas D. Carvalho, Nicolao C. Lima, and Erick M. Franklin
-Numerical simulations reveal that an impact crater’s shape can depend on the impactor’s spin and its degree of cohesion.
-
-[Phys. Rev. E 108, 054904] Published Wed Nov 22, 2023]]></summary>
-        <author>
-            <name>Douglas D. Carvalho, Nicolao C. Lima, and Erick M. Franklin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Branes and bundles through conifold transitions and dualities in heterotic string theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.108.106018</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.108.106018"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lara B. Anderson, Callum R. Brodie, and James Gray
-The authors study transitions of particular string compactifications (heterotic theories with N=1 supersymmetry in four dimensions) that change the topology and other nonpertubative properties of the internal manifold. This is part of trying to understand the string landscape, here the moduli space of heterotic compactifications, and string effective field theories. The authors provide geometric analyses, which are an important foundations for the physical understanding of these transitions.
-
-[Phys. Rev. D 108, 106018] Published Wed Nov 22, 2023]]></summary>
-        <author>
-            <name>Lara B. Anderson, Callum R. Brodie, and James Gray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building entanglement entropy out of correlation functions for interacting fermions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.174309</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.174309"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Saranyo Moitra and Rajdeep Sensarma
-There are very few analytical methods to calculate entanglement entropy (EE) of large quantum many-body states. Here, the authors show how to construct EE of generic interacting fermions in arbitrary spatial dimensions in terms of measurable correlation functions. They provide approximate answers for EE when only few-particle correlations are known. The field theory they construct is applicable to systems both in and out of thermal equilibrium.
-
-[Phys. Rev. B 108, 174309] Published Wed Nov 22, 2023]]></summary>
-        <author>
-            <name>Saranyo Moitra and Rajdeep Sensarma</name>
         </author>
     </entry>
 </feed>
