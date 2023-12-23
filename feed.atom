@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-22T00:46:34.541Z</id>
+    <id>urn:2023-12-23T00:44:00.911Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T00:46:34.541Z</updated>
+    <updated>2023-12-23T00:44:00.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Relativistic two-body currents for one-nucleon knockout in electron-nucleus scattering]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.108.064608</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.108.064608"/>
+        <updated>2023-12-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): T. Franco-Munoz, J. García-Marcos, R. González-Jiménez, and J. M. Udías
+Electron scattering is currently the subject of renewed interest, also by virtue of its connections with the neutrino-nucleus interaction. This work represents a step forward for the description of the quasielastic region, through the introduction of two-body meson-exchange currents in a fully relativistic approach. The good agreement with the experimental response of 12C opens up interesting perspectives of applications of the same model to neutrino scattering of heavier nuclei, of great interest for neutrino oscillation experiments, in particular for the new generation of experiments that require an unprecedented level of accuracy.
+
+[Phys. Rev. C 108, 064608] Published Fri Dec 22, 2023]]></summary>
+        <author>
+            <name>T. Franco-Munoz, J. García-Marcos, R. González-Jiménez, and J. M. Udías</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twist- and gate-tunable proximity spin-orbit coupling, spin relaxation anisotropy, and charge-to-spin conversion in heterostructures of graphene and transition metal dichalcogenides]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.235166</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.235166"/>
+        <updated>2023-12-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Klaus Zollner, Simão M. João, Branislav K. Nikolić, and Jaroslav Fabian
+Proximity effects in van der Waals heterostructures offer controllable ways to tailor the electronic band structure of adjacent 2D materials. Here, the authors perform extensive first-principles calculations, to reveal the impact of twisting, gating, stacking, interlayer distance, and encapsulation, on the spin-orbit proximitized Dirac bands in graphene/transition metal dichalcogenide heterostructures. Furthermore, the authors make specific predictions for experimentally measurable quantities, such as charge-to-spin conversion efficiency. The results highlight the enormous tunability potential of proximity-induced phenomena in van der Waals heterostructures.
+
+[Phys. Rev. B 108, 235166] Published Fri Dec 22, 2023]]></summary>
+        <author>
+            <name>Klaus Zollner, Simão M. João, Branislav K. Nikolić, and Jaroslav Fabian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural sensing and control in a kilometer-scale gravitational-wave observatory]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.064041</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.064041"/>
+        <updated>2023-12-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): N. Mukund, J. Lough, A. Bisht, H. Wittel, S. Nadji, C. Affeldt, F. Bergamin, M. Brinkmann, V. Kringel, H. Lück, M. Weinert, and K. Danzmann
+Aligning suspended optics in gravitational-wave observatories is crucial for detecting astrophysical phenomena⏤and it is also challenging, due to several environmental factors. This research implements neural-network-based sensing and control deployed at the GEO600 detector, utilizing a sensor with a convolutional neural network and long- and short-term memory, plus a deep-reinforcement-learning-based agent for enhanced alignment. The method demonstrates sensitivity improvement over traditional schemes, thus offering a practical approach for AI-based real-time control of gravitational-wave interferometers, to aid the detection of cosmic events like merging compact neutron-star binaries.
+
+[Phys. Rev. Applied 20, 064041] Published Fri Dec 22, 2023]]></summary>
+        <author>
+            <name>N. Mukund, J. Lough, A. Bisht, H. Wittel, S. Nadji, C. Affeldt, F. Bergamin, M. Brinkmann, V. Kringel, H. Lück, M. Weinert, and K. Danzmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Combined Measurement of the Higgs Boson Mass from the $H→γγ$ and $H→Z{Z}^{*}→4ℓ$ Decay Channels with the ATLAS Detector Using $\sqrt{s}=7$, 8, and 13 TeV $pp$ Collision Data]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.251802</id>
@@ -1264,45 +1303,6 @@ Spin waves are of central importance in spintronic as they determine the rate at
 [Phys. Rev. Applied 20, 054057] Published Tue Nov 28, 2023]]></summary>
         <author>
             <name>Thibaut Devolder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tension Remodeling Regulates Topological Transitions in Epithelial Tissues]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXLife.1.023006</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXLife.1.023006"/>
-        <updated>2023-11-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Fernanda Pérez-Verdugo and Shiladitya Banerjee
-In this work, authors introduce a dynamic vertex model incorporating strain-induced tension remodeling and mechanical memory dissipation to explain topological transitions commonly observed in epithelial tissues.
-
-[PRX Life 1, 023006] Published Mon Nov 27, 2023]]></summary>
-        <author>
-            <name>Fernanda Pérez-Verdugo and Shiladitya Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerr Black Holes from Massive Higher-Spin Gauge Symmetry]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.221401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.221401"/>
-        <updated>2023-11-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lucile Cangemi, Marco Chiodaroli, Henrik Johansson, Alexander Ochirov, Paolo Pichini, and Evgeny Skvortsov
-Spinning black holes may have a hidden higher-spin gauge symmetry.
-
-[Phys. Rev. Lett. 131, 221401] Published Mon Nov 27, 2023]]></summary>
-        <author>
-            <name>Lucile Cangemi, Marco Chiodaroli, Henrik Johansson, Alexander Ochirov, Paolo Pichini, and Evgeny Skvortsov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuclear Charge Radius of $^{26m}\mathrm{Al}$ and Its Implication for ${\mathrm{V}}_{ud}$ in the Quark Mixing Matrix]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.222502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.222502"/>
-        <updated>2023-11-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. Plattner et al.
-A measurement of the charge radius of an aluminum nucleus probes the assumption that there are only three families of quarks.
-
-[Phys. Rev. Lett. 131, 222502] Published Mon Nov 27, 2023]]></summary>
-        <author>
-            <name>P. Plattner &lt;em&gt;et al.&lt;/em&gt;</name>
         </author>
     </entry>
 </feed>

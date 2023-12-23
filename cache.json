@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.108.064608",
+          "author": "T. Franco-Munoz, J. García-Marcos, R. González-Jiménez, and J. M. Udías",
+          "description": "Author(s): T. Franco-Munoz, J. García-Marcos, R. González-Jiménez, and J. M. Udías\nElectron scattering is currently the subject of renewed interest, also by virtue of its connections with the neutrino-nucleus interaction. This work represents a step forward for the description of the quasielastic region, through the introduction of two-body meson-exchange currents in a fully relativistic approach. The good agreement with the experimental response of 12C opens up interesting perspectives of applications of the same model to neutrino scattering of heavier nuclei, of great interest for neutrino oscillation experiments, in particular for the new generation of experiments that require an unprecedented level of accuracy.\n\n[Phys. Rev. C 108, 064608] Published Fri Dec 22, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.108.064608",
+          "publishedOn": "2023-12-22T10:00:00.000Z",
+          "wordCount": 969,
+          "title": "Relativistic two-body currents for one-nucleon knockout in electron-nucleus scattering",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.108.064608.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.235166",
+          "author": "Klaus Zollner, Simão M. João, Branislav K. Nikolić, and Jaroslav Fabian",
+          "description": "Author(s): Klaus Zollner, Simão M. João, Branislav K. Nikolić, and Jaroslav Fabian\nProximity effects in van der Waals heterostructures offer controllable ways to tailor the electronic band structure of adjacent 2D materials. Here, the authors perform extensive first-principles calculations, to reveal the impact of twisting, gating, stacking, interlayer distance, and encapsulation, on the spin-orbit proximitized Dirac bands in graphene/transition metal dichalcogenide heterostructures. Furthermore, the authors make specific predictions for experimentally measurable quantities, such as charge-to-spin conversion efficiency. The results highlight the enormous tunability potential of proximity-induced phenomena in van der Waals heterostructures.\n\n[Phys. Rev. B 108, 235166] Published Fri Dec 22, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.235166",
+          "publishedOn": "2023-12-22T10:00:00.000Z",
+          "wordCount": 2048,
+          "title": "Twist- and gate-tunable proximity spin-orbit coupling, spin relaxation anisotropy, and charge-to-spin conversion in heterostructures of graphene and transition metal dichalcogenides",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.235166.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.064041",
+          "author": "N. Mukund, J. Lough, A. Bisht, H. Wittel, S. Nadji, C. Affeldt, F. Bergamin, M. Brinkmann, V. Kringel, H. Lück, M. Weinert, and K. Danzmann",
+          "description": "Author(s): N. Mukund, J. Lough, A. Bisht, H. Wittel, S. Nadji, C. Affeldt, F. Bergamin, M. Brinkmann, V. Kringel, H. Lück, M. Weinert, and K. Danzmann\nAligning suspended optics in gravitational-wave observatories is crucial for detecting astrophysical phenomena⏤and it is also challenging, due to several environmental factors. This research implements neural-network-based sensing and control deployed at the GEO600 detector, utilizing a sensor with a convolutional neural network and long- and short-term memory, plus a deep-reinforcement-learning-based agent for enhanced alignment. The method demonstrates sensitivity improvement over traditional schemes, thus offering a practical approach for AI-based real-time control of gravitational-wave interferometers, to aid the detection of cosmic events like merging compact neutron-star binaries.\n\n[Phys. Rev. Applied 20, 064041] Published Fri Dec 22, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.064041",
+          "publishedOn": "2023-12-22T10:00:00.000Z",
+          "wordCount": 1272,
+          "title": "Neural sensing and control in a kilometer-scale gravitational-wave observatory",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.064041.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.251802",
           "author": "G. Aad <em>et al.</em> (ATLAS Collaboration)",
           "description": "Author(s): G. Aad et al. (ATLAS Collaboration)\nThe mass of the Higgs boson is measured with a precision of less than a tenth of a percent.\n\n[Phys. Rev. Lett. 131, 251802] Published Thu Dec 21, 2023",
@@ -81,7 +111,7 @@
           "description": "Author(s): Nico Unglert, Jesús Carrete, Livia B. Pártay, and Georg K. H. Madsen\nPhase diagrams map out the thermodynamically stable conditions for different phases. Their predictive atomistic simulations demands integration of statistical mechanics and quantum mechanics, making computational cost a challenge. Our work successfully combines a neural-network model for silicon’s potential energy with nested-sampling to predict its low-pressure phase diagram accurately. Trained on diverse silicon structures, the model aligns remarkably well with experiments, accurately reproducing the melting line and identifying stable structures. The fusion of neural networks and nested sampling opens the door to not only predict phase diagrams but also assess the accuracy of the underlying exchange-correlation functionals.\n\n[Phys. Rev. Materials 7, 123804] Published Wed Dec 20, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.7.123804",
           "publishedOn": "2023-12-20T10:00:00.000Z",
-          "wordCount": 1303,
+          "wordCount": 1304,
           "title": "Neural-network force field backed nested sampling: Study of the silicon $p\\text{−}T$ phase diagram",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.7.123804.png"
         },
@@ -561,7 +591,7 @@
           "description": "Author(s): Yi Jiang, Scott B. Lee, Jonah Herzog-Arbeitman, Jiabin Yu, Xiaolong Feng, Haoyu Hu, Dumitru Călugăru, Parker S. Brodale, Eoghan L. Gormley, Maia G. Vergniory, Claudia Felser, S. Blanco-Canosa, Christopher H. Hendon, Leslie M. Schoop, and B. Andrei Bernevig\nDoped lead apatite (LK-99) has been proposed as a candidate ambient temperature and pressure superconductor, a dramatic claim requiring careful investigation from experiment and theory. Here, the authors synthesize an LK-99 sample and find a multiphase, transparent material that does not support high-temperature superconductivity. This is in agreement with ab initio calculations here that suggest the copper dopant does not meaningfully enter the structure and that the flat bands they generate at the Fermi level are largely unhybridized, with no quantum geometry to support a superfluid state.\n\n[Phys. Rev. B 108, 235127] Published Fri Dec 08, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.235127",
           "publishedOn": "2023-12-08T10:00:00.000Z",
-          "wordCount": 1472,
+          "wordCount": 1471,
           "title": "${\\mathrm{Pb}}_{9}\\mathrm{Cu}{({\\mathrm{PO}}_{4})}_{6}{(\\mathrm{OH})}_{2}$: Phonon bands, localized flat-band magnetism, models, and chemical analysis",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.235127.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 1632,
           "title": "Propagating-spin-wave spectroscopy using inductive antennas: Conditions for unidirectional energy flow",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054057.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXLife.1.023006",
-          "author": "Fernanda Pérez-Verdugo and Shiladitya Banerjee",
-          "description": "Author(s): Fernanda Pérez-Verdugo and Shiladitya Banerjee\nIn this work, authors introduce a dynamic vertex model incorporating strain-induced tension remodeling and mechanical memory dissipation to explain topological transitions commonly observed in epithelial tissues.\n\n[PRX Life 1, 023006] Published Mon Nov 27, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PRXLife.1.023006",
-          "publishedOn": "2023-11-27T10:00:00.000Z",
-          "wordCount": 1671,
-          "title": "Tension Remodeling Regulates Topological Transitions in Epithelial Tissues",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXLIFE/key_images/10.1103/PRXLife.1.023006.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.221401",
-          "author": "Lucile Cangemi, Marco Chiodaroli, Henrik Johansson, Alexander Ochirov, Paolo Pichini, and Evgeny Skvortsov",
-          "description": "Author(s): Lucile Cangemi, Marco Chiodaroli, Henrik Johansson, Alexander Ochirov, Paolo Pichini, and Evgeny Skvortsov\nSpinning black holes may have a hidden higher-spin gauge symmetry.\n\n[Phys. Rev. Lett. 131, 221401] Published Mon Nov 27, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.221401",
-          "publishedOn": "2023-11-27T10:00:00.000Z",
-          "wordCount": 834,
-          "title": "Kerr Black Holes from Massive Higher-Spin Gauge Symmetry",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.221401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.222502",
-          "author": "P. Plattner <em>et al.</em>",
-          "description": "Author(s): P. Plattner et al.\nA measurement of the charge radius of an aluminum nucleus probes the assumption that there are only three families of quarks.\n\n[Phys. Rev. Lett. 131, 222502] Published Mon Nov 27, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.222502",
-          "publishedOn": "2023-11-27T10:00:00.000Z",
-          "wordCount": 1003,
-          "title": "Nuclear Charge Radius of $^{26m}\\mathrm{Al}$ and Its Implication for ${\\mathrm{V}}_{ud}$ in the Quark Mixing Matrix",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.222502.png"
         }
       ]
     }
