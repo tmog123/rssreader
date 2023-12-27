@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043291",
+          "author": "O. T. Whaites, C. I. Ioannou, B. J. Pingault, G. L. van de Stolpe, T. H. Taminiau, and T. S. Monteiro",
+          "description": "Author(s): O. T. Whaites, C. I. Ioannou, B. J. Pingault, G. L. van de Stolpe, T. H. Taminiau, and T. S. Monteiro\nSequences of periodic microwave pulses are used to efficiently transfer polarization from an NV defect electronic spin in diamond to surrounding nuclei, at specific resonant periods. It’s theoretically and experimentally demonstrated that the presence of a “blocking spin,” a nuclear spin with similar precession frequency but stronger coupling, leads to expulsion of polarization resonances of other nuclear spins from the central resonant period region, affecting the efficiency of the polarization protocol.\n\n[Phys. Rev. Research 5, 043291] Published Tue Dec 26, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.5.043291",
+          "publishedOn": "2023-12-26T10:00:00.000Z",
+          "wordCount": 1855,
+          "title": "Hyperpolarization of nuclear spins: Polarization blockade",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.5.043291.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.266401",
+          "author": "Jaychandran Padayasi and Ilya Gruzberg",
+          "description": "Author(s): Jaychandran Padayasi and Ilya Gruzberg\nConformal invariance and Abelian fusion constrain the spectrum of multifractal exponents to be quadratic in its arguments in any dimension greater than two.\n\n[Phys. Rev. Lett. 131, 266401] Published Tue Dec 26, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.266401",
+          "publishedOn": "2023-12-26T10:00:00.000Z",
+          "wordCount": 643,
+          "title": "Conformal Invariance and Multifractality at Anderson Transitions in Arbitrary Dimensions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.266401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.214521",
+          "author": "Amir Dalal, Jonathan Ruhman, and Vladyslav Kozii",
+          "description": "Author(s): Amir Dalal, Jonathan Ruhman, and Vladyslav Kozii\nSuperconductivity, the state of zero resistance in metals, involves electrons forming a quantum liquid of pairs. However, here lies a conundrum; electrons repel each other due to the electric force, so why should they bind? The answer to this question was provided a long time ago by Pierre Morel and Phillip Anderson. However, to date, there is no existing generalization of Morel-Anderson theory that gives a comprehensive understanding of the properties of real superconductors. This paper bridges the gap by outlining a path to generalize their theory into a “quantum field theory”. Surprisingly, this theory is controlled by a unique point in configuration space (“saddle point”). Utilizing mathematical techniques, the authors can exploit this saddle point to reveal insights into superconductor properties, such as the break point in a magnetic field.\n\n[Phys. Rev. B 108, 214521] Published Tue Dec 26, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.214521",
+          "publishedOn": "2023-12-26T10:00:00.000Z",
+          "wordCount": 1600,
+          "title": "Field theory of a superconductor with repulsion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.214521.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.235212",
+          "author": "J. Heckötter, B. Panda, K. Brägelmann, M. Harati, and M. Aßmann",
+          "description": "Author(s): J. Heckötter, B. Panda, K. Brägelmann, M. Harati, and M. Aßmann\nRydberg excitons are electron-hole pairs excited to high principle quantum numbers (n), that can be addressed in the semiconductor Cu2O. Embedded in a crystalline environment, the highest Rydberg states typically suffer from the presence electric stray fields induced by charged impurities. Here, the authors show a technique to neutralize these impurities by the excitation of Rydberg excitons. The result is an overall improvement of the absorption spectrum’s quality in terms of increased oscillator strengths and narrower linewidths, approaching the Fourier limit.\n\n[Phys. Rev. B 108, 235212] Published Tue Dec 26, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.235212",
+          "publishedOn": "2023-12-26T10:00:00.000Z",
+          "wordCount": 1547,
+          "title": "Neutralization of impurities by continuous-wave excitation of high-$n$ Rydberg excitons",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.235212.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.064045",
+          "author": "Tanay Tak, Cameron W. Johnson, Wan Ying Ho, Feng Wu, Mylène Sauty, Steve Rebollo, Andreas K. Schmid, Jacques Peretti, Yuh-Renn Wu, Claude Weisbuch, and James S. Speck",
+          "description": "Author(s): Tanay Tak, Cameron W. Johnson, Wan Ying Ho, Feng Wu, Mylène Sauty, Steve Rebollo, Andreas K. Schmid, Jacques Peretti, Yuh-Renn Wu, Claude Weisbuch, and James S. Speck\nWhile charge carriers in electronics are fundamental to device operation, little is empirically known about their spatial distribution under standard operating conditions. The authors develop a technique for self-emissive electron microscopy that allows them to image electrons close to their point of generation in operando. Increased electron emission, and thus carrier density, is observed at the ridges of V-shaped defects in a green LED, confirming that the sidewalls of these defects allow lateral carrier injection⏤a necessity for increasing efficiency. Measuring the spatial distribution of carriers with this technique can inform the design of superior devices.\n\n[Phys. Rev. Applied 20, 064045] Published Tue Dec 26, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.064045",
+          "publishedOn": "2023-12-26T10:00:00.000Z",
+          "wordCount": 1508,
+          "title": "Injection mechanisms in a <i>III</i>-nitride light-emitting diode as seen by self-emissive electron microscopy",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.064045.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.108.063517",
+          "author": "Hannah M. Price, Martin Wimmer, Monika Monika, Ulf Peschel, and Iacopo Carusotto",
+          "description": "Author(s): Hannah M. Price, Martin Wimmer, Monika Monika, Ulf Peschel, and Iacopo Carusotto\nThe authors develop a theoretical description of superfluidlike phenomena in an optical mesh lattice, a system composed of two fiber loops coupled via a beam splitter. The results provide analytical and numerical interpretation of previous experimental observations and predict physical effects stemming from the spatiotemporally periodic geometry.\n\n[Phys. Rev. A 108, 063517] Published Tue Dec 26, 2023",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.108.063517",
+          "publishedOn": "2023-12-26T10:00:00.000Z",
+          "wordCount": 4253,
+          "title": "Theory of hydrodynamic phenomena in optical mesh lattices",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.063517.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevC.108.064608",
           "author": "T. Franco-Munoz, J. García-Marcos, R. González-Jiménez, and J. M. Udías",
           "description": "Author(s): T. Franco-Munoz, J. García-Marcos, R. González-Jiménez, and J. M. Udías\nElectron scattering is currently the subject of renewed interest, also by virtue of its connections with the neutrino-nucleus interaction. This work represents a step forward for the description of the quasielastic region, through the introduction of two-body meson-exchange currents in a fully relativistic approach. The good agreement with the experimental response of 12C opens up interesting perspectives of applications of the same model to neutrino scattering of heavier nuclei, of great interest for neutrino oscillation experiments, in particular for the new generation of experiments that require an unprecedented level of accuracy.\n\n[Phys. Rev. C 108, 064608] Published Fri Dec 22, 2023",
@@ -944,66 +1004,6 @@
           "wordCount": 1839,
           "title": "Deuterium spectroscopy for enhanced bounds on physics beyond the standard model",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.052825.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041036",
-          "author": "Michael Thobias Schmid, Jean-Baptiste Morée, Ryui Kaneko, Youhei Yamaji, and Masatoshi Imada",
-          "description": "Author(s): Michael Thobias Schmid, Jean-Baptiste Morée, Ryui Kaneko, Youhei Yamaji, and Masatoshi Imada\nA first-principles model accounts for the wide range of critical temperatures (Tc’s) for four materials and suggests a parameter that determines Tc in any high-temperature superconductor.\n\n[Phys. Rev. X 13, 041036] Published Tue Nov 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041036",
-          "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 2721,
-          "title": "Superconductivity Studied by Solving <i>Ab Initio</i> Low-Energy Effective Hamiltonians for Carrier Doped ${\\mathrm{CaCuO}}_{2}$, ${\\mathrm{Bi}}_{2}{\\mathrm{Sr}}_{2}{\\mathrm{CuO}}_{6}$, ${\\mathrm{Bi}}_{2}{\\mathrm{Sr}}_{2}{\\mathrm{CaCu}}_{2}{\\mathrm{O}}_{8}$, and ${\\mathrm{HgBa}}_{2}{\\mathrm{CuO}}_{4}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041036.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.223603",
-          "author": "Marion Mallweger, Murilo Henrique de Oliveira, Robin Thomm, Harry Parke, Natalia Kuk, Gerard Higgins, Romain Bachelard, Celso Jorge Villas-Boas, and Markus Hennrich",
-          "description": "Author(s): Marion Mallweger, Murilo Henrique de Oliveira, Robin Thomm, Harry Parke, Natalia Kuk, Gerard Higgins, Romain Bachelard, Celso Jorge Villas-Boas, and Markus Hennrich\nA new method based on the Autler-Townes effect can be used to measure the motional states of trapped ions in the number basis.\n\n[Phys. Rev. Lett. 131, 223603] Published Tue Nov 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.223603",
-          "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 1256,
-          "title": "Single-Shot Measurements of Phonon Number States Using the Autler-Townes Effect",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.223603.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.226801",
-          "author": "Guidobeth Saez, Mario A. Castro, Sebastian Allende, and Alvaro S. Nunez",
-          "description": "Author(s): Guidobeth Saez, Mario A. Castro, Sebastian Allende, and Alvaro S. Nunez\nA minimal model shows that different magnetic configurations give rise to electric polarization stemming from a nontrivial Berry phase of the system without spin-orbit coupling.\n\n[Phys. Rev. Lett. 131, 226801] Published Tue Nov 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.226801",
-          "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 863,
-          "title": "Model for Nonrelativistic Topological Multiferroic Matter",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.226801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L180510",
-          "author": "Yang Zhang, Ling-Fang Lin, Adriana Moreo, and Elbio Dagotto",
-          "description": "Author(s): Yang Zhang, Ling-Fang Lin, Adriana Moreo, and Elbio Dagotto\nThe recently discovered high-temperature superconductor La3Ni2O7 with Tc ~ 80 K under pressure has revolutionized the field of correlated electrons. The authors find here that an orbital-selective spin-singlet “dimer” linking the two planes of this bilayer via the d3z2−r2 orbital provides the primary building block to study its electronic properties. Furthermore, an in-plane robust interorbital hopping between eg states, competes with the more natural intraorbital hopping, leading to a dominant spin stripe (π, 0) order, as well as a rich phase diagram.\n\n[Phys. Rev. B 108, L180510] Published Tue Nov 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L180510",
-          "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 1100,
-          "title": "Electronic structure, dimer physics, orbital-selective behavior, and magnetic tendencies in the bilayer nickelate superconductor ${\\mathrm{La}}_{3}{\\mathrm{Ni}}_{2}{\\mathrm{O}}_{7}$ under pressure",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L180510.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054055",
-          "author": "Adrian Solyom, Michael Caouette-Mansour, Brandon Ruffolo, Patrick Braganca, Lilian Childress, and Jack C. Sankey",
-          "description": "Author(s): Adrian Solyom, Michael Caouette-Mansour, Brandon Ruffolo, Patrick Braganca, Lilian Childress, and Jack C. Sankey\nNanoscale magnetic circuits provide an alternate paradigm for computation and signal processing, but characterizing the GHz-frequency magnetic dynamics in these systems has been challenging. The authors use the single spin of a nitrogen-vacancy (N-V) center in diamond to probe nanoscale magnetic fields in the GHz regime, identifying signatures of a free-running and phase-locked spin-torque oscillator in the fluorescence spectrum of a proximal N-V, and measure how the dynamics impact the N-V’s spin relaxation. This technique could enable new sensing modalities for revealing the nanoscale structure of GHz-frequency dynamics in emerging magnetic nanotechnologies.\n\n[Phys. Rev. Applied 20, 054055] Published Tue Nov 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054055",
-          "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 1368,
-          "title": "Single-spin spectroscopy of spontaneous and phase-locked spin-torque-oscillator dynamics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054055.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054057",
-          "author": "Thibaut Devolder",
-          "description": "Author(s): Thibaut Devolder\nSpin waves are of central importance in spintronic as they determine the rate at which the magnetization can vary. They can be better studied by using propagating-spin-wave spectroscopy with a physically transparent model. This study of spin-wave transduction focuses on the interaction between spin waves and microwaves, and the impact of the spin-wave dispersion relation. The authors choose specific magnetization orientations so that the magnons and microwave photons do not couple, and show that line-shaped dispersion relations can be harnessed to engineer reconfigurable, nonreciprocal frequency filters transferring spin wave energy in a unidirectional manner.\n\n[Phys. Rev. Applied 20, 054057] Published Tue Nov 28, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.20.054057",
-          "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 1632,
-          "title": "Propagating-spin-wave spectroscopy using inductive antennas: Conditions for unidirectional energy flow",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.20.054057.png"
         }
       ]
     }
