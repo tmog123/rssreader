@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T00:45:05.121Z</id>
+    <id>urn:2023-12-28T00:44:22.021Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T00:45:05.121Z</updated>
+    <updated>2023-12-28T00:44:22.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Electron and hole doping of monolayer ${\mathrm{WSe}}_{2}$ induced by twisted ferroelectric hexagonal boron nitride]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L121002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.7.L121002"/>
+        <updated>2023-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. Fraunié, R. Jamil, R. Kantelberg, S. Roux, L. Petit, E. Lepleux, L. Pacheco, K. Watanabe, T. Taniguchi, V. Jacques, L. Lombez, M. M. Glazov, B. Lassagne, X. Marie, and C. Robert
+2D ferroelectric materials have attracted strong interest for their potential in future nanoelectronic devices. The recent discovery of 2D ferroelectricity in twisted layers of hexagonal boron nitride has opened the route to its integration into complex hybrid van der Waals heterostructures. Here the authors show that opposite polarizations in ferroelectric domains of a folded hBN layer imprint local n and p doping in a semiconducting WSe2 monolayer. They demonstrate that WSe2 can be used as an optical probe of ferroelectricity in hBN and show that doping can be controlled with the position of the semiconductor with respect to the ferroelectric interface.
+
+[Phys. Rev. Materials 7, L121002] Published Wed Dec 27, 2023]]></summary>
+        <author>
+            <name>J. Fraunié, R. Jamil, R. Kantelberg, S. Roux, L. Petit, E. Lepleux, L. Pacheco, K. Watanabe, T. Taniguchi, V. Jacques, L. Lombez, M. M. Glazov, B. Lassagne, X. Marie, and C. Robert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structures, charge density wave, and superconductivity of noncentrosymmetric $4{H}_{\mathrm{a}}\text{−}{\mathrm{NbSe}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.224518</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.224518"/>
+        <updated>2023-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Menghu Zhou, Yadong Gu, Shunli Ni, Binbin Ruan, Qiaoyu Liu, Qingsong Yang, Lewei Chen, Junkun Yi, Yunqing Shi, Genfu Chen, and Zhian Ren
+Here, the authors report the charge density wave and superconductivity of noncentrosymmetric 4Ha-NbSe2. In particular, it exhibits a large upper critical field Hc2(0) well beyond the Pauli paramagnetic limit. Hc2(T) could be described by a two-band scenario that is also revealed via lower critical field and specific heat. The high Hc2 is expected to motivate the search of high-field superconductors in noncentrosymmetric materials.
+
+[Phys. Rev. B 108, 224518] Published Wed Dec 27, 2023]]></summary>
+        <author>
+            <name>Menghu Zhou, Yadong Gu, Shunli Ni, Binbin Ruan, Qiaoyu Liu, Qingsong Yang, Lewei Chen, Junkun Yi, Yunqing Shi, Genfu Chen, and Zhian Ren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inhomogeneous excitation-regulated coherent strain wave in $2H\text{−}\mathrm{Mo}{\mathrm{Te}}_{2}$ revealed by ultrafast electron microscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.245426</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.245426"/>
+        <updated>2023-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yongzhao Zhang, Shuaishuai Sun, Wentao Wang, Huanfang Tian, Jianqi Li, Jun Li, and Huaixin Yang
+The potential to manipulate the coherent photoacoustic wave in 2H-MoTe2 is demonstrated here by adjusting the homogeneity of laser excitation. Homogeneous excitation results in out-of-phase intensity oscillations of the Friedel pairs, and only the fundamental frequency is detected. In contrast, inhomogeneous excitation leads to in-phase intensity oscillations and the emergence of a second harmonic component. These ultrafast electron diffraction results reveal that, as the flake thickness increases, the photoacoustic wave transforms from a standing wave with breathing motions to a soliton-like traveling wave.
+
+[Phys. Rev. B 108, 245426] Published Wed Dec 27, 2023]]></summary>
+        <author>
+            <name>Yongzhao Zhang, Shuaishuai Sun, Wentao Wang, Huanfang Tian, Jianqi Li, Jun Li, and Huaixin Yang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperpolarization of nuclear spins: Polarization blockade]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.5.043291</id>
@@ -1264,45 +1303,6 @@ The solutions of a nonconvex over-parametrized neural network model are geodesic
 [Phys. Rev. Lett. 131, 227301] Published Wed Nov 29, 2023]]></summary>
         <author>
             <name>Brandon Livio Annesi, Clarissa Lauditi, Carlo Lucibello, Enrico M. Malatesta, Gabriele Perugini, Fabrizio Pittorino, and Luca Saglietti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compression-driven viscous fingering in a radial Hele-Shaw cell]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.8.113904</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.8.113904"/>
-        <updated>2023-11-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Callum Cuttle, Liam C. Morrow, and Christopher W. MacMinn
-The viscous-fingering instability that emerges when gas is injected into a liquid-filled Hele-Shaw cell is a paradigm of pattern formation that has been extensively studied. Here, we examine a previously neglected aspect of the problem: The compressibility of the injected gas. We use experiments, numerical simulations, and an axisymmetric model to show that gas compression controls the time-dependent injection rate and systematically delays the onset of viscous fingering at high capillary number. We quantify the importance of gas compression with a single dimensionless compressibility number.
-
-[Phys. Rev. Fluids 8, 113904] Published Wed Nov 29, 2023]]></summary>
-        <author>
-            <name>Callum Cuttle, Liam C. Morrow, and Christopher W. MacMinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beam longitudinal dynamics simulation studies]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.114602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.26.114602"/>
-        <updated>2023-11-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): H. Timko, S. Albright, T. Argyropoulos, H. Damerau, K. Iliakis, L. Intelisano, B. E. Karlsen-Baeck, I. Karpov, A. Lasheen, L. Medina, D. Quartullo, J. Repond, A. L. Vanel, J. Esteban Müller, M. Schwarz, P. Tsapatsaris, and G. Typaldos
-A simulation suite that covers a range of applications from low to high energy synchrotrons, from electrons over protons to ions, and from space-charge to synchrotron-radiation dominated regimes.
-
-[Phys. Rev. Accel. Beams 26, 114602] Published Wed Nov 29, 2023]]></summary>
-        <author>
-            <name>H. Timko, S. Albright, T. Argyropoulos, H. Damerau, K. Iliakis, L. Intelisano, B. E. Karlsen-Baeck, I. Karpov, A. Lasheen, L. Medina, D. Quartullo, J. Repond, A. L. Vanel, J. Esteban Müller, M. Schwarz, P. Tsapatsaris, and G. Typaldos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deuterium spectroscopy for enhanced bounds on physics beyond the standard model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.108.052825</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.108.052825"/>
-        <updated>2023-11-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Robert M. Potvliege, Adair Nicolson, Matthew P. A. Jones, and Michael Spannowsky
-The authors discuss the use of precise spectroscopic data on hydrogenic atoms in order to obtain new, more stringent bounds on new physics beyond the Standard Model. Assuming a certain “reasonable” flavor dependence the authors obtain constraints that are orders of magnitude more stringent than constraints from hydrogen alone.
-
-[Phys. Rev. A 108, 052825] Published Wed Nov 29, 2023]]></summary>
-        <author>
-            <name>Robert M. Potvliege, Adair Nicolson, Matthew P. A. Jones, and Michael Spannowsky</name>
         </author>
     </entry>
 </feed>
