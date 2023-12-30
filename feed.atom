@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-29T00:37:54.367Z</id>
+    <id>urn:2023-12-30T00:45:04.706Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T00:37:54.367Z</updated>
+    <updated>2023-12-30T00:45:04.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Probing the edge states of Chern insulators using microwave impedance microscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.235432</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.235432"/>
+        <updated>2023-12-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Taige Wang, Chen Wu, Masataka Mogi, Minoru Kawamura, Yoshinori Tokura, Zhi-Xun Shen, Yi–Zhuang You, and Monica T. Allen
+Quantum anomalous Hall (QAH) insulators, known for their topological 1D conducting edge states, are a focus of many recent quantum material studies. Here, the authors overcome the challenges in direct imaging and analysis of edge states by exploiting the power of microwave impedance microscopy (MIM). By analyzing the resonance pattern of 1D edge plasmon excitations, MIM can discern true topological edge states from potential trivial ones. This approach significantly advances our understanding of QAH insulators and their topological edge states.
+
+[Phys. Rev. B 108, 235432] Published Fri Dec 29, 2023]]></summary>
+        <author>
+            <name>Taige Wang, Chen Wu, Masataka Mogi, Minoru Kawamura, Yoshinori Tokura, Zhi-Xun Shen, Yi–Zhuang You, and Monica T. Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards an experimental proof of the magnonic Aharonov-Casher effect]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.L220404</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.L220404"/>
+        <updated>2023-12-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rostyslav O. Serha, Vitaliy I. Vasyuchka, Alexander A. Serga, and Burkard Hillebrands
+The Aharonov-Casher effect is the accumulation of the wave function phase when a particle with magnetic moment passes through an electric field. This phenomenon is observed for real particles and predicted for quasiparticles such as magnons. Here, the authors investigate the impact of a strong electric field on the phase of dipolar spin waves exited in a ferromagnetic yttrium iron garnet (YIG) film and report the experimental results in favor of the magnonic Aharonov-Casher effect.
+
+[Phys. Rev. B 108, L220404] Published Fri Dec 29, 2023]]></summary>
+        <author>
+            <name>Rostyslav O. Serha, Vitaliy I. Vasyuchka, Alexander A. Serga, and Burkard Hillebrands</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Possible explanation for the high superconducting ${T}_{c}$ in bcc Ti at high pressure]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevB.108.214523</id>
@@ -1251,19 +1277,6 @@ Stochastic processes with resetting can exhibit different ergodic behaviors depe
 [Phys. Rev. E 108, 064102] Published Fri Dec 01, 2023]]></summary>
         <author>
             <name>E. Barkai, R. Flaquer-Galmés, and V. Méndez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermo-osmotic slip flows around a thermophoretic microparticle characterized by optical trapping of tracers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.054061</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.054061"/>
-        <updated>2023-11-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tetsuro Tsuji, Satoshi Mei, and Satoshi Taguchi
-Using fluorescent tracers, researchers visualize the forces that move micrometer-diameter particles through a liquid subjected to a temperature gradient.
-
-[Phys. Rev. Applied 20, 054061] Published Thu Nov 30, 2023]]></summary>
-        <author>
-            <name>Tetsuro Tsuji, Satoshi Mei, and Satoshi Taguchi</name>
         </author>
     </entry>
 </feed>
