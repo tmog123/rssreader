@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.027201",
+          "author": "Chong Liu, Shao-Chun Chen, and Nail Akhmediev",
+          "description": "Author(s): Chong Liu, Shao-Chun Chen, and Nail Akhmediev\nAn exact theory for superregular breathers in Manakov systems is derived, with possible applications to a wide range of nonlinear wave phenomena.\n\n[Phys. Rev. Lett. 132, 027201] Published Wed Jan 10, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.027201",
+          "publishedOn": "2024-01-10T10:00:00.000Z",
+          "wordCount": 863,
+          "title": "Fundamental and Second-Order Superregular Breathers in Vector Fields",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.027201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.024507",
+          "author": "Dan Mao and Debanjan Chowdhury",
+          "description": "Author(s): Dan Mao and Debanjan Chowdhury\nThis work develops a systematic theoretical framework to determine the low-energy effective “diamagnetic” response associated with superconductivity and excitonic superfluidity in strongly interacting electronic models hosting isolated nearly flat bands. The results can be used to derive upper bounds on the transition temperatures for superconductivity and excitonic superfluidity without making any mean-field type approximations. The same theoretical framework can also be extended with very few modifications, to address questions related to ferromagnetism in flat bands and magnetic circular dichroism.\n\n[Phys. Rev. B 109, 024507] Published Wed Jan 10, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.024507",
+          "publishedOn": "2024-01-10T10:00:00.000Z",
+          "wordCount": 1145,
+          "title": "Upper bounds on superconducting and excitonic phase stiffness for interacting isolated narrow bands",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.024507.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.016001",
           "author": "Paul Z. Hanakata, Sourav S. Bhabesh, David Yllanes, David R. Nelson, and Mark J. Bowick",
           "description": "Author(s): Paul Z. Hanakata, Sourav S. Bhabesh, David Yllanes, David R. Nelson, and Mark J. Bowick\nThermalized crystalline sheets, such as graphene liberated from a substrate, are driven by height fluctuations. The authors study the nonlinear dynamics of doubly-clamped nanoribbons as prototypical graphene resonators. Such ribbons exhibit a thermalized version of Euler buckling, with both up and down local minima. Treating the ribbon as a Brownian particle confined to a double-well potential, they determine transition rates across the two wells and oscillations inside a given well via molecular dynamics simulations. The dynamical behavior found is very different from Arrhenius behavior. The rate-controlling exponential factor depends only on the geometry, as opposed to the temperature, providing a new pathway for the experimental control of thermalized two-dimensional metamaterials.\n\n[Phys. Rev. Materials 8, 016001] Published Tue Jan 09, 2024",
@@ -641,7 +661,7 @@
           "description": "Author(s): Ivan Ahumada and James P. Edwards\nMonte Carlo simulations of path integrals suffer from reduced precision at large times due to undersampling. To address this problem the authors propose a scheme where the sampling trajectories are concentrated in more important regions, and they show the effectiveness of their method with some simple test cases.\n\n[Phys. Rev. E 108, 065306] Published Tue Dec 19, 2023",
           "link": "http://link.aps.org/doi/10.1103/PhysRevE.108.065306",
           "publishedOn": "2023-12-19T10:00:00.000Z",
-          "wordCount": 888,
+          "wordCount": 889,
           "title": "Monte Carlo generation of localized particle trajectories",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.108.065306.png"
         },
@@ -854,56 +874,6 @@
           "wordCount": 1435,
           "title": "Quantum gas microscopy of fermionic triangular-lattice Mott insulators",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.L061301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.243401",
-          "author": "Zemao Wu, Jijie Fan, Xue Zhang, Jiansheng Qi, and Haibin Wu",
-          "description": "Author(s): Zemao Wu, Jijie Fan, Xue Zhang, Jiansheng Qi, and Haibin Wu\nRelaxation dynamics of an ultracold Fermi gas inside an optical resonator are observed experimentally by quenching the system across the Dicke phase transition to reveal a prethermalized quantum state.\n\n[Phys. Rev. Lett. 131, 243401] Published Tue Dec 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.243401",
-          "publishedOn": "2023-12-12T10:00:00.000Z",
-          "wordCount": 1310,
-          "title": "Signatures of Prethermalization in a Quenched Cavity-Mediated Long-Range Interacting Fermi Gas",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.243401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.245001",
-          "author": "A. Picksley, J. Chappell, E. Archer, N. Bourgeois, J. Cowley, D. R. Emerson, L. Feder, X. J. Gu, O. Jakobsson, A. J. Ross, W. Wang, R. Walczak, and S. M. Hooker",
-          "description": "Author(s): A. Picksley, J. Chappell, E. Archer, N. Bourgeois, J. Cowley, D. R. Emerson, L. Feder, X. J. Gu, O. Jakobsson, A. J. Ross, W. Wang, R. Walczak, and S. M. Hooker\nThe judicious shaping of a tube of plasma by one laser enhances the properties of electron bunches accelerated by another.\n\n[Phys. Rev. Lett. 131, 245001] Published Tue Dec 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.245001",
-          "publishedOn": "2023-12-12T10:00:00.000Z",
-          "wordCount": 1426,
-          "title": "All-Optical GeV Electron Bunch Generation in a Laser-Plasma Accelerator via Truncated-Channel Injection",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.245001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.108.122005",
-          "author": "Z. Pan <em>et al.</em>",
-          "description": "Author(s): Z. Pan et al.\nThis work presents the first gravitational lensing measurements with the 3G camera on the South Pole Telescope (SPT). Notably, it places constraints on key cosmological parameters consistent with those from SPT-SZ, SPTpol, ACT, and Planck.\n\n[Phys. Rev. D 108, 122005] Published Tue Dec 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.108.122005",
-          "publishedOn": "2023-12-12T10:00:00.000Z",
-          "wordCount": 1823,
-          "title": "Measurement of gravitational lensing of the cosmic microwave background using SPT-3G 2018 data",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.108.122005.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.245135",
-          "author": "Suman Mondal, Adhip Agarwala, Tapan Mishra, and Abhishodh Prakash",
-          "description": "Author(s): Suman Mondal, Adhip Agarwala, Tapan Mishra, and Abhishodh Prakash\nThis work investigates the interplay between microscopic symmetries and the effective degrees of freedom that define the macroscopic phase of matter. Considering a spin-ladder model and tuning the parameters, a myriad of distinct symmetry-enriched critical states is shown. Although the effective description in each of these phases is identical, i.e., the compact boson conformal field theory, symmetries act on the fields in subtly different ways leading to sharp distinctions in the nature of observables, including the presence of topological edge modes.\n\n[Phys. Rev. B 108, 245135] Published Tue Dec 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.245135",
-          "publishedOn": "2023-12-12T10:00:00.000Z",
-          "wordCount": 2113,
-          "title": "Symmetry-enriched criticality in a coupled spin ladder",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.245135.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.L220301",
-          "author": "Yaohua Li, Cuicui Lu, Shuang Zhang, and Yong-Chun Liu",
-          "description": "Author(s): Yaohua Li, Cuicui Lu, Shuang Zhang, and Yong-Chun Liu\nA mechanism for a loss-induced Floquet non-Hermitian skin effect (NHSE) is proposed, where gain/loss combined with Floquet engineering leads to the NHSE. This mechanism utilizes periodic coupling, which is a well-established experimental method, to realize the NHSE through loss instead of nonreciprocal coupling. The key to this mechanism is the Floquet-induced next-nearest neighbor coupling. This proposal is also applicable to high-dimensional systems and can be realized in photonic waveguides and other related systems.\n\n[Phys. Rev. B 108, L220301] Published Tue Dec 12, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.L220301",
-          "publishedOn": "2023-12-12T10:00:00.000Z",
-          "wordCount": 1108,
-          "title": "Loss-induced Floquet non-Hermitian skin effect",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.L220301.png"
         }
       ]
     }
