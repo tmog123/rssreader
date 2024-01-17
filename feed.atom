@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-16T00:48:38.720Z</id>
+    <id>urn:2024-01-17T00:48:56.881Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T00:48:38.720Z</updated>
+    <updated>2024-01-17T00:48:56.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nonequilibrium Response for Markov Jump Processes: Exact Results and Tight Bounds]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.037101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.037101"/>
+        <updated>2024-01-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Timur Aslyamov and Massimiliano Esposito
+A novel linear-algebra method opens the way to efficiently study a broad class of responses for nonequilibrium systems.
+
+[Phys. Rev. Lett. 132, 037101] Published Tue Jan 16, 2024]]></summary>
+        <author>
+            <name>Timur Aslyamov and Massimiliano Esposito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thermodynamic bound on quantum state discrimination]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.014119</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.014119"/>
+        <updated>2024-01-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): José Polo-Gómez
+The limitations that thermodynamics imposes on quantum information theory are investigated in this paper, which examines an ideal gas with an internal quantum degree of freedom undergoing a cycle. By considering a demon capable of distinguishing two quantum states, the author shows that the ability to distinguish quantum states is bounded by the second law of thermodynamics.
+
+[Phys. Rev. E 109, 014119] Published Tue Jan 16, 2024]]></summary>
+        <author>
+            <name>José Polo-Gómez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neutron radiography of an anisotropic drainage flow]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.014609</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.014609"/>
+        <updated>2024-01-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam
+Usually, gravity causes liquid to drain out of a foam vertically, but simulations have predicted that if the foam is sheared, the drainage will be anisotropic. This paper describes an experimental verification of that prediction by neutron radiography, which shows that the vertical drainage flow is indeed deflected horizontally.
+
+[Phys. Rev. E 109, 014609] Published Tue Jan 16, 2024]]></summary>
+        <author>
+            <name>Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All-optical dual-axis zero-field atomic magnetometer using light-shift modulation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.014023</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.014023"/>
+        <updated>2024-01-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xiaoyu Li, Bangcheng Han, Kaixuan Zhang, Ziao Liu, Shuying Wang, Yifan Yan, and Jixi Lu
+Researchers have achieved dual-axis magnetic-field detection using an atomic magnetometer architecture with only optical instruments.
+
+[Phys. Rev. Applied 21, 014023] Published Tue Jan 16, 2024]]></summary>
+        <author>
+            <name>Xiaoyu Li, Bangcheng Han, Kaixuan Zhang, Ziao Liu, Shuying Wang, Yifan Yan, and Jixi Lu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Development of Neutron Interferometer Using Multilayer Mirrors and Measurements of Neutron-Nuclear Scattering Length with Pulsed Neutron Source]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.023402</id>
@@ -1056,58 +1108,6 @@ The authors introduce a search algorithm aimed at optimizing the arrangement of 
 [Phys. Rev. A 108, 062615] Published Tue Dec 19, 2023]]></summary>
         <author>
             <name>Bodo Rosenhahn and Tobias J. Osborne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Race-Track Trapped-Ion Quantum Processor]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.13.041052</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.13.041052"/>
-        <updated>2023-12-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. A. Moses et al.
-Major technical improvements to a quantum computer based on trapped ions could bring a large-scale version closer to reality.
-
-[Phys. Rev. X 13, 041052] Published Mon Dec 18, 2023]]></summary>
-        <author>
-            <name>S. A. Moses &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sampling Efficiency of Transverse Forces in Dense Liquids]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.131.257101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.131.257101"/>
-        <updated>2023-12-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Federico Ghimenti, Ludovic Berthier, Grzegorz Szamel, and Frédéric van Wijland
-Transverse forces that break detailed balance accelerate the dynamics of an overdamped many-body system while preserving the Boltzmann distribution.
-
-[Phys. Rev. Lett. 131, 257101] Published Mon Dec 18, 2023]]></summary>
-        <author>
-            <name>Federico Ghimenti, Ludovic Berthier, Grzegorz Szamel, and Frédéric van Wijland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$O(N)$ smectic $σ$ model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.224423</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.224423"/>
-        <updated>2023-12-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tzu-Chi Hsieh and Leo Radzihovsky
-A smectic liquid crystal is known to display quasi-long-range positional order in three dimensions due to its “soft” elasticity and corresponding strong thermal fluctuations. This work extends such uniaxial scalar density-wave order to N-component magnetic spin-density wave orders, and thereby derives a new class of O(N) smectic sigma model. The model provides a unifying description of the universal low-energy properties of a variety of physical systems, ranging from quantum striped states to helimagnets in frustrated spin systems.
-
-[Phys. Rev. B 108, 224423] Published Mon Dec 18, 2023]]></summary>
-        <author>
-            <name>Tzu-Chi Hsieh and Leo Radzihovsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spontaneous breaking of time-reversal symmetry and time-crystal states in chiral atomic systems]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.235154</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.235154"/>
-        <updated>2023-12-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mário G. Silveirinha, Hugo Terças, and Mauro Antezza
-Half-integer spin systems are characterized by a degenerate ground state. Here, the authors show that the chiral interactions of a spin-½ qubit with the vacuum fluctuations may spontaneously break both the time-reversal and the time-translation symmetries. In the former case, the electron spin becomes anchored along some particular direction of space determined by a geometrical symmetry. In contrast, the latter situation occurs when the intrinsic spin magnetic moment undergoes a cyclic oscillation in the ground state, realizing a time crystal.
-
-[Phys. Rev. B 108, 235154] Published Mon Dec 18, 2023]]></summary>
-        <author>
-            <name>Mário G. Silveirinha, Hugo Terças, and Mauro Antezza</name>
         </author>
     </entry>
 </feed>

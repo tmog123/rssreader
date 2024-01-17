@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.037101",
+          "author": "Timur Aslyamov and Massimiliano Esposito",
+          "description": "Author(s): Timur Aslyamov and Massimiliano Esposito\nA novel linear-algebra method opens the way to efficiently study a broad class of responses for nonequilibrium systems.\n\n[Phys. Rev. Lett. 132, 037101] Published Tue Jan 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.037101",
+          "publishedOn": "2024-01-16T10:00:00.000Z",
+          "wordCount": 817,
+          "title": "Nonequilibrium Response for Markov Jump Processes: Exact Results and Tight Bounds",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.037101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.014119",
+          "author": "José Polo-Gómez",
+          "description": "Author(s): José Polo-Gómez\nThe limitations that thermodynamics imposes on quantum information theory are investigated in this paper, which examines an ideal gas with an internal quantum degree of freedom undergoing a cycle. By considering a demon capable of distinguishing two quantum states, the author shows that the ability to distinguish quantum states is bounded by the second law of thermodynamics.\n\n[Phys. Rev. E 109, 014119] Published Tue Jan 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.014119",
+          "publishedOn": "2024-01-16T10:00:00.000Z",
+          "wordCount": 981,
+          "title": "Thermodynamic bound on quantum state discrimination",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.014119.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.014609",
+          "author": "Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam",
+          "description": "Author(s): Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam\nUsually, gravity causes liquid to drain out of a foam vertically, but simulations have predicted that if the foam is sheared, the drainage will be anisotropic. This paper describes an experimental verification of that prediction by neutron radiography, which shows that the vertical drainage flow is indeed deflected horizontally.\n\n[Phys. Rev. E 109, 014609] Published Tue Jan 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.014609",
+          "publishedOn": "2024-01-16T10:00:00.000Z",
+          "wordCount": 1107,
+          "title": "Neutron radiography of an anisotropic drainage flow",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.014609.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.014023",
+          "author": "Xiaoyu Li, Bangcheng Han, Kaixuan Zhang, Ziao Liu, Shuying Wang, Yifan Yan, and Jixi Lu",
+          "description": "Author(s): Xiaoyu Li, Bangcheng Han, Kaixuan Zhang, Ziao Liu, Shuying Wang, Yifan Yan, and Jixi Lu\nResearchers have achieved dual-axis magnetic-field detection using an atomic magnetometer architecture with only optical instruments.\n\n[Phys. Rev. Applied 21, 014023] Published Tue Jan 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.014023",
+          "publishedOn": "2024-01-16T10:00:00.000Z",
+          "wordCount": 984,
+          "title": "All-optical dual-axis zero-field atomic magnetometer using light-shift modulation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.014023.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.023402",
           "author": "Takuhiro Fujiie, Masahiro Hino, Takuya Hosobata, Go Ichikawa, Masaaki Kitaguchi, Kenji Mishima, Yoshichika Seki, Hirohiko M. Shimizu, and Yutaka Yamagata",
           "description": "Author(s): Takuhiro Fujiie, Masahiro Hino, Takuya Hosobata, Go Ichikawa, Masaaki Kitaguchi, Kenji Mishima, Yoshichika Seki, Hirohiko M. Shimizu, and Yutaka Yamagata\nResearchers have demonstrated a mirror-based neutron interferometer that should be more sensitive to beyond-standard-model particle interactions than previous instruments.\n\n[Phys. Rev. Lett. 132, 023402] Published Fri Jan 12, 2024",
@@ -814,46 +854,6 @@
           "wordCount": 1033,
           "title": "Monte Carlo graph search for quantum circuit optimization",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.108.062615.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.13.041052",
-          "author": "S. A. Moses <em>et al.</em>",
-          "description": "Author(s): S. A. Moses et al.\nMajor technical improvements to a quantum computer based on trapped ions could bring a large-scale version closer to reality.\n\n[Phys. Rev. X 13, 041052] Published Mon Dec 18, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.13.041052",
-          "publishedOn": "2023-12-18T10:00:00.000Z",
-          "wordCount": 2722,
-          "title": "A Race-Track Trapped-Ion Quantum Processor",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.041052.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.131.257101",
-          "author": "Federico Ghimenti, Ludovic Berthier, Grzegorz Szamel, and Frédéric van Wijland",
-          "description": "Author(s): Federico Ghimenti, Ludovic Berthier, Grzegorz Szamel, and Frédéric van Wijland\nTransverse forces that break detailed balance accelerate the dynamics of an overdamped many-body system while preserving the Boltzmann distribution.\n\n[Phys. Rev. Lett. 131, 257101] Published Mon Dec 18, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.131.257101",
-          "publishedOn": "2023-12-18T10:00:00.000Z",
-          "wordCount": 875,
-          "title": "Sampling Efficiency of Transverse Forces in Dense Liquids",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.131.257101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.224423",
-          "author": "Tzu-Chi Hsieh and Leo Radzihovsky",
-          "description": "Author(s): Tzu-Chi Hsieh and Leo Radzihovsky\nA smectic liquid crystal is known to display quasi-long-range positional order in three dimensions due to its “soft” elasticity and corresponding strong thermal fluctuations. This work extends such uniaxial scalar density-wave order to N-component magnetic spin-density wave orders, and thereby derives a new class of O(N) smectic sigma model. The model provides a unifying description of the universal low-energy properties of a variety of physical systems, ranging from quantum striped states to helimagnets in frustrated spin systems.\n\n[Phys. Rev. B 108, 224423] Published Mon Dec 18, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.224423",
-          "publishedOn": "2023-12-18T10:00:00.000Z",
-          "wordCount": 1278,
-          "title": "$O(N)$ smectic $σ$ model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.224423.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.108.235154",
-          "author": "Mário G. Silveirinha, Hugo Terças, and Mauro Antezza",
-          "description": "Author(s): Mário G. Silveirinha, Hugo Terças, and Mauro Antezza\nHalf-integer spin systems are characterized by a degenerate ground state. Here, the authors show that the chiral interactions of a spin-½ qubit with the vacuum fluctuations may spontaneously break both the time-reversal and the time-translation symmetries. In the former case, the electron spin becomes anchored along some particular direction of space determined by a geometrical symmetry. In contrast, the latter situation occurs when the intrinsic spin magnetic moment undergoes a cyclic oscillation in the ground state, realizing a time crystal.\n\n[Phys. Rev. B 108, 235154] Published Mon Dec 18, 2023",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.108.235154",
-          "publishedOn": "2023-12-18T10:00:00.000Z",
-          "wordCount": 1128,
-          "title": "Spontaneous breaking of time-reversal symmetry and time-crystal states in chiral atomic systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.108.235154.png"
         }
       ]
     }
