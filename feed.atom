@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-20T00:47:47.072Z</id>
+    <id>urn:2024-01-21T00:53:09.296Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T00:47:47.072Z</updated>
+    <updated>2024-01-21T00:53:09.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1095,45 +1095,6 @@ The authors develop a theoretical description of superfluidlike phenomena in an 
 [Phys. Rev. A 108, 063517] Published Tue Dec 26, 2023]]></summary>
         <author>
             <name>Hannah M. Price, Martin Wimmer, Monika Monika, Ulf Peschel, and Iacopo Carusotto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relativistic two-body currents for one-nucleon knockout in electron-nucleus scattering]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.108.064608</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.108.064608"/>
-        <updated>2023-12-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. Franco-Munoz, J. García-Marcos, R. González-Jiménez, and J. M. Udías
-Electron scattering is currently the subject of renewed interest, also by virtue of its connections with the neutrino-nucleus interaction. This work represents a step forward for the description of the quasielastic region, through the introduction of two-body meson-exchange currents in a fully relativistic approach. The good agreement with the experimental response of 12C opens up interesting perspectives of applications of the same model to neutrino scattering of heavier nuclei, of great interest for neutrino oscillation experiments, in particular for the new generation of experiments that require an unprecedented level of accuracy.
-
-[Phys. Rev. C 108, 064608] Published Fri Dec 22, 2023]]></summary>
-        <author>
-            <name>T. Franco-Munoz, J. García-Marcos, R. González-Jiménez, and J. M. Udías</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twist- and gate-tunable proximity spin-orbit coupling, spin relaxation anisotropy, and charge-to-spin conversion in heterostructures of graphene and transition metal dichalcogenides]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.108.235166</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.108.235166"/>
-        <updated>2023-12-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Klaus Zollner, Simão M. João, Branislav K. Nikolić, and Jaroslav Fabian
-Proximity effects in van der Waals heterostructures offer controllable ways to tailor the electronic band structure of adjacent 2D materials. Here, the authors perform extensive first-principles calculations, to reveal the impact of twisting, gating, stacking, interlayer distance, and encapsulation, on the spin-orbit proximitized Dirac bands in graphene/transition metal dichalcogenide heterostructures. Furthermore, the authors make specific predictions for experimentally measurable quantities, such as charge-to-spin conversion efficiency. The results highlight the enormous tunability potential of proximity-induced phenomena in van der Waals heterostructures.
-
-[Phys. Rev. B 108, 235166] Published Fri Dec 22, 2023]]></summary>
-        <author>
-            <name>Klaus Zollner, Simão M. João, Branislav K. Nikolić, and Jaroslav Fabian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural sensing and control in a kilometer-scale gravitational-wave observatory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.20.064041</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.20.064041"/>
-        <updated>2023-12-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): N. Mukund, J. Lough, A. Bisht, H. Wittel, S. Nadji, C. Affeldt, F. Bergamin, M. Brinkmann, V. Kringel, H. Lück, M. Weinert, and K. Danzmann
-Aligning suspended optics in gravitational-wave observatories is crucial for detecting astrophysical phenomena⏤and it is also challenging, due to several environmental factors. This research implements neural-network-based sensing and control deployed at the GEO600 detector, utilizing a sensor with a convolutional neural network and long- and short-term memory, plus a deep-reinforcement-learning-based agent for enhanced alignment. The method demonstrates sensitivity improvement over traditional schemes, thus offering a practical approach for AI-based real-time control of gravitational-wave interferometers, to aid the detection of cosmic events like merging compact neutron-star binaries.
-
-[Phys. Rev. Applied 20, 064041] Published Fri Dec 22, 2023]]></summary>
-        <author>
-            <name>N. Mukund, J. Lough, A. Bisht, H. Wittel, S. Nadji, C. Affeldt, F. Bergamin, M. Brinkmann, V. Kringel, H. Lück, M. Weinert, and K. Danzmann</name>
         </author>
     </entry>
 </feed>
