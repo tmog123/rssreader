@@ -6,6 +6,106 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.010308",
+          "author": "Joseph Tindall, Matthew Fishman, E. Miles Stoudenmire, and Dries Sels",
+          "description": "Author(s): Joseph Tindall, Matthew Fishman, E. Miles Stoudenmire, and Dries Sels\nImproved classical methods for Hamiltonian simulation further shift the threshold for quantum utility.\n\n[PRX Quantum 5, 010308] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.5.010308",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 2607,
+          "title": "Efficient Tensor Network Simulation of IBM’s Eagle Kicked Ising Experiment",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.5.010308.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.L012019",
+          "author": "Alexey V. Scherbakov, Alex D. Carr, Tetiana L. Linnik, Serhii M. Kukhtaruk, Andrew D. Armour, Achim Nadzeyka, Andrew W. Rushforth, Andrey V. Akimov, and Manfred Bayer",
+          "description": "Author(s): Alexey V. Scherbakov, Alex D. Carr, Tetiana L. Linnik, Serhii M. Kukhtaruk, Andrew D. Armour, Achim Nadzeyka, Andrew W. Rushforth, Andrey V. Akimov, and Manfred Bayer\nA femtosecond laser pulse triggers hybrid excitation of magnons in a ferromagnetic nanostructure via an instant broadband kick and also through quasiharmonic driving by phonons. By tuning the external magnetic field and exploiting the dependence of the phase of the broadband excitation on the laser fluence, the phase and amplitude of the coherent magnon response is manipulated.\n\n[Phys. Rev. Research 6, L012019] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.L012019",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 1242,
+          "title": "Hybrid coherent control of magnons in a ferromagnetic phononic resonator excited by laser pulses",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.6.L012019.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.013605",
+          "author": "Huiyu Wang, Zhen Wang, Zeeshan Ali, Enling Wang, Mohammad Saghayezhian, Jiandong Guo, Yimei Zhu, Jing Tao, and Jiandi Zhang",
+          "description": "Author(s): Huiyu Wang, Zhen Wang, Zeeshan Ali, Enling Wang, Mohammad Saghayezhian, Jiandong Guo, Yimei Zhu, Jing Tao, and Jiandi Zhang\nA well-defined substrate surface is crucial for the epitaxy of complex materials, especially for revealing intrinsic properties of films in ultrathin limit. Here by atomically precise growth and characterization, the origin for the lateral inhomogeneity of ultrathin SrRuO3 films due to the step effects of SrTiO3 (001) is revealed. Two distinct types of step propagation along the [011] and [01¯1] crystallographic direction is identified, respectively. In particular, the type-II [01¯1] step results in lateral discontinuity of monolayer SrRuO3 and originates from the SrO-terminated regions along the TiO2-terminated step edge, responsible for the distinct electronic and magnetic properties of monolayer SrRuO3.\n\n[Phys. Rev. Materials 8, 013605] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.013605",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 1547,
+          "title": "Surface termination effect of $\\mathrm{SrTi}{\\mathrm{O}}_{3}$ substrate on ultrathin $\\mathrm{SrRu}{\\mathrm{O}}_{3}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.013605.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.043803",
+          "author": "Thanh Xuan Hoang, Daniel Leykam, and Yuri Kivshar",
+          "description": "Author(s): Thanh Xuan Hoang, Daniel Leykam, and Yuri Kivshar\nLight–matter interactions in certain one-dimensional photonic materials can bring light nearly to a standstill, an effect that researchers show requires consideration of long-range interactions between the material’s components.\n\n[Phys. Rev. Lett. 132, 043803] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.043803",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 1052,
+          "title": "Photonic Flatband Resonances in Multiple Light Scattering",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.043803.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.014223",
+          "author": "Lucas Illing, Pierce Ryan, and Andreas Amann",
+          "description": "Author(s): Lucas Illing, Pierce Ryan, and Andreas Amann\nTime-delayed relay systems, systems with switches transmitting a signal with a time delay, can be found in the biological world as well as in mechanical or electrical systems. In this paper, the authors model them using second-order linear delay differential equations and analyze their solutions, finding that, for the same values of the parameters, many stable solutions coexist.\n\n[Phys. Rev. E 109, 014223] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.014223",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 1097,
+          "title": "Dynamics of a time-delayed relay system",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.014223.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.024430",
+          "author": "M. Müller, J. Weber, F. Engelhardt, V. A. S. V. Bittencourt, T. Luschmann, M. Cherkasskii, M. Opel, S. T. B. Goennenwein, S. Viola Kusminskiy, S. Geprägs, R. Gross, M. Althammer, and H. Huebl",
+          "description": "Author(s): M. Müller, J. Weber, F. Engelhardt, V. A. S. V. Bittencourt, T. Luschmann, M. Cherkasskii, M. Opel, S. T. B. Goennenwein, S. Viola Kusminskiy, S. Geprägs, R. Gross, M. Althammer, and H. Huebl\nThe magnetoelastic coupling of magnetic and elastic excitations enables the generation of elastic waves carrying angular momentum. In a quantum picture, this corresponds to a resonant conversion of magnons to chiral phonons and vice versa. This study showcases this conversion process using a simple and versatile experimental platform consisting of a metallic magnetic thin film on a crystalline substrate. These findings allow us to study the impact of crystal symmetry on angular momentum transport by phonons and investigate phononic birefringence.\n\n[Phys. Rev. B 109, 024430] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.024430",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 2369,
+          "title": "Chiral phonons and phononic birefringence in ferromagnetic metal–bulk acoustic resonator hybrids",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.024430.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.045144",
+          "author": "Pawel Potasz, Nicolás Morales-Durán, Nai Chao Hu, and Allan H. MacDonald",
+          "description": "Author(s): Pawel Potasz, Nicolás Morales-Durán, Nai Chao Hu, and Allan H. MacDonald\nMoiré superlattices give a unique opportunity to investigate controllable quantum systems. Previous studies of transition metal dichalcogenide heterobilayers mainly focused on magnetic order at half-filling or charge orders at partial fillings. Here, the authors investigate itinerant ferromagnetism in the vicinity of the van Hove singularity of moiré triangular superlattices. From many-body exact diagonalization calculations that shed light on the magnon spectra and the magnetic susceptibility, the Curie temperature is estimated to vary with moiré lattice constant, from a few to a few tens of kelvins.\n\n[Phys. Rev. B 109, 045144] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.045144",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 1508,
+          "title": "Itinerant ferromagnetism in transition metal dichalcogenide moiré superlattices",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.045144.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.045306",
+          "author": "N. H. Kwong, M. Em. Spotnitz, and R. Binder",
+          "description": "Author(s): N. H. Kwong, M. Em. Spotnitz, and R. Binder\nSemiconductor lasers have formal analogies to Bardeen-Cooper-Schrieffer (BCS) superconductors. This work shows that, in analogy to gapless superconductivity, a gapless lasing parametric regime, in which the frequency gap in the fluctuation spectrum is closed, exists for steady-state semiconductor lasers. The gap opens when the laser intensity exceeds a threshold. This gapless-to-gapped transition occurs at a third-order exceptional point.\n\n[Phys. Rev. B 109, 045306] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.045306",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 1738,
+          "title": "Gapless fluctuations and exceptional points in semiconductor lasers",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.045306.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.013110",
+          "author": "Alexander A. Milner, Ian MacPhail-Bartley, Katarina Preocanin, Shroyon Dasgupta, Xuanshan Peng, and Valery Milner",
+          "description": "Author(s): Alexander A. Milner, Ian MacPhail-Bartley, Katarina Preocanin, Shroyon Dasgupta, Xuanshan Peng, and Valery Milner\nThe authors experimentally demonstrate control of molecular rotation in bulk superfluid ^{4}He. The authors show that both the degree of rotational excitation of metastable helium dimers and the directionality of molecular rotation can be controlled by different aspects of the pulse trains.\n\n[Phys. Rev. A 109, 013110] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.013110",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 1029,
+          "title": "Coherent control of molecular rotation in superfluid helium",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.013110.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.013513",
+          "author": "Juanjuan Ren, Sebastian Franke, Becca VanDrunen, and Stephen Hughes",
+          "description": "Author(s): Juanjuan Ren, Sebastian Franke, Becca VanDrunen, and Stephen Hughes\nThe authors derive a correction to the spontaneous emission rate and the classical Purcell factor in linear media that includes gain and loss within the framework of a classical light-matter theory. The results fully recover a recently presented quantum mechanical form, establishing an essential classical-to-quantum correspondence of spontaneous emission, and are extended to also account for local field effects.\n\n[Phys. Rev. A 109, 013513] Published Tue Jan 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.013513",
+          "publishedOn": "2024-01-23T10:00:00.000Z",
+          "wordCount": 1897,
+          "title": "Classical Purcell factors and spontaneous emission decay rates in a linear gain medium",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.013513.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.013079",
           "author": "Esmaeel Moghimi, Iurii Chubak, Maria Kaliva, Parvin Kiany, Taihyun Chang, Junyoung Ahn, Nikolaos Patelis, Georgios Sakellariou, Sergei A. Egorov, Dimitris Vlassopoulos, and Christos N. Likos",
           "description": "Author(s): Esmaeel Moghimi, Iurii Chubak, Maria Kaliva, Parvin Kiany, Taihyun Chang, Junyoung Ahn, Nikolaos Patelis, Georgios Sakellariou, Sergei A. Egorov, Dimitris Vlassopoulos, and Christos N. Likos\nWhen nonadsorbing ring polymers are added in a fluid suspension of big, spherical colloids, solid gels are formed. Joint experimental, computational, and theoretical work shows that these gels are much stronger than those formed by the addition of linear polymer chains.\n\n[Phys. Rev. Research 6, 013079] Published Mon Jan 22, 2024",
@@ -111,7 +211,7 @@
           "description": "Author(s): Murat Yessenov, Miguel Romer, Naoki Ichiji, and Ayman F. Abouraddy\nThe authors present an experimental procedure that is analogous to Lorentz boosts of space-time wave packets (STWPs), in that the physical transformation is identical to the mathematical impact of a Lorentz transformation except for an overall Doppler shift to the carrier. Their work indicates that a Lorentz boost of a STWP results in another STWP.\n\n[Phys. Rev. A 109, 013509] Published Fri Jan 19, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.013509",
           "publishedOn": "2024-01-19T10:00:00.000Z",
-          "wordCount": 2066,
+          "wordCount": 2065,
           "title": "Experimental realization of Lorentz boosts of space-time wave packets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.013509.png"
         },
@@ -491,7 +591,7 @@
           "description": "Author(s): Anubhab Haldar, Zhengjie Huang, Xuedan Ma, Pierre Darancet, and Sahar Sharifzadeh\nCoherent interactions between electromagnetic waves and extended vibrational degrees of freedom in solids (phonons) enable the stabilization of non-equilibrium states of matter with potentially desirable properties. However, the breakdown of the harmonic approximation in a material experiencing a structural phase transition results in large anharmonic deviations that limit the applicability of standard illumination protocols based on periodic drives. In this study, the authors propose a new illumination protocol that enables amplification of vibrations far into the non-linear regime for broken-symmetry materials.\n\n[Phys. Rev. Materials 8, 015202] Published Mon Jan 08, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.015202",
           "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 1089,
+          "wordCount": 1088,
           "title": "Excitation protocols for nonlinear phononics in bismuth and antimony",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.015202.png"
         },
@@ -531,7 +631,7 @@
           "description": "Author(s): Zala Korenjak and Matjaž Humar\nUsing a soap bubble, researchers have created a laser that could act as a sensitive sensor for environmental parameters including atmospheric pressure.\n\n[Phys. Rev. X 14, 011002] Published Fri Jan 05, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.011002",
           "publishedOn": "2024-01-05T10:00:00.000Z",
-          "wordCount": 2111,
+          "wordCount": 2110,
           "title": "Smectic and Soap Bubble Optofluidic Lasers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.011002.png"
         },
