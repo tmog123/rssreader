@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-29T00:45:05.587Z</id>
+    <id>urn:2024-01-30T00:44:16.408Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T00:45:05.587Z</updated>
+    <updated>2024-01-30T00:44:16.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crystal Thermal Transport in Altermagnetic ${\mathrm{RuO}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.056701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.056701"/>
+        <updated>2024-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xiaodong Zhou, Wanxiang Feng, Run-Wu Zhang, Libor Šmejkal, Jairo Sinova, Yuriy Mokrousov, and Yugui Yao
+A first-principles calculation reveals a novel class of anomalous thermal transport effects in the altermagnet RuO2.
+
+[Phys. Rev. Lett. 132, 056701] Published Mon Jan 29, 2024]]></summary>
+        <author>
+            <name>Xiaodong Zhou, Wanxiang Feng, Run-Wu Zhang, Libor Šmejkal, Jairo Sinova, Yuriy Mokrousov, and Yugui Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrability of a Globally Coupled Complex Riccati Array: Quadratic Integrate-and-Fire Neurons, Phase Oscillators, and All in Between]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.057201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.057201"/>
+        <updated>2024-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rok Cestnik and Erik A. Martens
+A new approach to solving arrays of two-dimensional differential equations may allow researchers to go beyond the one-dimensional oscillator paradigm.
+
+[Phys. Rev. Lett. 132, 057201] Published Mon Jan 29, 2024]]></summary>
+        <author>
+            <name>Rok Cestnik and Erik A. Martens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of mirror birefringence and its fluctuations to laser interferometric gravitational wave detectors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.022009</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.022009"/>
+        <updated>2024-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yuta Michimura, Haoyu Wang, Francisco Salces-Carcoba, Christopher Wipf, Aidan Brooks, Koji Arai, and Rana X. Adhikari
+Crystalline materials in gravitational wave detectors as substrates and mirror coatings could provide many advantages. The authors carry out a theoretical study to quantify how birefringence and its fluctuations can limit the sensitivity of GW detectors and show ways to mitigate these effects through the orientation of the beam polarization and the crystalline material.
+
+[Phys. Rev. D 109, 022009] Published Mon Jan 29, 2024]]></summary>
+        <author>
+            <name>Yuta Michimura, Haoyu Wang, Francisco Salces-Carcoba, Christopher Wipf, Aidan Brooks, Koji Arai, and Rana X. Adhikari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-induced inverse spin Hall effect in ${\mathrm{La}}_{0.67}{\mathrm{Sr}}_{0.33}{\mathrm{MnO}}_{3}$ films]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.014437</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.014437"/>
+        <updated>2024-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pushpendra Gupta, In Jun Park, Anupama Swain, Abhisek Mishra, Vivek P. Amin, and Subhankar Bedanta
+The authors report here the self-induced inverse spin Hall effect in epitaxial La0.67Sr0.33MnO3 (LSMO) films and perform first-principles calculations of the spin Hall conductivities of bulk LSMO. The LSMO films were prepared using pulsed laser deposition. The spin pumping voltage Vsp dominates over spin rectification effects, indicating the presence of appreciable spin-to-charge conversion in LSMO films. The spin Hall conductivity is calculated from first principles using density functional theory and the Kubo formalism, and the results qualitatively match with the experimental findings.
+
+[Phys. Rev. B 109, 014437] Published Mon Jan 29, 2024]]></summary>
+        <author>
+            <name>Pushpendra Gupta, In Jun Park, Anupama Swain, Abhisek Mishra, Vivek P. Amin, and Subhankar Bedanta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three-dimensional imaging of integrated-circuit activity using quantum defects in diamond]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.014055</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.014055"/>
+        <updated>2024-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Marwa Garsi, Rainer Stöhr, Andrej Denisenko, Farida Shagieva, Nils Trautmann, Ulrich Vogl, Badou Sene, Florian Kaiser, Andrea Zappe, Rolf Reuter, and Jörg Wrachtrup
+Three-dimensional semiconductor chip architectures promise high-density memory and much faster computation, but self-heating and leakage currents still severely limit performance. While current-density mapping is crucial to studying these issues in situ, nondestructive imaging has been limited to two dimensions. The authors use ensembles of nitrogen-vacancy centers in diamond as nanoscale quantum sensors to probe all three vectorial components of magnetic fields associated with electric currents, for noninvasive imaging of three-dimensional currents in multilayer integrated circuits. Further improvements could reveal the local conductance of materials, to advance condensed matter physics.
+
+[Phys. Rev. Applied 21, 014055] Published Mon Jan 29, 2024]]></summary>
+        <author>
+            <name>Marwa Garsi, Rainer Stöhr, Andrej Denisenko, Farida Shagieva, Nils Trautmann, Ulrich Vogl, Badou Sene, Florian Kaiser, Andrea Zappe, Rolf Reuter, and Jörg Wrachtrup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Field test of continuous-variable quantum key distribution with a true local oscillator]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.014056</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.014056"/>
+        <updated>2024-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Brian P. Williams, Bing Qi, Muneer Alshowkan, Philip G. Evans, and Nicholas A. Peters
+In quantum secure communication, continuous-variable quantum key distribution (CV-QKD) using a true local oscillator (LO) located at the receiver has been proposed to remove side-channel-attack vulnerabilities and reduce excess noise, but implementations have been confined to the lab. The authors demonstrate CV-QKD with a receiver-based true LO over a deployed fiber network, with coexistent classical communications. This represents a substantial technical and engineering advance over prior tabletop demonstrations.
+
+[Phys. Rev. Applied 21, 014056] Published Mon Jan 29, 2024]]></summary>
+        <author>
+            <name>Brian P. Williams, Bing Qi, Muneer Alshowkan, Philip G. Evans, and Nicholas A. Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analytical analysis for additional ionization peaks of He induced by chirped xuv pulses]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.013113</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.013113"/>
+        <updated>2024-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yong-Kang Fang, Lei Geng, and Liang-You Peng
+The authors study two-photon double ionization induced by chirped pulses, which shows additional features in the photoelectron energy spectrum compared to the case without chirp. They develop an analytical model that is able to shed light on the origin of these peaks, discovered in earlier theoretical work but unexplained until now.
+
+[Phys. Rev. A 109, 013113] Published Mon Jan 29, 2024]]></summary>
+        <author>
+            <name>Yong-Kang Fang, Lei Geng, and Liang-You Peng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anisotropic anomalous transport in the kagome-based topological antiferromagnetic ${\mathrm{Mn}}_{3}\text{Ga}$ epitaxial thin films]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.014204</id>
@@ -1212,97 +1303,6 @@ A proposed new design of superconducting qubits uses Josephson junctions made wi
 [Phys. Rev. Lett. 132, 017002] Published Fri Jan 05, 2024]]></summary>
         <author>
             <name>Hrishikesh Patel, Vedangi Pathak, Oguzhan Can, Andrew C. Potter, and Marcel Franz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superconducting Qubit Based on Twisted Cuprate Van der Waals Heterostructures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.017003</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.017003"/>
-        <updated>2024-01-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Valentina Brosco, Giuseppe Serpico, Valerii Vinokur, Nicola Poccia, and Uri Vool
-A proposed new design of superconducting qubits uses Josephson junctions made with a high-Tc d-wave superconductor overlaying a conventional s-wave superconductor to increase their coherence time and stability in the presence of noise.
-
-[Phys. Rev. Lett. 132, 017003] Published Fri Jan 05, 2024]]></summary>
-        <author>
-            <name>Valentina Brosco, Giuseppe Serpico, Valerii Vinokur, Nicola Poccia, and Uri Vool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Definition of fragmentation functions and the violation of sum rules]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.016006</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.016006"/>
-        <updated>2024-01-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): John Collins and Ted C. Rogers
-The authors discuss how in QCD, processes which describe how final state hadrons arise from a parton in hard scattering are sensitive to the Wilson line necessary for gauge invariance. This affects some sum rules, notably that for charge conservation.
-
-[Phys. Rev. D 109, 016006] Published Fri Jan 05, 2024]]></summary>
-        <author>
-            <name>John Collins and Ted C. Rogers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GWTC-2.1: Deep extended catalog of compact binary coalescences observed by LIGO and Virgo during the first half of the third observing run]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.022001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.022001"/>
-        <updated>2024-01-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. Abbott et al. (The LIGO Scientific Collaboration and the Virgo Collaboration)
-GWTC-2.1 is a catalog of gravitational wave events from compact binary coalescences from the first half of the third observing run of Advanced LIGO and Advanced Virgo. It improves on GWTC-2, which covered the same period but with less refined analysis methods. GWTC-2.1 identifies 8 new events, all identified as sourced by binary black holes with one exception identified as a neutron star-black hole coalescence. These events expand significantly on the parameters characterizing the sources of observed gravitational-wave transients.
-
-[Phys. Rev. D 109, 022001] Published Fri Jan 05, 2024]]></summary>
-        <author>
-            <name>R. Abbott &lt;em&gt;et al.&lt;/em&gt; (The LIGO Scientific Collaboration and the Virgo Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonequilibrium Schwinger-Keldysh formalism for density matrix states: Analytic properties and implications in cosmology]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.025004</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.025004"/>
-        <updated>2024-01-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andrei O. Barvinsky and Nikita Kolganov
-Motivated by cosmological Hartle-Hawking and microcanonical density matrix prescriptions for the quantum state of the Universe, the authors develop a Schwinger-Keldysh in-in formalism for generic non-equilibrium systems with an initial density matrix. For generic density matrices of the Gaussian type, they develop the generating functionals of the in-in Green’s functions and discuss how “particle interpretation” relates to the density matrix parameters.
-
-[Phys. Rev. D 109, 025004] Published Fri Jan 05, 2024]]></summary>
-        <author>
-            <name>Andrei O. Barvinsky and Nikita Kolganov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlinear and Negative Effective Diffusivity of Interlayer Excitons in Moiré-Free Heterobilayers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.016202</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.016202"/>
-        <updated>2024-01-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Edith Wietek, Matthias Florian, Jonas Göser, Takashi Taniguchi, Kenji Watanabe, Alexander Högele, Mikhail M. Glazov, Alexander Steinhoff, and Alexey Chernikov
-Interlayer excitons in van der Waals heterostructures diffuse rapidly, with diffusion coefficients about 1000 times larger than previously seen, in the absence of moiré- and disorder-induced localization.
-
-[Phys. Rev. Lett. 132, 016202] Published Thu Jan 04, 2024]]></summary>
-        <author>
-            <name>Edith Wietek, Matthias Florian, Jonas Göser, Takashi Taniguchi, Kenji Watanabe, Alexander Högele, Mikhail M. Glazov, Alexander Steinhoff, and Alexey Chernikov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of Terahertz Spin Hall Conductivity Spectrum in GaAs with Optical Spin Injection]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.016301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.016301"/>
-        <updated>2024-01-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tomohiro Fujimoto, Takayuki Kurihara, Yuta Murotani, Tomohiro Tamaya, Natsuki Kanda, Changsu Kim, Jun Yoshinobu, Hidefumi Akiyama, Takeo Kato, and Ryusuke Matsunaga
-Spin Hall conductivity is observed in GaAs at room temperature via a circularly polarized terahertz pump-probe setup.
-
-[Phys. Rev. Lett. 132, 016301] Published Thu Jan 04, 2024]]></summary>
-        <author>
-            <name>Tomohiro Fujimoto, Takayuki Kurihara, Yuta Murotani, Tomohiro Tamaya, Natsuki Kanda, Changsu Kim, Jun Yoshinobu, Hidefumi Akiyama, Takeo Kato, and Ryusuke Matsunaga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analog vacuum decay from vacuum initial conditions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.023506</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.023506"/>
-        <updated>2024-01-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alexander C. Jenkins, Jonathan Braden, Hiranya V. Peiris, Andrew Pontzen, Matthew C. Johnson, and Silke Weinfurtner
-The authors study how phase transitions in ultracold atomic gases mimic relativistic vacuum decay, improving on previous analyses by incorporating the effects of quantum fluctuations over and above the classical equations of motion. This is designed to test early Universe physics via tabletop experiments.
-
-[Phys. Rev. D 109, 023506] Published Thu Jan 04, 2024]]></summary>
-        <author>
-            <name>Alexander C. Jenkins, Jonathan Braden, Hiranya V. Peiris, Andrew Pontzen, Matthew C. Johnson, and Silke Weinfurtner</name>
         </author>
     </entry>
 </feed>
