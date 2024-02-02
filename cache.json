@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.058203",
+          "author": "Marcus Lin, Philseok Kim, Sankara Arunachalam, Rifan Hardian, Solomon Adera, Joanna Aizenberg, Xi Yao, and Dan Daniel",
+          "description": "Author(s): Marcus Lin, Philseok Kim, Sankara Arunachalam, Rifan Hardian, Solomon Adera, Joanna Aizenberg, Xi Yao, and Dan Daniel\nWater droplets can exhibit complex collective motions when they condense on a thin oil film.\n\n[Phys. Rev. Lett. 132, 058203] Published Thu Feb 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.058203",
+          "publishedOn": "2024-02-01T10:00:00.000Z",
+          "wordCount": 1174,
+          "title": "Emergent Collective Motion of Self-Propelled Condensate Droplets",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.058203.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.054003",
           "author": "Daria A. Smirnova, Franco Nori, and Konstantin Y. Bliokh",
           "description": "Author(s): Daria A. Smirnova, Franco Nori, and Konstantin Y. Bliokh\nInterference in plane-wave combinations of water waves is predicted to give rise to structures that are usually found in optical, elastic, and quantum systems.\n\n[Phys. Rev. Lett. 132, 054003] Published Wed Jan 31, 2024",
@@ -72,7 +82,7 @@
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.051901",
           "publishedOn": "2024-01-30T10:00:00.000Z",
           "wordCount": 1378,
-          "title": "Two-Pole Nature of the $\\mathrm{Λ}(1405)$ resonance from Lattice QCD",
+          "title": "Two-Pole Nature of the $\\mathrm{Λ}(1405)$ Resonance from Lattice QCD",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.051901.png"
         },
         {
@@ -371,7 +381,7 @@
           "description": "Author(s): A. C. Lee, S. Sarkar, K. Du, H.-H. Kung, C. J. Won, K. Wang, S.-W. Cheong, S. Maiti, and G. Blumberg\nIt has been long established that collective charge oscillations of electron density relative to nuclei lattice – the bulk plasmons in metals – are typically unobservable by light scattering spectroscopy. Here, the authors report the unexpected observation of a distinct long-lived plasmon mode in the Raman spectrum of BiTeI, a material with a giant Rashba spin-orbit coupling. In contrast to conventional expectations, the findings reveal strong and direct light scattering by bulk plasmons even in the long-wavelength limit. The authors also establish the basic criteria enabling the discovered observation.\n\n[Phys. Rev. B 109, L041111] Published Thu Jan 25, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L041111",
           "publishedOn": "2024-01-25T10:00:00.000Z",
-          "wordCount": 1252,
+          "wordCount": 1253,
           "title": "Spin-mediated direct photon scattering by plasmons in BiTeI",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L041111.png"
         },
@@ -994,16 +1004,6 @@
           "wordCount": 1145,
           "title": "Upper bounds on superconducting and excitonic phase stiffness for interacting isolated narrow bands",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.024507.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.016001",
-          "author": "Paul Z. Hanakata, Sourav S. Bhabesh, David Yllanes, David R. Nelson, and Mark J. Bowick",
-          "description": "Author(s): Paul Z. Hanakata, Sourav S. Bhabesh, David Yllanes, David R. Nelson, and Mark J. Bowick\nThermalized crystalline sheets, such as graphene liberated from a substrate, are driven by height fluctuations. The authors study the nonlinear dynamics of doubly-clamped nanoribbons as prototypical graphene resonators. Such ribbons exhibit a thermalized version of Euler buckling, with both up and down local minima. Treating the ribbon as a Brownian particle confined to a double-well potential, they determine transition rates across the two wells and oscillations inside a given well via molecular dynamics simulations. The dynamical behavior found is very different from Arrhenius behavior. The rate-controlling exponential factor depends only on the geometry, as opposed to the temperature, providing a new pathway for the experimental control of thermalized two-dimensional metamaterials.\n\n[Phys. Rev. Materials 8, 016001] Published Tue Jan 09, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.016001",
-          "publishedOn": "2024-01-09T10:00:00.000Z",
-          "wordCount": 1829,
-          "title": "Vibrations and transitions across barrier of strained nanoribbons at finite temperature",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.016001.png"
         }
       ]
     }
