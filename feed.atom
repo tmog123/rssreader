@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-06T00:43:31.078Z</id>
+    <id>urn:2024-02-07T00:43:00.138Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T00:43:31.078Z</updated>
+    <updated>2024-02-07T00:43:00.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Adiabatic Cooper pair splitter]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L081402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L081402"/>
+        <updated>2024-02-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fredrik Brange, Riya Baruah, and Christian Flindt
+By adiabatically changing the energy levels of two quantum dots, theoreticians predict that it should be possible to control the splitting of Cooper pairs from a superconductor. Such an adiabatic Cooper pair splitter could serve as an on-demand source of entangled electrons in future solid-state quantum technologies.
+
+[Phys. Rev. B 109, L081402] Published Tue Feb 06, 2024]]></summary>
+        <author>
+            <name>Fredrik Brange, Riya Baruah, and Christian Flindt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three-wave-mixing quantum-limited kinetic inductance parametric amplifier operating at 6 T near 1 K]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.024011</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.024011"/>
+        <updated>2024-02-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. Frasca, C. Roy, G. Beaulieu, and P. Scarlino
+Parametric amplifiers are essential in modern quantum technology, for enhancing weak signals with the minimal added noise of half a photon, and for working at higher temperatures and magnetic fields than Josephson junctions can handle. The authors present a kinetic inductance parametric amplifier (KIPA) that excels in dynamic range, operational temperature, and magnetic field resilience, and offers quantum-limited amplification. This KIPA’s robust performance and compatibility promise transformative impacts on quantum information processing and low-temperature quantum research.
+
+[Phys. Rev. Applied 21, 024011] Published Tue Feb 06, 2024]]></summary>
+        <author>
+            <name>S. Frasca, C. Roy, G. Beaulieu, and P. Scarlino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microwave Photon-Number Amplification]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011011</id>
@@ -1277,32 +1303,6 @@ Usually, gravity causes liquid to drain out of a foam vertically, but simulation
 [Phys. Rev. E 109, 014609] Published Tue Jan 16, 2024]]></summary>
         <author>
             <name>Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All-optical dual-axis zero-field atomic magnetometer using light-shift modulation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.014023</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.014023"/>
-        <updated>2024-01-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xiaoyu Li, Bangcheng Han, Kaixuan Zhang, Ziao Liu, Shuying Wang, Yifan Yan, and Jixi Lu
-Researchers have achieved dual-axis magnetic-field detection using an atomic magnetometer architecture with only optical instruments.
-
-[Phys. Rev. Applied 21, 014023] Published Tue Jan 16, 2024]]></summary>
-        <author>
-            <name>Xiaoyu Li, Bangcheng Han, Kaixuan Zhang, Ziao Liu, Shuying Wang, Yifan Yan, and Jixi Lu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Development of Neutron Interferometer Using Multilayer Mirrors and Measurements of Neutron-Nuclear Scattering Length with Pulsed Neutron Source]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.023402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.023402"/>
-        <updated>2024-01-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Takuhiro Fujiie, Masahiro Hino, Takuya Hosobata, Go Ichikawa, Masaaki Kitaguchi, Kenji Mishima, Yoshichika Seki, Hirohiko M. Shimizu, and Yutaka Yamagata
-Researchers have demonstrated a mirror-based neutron interferometer that should be more sensitive to beyond-standard-model particle interactions than previous instruments.
-
-[Phys. Rev. Lett. 132, 023402] Published Fri Jan 12, 2024]]></summary>
-        <author>
-            <name>Takuhiro Fujiie, Masahiro Hino, Takuya Hosobata, Go Ichikawa, Masaaki Kitaguchi, Kenji Mishima, Yoshichika Seki, Hirohiko M. Shimizu, and Yutaka Yamagata</name>
         </author>
     </entry>
 </feed>
