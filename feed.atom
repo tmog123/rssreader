@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-07T00:43:00.138Z</id>
+    <id>urn:2024-02-08T00:43:32.068Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T00:43:00.138Z</updated>
+    <updated>2024-02-08T00:43:32.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Active Matter under Control: Insights from Response Theory]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011012</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.011012"/>
+        <updated>2024-02-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Luke K. Davis, Karel Proesmans, and Étienne Fodor
+A theoretical study finds that the most energy-efficient way to control an active-matter system is to drive it at finite speed—unlike passive-matter systems.
+
+[Phys. Rev. X 14, 011012] Published Wed Feb 07, 2024]]></summary>
+        <author>
+            <name>Luke K. Davis, Karel Proesmans, and Étienne Fodor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orbital degree of freedom in high entropy oxides]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024404</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024404"/>
+        <updated>2024-02-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jiaqiang Yan, Abinash Kumar, Miaofang Chi, Matthew Brahlek, Thomas Z. Ward, and Michael A. McGuire
+Understanding strongly correlated physics of electronic-driven orbital ordering in transition metal compounds has presented many long-standing questions. Utilizing high-entropy oxides have enabled understanding that disorder can unlock an unusual intermixing of orbital and spin in the rare-earth vanadate, RVO3, which shows that the average and variance of ionic radius determine and control unusual properties of the spin and orbital order. The ability to systematically control variance of the local structure in high-quality crystals which hold constant charge and spin is crucial for a deeper understanding and exploring unanswered decades-old question regarding the physics of the Kugel-Khomskii compounds.
+
+[Phys. Rev. Materials 8, 024404] Published Wed Feb 07, 2024]]></summary>
+        <author>
+            <name>Jiaqiang Yan, Abinash Kumar, Miaofang Chi, Matthew Brahlek, Thomas Z. Ward, and Michael A. McGuire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collective Relaxation Dynamics in a Three-Dimensional Lattice Glass Model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.067101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.067101"/>
+        <updated>2024-02-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yoshihiko Nishikawa and Ludovic Berthier
+A recently developed lattice model produces an unexpected prediction combination for the rearrangements of particles inside a supercooled liquid turning into a glass.
+
+[Phys. Rev. Lett. 132, 067101] Published Wed Feb 07, 2024]]></summary>
+        <author>
+            <name>Yoshihiko Nishikawa and Ludovic Berthier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error channels in quantum nondemolition measurements on spin systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.085302</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.085302"/>
+        <updated>2024-02-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Benjamin Joecker, Holly G. Stemp, Irene Fernández de Fuentes, Mark A. I. Johnson, and Andrea Morello
+Quantum nondemolition measurements (QNDMs) are a precious resource for quantum computing. They are an integral part of the surface code, the holy grail of quantum error correction, and can boost initialization and readout fidelities through repeated measurements. In spin systems, scalable QNDMS are achievable by coupling to ancillary spins read via charge reservoirs. Here, the authors develop a model to quantify how small deviations from true QNDMs in real spin system can introduce bit-flip errors and analyze how they can be minimized.
+
+[Phys. Rev. B 109, 085302] Published Wed Feb 07, 2024]]></summary>
+        <author>
+            <name>Benjamin Joecker, Holly G. Stemp, Irene Fernández de Fuentes, Mark A. I. Johnson, and Andrea Morello</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adiabatic Cooper pair splitter]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L081402</id>
@@ -1251,58 +1303,6 @@ Silver plays a prominent role as an active material in resistive-switching memor
 [Phys. Rev. Applied 21, 014027] Published Wed Jan 17, 2024]]></summary>
         <author>
             <name>Anna Nyáry, Zoltán Balogh, Máté Vigh, Botond Sánta, László Pósa, and András Halbritter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proof-of-principle ${e}^{+}$ source for future colliders]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.013401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.013401"/>
-        <updated>2024-01-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): N. Vallis, P. Craievich, M. Schär, R. Zennaro, B. Auchmann, H. H. Braun, M. I. Besana, M. Duda, R. Fortunati, H. Garcia-Rodrigues, D. Hauenstein, R. Ischebeck, E. Ismaili, P. Juranić, J. Kosse, A. Magazinik, F. Marcellini, T. Michlmayr, S. Müller, M. Pedrozzi, R. Rotundo, G. L. Orlandi, M. Seidel, N. Strohmaier, and M. Zykova
-A positron source demonstrator with the potential to increase the yield by an order of magnitude.
-
-[Phys. Rev. Accel. Beams 27, 013401] Published Wed Jan 17, 2024]]></summary>
-        <author>
-            <name>N. Vallis, P. Craievich, M. Schär, R. Zennaro, B. Auchmann, H. H. Braun, M. I. Besana, M. Duda, R. Fortunati, H. Garcia-Rodrigues, D. Hauenstein, R. Ischebeck, E. Ismaili, P. Juranić, J. Kosse, A. Magazinik, F. Marcellini, T. Michlmayr, S. Müller, M. Pedrozzi, R. Rotundo, G. L. Orlandi, M. Seidel, N. Strohmaier, and M. Zykova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonequilibrium Response for Markov Jump Processes: Exact Results and Tight Bounds]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.037101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.037101"/>
-        <updated>2024-01-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Timur Aslyamov and Massimiliano Esposito
-A novel linear-algebra method opens the way to efficiently study a broad class of responses for nonequilibrium systems.
-
-[Phys. Rev. Lett. 132, 037101] Published Tue Jan 16, 2024]]></summary>
-        <author>
-            <name>Timur Aslyamov and Massimiliano Esposito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermodynamic bound on quantum state discrimination]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.014119</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.014119"/>
-        <updated>2024-01-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): José Polo-Gómez
-The limitations that thermodynamics imposes on quantum information theory are investigated in this paper, which examines an ideal gas with an internal quantum degree of freedom undergoing a cycle. By considering a demon capable of distinguishing two quantum states, the author shows that the ability to distinguish quantum states is bounded by the second law of thermodynamics.
-
-[Phys. Rev. E 109, 014119] Published Tue Jan 16, 2024]]></summary>
-        <author>
-            <name>José Polo-Gómez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neutron radiography of an anisotropic drainage flow]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.014609</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.014609"/>
-        <updated>2024-01-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam
-Usually, gravity causes liquid to drain out of a foam vertically, but simulations have predicted that if the foam is sheared, the drainage will be anisotropic. This paper describes an experimental verification of that prediction by neutron radiography, which shows that the vertical drainage flow is indeed deflected horizontally.
-
-[Phys. Rev. E 109, 014609] Published Tue Jan 16, 2024]]></summary>
-        <author>
-            <name>Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam</name>
         </author>
     </entry>
 </feed>

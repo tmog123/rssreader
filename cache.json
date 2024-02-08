@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.011012",
+          "author": "Luke K. Davis, Karel Proesmans, and Étienne Fodor",
+          "description": "Author(s): Luke K. Davis, Karel Proesmans, and Étienne Fodor\nA theoretical study finds that the most energy-efficient way to control an active-matter system is to drive it at finite speed—unlike passive-matter systems.\n\n[Phys. Rev. X 14, 011012] Published Wed Feb 07, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.011012",
+          "publishedOn": "2024-02-07T10:00:00.000Z",
+          "wordCount": 1534,
+          "title": "Active Matter under Control: Insights from Response Theory",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.011012.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024404",
+          "author": "Jiaqiang Yan, Abinash Kumar, Miaofang Chi, Matthew Brahlek, Thomas Z. Ward, and Michael A. McGuire",
+          "description": "Author(s): Jiaqiang Yan, Abinash Kumar, Miaofang Chi, Matthew Brahlek, Thomas Z. Ward, and Michael A. McGuire\nUnderstanding strongly correlated physics of electronic-driven orbital ordering in transition metal compounds has presented many long-standing questions. Utilizing high-entropy oxides have enabled understanding that disorder can unlock an unusual intermixing of orbital and spin in the rare-earth vanadate, RVO3, which shows that the average and variance of ionic radius determine and control unusual properties of the spin and orbital order. The ability to systematically control variance of the local structure in high-quality crystals which hold constant charge and spin is crucial for a deeper understanding and exploring unanswered decades-old question regarding the physics of the Kugel-Khomskii compounds.\n\n[Phys. Rev. Materials 8, 024404] Published Wed Feb 07, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024404",
+          "publishedOn": "2024-02-07T10:00:00.000Z",
+          "wordCount": 1111,
+          "title": "Orbital degree of freedom in high entropy oxides",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.024404.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.067101",
+          "author": "Yoshihiko Nishikawa and Ludovic Berthier",
+          "description": "Author(s): Yoshihiko Nishikawa and Ludovic Berthier\nA recently developed lattice model produces an unexpected prediction combination for the rearrangements of particles inside a supercooled liquid turning into a glass.\n\n[Phys. Rev. Lett. 132, 067101] Published Wed Feb 07, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.067101",
+          "publishedOn": "2024-02-07T10:00:00.000Z",
+          "wordCount": 939,
+          "title": "Collective Relaxation Dynamics in a Three-Dimensional Lattice Glass Model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.067101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.085302",
+          "author": "Benjamin Joecker, Holly G. Stemp, Irene Fernández de Fuentes, Mark A. I. Johnson, and Andrea Morello",
+          "description": "Author(s): Benjamin Joecker, Holly G. Stemp, Irene Fernández de Fuentes, Mark A. I. Johnson, and Andrea Morello\nQuantum nondemolition measurements (QNDMs) are a precious resource for quantum computing. They are an integral part of the surface code, the holy grail of quantum error correction, and can boost initialization and readout fidelities through repeated measurements. In spin systems, scalable QNDMS are achievable by coupling to ancillary spins read via charge reservoirs. Here, the authors develop a model to quantify how small deviations from true QNDMs in real spin system can introduce bit-flip errors and analyze how they can be minimized.\n\n[Phys. Rev. B 109, 085302] Published Wed Feb 07, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.085302",
+          "publishedOn": "2024-02-07T10:00:00.000Z",
+          "wordCount": 2206,
+          "title": "Error channels in quantum nondemolition measurements on spin systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.085302.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L081402",
           "author": "Fredrik Brange, Riya Baruah, and Christian Flindt",
           "description": "Author(s): Fredrik Brange, Riya Baruah, and Christian Flindt\nBy adiabatically changing the energy levels of two quantum dots, theoreticians predict that it should be possible to control the splitting of Cooper pairs from a superconductor. Such an adiabatic Cooper pair splitter could serve as an on-demand source of entangled electrons in future solid-state quantum technologies.\n\n[Phys. Rev. B 109, L081402] Published Tue Feb 06, 2024",
@@ -781,7 +821,7 @@
           "description": "Author(s): Mushita M. Munia, Serajum Monir, Edyta N. Osika, Michelle Y. Simmons, and Rajib Rahman\nSpin coupling of non-nearest-neighbor qubits is of interest to enhance connectivity in quantum computing architectures. Solving and predicting many-body problems exactly is computationally challenging, though, so the approach has remained largely unexplored. This study uses a full configuration-interaction technique combined with atomistic tight-binding calculations to investigate a non-nearest-neighbor exchange-coupling mechanism analogous to superexchange in magnetic materials. This coupling turn out to be less susceptible to charge noise than nearest-neighbor coupling, and so has the potential to reduce local qubit crosstalk and gate densities in silicon-based quantum architectures.\n\n[Phys. Rev. Applied 21, 014038] Published Mon Jan 22, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.014038",
           "publishedOn": "2024-01-22T10:00:00.000Z",
-          "wordCount": 1974,
+          "wordCount": 1975,
           "title": "Superexchange coupling of donor qubits in silicon",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.014038.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1464,
           "title": "Voltage-time dilemma and stochastic threshold-voltage variation in pure-silver atomic switches",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.014027.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.013401",
-          "author": "N. Vallis, P. Craievich, M. Schär, R. Zennaro, B. Auchmann, H. H. Braun, M. I. Besana, M. Duda, R. Fortunati, H. Garcia-Rodrigues, D. Hauenstein, R. Ischebeck, E. Ismaili, P. Juranić, J. Kosse, A. Magazinik, F. Marcellini, T. Michlmayr, S. Müller, M. Pedrozzi, R. Rotundo, G. L. Orlandi, M. Seidel, N. Strohmaier, and M. Zykova",
-          "description": "Author(s): N. Vallis, P. Craievich, M. Schär, R. Zennaro, B. Auchmann, H. H. Braun, M. I. Besana, M. Duda, R. Fortunati, H. Garcia-Rodrigues, D. Hauenstein, R. Ischebeck, E. Ismaili, P. Juranić, J. Kosse, A. Magazinik, F. Marcellini, T. Michlmayr, S. Müller, M. Pedrozzi, R. Rotundo, G. L. Orlandi, M. Seidel, N. Strohmaier, and M. Zykova\nA positron source demonstrator with the potential to increase the yield by an order of magnitude.\n\n[Phys. Rev. Accel. Beams 27, 013401] Published Wed Jan 17, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.013401",
-          "publishedOn": "2024-01-17T10:00:00.000Z",
-          "wordCount": 1721,
-          "title": "Proof-of-principle ${e}^{+}$ source for future colliders",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.27.013401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.037101",
-          "author": "Timur Aslyamov and Massimiliano Esposito",
-          "description": "Author(s): Timur Aslyamov and Massimiliano Esposito\nA novel linear-algebra method opens the way to efficiently study a broad class of responses for nonequilibrium systems.\n\n[Phys. Rev. Lett. 132, 037101] Published Tue Jan 16, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.037101",
-          "publishedOn": "2024-01-16T10:00:00.000Z",
-          "wordCount": 817,
-          "title": "Nonequilibrium Response for Markov Jump Processes: Exact Results and Tight Bounds",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.037101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.014119",
-          "author": "José Polo-Gómez",
-          "description": "Author(s): José Polo-Gómez\nThe limitations that thermodynamics imposes on quantum information theory are investigated in this paper, which examines an ideal gas with an internal quantum degree of freedom undergoing a cycle. By considering a demon capable of distinguishing two quantum states, the author shows that the ability to distinguish quantum states is bounded by the second law of thermodynamics.\n\n[Phys. Rev. E 109, 014119] Published Tue Jan 16, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.014119",
-          "publishedOn": "2024-01-16T10:00:00.000Z",
-          "wordCount": 981,
-          "title": "Thermodynamic bound on quantum state discrimination",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.014119.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.014609",
-          "author": "Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam",
-          "description": "Author(s): Artem Skrypnik, Katie Cole, Tobias Lappan, Pablo R. Brito-Parada, Stephen J. Neethling, Pavel Trtik, Kerstin Eckert, and Sascha Heitkam\nUsually, gravity causes liquid to drain out of a foam vertically, but simulations have predicted that if the foam is sheared, the drainage will be anisotropic. This paper describes an experimental verification of that prediction by neutron radiography, which shows that the vertical drainage flow is indeed deflected horizontally.\n\n[Phys. Rev. E 109, 014609] Published Tue Jan 16, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.014609",
-          "publishedOn": "2024-01-16T10:00:00.000Z",
-          "wordCount": 1107,
-          "title": "Neutron radiography of an anisotropic drainage flow",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.014609.png"
         }
       ]
     }
