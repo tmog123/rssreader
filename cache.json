@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.083402",
+          "author": "L. T. Glöggler <em>et al.</em> (AEḡIS Collaboration)",
+          "description": "Author(s): L. T. Glöggler et al. (AEḡIS Collaboration)\nResearchers have managed to cool an atom-like system made of an electron and a positron using a technique commonly used in cold-atom experiments.\n\n[Phys. Rev. Lett. 132, 083402] Published Thu Feb 22, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.083402",
+          "publishedOn": "2024-02-22T10:00:00.000Z",
+          "wordCount": 1172,
+          "title": "Positronium Laser Cooling via the ${1}^{3}S\\text{−}{2}^{3}P$ Transition with a Broadband Laser Pulse",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.083402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.087101",
+          "author": "Kazuya Fujimoto and Tomohiro Sasamoto",
+          "description": "Author(s): Kazuya Fujimoto and Tomohiro Sasamoto\nThe dynamic higher-order fluctuations around the correlation front in one-dimensional noninteracting fermions can exhibit the universal behavior of the random matrix theory’s Gaussian orthogonal and symplectic ensembles.\n\n[Phys. Rev. Lett. 132, 087101] Published Thu Feb 22, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.087101",
+          "publishedOn": "2024-02-22T10:00:00.000Z",
+          "wordCount": 832,
+          "title": "Random Matrix Statistics in Propagating Correlation Fronts of Fermions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.087101.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024408",
           "author": "Chao Zhou, Jia Xu, and Yizheng Wu",
           "description": "Author(s): Chao Zhou, Jia Xu, and Yizheng Wu\nA material with strong in-plane magnetic anisotropy is crucial for determining the magnetization configuration of magnetic materials and their applications in high-density and high-frequency devices. Here, the authors successfully reported a giant interfacial uniaxial in-plane anisotropy in Co/Pt(110) bilayers, which is five times larger than that in Co/Pt(111), the most popular magnetic thin film with perpendicular magnetic anisotropy. Furthermore, such large interfacial magnetic anisotropy can be enhanced by forming a Pt/Co/Pt sandwich structure. These results enabled the integration of in-plane magnetic anisotropy systems into spintronic devices with increased speed and density.\n\n[Phys. Rev. Materials 8, 024408] Published Wed Feb 21, 2024",
@@ -984,26 +1004,6 @@
           "wordCount": 1134,
           "title": "Self-induced inverse spin Hall effect in ${\\mathrm{La}}_{0.67}{\\mathrm{Sr}}_{0.33}{\\mathrm{MnO}}_{3}$ films",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.014437.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.014055",
-          "author": "Marwa Garsi, Rainer Stöhr, Andrej Denisenko, Farida Shagieva, Nils Trautmann, Ulrich Vogl, Badou Sene, Florian Kaiser, Andrea Zappe, Rolf Reuter, and Jörg Wrachtrup",
-          "description": "Author(s): Marwa Garsi, Rainer Stöhr, Andrej Denisenko, Farida Shagieva, Nils Trautmann, Ulrich Vogl, Badou Sene, Florian Kaiser, Andrea Zappe, Rolf Reuter, and Jörg Wrachtrup\nThree-dimensional semiconductor chip architectures promise high-density memory and much faster computation, but self-heating and leakage currents still severely limit performance. While current-density mapping is crucial to studying these issues in situ, nondestructive imaging has been limited to two dimensions. The authors use ensembles of nitrogen-vacancy centers in diamond as nanoscale quantum sensors to probe all three vectorial components of magnetic fields associated with electric currents, for noninvasive imaging of three-dimensional currents in multilayer integrated circuits. Further improvements could reveal the local conductance of materials, to advance condensed matter physics.\n\n[Phys. Rev. Applied 21, 014055] Published Mon Jan 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.014055",
-          "publishedOn": "2024-01-29T10:00:00.000Z",
-          "wordCount": 1744,
-          "title": "Three-dimensional imaging of integrated-circuit activity using quantum defects in diamond",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.014055.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.014056",
-          "author": "Brian P. Williams, Bing Qi, Muneer Alshowkan, Philip G. Evans, and Nicholas A. Peters",
-          "description": "Author(s): Brian P. Williams, Bing Qi, Muneer Alshowkan, Philip G. Evans, and Nicholas A. Peters\nIn quantum secure communication, continuous-variable quantum key distribution (CV-QKD) using a true local oscillator (LO) located at the receiver has been proposed to remove side-channel-attack vulnerabilities and reduce excess noise, but implementations have been confined to the lab. The authors demonstrate CV-QKD with a receiver-based true LO over a deployed fiber network, with coexistent classical communications. This represents a substantial technical and engineering advance over prior tabletop demonstrations.\n\n[Phys. Rev. Applied 21, 014056] Published Mon Jan 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.014056",
-          "publishedOn": "2024-01-29T10:00:00.000Z",
-          "wordCount": 1360,
-          "title": "Field test of continuous-variable quantum key distribution with a true local oscillator",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.014056.png"
         }
       ]
     }
