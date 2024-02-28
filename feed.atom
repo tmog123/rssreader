@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T00:43:15.452Z</id>
+    <id>urn:2024-02-28T00:43:16.459Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T00:43:15.452Z</updated>
+    <updated>2024-02-28T00:43:16.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Measurement-Free Fault-Tolerant Quantum Error Correction in Near-Term Devices]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.010333</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.5.010333"/>
+        <updated>2024-02-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sascha Heußen, David F. Locher, and Markus Müller
+A fault-tolerant quantum error-correction scheme is presented that does not require measuring individual qubits and could thus revolutionize platforms that do not support midcircuit measurements.
+
+[PRX Quantum 5, 010333] Published Tue Feb 27, 2024]]></summary>
+        <author>
+            <name>Sascha Heußen, David F. Locher, and Markus Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-scale characterization of ${\mathrm{Cu}}_{2}\mathrm{O}$ monocrystals via Rydberg excitons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.026202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.026202"/>
+        <updated>2024-02-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kerwan Morin, Delphine Lagarde, Angélique Gillet, Xavier Marie, and Thomas Boulier
+This research introduces a novel experimental technique to characterize Rydberg excitons in copper oxide (Cu2O) crystals with sub-micron resolution. By employing spatially resolved resonant absorption spectroscopy and photoluminescence imaging, the study unveils the influence of optically-active charged oxygen vacancies on Rydberg excitons. This approach yields comprehensive spatial maps of exciton properties, including energy, linewidth, and peak absorption without any mobile part, providing valuable insights into crystal quality. The findings highlight the predominant role of charged oxygen vacancies in influencing Rydberg excitons in Cu2O and offer a reliable method for assessing crystal quality in view of solid-state Rydberg physics.
+
+[Phys. Rev. Materials 8, 026202] Published Tue Feb 27, 2024]]></summary>
+        <author>
+            <name>Kerwan Morin, Delphine Lagarde, Angélique Gillet, Xavier Marie, and Thomas Boulier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viscoplastic rimming flow inside a rotating cylinder]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.023304</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.023304"/>
+        <updated>2024-02-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thomasina V. Ball and Neil J. Balmforth
+When a small fraction of viscoplastic fluid is placed into a rotating cylinder, steady states can be reached with pool at the bottom of the cylinder and a residual coating elsewhere. Lubrication theory used to model the film thickness builds on previous models by bridging between two asymptotic limits, incorporating both the gravitational force along the cylinder and the hydrostatic pressure gradients. The model predicts steady states are reached after a small number of rotations and allows exploration of drainage when the cylinder comes to a halt. Experiments using a Carbopol suspension provide a suitable comparison to test the thin film theory.
+
+[Phys. Rev. Fluids 9, 023304] Published Tue Feb 27, 2024]]></summary>
+        <author>
+            <name>Thomasina V. Ball and Neil J. Balmforth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectral and Krylov complexity in billiard systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.046017</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.046017"/>
+        <updated>2024-02-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hugo A. Camargo, Viktor Jahnke, Hyun-Sik Jeong, Keun-Young Kim, and Mitsuhiro Nishida
+The authors study spectral and Krylov complexity in quantum billiard systems at finite temperature. They show that spectral complexity may be used to probe the transition between the chaotic and integrable configurations for the billiard systems. For Krylov complexity, they study the associated Lanczos coefficients showing that their growth rate satisfies the conjectured generalized chaos bound, and that they produce an exponential growth of the Krylov complexity at early times.
+
+[Phys. Rev. D 109, 046017] Published Tue Feb 27, 2024]]></summary>
+        <author>
+            <name>Hugo A. Camargo, Viktor Jahnke, Hyun-Sik Jeong, Keun-Young Kim, and Mitsuhiro Nishida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Producing circular field harmonics inside elliptic magnet apertures with superconducting canted-cosine-theta coils]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.022402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.022402"/>
+        <updated>2024-02-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): L. Brouwer
+An analytic solution to the electromagnetic design of elliptic-bore superconducting accelerator magnets, and its application to canted-cosine-theta magnets.
+
+[Phys. Rev. Accel. Beams 27, 022402] Published Tue Feb 27, 2024]]></summary>
+        <author>
+            <name>L. Brouwer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nonreciprocal Frustration: Time Crystalline Order-by-Disorder Phenomenon and a Spin-Glass-like State]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011029</id>
@@ -1238,71 +1303,6 @@ The free energy of metals in a magnetic field exhibits oscillations, influencing
 [Phys. Rev. B 109, 075107] Published Mon Feb 05, 2024]]></summary>
         <author>
             <name>P. A. Nosov, Yi-Ming Wu, and S. Raghu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Landau quantization near generalized Van Hove singularities: Magnetic breakdown and orbit networks]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L081103</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L081103"/>
-        <updated>2024-02-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): V. A. Zakharov, A. Mert Bozkurt, A. R. Akhmerov, and D. O. Oriekhov
-Several of the recently discovered 2D layered quantum materials host higher-order Van Hove singularities near the charge neutrality point. The authors develop here a universal description for magnetic breakdown near different types of higher-order Van Hove singularities. The observation of such a magnetic breakdown via measurement of quantum oscillations or longitudinal bulk conductance in a quantum Hall bar allows for reconstruction of a Fermi surface and classification of the corresponding saddle point in dispersion.
-
-[Phys. Rev. B 109, L081103] Published Mon Feb 05, 2024]]></summary>
-        <author>
-            <name>V. A. Zakharov, A. Mert Bozkurt, A. R. Akhmerov, and D. O. Oriekhov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Information content of note transitions in the music of J. S. Bach]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013136</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.013136"/>
-        <updated>2024-02-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Suman Kulkarni, Sophia U. David, Christopher W. Lynn, and Dani S. Bassett
-A study combines methods from network science, information theory, and cognitive science to examine the information present in note transitions within music composed by J. S. Bach. It identifies and explains differences in information content across various compositional forms based on their network structure.
-
-[Phys. Rev. Research 6, 013136] Published Fri Feb 02, 2024]]></summary>
-        <author>
-            <name>Suman Kulkarni, Sophia U. David, Christopher W. Lynn, and Dani S. Bassett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Soft Rod Wraps around a Rotating Cylinder]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.058204</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.058204"/>
-        <updated>2024-02-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Marie Tani and Hirofumi Wada
-As a string winds around a cylinder, a switch occurs from tight winding to looser winding, a behavior that could be relevant for natural phenomena.
-
-[Phys. Rev. Lett. 132, 058204] Published Fri Feb 02, 2024]]></summary>
-        <author>
-            <name>Marie Tani and Hirofumi Wada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terahertz field driven giant nonlinear phonon response in ferroelectric semiconductor In-doped (Sn,Pb)Te]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L081102</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L081102"/>
-        <updated>2024-02-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): H. Handa, Y. Okamura, R. Yoshimi, A. Tsukazaki, K. S. Takahashi, Y. Tokura, and Y. Takahashi
-Recent advances in high-field terahertz technologies can unveil the nonlinear response of elementary excitations. This work finds large-amplitude coherent phonon dynamics in the fully anharmonic regime by intense terahertz excitation of the ferroelectric semiconductor In-doped (Sn,Pb)Te. The high-field resonant drive of soft phonons induces the dramatic shift of transient phonon frequency near the ferroelectric transition point. This highly nonlinear terahertz response quantitatively reveals a phonon potential dominated by strong anharmonicity and temporal lattice dynamics with giant atomic displacement.
-
-[Phys. Rev. B 109, L081102] Published Fri Feb 02, 2024]]></summary>
-        <author>
-            <name>H. Handa, Y. Okamura, R. Yoshimi, A. Tsukazaki, K. S. Takahashi, Y. Tokura, and Y. Takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergent Collective Motion of Self-Propelled Condensate Droplets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.058203</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.058203"/>
-        <updated>2024-02-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Marcus Lin, Philseok Kim, Sankara Arunachalam, Rifan Hardian, Solomon Adera, Joanna Aizenberg, Xi Yao, and Dan Daniel
-Water droplets can exhibit complex collective motions when they condense on a thin oil film.
-
-[Phys. Rev. Lett. 132, 058203] Published Thu Feb 01, 2024]]></summary>
-        <author>
-            <name>Marcus Lin, Philseok Kim, Sankara Arunachalam, Rifan Hardian, Solomon Adera, Joanna Aizenberg, Xi Yao, and Dan Daniel</name>
         </author>
     </entry>
 </feed>
