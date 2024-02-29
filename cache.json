@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.011031",
+          "author": "S. W. Hancock, S. Zahedpour, A. Goffin, and H. M. Milchberg",
+          "description": "Author(s): S. W. Hancock, S. Zahedpour, A. Goffin, and H. M. Milchberg\nResearchers have determined the amount of transverse orbital angular momentum that a type of optical vortex carries per photon, an important step for future applications.\n\n[Phys. Rev. X 14, 011031] Published Wed Feb 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.011031",
+          "publishedOn": "2024-02-28T10:00:00.000Z",
+          "wordCount": 2255,
+          "title": "Spatiotemporal Torquing of Light",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.011031.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.026204",
+          "author": "Jonathan C. Marcks, Mykyta Onizhuk, Nazar Delegan, Yu-Xin Wang (王语馨), Masaya Fukami, Maya Watts, Aashish A. Clerk, F. Joseph Heremans, Giulia Galli, and David D. Awschalom",
+          "description": "Author(s): Jonathan C. Marcks, Mykyta Onizhuk, Nazar Delegan, Yu-Xin Wang (王语馨), Masaya Fukami, Maya Watts, Aashish A. Clerk, F. Joseph Heremans, Giulia Galli, and David D. Awschalom\nSpin defects in semiconductors play a major role in quantum technologies. Synthesizing high-quality spin qubits relies on controlling the incorporation of noise sources, such as other, unwanted spin defects, into the host crystal. In this work, the authors provide quantitative calculations of the coherence properties of spin qubits in diamond. They incorporate these results into an existing materials synthesis platform to develop predictive models and in situ feedback for more reliable creation of qubits tailored to applications.\n\n[Phys. Rev. Materials 8, 026204] Published Wed Feb 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.026204",
+          "publishedOn": "2024-02-28T10:00:00.000Z",
+          "wordCount": 1504,
+          "title": "Guiding diamond spin qubit growth with computational methods",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.026204.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.094001",
+          "author": "M. Noseda and P. J. Cobelli",
+          "description": "Author(s): M. Noseda and P. J. Cobelli\nExperiments on gravity-capillary waves and analysis techniques drawn from stochastic partial differential equation theory establish a connection between zero-height isolines and the critical 2D Ising model’s domain walls, revealing a novel link between water-wave turbulence and critical systems.\n\n[Phys. Rev. Lett. 132, 094001] Published Wed Feb 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.094001",
+          "publishedOn": "2024-02-28T10:00:00.000Z",
+          "wordCount": 859,
+          "title": "Conformal Invariance in Water-Wave Turbulence",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.094001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.096401",
+          "author": "He Li, Zechen Tang, Jingheng Fu, Wen-Han Dong, Nianlong Zou, Xiaoxun Gong, Wenhui Duan, and Yong Xu",
+          "description": "Author(s): He Li, Zechen Tang, Jingheng Fu, Wen-Han Dong, Nianlong Zou, Xiaoxun Gong, Wenhui Duan, and Yong Xu\nA framework leveraging deep learning and automatic differentiation circumvents the computational bottleneck associated with density functional perturbation theory calculations.\n\n[Phys. Rev. Lett. 132, 096401] Published Wed Feb 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.096401",
+          "publishedOn": "2024-02-28T10:00:00.000Z",
+          "wordCount": 1029,
+          "title": "Deep-Learning Density Functional Perturbation Theory",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.096401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.022439",
+          "author": "Shanon Vuglar and Julio Gea-Banacloche",
+          "description": "Author(s): Shanon Vuglar and Julio Gea-Banacloche\nThe authors introduce a protocol to generate the electromagnetic field state that is optimal for controlling a given qubit rotation. The protocol, based on the interaction of the field with ancilla qubits, allows for field “recycling” and could potentially reduce error rates and improve energy efficiency in quantum computing schemes.\n\n[Phys. Rev. A 109, 022439] Published Wed Feb 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.022439",
+          "publishedOn": "2024-02-28T10:00:00.000Z",
+          "wordCount": 1206,
+          "title": "Recycling of a quantum field and optimal states for single-qubit rotations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.022439.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.010333",
           "author": "Sascha Heußen, David F. Locher, and Markus Müller",
           "description": "Author(s): Sascha Heußen, David F. Locher, and Markus Müller\nA fault-tolerant quantum error-correction scheme is presented that does not require measuring individual qubits and could thus revolutionize platforms that do not support midcircuit measurements.\n\n[PRX Quantum 5, 010333] Published Tue Feb 27, 2024",
@@ -131,7 +181,7 @@
           "description": "Author(s): B. Monteagudo et al.\nIdentification of both the ground and first excited states of 16Be allows for a precise determination of its mass.\n\n[Phys. Rev. Lett. 132, 082501] Published Fri Feb 23, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.082501",
           "publishedOn": "2024-02-23T10:00:00.000Z",
-          "wordCount": 874,
+          "wordCount": 875,
           "title": "Mass, Spectroscopy, and Two-Neutron Decay of $^{16}\\mathrm{Be}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.082501.png"
         },
@@ -781,7 +831,7 @@
           "description": "Author(s): Qiyun Ma, Zhenhang Pu, Liping Ye, Jiuyang Lu, Xueqin Huang, Manzhu Ke, Hailong He, Weiyin Deng, and Zhengyou Liu\nThe sound waves in a fabricated material exhibit topological features in one, two, and three dimensions—demonstrating an acoustic version of a higher-order nodal-line semimetal.\n\n[Phys. Rev. Lett. 132, 066601] Published Thu Feb 08, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.066601",
           "publishedOn": "2024-02-08T10:00:00.000Z",
-          "wordCount": 1306,
+          "wordCount": 1305,
           "title": "Observation of Higher-Order Nodal-Line Semimetal in Phononic Crystals",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.066601.png"
         },
@@ -954,56 +1004,6 @@
           "wordCount": 1346,
           "title": "Observations and properties of the first laboratory fusion experiment to exceed a target gain of unity",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.025203.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.025204",
-          "author": "A. L. Kritcher <em>et al.</em>",
-          "description": "Author(s): A. L. Kritcher et al.\nIn 2022, a National Ignition Facility controlled-fusion experiment reached a target gain G>1, with the fusion energy produced exceeding the amount of laser energy required to drive the target. This result was obtained thanks to careful design described in this paper. This design has been shown to be robust and allows a better understanding of the physical conditions necessary to reach ignition.\n\n[Phys. Rev. E 109, 025204] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.025204",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 2357,
-          "title": "Design of the first fusion experiment to achieve target energy gain $G&gt;1$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.025204.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.034503",
-          "author": "Constantia Alexandrou, Simone Bacchio, Martha Constantinou, Jacob Finkenrath, Roberto Frezzotti, Bartosz Kostrzewa, Giannis Koutsou, Gregoris Spanoudes, and Carsten Urbach (Extended Twisted Mass Collaboration)",
-          "description": "Author(s): Constantia Alexandrou, Simone Bacchio, Martha Constantinou, Jacob Finkenrath, Roberto Frezzotti, Bartosz Kostrzewa, Giannis Koutsou, Gregoris Spanoudes, and Carsten Urbach (Extended Twisted Mass Collaboration)\nThe authors compute the axial and pseudoscalar nucleon form factors for 2+1+1 flavors, light, strange, and charm, with physical quark masses in lattice QCD with a controlled continuum extrapolation. The results are compared with other lattice determinations, finding good agreement, and with experimental extractions, showing some tensions.\n\n[Phys. Rev. D 109, 034503] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.034503",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 3330,
-          "title": "Nucleon axial and pseudoscalar form factors using twisted-mass fermion ensembles at the physical point",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.034503.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.044012",
-          "author": "Federico Schianchi, Henrique Gieg, Vsevolod Nedora, Anna Neuweiler, Maximiliano Ujevic, Mattia Bulla, and Tim Dietrich",
-          "description": "Author(s): Federico Schianchi, Henrique Gieg, Vsevolod Nedora, Anna Neuweiler, Maximiliano Ujevic, Mattia Bulla, and Tim Dietrich\nA crucial ingredient in accurate simulations of neutron star-neutron star and neutron star-black hole mergers is the inclusion of neutrino transport and its effects on the physics and astrophysics of these phenomena. The authors implement a neutrino radiative transport scheme in their general relativistic hydrodynamics code, BAM, do more accurately simulate these mergers and map the effects of neutrino transport on the ejecta from neutron star-neutron star mergers.\n\n[Phys. Rev. D 109, 044012] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.044012",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 2064,
-          "title": "$M1$ neutrino transport within the numerical-relativistic code BAM with application to low mass binary neutron star mergers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.044012.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.064404",
-          "author": "K. R. Fast, J. E. Losby, G. Hajisalem, P. E. Barclay, and M. R. Freeman",
-          "description": "Author(s): K. R. Fast, J. E. Losby, G. Hajisalem, P. E. Barclay, and M. R. Freeman\nThe Einstein-de Haas (EdH) effect is a consequence of angular momentum conservation wherein a physical rotation of a magnetic body results from a change in magnetization. A micromechanical resonator supporting a ladder of resonances is used to explore the inherent frequency dependence of torque resulting from this rotation in a thin-film permalloy sample, utilizing cavity optomechanical readout. Giant EdH torques are found at a gyrotropic magnetic resonance in the permalloy, which overlaps a high-order mechanical resonance of the sensor.\n\n[Phys. Rev. B 109, 064404] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.064404",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 1858,
-          "title": "Einstein–de Haas torque as a discrete spectroscopic probe allows nanomechanical measurement of a magnetic resonance",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.064404.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.075107",
-          "author": "P. A. Nosov, Yi-Ming Wu, and S. Raghu",
-          "description": "Author(s): P. A. Nosov, Yi-Ming Wu, and S. Raghu\nThe free energy of metals in a magnetic field exhibits oscillations, influencing thermodynamics and transport. Typically, these oscillations are interpreted using the Lifshitz-Kosevich theory, which assumes nearly free electrons. Here, the authors study quantum oscillations in three-dimensional metals near quantum phase transitions, where electrons are strongly-coupled. Naive extensions of the Lifshitz-Kosevich formula to this state result in a finite zero-temperature entropy, contradicting the laws of thermodynamics. They authors propose a new thermodynamically consistent theory of magneto-oscillations, yielding a distinct temperature dependence of the oscillation amplitudes.\n\n[Phys. Rev. B 109, 075107] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.075107",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 1175,
-          "title": "Entropy and de Haas–van Alphen oscillations of a three-dimensional marginal Fermi liquid",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.075107.png"
         }
       ]
     }
