@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.010111",
+          "author": "Liam G. McDermott, Nazeer A. Mosley, and Geraldine L. Cochran",
+          "description": "Author(s): Liam G. McDermott, Nazeer A. Mosley, and Geraldine L. Cochran\nNeurodivergent students experience unnecessary barriers to success in physics from assessment that is not constructed for how neurodivergent physicists perform physics-related tasks.\n\n[Phys. Rev. Phys. Educ. Res. 20, 010111] Published Thu Feb 29, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.010111",
+          "publishedOn": "2024-02-29T10:00:00.000Z",
+          "wordCount": 1269,
+          "title": "Diverging nonlocal fields: Operationalizing critical disability physics identity with neurodivergent physicists outside academia",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRPER/key_images/10.1103/PhysRevPhysEducRes.20.010111.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L020402",
+          "author": "Sebastian Sailler, Darius Pohl, Heike Schlörb, Bernd Rellinghaus, Andy Thomas, Sebastian T. B. Goennenwein, and Michaela Lammel",
+          "description": "Author(s): Sebastian Sailler, Darius Pohl, Heike Schlörb, Bernd Rellinghaus, Andy Thomas, Sebastian T. B. Goennenwein, and Michaela Lammel\nYttrium iron garnet (YIG) is a prototypical material in the fields of spintronics and magnonics due to its exceptional magnetic properties. However, up to now, the focus has been on planar YIG thin films owing to the challenges associated with manufacturing non-planar structures. Here, the authors demonstrate the fabrication of single crystalline YIG via lateral solid phase epitaxy on top of an artificially defined SiOx mesa over micrometer length scales. The reported results lay the foundation for the development of non-planar, epitaxial YIG thin films as well as free standing YIG structures, while still maintaining complete control over the crystal orientation.\n\n[Phys. Rev. Materials 8, L020402] Published Thu Feb 29, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L020402",
+          "publishedOn": "2024-02-29T10:00:00.000Z",
+          "wordCount": 1322,
+          "title": "Lateral solid phase epitaxy of yttrium iron garnet",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.L020402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.098101",
+          "author": "Alexandr A. Marchenko, Oleksiy L. Kapitanchuk, Yaroslava Yu. Lopatina, Kostiantyn G. Nazarenko, Anton I. Senenko, Nathalie Katsonis, Vassili G. Nazarenko, and Oleg D. Lavrentovich",
+          "description": "Author(s): Alexandr A. Marchenko, Oleksiy L. Kapitanchuk, Yaroslava Yu. Lopatina, Kostiantyn G. Nazarenko, Anton I. Senenko, Nathalie Katsonis, Vassili G. Nazarenko, and Oleg D. Lavrentovich\nUsing a scanning tunneling microscope polar molecular ordering in a monolayer of ferroelectric nematic liquid crystal has been directly observed for the first time.\n\n[Phys. Rev. Lett. 132, 098101] Published Thu Feb 29, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.098101",
+          "publishedOn": "2024-02-29T10:00:00.000Z",
+          "wordCount": 913,
+          "title": "Polar Self-Organization of Ferroelectric Nematic-Liquid-Crystal Molecules on Atomically Flat Au(111) Surface",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.098101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.024608",
+          "author": "Qinmin Zheng, Tianyi Li, Benteng Ma, Lin Fu, and Xiaomeng Li",
+          "description": "Author(s): Qinmin Zheng, Tianyi Li, Benteng Ma, Lin Fu, and Xiaomeng Li\nIn this work, we propose a novel framework for the high-fidelity reconstruction of large-area damaged turbulent fields with high resolution based on a physically constrained generative adversarial network. The network leverages complete/sparse fields of velocity components as physical constraints and adopts a PatchGAN discriminator network. The proposed reconstruction framework has been shown to achieve excellent reconstruction performance. The reconstructed flow fields are consistent with the raw flow fields in terms of magnitude, power spectrum, and two-point correlation function.\n\n[Phys. Rev. Fluids 9, 024608] Published Thu Feb 29, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.024608",
+          "publishedOn": "2024-02-29T10:00:00.000Z",
+          "wordCount": 1707,
+          "title": "High-fidelity reconstruction of large-area damaged turbulent fields with a physically constrained generative adversarial network",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.024608.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.011031",
           "author": "S. W. Hancock, S. Zahedpour, A. Goffin, and H. M. Milchberg",
           "description": "Author(s): S. W. Hancock, S. Zahedpour, A. Goffin, and H. M. Milchberg\nResearchers have determined the amount of transverse orbital angular momentum that a type of optical vortex carries per photon, an important step for future applications.\n\n[Phys. Rev. X 14, 011031] Published Wed Feb 28, 2024",
@@ -161,7 +201,7 @@
           "description": "Author(s): Giulia Polverini and Bor Gregorcic\nChatGPT does well at proposing productive strategies for solving problems on the test of understanding graphs in kinematics, but does poorly at getting correct answers due to limited ability to visually interpret graphs.\n\n[Phys. Rev. Phys. Educ. Res. 20, 010109] Published Fri Feb 23, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.010109",
           "publishedOn": "2024-02-23T10:00:00.000Z",
-          "wordCount": 1157,
+          "wordCount": 1156,
           "title": "Performance of ChatGPT on the test of understanding graphs in kinematics",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRPER/key_images/10.1103/PhysRevPhysEducRes.20.010109.png"
         },
@@ -181,7 +221,7 @@
           "description": "Author(s): B. Monteagudo et al.\nIdentification of both the ground and first excited states of 16Be allows for a precise determination of its mass.\n\n[Phys. Rev. Lett. 132, 082501] Published Fri Feb 23, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.082501",
           "publishedOn": "2024-02-23T10:00:00.000Z",
-          "wordCount": 875,
+          "wordCount": 874,
           "title": "Mass, Spectroscopy, and Two-Neutron Decay of $^{16}\\mathrm{Be}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.082501.png"
         },
@@ -431,7 +471,7 @@
           "description": "Author(s): Y. Z. Wang, T. Y. Zhang, J. Dong, P. Chen, G. Q. Yu, C. H. Wan, and X. F. Han\nResearchers have demonstrated that magnetic spin waves called magnons can be controlled by voltage and thus could operate more efficiently as information carriers in future devices.\n\n[Phys. Rev. Lett. 132, 076701] Published Fri Feb 16, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.076701",
           "publishedOn": "2024-02-16T10:00:00.000Z",
-          "wordCount": 1354,
+          "wordCount": 1353,
           "title": "Voltage-Controlled Magnon Transistor via Tuning Interfacial Exchange Coupling",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.076701.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1900,
           "title": "Microwave Photon-Number Amplification",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.011011.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.065102",
-          "author": "H. Abu-Shawareb <em>et al.</em> (The Indirect Drive ICF Collaboration)",
-          "description": "Author(s): H. Abu-Shawareb et al. (The Indirect Drive ICF Collaboration)\nScientists have now vetted details of the 2022 laser-powered fusion reaction that produced more energy than it consumed.\n\n[Phys. Rev. Lett. 132, 065102] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.065102",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 1224,
-          "title": "Achievement of Target Gain Larger than Unity in an Inertial Fusion Experiment",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.065102.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.065103",
-          "author": "O. A. Hurricane, D. A. Callahan, D. T. Casey, A. R. Christopherson, A. L. Kritcher, O. L. Landen, S. A. Maclaren, R. Nora, P. K. Patel, J. Ralph, D. Schlossberg, P. T. Springer, C. V. Young, and A. B. Zylstra",
-          "description": "Author(s): O. A. Hurricane, D. A. Callahan, D. T. Casey, A. R. Christopherson, A. L. Kritcher, O. L. Landen, S. A. Maclaren, R. Nora, P. K. Patel, J. Ralph, D. Schlossberg, P. T. Springer, C. V. Young, and A. B. Zylstra\nScientists have now vetted details of the 2022 laser-powered fusion reaction that produced more energy than it consumed.\n\n[Phys. Rev. Lett. 132, 065103] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.065103",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 1558,
-          "title": "Energy Principles of Scientific Breakeven in an Inertial Fusion Experiment",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.065103.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.065104",
-          "author": "M. S. Rubery, M. D. Rosen, N. Aybar, O. L. Landen, L. Divol, C. V. Young, C. Weber, J. Hammer, J. D. Moody, A. S. Moore, A. L. Kritcher, A. B. Zylstra, O. Hurricane, A. E. Pak, S. MacLaren, G. Zimmerman, J. Harte, and T. Woods",
-          "description": "Author(s): M. S. Rubery, M. D. Rosen, N. Aybar, O. L. Landen, L. Divol, C. V. Young, C. Weber, J. Hammer, J. D. Moody, A. S. Moore, A. L. Kritcher, A. B. Zylstra, O. Hurricane, A. E. Pak, S. MacLaren, G. Zimmerman, J. Harte, and T. Woods\nScientists have now vetted details of the 2022 laser-powered fusion reaction that produced more energy than it consumed.\n\n[Phys. Rev. Lett. 132, 065104] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.065104",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 1273,
-          "title": "Hohlraum Reheating from Burning NIF Implosions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.065104.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.025203",
-          "author": "A. Pak <em>et al.</em>",
-          "description": "Author(s): A. Pak et al.\nThe target gain greater than unity achieved in a recent fusion experiment was made possible by using additional laser energy at fixed power and controlling sources of degradation. This resulted in increased compression of the fuel and a high fusion yield corresponding to a novel physical regime. This paper describes the experimental evidence for these critical aspects and new observables.\n\n[Phys. Rev. E 109, 025203] Published Mon Feb 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.025203",
-          "publishedOn": "2024-02-05T10:00:00.000Z",
-          "wordCount": 1346,
-          "title": "Observations and properties of the first laboratory fusion experiment to exceed a target gain of unity",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.025203.png"
         }
       ]
     }
