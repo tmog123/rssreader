@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-04T00:44:54.546Z</id>
+    <id>urn:2024-03-05T00:43:56.313Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T00:44:54.546Z</updated>
+    <updated>2024-03-05T00:43:56.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shape effects in the fluctuations of random isochrones on a square lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.034104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.034104"/>
+        <updated>2024-03-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Iván Álvarez Domenech, Javier Rodríguez-Laguna, Rodolfo Cuerno, Pedro Córdoba-Torres, and Silvia N. Santalla
+In first-passage percolation one is interested in the region that can be reached from an origin within a given time. The authors show that on a square lattice with disorder, the boundary of this region behaves as a fluctuating interface in the Kardar-Parisi-Zhang universality class.
+
+[Phys. Rev. E 109, 034104] Published Mon Mar 04, 2024]]></summary>
+        <author>
+            <name>Iván Álvarez Domenech, Javier Rodríguez-Laguna, Rodolfo Cuerno, Pedro Córdoba-Torres, and Silvia N. Santalla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation of ferrotoroidic domains in a metal]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L100401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L100401"/>
+        <updated>2024-03-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Takeshi Hayashida, Ryusuke Misawa, Manfred Fiebig, and Tsuyoshi Kimura
+Ferrotoroidic order refers to a spontaneous vortex arrangement of magnetic dipoles, which has recently been established as the fourth primary ferroic state of matter. Thus far, ferrotoroidic order has been studied extensively in insulators, but much less investigated in metallic materials. Here, the authors demonstrate the visualization of ferrotoroidic domains in metallic NdB4 by spatial distribution measurements of optical second harmonic generation (SHG). This study will stimulate research on unique functionalities of ferrotoroidic order in metals, such as an electric current induced domain switching.
+
+[Phys. Rev. B 109, L100401] Published Mon Mar 04, 2024]]></summary>
+        <author>
+            <name>Takeshi Hayashida, Ryusuke Misawa, Manfred Fiebig, and Tsuyoshi Kimura</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opposite Effects of the Rotational and Translational Energy on the Rates of Ion-Molecule Reactions near 0 K: The ${\mathrm{D}}_{2}^{+}+{\mathrm{NH}}_{3}$ and ${\mathrm{D}}_{2}^{+}+{\mathrm{ND}}_{3}$ Reactions]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011034</id>
@@ -1277,32 +1303,6 @@ This work describes systematic strongly correlated electronic structure calculat
 [Phys. Rev. B 109, L081105] Published Thu Feb 08, 2024]]></summary>
         <author>
             <name>Yingying Cao and Yi-feng Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using non-Markovian dynamics in effective-negative-temperature-based transient quantum Otto engines]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.022207</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.022207"/>
-        <updated>2024-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Arghya Maity and Ahana Ghoshal
-Conventional quantum Otto engines based on effective-negative-temperature reservoirs rely on an assumption of perfect thermalization. In this study, the authors investigate the impact of non-Markovianity in these engines by terminating strokes before reaching thermal equilibrium, revealing that higher non-Markovianity enhances maximum efficiency but reduces overall performance over an extended period of functioning time. The authors also identify a class of effective-negative-temperature-based necessarily transient quantum Otto engines.
-
-[Phys. Rev. A 109, 022207] Published Thu Feb 08, 2024]]></summary>
-        <author>
-            <name>Arghya Maity and Ahana Ghoshal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Active Matter under Control: Insights from Response Theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011012</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.011012"/>
-        <updated>2024-02-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Luke K. Davis, Karel Proesmans, and Étienne Fodor
-A theoretical study finds that the most energy-efficient way to control an active-matter system is to drive it at finite speed—unlike passive-matter systems.
-
-[Phys. Rev. X 14, 011012] Published Wed Feb 07, 2024]]></summary>
-        <author>
-            <name>Luke K. Davis, Karel Proesmans, and Étienne Fodor</name>
         </author>
     </entry>
 </feed>

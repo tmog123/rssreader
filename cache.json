@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.034104",
+          "author": "Iván Álvarez Domenech, Javier Rodríguez-Laguna, Rodolfo Cuerno, Pedro Córdoba-Torres, and Silvia N. Santalla",
+          "description": "Author(s): Iván Álvarez Domenech, Javier Rodríguez-Laguna, Rodolfo Cuerno, Pedro Córdoba-Torres, and Silvia N. Santalla\nIn first-passage percolation one is interested in the region that can be reached from an origin within a given time. The authors show that on a square lattice with disorder, the boundary of this region behaves as a fluctuating interface in the Kardar-Parisi-Zhang universality class.\n\n[Phys. Rev. E 109, 034104] Published Mon Mar 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.034104",
+          "publishedOn": "2024-03-04T10:00:00.000Z",
+          "wordCount": 1114,
+          "title": "Shape effects in the fluctuations of random isochrones on a square lattice",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.034104.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L100401",
+          "author": "Takeshi Hayashida, Ryusuke Misawa, Manfred Fiebig, and Tsuyoshi Kimura",
+          "description": "Author(s): Takeshi Hayashida, Ryusuke Misawa, Manfred Fiebig, and Tsuyoshi Kimura\nFerrotoroidic order refers to a spontaneous vortex arrangement of magnetic dipoles, which has recently been established as the fourth primary ferroic state of matter. Thus far, ferrotoroidic order has been studied extensively in insulators, but much less investigated in metallic materials. Here, the authors demonstrate the visualization of ferrotoroidic domains in metallic NdB4 by spatial distribution measurements of optical second harmonic generation (SHG). This study will stimulate research on unique functionalities of ferrotoroidic order in metals, such as an electric current induced domain switching.\n\n[Phys. Rev. B 109, L100401] Published Mon Mar 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L100401",
+          "publishedOn": "2024-03-04T10:00:00.000Z",
+          "wordCount": 1143,
+          "title": "Observation of ferrotoroidic domains in a metal",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L100401.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.011034",
           "author": "Raphaël Hahn, David Schlander, Valentina Zhelyazkova, and Frédéric Merkt",
           "description": "Author(s): Raphaël Hahn, David Schlander, Valentina Zhelyazkova, and Frédéric Merkt\nExperiments demonstrate some of the unusual features of molecular reactions that occur in the deep cold of interstellar space.\n\n[Phys. Rev. X 14, 011034] Published Fri Mar 01, 2024",
@@ -511,7 +531,7 @@
           "description": "Author(s): Seamus D. O'Hara, Joseph B. Costello, Qile Wu, Ken West, Loren Pfeiffer, and Mark S. Sherwin\nInterferometers that manipulate and detect electromagnetic waves are indispensable to science. Quasiparticles in crystalline solids can be described as Bloch waves, but rapid dephasing of accelerating charged quasiparticles has so far prevented the development of interferometers sensitive to their inertial properties. Here, the authors show that polarizations of near-infrared sidebands emitted by GaAs in strong terahertz fields can be viewed as interferograms from a Michelson-like interferometer for Bloch waves. A simple analytical model connects these inteferograms to quasiparticle masses and dephasing.\n\n[Phys. Rev. B 109, 054308] Published Tue Feb 20, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.054308",
           "publishedOn": "2024-02-20T10:00:00.000Z",
-          "wordCount": 1370,
+          "wordCount": 1371,
           "title": "Bloch-wave interferometry of driven quasiparticles in bulk GaAs",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.054308.png"
         },
@@ -984,26 +1004,6 @@
           "wordCount": 1174,
           "title": "Flat bands promoted by Hund's rule coupling in the candidate double-layer high-temperature superconductor ${\\mathrm{La}}_{3}{\\mathrm{Ni}}_{2}{\\mathrm{O}}_{7}$ under high pressure",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L081105.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.022207",
-          "author": "Arghya Maity and Ahana Ghoshal",
-          "description": "Author(s): Arghya Maity and Ahana Ghoshal\nConventional quantum Otto engines based on effective-negative-temperature reservoirs rely on an assumption of perfect thermalization. In this study, the authors investigate the impact of non-Markovianity in these engines by terminating strokes before reaching thermal equilibrium, revealing that higher non-Markovianity enhances maximum efficiency but reduces overall performance over an extended period of functioning time. The authors also identify a class of effective-negative-temperature-based necessarily transient quantum Otto engines.\n\n[Phys. Rev. A 109, 022207] Published Thu Feb 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.022207",
-          "publishedOn": "2024-02-08T10:00:00.000Z",
-          "wordCount": 1156,
-          "title": "Using non-Markovian dynamics in effective-negative-temperature-based transient quantum Otto engines",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.022207.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.011012",
-          "author": "Luke K. Davis, Karel Proesmans, and Étienne Fodor",
-          "description": "Author(s): Luke K. Davis, Karel Proesmans, and Étienne Fodor\nA theoretical study finds that the most energy-efficient way to control an active-matter system is to drive it at finite speed—unlike passive-matter systems.\n\n[Phys. Rev. X 14, 011012] Published Wed Feb 07, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.011012",
-          "publishedOn": "2024-02-07T10:00:00.000Z",
-          "wordCount": 1545,
-          "title": "Active Matter under Control: Insights from Response Theory",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.011012.png"
         }
       ]
     }
