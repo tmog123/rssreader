@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.030702",
+          "author": "Rachel A. Margraf, James P. MacArthur, Gabriel Marcus, Heinz-Dieter Nuhn, Alberto Lutman, Aliaksei Halavanau, Zhen Zhang, and Zhirong Huang",
+          "description": "Author(s): Rachel A. Margraf, James P. MacArthur, Gabriel Marcus, Heinz-Dieter Nuhn, Alberto Lutman, Aliaksei Halavanau, Zhen Zhang, and Zhirong Huang\nMicrobunch rotation through an achromatic bend enables hard x-ray multiplexing and could be used to out-couple microbunches from a cavity based XFEL.\n\n[Phys. Rev. Accel. Beams 27, 030702] Published Tue Mar 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.030702",
+          "publishedOn": "2024-03-05T10:00:00.000Z",
+          "wordCount": 1763,
+          "title": "Microbunch rotation in an x-ray free-electron laser using a first-order achromatic bend",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.27.030702.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.033304",
+          "author": "Tangi Legrand, Falk-Richard Winkelmann, Wolfgang Alt, Dieter Meschede, Andrea Alberti, and Carrie A. Weidner",
+          "description": "Author(s): Tangi Legrand, Falk-Richard Winkelmann, Wolfgang Alt, Dieter Meschede, Andrea Alberti, and Carrie A. Weidner\nThe authors develop a method for determining the three-dimensional location of single atoms in a quantum gas microscopy system using point-spread-function engineering of the atoms’ fluorescence signal. The technique extends quantum simulation with microscopy systems into the regime of three dimensions.\n\n[Phys. Rev. A 109, 033304] Published Tue Mar 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.033304",
+          "publishedOn": "2024-03-05T10:00:00.000Z",
+          "wordCount": 1603,
+          "title": "Three-dimensional imaging of single atoms in an optical lattice via helical point-spread-function engineering",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.033304.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.034104",
           "author": "Iván Álvarez Domenech, Javier Rodríguez-Laguna, Rodolfo Cuerno, Pedro Córdoba-Torres, and Silvia N. Santalla",
           "description": "Author(s): Iván Álvarez Domenech, Javier Rodríguez-Laguna, Rodolfo Cuerno, Pedro Córdoba-Torres, and Silvia N. Santalla\nIn first-passage percolation one is interested in the region that can be reached from an origin within a given time. The authors show that on a square lattice with disorder, the boundary of this region behaves as a fluctuating interface in the Kardar-Parisi-Zhang universality class.\n\n[Phys. Rev. E 109, 034104] Published Mon Mar 04, 2024",
@@ -531,7 +551,7 @@
           "description": "Author(s): Seamus D. O'Hara, Joseph B. Costello, Qile Wu, Ken West, Loren Pfeiffer, and Mark S. Sherwin\nInterferometers that manipulate and detect electromagnetic waves are indispensable to science. Quasiparticles in crystalline solids can be described as Bloch waves, but rapid dephasing of accelerating charged quasiparticles has so far prevented the development of interferometers sensitive to their inertial properties. Here, the authors show that polarizations of near-infrared sidebands emitted by GaAs in strong terahertz fields can be viewed as interferograms from a Michelson-like interferometer for Bloch waves. A simple analytical model connects these inteferograms to quasiparticle masses and dephasing.\n\n[Phys. Rev. B 109, 054308] Published Tue Feb 20, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.054308",
           "publishedOn": "2024-02-20T10:00:00.000Z",
-          "wordCount": 1371,
+          "wordCount": 1370,
           "title": "Bloch-wave interferometry of driven quasiparticles in bulk GaAs",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.054308.png"
         },
@@ -984,26 +1004,6 @@
           "wordCount": 849,
           "title": "Buckling kinetics of graphene membranes under uniaxial compression",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.L023001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.054410",
-          "author": "Attila Szabó, Sylvain Capponi, and Fabien Alet",
-          "description": "Author(s): Attila Szabó, Sylvain Capponi, and Fabien Alet\nThe authors obtain here the symmetry-resolved low-energy spectrum of the Heisenberg model on fullerene geometries using a neural-network-based variational technique. They also develop a theoretical framework, based on Anderson towers of states, to interpret these spectra. The authors find that the hexagonal faces of the fullerenes favour incipient Néel ordering, which is, however, frustrated by the pentagonal faces. This brings about exotic noncoplanar and chiral magnetic ordering, with possible interesting ramifications for fullerene superconductivity.\n\n[Phys. Rev. B 109, 054410] Published Thu Feb 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.054410",
-          "publishedOn": "2024-02-08T10:00:00.000Z",
-          "wordCount": 1742,
-          "title": "Noncoplanar and chiral spin states on the way towards Néel ordering in fullerene Heisenberg models",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.054410.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L081105",
-          "author": "Yingying Cao and Yi-feng Yang",
-          "description": "Author(s): Yingying Cao and Yi-feng Yang\nThis work describes systematic strongly correlated electronic structure calculations for the candidate double-layer high-temperature superconductor La3Ni2O7 under pressure. These reveal the localized-itinerant duality of Ni dz2 electrons, flat dz2 and dx2−y2 quasiparticle bands, and strong interlayer antiferromagnetic correlations due to the interplay of orbital-selective Mott, Hund, and Kondo physics. These results imply a two-component theory with possibly preformed interlayer pairing for the high-temperature superconductivity in pressurized La3Ni2O7. The strange metallicity in the normal state is also explained from the quasiparticle lifetimes.\n\n[Phys. Rev. B 109, L081105] Published Thu Feb 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L081105",
-          "publishedOn": "2024-02-08T10:00:00.000Z",
-          "wordCount": 1174,
-          "title": "Flat bands promoted by Hund's rule coupling in the candidate double-layer high-temperature superconductor ${\\mathrm{La}}_{3}{\\mathrm{Ni}}_{2}{\\mathrm{O}}_{7}$ under high pressure",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L081105.png"
         }
       ]
     }

@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-05T00:43:56.313Z</id>
+    <id>urn:2024-03-06T00:43:54.853Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T00:43:56.313Z</updated>
+    <updated>2024-03-06T00:43:54.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microbunch rotation in an x-ray free-electron laser using a first-order achromatic bend]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.030702</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.030702"/>
+        <updated>2024-03-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rachel A. Margraf, James P. MacArthur, Gabriel Marcus, Heinz-Dieter Nuhn, Alberto Lutman, Aliaksei Halavanau, Zhen Zhang, and Zhirong Huang
+Microbunch rotation through an achromatic bend enables hard x-ray multiplexing and could be used to out-couple microbunches from a cavity based XFEL.
+
+[Phys. Rev. Accel. Beams 27, 030702] Published Tue Mar 05, 2024]]></summary>
+        <author>
+            <name>Rachel A. Margraf, James P. MacArthur, Gabriel Marcus, Heinz-Dieter Nuhn, Alberto Lutman, Aliaksei Halavanau, Zhen Zhang, and Zhirong Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three-dimensional imaging of single atoms in an optical lattice via helical point-spread-function engineering]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.033304</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.033304"/>
+        <updated>2024-03-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tangi Legrand, Falk-Richard Winkelmann, Wolfgang Alt, Dieter Meschede, Andrea Alberti, and Carrie A. Weidner
+The authors develop a method for determining the three-dimensional location of single atoms in a quantum gas microscopy system using point-spread-function engineering of the atoms’ fluorescence signal. The technique extends quantum simulation with microscopy systems into the regime of three dimensions.
+
+[Phys. Rev. A 109, 033304] Published Tue Mar 05, 2024]]></summary>
+        <author>
+            <name>Tangi Legrand, Falk-Richard Winkelmann, Wolfgang Alt, Dieter Meschede, Andrea Alberti, and Carrie A. Weidner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shape effects in the fluctuations of random isochrones on a square lattice]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevE.109.034104</id>
@@ -1277,32 +1303,6 @@ This work provides a framework for determining the buckling kinetics of membrane
 [Phys. Rev. E 109, L023001] Published Thu Feb 08, 2024]]></summary>
         <author>
             <name>Aristotelis P. Sgouros, Evangelos Drougkas, Spyros V. Kallivokas, and Doros N. Theodorou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noncoplanar and chiral spin states on the way towards Néel ordering in fullerene Heisenberg models]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.054410</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.054410"/>
-        <updated>2024-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Attila Szabó, Sylvain Capponi, and Fabien Alet
-The authors obtain here the symmetry-resolved low-energy spectrum of the Heisenberg model on fullerene geometries using a neural-network-based variational technique. They also develop a theoretical framework, based on Anderson towers of states, to interpret these spectra. The authors find that the hexagonal faces of the fullerenes favour incipient Néel ordering, which is, however, frustrated by the pentagonal faces. This brings about exotic noncoplanar and chiral magnetic ordering, with possible interesting ramifications for fullerene superconductivity.
-
-[Phys. Rev. B 109, 054410] Published Thu Feb 08, 2024]]></summary>
-        <author>
-            <name>Attila Szabó, Sylvain Capponi, and Fabien Alet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flat bands promoted by Hund's rule coupling in the candidate double-layer high-temperature superconductor ${\mathrm{La}}_{3}{\mathrm{Ni}}_{2}{\mathrm{O}}_{7}$ under high pressure]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L081105</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L081105"/>
-        <updated>2024-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yingying Cao and Yi-feng Yang
-This work describes systematic strongly correlated electronic structure calculations for the candidate double-layer high-temperature superconductor La3Ni2O7 under pressure. These reveal the localized-itinerant duality of Ni dz2 electrons, flat dz2 and dx2−y2 quasiparticle bands, and strong interlayer antiferromagnetic correlations due to the interplay of orbital-selective Mott, Hund, and Kondo physics. These results imply a two-component theory with possibly preformed interlayer pairing for the high-temperature superconductivity in pressurized La3Ni2O7. The strange metallicity in the normal state is also explained from the quasiparticle lifetimes.
-
-[Phys. Rev. B 109, L081105] Published Thu Feb 08, 2024]]></summary>
-        <author>
-            <name>Yingying Cao and Yi-feng Yang</name>
         </author>
     </entry>
 </feed>
