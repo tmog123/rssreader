@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-07T00:36:00.800Z</id>
+    <id>urn:2024-03-08T00:43:52.551Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T00:36:00.800Z</updated>
+    <updated>2024-03-08T00:43:52.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pressure-Induced Superconductivity In Polycrystalline ${\mathrm{La}}_{3}{\mathrm{Ni}}_{2}{\mathrm{O}}_{7−δ}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011040</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.011040"/>
+        <updated>2024-03-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): G. Wang, N. N. Wang, X. L. Shen, J. Hou, L. Ma, L. F. Shi, Z. A. Ren, Y. D. Gu, H. M. Ma, P. T. Yang, Z. Y. Liu, H. Z. Guo, J. P. Sun, G. M. Zhang, S. Calder, J.-Q. Yan, B. S. Wang, Y. Uwatoko, and J.-G. Cheng
+Researchers have measured a zero-resistance state for the nickelate La3Ni2O7, which measurements suggest may superconduct at temperatures above the boiling point of liquid nitrogen.
+
+[Phys. Rev. X 14, 011040] Published Thu Mar 07, 2024]]></summary>
+        <author>
+            <name>G. Wang, N. N. Wang, X. L. Shen, J. Hou, L. Ma, L. F. Shi, Z. A. Ren, Y. D. Gu, H. M. Ma, P. T. Yang, Z. Y. Liu, H. Z. Guo, J. P. Sun, G. M. Zhang, S. Calder, J.-Q. Yan, B. S. Wang, Y. Uwatoko, and J.-G. Cheng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Method to assess the trustworthiness of machine coding at scale]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.010113</id>
@@ -1290,19 +1303,6 @@ A comprehensive theoretical study of octupolar quantum spin ice shows that the d
 [Phys. Rev. Lett. 132, 066502] Published Fri Feb 09, 2024]]></summary>
         <author>
             <name>Félix Desrochers and Yong Baek Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$π$ Phase Interlayer Shift and Stacking Fault in the Kagome Superconductor ${\mathrm{CsV}}_{3}{\mathrm{Sb}}_{5}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.066501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.066501"/>
-        <updated>2024-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Feng Jin, Wei Ren, Mingshu Tan, Mingtai Xie, Bingru Lu, Zheng Zhang, Jianting Ji, and Qingming Zhang
-Observation of the stacking fault in the charge-density-wave phase of the kagome superconductor CsV3Sb5 offers structural insights to comprehend the entanglement between superconductivity and charge density waves in that system.
-
-[Phys. Rev. Lett. 132, 066501] Published Thu Feb 08, 2024]]></summary>
-        <author>
-            <name>Feng Jin, Wei Ren, Mingshu Tan, Mingtai Xie, Bingru Lu, Zheng Zhang, Jianting Ji, and Qingming Zhang</name>
         </author>
     </entry>
 </feed>
