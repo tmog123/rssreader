@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-11T00:45:51.067Z</id>
+    <id>urn:2024-03-12T00:43:43.754Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T00:45:51.067Z</updated>
+    <updated>2024-03-12T00:43:43.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Precision-Spectroscopic Determination of the Binding Energy of a Two-Body Quantum System: The Hydrogen Atom and the Proton-Size Puzzle]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.113001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.113001"/>
+        <updated>2024-03-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Simon Scheidegger and Frédéric Merkt
+Researchers have measured the transition energy of several highly excited states, which could help resolve a discrepancy about the size of the proton.
+
+[Phys. Rev. Lett. 132, 113001] Published Mon Mar 11, 2024]]></summary>
+        <author>
+            <name>Simon Scheidegger and Frédéric Merkt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonequilibrium symmetry-protected topological order: Emergence of semilocal Gibbs ensembles]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.115117</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.115117"/>
+        <updated>2024-03-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maurizio Fagotti, Vanja Marić, and Lenart Zadnik
+A generic nonequilibrium quantum system relaxes locally into a state resembling a thermal one even when isolated from the environment. In one-dimensional systems at finite temperature, ordered phases are generally excluded. Consequently, although symmetry-protected topological order may be present at zero temperature, its emergence at late times is not expected. This paper uncovers a mechanism that allows symmetry-protected topological order to emerge away from equilibrium for arbitrarily long times. It is based on the existence of hidden (semilocal) symmetries associated with operators that represent local observables only in a symmetry-restricted Hilbert space.
+
+[Phys. Rev. B 109, 115117] Published Mon Mar 11, 2024]]></summary>
+        <author>
+            <name>Maurizio Fagotti, Vanja Marić, and Lenart Zadnik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evolutionary Conservation of Mechanical Strain Distributions in Functional Transitions of Protein Structures]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011042</id>
@@ -1277,32 +1303,6 @@ A technique that can determine the chirality of a molecule using that molecule�
 [Phys. Rev. X 14, 011015] Published Mon Feb 12, 2024]]></summary>
         <author>
             <name>Debobrata Rajak, Sandra Beauvarlet, Omer Kneller, Antoine Comby, Raluca Cireasa, Dominique Descamps, Baptiste Fabre, Jimena D. Gorfinkiel, Julien Higuet, Stéphane Petit, Shaked Rozen, Hartmut Ruf, Nicolas Thiré, Valérie Blanchet, Nirit Dudovich, Bernard Pons, and Yann Mairesse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anomalous Aharonov-Bohm Interference in the Presence of Edge Reconstruction]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.076301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.076301"/>
-        <updated>2024-02-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sourav Biswas, Hemanta Kumar Kundu, Rajarshi Bhattacharyya, Vladimir Umansky, and Moty Heiblum
-Subtleties in edge-structure reconstruction may critically affect Aharonov-Bohm oscillations in a quantum Hall interferometer.
-
-[Phys. Rev. Lett. 132, 076301] Published Mon Feb 12, 2024]]></summary>
-        <author>
-            <name>Sourav Biswas, Hemanta Kumar Kundu, Rajarshi Bhattacharyya, Vladimir Umansky, and Moty Heiblum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probing Quantum Phases in Ultra-High-Mobility Two-Dimensional Electron Systems Using Surface Acoustic Waves]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.076501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.076501"/>
-        <updated>2024-02-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mengmeng Wu, Xiao Liu, Renfei Wang, Yoon Jang Chung, Adbhut Gupta, Kirk W. Baldwin, Loren Pfeiffer, Xi Lin, and Yang Liu
-Deforming the quantum phase with a nondestructive current flowing through the sample shows that the system becomes more incompressible when hosting a current.
-
-[Phys. Rev. Lett. 132, 076501] Published Mon Feb 12, 2024]]></summary>
-        <author>
-            <name>Mengmeng Wu, Xiao Liu, Renfei Wang, Yoon Jang Chung, Adbhut Gupta, Kirk W. Baldwin, Loren Pfeiffer, Xi Lin, and Yang Liu</name>
         </author>
     </entry>
 </feed>
