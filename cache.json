@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXLife.2.013014",
+          "author": "Giulia Garcia Lorenzana, Ada Altieri, and Giulio Biroli",
+          "description": "Author(s): Giulia Garcia Lorenzana, Ada Altieri, and Giulio Biroli\nIn this study, the authors describe the phase diagram of an ecological system with demographic noise, heterogeneous interactions, and migration, showing how mutualism can spontaneously emerge.\n\n[PRX Life 2, 013014] Published Mon Mar 18, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PRXLife.2.013014",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 2062,
+          "title": "Interactions and Migration Rescuing Ecological Diversity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXLIFE/key_images/10.1103/PRXLife.2.013014.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.126401",
+          "author": "Mohammed M. Al Ezzi, Junxiong Hu, Ariando Ariando, Francisco Guinea, and Shaffique Adam",
+          "description": "Author(s): Mohammed M. Al Ezzi, Junxiong Hu, Ariando Ariando, Francisco Guinea, and Shaffique Adam\nA super-moiré lattice in monolayer graphene generates flat bands, providing a viable platform to engineer its correlated states.\n\n[Phys. Rev. Lett. 132, 126401] Published Mon Mar 18, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.126401",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 1229,
+          "title": "Topological Flat Bands in Graphene Super-Moiré Lattices",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.126401.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.111901",
           "author": "A. Hayrapetyan <em>et al.</em> (CMS Collaboration)",
           "description": "Author(s): A. Hayrapetyan et al. (CMS Collaboration)\nThree structures, X(6900) and two new ones around 6.64 and 7.13 GeV, are seen in the J/ψJ/ψ mass spectrum that are consistent with being part of a family of radial excitations.\n\n[Phys. Rev. Lett. 132, 111901] Published Fri Mar 15, 2024",
@@ -201,7 +221,7 @@
           "description": "Author(s): Sesha Sai Behara, John C. Thomas, Brian Puchala, and Anton Van der Ven\nThis work introduces a first-principles statistical mechanics method to calculate the free energies of crystalline alloys, including dependence on temperature, composition, and strain. The approach extends the alloy cluster expansion to include an explicit dependence on homogeneous strain in addition to site occupation variables that track chemical ordering. The method is applied to the Si-Ge binary alloy and is used to analyze phase stability under arbitrary epitaxial constraints. As a surrogate model, the new cluster expansion is a convenient compromise between the more restrictive configuration-only cluster expansions and machine-learned interatomic potentials, which require a substantially larger effort to train.\n\n[Phys. Rev. Materials 8, 033801] Published Tue Mar 12, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.033801",
           "publishedOn": "2024-03-12T10:00:00.000Z",
-          "wordCount": 1167,
+          "wordCount": 1166,
           "title": "Chemomechanics in alloy phase stability",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.033801.png"
         },
