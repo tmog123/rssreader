@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.013302",
+          "author": "C. Wille, J. Eisert, and A. Altland",
+          "description": "Author(s): C. Wille, J. Eisert, and A. Altland\nDualities between three paradigmatic models in condensed-matter physics (the two-dimensional classical Ising model, the toric code, and a class D topological superconductor) are explored from a tensor network perspective. Being exact and explicit in nature, the approach allows for the translation of properties of the three different systems on a microscopic level and for the linking of nontrivial phenomena such as topological excitations, edge modes, and disorder operators.\n\n[Phys. Rev. Research 6, 013302] Published Tue Mar 19, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.013302",
+          "publishedOn": "2024-03-19T10:00:00.000Z",
+          "wordCount": 2091,
+          "title": "Topological dualities via tensor networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.6.013302.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.121901",
+          "author": "A. Hayrapetyan <em>et al.</em> (CMS Collaboration)",
+          "description": "Author(s): A. Hayrapetyan et al. (CMS Collaboration)\nThe production of two W bosons and a photon—a standard-model process—is observed for the first time.\n\n[Phys. Rev. Lett. 132, 121901] Published Tue Mar 19, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.121901",
+          "publishedOn": "2024-03-19T10:00:00.000Z",
+          "wordCount": 872,
+          "title": "Observation of $WWγ$ Production and Search for $Hγ$ Production in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.121901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.126701",
+          "author": "Yizhou Liu and Naoto Nagaosa",
+          "description": "Author(s): Yizhou Liu and Naoto Nagaosa\nScientists have devised a promising method for generating and manipulating exotic spin patterns called magnetic vortex rings, which could have applications in energy-efficient data storage and processing.\n\n[Phys. Rev. Lett. 132, 126701] Published Tue Mar 19, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.126701",
+          "publishedOn": "2024-03-19T10:00:00.000Z",
+          "wordCount": 1311,
+          "title": "Current-Induced Creation of Topological Vortex Rings in a Magnetic Nanocylinder",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.126701.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.094424",
+          "author": "Aurélien Manchon, Shuyuan Shi, and Hyunsoo Yang",
+          "description": "Author(s): Aurélien Manchon, Shuyuan Shi, and Hyunsoo Yang\nSpintronics involves converting spin currents to charge currents and vice versa, a process that has wide-ranging applications. However, in magnetic heterostructures, the efficiency of converting spins into charges is not always equivalent to converting charges into spins. This study intends to explain this discrepancy by accounting for both interfacial and bulk spin-orbit coupling. It shows that the charge-to-spin conversion is highly sensitive to spin current leakage, whereas spin-to-charge conversion is less affected by it. As a result, spin pumping appears as a more robust process than spin-orbit torque to quantify spin-charge interconversion efficiencies.\n\n[Phys. Rev. B 109, 094424] Published Tue Mar 19, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.094424",
+          "publishedOn": "2024-03-19T10:00:00.000Z",
+          "wordCount": 871,
+          "title": "Spin current leakage and Onsager reciprocity in interfacial spin-charge interconversion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.094424.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.104513",
+          "author": "Gian Marcello Andolina, Antonella De Pasquale, Francesco Maria Dimitri Pellegrino, Iacopo Torre, Frank H. L. Koppens, and Marco Polini",
+          "description": "Author(s): Gian Marcello Andolina, Antonella De Pasquale, Francesco Maria Dimitri Pellegrino, Iacopo Torre, Frank H. L. Koppens, and Marco Polini\nAmperean superconductivity is stemming from attractive effective electron-electron interactions mediated by a transverse gauge field. Amperean superconductivity has been recently proposed to occur at temperatures on the order of 1 K in two-dimensional electron gases embedded inside deep subwavelength optical cavities. Here, the authors generalize the microscopic theory of cavity-induced Amperean superconductivity to the case of graphene and then argue that this superconducting state cannot be achieved in the deep subwavelength regime.\n\n[Phys. Rev. B 109, 104513] Published Tue Mar 19, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.104513",
+          "publishedOn": "2024-03-19T10:00:00.000Z",
+          "wordCount": 1381,
+          "title": "Amperean superconductivity cannot be induced by deep subwavelength cavities in a two-dimensional material",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.104513.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXLife.2.013014",
           "author": "Giulia Garcia Lorenzana, Ada Altieri, and Giulio Biroli",
           "description": "Author(s): Giulia Garcia Lorenzana, Ada Altieri, and Giulio Biroli\nIn this study, the authors describe the phase diagram of an ecological system with demographic noise, heterogeneous interactions, and migration, showing how mutualism can spontaneously emerge.\n\n[PRX Life 2, 013014] Published Mon Mar 18, 2024",
@@ -221,7 +271,7 @@
           "description": "Author(s): Sesha Sai Behara, John C. Thomas, Brian Puchala, and Anton Van der Ven\nThis work introduces a first-principles statistical mechanics method to calculate the free energies of crystalline alloys, including dependence on temperature, composition, and strain. The approach extends the alloy cluster expansion to include an explicit dependence on homogeneous strain in addition to site occupation variables that track chemical ordering. The method is applied to the Si-Ge binary alloy and is used to analyze phase stability under arbitrary epitaxial constraints. As a surrogate model, the new cluster expansion is a convenient compromise between the more restrictive configuration-only cluster expansions and machine-learned interatomic potentials, which require a substantially larger effort to train.\n\n[Phys. Rev. Materials 8, 033801] Published Tue Mar 12, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.033801",
           "publishedOn": "2024-03-12T10:00:00.000Z",
-          "wordCount": 1166,
+          "wordCount": 1167,
           "title": "Chemomechanics in alloy phase stability",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.033801.png"
         },
@@ -471,7 +521,7 @@
           "description": "Author(s): Sebastian Sailler, Darius Pohl, Heike Schlörb, Bernd Rellinghaus, Andy Thomas, Sebastian T. B. Goennenwein, and Michaela Lammel\nYttrium iron garnet (YIG) is a prototypical material in the fields of spintronics and magnonics due to its exceptional magnetic properties. However, up to now, the focus has been on planar YIG thin films owing to the challenges associated with manufacturing non-planar structures. Here, the authors demonstrate the fabrication of single crystalline YIG via lateral solid phase epitaxy on top of an artificially defined SiOx mesa over micrometer length scales. The reported results lay the foundation for the development of non-planar, epitaxial YIG thin films as well as free standing YIG structures, while still maintaining complete control over the crystal orientation.\n\n[Phys. Rev. Materials 8, L020402] Published Thu Feb 29, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L020402",
           "publishedOn": "2024-02-29T10:00:00.000Z",
-          "wordCount": 1322,
+          "wordCount": 1321,
           "title": "Lateral solid phase epitaxy of yttrium iron garnet",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.L020402.png"
         },
@@ -801,7 +851,7 @@
           "description": "Author(s): Ruby A. Shi, Bai Yang Wang, Yusuke Iguchi, Motoki Osada, Kyuho Lee, Berit H. Goodge, Lena F. Kourkoutis, Harold Y. Hwang, and Kathryn A. Moler\nThis work studied superconductivity and magnetism in infinite-layer nickelate films with scanning SQUID and cross-sectional STEM. The authors found a landscape of superparamagnetism from NiOx nanoparticles that are extrinsic to the superconductivity. They imaged superconducting vortices and determined the penetration depth. They measured the local diamagnetism, finding a consistent value of the penetration depth. The superfluid density exhibits nearly T-linear dependence, suggesting possible d-wave superconductivity. Using scanning SQUID to image the various sources of magnetism in superconducting nickelates paves the way for further studies of vortex dynamics and flux quantization in these recently discovered superconductors.\n\n[Phys. Rev. Materials 8, 024802] Published Wed Feb 21, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024802",
           "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 1519,
+          "wordCount": 1570,
           "title": "Scanning SQUID study of ferromagnetism and superconductivity in infinite-layer nickelates",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.024802.png"
         },
