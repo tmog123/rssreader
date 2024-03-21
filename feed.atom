@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-20T00:43:49.276Z</id>
+    <id>urn:2024-03-21T00:46:08.803Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T00:43:49.276Z</updated>
+    <updated>2024-03-21T00:46:08.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Demonstrating a Long-Coherence Dual-Rail Erasure Qubit Using Tunable Transmons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011051</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.011051"/>
+        <updated>2024-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): H. Levine et al.
+Researchers have realized a recently proposed qubit in which the errors mostly involve erasure of the qubit state, an advance that could help simplify the architecture of fault-tolerant quantum computers.
+
+[Phys. Rev. X 14, 011051] Published Wed Mar 20, 2024]]></summary>
+        <author>
+            <name>H. Levine &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disorder and diffuse scattering in single-chirality (${\mathrm{TaSe}}_{4}{)}_{2}\text{I}$ crystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.034202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.034202"/>
+        <updated>2024-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jacob A. Christensen, Simon Bettler, Kejian Qu, Jeffrey Huang, Soyeun Kim, Yinchuan Lu, Chengxi Zhao, Jin Chen, Matthew J. Krogstad, Toby J. Woods, Fahad Mahmood, Pinshane Y. Huang, Peter Abbamonte, and Daniel P. Shoemaker
+The chiral charge density wave material (TaSe4)2I contains a half-filled Ta d-orbital, which creates Weyl points in a metallic band structure. However, historical measurements show insulating electrical transport. The authors use single-crystal diffraction and transmission electron microscopy to show that large single crystals have pristine chirality: they can exhibit a single enantiomer over millimeters. They resolve the contradiction in transport by showing a consistent iodine deficiency of more than 10%. These vacancies produce structural modulations visible in diffuse scattering and represent a new competing interaction in a class of materials with fragile electronic states.
+
+[Phys. Rev. Materials 8, 034202] Published Wed Mar 20, 2024]]></summary>
+        <author>
+            <name>Jacob A. Christensen, Simon Bettler, Kejian Qu, Jeffrey Huang, Soyeun Kim, Yinchuan Lu, Chengxi Zhao, Jin Chen, Matthew J. Krogstad, Toby J. Woods, Fahad Mahmood, Pinshane Y. Huang, Peter Abbamonte, and Daniel P. Shoemaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On granular flows: From kinetic theory to inertial rheology and nonlocal constitutive models]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.034304</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.034304"/>
+        <updated>2024-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Diego Berzi
+The case is made that the kinetic theory of granular gases provides the long-sought universal framework to predict the flow of realistic particles from dilute to very dense conditions. In so doing, the popular inertial rheology and its nonlocal extension to deal with heterogeneities based on the granular fluidity concept are derived as special limits of the kinetic theory.
+
+[Phys. Rev. Fluids 9, 034304] Published Wed Mar 20, 2024]]></summary>
+        <author>
+            <name>Diego Berzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying hubs in directed networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.034310</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.034310"/>
+        <updated>2024-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alec Kirkley
+Nodes with high connectivity, also called hubs, play a critical role in determining the structural and functional properties of networked systems. The author develops classification methods for directed networks that provide a definition of network hubs, and demonstrates them in a range of example applications.
+
+[Phys. Rev. E 109, 034310] Published Wed Mar 20, 2024]]></summary>
+        <author>
+            <name>Alec Kirkley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topological dualities via tensor networks]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.013302</id>
@@ -1186,58 +1238,6 @@ Tomorrow’s quantum technologies for communication, sensing, and distributed co
 [Phys. Rev. Applied 21, 024041] Published Wed Feb 21, 2024]]></summary>
         <author>
             <name>Stav Haldar, Pratik J. Barge, Sumeet Khatri, and Hwang Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced Production of ${\mathrm{Λ}}_{b}^{0}$ Baryons in High-Multiplicity $pp$ Collisions at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.081901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.081901"/>
-        <updated>2024-02-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. Aaij et al. (LHCb Collaboration)
-Bottom quarks are increasingly more likely to exist in three-quark states rather than two-quark ones as the density of their environment increases.
-
-[Phys. Rev. Lett. 132, 081901] Published Tue Feb 20, 2024]]></summary>
-        <author>
-            <name>R. Aaij &lt;em&gt;et al.&lt;/em&gt; (LHCb Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probing Hydrodynamic Fluctuation-Induced Forces with an Oscillating Robot]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.084001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.084001"/>
-        <updated>2024-02-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Steven W. Tarr, Joseph S. Brunner, Daniel Soto, and Daniel I. Goldman
-A free-floating robot that oscillates symmetrically can use confined hydrodynamic surface wave fields to move without the need for a traditional propulsion mechanism.
-
-[Phys. Rev. Lett. 132, 084001] Published Tue Feb 20, 2024]]></summary>
-        <author>
-            <name>Steven W. Tarr, Joseph S. Brunner, Daniel Soto, and Daniel I. Goldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flexophotovoltaic Effect and Above-Band-Gap Photovoltage Induced by Strain Gradients in Halide Perovskites]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.086902</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.086902"/>
-        <updated>2024-02-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zhiguo Wang, Shengwen Shu, Xiaoyong Wei, Renhong Liang, Shanming Ke, Longlong Shu, and Gustau Catalan
-The engineering of structural deformations in light-sensitive semiconductors can boost the efficiency of solar cells.
-
-[Phys. Rev. Lett. 132, 086902] Published Tue Feb 20, 2024]]></summary>
-        <author>
-            <name>Zhiguo Wang, Shengwen Shu, Xiaoyong Wei, Renhong Liang, Shanming Ke, Longlong Shu, and Gustau Catalan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloch-wave interferometry of driven quasiparticles in bulk GaAs]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.054308</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.054308"/>
-        <updated>2024-02-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Seamus D. O'Hara, Joseph B. Costello, Qile Wu, Ken West, Loren Pfeiffer, and Mark S. Sherwin
-Interferometers that manipulate and detect electromagnetic waves are indispensable to science. Quasiparticles in crystalline solids can be described as Bloch waves, but rapid dephasing of accelerating charged quasiparticles has so far prevented the development of interferometers sensitive to their inertial properties. Here, the authors show that polarizations of near-infrared sidebands emitted by GaAs in strong terahertz fields can be viewed as interferograms from a Michelson-like interferometer for Bloch waves. A simple analytical model connects these inteferograms to quasiparticle masses and dephasing.
-
-[Phys. Rev. B 109, 054308] Published Tue Feb 20, 2024]]></summary>
-        <author>
-            <name>Seamus D. O'Hara, Joseph B. Costello, Qile Wu, Ken West, Loren Pfeiffer, and Mark S. Sherwin</name>
         </author>
     </entry>
 </feed>
