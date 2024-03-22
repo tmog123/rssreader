@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.122701",
+          "author": "S. Amaducci <em>et al.</em> (n_TOF Collaboration)",
+          "description": "Author(s): S. Amaducci et al. (n_TOF Collaboration)\nA widening gap between the cerium-140 abundance predicted by theories and that measured in observations of certain stars indicates a potential need for updated models of element formation.\n\n[Phys. Rev. Lett. 132, 122701] Published Thu Mar 21, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.122701",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 1044,
+          "title": "Measurement of the $^{140}\\mathrm{Ce}(\\mathrm{n},γ)$ Cross Section at n_TOF and Its Astrophysical Implications for the Chemical Evolution of the Universe",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.122701.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.126402",
+          "author": "Weiwei Gao, Zhao Tang, Jijun Zhao, and James R. Chelikowsky",
+          "description": "Author(s): Weiwei Gao, Zhao Tang, Jijun Zhao, and James R. Chelikowsky\nThe spectroscopic data of hundreds of atoms can now be computed on a single workstation using the new Lanczos method in full-frequency GW calculations.\n\n[Phys. Rev. Lett. 132, 126402] Published Thu Mar 21, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.126402",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 950,
+          "title": "Efficient Full-Frequency GW Calculations Using a Lanczos Method",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.126402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.127401",
+          "author": "Emmy Blumenthal, Jason W. Rocks, and Pankaj Mehta",
+          "description": "Author(s): Emmy Blumenthal, Jason W. Rocks, and Pankaj Mehta\nNonreciprocal interactions in large ecosystems can give rise to a transition to chaos controlled by the ratio of surviving species to surviving resources.\n\n[Phys. Rev. Lett. 132, 127401] Published Thu Mar 21, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.127401",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 1015,
+          "title": "Phase Transition to Chaos in Complex Ecosystems with Nonreciprocal Species-Resource Interactions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.127401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.064061",
+          "author": "Harry Ho-Yin Ng, Jin-Liang Jiang, Carlo Musolino, Christian Ecker, Samuel D. Tootle, and Luciano Rezzolla",
+          "description": "Author(s): Harry Ho-Yin Ng, Jin-Liang Jiang, Carlo Musolino, Christian Ecker, Samuel D. Tootle, and Luciano Rezzolla\nThe numerical simulations of binary neutron star mergers is an important, but computationally expensive endeavor. The authors demonstrate that significant computational savings can be realized by adopting a hybrid approach to these simulations by using a fully dynamical spacetime solver initially, but switching to a conformally-flat spacetime solver as the system evolves.\n\n[Phys. Rev. D 109, 064061] Published Thu Mar 21, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.064061",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 2364,
+          "title": "Hybrid approach to long-term binary neutron-star simulations",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.064061.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.094113",
+          "author": "J. D. McHardy, C. V. Storm, M. J. Duff, C. M. Lonsdale, G. A. Woolman, M. I. McMahon, N. Giordano, and S. G. MacLeod",
+          "description": "Author(s): J. D. McHardy, C. V. Storm, M. J. Duff, C. M. Lonsdale, G. A. Woolman, M. I. McMahon, N. Giordano, and S. G. MacLeod\nElemental rhodium (Rh) is one of eight noble metals in the periodic table exhibiting high resistance to corrosion and oxidation, even at elevated temperatures, and finds wide-ranging industrial applications. This paper presents a thermal equation of state describing the structural and volumetric behaviour of Rh under static compression to 191 GPa and flash laser heating to 2700 K as determined by \\textit{in situ} synchrotron x-ray diffraction (XRD) in a diamond anvil cell. Fast scanning, combined with a small x-ray spot size, enables micron-scale XRD mapping of the local stress conditions within the sample assembly.\n\n[Phys. Rev. B 109, 094113] Published Thu Mar 21, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.094113",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 2427,
+          "title": "Thermal equation of state of rhodium to 191 GPa and 2700 K using double-sided flash laser heating in a diamond anvil cell",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.094113.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.125138",
+          "author": "Jae-Mo Lihm, Johannes Halbinger, Jeongmin Shim, Jan von Delft, Fabian B. Kugler, and Seung-Sup B. Lee",
+          "description": "Author(s): Jae-Mo Lihm, Johannes Halbinger, Jeongmin Shim, Jan von Delft, Fabian B. Kugler, and Seung-Sup B. Lee\nThe authors develop here a new representation of two-particle vertices, the effective interaction between quantum particles in a many-body environment. This yields numerical results with much higher accuracy and robustness than previously possible. By avoiding error-prone inversion, their “symmetric improved estimators” successfully pass stringent precision tests in both the real- and imaginary-frequency frameworks of quantum field theory. This scheme allows field-theoretic methods for strongly correlated electrons to expand into the real-frequency direction.\n\n[Phys. Rev. B 109, 125138] Published Thu Mar 21, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.125138",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 2570,
+          "title": "Symmetric improved estimators for multipoint vertex functions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.125138.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.125141",
+          "author": "Yves H. Kwan, Patrick J. Ledwith, Chiu Fan Bowen Lo, and Trithep Devakul",
+          "description": "Author(s): Yves H. Kwan, Patrick J. Ledwith, Chiu Fan Bowen Lo, and Trithep Devakul\nHelical trilayer graphene is a new experimentally accessible magic-angle graphene heterostructure with nontrivial physics at both the moiré and supermoiré scale. The authors’ theoretical analysis reveals a plethora of topological strong-coupling Chern insulators at all integer moiré fillings. Crucially, the band renormalization that plagues previous moiré graphene systems is significantly suppressed, ensuring the validity of the strong-coupling perspective and opening the path to fractionalized phases. At experimentally accessible displacement fields, the authors find continuous topological transitions to more complex orders. Their results establish helical trilayer graphene as a promising platform for tunable strongly interacting topological phases.\n\n[Phys. Rev. B 109, 125141] Published Thu Mar 21, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.125141",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 2272,
+          "title": "Strong-coupling topological states and phase transitions in helical trilayer graphene",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.125141.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L100506",
+          "author": "C. Q. Xu, C. C. Zhao, Y. Shen, D. Ratkovski, X. Ma, W. Zhou, Xunqing Yin, B. Li, A. F. Bangura, Chao Cao, Baomin Wang, Ziming Zhu, X. Ke, Dong Qian, Shiyan Li, and Xiaofeng Xu",
+          "description": "Author(s): C. Q. Xu, C. C. Zhao, Y. Shen, D. Ratkovski, X. Ma, W. Zhou, Xunqing Yin, B. Li, A. F. Bangura, Chao Cao, Baomin Wang, Ziming Zhu, X. Ke, Dong Qian, Shiyan Li, and Xiaofeng Xu\nA vast landscape of topological phases of matter with emergent quasiparticles has been explored in the past two decades, but the majority of them are 2D or 3D in essence and far fewer 1D counterparts are known to exist. Here, first-principles calculations reveal a multitude of topological fermions near the Fermi level in the quasi-one-dimensional alloy V2Ga5, which becomes a multigap nodeless superconductor below 3.6 K, raising the possibility of realizing topological superconductivity in this quasi-1D system.\n\n[Phys. Rev. B 109, L100506] Published Thu Mar 21, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L100506",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 1260,
+          "title": "Multigap nodeless superconductivity in the Dirac intermetallic alloy ${\\mathrm{V}}_{2}{\\mathrm{Ga}}_{5}$ with one-dimensional vanadium chains",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L100506.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.011051",
           "author": "H. Levine <em>et al.</em>",
           "description": "Author(s): H. Levine et al.\nResearchers have realized a recently proposed qubit in which the errors mostly involve erasure of the qubit state, an advance that could help simplify the architecture of fault-tolerant quantum computers.\n\n[Phys. Rev. X 14, 011051] Published Wed Mar 20, 2024",
@@ -874,86 +954,6 @@
           "wordCount": 832,
           "title": "Random Matrix Statistics in Propagating Correlation Fronts of Fermions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.087101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024408",
-          "author": "Chao Zhou, Jia Xu, and Yizheng Wu",
-          "description": "Author(s): Chao Zhou, Jia Xu, and Yizheng Wu\nA material with strong in-plane magnetic anisotropy is crucial for determining the magnetization configuration of magnetic materials and their applications in high-density and high-frequency devices. Here, the authors successfully reported a giant interfacial uniaxial in-plane anisotropy in Co/Pt(110) bilayers, which is five times larger than that in Co/Pt(111), the most popular magnetic thin film with perpendicular magnetic anisotropy. Furthermore, such large interfacial magnetic anisotropy can be enhanced by forming a Pt/Co/Pt sandwich structure. These results enabled the integration of in-plane magnetic anisotropy systems into spintronic devices with increased speed and density.\n\n[Phys. Rev. Materials 8, 024408] Published Wed Feb 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024408",
-          "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 1201,
-          "title": "Giant interfacial in-plane magnetic anisotropy in Co/Pt bilayers grown on MgO(110) substrates",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.024408.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024802",
-          "author": "Ruby A. Shi, Bai Yang Wang, Yusuke Iguchi, Motoki Osada, Kyuho Lee, Berit H. Goodge, Lena F. Kourkoutis, Harold Y. Hwang, and Kathryn A. Moler",
-          "description": "Author(s): Ruby A. Shi, Bai Yang Wang, Yusuke Iguchi, Motoki Osada, Kyuho Lee, Berit H. Goodge, Lena F. Kourkoutis, Harold Y. Hwang, and Kathryn A. Moler\nThis work studied superconductivity and magnetism in infinite-layer nickelate films with scanning SQUID and cross-sectional STEM. The authors found a landscape of superparamagnetism from NiOx nanoparticles that are extrinsic to the superconductivity. They imaged superconducting vortices and determined the penetration depth. They measured the local diamagnetism, finding a consistent value of the penetration depth. The superfluid density exhibits nearly T-linear dependence, suggesting possible d-wave superconductivity. Using scanning SQUID to image the various sources of magnetism in superconducting nickelates paves the way for further studies of vortex dynamics and flux quantization in these recently discovered superconductors.\n\n[Phys. Rev. Materials 8, 024802] Published Wed Feb 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.024802",
-          "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 1570,
-          "title": "Scanning SQUID study of ferromagnetism and superconductivity in infinite-layer nickelates",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.024802.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.083401",
-          "author": "G. Pasqualetti, O. Bettermann, N. Darkwah Oppong, E. Ibarra-García-Padilla, S. Dasgupta, R. T. Scalettar, K. R. A. Hazzard, I. Bloch, and S. Fölling",
-          "description": "Author(s): G. Pasqualetti, O. Bettermann, N. Darkwah Oppong, E. Ibarra-García-Padilla, S. Dasgupta, R. T. Scalettar, K. R. A. Hazzard, I. Bloch, and S. Fölling\nUltracold Yb gas in an optical lattice realizes the equation of state of the Fermi-Hubbard model across the Mott crossover temperature.\n\n[Phys. Rev. Lett. 132, 083401] Published Wed Feb 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.083401",
-          "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 1475,
-          "title": "Equation of State and Thermometry of the 2D $\\mathrm{SU}(N)$ Fermi-Hubbard Model",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.083401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.024605",
-          "author": "Brian F. Farrell and Petros J. Ioannou",
-          "description": "Author(s): Brian F. Farrell and Petros J. Ioannou\nIn wall turbulence, the time-mean flow is returned to after almost any disturbance, which indicates that it is a stable statistical feature underlying the disorder of turbulence. However, the stability of this statistical feature can not be determined directly from the stability of the time-mean flow itself. What is required is a statistical stability analysis method. We determine the statistical stability of the time-mean state by averaging the dynamics of the return to the time-mean state over the turbulent attractor using the linear inverse model method.\n\n[Phys. Rev. Fluids 9, 024605] Published Wed Feb 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.024605",
-          "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 1916,
-          "title": "Statistical state dynamics-based study of the stability of the mean statistical state of wall-bounded turbulence",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.024605.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.024312",
-          "author": "Antoine Vendeville, Shi Zhou, and Benjamin Guedj",
-          "description": "Author(s): Antoine Vendeville, Shi Zhou, and Benjamin Guedj\nThe formation and evolution of opinion in social networks is a topic receiving increasing attention. By employing the multistate voter model on a network, the authors derive a general method to compute the probability of disagreement between a pair of agents in the model, which is applicable to any directed, weighted network.\n\n[Phys. Rev. E 109, 024312] Published Wed Feb 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.024312",
-          "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 1197,
-          "title": "Discord in the voter model for complex networks",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.024312.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.075145",
-          "author": "Tianhao Ren, Elio J. König, and Alexei M. Tsvelik",
-          "description": "Author(s): Tianhao Ren, Elio J. König, and Alexei M. Tsvelik\nThis work describes a chiral Kondo chain model with symplectic symmetry. The authors demonstrate that it has a quantum critical ground state populated by non-Abelian anyons. Such a model is more robust than previously proposed models, and it can be experimentally implemented using hybrid quantum devices featuring superconducting islands coupled to chiral edges of topological insulators. Proposals for measurement-only anyonic quantum computations and error mitigations based on such a setup are provided.\n\n[Phys. Rev. B 109, 075145] Published Wed Feb 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.075145",
-          "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 1368,
-          "title": "Topological quantum computation on a chiral Kondo chain",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.075145.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.024039",
-          "author": "Takumi Yamazaki, Takamasa Hirai, Takashi Yagi, Yuichiro Yamashita, Ken-ichi Uchida, Takeshi Seki, and Koki Takanashi",
-          "description": "Author(s): Takumi Yamazaki, Takamasa Hirai, Takashi Yagi, Yuichiro Yamashita, Ken-ichi Uchida, Takeshi Seki, and Koki Takanashi\nMetallic multilayers play a pivotal role in spintronics and also have recently attracted attention as spin-caloritronic materials for energy conversion, but their thermoelectric performance has not been quantified. This study of Fe/Pt multilayers presents a method to evaluate the figure of merit for transverse thermoelectric conversion in thin-film stacks. A multilayered structure reduces thermal conductivity and notably enhances the figure of merit. Interestingly, epitaxial multilayers exhibit better thermoelectric performance than their polycrystalline counterparts, due to their higher transverse thermoelectric coefficient and electron-transport anisotropy.\n\n[Phys. Rev. Applied 21, 024039] Published Wed Feb 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.024039",
-          "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 1246,
-          "title": "Quantitative measurement of figure of merit for transverse thermoelectric conversion in $\\mathrm{Fe}/\\mathrm{Pt}$ metallic multilayers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.024039.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.024041",
-          "author": "Stav Haldar, Pratik J. Barge, Sumeet Khatri, and Hwang Lee",
-          "description": "Author(s): Stav Haldar, Pratik J. Barge, Sumeet Khatri, and Hwang Lee\nTomorrow’s quantum technologies for communication, sensing, and distributed computing will rely on networks with entanglement shared between spatially separated nodes. The authors provide improved protocols and policies for entanglement distribution along a chain of nodes, accounting for practical limitations such as photon losses, nonideal measurements, and quantum memories with short coherence times. These policies feature dynamic, state-dependent memory cutoffs and collaboration between nodes, all of which are quantified. Nesting policies for small repeater chains yields policies for large chains that improve upon a swap-as-soon-as-possible approach, and thus pave the way to scaling up.\n\n[Phys. Rev. Applied 21, 024041] Published Wed Feb 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.024041",
-          "publishedOn": "2024-02-21T10:00:00.000Z",
-          "wordCount": 2875,
-          "title": "Fast and reliable entanglement distribution with quantum repeaters: Principles for improving protocols using reinforcement learning",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.024041.png"
         }
       ]
     }
