@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-22T00:44:11.421Z</id>
+    <id>urn:2024-03-23T00:43:14.339Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T00:44:11.421Z</updated>
+    <updated>2024-03-23T00:43:14.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dark Matter Induced Power in Quantum Devices]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.121801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.121801"/>
+        <updated>2024-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Anirban Das, Noah Kurinsky, and Rebecca K. Leane
+Sub-GeV dark matter particles can be probed via power measurements in quantum devices.
+
+[Phys. Rev. Lett. 132, 121801] Published Fri Mar 22, 2024]]></summary>
+        <author>
+            <name>Anirban Das, Noah Kurinsky, and Rebecca K. Leane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measurement of the Earth Tides with a Diamagnetic-Levitated Micro-Oscillator at Room Temperature]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.123601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.123601"/>
+        <updated>2024-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yingchun Leng, Yiming Chen, Rui Li, Lihua Wang, Hao Wang, Lei Wang, Han Xie, Chang-Kui Duan, Pu Huang, and Jiangfeng Du
+A new gravimeter is compact and stable and can detect the daily solar and lunar gravitational oscillations that are responsible for the tides.
+
+[Phys. Rev. Lett. 132, 123601] Published Fri Mar 22, 2024]]></summary>
+        <author>
+            <name>Yingchun Leng, Yiming Chen, Rui Li, Lihua Wang, Hao Wang, Lei Wang, Han Xie, Chang-Kui Duan, Pu Huang, and Jiangfeng Du</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model for the dynamics of the large-scale circulations in two-layer turbulent convection]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.033501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.033501"/>
+        <updated>2024-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yu Sun, Yi-Chao Xie, Jin-Xiao Xie, Jin-Qiang Zhong, Jianwei Zhang, and Ke-Qing Xia
+A physically motivated low-dimensional model describes properly the interaction of two vertically-aligned large-scale circulations (LSC) in two-layer turbulent convection, and predicts their preferred flow states of thermal and viscous coupling. The model reveals that flow reversals can be achieved when turbulent fluctuations drive the LSC azimuthal diffusion into a flow state such that the two LSC planes are orthogonal to each other, the strength of the LSC in the high Rayleigh number fluid layer then reduces to zero deterministically. The model provides satisfactory interpretation for the high occurrence frequency of flow reversals observed in two-layer turbulent convection.
+
+[Phys. Rev. Fluids 9, 033501] Published Fri Mar 22, 2024]]></summary>
+        <author>
+            <name>Yu Sun, Yi-Chao Xie, Jin-Xiao Xie, Jin-Qiang Zhong, Jianwei Zhang, and Ke-Qing Xia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optical coherence and spin population dynamics in $^{171}\mathrm{Yb}^{3+}$:${\mathrm{Y}}_{2}{\mathrm{SiO}}_{5}$ single crystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.094114</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.094114"/>
+        <updated>2024-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Federico Chiossi, Eloïse Lafitte-Houssat, Alban Ferrier, Sacha Welinski, Loïc Morvan, Perrine Berger, Diana Serrano, Mikael Afzelius, and Philippe Goldner
+Rare earth doped crystals are a promising platform for long-distance quantum communications, where they can perform quantum light storage. Among different systems, 171Yb3+-doped Y2SiO5 (YSO) crystals stand out because of long optical and spin coherence times, and large hyperfine splitting, enabling long-time storage over large bandwidths. Here, the authors study the mechanisms affecting the optical decoherence in a broad range of temperatures (40 mK to 18 K) using high-resolution spectroscopic techniques, and identify ways to further improve the crystal’s properties.
+
+[Phys. Rev. B 109, 094114] Published Fri Mar 22, 2024]]></summary>
+        <author>
+            <name>Federico Chiossi, Eloïse Lafitte-Houssat, Alban Ferrier, Sacha Welinski, Loïc Morvan, Perrine Berger, Diana Serrano, Mikael Afzelius, and Philippe Goldner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultrafast hybrid fermion-to-qubit mapping]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.115149</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.115149"/>
+        <updated>2024-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Oliver O'Brien and Sergii Strelchuk
+Simulating the behavior of fermionic systems is a major application of quantum computers. The key challenge for quantum algorithms that simulate such systems is how to efficiently map fermionic interactions to qubits. By meticulous combination of the most efficient mappings in one dimension – the Jordan-Wigner as well as Bravyi-Kitaev with two-dimensional Verstraete-Cirac methods – the authors derive new high-performance mappings that use fewer ancillary resources and produce shorter quantum circuits than existing techniques. Low-resource requirements make these mappings suitable for emerging quantum hardware.
+
+[Phys. Rev. B 109, 115149] Published Fri Mar 22, 2024]]></summary>
+        <author>
+            <name>Oliver O'Brien and Sergii Strelchuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sympathetic cooling of trapped ${\mathrm{Th}}^{3+}$ alpha-recoil ions for laser spectroscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.033116</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.033116"/>
+        <updated>2024-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): G. Zitzer, J. Tiedau, M. V. Okhapkin, K. Zhang, C. Mokry, J. Runke, Ch. E. Düllmann, and E. Peik
+The authors experimentally demonstrate the sympathetic cooling of Th3+ ions, captured from uranium alpha-recoil sources, in a linear Paul trap using laser-cooled 88Sr+ ions. They show the efficacy of their method via high-resolution laser spectroscopy. This demonstration is an important step in enabling the use of these ions as the reference of a highly accurate nuclear optical clock.
+
+[Phys. Rev. A 109, 033116] Published Fri Mar 22, 2024]]></summary>
+        <author>
+            <name>G. Zitzer, J. Tiedau, M. V. Okhapkin, K. Zhang, C. Mokry, J. Runke, Ch. E. Düllmann, and E. Peik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Measurement of the $^{140}\mathrm{Ce}(\mathrm{n},γ)$ Cross Section at n_TOF and Its Astrophysical Implications for the Chemical Evolution of the Universe]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.122701</id>
@@ -1212,32 +1290,6 @@ Infrared pulses can be used to generate ultrafast strains in magnetic dielectric
 [Phys. Rev. B 109, L060408] Published Fri Feb 23, 2024]]></summary>
         <author>
             <name>Maxime Gidding, Carl S. Davies, and Andrei Kirilyuk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positronium Laser Cooling via the ${1}^{3}S\text{−}{2}^{3}P$ Transition with a Broadband Laser Pulse]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.083402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.083402"/>
-        <updated>2024-02-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): L. T. Glöggler et al. (AEḡIS Collaboration)
-Researchers have managed to cool an atom-like system made of an electron and a positron using a technique commonly used in cold-atom experiments.
-
-[Phys. Rev. Lett. 132, 083402] Published Thu Feb 22, 2024]]></summary>
-        <author>
-            <name>L. T. Glöggler &lt;em&gt;et al.&lt;/em&gt; (AEḡIS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random Matrix Statistics in Propagating Correlation Fronts of Fermions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.087101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.087101"/>
-        <updated>2024-02-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kazuya Fujimoto and Tomohiro Sasamoto
-The dynamic higher-order fluctuations around the correlation front in one-dimensional noninteracting fermions can exhibit the universal behavior of the random matrix theory’s Gaussian orthogonal and symplectic ensembles.
-
-[Phys. Rev. Lett. 132, 087101] Published Thu Feb 22, 2024]]></summary>
-        <author>
-            <name>Kazuya Fujimoto and Tomohiro Sasamoto</name>
         </author>
     </entry>
 </feed>
