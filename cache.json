@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021001",
+          "author": "David G. Clark and L. F. Abbott",
+          "description": "Author(s): David G. Clark and L. F. Abbott\nA new theoretical framework for plastic neural networks predicts dynamical regimes where synapses rather than neurons primarily drive the network’s behavior, leading to an alternative candidate mechanism for working memory in the brain.\n\n[Phys. Rev. X 14, 021001] Published Mon Apr 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021001",
+          "publishedOn": "2024-04-01T10:00:00.000Z",
+          "wordCount": 2160,
+          "title": "Theory of Coupled Neuronal-Synaptic Dynamics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L041402",
+          "author": "Takuya Aoyama and Kenya Ohgushi",
+          "description": "Author(s): Takuya Aoyama and Kenya Ohgushi\nThis study presents experimental results of the piezomagnetic effect in MnTe, one of the candidate materials for altermagnets. The piezomagnetic effect is a cross-correlation between magnetization and stress that is allowed in materials with broken time-reversal symmetry. The authors observed magnetization proportional to the stress below the antiferromagnetic transition temperature, indicating that MnTe has characteristics of altermagnets. They also demonstrated that the altermagnetic domains can be controlled via the piezomagnetic effect.\n\n[Phys. Rev. Materials 8, L041402] Published Mon Apr 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L041402",
+          "publishedOn": "2024-04-01T10:00:00.000Z",
+          "wordCount": 940,
+          "title": "Piezomagnetic properties in altermagnetic MnTe",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.L041402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141501",
+          "author": "Vijay Balasubramanian, Albion Lawrence, Javier M. Magán, and Martin Sasieta",
+          "description": "Author(s): Vijay Balasubramanian, Albion Lawrence, Javier M. Magán, and Martin Sasieta\nA theoretical proposal presents a framework for microscopic explanation of the entropy of astrophysical black holes.\n\n[Phys. Rev. Lett. 132, 141501] Published Mon Apr 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141501",
+          "publishedOn": "2024-04-01T10:00:00.000Z",
+          "wordCount": 987,
+          "title": "Microscopic Origin of the Entropy of Astrophysical Black Holes",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.141501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.148101",
+          "author": "Reyhaneh A. Farimani, Zahra Ahmadian Dehaghani, Christos N. Likos, and Mohammad Reza Ejtehadi",
+          "description": "Author(s): Reyhaneh A. Farimani, Zahra Ahmadian Dehaghani, Christos N. Likos, and Mohammad Reza Ejtehadi\nThe dynamics of ring polymers under shear is strongly dependent on whether they are chemically bonded or mechanically linked\n\n[Phys. Rev. Lett. 132, 148101] Published Mon Apr 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.148101",
+          "publishedOn": "2024-04-01T10:00:00.000Z",
+          "wordCount": 926,
+          "title": "Effects of Linking Topology on the Shear Response of Connected Ring Polymers: Catenanes and Bonded Rings Flow Differently",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.148101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.109.L041601",
+          "author": "R. T. deSouza, K. Godbey, S. Hudan, and W. Nazarewicz",
+          "description": "Author(s): R. T. deSouza, K. Godbey, S. Hudan, and W. Nazarewicz\nHigh-resolution experimental fusion excitation functions for 16,17,18O + 12C reveal a remarkable irregular behavior rooted in the structure of both the colliding nuclei and the quasimolecular composite system. Using a parameter-free time-dependent Hartree-Fock model, the authors assess the influence of the angular-momentum-dependent fusion barriers on fusion. They find that barrier penetrabilities taken directly from a density-constrained calculation provide a significantly improved description of the experimental data. The results expose the remaining deviations between the mean-field predictions and experimental fusion cross sections, and suggest this approach to garner insight into the impact of nuclear structure effects on fusion reactions.\n\n[Phys. Rev. C 109, L041601] Published Mon Apr 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.109.L041601",
+          "publishedOn": "2024-04-01T10:00:00.000Z",
+          "wordCount": 888,
+          "title": "Search for beyond-mean-field signatures in heavy-ion fusion reactions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.109.L041601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.144501",
+          "author": "Anton V. Khvalyuk, Thibault Charpentier, Nicolas Roch, Benjamin Sacépé, and Mikhail V. Feigel'man",
+          "description": "Author(s): Anton V. Khvalyuk, Thibault Charpentier, Nicolas Roch, Benjamin Sacépé, and Mikhail V. Feigel'man\nThis paper reports unconventional behavior of the superfluid stiffness Θ(T) in disordered superconductors, such as to amorphous InOx. The authors unveil a remarkable power-law suppression δΘ(T)∝Tb at T≪Tc, with an exponent b∼1.6. Through a combination of experiments and theory, they reveal the influence of disorder on this phenomenon, shedding light on the existence of low-energy collective excitations. These findings redefine our understanding of dissipation in inhomogeneous superconductors, with implications for their use in quantum circuits.\n\n[Phys. Rev. B 109, 144501] Published Mon Apr 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.144501",
+          "publishedOn": "2024-04-01T10:00:00.000Z",
+          "wordCount": 2243,
+          "title": "Near power-law temperature dependence of the superfluid stiffness in strongly disordered superconductors",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.144501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.043302",
+          "author": "Dávid X. Horváth and Colin Rylands",
+          "description": "Author(s): Dávid X. Horváth and Colin Rylands\nThe authors study the full counting statistics of particle number in one-dimensional interacting Bose and Fermi gases which have been quenched far from equilibrium. They consider the time evolution of the Lieb-Liniger and Gaudin-Yang models, which could be relevant to experiments on ultracold one-dimensional gases.\n\n[Phys. Rev. A 109, 043302] Published Mon Apr 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.043302",
+          "publishedOn": "2024-04-01T10:00:00.000Z",
+          "wordCount": 1518,
+          "title": "Full counting statistics of charge in quenched quantum gases",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.043302.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.034409",
           "author": "Kristoffer Andreas Holm Støckler, Nikolaj Roth, Anders Agentoft Feidenhans'l, Seiya Takahashi, Eiji Nishibori, and Bo Brummerstedt Iversen",
           "description": "Author(s): Kristoffer Andreas Holm Støckler, Nikolaj Roth, Anders Agentoft Feidenhans'l, Seiya Takahashi, Eiji Nishibori, and Bo Brummerstedt Iversen\nAbove its charge ordering temperature, LuFe2O4 becomes disordered with local order governed by polarons originating from the mixed valence Fe sublattice. The hidden order of the Fe valence is not easily probed by conventional scattering methods. However, the correlated ion displacements associated with the polaron fluctuations extracted by 3D-ΔPDF informed Monte Carlo modeling expose aspects of this hidden order hinting at a Jahn-Teller polaronic nature of the charge carriers.\n\n[Phys. Rev. Materials 8, 034409] Published Fri Mar 29, 2024",
@@ -934,66 +1004,6 @@
           "wordCount": 1328,
           "title": "Nanoscale electronic inhomogeneities in $1T{\\text{-TaS}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.034002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.106601",
-          "author": "Lujunyu Wang, Jiaojiao Zhu, Haiyun Chen, Hui Wang, Jinjin Liu, Yue-Xin Huang, Bingyan Jiang, Jiaji Zhao, Hengjie Shi, Guang Tian, Haoyu Wang, Yugui Yao, Dapeng Yu, Zhiwei Wang, Cong Xiao, Shengyuan A. Yang, and Xiaosong Wu",
-          "description": "Author(s): Lujunyu Wang, Jiaojiao Zhu, Haiyun Chen, Hui Wang, Jinjin Liu, Yue-Xin Huang, Bingyan Jiang, Jiaji Zhao, Hengjie Shi, Guang Tian, Haoyu Wang, Yugui Yao, Dapeng Yu, Zhiwei Wang, Cong Xiao, Shengyuan A. Yang, and Xiaosong Wu\nResearchers have observed a new class of nonlinear Hall effect that can be understood through a geometric description of the electronic wave function.\n\n[Phys. Rev. Lett. 132, 106601] Published Wed Mar 06, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.106601",
-          "publishedOn": "2024-03-06T10:00:00.000Z",
-          "wordCount": 1450,
-          "title": "Orbital Magneto-Nonlinear Anomalous Hall Effect in Kagome Magnet ${\\mathrm{Fe}}_{3}{\\mathrm{Sn}}_{2}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.106601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.094407",
-          "author": "Katherine Légaré, Guillaume Barrette, Laurent Giroux, Jean-Michel Parent, Elissa Haddad, Heide Ibrahim, Philippe Lassonde, Emmanuelle Jal, Boris Vodungbo, Jan Lüning, Fabio Boschini, Nicolas Jaouen, and François Légaré",
-          "description": "Author(s): Katherine Légaré, Guillaume Barrette, Laurent Giroux, Jean-Michel Parent, Elissa Haddad, Heide Ibrahim, Philippe Lassonde, Emmanuelle Jal, Boris Vodungbo, Jan Lüning, Fabio Boschini, Nicolas Jaouen, and François Légaré\nUltrafast demagnetization occurs when magnetic materials are excited by a sudden burst of energy, such as from an ultrashort laser pulse. After generating pulses from the ultraviolet to the mid-infrared spectral regions, the authors retrieve here the ultrafast magnetic dynamics of a multilayered cobalt ferromagnet excited by femtosecond pulses with wavelengths ranging from 0.8 to 8.7 µm. A weak relationship between the excitation wavelength and the magnetic dynamics is uncovered as well as a significant effect of the pulse’s shape and duration.\n\n[Phys. Rev. B 109, 094407] Published Wed Mar 06, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.094407",
-          "publishedOn": "2024-03-06T10:00:00.000Z",
-          "wordCount": 1114,
-          "title": "Near- and mid-infrared excitation of ultrafast demagnetization in a cobalt multilayer system",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.094407.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.030702",
-          "author": "Rachel A. Margraf, James P. MacArthur, Gabriel Marcus, Heinz-Dieter Nuhn, Alberto Lutman, Aliaksei Halavanau, Zhen Zhang, and Zhirong Huang",
-          "description": "Author(s): Rachel A. Margraf, James P. MacArthur, Gabriel Marcus, Heinz-Dieter Nuhn, Alberto Lutman, Aliaksei Halavanau, Zhen Zhang, and Zhirong Huang\nMicrobunch rotation through an achromatic bend enables hard x-ray multiplexing and could be used to out-couple microbunches from a cavity based XFEL.\n\n[Phys. Rev. Accel. Beams 27, 030702] Published Tue Mar 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.030702",
-          "publishedOn": "2024-03-05T10:00:00.000Z",
-          "wordCount": 1763,
-          "title": "Microbunch rotation in an x-ray free-electron laser using a first-order achromatic bend",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.27.030702.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.033304",
-          "author": "Tangi Legrand, Falk-Richard Winkelmann, Wolfgang Alt, Dieter Meschede, Andrea Alberti, and Carrie A. Weidner",
-          "description": "Author(s): Tangi Legrand, Falk-Richard Winkelmann, Wolfgang Alt, Dieter Meschede, Andrea Alberti, and Carrie A. Weidner\nThe authors develop a method for determining the three-dimensional location of single atoms in a quantum gas microscopy system using point-spread-function engineering of the atoms’ fluorescence signal. The technique extends quantum simulation with microscopy systems into the regime of three dimensions.\n\n[Phys. Rev. A 109, 033304] Published Tue Mar 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.033304",
-          "publishedOn": "2024-03-05T10:00:00.000Z",
-          "wordCount": 1603,
-          "title": "Three-dimensional imaging of single atoms in an optical lattice via helical point-spread-function engineering",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.033304.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.034104",
-          "author": "Iván Álvarez Domenech, Javier Rodríguez-Laguna, Rodolfo Cuerno, Pedro Córdoba-Torres, and Silvia N. Santalla",
-          "description": "Author(s): Iván Álvarez Domenech, Javier Rodríguez-Laguna, Rodolfo Cuerno, Pedro Córdoba-Torres, and Silvia N. Santalla\nIn first-passage percolation one is interested in the region that can be reached from an origin within a given time. The authors show that on a square lattice with disorder, the boundary of this region behaves as a fluctuating interface in the Kardar-Parisi-Zhang universality class.\n\n[Phys. Rev. E 109, 034104] Published Mon Mar 04, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.034104",
-          "publishedOn": "2024-03-04T10:00:00.000Z",
-          "wordCount": 1114,
-          "title": "Shape effects in the fluctuations of random isochrones on a square lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.034104.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L100401",
-          "author": "Takeshi Hayashida, Ryusuke Misawa, Manfred Fiebig, and Tsuyoshi Kimura",
-          "description": "Author(s): Takeshi Hayashida, Ryusuke Misawa, Manfred Fiebig, and Tsuyoshi Kimura\nFerrotoroidic order refers to a spontaneous vortex arrangement of magnetic dipoles, which has recently been established as the fourth primary ferroic state of matter. Thus far, ferrotoroidic order has been studied extensively in insulators, but much less investigated in metallic materials. Here, the authors demonstrate the visualization of ferrotoroidic domains in metallic NdB4 by spatial distribution measurements of optical second harmonic generation (SHG). This study will stimulate research on unique functionalities of ferrotoroidic order in metals, such as an electric current induced domain switching.\n\n[Phys. Rev. B 109, L100401] Published Mon Mar 04, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L100401",
-          "publishedOn": "2024-03-04T10:00:00.000Z",
-          "wordCount": 1143,
-          "title": "Observation of ferrotoroidic domains in a metal",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L100401.png"
         }
       ]
     }
