@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-03T00:44:18.105Z</id>
+    <id>urn:2024-04-04T00:46:47.895Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T00:44:18.105Z</updated>
+    <updated>2024-04-04T00:46:47.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Design Principles for Fast and Efficient Self-Assembly Processes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021004</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.021004"/>
+        <updated>2024-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Florian M. Gartner and Erwin Frey
+A theoretical study of self-assembly finds that hexagon-shaped building blocks can form large structures faster than triangular or square blocks.
+
+[Phys. Rev. X 14, 021004] Published Wed Apr 03, 2024]]></summary>
+        <author>
+            <name>Florian M. Gartner and Erwin Frey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatiotemporal Single-Photon Airy Bullets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.143601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.143601"/>
+        <updated>2024-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jianmin Wang, Ying Zuo, Xingchang Wang, Demetrios N. Christodoulides, Georgios A. Siviloglou, and J. F. Chen
+A way to create single photons whose spatiotemporal shapes do not expand during propagation could limit information loss in future photonic quantum technologies.
+
+[Phys. Rev. Lett. 132, 143601] Published Wed Apr 03, 2024]]></summary>
+        <author>
+            <name>Jianmin Wang, Ying Zuo, Xingchang Wang, Demetrios N. Christodoulides, Georgios A. Siviloglou, and J. F. Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helimagnetism in the candidate ferroelectric ${\mathrm{CrI}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.144403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.144403"/>
+        <updated>2024-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): John A. Schneeloch, Shunshun Liu, Prasanna V. Balachandran, Qiang Zhang, and Despina Louca
+Although many other transition metal halides have been magnetically characterized, CrI2, a proposed “sliding ferroelectric”, has been overlooked. Via neutron powder diffraction, the authors report here that a screw-like helimagnetic order develops below 17 K, corresponding to a ~90º spin rotation per Cr ion along the “ribbon chains”. Calculations suggest that, as in the structurally and magnetically similar copper dihalides, the helimagnetism arises due to a sufficiently antiferromagnetic intrachain next-nearest-neighbor coupling.
+
+[Phys. Rev. B 109, 144403] Published Wed Apr 03, 2024]]></summary>
+        <author>
+            <name>John A. Schneeloch, Shunshun Liu, Prasanna V. Balachandran, Qiang Zhang, and Despina Louca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structural transition and magnetic anisotropy in $α\text{−}{\mathrm{RuCl}}_{3}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L140101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L140101"/>
+        <updated>2024-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Subin Kim, Ezekiel Horsley, Jacob P. C. Ruff, Beatriz D. Moreno, and Young-June Kim
+α-RuCl3 is a candidate for realizing the Kitaev quantum spin liquid state. Despite extensive research efforts, its crystal structure at temperatures relevant to studying Kitaev physics has been controversial. Here, the authors examine a single crystal with minimal twinning and stacking faults, allowing them to unambiguously determine the symmetry change across the structural phase transition. They find that the three-fold rotational symmetry of the honeycomb plane is restored in the low-temperature phase with symmetry group R3¯, although this symmetry is explicitly broken in the room-temperature C2/m structure.
+
+[Phys. Rev. B 109, L140101] Published Wed Apr 03, 2024]]></summary>
+        <author>
+            <name>Subin Kim, Ezekiel Horsley, Jacob P. C. Ruff, Beatriz D. Moreno, and Young-June Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Specification and design for full energy beam exploitation of the compact linear accelerator for research and applications]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.041602</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.041602"/>
+        <updated>2024-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): E. W. Snedden, D. Angal-Kalinin, A. R. Bainbridge, A. D. Brynes, S. R. Buckley, D. J. Dunning, J. R. Henderson, J. K. Jones, K. J. Middleman, T. J. Overton, T. H. Pacey, A. E. Pollard, Y. M. Saveliev, B. J. A. Shepherd, P. H. Williams, M. I. Colling, B. D. Fell, and G. Marshall
+A new beamline will provide access to ultrashort, low emittance electron bunches, which can be combined with high-power laser pulses.
+
+[Phys. Rev. Accel. Beams 27, 041602] Published Wed Apr 03, 2024]]></summary>
+        <author>
+            <name>E. W. Snedden, D. Angal-Kalinin, A. R. Bainbridge, A. D. Brynes, S. R. Buckley, D. J. Dunning, J. R. Henderson, J. K. Jones, K. J. Middleman, T. J. Overton, T. H. Pacey, A. E. Pollard, Y. M. Saveliev, B. J. A. Shepherd, P. H. Williams, M. I. Colling, B. D. Fell, and G. Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum control and noise protection of a Floquet $0\text{−}π$ qubit]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.042607</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.042607"/>
+        <updated>2024-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Zhaoyou Wang and Amir H. Safavi-Naeini
+The authors propose a Floquet qubit that is the superconducting circuit analog of a mechanical Kapitza pendulum. Under periodic driving, the bit and phase flip rates of the emerging qubit states are exponentially suppressed with respect to the ratio of the effective Josephson energy to charging energy. A cooling scheme to protect the system against charge noise is also proposed.
+
+[Phys. Rev. A 109, 042607] Published Wed Apr 03, 2024]]></summary>
+        <author>
+            <name>Zhaoyou Wang and Amir H. Safavi-Naeini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Large-$N$ Principal Chiral Model in Arbitrary External Fields]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.141602</id>
@@ -1225,84 +1303,6 @@ In this study, RNA-mediated allosteric protein regulation is proposed as a key m
 [PRX Life 2, 013012] Published Tue Mar 12, 2024]]></summary>
         <author>
             <name>Sean Hamilton, Tushar Modi, Petr Šulc, and S. Banu Ozkan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monolithic Selenium/Silicon Tandem Solar Cells]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXEnergy.3.013013</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXEnergy.3.013013"/>
-        <updated>2024-03-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Rasmus Nielsen, Andrea Crovetto, Alireza Assar, Ole Hansen, Ib Chorkendorff, and Peter C.K. Vesborg
-Experiment and device simulation are combined to explore a monolithically integrated selenium/silicon tandem solar cell, offering insights toward positioning tandem solar cells as strong contenders for photovoltaic technologies.
-
-[PRX Energy 3, 013013] Published Tue Mar 12, 2024]]></summary>
-        <author>
-            <name>Rasmus Nielsen, Andrea Crovetto, Alireza Assar, Ole Hansen, Ib Chorkendorff, and Peter C.K. Vesborg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chemomechanics in alloy phase stability]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.033801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.033801"/>
-        <updated>2024-03-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sesha Sai Behara, John C. Thomas, Brian Puchala, and Anton Van der Ven
-This work introduces a first-principles statistical mechanics method to calculate the free energies of crystalline alloys, including dependence on temperature, composition, and strain. The approach extends the alloy cluster expansion to include an explicit dependence on homogeneous strain in addition to site occupation variables that track chemical ordering. The method is applied to the Si-Ge binary alloy and is used to analyze phase stability under arbitrary epitaxial constraints. As a surrogate model, the new cluster expansion is a convenient compromise between the more restrictive configuration-only cluster expansions and machine-learned interatomic potentials, which require a substantially larger effort to train.
-
-[Phys. Rev. Materials 8, 033801] Published Tue Mar 12, 2024]]></summary>
-        <author>
-            <name>Sesha Sai Behara, John C. Thomas, Brian Puchala, and Anton Van der Ven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selective observation of enantiomeric chiral phonons in $α$-quartz]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.104306</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.104306"/>
-        <updated>2024-03-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Eiichi Oishi, Yasuhiro Fujii, and Akitoshi Koreeda
-Phonons that have angular momentum and propagate in crystals are known as chiral phonons. The authors demonstrate the selective observation of chiral phonons in α-quartz, the most typical chiral crystal, by circularly polarized Raman spectroscopy. They clarify the Raman tensors of the chiral phonons verifying the angular momentum conservation law in the Raman process, involving photons and the chiral phonon. This study suggests the possibility of controlling the angular momentum and propagation direction of chiral phonons via the Raman process.
-
-[Phys. Rev. B 109, 104306] Published Tue Mar 12, 2024]]></summary>
-        <author>
-            <name>Eiichi Oishi, Yasuhiro Fujii, and Akitoshi Koreeda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision-Spectroscopic Determination of the Binding Energy of a Two-Body Quantum System: The Hydrogen Atom and the Proton-Size Puzzle]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.113001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.113001"/>
-        <updated>2024-03-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Simon Scheidegger and Frédéric Merkt
-Researchers have measured the transition energy of several highly excited states, which could help resolve a discrepancy about the size of the proton.
-
-[Phys. Rev. Lett. 132, 113001] Published Mon Mar 11, 2024]]></summary>
-        <author>
-            <name>Simon Scheidegger and Frédéric Merkt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonequilibrium symmetry-protected topological order: Emergence of semilocal Gibbs ensembles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.115117</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.115117"/>
-        <updated>2024-03-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Maurizio Fagotti, Vanja Marić, and Lenart Zadnik
-A generic nonequilibrium quantum system relaxes locally into a state resembling a thermal one even when isolated from the environment. In one-dimensional systems at finite temperature, ordered phases are generally excluded. Consequently, although symmetry-protected topological order may be present at zero temperature, its emergence at late times is not expected. This paper uncovers a mechanism that allows symmetry-protected topological order to emerge away from equilibrium for arbitrarily long times. It is based on the existence of hidden (semilocal) symmetries associated with operators that represent local observables only in a symmetry-restricted Hilbert space.
-
-[Phys. Rev. B 109, 115117] Published Mon Mar 11, 2024]]></summary>
-        <author>
-            <name>Maurizio Fagotti, Vanja Marić, and Lenart Zadnik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary Conservation of Mechanical Strain Distributions in Functional Transitions of Protein Structures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.011042</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.011042"/>
-        <updated>2024-03-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pablo Sartori and Stanislas Leibler
-The motions within the molecule provide a new way to compare the structures and functions of similar proteins.
-
-[Phys. Rev. X 14, 011042] Published Fri Mar 08, 2024]]></summary>
-        <author>
-            <name>Pablo Sartori and Stanislas Leibler</name>
         </author>
     </entry>
 </feed>
