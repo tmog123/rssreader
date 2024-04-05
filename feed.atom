@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-04T00:46:47.895Z</id>
+    <id>urn:2024-04-05T00:45:38.609Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T00:46:47.895Z</updated>
+    <updated>2024-04-05T00:45:38.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kerr-Enhanced Optical Spring]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.143602</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.143602"/>
+        <updated>2024-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sotatsu Otabe, Wataru Usukura, Kaido Suzuki, Kentaro Komori, Yuta Michimura, Ken-ichi Harada, and Kentaro Somiya
+Adding a nonlinear crystal to an optical spring can change the spring’s stiffness, a finding that could allow the use of such devices as gravitational-wave detectors.
+
+[Phys. Rev. Lett. 132, 143602] Published Thu Apr 04, 2024]]></summary>
+        <author>
+            <name>Sotatsu Otabe, Wataru Usukura, Kaido Suzuki, Kentaro Komori, Yuta Michimura, Ken-ichi Harada, and Kentaro Somiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dislike of general opinion makes for tight elections]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.044106</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.044106"/>
+        <updated>2024-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): O. Devauchelle, P. Szymczak, and P. Nowakowski
+The authors investigate an Ising model of an electorate in which voters are influenced by opinion polls, as well as by their neighbors. The voters hold one of two opposite opinions. The work shows that opinion polls tend to bring about polarized societies, with spatially separated groups having different opinions. The authors discuss factors that influence the voters and note that electorates with greater than a million voters tend to have very close elections.
+
+[Phys. Rev. E 109, 044106] Published Thu Apr 04, 2024]]></summary>
+        <author>
+            <name>O. Devauchelle, P. Szymczak, and P. Nowakowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$B→{D}^{*}ℓ{ν}_{ℓ}$ semileptonic form factors from lattice QCD with Möbius domain-wall quarks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.074503</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.074503"/>
+        <updated>2024-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Y. Aoki, B. Colquhoun, H. Fukaya, S. Hashimoto, T. Kaneko, R. Kellermann, J. Koponen, and E. Kou (JLQCD Collaboration)
+The authors compute the semileptonic form factors for B→D* decay in lattice QCD with a sophisticated chiral fermion formulation. They control all systematic errors. They use their result to obtain a standard model prediction for the decay ratio R(D*) that is consistent with previous lattice QCD results.
+
+[Phys. Rev. D 109, 074503] Published Thu Apr 04, 2024]]></summary>
+        <author>
+            <name>Y. Aoki, B. Colquhoun, H. Fukaya, S. Hashimoto, T. Kaneko, R. Kellermann, J. Koponen, and E. Kou (JLQCD Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detection of magnetic galactic binaries in quasicircular orbit with LISA]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.083003</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.083003"/>
+        <updated>2024-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): E. Savalle, A. Bourgoin, C. Le Poncin-Lafitte, S. Mathis, M.-C. Angonin, and C. Aykroyd
+Gravitational waves from merging Galactic binary stars will be a major source population detected by the future LASER Interferometry Space Antenna (LISA) mission. The authors demonstrate that, to establish population statistics and obtain insight into the nature and origin of magnetic fields, it is imperative that LISA data analysis properly model magnetism and eccentricity in these systems.
+
+[Phys. Rev. D 109, 083003] Published Thu Apr 04, 2024]]></summary>
+        <author>
+            <name>E. Savalle, A. Bourgoin, C. Le Poncin-Lafitte, S. Mathis, M.-C. Angonin, and C. Aykroyd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of quasiparticle-vibration coupling on Gamow-Teller strength and $β$ decay with the Skyrme proton-neutron finite-amplitude method]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.109.044308</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.109.044308"/>
+        <updated>2024-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Qunqun Liu, Jonathan Engel, Nobuo Hinohara, and Markus Kortelainen
+The authors extend the proton-neutron finite-amplitude method, an iterative and efficient form of the Skyrme quasiparticle random-phase approximation that needs no diagonalization of the pn QRPA matrix, for the coupling of quasiparticles to like-particle phonons. With this approach one can add beyond-QRPA correlations to computations of important nuclear properties such as Gamow-Teller strength and β-decay rates in deformed nuclei. The results show improved agreement with existing data for several deformed nuclei, a promising step toward a more reliable framework for large-scale β-decay calculations needed, e.g., for r-process modeling.
+
+[Phys. Rev. C 109, 044308] Published Thu Apr 04, 2024]]></summary>
+        <author>
+            <name>Qunqun Liu, Jonathan Engel, Nobuo Hinohara, and Markus Kortelainen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design Principles for Fast and Efficient Self-Assembly Processes]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021004</id>
@@ -1238,71 +1303,6 @@ Computationally challenging 3D hybrid simulations of magnetic reconnection for m
 [Phys. Rev. Lett. 132, 115201] Published Thu Mar 14, 2024]]></summary>
         <author>
             <name>Qile Zhang, Fan Guo, William Daughton, Hui Li, Ari Le, Tai Phan, and Mihir Desai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin-Orbit Excitons in a Correlated Metal: Raman Scattering Study of ${\mathrm{Sr}}_{2}{\mathrm{RhO}}_{4}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.116502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.116502"/>
-        <updated>2024-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lichen Wang, Huimei Liu, Valentin Zimmermann, Arvind Kumar Yogi, Masahiko Isobe, Matteo Minola, Matthias Hepting, Giniyat Khaliullin, and Bernhard Keimer
-A combined Raman scattering and theoretical study of spin-orbit excitations in Sr2RhO4 reveals unusual but well-defined excitations around 230 meV that are excitonic transitions between the spin-orbit multiplets of the Rh ions, excitations analogous to those recently observed in the Mott insulators Sr2IrO4 and RuCl3.
-
-[Phys. Rev. Lett. 132, 116502] Published Thu Mar 14, 2024]]></summary>
-        <author>
-            <name>Lichen Wang, Huimei Liu, Valentin Zimmermann, Arvind Kumar Yogi, Masahiko Isobe, Matteo Minola, Matthias Hepting, Giniyat Khaliullin, and Bernhard Keimer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signatures of Majorana bound states in the diffraction patterns of extended superconductor–topological insulator–superconductor Josephson junctions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.094511</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.094511"/>
-        <updated>2024-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Guang Yue, Can Zhang, Erik D. Huemiller, Jessica H. Montone, Gilbert R. Arias, Drew G. Wild, Jered Y. Zhang, David R. Hamilton, Xiaoyu Yuan, Xiong Yao, Deepti Jain, Jisoo Moon, Maryam Salehi, Nikesh Koirala, Seongshik Oh, and Dale J. Van Harlingen
-Lateral Josephson junctions with topological insulator barriers (S-TI-S junctions) have been proposed as a platform to support Majorana bound states that can be used for topologically protected quantum processing. Here, the authors present a compilation of measurements of the critical current versus magnetic field diffraction patterns of such junctions and compare them to a model incorporating Majorana states, taking into account the effects of junction disorder and Majorana parity fluctuations. They observe entry features and lifting of odd nodes consistent with this picture.
-
-[Phys. Rev. B 109, 094511] Published Thu Mar 14, 2024]]></summary>
-        <author>
-            <name>Guang Yue, Can Zhang, Erik D. Huemiller, Jessica H. Montone, Gilbert R. Arias, Drew G. Wild, Jered Y. Zhang, David R. Hamilton, Xiaoyu Yuan, Xiong Yao, Deepti Jain, Jisoo Moon, Maryam Salehi, Nikesh Koirala, Seongshik Oh, and Dale J. Van Harlingen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temperature-induced structural and electronic phase transitions in <i>λ</i>-phase $\mathrm{T}{\mathrm{i}}_{3}{\mathrm{O}}_{5}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.035002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.035002"/>
-        <updated>2024-03-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): K. Yoshimatsu, H. Nakao, and H. Kumigashira
-Metastable λ-Ti3O5, which undergoes phase transition to other polymorphs by external stimuli such as light, pressure, and temperature, is a candidate material for optolectronic and heat-storage devices. Here, the authors investigate the changes in the electrical and structural properties of λ-Ti3O5 with a single-crystalline thin film form across the temperature-induced phase transition. Resistivity and synchrotron X-ray diffraction measurements unveils a complex phase diagram divided into three temperature regions, which is composed of metal-insulator transition and second-order structural phase transition.
-
-[Phys. Rev. Materials 8, 035002] Published Wed Mar 13, 2024]]></summary>
-        <author>
-            <name>K. Yoshimatsu, H. Nakao, and H. Kumigashira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hydrodynamic Mechanism for Clumping along the Equatorial Rings of SN1987A and Other Stars]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.111201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.111201"/>
-        <updated>2024-03-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michael J. Wadas, William J. White, Heath J. LeFevre, Carolyn C. Kuranz, Aaron Towne, and Eric Johnsen
-The clumpy structure of a ring of gas ejected by the progenitor star of the supernova 1987A could have formed when vortices in the gas interacted.
-
-[Phys. Rev. Lett. 132, 111201] Published Wed Mar 13, 2024]]></summary>
-        <author>
-            <name>Michael J. Wadas, William J. White, Heath J. LeFevre, Carolyn C. Kuranz, Aaron Towne, and Eric Johnsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RNA-induced Allosteric Coupling Drives Viral Capsid Assembly]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXLife.2.013012</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXLife.2.013012"/>
-        <updated>2024-03-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sean Hamilton, Tushar Modi, Petr Šulc, and S. Banu Ozkan
-In this study, RNA-mediated allosteric protein regulation is proposed as a key mechanism driving viral capsid formation, revealing how single mutations can disrupt viral assembly and identifying new targets for antiviral treatments.
-
-[PRX Life 2, 013012] Published Tue Mar 12, 2024]]></summary>
-        <author>
-            <name>Sean Hamilton, Tushar Modi, Petr Šulc, and S. Banu Ozkan</name>
         </author>
     </entry>
 </feed>
