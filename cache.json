@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.146303",
+          "author": "Milena Milich, Hunter B. Schonfeld, Konstantinos Boboridis, Davide Robba, Luka Vlahovic, Rudy J. M. Konings, Jeffrey L. Braun, John T. Gaskins, Niraj Bhatt, Ashutosh Giri, and Patrick E. Hopkins",
+          "description": "Author(s): Milena Milich, Hunter B. Schonfeld, Konstantinos Boboridis, Davide Robba, Luka Vlahovic, Rudy J. M. Konings, Jeffrey L. Braun, John T. Gaskins, Niraj Bhatt, Ashutosh Giri, and Patrick E. Hopkins\nA radiometry technique directly measures thermal conductivity in molten metals and confirms the relationship with electrical resistivity.\n\n[Phys. Rev. Lett. 132, 146303] Published Fri Apr 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.146303",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1550,
+          "title": "Validation of the Wiedemann-Franz Law in Solid and Molten Tungsten above 2000 K through Thermal Conductivity Measurements via Steady-State Temperature Differential Radiometry",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.146303.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.044603",
+          "author": "Shiyu Lyu, Jiaqing Kou, and Nikolaus A. Adams",
+          "description": "Author(s): Shiyu Lyu, Jiaqing Kou, and Nikolaus A. Adams\nIn this work, we developed a novel framework for incorporating the near-wall non-overlapping domain decomposition (NDD) method with the machine learning technique. It allows the solution to be calculated with a Robin-type (slip) wall boundary condition on a relatively coarse mesh and then be corrected in the near-wall region by solving the thin boundary-layer equations on a fine subgrid. Through an estimated turbulent viscosity profile provided by a neural network, the proposed method can be easily extended to different turbulence models and achieve commendable accuracy for the test cases of turbulent wall-bounded flows at various Reynolds numbers.\n\n[Phys. Rev. Fluids 9, 044603] Published Fri Apr 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.044603",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1256,
+          "title": "Machine-learning-augmented domain decomposition method for near-wall turbulence modeling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.044603.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.134407",
+          "author": "Fei Gao, Weijun Ren, Chin-Wei Wang, S. Yano, Stuart Calder, Qiang Zhang, Hengheng Wu, Meng An, Yanpei Jing, Bing Li, and Zhidong Zhang",
+          "description": "Author(s): Fei Gao, Weijun Ren, Chin-Wei Wang, S. Yano, Stuart Calder, Qiang Zhang, Hengheng Wu, Meng An, Yanpei Jing, Bing Li, and Zhidong Zhang\nHigh-order harmonics and the reverse of the squaring-up process is uncovered in the evolution of magnetic orders of the centrosymmetric layered triangular-lattice magnet HoPdAl4Ge2. Ho3+ spins order antiferromagnetically as a transverse spin density wave below 10.5 K. Upon further cooling through 5.5 K, the high-order harmonics develop, suggesting a “squaring up” process. It is surprising that the squaring up process does not continue down to 0 K but reverses the trend below ~3 K or by applying a small magnetic field.\n\n[Phys. Rev. B 109, 134407] Published Fri Apr 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.134407",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1516,
+          "title": "High-order harmonics and the reverse of the squaring up process in the triangular-lattice magnet ${\\mathrm{HoPdAl}}_{4}{\\mathrm{Ge}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.134407.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.134408",
+          "author": "H. Dawczak-Dębicki, K. Kliemt, M. V. Ale Crivillero, R. Küchler, C. Krellner, O. Stockert, and S. Wirth",
+          "description": "Author(s): H. Dawczak-Dębicki, K. Kliemt, M. V. Ale Crivillero, R. Küchler, C. Krellner, O. Stockert, and S. Wirth\nThe tetragonal 122 family of compounds exhibits a wide variety of intriguing phenomena, many of which are intimately related to their magnetic properties. Here, the magnetic phase diagrams of DyRh2Si2 and HoRh2Si2 are explored in detail by extremely sensitive thermal expansion and magnetostriction measurements. Some similarities can be attributed to comparable crystalline electric fields in these compounds, while an additional transition is revealed for HoRh2Si2 just below the Néel temperature (TN) and analyzed via the magnetic Grüneisen ratio.\n\n[Phys. Rev. B 109, 134408] Published Fri Apr 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.134408",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1422,
+          "title": "Coupling between magnetic and thermodynamic properties in $R{\\mathrm{Rh}}_{2}{\\mathrm{Si}}_{2}\\phantom{\\rule{4pt}{0ex}}(R$ = Dy, Ho)",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.134408.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.144505",
+          "author": "Zachary M. Raines, Shang-Shun Zhang, and Andrey V. Chubukov",
+          "description": "Author(s): Zachary M. Raines, Shang-Shun Zhang, and Andrey V. Chubukov\nThe superfluid stiffness Ds(T) is one of the key characteristics of a superconductor, determining the magnetic penetration length and, in two dimensions, the critical temperature. For Galilean invariant systems, it is known that the zero-temperature stiffness takes a universal value DsGal = nm (T=0), while for non-Galilean invariant systems the superfluid stiffness may be suppressed. Here, the authors demonstrate when and how vertex corrections may cancel suppression of the superfluid stiffness at strong coupling.\n\n[Phys. Rev. B 109, 144505] Published Fri Apr 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.144505",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1261,
+          "title": "Superfluid stiffness within Eliashberg theory: The role of vertex corrections",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.144505.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.143602",
           "author": "Sotatsu Otabe, Wataru Usukura, Kaido Suzuki, Kentaro Komori, Yuta Michimura, Ken-ichi Harada, and Kentaro Somiya",
           "description": "Author(s): Sotatsu Otabe, Wataru Usukura, Kaido Suzuki, Kentaro Komori, Yuta Michimura, Ken-ichi Harada, and Kentaro Somiya\nAdding a nonlinear crystal to an optical spring can change the spring’s stiffness, a finding that could allow the use of such devices as gravitational-wave detectors.\n\n[Phys. Rev. Lett. 132, 143602] Published Thu Apr 04, 2024",
@@ -954,56 +1004,6 @@
           "wordCount": 1928,
           "title": "Kitaev-Heisenberg model on the star lattice: From chiral Majorana fermions to chiral triplons",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.094421.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.033109",
-          "author": "Qiaorui Gong, SiLiang Tao, Shanming Li, Guoliang Deng, Chengchun Zhao, and Yin Hang",
-          "description": "Author(s): Qiaorui Gong, SiLiang Tao, Shanming Li, Guoliang Deng, Chengchun Zhao, and Yin Hang\nThe authors study the feasibility of using Th:BaLiF3 single crystal as a solid-state nuclear clock material through density-functional-theory calculations. The authors then grow and characterize the crystal in the lab, demonstrating its potential for creating a solid-state nuclear clock in the future.\n\n[Phys. Rev. A 109, 033109] Published Fri Mar 15, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.033109",
-          "publishedOn": "2024-03-15T10:00:00.000Z",
-          "wordCount": 1174,
-          "title": "Feasibility and potential of a thorium-doped barium-lithium-fluoride single crystal as a candidate for solid-state nuclear optical clock material",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.033109.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.033110",
-          "author": "Christian Saugbjerg Lange, Thomas Hansen, and Lars Bojer Madsen",
-          "description": "Author(s): Christian Saugbjerg Lange, Thomas Hansen, and Lars Bojer Madsen\nIn this paper, the authors use a fully quantum-mechanical description to study the effect of electron-electron correlations on the quantum state of light emitted via high-harmonic generation. The work represents a crucial step toward a fully quantized description of the interaction between intense laser fields and complex systems, with potential applications in quantum light engineering.\n\n[Phys. Rev. A 109, 033110] Published Fri Mar 15, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.033110",
-          "publishedOn": "2024-03-15T10:00:00.000Z",
-          "wordCount": 1265,
-          "title": "Electron-correlation-induced nonclassicality of light from high-order harmonic generation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.033110.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.033516",
-          "author": "Pedro Parra-Rivas, Yifan Sun, Fabio Mangini, Mario Ferraro, Mario Zitelli, and Stefan Wabnitz",
-          "description": "Author(s): Pedro Parra-Rivas, Yifan Sun, Fabio Mangini, Mario Ferraro, Mario Zitelli, and Stefan Wabnitz\nThe authors study the formation of three-dimensional spatiotemporal solitons in waveguides with a parabolic refractive index profile and pure quartic chromatic dispersion using variational and numerical methods. They find that pure quartic spatiotemporal solitons remain stable within a significantly larger energy range with respect to their second-order dispersion counterparts.\n\n[Phys. Rev. A 109, 033516] Published Fri Mar 15, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.033516",
-          "publishedOn": "2024-03-15T10:00:00.000Z",
-          "wordCount": 872,
-          "title": "Pure quartic three-dimensional spatiotemporal Kerr solitons in graded-index media",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.033516.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.036201",
-          "author": "Christian Pederson, Rajiv Giridharagopal, Fang Zhao, Scott T. Dunham, Yevgeny Raitses, David S. Ginger, and Kai-Mei C. Fu",
-          "description": "Author(s): Christian Pederson, Rajiv Giridharagopal, Fang Zhao, Scott T. Dunham, Yevgeny Raitses, David S. Ginger, and Kai-Mei C. Fu\nPrecise control of diamond’s surface termination is crucial for electronic devices and the charge stability of shallow, implanted color centers for quantum devices, such as the nitrogen-vacancy (NV) and silicon-vacancy (SiV) center. Previously, such surface control relied on aggressive treatments, such as annealing, plasma exposure, or strong acids, but here the authors demonstrate a novel technique utilizing a laser under ambient conditions. This technique is demonstrated on NV and SiV centers, with optical spatial resolution and continuous optical feedback. They are able to image the change in the diamond’s work function through Kelvin probe force microscopy, and determine the mechanism as laser-assisted oxidation.\n\n[Phys. Rev. Materials 8, 036201] Published Thu Mar 14, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.036201",
-          "publishedOn": "2024-03-14T10:00:00.000Z",
-          "wordCount": 1402,
-          "title": "Optical tuning of the diamond Fermi level measured by correlated scanning probe microscopy and quantum defect spectroscopy",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.036201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.115201",
-          "author": "Qile Zhang, Fan Guo, William Daughton, Hui Li, Ari Le, Tai Phan, and Mihir Desai",
-          "description": "Author(s): Qile Zhang, Fan Guo, William Daughton, Hui Li, Ari Le, Tai Phan, and Mihir Desai\nComputationally challenging 3D hybrid simulations of magnetic reconnection for multiple ion species give insights into the acceleration process for heavy ions and energy spectra compatible with in-situ spacecraft observations.\n\n[Phys. Rev. Lett. 132, 115201] Published Thu Mar 14, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.115201",
-          "publishedOn": "2024-03-14T10:00:00.000Z",
-          "wordCount": 1120,
-          "title": "Multispecies Ion Acceleration in 3D Magnetic Reconnection with Hybrid-Kinetic Simulations",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.115201.png"
         }
       ]
     }
