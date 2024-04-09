@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-08T00:46:40.292Z</id>
+    <id>urn:2024-04-09T00:45:37.553Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T00:46:40.292Z</updated>
+    <updated>2024-04-09T00:45:37.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Parameter-Free Tour of the Binary Black Hole Population]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021005</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.021005"/>
+        <updated>2024-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thomas A. Callister and Will M. Farr
+A new model describes the population of black hole binaries without assumptions on the shape of their distribution—a capability that could boost the discovery potential of gravitational-wave observations.
+
+[Phys. Rev. X 14, 021005] Published Mon Apr 08, 2024]]></summary>
+        <author>
+            <name>Thomas A. Callister and Will M. Farr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analytic third-order QCD corrections to top-quark and semileptonic $b→u$ decays]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.L071503</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.L071503"/>
+        <updated>2024-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Long-Bin Chen, Hai Tao Li, Zhao Li, Jian Wang, Yefan Wang, and Quan-feng Wu
+The authors compute the leading color contribution to the third-order QCD correction to the top quark decay width analytically. They additionally obtain the leading color third-order QCD correction to the inclusive semileptonic b→u decay.
+
+[Phys. Rev. D 109, L071503] Published Mon Apr 08, 2024]]></summary>
+        <author>
+            <name>Long-Bin Chen, Hai Tao Li, Zhao Li, Jian Wang, Yefan Wang, and Quan-feng Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$^{16}\mathrm{O}$ spectral function from coupled-cluster theory: Applications to lepton-nucleus scattering]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.109.044314</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.109.044314"/>
+        <updated>2024-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. E. Sobczyk and S. Bacca
+Neutrino experiments such as long-baseline oscillation measurements can determine properties of fundamental particles, but the present systematic uncertainties, e.g., in the neutrino-nucleus cross sections, must be significantly reduced. The authors determine the 16O spectral function from an ab-initio calculation with realistic two- and three-body interactions that is benchmarked against earlier 4He results. They then obtain good results in the relativistic regime for quasi-elastic electron scattering as well as for neutrino scattering data from T2K. The predictions for both electron and neutrino scattering identify a particular need for low-energy electron-scattering data on 16O, for which a program is underway at MAMI in Germany. And being able to propagate the theoretical uncertainties to the final cross sections promises improved understanding of the anticipated more precise results from next-generation neutrino experiments.
+
+[Phys. Rev. C 109, 044314] Published Mon Apr 08, 2024]]></summary>
+        <author>
+            <name>J. E. Sobczyk and S. Bacca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Catching thermal avalanches in the disordered XXZ model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.134202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.134202"/>
+        <updated>2024-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tomasz Szołdra, Piotr Sierant, Maciej Lewenstein, and Jakub Zakrzewski
+Strong disorder in many-body quantum systems leads to many-body localization (MBL), manifested as long-time memory of the initial state. Spatial regions of anomalously weak disorder, arising due to fluctuations in the disordered potential, may act as ergodic inclusions that seed quantum avalanches and destabilize the MBL. To investigate this mechanism in a controlled setting, the authors plant ergodic inclusions by engineering regions of a weak disorder and compare the system’s time evolution with predictions of the avalanche theory.
+
+[Phys. Rev. B 109, 134202] Published Mon Apr 08, 2024]]></summary>
+        <author>
+            <name>Tomasz Szołdra, Piotr Sierant, Maciej Lewenstein, and Jakub Zakrzewski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Validation of the Wiedemann-Franz Law in Solid and Molten Tungsten above 2000 K through Thermal Conductivity Measurements via Steady-State Temperature Differential Radiometry]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.146303</id>
@@ -1251,58 +1303,6 @@ The tensor network message passing method reduces the error in the calculation o
 [Phys. Rev. Lett. 132, 117401] Published Fri Mar 15, 2024]]></summary>
         <author>
             <name>Yijia Wang, Yuwen Ebony Zhang, Feng Pan, and Pan Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stresslet in a dilute suspension of rigid spheres in an Oldroyd-B fluid]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.033301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.033301"/>
-        <updated>2024-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Boon Siong Neo and Eric S. G. Shaqfeh
-The stresslet in a dilute suspension of rigid spheres in a viscoelastic (Oldroyd-B) fluid is studied under imposed shear and uniaxial extensional flow. We observe that, due to its hyperbolic nature, the polymer constitutive equation can be directly evaluated along streamlines of the flow. Specifically, evaluating along streamlines on the particle surface, in the limit of the Newtonian flow fields, produces an analytical scaling which we evaluate and test against numerical results. This approach also provides physical insight into the mechanism driving the observed trends.
-
-[Phys. Rev. Fluids 9, 033301] Published Fri Mar 15, 2024]]></summary>
-        <author>
-            <name>Boon Siong Neo and Eric S. G. Shaqfeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interaction of soliton gases in deep-water surface gravity waves]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.034207</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.034207"/>
-        <updated>2024-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Loic Fache, Félicien Bonnefoy, Guillaume Ducrozet, François Copie, Filip Novkoski, Guillaume Ricard, Giacomo Roberti, Eric Falcon, Pierre Suret, Gennady El, and Stéphane Randoux
-A soliton gas, a large random ensemble of solitons, does not reach thermodynamic equilibrium because there are infinitely many conserved quantities. The authors report water wave experiments with two interacting jets of soliton gases, and find good quantitative agreement with the predictions of spectral kinetic theory.
-
-[Phys. Rev. E 109, 034207] Published Fri Mar 15, 2024]]></summary>
-        <author>
-            <name>Loic Fache, Félicien Bonnefoy, Guillaume Ducrozet, François Copie, Filip Novkoski, Guillaume Ricard, Giacomo Roberti, Eric Falcon, Pierre Suret, Gennady El, and Stéphane Randoux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microscopic optical potentials for medium-mass isotopes derived at the first order of Watson multiple-scattering theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.109.034613</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.109.034613"/>
-        <updated>2024-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Vorabbi, C. Barbieri, V. Somà, P. Finelli, and C. Giusti
-Optical potentials, either phenomenological or microscopic, are used in nuclear reactions to reduce the complexity of the quantum many-body scattering to a tractable one-body problem. In this work the authors extend to heavier nuclei a highly predictive microscopic approach based on ab-initio self-consistent Green’s function (SCGF) calculations that use NN and 3N chiral interactions as the only input. The computed elastic proton scattering off Ca and Ni isotope chains demonstrate the stability of the SCGF input, a method that requires only polynomial scaling of computational resources and reaches masses up to 140 nucleons or more. The predictive power of their optical potential promises interesting implications for studying nuclei away from stability, a frontier in nuclear science including nuclear astrophysics in the coming years.
-
-[Phys. Rev. C 109, 034613] Published Fri Mar 15, 2024]]></summary>
-        <author>
-            <name>M. Vorabbi, C. Barbieri, V. Somà, P. Finelli, and C. Giusti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kitaev-Heisenberg model on the star lattice: From chiral Majorana fermions to chiral triplons]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.094421</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.094421"/>
-        <updated>2024-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. d'Ornellas and J. Knolle
-Recently, the Kitaev Heisenberg model has attracted considerable interest as a description of Kitaev materials. On the honeycomb lattice, it has a phase diagram containing two spin-liquid and four magnetically ordered phases. Here, the authors consider this model on a lattice that breaks bipartite symmetry, frustrating the formation of antiferromagnetic order. Using mean field theory and DMRG, they find that this leads to the formation of two novel valence bond solid phases with a rich topological phase diagram and protected edge modes.
-
-[Phys. Rev. B 109, 094421] Published Fri Mar 15, 2024]]></summary>
-        <author>
-            <name>P. d'Ornellas and J. Knolle</name>
         </author>
     </entry>
 </feed>
