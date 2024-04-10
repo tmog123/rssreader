@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.151901",
+          "author": "M. Ablikim <em>et al.</em> (BESIII Collaboration)",
+          "description": "Author(s): M. Ablikim et al. (BESIII Collaboration)\nA signal from the decay products of a meson—a quark and an antiquark—comes from two subatomic particles and not one, as previously thought.\n\n[Phys. Rev. Lett. 132, 151901] Published Tue Apr 09, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.151901",
+          "publishedOn": "2024-04-09T10:00:00.000Z",
+          "wordCount": 973,
+          "title": "Observation of the Anomalous Shape of $X(1840)$ in $J/ψ→γ3({π}^{+}{π}^{−})$ Indicating a Second Resonance Near $p\\overline{p}$ Threshold",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.151901.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L140403",
+          "author": "Muhammad Waleed Khalid, Ali Akbar, Jeongho Ha, Mohammed Salah El Hadri, Alexander V. Sergienko, Eric E. Fullerton, and Abdoulaye Ndao",
+          "description": "Author(s): Muhammad Waleed Khalid, Ali Akbar, Jeongho Ha, Mohammed Salah El Hadri, Alexander V. Sergienko, Eric E. Fullerton, and Abdoulaye Ndao\nBy examining the complex interactions between light and magnetism, this work uncovers the dominant role played by light’s spin angular momentum in magnetic all-optical switching (AOS) using Co/Pt ferromagnetic thin films. The authors use femtosecond vortex beams to demonstrate that the topological charge and orbital angular momentum’s handedness are inconsequential. As a result, this research enhances our comprehension and underscores the pivotal correlation between the angular momentum of light and magnetization dynamics.\n\n[Phys. Rev. B 109, L140403] Published Tue Apr 09, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L140403",
+          "publishedOn": "2024-04-09T10:00:00.000Z",
+          "wordCount": 941,
+          "title": "Role of photonic angular momentum in all-optical magnetic switching",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L140403.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021005",
           "author": "Thomas A. Callister and Will M. Farr",
           "description": "Author(s): Thomas A. Callister and Will M. Farr\nA new model describes the population of black hole binaries without assumptions on the shape of their distribution—a capability that could boost the discovery potential of gravitational-wave observations.\n\n[Phys. Rev. X 14, 021005] Published Mon Apr 08, 2024",
@@ -351,7 +371,7 @@
           "description": "Author(s): Kristoffer Andreas Holm Støckler, Nikolaj Roth, Anders Agentoft Feidenhans'l, Seiya Takahashi, Eiji Nishibori, and Bo Brummerstedt Iversen\nAbove its charge ordering temperature, LuFe2O4 becomes disordered with local order governed by polarons originating from the mixed valence Fe sublattice. The hidden order of the Fe valence is not easily probed by conventional scattering methods. However, the correlated ion displacements associated with the polaron fluctuations extracted by 3D-ΔPDF informed Monte Carlo modeling expose aspects of this hidden order hinting at a Jahn-Teller polaronic nature of the charge carriers.\n\n[Phys. Rev. Materials 8, 034409] Published Fri Mar 29, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.034409",
           "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 1494,
+          "wordCount": 1493,
           "title": "Models of polaron fluctuations in $\\mathrm{LuF}{\\mathrm{e}}_{2}{\\mathrm{O}}_{4}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.034409.png"
         },
@@ -431,7 +451,7 @@
           "description": "Author(s): Nhat-Tan Phan, Nitin Prasad, Abderrazak Hakam, Ahmed Sidi El Valli, Lorena Anghel, Luana Benetti, Advait Madhavan, Alex S. Jenkins, Ricardo Ferreira, Mark D. Stiles, Ursula Ebels, and Philippe Talatchian\nUnbiased sources of true randomness are crucial for the next generation of encryption applications and stochastic computing in various fields, yet achieving such randomness without bias has remained technically challenging. This study introduces an innovative hardware approach, utilizing the intrinsic balance of phase noise in a spintronic nano-oscillator synchronized at twice its natural frequency to overcome bias in random bitstream generation at room temperature. The method generates truly random bitstreams with efficiency and reliability that is expected to significantly impact cybersecurity, advanced computing, and more.\n\n[Phys. Rev. Applied 21, 034063] Published Fri Mar 29, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.034063",
           "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 1789,
+          "wordCount": 1790,
           "title": "Unbiased random bitstream generation using injection-locked spin-torque nano-oscillators",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.034063.png"
         },
@@ -984,26 +1004,6 @@
           "wordCount": 1082,
           "title": "Direct Observation of Sub-Poissonian Temporal Statistics in a Continuous Free-Electron Beam with Subpicosecond Resolution",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.115001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.117102",
-          "author": "Isidoro González-Adalid Pemartín, Emanuel Mompó, Antonio Lasanta, Víctor Martín-Mayor, and Jesús Salas",
-          "description": "Author(s): Isidoro González-Adalid Pemartín, Emanuel Mompó, Antonio Lasanta, Víctor Martín-Mayor, and Jesús Salas\nEquilibrium observables can control nonequilibrium dynamics such as anomalous heating and cooling effects.\n\n[Phys. Rev. Lett. 132, 117102] Published Fri Mar 15, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.117102",
-          "publishedOn": "2024-03-15T10:00:00.000Z",
-          "wordCount": 1237,
-          "title": "Shortcuts of Freely Relaxing Systems Using Equilibrium Physical Observables",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.117102.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.117401",
-          "author": "Yijia Wang, Yuwen Ebony Zhang, Feng Pan, and Pan Zhang",
-          "description": "Author(s): Yijia Wang, Yuwen Ebony Zhang, Feng Pan, and Pan Zhang\nThe tensor network message passing method reduces the error in the calculation of local observables by several orders of magnitude compared with state-of-the-art techniques.\n\n[Phys. Rev. Lett. 132, 117401] Published Fri Mar 15, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.117401",
-          "publishedOn": "2024-03-15T10:00:00.000Z",
-          "wordCount": 1149,
-          "title": "Tensor Network Message Passing",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.117401.png"
         }
       ]
     }

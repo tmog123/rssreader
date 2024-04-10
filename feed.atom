@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-09T00:45:37.553Z</id>
+    <id>urn:2024-04-10T00:44:57.485Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T00:45:37.553Z</updated>
+    <updated>2024-04-10T00:44:57.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Observation of the Anomalous Shape of $X(1840)$ in $J/ψ→γ3({π}^{+}{π}^{−})$ Indicating a Second Resonance Near $p\overline{p}$ Threshold]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.151901</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.151901"/>
+        <updated>2024-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Ablikim et al. (BESIII Collaboration)
+A signal from the decay products of a meson—a quark and an antiquark—comes from two subatomic particles and not one, as previously thought.
+
+[Phys. Rev. Lett. 132, 151901] Published Tue Apr 09, 2024]]></summary>
+        <author>
+            <name>M. Ablikim &lt;em&gt;et al.&lt;/em&gt; (BESIII Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Role of photonic angular momentum in all-optical magnetic switching]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L140403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L140403"/>
+        <updated>2024-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Muhammad Waleed Khalid, Ali Akbar, Jeongho Ha, Mohammed Salah El Hadri, Alexander V. Sergienko, Eric E. Fullerton, and Abdoulaye Ndao
+By examining the complex interactions between light and magnetism, this work uncovers the dominant role played by light’s spin angular momentum in magnetic all-optical switching (AOS) using Co/Pt ferromagnetic thin films. The authors use femtosecond vortex beams to demonstrate that the topological charge and orbital angular momentum’s handedness are inconsequential. As a result, this research enhances our comprehension and underscores the pivotal correlation between the angular momentum of light and magnetization dynamics.
+
+[Phys. Rev. B 109, L140403] Published Tue Apr 09, 2024]]></summary>
+        <author>
+            <name>Muhammad Waleed Khalid, Ali Akbar, Jeongho Ha, Mohammed Salah El Hadri, Alexander V. Sergienko, Eric E. Fullerton, and Abdoulaye Ndao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parameter-Free Tour of the Binary Black Hole Population]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021005</id>
@@ -1277,32 +1303,6 @@ A new method to measure the arrival times of electrons could aid in the design o
 [Phys. Rev. Lett. 132, 115001] Published Fri Mar 15, 2024]]></summary>
         <author>
             <name>S. Borrelli, T. C. H. de Raadt, S. B. van der Geer, P. H. A. Mutsaers, K. A. H. van Leeuwen, and O. J. Luiten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shortcuts of Freely Relaxing Systems Using Equilibrium Physical Observables]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.117102</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.117102"/>
-        <updated>2024-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Isidoro González-Adalid Pemartín, Emanuel Mompó, Antonio Lasanta, Víctor Martín-Mayor, and Jesús Salas
-Equilibrium observables can control nonequilibrium dynamics such as anomalous heating and cooling effects.
-
-[Phys. Rev. Lett. 132, 117102] Published Fri Mar 15, 2024]]></summary>
-        <author>
-            <name>Isidoro González-Adalid Pemartín, Emanuel Mompó, Antonio Lasanta, Víctor Martín-Mayor, and Jesús Salas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensor Network Message Passing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.117401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.117401"/>
-        <updated>2024-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yijia Wang, Yuwen Ebony Zhang, Feng Pan, and Pan Zhang
-The tensor network message passing method reduces the error in the calculation of local observables by several orders of magnitude compared with state-of-the-art techniques.
-
-[Phys. Rev. Lett. 132, 117401] Published Fri Mar 15, 2024]]></summary>
-        <author>
-            <name>Yijia Wang, Yuwen Ebony Zhang, Feng Pan, and Pan Zhang</name>
         </author>
     </entry>
 </feed>
