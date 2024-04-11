@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-10T00:44:57.485Z</id>
+    <id>urn:2024-04-11T00:46:04.019Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T00:44:57.485Z</updated>
+    <updated>2024-04-11T00:46:04.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Multimode Ion-Photon Entanglement over 101 Kilometers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.020308</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.5.020308"/>
+        <updated>2024-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): V. Krutyanskiy, M. Canteri, M. Meraner, V. Krcmarsky, and B.P. Lanyon
+Multiplexing entanglement attempts across multiple qubits in a quantum network node increases the entanglement rate without reducing fidelity.
+
+[PRX Quantum 5, 020308] Published Wed Apr 10, 2024]]></summary>
+        <author>
+            <name>V. Krutyanskiy, M. Canteri, M. Meraner, V. Krcmarsky, and B.P. Lanyon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verifiable Blind Quantum Computing with Trapped Ions and Single Photons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.150604</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.150604"/>
+        <updated>2024-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): P. Drmota, D. P. Nadlinger, D. Main, B. C. Nichol, E. M. Ainley, D. Leichtle, A. Mantri, E. Kashefi, R. Srinivas, G. Araneda, C. J. Ballance, and D. M. Lucas
+We report the first hybrid matter-photon implementation of verifiable blind quantum computing. We use a trapped-ion quantum server and a client-side photonic detection system networked via a fiber-optic quantum link. The availability of memory qubits and deterministic entangling gates enables intera…
+[Phys. Rev. Lett. 132, 150604] Published Wed Apr 10, 2024]]></summary>
+        <author>
+            <name>P. Drmota, D. P. Nadlinger, D. Main, B. C. Nichol, E. M. Ainley, D. Leichtle, A. Mantri, E. Kashefi, R. Srinivas, G. Araneda, C. J. Ballance, and D. M. Lucas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probe particles in odd active viscoelastic fluids: How activity and dissipation determine linear stability]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.044126</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.044126"/>
+        <updated>2024-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Charlie Duclut, Stefano Bo, Ruben Lier, Jay Armas, Piotr Surówka, and Frank Jülicher
+Odd viscoelastic materials obey fewer symmetries than traditional materials, and as a consequence exhibit unusual features. This paper reports an investigation into the motion of a probe particle in an odd viscoelastic fluid, as a means to explore the consequences of the broken symmetries.
+
+[Phys. Rev. E 109, 044126] Published Wed Apr 10, 2024]]></summary>
+        <author>
+            <name>Charlie Duclut, Stefano Bo, Ruben Lier, Jay Armas, Piotr Surówka, and Frank Jülicher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-driven reevaluation of $ft$ values in superallowed $β$ decays]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.109.045501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.109.045501"/>
+        <updated>2024-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chien-Yeah Seng and Mikhail Gorchtein
+Efforts toward a precise determination of Vud and low-energy tests of the electroweak Standard Model have been ongoing for many years. The authors report a comprehensive re-evaluation of the ft values in superallowed nuclear β decays based on a fully data-driven analysis of the nuclear β-decay form factor. They utilize isospin relations to connect the nuclear charged weak distribution to the measurable charge distributions. The approach supersedes previous shell-model estimations and allows for a rigorous quantification of theory uncertainties in the phase-space factor, using experimental input rather than nuclear models. The work identifies the need for specific future experimental research to drive further understanding toward a regime of precision that is relevant for weak-interaction physics and thus for physics beyond the Standard Model.
+
+[Phys. Rev. C 109, 045501] Published Wed Apr 10, 2024]]></summary>
+        <author>
+            <name>Chien-Yeah Seng and Mikhail Gorchtein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High sensitivity of a future search for effects of $P$-odd/$T$-odd interactions on the 0.75 eV $p$-wave resonance in $\stackrel{⃗}{n}+{}^{139}\stackrel{⃗}{\mathrm{La}}$ forward transmission determined using a pulsed neutron beam]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.109.L041602</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.109.L041602"/>
+        <updated>2024-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): R. Nakabe et al.
+Neutron transmission experiments can realize a high-sensitivity search for time-reversal invariance violation (TRIV) in nucleon-nucleon interactions through the same enhancement mechanism observed for large parity violating (PV) effects in neutron-induced compound nuclear processes. A recent polarized beam/polarized target measurement has now quantified the sensitivity for the best-known case, the 0.75 eV p-wave resonance in 139La. By determining the spin-dependent nuclear structure factor that relates TRIV and PV cross sections, this work shows that a future search for P-odd/T-odd interactions in forward transmission of polarized neutrons on polarized 139La would possess high TRIV sensitivity.
+
+[Phys. Rev. C 109, L041602] Published Wed Apr 10, 2024]]></summary>
+        <author>
+            <name>R. Nakabe &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perturbative analysis of quasiperiodic patterning of transmon quantum computers: Enhancement of many-body localization]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.144201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.144201"/>
+        <updated>2024-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Evangelos Varvelis and David P. DiVincenzo
+To be useful for quantum computation, qubits in an array must remain localized – that is, not “dressed” too much by nearby degrees of freedom. This localization has been previously achieved using disorder. But the authors observe here that a more effective route to localization is with a quasiperiodic patterning of the qubit array Hamiltonian. This paper develops two different perturbation approaches to calculate diagnostics for many-body localization in quasiperiodic superconducting transmon arrays. Perturbing in anharmonicity versus perturbing in hopping strength give complementary information.
+
+[Phys. Rev. B 109, 144201] Published Wed Apr 10, 2024]]></summary>
+        <author>
+            <name>Evangelos Varvelis and David P. DiVincenzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thickness-dependent anisotropic superconductivity and charge density wave in ${\mathrm{ZrTe}}_{3}$ down to the two-dimensional limit]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.144513</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.144513"/>
+        <updated>2024-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xinyu Chen, Changsheng Zhu, Bin Lei, Weizhuang Zhuo, Wenxiang Wang, Jiaxiang Ma, Xigang Luo, Ziji Xiang, and Xianhui Chen
+Charge density waves (CDW) accompanied by superconductivity (SC) is an enduring topic in the field of condensed matter physics for it involves exotic physical properties and quantum states. This paper presents a competitive relationship between the anisotropic SC and CDW down to the two-dimensional limit in ZrTe3, a quasi-one-dimensional material. It reveals an unusual nonmonotonic evolution versus thickness and suggests a complicated superconducting mechanism in this compound.
+
+[Phys. Rev. B 109, 144513] Published Wed Apr 10, 2024]]></summary>
+        <author>
+            <name>Xinyu Chen, Changsheng Zhu, Bin Lei, Weizhuang Zhuo, Wenxiang Wang, Jiaxiang Ma, Xigang Luo, Ziji Xiang, and Xianhui Chen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Observation of the Anomalous Shape of $X(1840)$ in $J/ψ→γ3({π}^{+}{π}^{−})$ Indicating a Second Resonance Near $p\overline{p}$ Threshold]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.151901</id>
@@ -16,6 +106,19 @@ A signal from the decay products of a meson—a quark and an antiquark—comes f
 [Phys. Rev. Lett. 132, 151901] Published Tue Apr 09, 2024]]></summary>
         <author>
             <name>M. Ablikim &lt;em&gt;et al.&lt;/em&gt; (BESIII Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lagrangian coherent structures control solute dispersion in heterogeneous poroelastic media]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.044501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.044501"/>
+        <updated>2024-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Junhong Wu, Daniel Lester, Michael G. Trefry, and Guy Metcalfe
+This study focuses on how Lagrangian coherent structures (LCSs) control solute dispersion in heterogeneous poroelastic media (HPM). We show how interactions between medium compressibility, conductivity heterogeneity, and periodic forcing give rise to complex flows and diverse LCS types (KAM islands, chaotic saddles, etc) that have profound impacts on diffusive solute transport (main image) that do not arise in the steady counterpart (inset). Strongly anomalous transport impacts both spatial moments and residence time distributions and persists at low Péclet numbers. This study reveals the complex transport phenomena that can arise in HPM and shows how LCSs govern solute dispersion.
+
+[Phys. Rev. Fluids 9, 044501] Published Tue Apr 09, 2024]]></summary>
+        <author>
+            <name>Junhong Wu, Daniel Lester, Michael G. Trefry, and Guy Metcalfe</name>
         </author>
     </entry>
     <entry>
@@ -1199,110 +1302,6 @@ Dualities between three paradigmatic models in condensed-matter physics (the two
 [Phys. Rev. Research 6, 013302] Published Tue Mar 19, 2024]]></summary>
         <author>
             <name>C. Wille, J. Eisert, and A. Altland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of $WWγ$ Production and Search for $Hγ$ Production in Proton-Proton Collisions at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.121901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.121901"/>
-        <updated>2024-03-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Hayrapetyan et al. (CMS Collaboration)
-The production of two W bosons and a photon—a standard-model process—is observed for the first time.
-
-[Phys. Rev. Lett. 132, 121901] Published Tue Mar 19, 2024]]></summary>
-        <author>
-            <name>A. Hayrapetyan &lt;em&gt;et al.&lt;/em&gt; (CMS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Current-Induced Creation of Topological Vortex Rings in a Magnetic Nanocylinder]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.126701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.126701"/>
-        <updated>2024-03-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yizhou Liu and Naoto Nagaosa
-Scientists have devised a promising method for generating and manipulating exotic spin patterns called magnetic vortex rings, which could have applications in energy-efficient data storage and processing.
-
-[Phys. Rev. Lett. 132, 126701] Published Tue Mar 19, 2024]]></summary>
-        <author>
-            <name>Yizhou Liu and Naoto Nagaosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin current leakage and Onsager reciprocity in interfacial spin-charge interconversion]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.094424</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.094424"/>
-        <updated>2024-03-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Aurélien Manchon, Shuyuan Shi, and Hyunsoo Yang
-Spintronics involves converting spin currents to charge currents and vice versa, a process that has wide-ranging applications. However, in magnetic heterostructures, the efficiency of converting spins into charges is not always equivalent to converting charges into spins. This study intends to explain this discrepancy by accounting for both interfacial and bulk spin-orbit coupling. It shows that the charge-to-spin conversion is highly sensitive to spin current leakage, whereas spin-to-charge conversion is less affected by it. As a result, spin pumping appears as a more robust process than spin-orbit torque to quantify spin-charge interconversion efficiencies.
-
-[Phys. Rev. B 109, 094424] Published Tue Mar 19, 2024]]></summary>
-        <author>
-            <name>Aurélien Manchon, Shuyuan Shi, and Hyunsoo Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amperean superconductivity cannot be induced by deep subwavelength cavities in a two-dimensional material]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.104513</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.104513"/>
-        <updated>2024-03-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gian Marcello Andolina, Antonella De Pasquale, Francesco Maria Dimitri Pellegrino, Iacopo Torre, Frank H. L. Koppens, and Marco Polini
-Amperean superconductivity is stemming from attractive effective electron-electron interactions mediated by a transverse gauge field. Amperean superconductivity has been recently proposed to occur at temperatures on the order of 1 K in two-dimensional electron gases embedded inside deep subwavelength optical cavities. Here, the authors generalize the microscopic theory of cavity-induced Amperean superconductivity to the case of graphene and then argue that this superconducting state cannot be achieved in the deep subwavelength regime.
-
-[Phys. Rev. B 109, 104513] Published Tue Mar 19, 2024]]></summary>
-        <author>
-            <name>Gian Marcello Andolina, Antonella De Pasquale, Francesco Maria Dimitri Pellegrino, Iacopo Torre, Frank H. L. Koppens, and Marco Polini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactions and Migration Rescuing Ecological Diversity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXLife.2.013014</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXLife.2.013014"/>
-        <updated>2024-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Giulia Garcia Lorenzana, Ada Altieri, and Giulio Biroli
-In this study, the authors describe the phase diagram of an ecological system with demographic noise, heterogeneous interactions, and migration, showing how mutualism can spontaneously emerge.
-
-[PRX Life 2, 013014] Published Mon Mar 18, 2024]]></summary>
-        <author>
-            <name>Giulia Garcia Lorenzana, Ada Altieri, and Giulio Biroli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topological Flat Bands in Graphene Super-Moiré Lattices]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.126401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.126401"/>
-        <updated>2024-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mohammed M. Al Ezzi, Junxiong Hu, Ariando Ariando, Francisco Guinea, and Shaffique Adam
-A super-moiré lattice in monolayer graphene generates flat bands, providing a viable platform to engineer its correlated states.
-
-[Phys. Rev. Lett. 132, 126401] Published Mon Mar 18, 2024]]></summary>
-        <author>
-            <name>Mohammed M. Al Ezzi, Junxiong Hu, Ariando Ariando, Francisco Guinea, and Shaffique Adam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Structures in the $J/ψJ/ψ$ Mass Spectrum in Proton-Proton Collisions at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.111901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.111901"/>
-        <updated>2024-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Hayrapetyan et al. (CMS Collaboration)
-Three structures, X(6900) and two new ones around 6.64 and 7.13 GeV, are seen in the J/ψJ/ψ mass spectrum that are consistent with being part of a family of radial excitations.
-
-[Phys. Rev. Lett. 132, 111901] Published Fri Mar 15, 2024]]></summary>
-        <author>
-            <name>A. Hayrapetyan &lt;em&gt;et al.&lt;/em&gt; (CMS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct Observation of Sub-Poissonian Temporal Statistics in a Continuous Free-Electron Beam with Subpicosecond Resolution]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.115001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.115001"/>
-        <updated>2024-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. Borrelli, T. C. H. de Raadt, S. B. van der Geer, P. H. A. Mutsaers, K. A. H. van Leeuwen, and O. J. Luiten
-A new method to measure the arrival times of electrons could aid in the design of future electron microscopes.
-
-[Phys. Rev. Lett. 132, 115001] Published Fri Mar 15, 2024]]></summary>
-        <author>
-            <name>S. Borrelli, T. C. H. de Raadt, S. B. van der Geer, P. H. A. Mutsaers, K. A. H. van Leeuwen, and O. J. Luiten</name>
         </author>
     </entry>
 </feed>
