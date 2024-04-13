@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.043802",
+          "author": "Ethan Berger and Hannu-Pekka Komsa",
+          "description": "Author(s): Ethan Berger and Hannu-Pekka Komsa\nWhile the efficacy of machine learning (ML) force fields in simulating molecular dynamics (MD) trajectories has already been well established, simulating Raman spectra from them requires polarizability models which are much less explored. In this work, three polarizability models are compared using three widely different materials, namely boron arsenide, 2D molybdenum disulfide and inorganic halide perovskites. The Raman spectra are obtained in combination with ML MD and compared to experiments, allowing us to highlight the advantages and shortcomings of each model.\n\n[Phys. Rev. Materials 8, 043802] Published Fri Apr 12, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.043802",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 1393,
+          "title": "Polarizability models for simulations of finite temperature Raman spectra from machine learning molecular dynamics",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.043802.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.154101",
+          "author": "A. Toffoli, A. Alberello, H. Clarke, F. Nelli, A. Benetazzo, F. Bergamasco, B. Ntamba Ntamba, M. Vichi, and M. Onorato",
+          "description": "Author(s): A. Toffoli, A. Alberello, H. Clarke, F. Nelli, A. Benetazzo, F. Bergamasco, B. Ntamba Ntamba, M. Vichi, and M. Onorato\nObservations of the Southern Ocean show that wind can produce the surface states needed to generate rare “rogue” waves.\n\n[Phys. Rev. Lett. 132, 154101] Published Fri Apr 12, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.154101",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 1141,
+          "title": "Observations of Rogue Seas in the Southern Ocean",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.154101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.158103",
+          "author": "C. M. Martens, M. Vis, and R. Tuinier",
+          "description": "Author(s): C. M. Martens, M. Vis, and R. Tuinier\nAn explicit analytical expression to predict the size of the depletion zone in like-charged polyelectrolyte-colloid mixtures allows for a direct comparison with experiments.\n\n[Phys. Rev. Lett. 132, 158103] Published Fri Apr 12, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.158103",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 841,
+          "title": "Origin of Anomalously Large Depletion Zones in Like-Charged Colloid-Polyelectrolyte Mixtures",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.158103.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.044023",
+          "author": "Y.S. Gui and C.-M. Hu",
+          "description": "Author(s): Y.S. Gui and C.-M. Hu\nThe development of gain-driven polaritons offers a fresh approach to enhancing solid-state microwave sources and amplifiers, apart from the traditional concept of the maser. Despite their potential, these polaritons are governed by intricate dynamics that remain largely unexplored, impeding practical applications. The authors employ time-domain measurements to investigate the transient response of gain-driven polaritons, revealing distinct dynamical behaviors: damping, zero damping, and antidamping. This insight could impact the engineering of ultrafast polaritonic devices tailored for coherent microwave and optical applications.\n\n[Phys. Rev. Applied 21, 044023] Published Fri Apr 12, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.044023",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 1264,
+          "title": "Transient response of a gain-driven polariton",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.044023.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.044024",
+          "author": "Jinlong Wang, Hanchen Wang, Jilei Chen, William Legrand, Peng Chen, Lutong Sheng, Jihao Xia, Guibin Lan, Yuelin Zhang, Rundong Yuan, Jing Dong, Xiufeng Han, Jean-Philippe Ansermet, and Haiming Yu",
+          "description": "Author(s): Jinlong Wang, Hanchen Wang, Jilei Chen, William Legrand, Peng Chen, Lutong Sheng, Jihao Xia, Guibin Lan, Yuelin Zhang, Rundong Yuan, Jing Dong, Xiufeng Han, Jean-Philippe Ansermet, and Haiming Yu\nSpin pumping can generate spin current by driving a magnetic system into resonance, a phenomenon that can be electrically detected via the inverse spin Hall effect. However, the efficiency of spin current generation has remained limited, compared to that of spin-to-charge conversion. This work systematically demonstrates an innovative technique for electrically probing propagating spin waves and creating spin current with high efficiency, mediated by flat-band magnons excited by broad wave vectors. These findings lay a promising foundation for further experiments with propagating spin waves.\n\n[Phys. Rev. Applied 21, 044024] Published Fri Apr 12, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.044024",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 1676,
+          "title": "Broad-wave-vector spin pumping of flat-band magnons",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.044024.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.043310",
+          "author": "Etienne F. Walraven and Tijs Karman",
+          "description": "Author(s): Etienne F. Walraven and Tijs Karman\nThe authors study the interaction between two polar molecules in rotational states differing by two or more quanta. They find that the resultant repulsive van der Waals interaction can potentially suppress collisional losses at low temperatures.\n\n[Phys. Rev. A 109, 043310] Published Fri Apr 12, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.043310",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 1203,
+          "title": "Rotational-state dependence of interactions between polar molecules",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.043310.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.023045",
           "author": "Christopher Chong, Brian Kim, Evelyn Wallace, and Chiara Daraio",
           "description": "Author(s): Christopher Chong, Brian Kim, Evelyn Wallace, and Chiara Daraio\nStructures that are localized in time and periodic in space are experimentally observed in a phononic lattice. These structures are analogous to the famous “breathers,” but with the role of time and space switched.\n\n[Phys. Rev. Research 6, 023045] Published Thu Apr 11, 2024",
@@ -711,7 +771,7 @@
           "description": "Author(s): Hikaru Watanabe, Kohei Shinohara, Takuya Nomoto, Atsushi Togo, and Ryotaro Arita\nThe authors explore here the spin-order-induced physical properties free of relativistic spin-orbit coupling. They delve into the role of spin crystallographic symmetry in disentangling spin and orbital freedoms, shedding light on contrasting aspects between magnets with zero and nonzero propagation vectors. The analysis is applied to the systematic classification of 1500 magnets in terms of electromagnetic responses arising from the spin order, making significant contributions to future explorations of spintronic phenomena based on antiferromagnets.\n\n[Phys. Rev. B 109, 094438] Published Thu Mar 28, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.094438",
           "publishedOn": "2024-03-28T10:00:00.000Z",
-          "wordCount": 1418,
+          "wordCount": 1419,
           "title": "Symmetry analysis with spin crystallographic groups: Disentangling effects free of spin-orbit coupling in emergent electromagnetism",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.094438.png"
         },
@@ -944,66 +1004,6 @@
           "wordCount": 1615,
           "title": "Model for the dynamics of the large-scale circulations in two-layer turbulent convection",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.033501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.094114",
-          "author": "Federico Chiossi, Eloïse Lafitte-Houssat, Alban Ferrier, Sacha Welinski, Loïc Morvan, Perrine Berger, Diana Serrano, Mikael Afzelius, and Philippe Goldner",
-          "description": "Author(s): Federico Chiossi, Eloïse Lafitte-Houssat, Alban Ferrier, Sacha Welinski, Loïc Morvan, Perrine Berger, Diana Serrano, Mikael Afzelius, and Philippe Goldner\nRare earth doped crystals are a promising platform for long-distance quantum communications, where they can perform quantum light storage. Among different systems, 171Yb3+-doped Y2SiO5 (YSO) crystals stand out because of long optical and spin coherence times, and large hyperfine splitting, enabling long-time storage over large bandwidths. Here, the authors study the mechanisms affecting the optical decoherence in a broad range of temperatures (40 mK to 18 K) using high-resolution spectroscopic techniques, and identify ways to further improve the crystal’s properties.\n\n[Phys. Rev. B 109, 094114] Published Fri Mar 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.094114",
-          "publishedOn": "2024-03-22T10:00:00.000Z",
-          "wordCount": 1276,
-          "title": "Optical coherence and spin population dynamics in $^{171}\\mathrm{Yb}^{3+}$:${\\mathrm{Y}}_{2}{\\mathrm{SiO}}_{5}$ single crystals",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.094114.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.115149",
-          "author": "Oliver O'Brien and Sergii Strelchuk",
-          "description": "Author(s): Oliver O'Brien and Sergii Strelchuk\nSimulating the behavior of fermionic systems is a major application of quantum computers. The key challenge for quantum algorithms that simulate such systems is how to efficiently map fermionic interactions to qubits. By meticulous combination of the most efficient mappings in one dimension – the Jordan-Wigner as well as Bravyi-Kitaev with two-dimensional Verstraete-Cirac methods – the authors derive new high-performance mappings that use fewer ancillary resources and produce shorter quantum circuits than existing techniques. Low-resource requirements make these mappings suitable for emerging quantum hardware.\n\n[Phys. Rev. B 109, 115149] Published Fri Mar 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.115149",
-          "publishedOn": "2024-03-22T10:00:00.000Z",
-          "wordCount": 1546,
-          "title": "Ultrafast hybrid fermion-to-qubit mapping",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.115149.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.033116",
-          "author": "G. Zitzer, J. Tiedau, M. V. Okhapkin, K. Zhang, C. Mokry, J. Runke, Ch. E. Düllmann, and E. Peik",
-          "description": "Author(s): G. Zitzer, J. Tiedau, M. V. Okhapkin, K. Zhang, C. Mokry, J. Runke, Ch. E. Düllmann, and E. Peik\nThe authors experimentally demonstrate the sympathetic cooling of Th3+ ions, captured from uranium alpha-recoil sources, in a linear Paul trap using laser-cooled 88Sr+ ions. They show the efficacy of their method via high-resolution laser spectroscopy. This demonstration is an important step in enabling the use of these ions as the reference of a highly accurate nuclear optical clock.\n\n[Phys. Rev. A 109, 033116] Published Fri Mar 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.033116",
-          "publishedOn": "2024-03-22T10:00:00.000Z",
-          "wordCount": 1347,
-          "title": "Sympathetic cooling of trapped ${\\mathrm{Th}}^{3+}$ alpha-recoil ions for laser spectroscopy",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.033116.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.122701",
-          "author": "S. Amaducci <em>et al.</em> (n_TOF Collaboration)",
-          "description": "Author(s): S. Amaducci et al. (n_TOF Collaboration)\nA widening gap between the cerium-140 abundance predicted by theories and that measured in observations of certain stars indicates a potential need for updated models of element formation.\n\n[Phys. Rev. Lett. 132, 122701] Published Thu Mar 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.122701",
-          "publishedOn": "2024-03-21T10:00:00.000Z",
-          "wordCount": 1044,
-          "title": "Measurement of the $^{140}\\mathrm{Ce}(\\mathrm{n},γ)$ Cross Section at n_TOF and Its Astrophysical Implications for the Chemical Evolution of the Universe",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.122701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.126402",
-          "author": "Weiwei Gao, Zhao Tang, Jijun Zhao, and James R. Chelikowsky",
-          "description": "Author(s): Weiwei Gao, Zhao Tang, Jijun Zhao, and James R. Chelikowsky\nThe spectroscopic data of hundreds of atoms can now be computed on a single workstation using the new Lanczos method in full-frequency GW calculations.\n\n[Phys. Rev. Lett. 132, 126402] Published Thu Mar 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.126402",
-          "publishedOn": "2024-03-21T10:00:00.000Z",
-          "wordCount": 950,
-          "title": "Efficient Full-Frequency GW Calculations Using a Lanczos Method",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.126402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.127401",
-          "author": "Emmy Blumenthal, Jason W. Rocks, and Pankaj Mehta",
-          "description": "Author(s): Emmy Blumenthal, Jason W. Rocks, and Pankaj Mehta\nNonreciprocal interactions in large ecosystems can give rise to a transition to chaos controlled by the ratio of surviving species to surviving resources.\n\n[Phys. Rev. Lett. 132, 127401] Published Thu Mar 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.127401",
-          "publishedOn": "2024-03-21T10:00:00.000Z",
-          "wordCount": 1015,
-          "title": "Phase Transition to Chaos in Complex Ecosystems with Nonreciprocal Species-Resource Interactions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.127401.png"
         }
       ]
     }
