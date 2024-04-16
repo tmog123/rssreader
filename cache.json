@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021010",
+          "author": "Alexander Wietek, Sylvain Capponi, and Andreas M. Läuchli",
+          "description": "Author(s): Alexander Wietek, Sylvain Capponi, and Andreas M. Läuchli\nA numerical investigation has revealed a surprising correspondence between a lattice spin model and a quantum field theory.\n\n[Phys. Rev. X 14, 021010] Published Mon Apr 15, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021010",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 2280,
+          "title": "Quantum Electrodynamics in $2+1$ Dimensions as the Organizing Principle of a Triangular Lattice Antiferromagnet",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021010.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044003",
+          "author": "Martin Panthöfer, Stefanie Berinskat, Fabian Predelli, Peter Lemmens, and Angela Möller",
+          "description": "Author(s): Martin Panthöfer, Stefanie Berinskat, Fabian Predelli, Peter Lemmens, and Angela Möller\nThis paper reports that domain-wall-like modes govern the magnetic response of the van der Waals material FeOCl. Due to boundaries, these excitations condense into an unconventional magnetic order with a diffusional dynamics as probed by Mössbauer spectroscopy and Raman scattering. These results have implications for a better understanding of fundamental aspects of soliton-like excitations as well as topological magnetism and related information storage. The authors highlight that the observed phenomenology and proposed condensation of solitons into topological edge states is a generic feature of non-linear systems with confinement.\n\n[Phys. Rev. Materials 8, 044003] Published Mon Apr 15, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044003",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 1256,
+          "title": "Confinement of magnetic solitons and edge states in a van der Waals material: FeOCl",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.044003.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044202",
+          "author": "Aaron N. Engel, Connor P. Dempsey, Hadass S. Inbar, Jason T. Dong, Shinichi Nishihaya, Yuhao Chang, Alexei V. Fedorov, Makoto Hashimoto, Donghui Lu, and Christopher J. Palmstrøm",
+          "description": "Author(s): Aaron N. Engel, Connor P. Dempsey, Hadass S. Inbar, Jason T. Dong, Shinichi Nishihaya, Yuhao Chang, Alexei V. Fedorov, Makoto Hashimoto, Donghui Lu, and Christopher J. Palmstrøm\nα-Sn, the inversion symmetric analogue of HgTe, can be tuned through various topologically non-trivial phases by a combination of strain and/or confinement effects. In addition, thin films of α-Sn have demonstrated very efficient spin-charge conversion. However, α-Sn thin films grown on InSb have been plagued by heavy incorporation of the p-type dopant indium. To better study and make use of the topological phases in α-Sn, this indium doping must be minimized. The authors realize this reduction by tuning the surface reconstruction of InSb(001) on which molecular beam epitaxy growth of α-Sn is initiated. The low indium doping is verified by both photoemission and magnetotransport measurements. The accessibility of the surface Dirac node in angle-resolved photoemission spectroscopy—made possible by the substrate preparation procedure—allows direct measurements of the effect of confinement and epitaxial strain on the topological phase in this system.\n\n[Phys. Rev. Materials 8, 044202] Published Mon Apr 15, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044202",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 1245,
+          "title": "Growth and characterization of $α$-Sn thin films on In- and Sb-rich reconstructions of InSb(001)",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.044202.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.166001",
+          "author": "Kapildeb Dolui, Lewis J. Conway, Christoph Heil, Timothy A. Strobel, Rohit P. Prasankumar, and Chris J. Pickard",
+          "description": "Author(s): Kapildeb Dolui, Lewis J. Conway, Christoph Heil, Timothy A. Strobel, Rohit P. Prasankumar, and Chris J. Pickard\nFirst-principles structure predictions across a very wide range of chemical compositions suggest that the cubic Mg2IrH6 structure is dynamically stable at zero pressure, and is computed to have a Tc of around 160K.\n\n[Phys. Rev. Lett. 132, 166001] Published Mon Apr 15, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.166001",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 1179,
+          "title": "Feasible Route to High-Temperature Ambient-Pressure Hydride Superconductivity",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.166001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.044026",
+          "author": "T. Zalewski, L. Nowak, and A. Stupakiewicz",
+          "description": "Author(s): T. Zalewski, L. Nowak, and A. Stupakiewicz\nThe ultrafast all-optical control of magnetization without relying on heat is promising for magnetic recording technology. While the magnetization switching between two stable bit states does not require control over light polarization, photomagnetic toggling of magnetization (equivalent to the XOR logic operation) can be achieved. This study probes the efficiency of a back-switching scenario between two stable bit states, using a pair of femtosecond laser pulses with either the same or orthogonal orientations of linear polarization. Such a nonthermal toggle regime not only can provide recording at rates up to 50 GHz, but also can perform basic logic operations.\n\n[Phys. Rev. Applied 21, 044026] Published Mon Apr 15, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.044026",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 1335,
+          "title": "Coherent control of photomagnetic back-switching by double-pump laser pulses",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.044026.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.043802",
           "author": "Ethan Berger and Hannu-Pekka Komsa",
           "description": "Author(s): Ethan Berger and Hannu-Pekka Komsa\nWhile the efficacy of machine learning (ML) force fields in simulating molecular dynamics (MD) trajectories has already been well established, simulating Raman spectra from them requires polarizability models which are much less explored. In this work, three polarizability models are compared using three widely different materials, namely boron arsenide, 2D molybdenum disulfide and inorganic halide perovskites. The Raman spectra are obtained in combination with ML MD and compared to experiments, allowing us to highlight the advantages and shortcomings of each model.\n\n[Phys. Rev. Materials 8, 043802] Published Fri Apr 12, 2024",
@@ -954,56 +1004,6 @@
           "wordCount": 1102,
           "title": "Adaptive quantum state estimation for two optical point sources",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.032434.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.109.035503",
-          "author": "A. Ashtari Esfahani <em>et al.</em> (Project 8 Collaboration)",
-          "description": "Author(s): A. Ashtari Esfahani et al. (Project 8 Collaboration)\nNeutrino mass is a key parameter in nuclear and particle physics and in cosmology. The Project 8 Collaboration developed an innovative method with potential to improve the current mass limits by more than an order of magnitude. Announced in a paper published last September (PRL 131, 102502; see also the Synopsis at https://physics.aps.org/articles/v16/s121), the method measures the frequency of radiation from tritium β-decay electrons spiraling in a magnetic field. In the current paper the authors provide the details of this unique measurement technique including the hardware and the role of simulations and precision spectroscopy that enabled their new direct mass measurement. This first, small-volume demonstration, along with the precision reached, shows a clear path to improve in future experiments on the conservative upper limit for the neutrino mass obtained here.\n\n[Phys. Rev. C 109, 035503] Published Mon Mar 25, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.109.035503",
-          "publishedOn": "2024-03-25T10:00:00.000Z",
-          "wordCount": 2693,
-          "title": "Cyclotron radiation emission spectroscopy of electrons from tritium $β$ decay and $^{83\\mathrm{m}}\\mathrm{Kr}$ internal conversion",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.109.035503.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.104521",
-          "author": "Clara J. Lapp, Julia M. Link, and Carsten Timm",
-          "description": "Author(s): Clara J. Lapp, Julia M. Link, and Carsten Timm\nFlat bands of surface states in noncentrosymmetric superconductors accompanied by a full gap in the bulk would be an alternative route to a strongly interacting two-dimensional Fermi system. They could provide a robust platform for quantum computation. Here, the authors explore a way to stabilize such bands in the entire surface Brillouin zone by introducing an additional spin-rotation symmetry that forces the direction of the spin-orbit-coupling vector not to depend on the momentum component, normal to the surface.\n\n[Phys. Rev. B 109, 104521] Published Mon Mar 25, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.104521",
-          "publishedOn": "2024-03-25T10:00:00.000Z",
-          "wordCount": 1345,
-          "title": "Complete zero-energy flat bands of surface states in fully gapped chiral noncentrosymmetric superconductors",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.104521.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.121801",
-          "author": "Anirban Das, Noah Kurinsky, and Rebecca K. Leane",
-          "description": "Author(s): Anirban Das, Noah Kurinsky, and Rebecca K. Leane\nSub-GeV dark matter particles can be probed via power measurements in quantum devices.\n\n[Phys. Rev. Lett. 132, 121801] Published Fri Mar 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.121801",
-          "publishedOn": "2024-03-22T10:00:00.000Z",
-          "wordCount": 944,
-          "title": "Dark Matter Induced Power in Quantum Devices",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.121801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.123601",
-          "author": "Yingchun Leng, Yiming Chen, Rui Li, Lihua Wang, Hao Wang, Lei Wang, Han Xie, Chang-Kui Duan, Pu Huang, and Jiangfeng Du",
-          "description": "Author(s): Yingchun Leng, Yiming Chen, Rui Li, Lihua Wang, Hao Wang, Lei Wang, Han Xie, Chang-Kui Duan, Pu Huang, and Jiangfeng Du\nA new gravimeter is compact and stable and can detect the daily solar and lunar gravitational oscillations that are responsible for the tides.\n\n[Phys. Rev. Lett. 132, 123601] Published Fri Mar 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.123601",
-          "publishedOn": "2024-03-22T10:00:00.000Z",
-          "wordCount": 1303,
-          "title": "Measurement of the Earth Tides with a Diamagnetic-Levitated Micro-Oscillator at Room Temperature",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.123601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.033501",
-          "author": "Yu Sun, Yi-Chao Xie, Jin-Xiao Xie, Jin-Qiang Zhong, Jianwei Zhang, and Ke-Qing Xia",
-          "description": "Author(s): Yu Sun, Yi-Chao Xie, Jin-Xiao Xie, Jin-Qiang Zhong, Jianwei Zhang, and Ke-Qing Xia\nA physically motivated low-dimensional model describes properly the interaction of two vertically-aligned large-scale circulations (LSC) in two-layer turbulent convection, and predicts their preferred flow states of thermal and viscous coupling. The model reveals that flow reversals can be achieved when turbulent fluctuations drive the LSC azimuthal diffusion into a flow state such that the two LSC planes are orthogonal to each other, the strength of the LSC in the high Rayleigh number fluid layer then reduces to zero deterministically. The model provides satisfactory interpretation for the high occurrence frequency of flow reversals observed in two-layer turbulent convection.\n\n[Phys. Rev. Fluids 9, 033501] Published Fri Mar 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.033501",
-          "publishedOn": "2024-03-22T10:00:00.000Z",
-          "wordCount": 1615,
-          "title": "Model for the dynamics of the large-scale circulations in two-layer turbulent convection",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.033501.png"
         }
       ]
     }
