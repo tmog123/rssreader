@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.020314",
+          "author": "S. C. Burd, H. M. Knaack, R. Srinivas, C. Arenz, A. L. Collopy, L. J. Stephenson, A. C. Wilson, D. J. Wineland, D. Leibfried, J. J. Bollinger, D. T. C. Allcock, and D. H. Slichter",
+          "description": "Author(s): S. C. Burd, H. M. Knaack, R. Srinivas, C. Arenz, A. L. Collopy, L. J. Stephenson, A. C. Wilson, D. J. Wineland, D. Leibfried, J. J. Bollinger, D. T. C. Allcock, and D. H. Slichter\nAn experimental demonstration shows that quantum squeezing can be used to amplify a Hamiltonian’s effect—even when the Hamiltonian is unknown.\n\n[PRX Quantum 5, 020314] Published Wed Apr 17, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.5.020314",
+          "publishedOn": "2024-04-17T10:00:00.000Z",
+          "wordCount": 2060,
+          "title": "Experimental Speedup of Quantum Dynamics through Squeezing",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.5.020314.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.164001",
+          "author": "H. Yao, P. K. Yeung, T. A. Zaki, and C. Meneveau",
+          "description": "Author(s): H. Yao, P. K. Yeung, T. A. Zaki, and C. Meneveau\nThe verification of a 63-year-old hypothesis indicates that nonequilibrium statistical mechanics could act as a theoretical framework for describing turbulence.\n\n[Phys. Rev. Lett. 132, 164001] Published Wed Apr 17, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.164001",
+          "publishedOn": "2024-04-17T10:00:00.000Z",
+          "wordCount": 1111,
+          "title": "Forward and Inverse Energy Cascade in Fluid Turbulence Adhere to Kolmogorov’s Refined Similarity Hypothesis",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.164001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.166702",
+          "author": "M. Hiraishi, H. Okabe, A. Koda, R. Kadono, T. Muroi, D. Hirai, and Z. Hiroi",
+          "description": "Author(s): M. Hiraishi, H. Okabe, A. Koda, R. Kadono, T. Muroi, D. Hirai, and Z. Hiroi\nMuon spin rotation measurements of the magnetic ground state of a high-purity single-crystal RuO2, in combination with DFT calculations, show there is no bulk antiferromagnetic order as previously reported.\n\n[Phys. Rev. Lett. 132, 166702] Published Wed Apr 17, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.166702",
+          "publishedOn": "2024-04-17T10:00:00.000Z",
+          "wordCount": 983,
+          "title": "Nonmagnetic Ground State in ${\\mathrm{RuO}}_{2}$ Revealed by Muon Spin Rotation",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.166702.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.168202",
+          "author": "James O. Cochran, Grace L. Callaghan, Miles J. G. Caven, and Suzanne M. Fielding",
+          "description": "Author(s): James O. Cochran, Grace L. Callaghan, Miles J. G. Caven, and Suzanne M. Fielding\nStrain localization in shear bands is key to the yielding and material failure of amorphous systems subject to oscillatory shear.\n\n[Phys. Rev. Lett. 132, 168202] Published Wed Apr 17, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.168202",
+          "publishedOn": "2024-04-17T10:00:00.000Z",
+          "wordCount": 1236,
+          "title": "Slow Fatigue and Highly Delayed Yielding via Shear Banding in Oscillatory Shear",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.168202.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.043803",
           "author": "Mohan Liu, Abhijith Gopakumar, Vinay Ishwar Hegde, Jiangang He, and Chris Wolverton",
           "description": "Author(s): Mohan Liu, Abhijith Gopakumar, Vinay Ishwar Hegde, Jiangang He, and Chris Wolverton\nThe authors computed bandgaps and formation energy values of more than 1100 crystalline materials‬ using Density Functional Theory (DFT) with HSE‬ and PBE approximations of the pseudopotentials. They analyzed accuracies of HSE and PBE approximations among different classes of materials. They also built a multi-fidelity machine learning model to predict the bandgap at HSE accuracy when a material’s PBE bandgap‬ is known. The new high-throughput DFT (HSE, PBE) data of more than 1100 materials and the predicted‬ HSE bandgap data of more than 21,000 materials are available publicly via a dedicated web app.\n\n[Phys. Rev. Materials 8, 043803] Published Tue Apr 16, 2024",
@@ -964,46 +1004,6 @@
           "wordCount": 1075,
           "title": "Full Classification of Transport on an Equilibrated $5/2$ Edge via Shot Noise",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.136502.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.035208",
-          "author": "Kenan Qu, Alec Griffith, and Nathaniel J. Fisch",
-          "description": "Author(s): Kenan Qu, Alec Griffith, and Nathaniel J. Fisch\nAccording to quantum electrodynamics, in very strong electromagnetic fields electron–positron pairs can be created, and with a high density of pairs an electron-positron plasma can form. In this paper, the authors simulate this process for a relativistic electron beam colliding with an intense laser pulse, and identify observations that could be used as diagnostics in future experiments.\n\n[Phys. Rev. E 109, 035208] Published Wed Mar 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.035208",
-          "publishedOn": "2024-03-27T10:00:00.000Z",
-          "wordCount": 987,
-          "title": "Pair filamentation and laser scattering in beam-driven QED cascades",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.035208.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.104433",
-          "author": "L. Facheris, S. D. Nabi, K. Yu. Povarov, Z. Yan, A. Glezer Moshe, U. Nagel, T. Rõõm, A. Podlesnyak, E. Ressouche, K. Beauvois, J. R. Stewart, P. Manuel, D. Khalyavin, F. Orlandi, and A. Zheludev",
-          "description": "Author(s): L. Facheris, S. D. Nabi, K. Yu. Povarov, Z. Yan, A. Glezer Moshe, U. Nagel, T. Rõõm, A. Podlesnyak, E. Ressouche, K. Beauvois, J. R. Stewart, P. Manuel, D. Khalyavin, F. Orlandi, and A. Zheludev\nGeometric frustration, magnetic anisotropy, and reduced dimensionality are responsible for the plethora of magnetic phases observed in the quantum antiferromagnet Cs2CoB4. Among them are a commensurate magnetization plateau, a longitudinal spin density wave, and an incommensurate spin-fan structure. Even more unusual is the excitation spectrum. It is an hierarchy of successive bound states of fractional kink quasiparticles. To understand this rich physics, one has to know the spin Hamiltonian, and that can only be determined in high-field spectroscopic measurements.\n\n[Phys. Rev. B 109, 104433] Published Wed Mar 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.104433",
-          "publishedOn": "2024-03-27T10:00:00.000Z",
-          "wordCount": 1407,
-          "title": "Magnetic field induced phases and spin Hamiltonian in ${\\mathrm{Cs}}_{2}{\\mathrm{CoBr}}_{4}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.104433.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L121303",
-          "author": "M. Meyer, T. Fähndrich, S. Schmid, A. Wolf, S. S. Krishtopenko, B. Jouault, G. Bastard, F. Teppe, F. Hartmann, and S. Höfling",
-          "description": "Author(s): M. Meyer, T. Fähndrich, S. Schmid, A. Wolf, S. S. Krishtopenko, B. Jouault, G. Bastard, F. Teppe, F. Hartmann, and S. Höfling\nTopological insulators (TIs) based on InAs/GaSb bilayer quantum wells are appealing due to the electric field tuning between topological and normal insulating (NI) phases. Here, the authors report on the coexistence of NI and TI phases in electro-optically tuned InAs/GaSb bilayer quantum wells and helical edge channels in the bulk of the sample. These findings pave the way to the manipulation and utilization of helical edge channels by using spatially defined gates (optically or electrically), separating them from the physical edges.\n\n[Phys. Rev. B 109, L121303] Published Wed Mar 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L121303",
-          "publishedOn": "2024-03-27T10:00:00.000Z",
-          "wordCount": 1391,
-          "title": "Coexistence of topological and normal insulating phases in electro-optically tuned InAs/GaSb bilayer quantum wells",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L121303.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.131002",
-          "author": "Zhen Cao <em>et al.</em> (LHAASO Collaboration)",
-          "description": "Author(s): Zhen Cao et al. (LHAASO Collaboration)\nUsing observations made with an array of thousands of particle detectors, researchers have uncovered an important clue about cosmic rays that originate from outside of our Galaxy.\n\n[Phys. Rev. Lett. 132, 131002] Published Tue Mar 26, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.131002",
-          "publishedOn": "2024-03-26T10:00:00.000Z",
-          "wordCount": 1013,
-          "title": "Measurements of All-Particle Energy Spectrum and Mean Logarithmic Mass of Cosmic Rays from 0.3 to 30 PeV with LHAASO-KM2A",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.131002.png"
         }
       ]
     }
