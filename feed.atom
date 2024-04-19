@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-18T00:45:07.516Z</id>
+    <id>urn:2024-04-19T00:46:10.583Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T00:45:07.516Z</updated>
+    <updated>2024-04-19T00:46:10.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[High Density Loading and Collisional Loss of Laser-Cooled Molecules in an Optical Trap]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.163403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.163403"/>
+        <updated>2024-04-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille
+Dense ensembles of laser-cooled molecules allow the observation of molecular collisions—a result that could lead to applications of cold molecular gases in quantum simulation and fundamental physics tests.
+
+[Phys. Rev. Lett. 132, 163403] Published Thu Apr 18, 2024]]></summary>
+        <author>
+            <name>Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic band structure of ${\mathrm{Sb}}_{2}{\mathrm{Te}}_{3}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.165205</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.165205"/>
+        <updated>2024-04-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): I. Mohelsky, J. Wyzula, F. Le Mardelé, F. Abadizaman, O. Caha, A. Dubroka, X. D. Sun, C. W. Cho, B. A. Piot, M. F. Tanzim, I. Aguilera, G. Bauer, G. Springholz, and M. Orlita
+Antimony telluride (Sb2Te3) has garnered significant attention within the condensed matter community, particularly as one of the earliest experimentally recognized topological insulators. However, despite substantial investigation, our understanding of the bulk electronic band structure of Sb2Te3 remains incomplete. Here, the authors employ a comprehensive experimental and theoretical approach integrating magneto-optical, optical, magnetotransport and ab initio techniques to examine Sb2Te3. Their findings reveal that this material possesses a direct energy band gap at the center of the Brillouin zone, while also exhibiting additional low-energy band extrema in mirror planes.
+
+[Phys. Rev. B 109, 165205] Published Thu Apr 18, 2024]]></summary>
+        <author>
+            <name>I. Mohelsky, J. Wyzula, F. Le Mardelé, F. Abadizaman, O. Caha, A. Dubroka, X. D. Sun, C. W. Cho, B. A. Piot, M. F. Tanzim, I. Aguilera, G. Bauer, G. Springholz, and M. Orlita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experimental Speedup of Quantum Dynamics through Squeezing]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.020314</id>
@@ -1277,32 +1303,6 @@ A nanoresonator trapped in ultrahigh vacuum features an exceptionally high quali
 [Phys. Rev. Lett. 132, 133602] Published Wed Mar 27, 2024]]></summary>
         <author>
             <name>Lorenzo Dania, Dmitry S. Bykov, Florian Goschin, Markus Teller, Abderrahmane Kassid, and Tracy E. Northup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transport and Nonreciprocity in Monitored Quantum Devices: An Exact Study]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.136301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.136301"/>
-        <updated>2024-03-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): João Ferreira, Tony Jin, Jochen Mannhart, Thierry Giamarchi, and Michele Filippone
-Exact formulas to describe particle and heat transport in generic noninteracting fermionic systems undergoing continuous monitoring and driven by biased reservoirs show the possibility to achieve measurement-induced power or cooling.
-
-[Phys. Rev. Lett. 132, 136301] Published Wed Mar 27, 2024]]></summary>
-        <author>
-            <name>João Ferreira, Tony Jin, Jochen Mannhart, Thierry Giamarchi, and Michele Filippone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Classification of Transport on an Equilibrated $5/2$ Edge via Shot Noise]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.136502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.136502"/>
-        <updated>2024-03-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sourav Manna, Ankur Das, Moshe Goldstein, and Yuval Gefen
-A new protocol shows promise for classifying non-Abelian fractional quantum Hall states–being explored for quantum computation–using experimental shot-noise techniques.
-
-[Phys. Rev. Lett. 132, 136502] Published Wed Mar 27, 2024]]></summary>
-        <author>
-            <name>Sourav Manna, Ankur Das, Moshe Goldstein, and Yuval Gefen</name>
         </author>
     </entry>
 </feed>

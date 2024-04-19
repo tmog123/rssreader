@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.163403",
+          "author": "Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille",
+          "description": "Author(s): Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille\nDense ensembles of laser-cooled molecules allow the observation of molecular collisions—a result that could lead to applications of cold molecular gases in quantum simulation and fundamental physics tests.\n\n[Phys. Rev. Lett. 132, 163403] Published Thu Apr 18, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.163403",
+          "publishedOn": "2024-04-18T10:00:00.000Z",
+          "wordCount": 1122,
+          "title": "High Density Loading and Collisional Loss of Laser-Cooled Molecules in an Optical Trap",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.163403.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.165205",
+          "author": "I. Mohelsky, J. Wyzula, F. Le Mardelé, F. Abadizaman, O. Caha, A. Dubroka, X. D. Sun, C. W. Cho, B. A. Piot, M. F. Tanzim, I. Aguilera, G. Bauer, G. Springholz, and M. Orlita",
+          "description": "Author(s): I. Mohelsky, J. Wyzula, F. Le Mardelé, F. Abadizaman, O. Caha, A. Dubroka, X. D. Sun, C. W. Cho, B. A. Piot, M. F. Tanzim, I. Aguilera, G. Bauer, G. Springholz, and M. Orlita\nAntimony telluride (Sb2Te3) has garnered significant attention within the condensed matter community, particularly as one of the earliest experimentally recognized topological insulators. However, despite substantial investigation, our understanding of the bulk electronic band structure of Sb2Te3 remains incomplete. Here, the authors employ a comprehensive experimental and theoretical approach integrating magneto-optical, optical, magnetotransport and ab initio techniques to examine Sb2Te3. Their findings reveal that this material possesses a direct energy band gap at the center of the Brillouin zone, while also exhibiting additional low-energy band extrema in mirror planes.\n\n[Phys. Rev. B 109, 165205] Published Thu Apr 18, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.165205",
+          "publishedOn": "2024-04-18T10:00:00.000Z",
+          "wordCount": 1471,
+          "title": "Electronic band structure of ${\\mathrm{Sb}}_{2}{\\mathrm{Te}}_{3}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.165205.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.020314",
           "author": "S. C. Burd, H. M. Knaack, R. Srinivas, C. Arenz, A. L. Collopy, L. J. Stephenson, A. C. Wilson, D. J. Wineland, D. Leibfried, J. J. Bollinger, D. T. C. Allcock, and D. H. Slichter",
           "description": "Author(s): S. C. Burd, H. M. Knaack, R. Srinivas, C. Arenz, A. L. Collopy, L. J. Stephenson, A. C. Wilson, D. J. Wineland, D. Leibfried, J. J. Bollinger, D. T. C. Allcock, and D. H. Slichter\nAn experimental demonstration shows that quantum squeezing can be used to amplify a Hamiltonian’s effect—even when the Hamiltonian is unknown.\n\n[PRX Quantum 5, 020314] Published Wed Apr 17, 2024",
@@ -984,26 +1004,6 @@
           "wordCount": 1259,
           "title": "Ultrahigh Quality Factor of a Levitated Nanomechanical Oscillator",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.133602.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.136301",
-          "author": "João Ferreira, Tony Jin, Jochen Mannhart, Thierry Giamarchi, and Michele Filippone",
-          "description": "Author(s): João Ferreira, Tony Jin, Jochen Mannhart, Thierry Giamarchi, and Michele Filippone\nExact formulas to describe particle and heat transport in generic noninteracting fermionic systems undergoing continuous monitoring and driven by biased reservoirs show the possibility to achieve measurement-induced power or cooling.\n\n[Phys. Rev. Lett. 132, 136301] Published Wed Mar 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.136301",
-          "publishedOn": "2024-03-27T10:00:00.000Z",
-          "wordCount": 1072,
-          "title": "Transport and Nonreciprocity in Monitored Quantum Devices: An Exact Study",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.136301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.136502",
-          "author": "Sourav Manna, Ankur Das, Moshe Goldstein, and Yuval Gefen",
-          "description": "Author(s): Sourav Manna, Ankur Das, Moshe Goldstein, and Yuval Gefen\nA new protocol shows promise for classifying non-Abelian fractional quantum Hall states–being explored for quantum computation–using experimental shot-noise techniques.\n\n[Phys. Rev. Lett. 132, 136502] Published Wed Mar 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.136502",
-          "publishedOn": "2024-03-27T10:00:00.000Z",
-          "wordCount": 1075,
-          "title": "Full Classification of Transport on an Equilibrated $5/2$ Edge via Shot Noise",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.136502.png"
         }
       ]
     }
