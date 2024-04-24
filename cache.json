@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.176702",
+          "author": "Paul A. McClarty and Jeffrey G. Rau",
+          "description": "Author(s): Paul A. McClarty and Jeffrey G. Rau\nLandau theory adapted to the zero spin-orbit coupling limit captures features of altermagnets, a class of colinear magnets with spin-split bands.\n\n[Phys. Rev. Lett. 132, 176702] Published Tue Apr 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.176702",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 786,
+          "title": "Landau Theory of Altermagnetism",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.176702.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.134434",
+          "author": "Johan Cedervall, Vitalii Shtender, Pascal Manuel, Vladimir Pomjakushin, Roland Mathieu, Ulrich Häussermann, and Mikael S. Andersson",
+          "description": "Author(s): Johan Cedervall, Vitalii Shtender, Pascal Manuel, Vladimir Pomjakushin, Roland Mathieu, Ulrich Häussermann, and Mikael S. Andersson\nUsing a combination of neutron powder diffraction and SQUID magnetometry, this work explores the impact that hydrogen (deuterium) incorporation has on the magnetic properties of NdGaDx (x=0, 0.9, and 1.6). The experimental results show that hydrogenation leads to large change in the magnetic order and to a significant decrease in the corresponding transition temperatures. Furthermore, the results suggest that this is related to changes in the electronic structure and the Nd-Nd distances induced by the hydrogenation.\n\n[Phys. Rev. B 109, 134434] Published Tue Apr 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.134434",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 1163,
+          "title": "Magnetic property changes of NdGa upon hydrogen absorption",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.134434.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.155430",
+          "author": "Robin J. Dolleman, Alexander Rothstein, Ammon Fischer, Lennart Klebl, Lutz Waldecker, Kenji Watanabe, Takashi Taniguchi, Dante M. Kennes, Florian Libisch, Bernd Beschoten, and Christoph Stampfer",
+          "description": "Author(s): Robin J. Dolleman, Alexander Rothstein, Ammon Fischer, Lennart Klebl, Lutz Waldecker, Kenji Watanabe, Takashi Taniguchi, Dante M. Kennes, Florian Libisch, Bernd Beschoten, and Christoph Stampfer\nBy exploiting naturally occurring charge islands due to twist angle variations in twisted bilayer graphene, the authors measure here how strongly charge carriers interact. They discover negative capacitance contributions, which are indicative of correlation effects near band insulators at full filling on both flat and remote sides, and at integer partial fillings. The correlation strength remains constant across all bands, unaffected by a magnetic field. The reported results point to a possible Wigner crystal phase as the underlying mechanism.\n\n[Phys. Rev. B 109, 155430] Published Tue Apr 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.155430",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 1570,
+          "title": "Negative electronic compressibility in charge islands in twisted bilayer graphene",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.155430.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.044042",
+          "author": "Sri Krishna Vadlamani, Tianyao Patrick Xiao, and Eli Yablonovitch",
+          "description": "Author(s): Sri Krishna Vadlamani, Tianyao Patrick Xiao, and Eli Yablonovitch\nMachines based on coupled bistable oscillators can rapidly produce high-quality solutions to difficult problems in combinatorial optimization. While the dynamics of such systems can be derived, exactly why these dynamics are so good for optimization is unclear. This study presents a complete mathematical equivalence between coupled-oscillator machines and the primal-dual method of Lagrange multipliers, elucidating the precise mathematical role of each hardware component and enabling the principled design of more sophisticated optimization machines. Simulations show that such a circuit consumes extremely low amounts of power and energy per optimization, even for many variables.\n\n[Phys. Rev. Applied 21, 044042] Published Tue Apr 23, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.044042",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 1800,
+          "title": "Combinatorial optimization using the Lagrange primal-dual dynamics of parametric oscillator networks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.044042.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.023084",
           "author": "Wei-Ming Chen and Pin-Ju Tsai",
           "description": "Author(s): Wei-Ming Chen and Pin-Ju Tsai\nThis article uses an optimization algorithm to obtain single-mode Optical Probe States and provides a physical interpretation of these.\n\n[Phys. Rev. Research 6, 023084] Published Mon Apr 22, 2024",
@@ -391,7 +431,7 @@
           "description": "Author(s): Nathan Roberts, Guido Baardink, Anton Souslov, and Peter J. Mosley\nCharacterizing topological devices can be a lengthy and difficult process. In an effort to simplify topological characterization, a single-shot method for observing topological winding numbers with only a broadband light source is introduced and demonstrated.\n\n[Phys. Rev. Research 6, L022010] Published Thu Apr 11, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.L022010",
           "publishedOn": "2024-04-11T10:00:00.000Z",
-          "wordCount": 1331,
+          "wordCount": 1332,
           "title": "Single-shot measurement of photonic topological invariant",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.6.L022010.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1420,
           "title": "$nnn$ and $ppp$ correlation functions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.109.034006.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.104435",
-          "author": "Mark Potts, Roderich Moessner, and Owen Benton",
-          "description": "Author(s): Mark Potts, Roderich Moessner, and Owen Benton\nFractionalized excitations arise in many exotic phases of matter. Signatures of these quasiparticles are broad continua in linear response, hard to distinguish from other sources of broadening. The authors explore here excitations of emergent one-dimensional structures within pyrochlore magnets, demonstrating how nonlinear spectroscopy can be used to obtain sharp signatures of both fractionalized spinon and conventional magnon excitations. Varying the polarization of the probe fields enables either spinons or magnons to be observed and enables extraction of microscopic Hamiltonian parameters.\n\n[Phys. Rev. B 109, 104435] Published Fri Mar 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.104435",
-          "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 2830,
-          "title": "Exploiting polarization dependence in two-dimensional coherent spectroscopy: Examples of ${\\mathrm{Ce}}_{2}{\\mathrm{Zr}}_{2}{\\mathrm{O}}_{7}$ and ${\\mathrm{Nd}}_{2}{\\mathrm{Zr}}_{2}{\\mathrm{O}}_{7}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.104435.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.125150",
-          "author": "Wen-Han Kao, Gábor B. Halász, and Natalia B. Perkins",
-          "description": "Author(s): Wen-Han Kao, Gábor B. Halász, and Natalia B. Perkins\nIdentification of quantum spin liquids faces two main challenges: the absence of local magnetic ordering and the inevitable presence of disorder. Analyzing the dynamical response of the site-diluted Kitaev spin liquid, the authors reveal here distinctive Majorana features, including a quasi-zero-frequency peak, explained by a local hybridization model of defect-induced Majorana modes. These findings, highlighting the nontrivial interplay between disorder and spin fractionalization, suggest the potential detection of spin-liquid phases in candidate materials by using scanning tunneling microscopy (STM).\n\n[Phys. Rev. B 109, 125150] Published Fri Mar 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.125150",
-          "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 1430,
-          "title": "Dynamics of vacancy-induced modes in the non-Abelian Kitaev spin liquid",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.125150.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.125433",
-          "author": "Vittorio Aita, Mykyta Shevchenko, Francisco J. Rodríguez-Fortuño, and Anatoly V. Zayats",
-          "description": "Author(s): Vittorio Aita, Mykyta Shevchenko, Francisco J. Rodríguez-Fortuño, and Anatoly V. Zayats\nPresented in this work is a versatile model designed for simulating the propagation of focused scalar and vector beams through three-layered systems, addressing a wide range of beams and materials. The former are described within the Laguerre-Gauss basis, while the latter encompass dispersive and lossy materials - whether isotropic or uniaxial - enabling the investigation of elliptic, hyperbolic, and epsilon-near-zero dispersion regimes. The developed model has been released as an open-source software package for wider accessibility.\n\n[Phys. Rev. B 109, 125433] Published Fri Mar 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.125433",
-          "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 1546,
-          "title": "Propagation of focused scalar and vector vortex beams in anisotropic media: A semianalytical approach",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.125433.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.034063",
-          "author": "Nhat-Tan Phan, Nitin Prasad, Abderrazak Hakam, Ahmed Sidi El Valli, Lorena Anghel, Luana Benetti, Advait Madhavan, Alex S. Jenkins, Ricardo Ferreira, Mark D. Stiles, Ursula Ebels, and Philippe Talatchian",
-          "description": "Author(s): Nhat-Tan Phan, Nitin Prasad, Abderrazak Hakam, Ahmed Sidi El Valli, Lorena Anghel, Luana Benetti, Advait Madhavan, Alex S. Jenkins, Ricardo Ferreira, Mark D. Stiles, Ursula Ebels, and Philippe Talatchian\nUnbiased sources of true randomness are crucial for the next generation of encryption applications and stochastic computing in various fields, yet achieving such randomness without bias has remained technically challenging. This study introduces an innovative hardware approach, utilizing the intrinsic balance of phase noise in a spintronic nano-oscillator synchronized at twice its natural frequency to overcome bias in random bitstream generation at room temperature. The method generates truly random bitstreams with efficiency and reliability that is expected to significantly impact cybersecurity, advanced computing, and more.\n\n[Phys. Rev. Applied 21, 034063] Published Fri Mar 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.034063",
-          "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 1790,
-          "title": "Unbiased random bitstream generation using injection-locked spin-torque nano-oscillators",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.034063.png"
         }
       ]
     }
