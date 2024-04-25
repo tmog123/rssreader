@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.175002",
+          "author": "Neïl Zaïm, Antonin Sainte-Marie, Luca Fedeli, Pierre Bartoli, Axel Huebl, Adrien Leblanc, Jean-Luc Vay, and Henri Vincenti",
+          "description": "Author(s): Neïl Zaïm, Antonin Sainte-Marie, Luca Fedeli, Pierre Bartoli, Axel Huebl, Adrien Leblanc, Jean-Luc Vay, and Henri Vincenti\nThe interaction of Doppler-boosted light with matter at intensities approaching the Schwinger limit is explored in numerical simulations showing the creation of electron-positron pairs forming high-density relativistic attosecond jets.\n\n[Phys. Rev. Lett. 132, 175002] Published Wed Apr 24, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.175002",
+          "publishedOn": "2024-04-24T10:00:00.000Z",
+          "wordCount": 968,
+          "title": "Light-Matter Interaction near the Schwinger Limit Using Tightly Focused Doppler-Boosted Lasers",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.175002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.043301",
+          "author": "Neeraj S. Borker, Abraham D. Stroock, and Donald L. Koch",
+          "description": "Author(s): Neeraj S. Borker, Abraham D. Stroock, and Donald L. Koch\nA self-aligning particle (SAP) attains near perfect alignment with the fluid lamellae of a low Reynolds number simple shear flow without application of external torques in contrast with the continuous rotation exhibited by most rigid bodies including thin fibers and disks. We characterize the robustness of the flow alignment of SAPs to secondary perturbations such as flow disturbances, Brownian motion, inter-interparticle interactions, and the presence of a wall using dynamic simulations of ring-shaped SAP geometries. The robust flow alignment of SAPs provides an alternative route to access highly aligned microstructures that are inaccessible to suspensions of traditional particle geometries.\n\n[Phys. Rev. Fluids 9, 043301] Published Wed Apr 24, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.043301",
+          "publishedOn": "2024-04-24T10:00:00.000Z",
+          "wordCount": 1313,
+          "title": "Robust microstructure of self-aligning particles in a simple shear flow",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.043301.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.176702",
           "author": "Paul A. McClarty and Jeffrey G. Rau",
           "description": "Author(s): Paul A. McClarty and Jeffrey G. Rau\nLandau theory adapted to the zero spin-orbit coupling limit captures features of altermagnets, a class of colinear magnets with spin-split bands.\n\n[Phys. Rev. Lett. 132, 176702] Published Tue Apr 23, 2024",
@@ -984,26 +1004,6 @@
           "wordCount": 1252,
           "title": "Quantum Light Generation Based on GaN Microring toward Fully On-Chip Source",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.133603.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.136503",
-          "author": "Wen-Han Kao, Natalia B. Perkins, and Gábor B. Halász",
-          "description": "Author(s): Wen-Han Kao, Natalia B. Perkins, and Gábor B. Halász\nA proposed approach to detect Majorana fermions in Kitaev spin liquids by using scanning tunneling microscopy could lead to the unambiguous confirmation of both the spin-liquid state and its Majorana zero modes.\n\n[Phys. Rev. Lett. 132, 136503] Published Fri Mar 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.136503",
-          "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 1139,
-          "title": "Vacancy Spectroscopy of Non-Abelian Kitaev Spin Liquids",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.136503.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.109.034006",
-          "author": "A. Kievsky, E. Garrido, M. Viviani, L. E. Marcucci, L. Šerkšnytė, and R. Del Grande",
-          "description": "Author(s): A. Kievsky, E. Garrido, M. Viviani, L. E. Marcucci, L. Šerkšnytė, and R. Del Grande\nA new theoretical analysis connects the results of high-energy particle experiments at the Large Hadron Collider with three-proton correlations inside nuclei.\n\n[Phys. Rev. C 109, 034006] Published Fri Mar 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.109.034006",
-          "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 1420,
-          "title": "$nnn$ and $ppp$ correlation functions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.109.034006.png"
         }
       ]
     }
