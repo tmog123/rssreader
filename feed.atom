@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-26T00:46:35.259Z</id>
+    <id>urn:2024-04-27T00:45:57.720Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T00:46:35.259Z</updated>
+    <updated>2024-04-27T00:45:57.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Promise of Future Searches for Cosmic Topology]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.171501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.171501"/>
+        <updated>2024-04-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yashar Akrami, Stefano Anselmi, Craig J. Copi, Johannes R. Eskilt, Andrew H. Jaffe, Arthur Kosowsky, Pip Petersen, Glenn D. Starkman, Kevin González-Quesada, Özenç Güngör, Deyan P. Mihaylov, Samanta Saha, Andrius Tamosiunas, Quinn Taylor, and Valeri Vardanyan (COMPACT Collaboration)
+Most models for the overall shape and geometry of the Universe—including some exotic ones—are compatible with the latest cosmic observations.
+
+[Phys. Rev. Lett. 132, 171501] Published Fri Apr 26, 2024]]></summary>
+        <author>
+            <name>Yashar Akrami, Stefano Anselmi, Craig J. Copi, Johannes R. Eskilt, Andrew H. Jaffe, Arthur Kosowsky, Pip Petersen, Glenn D. Starkman, Kevin González-Quesada, Özenç Güngör, Deyan P. Mihaylov, Samanta Saha, Andrius Tamosiunas, Quinn Taylor, and Valeri Vardanyan (COMPACT Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using reservoir computing to construct scarred wave functions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.044214</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.044214"/>
+        <updated>2024-04-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): L. Domingo, J. Borondo, and F. Borondo
+Scarred functions serve as a basis to calculate eigenstates in quantum chaotic systems, and are useful to study the correspondence between classical and quantum systems in the presence of chaos. In this paper, the authors propose a method, based on a machine learning algorithm, to calculate the scarred functions and corresponding eigenstates of the coupled quartic oscillator, and they report that the algorithm increases accuracy and reduces the execution time.
+
+[Phys. Rev. E 109, 044214] Published Fri Apr 26, 2024]]></summary>
+        <author>
+            <name>L. Domingo, J. Borondo, and F. Borondo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological enhancement of nonnormality in non-Hermitian skin effects]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.144203</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.144203"/>
+        <updated>2024-04-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yusuke O. Nakai, Nobuyuki Okuma, Daichi Nakamura, Kenji Shimomura, and Masatoshi Sato
+This paper introduces scalar measures that adequately characterize the non-Hermitian skin effects under open boundary condition. Using these measures, the authors reveal that the topological properties of the non-Hermitian skin effect give a macroscopic enhancement of non-normality under open boundary condition. The topological enhancement of non-normality governs the perturbation sensitivity of the spectra and the anomalous time-evolution dynamics intrinsic to non-Hermiticity. They also show that these measures correctly describe the disorder-induced topological phase transitions of the skin effect.
+
+[Phys. Rev. B 109, 144203] Published Fri Apr 26, 2024]]></summary>
+        <author>
+            <name>Yusuke O. Nakai, Nobuyuki Okuma, Daichi Nakamura, Kenji Shimomura, and Masatoshi Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photon statistics of resonantly driven spectrally diffusive quantum emitters]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.155308</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.155308"/>
+        <updated>2024-04-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Aymeric Delteil, Stéphanie Buil, and Jean-Pierre Hermier
+Solid-state quantum emitters often suffer from temporal variations of their transition energies, inherited from fluctuations in the host crystal environment. This spectral diffusion (SD) is detrimental to the emitter linewidth but is often challenging to characterize experimentally. The authors show here that, under resonant laser excitation, the statistics of the scattered photons offer multiple signatures of the SD process, making it possible to discriminate between discrete jumps and continuous diffusion, as well as to access relevant parameters of the SD mechanisms.
+
+[Phys. Rev. B 109, 155308] Published Fri Apr 26, 2024]]></summary>
+        <author>
+            <name>Aymeric Delteil, Stéphanie Buil, and Jean-Pierre Hermier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disorder-driven localization and electron interactions in ${\mathrm{Bi}}_{x}\mathrm{TeI}$ thin films]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044204</id>
@@ -1251,58 +1303,6 @@ A theoretical proposal presents a framework for microscopic explanation of the e
 [Phys. Rev. Lett. 132, 141501] Published Mon Apr 01, 2024]]></summary>
         <author>
             <name>Vijay Balasubramanian, Albion Lawrence, Javier M. Magán, and Martin Sasieta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effects of Linking Topology on the Shear Response of Connected Ring Polymers: Catenanes and Bonded Rings Flow Differently]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.148101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.148101"/>
-        <updated>2024-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Reyhaneh A. Farimani, Zahra Ahmadian Dehaghani, Christos N. Likos, and Mohammad Reza Ejtehadi
-The dynamics of ring polymers under shear is strongly dependent on whether they are chemically bonded or mechanically linked
-
-[Phys. Rev. Lett. 132, 148101] Published Mon Apr 01, 2024]]></summary>
-        <author>
-            <name>Reyhaneh A. Farimani, Zahra Ahmadian Dehaghani, Christos N. Likos, and Mohammad Reza Ejtehadi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search for beyond-mean-field signatures in heavy-ion fusion reactions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.109.L041601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.109.L041601"/>
-        <updated>2024-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. T. deSouza, K. Godbey, S. Hudan, and W. Nazarewicz
-High-resolution experimental fusion excitation functions for 16,17,18O + 12C reveal a remarkable irregular behavior rooted in the structure of both the colliding nuclei and the quasimolecular composite system. Using a parameter-free time-dependent Hartree-Fock model, the authors assess the influence of the angular-momentum-dependent fusion barriers on fusion. They find that barrier penetrabilities taken directly from a density-constrained calculation provide a significantly improved description of the experimental data. The results expose the remaining deviations between the mean-field predictions and experimental fusion cross sections, and suggest this approach to garner insight into the impact of nuclear structure effects on fusion reactions.
-
-[Phys. Rev. C 109, L041601] Published Mon Apr 01, 2024]]></summary>
-        <author>
-            <name>R. T. deSouza, K. Godbey, S. Hudan, and W. Nazarewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Near power-law temperature dependence of the superfluid stiffness in strongly disordered superconductors]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.144501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.144501"/>
-        <updated>2024-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Anton V. Khvalyuk, Thibault Charpentier, Nicolas Roch, Benjamin Sacépé, and Mikhail V. Feigel'man
-This paper reports unconventional behavior of the superfluid stiffness Θ(T) in disordered superconductors, such as to amorphous InOx. The authors unveil a remarkable power-law suppression δΘ(T)∝Tb at T≪Tc, with an exponent b∼1.6. Through a combination of experiments and theory, they reveal the influence of disorder on this phenomenon, shedding light on the existence of low-energy collective excitations. These findings redefine our understanding of dissipation in inhomogeneous superconductors, with implications for their use in quantum circuits.
-
-[Phys. Rev. B 109, 144501] Published Mon Apr 01, 2024]]></summary>
-        <author>
-            <name>Anton V. Khvalyuk, Thibault Charpentier, Nicolas Roch, Benjamin Sacépé, and Mikhail V. Feigel'man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full counting statistics of charge in quenched quantum gases]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.043302</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.043302"/>
-        <updated>2024-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Dávid X. Horváth and Colin Rylands
-The authors study the full counting statistics of particle number in one-dimensional interacting Bose and Fermi gases which have been quenched far from equilibrium. They consider the time evolution of the Lieb-Liniger and Gaudin-Yang models, which could be relevant to experiments on ultracold one-dimensional gases.
-
-[Phys. Rev. A 109, 043302] Published Mon Apr 01, 2024]]></summary>
-        <author>
-            <name>Dávid X. Horváth and Colin Rylands</name>
         </author>
     </entry>
 </feed>

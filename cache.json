@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.171501",
+          "author": "Yashar Akrami, Stefano Anselmi, Craig J. Copi, Johannes R. Eskilt, Andrew H. Jaffe, Arthur Kosowsky, Pip Petersen, Glenn D. Starkman, Kevin González-Quesada, Özenç Güngör, Deyan P. Mihaylov, Samanta Saha, Andrius Tamosiunas, Quinn Taylor, and Valeri Vardanyan (COMPACT Collaboration)",
+          "description": "Author(s): Yashar Akrami, Stefano Anselmi, Craig J. Copi, Johannes R. Eskilt, Andrew H. Jaffe, Arthur Kosowsky, Pip Petersen, Glenn D. Starkman, Kevin González-Quesada, Özenç Güngör, Deyan P. Mihaylov, Samanta Saha, Andrius Tamosiunas, Quinn Taylor, and Valeri Vardanyan (COMPACT Collaboration)\nMost models for the overall shape and geometry of the Universe—including some exotic ones—are compatible with the latest cosmic observations.\n\n[Phys. Rev. Lett. 132, 171501] Published Fri Apr 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.171501",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 1250,
+          "title": "Promise of Future Searches for Cosmic Topology",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.171501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.044214",
+          "author": "L. Domingo, J. Borondo, and F. Borondo",
+          "description": "Author(s): L. Domingo, J. Borondo, and F. Borondo\nScarred functions serve as a basis to calculate eigenstates in quantum chaotic systems, and are useful to study the correspondence between classical and quantum systems in the presence of chaos. In this paper, the authors propose a method, based on a machine learning algorithm, to calculate the scarred functions and corresponding eigenstates of the coupled quartic oscillator, and they report that the algorithm increases accuracy and reduces the execution time.\n\n[Phys. Rev. E 109, 044214] Published Fri Apr 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.044214",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 913,
+          "title": "Using reservoir computing to construct scarred wave functions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.044214.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.144203",
+          "author": "Yusuke O. Nakai, Nobuyuki Okuma, Daichi Nakamura, Kenji Shimomura, and Masatoshi Sato",
+          "description": "Author(s): Yusuke O. Nakai, Nobuyuki Okuma, Daichi Nakamura, Kenji Shimomura, and Masatoshi Sato\nThis paper introduces scalar measures that adequately characterize the non-Hermitian skin effects under open boundary condition. Using these measures, the authors reveal that the topological properties of the non-Hermitian skin effect give a macroscopic enhancement of non-normality under open boundary condition. The topological enhancement of non-normality governs the perturbation sensitivity of the spectra and the anomalous time-evolution dynamics intrinsic to non-Hermiticity. They also show that these measures correctly describe the disorder-induced topological phase transitions of the skin effect.\n\n[Phys. Rev. B 109, 144203] Published Fri Apr 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.144203",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 2040,
+          "title": "Topological enhancement of nonnormality in non-Hermitian skin effects",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.144203.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.155308",
+          "author": "Aymeric Delteil, Stéphanie Buil, and Jean-Pierre Hermier",
+          "description": "Author(s): Aymeric Delteil, Stéphanie Buil, and Jean-Pierre Hermier\nSolid-state quantum emitters often suffer from temporal variations of their transition energies, inherited from fluctuations in the host crystal environment. This spectral diffusion (SD) is detrimental to the emitter linewidth but is often challenging to characterize experimentally. The authors show here that, under resonant laser excitation, the statistics of the scattered photons offer multiple signatures of the SD process, making it possible to discriminate between discrete jumps and continuous diffusion, as well as to access relevant parameters of the SD mechanisms.\n\n[Phys. Rev. B 109, 155308] Published Fri Apr 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.155308",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 1150,
+          "title": "Photon statistics of resonantly driven spectrally diffusive quantum emitters",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.155308.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044204",
           "author": "Paul Corbae, Nicolai Taufertshöfer, Ellis Kennedy, Mary Scott, and Frances Hellman",
           "description": "Author(s): Paul Corbae, Nicolai Taufertshöfer, Ellis Kennedy, Mary Scott, and Frances Hellman\nIn this work, we investigate the effect of strong disorder on BixTeI thin films, revealing a metal-insulator transition that depends on composition and the growth temperature. Understanding how disorder can be used as a parameter to alter the electronic properties of a material goes beyond the conventional understanding of crystalline material conductivity. This study therefore highlights the role of strong localization in disordered materials in shaping emerging quantum properties.\n\n[Phys. Rev. Materials 8, 044204] Published Thu Apr 25, 2024",
@@ -964,46 +1004,6 @@
           "wordCount": 987,
           "title": "Microscopic Origin of the Entropy of Astrophysical Black Holes",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.141501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.148101",
-          "author": "Reyhaneh A. Farimani, Zahra Ahmadian Dehaghani, Christos N. Likos, and Mohammad Reza Ejtehadi",
-          "description": "Author(s): Reyhaneh A. Farimani, Zahra Ahmadian Dehaghani, Christos N. Likos, and Mohammad Reza Ejtehadi\nThe dynamics of ring polymers under shear is strongly dependent on whether they are chemically bonded or mechanically linked\n\n[Phys. Rev. Lett. 132, 148101] Published Mon Apr 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.148101",
-          "publishedOn": "2024-04-01T10:00:00.000Z",
-          "wordCount": 926,
-          "title": "Effects of Linking Topology on the Shear Response of Connected Ring Polymers: Catenanes and Bonded Rings Flow Differently",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.148101.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.109.L041601",
-          "author": "R. T. deSouza, K. Godbey, S. Hudan, and W. Nazarewicz",
-          "description": "Author(s): R. T. deSouza, K. Godbey, S. Hudan, and W. Nazarewicz\nHigh-resolution experimental fusion excitation functions for 16,17,18O + 12C reveal a remarkable irregular behavior rooted in the structure of both the colliding nuclei and the quasimolecular composite system. Using a parameter-free time-dependent Hartree-Fock model, the authors assess the influence of the angular-momentum-dependent fusion barriers on fusion. They find that barrier penetrabilities taken directly from a density-constrained calculation provide a significantly improved description of the experimental data. The results expose the remaining deviations between the mean-field predictions and experimental fusion cross sections, and suggest this approach to garner insight into the impact of nuclear structure effects on fusion reactions.\n\n[Phys. Rev. C 109, L041601] Published Mon Apr 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.109.L041601",
-          "publishedOn": "2024-04-01T10:00:00.000Z",
-          "wordCount": 888,
-          "title": "Search for beyond-mean-field signatures in heavy-ion fusion reactions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.109.L041601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.144501",
-          "author": "Anton V. Khvalyuk, Thibault Charpentier, Nicolas Roch, Benjamin Sacépé, and Mikhail V. Feigel'man",
-          "description": "Author(s): Anton V. Khvalyuk, Thibault Charpentier, Nicolas Roch, Benjamin Sacépé, and Mikhail V. Feigel'man\nThis paper reports unconventional behavior of the superfluid stiffness Θ(T) in disordered superconductors, such as to amorphous InOx. The authors unveil a remarkable power-law suppression δΘ(T)∝Tb at T≪Tc, with an exponent b∼1.6. Through a combination of experiments and theory, they reveal the influence of disorder on this phenomenon, shedding light on the existence of low-energy collective excitations. These findings redefine our understanding of dissipation in inhomogeneous superconductors, with implications for their use in quantum circuits.\n\n[Phys. Rev. B 109, 144501] Published Mon Apr 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.144501",
-          "publishedOn": "2024-04-01T10:00:00.000Z",
-          "wordCount": 2243,
-          "title": "Near power-law temperature dependence of the superfluid stiffness in strongly disordered superconductors",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.144501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.043302",
-          "author": "Dávid X. Horváth and Colin Rylands",
-          "description": "Author(s): Dávid X. Horváth and Colin Rylands\nThe authors study the full counting statistics of particle number in one-dimensional interacting Bose and Fermi gases which have been quenched far from equilibrium. They consider the time evolution of the Lieb-Liniger and Gaudin-Yang models, which could be relevant to experiments on ultracold one-dimensional gases.\n\n[Phys. Rev. A 109, 043302] Published Mon Apr 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.043302",
-          "publishedOn": "2024-04-01T10:00:00.000Z",
-          "wordCount": 1518,
-          "title": "Full counting statistics of charge in quenched quantum gases",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.043302.png"
         }
       ]
     }
