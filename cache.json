@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.182501",
+          "author": "J. Tiedau, M. V. Okhapkin, K. Zhang, J. Thielking, G. Zitzer, E. Peik, F. Schaden, T. Pronebner, I. Morawetz, L. Toscani De Col, F. Schneider, A. Leitner, M. Pressler, G. A. Kazakov, K. Beeks, T. Sikorsky, and T. Schumm",
+          "description": "Author(s): J. Tiedau, M. V. Okhapkin, K. Zhang, J. Thielking, G. Zitzer, E. Peik, F. Schaden, T. Pronebner, I. Morawetz, L. Toscani De Col, F. Schneider, A. Leitner, M. Pressler, G. A. Kazakov, K. Beeks, T. Sikorsky, and T. Schumm\nResearchers use a laser to excite and precisely measure a long-sought exotic nuclear state, paving the way for precise timekeeping and ultrasensitive quantum sensing.\n\n[Phys. Rev. Lett. 132, 182501] Published Mon Apr 29, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.182501",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 1147,
+          "title": "Laser Excitation of the Th-229 Nucleus",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.182501.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.074030",
+          "author": "Daniel Moreno",
+          "description": "Author(s): Daniel Moreno\nFollowing the Heavy Quark Expansion, this paper computes NLO corrections to the Darwin and four-quark operators for the inclusive semileptonic decays B → X_uℓν¯_ℓ. These corrections are found to be relatively large and will play a role in background subtraction for B → X_cℓν¯_ℓ measurements and better determination of CKM matrix elements.\n\n[Phys. Rev. D 109, 074030] Published Mon Apr 29, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.074030",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 917,
+          "title": "QCD corrections to the Darwin coefficient in inclusive semileptonic $B→{X}_{u}ℓ{\\overline{ν}}_{ℓ}$ decays",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.074030.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.086024",
+          "author": "Ana Climent, Roberto Emparan, Javier M. Magán, Martin Sasieta, and Alejandro Vilar López",
+          "description": "Author(s): Ana Climent, Roberto Emparan, Javier M. Magán, Martin Sasieta, and Alejandro Vilar López\nThe authors refine and extend the statistical interpretation of the black hole entropy formula to wide classes of black holes such as rotating and charged black holes, including extremal and near-extremal solutions, with or without supersymmetry. They achieve this by constructing a set of black hole microstates with semiclassical interiors that span a Hilbert space of dimension eS, where S is the black hole entropy.\n\n[Phys. Rev. D 109, 086024] Published Mon Apr 29, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.086024",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 1120,
+          "title": "Universal construction of black hole microstates",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.086024.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.042427",
+          "author": "Frank Schmidt, Daniel Miller, and Peter van Loock",
+          "description": "Author(s): Frank Schmidt, Daniel Miller, and Peter van Loock\nThe authors theoretically analyze the performance of long-distance quantum communication protocols, specifically quantum repeaters based on Gottesman-Kitaev-Preskill (GKP) qudits. Previously, only the qubit case has been studied. They construct three quantum repeater schemes and find that, while in most cases any benefits of using higher dimensions is negated by worse error correction, there are some regimes where the use of qubits does increase the secret key rate.\n\n[Phys. Rev. A 109, 042427] Published Mon Apr 29, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.042427",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 1835,
+          "title": "Error-corrected quantum repeaters with Gottesman-Kitaev-Preskill qudits",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.042427.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.171501",
           "author": "Yashar Akrami, Stefano Anselmi, Craig J. Copi, Johannes R. Eskilt, Andrew H. Jaffe, Arthur Kosowsky, Pip Petersen, Glenn D. Starkman, Kevin González-Quesada, Özenç Güngör, Deyan P. Mihaylov, Samanta Saha, Andrius Tamosiunas, Quinn Taylor, and Valeri Vardanyan (COMPACT Collaboration)",
           "description": "Author(s): Yashar Akrami, Stefano Anselmi, Craig J. Copi, Johannes R. Eskilt, Andrew H. Jaffe, Arthur Kosowsky, Pip Petersen, Glenn D. Starkman, Kevin González-Quesada, Özenç Güngör, Deyan P. Mihaylov, Samanta Saha, Andrius Tamosiunas, Quinn Taylor, and Valeri Vardanyan (COMPACT Collaboration)\nMost models for the overall shape and geometry of the Universe—including some exotic ones—are compatible with the latest cosmic observations.\n\n[Phys. Rev. Lett. 132, 171501] Published Fri Apr 26, 2024",
@@ -81,7 +121,7 @@
           "description": "Author(s): Neïl Zaïm, Antonin Sainte-Marie, Luca Fedeli, Pierre Bartoli, Axel Huebl, Adrien Leblanc, Jean-Luc Vay, and Henri Vincenti\nThe interaction of Doppler-boosted light with matter at intensities approaching the Schwinger limit is explored in numerical simulations showing the creation of electron-positron pairs forming high-density relativistic attosecond jets.\n\n[Phys. Rev. Lett. 132, 175002] Published Wed Apr 24, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.175002",
           "publishedOn": "2024-04-24T10:00:00.000Z",
-          "wordCount": 968,
+          "wordCount": 967,
           "title": "Light-Matter Interaction near the Schwinger Limit Using Tightly Focused Doppler-Boosted Lasers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.175002.png"
         },
@@ -251,7 +291,7 @@
           "description": "Author(s): Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille\nDense ensembles of laser-cooled molecules allow the observation of molecular collisions—a result that could lead to applications of cold molecular gases in quantum simulation and fundamental physics tests.\n\n[Phys. Rev. Lett. 132, 163403] Published Thu Apr 18, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.163403",
           "publishedOn": "2024-04-18T10:00:00.000Z",
-          "wordCount": 1122,
+          "wordCount": 1121,
           "title": "High Density Loading and Collisional Loss of Laser-Cooled Molecules in an Optical Trap",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.163403.png"
         },
@@ -571,7 +611,7 @@
           "description": "Author(s): Thijs Albers, Stijn Delnoij, Nico Schramma, and Maziyar Jalaal\nSpatial memory drastically changes the dynamics and statistics of classical billiards.\n\n[Phys. Rev. Lett. 132, 157101] Published Thu Apr 11, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.157101",
           "publishedOn": "2024-04-11T10:00:00.000Z",
-          "wordCount": 988,
+          "wordCount": 987,
           "title": "Billiards with Spatial Memory",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.157101.png"
         },
@@ -711,7 +751,7 @@
           "description": "Author(s): Thomas A. Callister and Will M. Farr\nA new model describes the population of black hole binaries without assumptions on the shape of their distribution—a capability that could boost the discovery potential of gravitational-wave observations.\n\n[Phys. Rev. X 14, 021005] Published Mon Apr 08, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021005",
           "publishedOn": "2024-04-08T10:00:00.000Z",
-          "wordCount": 3724,
+          "wordCount": 3723,
           "title": "Parameter-Free Tour of the Binary Black Hole Population",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021005.png"
         },
@@ -841,7 +881,7 @@
           "description": "Author(s): Qunqun Liu, Jonathan Engel, Nobuo Hinohara, and Markus Kortelainen\nThe authors extend the proton-neutron finite-amplitude method, an iterative and efficient form of the Skyrme quasiparticle random-phase approximation that needs no diagonalization of the pn QRPA matrix, for the coupling of quasiparticles to like-particle phonons. With this approach one can add beyond-QRPA correlations to computations of important nuclear properties such as Gamow-Teller strength and β-decay rates in deformed nuclei. The results show improved agreement with existing data for several deformed nuclei, a promising step toward a more reliable framework for large-scale β-decay calculations needed, e.g., for r-process modeling.\n\n[Phys. Rev. C 109, 044308] Published Thu Apr 04, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevC.109.044308",
           "publishedOn": "2024-04-04T10:00:00.000Z",
-          "wordCount": 921,
+          "wordCount": 920,
           "title": "Effects of quasiparticle-vibration coupling on Gamow-Teller strength and $β$ decay with the Skyrme proton-neutron finite-amplitude method",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.109.044308.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1141,
           "title": "Magnetotransport properties in van der Waals $R{\\mathrm{Te}}_{3}$ $(R=\\mathrm{La}, \\mathrm{Ce}, \\mathrm{Tb})$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.134404.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.043502",
-          "author": "Austin G. Nixon, Matthieu Chalifour, Marc R. Bourgeois, Michael Sanchez, and David J. Masiello",
-          "description": "Author(s): Austin G. Nixon, Matthieu Chalifour, Marc R. Bourgeois, Michael Sanchez, and David J. Masiello\nRecent experimental advances in transverse electron beam shaping have reignited interest in inelastic electron scattering observables and the information they contain. In this study, the authors present a detailed analysis of inelastic scattering of structured electron wave functions interacting with nanophotonic targets, providing theoretical models and implementing their theory in a simulation software.\n\n[Phys. Rev. A 109, 043502] Published Tue Apr 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.043502",
-          "publishedOn": "2024-04-02T10:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Inelastic scattering of transversely structured free electrons from nanophotonic targets: Theory and computation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.043502.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021001",
-          "author": "David G. Clark and L. F. Abbott",
-          "description": "Author(s): David G. Clark and L. F. Abbott\nA new theoretical framework for plastic neural networks predicts dynamical regimes where synapses rather than neurons primarily drive the network’s behavior, leading to an alternative candidate mechanism for working memory in the brain.\n\n[Phys. Rev. X 14, 021001] Published Mon Apr 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021001",
-          "publishedOn": "2024-04-01T10:00:00.000Z",
-          "wordCount": 2160,
-          "title": "Theory of Coupled Neuronal-Synaptic Dynamics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L041402",
-          "author": "Takuya Aoyama and Kenya Ohgushi",
-          "description": "Author(s): Takuya Aoyama and Kenya Ohgushi\nThis study presents experimental results of the piezomagnetic effect in MnTe, one of the candidate materials for altermagnets. The piezomagnetic effect is a cross-correlation between magnetization and stress that is allowed in materials with broken time-reversal symmetry. The authors observed magnetization proportional to the stress below the antiferromagnetic transition temperature, indicating that MnTe has characteristics of altermagnets. They also demonstrated that the altermagnetic domains can be controlled via the piezomagnetic effect.\n\n[Phys. Rev. Materials 8, L041402] Published Mon Apr 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L041402",
-          "publishedOn": "2024-04-01T10:00:00.000Z",
-          "wordCount": 940,
-          "title": "Piezomagnetic properties in altermagnetic MnTe",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.L041402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141501",
-          "author": "Vijay Balasubramanian, Albion Lawrence, Javier M. Magán, and Martin Sasieta",
-          "description": "Author(s): Vijay Balasubramanian, Albion Lawrence, Javier M. Magán, and Martin Sasieta\nA theoretical proposal presents a framework for microscopic explanation of the entropy of astrophysical black holes.\n\n[Phys. Rev. Lett. 132, 141501] Published Mon Apr 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141501",
-          "publishedOn": "2024-04-01T10:00:00.000Z",
-          "wordCount": 987,
-          "title": "Microscopic Origin of the Entropy of Astrophysical Black Holes",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.141501.png"
         }
       ]
     }

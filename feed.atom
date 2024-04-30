@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-29T00:47:54.402Z</id>
+    <id>urn:2024-04-30T00:46:38.382Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T00:47:54.402Z</updated>
+    <updated>2024-04-30T00:46:38.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Laser Excitation of the Th-229 Nucleus]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.182501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.182501"/>
+        <updated>2024-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. Tiedau, M. V. Okhapkin, K. Zhang, J. Thielking, G. Zitzer, E. Peik, F. Schaden, T. Pronebner, I. Morawetz, L. Toscani De Col, F. Schneider, A. Leitner, M. Pressler, G. A. Kazakov, K. Beeks, T. Sikorsky, and T. Schumm
+Researchers use a laser to excite and precisely measure a long-sought exotic nuclear state, paving the way for precise timekeeping and ultrasensitive quantum sensing.
+
+[Phys. Rev. Lett. 132, 182501] Published Mon Apr 29, 2024]]></summary>
+        <author>
+            <name>J. Tiedau, M. V. Okhapkin, K. Zhang, J. Thielking, G. Zitzer, E. Peik, F. Schaden, T. Pronebner, I. Morawetz, L. Toscani De Col, F. Schneider, A. Leitner, M. Pressler, G. A. Kazakov, K. Beeks, T. Sikorsky, and T. Schumm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QCD corrections to the Darwin coefficient in inclusive semileptonic $B→{X}_{u}ℓ{\overline{ν}}_{ℓ}$ decays]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.074030</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.074030"/>
+        <updated>2024-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Daniel Moreno
+Following the Heavy Quark Expansion, this paper computes NLO corrections to the Darwin and four-quark operators for the inclusive semileptonic decays B → X_uℓν¯_ℓ. These corrections are found to be relatively large and will play a role in background subtraction for B → X_cℓν¯_ℓ measurements and better determination of CKM matrix elements.
+
+[Phys. Rev. D 109, 074030] Published Mon Apr 29, 2024]]></summary>
+        <author>
+            <name>Daniel Moreno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal construction of black hole microstates]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.086024</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.086024"/>
+        <updated>2024-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ana Climent, Roberto Emparan, Javier M. Magán, Martin Sasieta, and Alejandro Vilar López
+The authors refine and extend the statistical interpretation of the black hole entropy formula to wide classes of black holes such as rotating and charged black holes, including extremal and near-extremal solutions, with or without supersymmetry. They achieve this by constructing a set of black hole microstates with semiclassical interiors that span a Hilbert space of dimension eS, where S is the black hole entropy.
+
+[Phys. Rev. D 109, 086024] Published Mon Apr 29, 2024]]></summary>
+        <author>
+            <name>Ana Climent, Roberto Emparan, Javier M. Magán, Martin Sasieta, and Alejandro Vilar López</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error-corrected quantum repeaters with Gottesman-Kitaev-Preskill qudits]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.042427</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.042427"/>
+        <updated>2024-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Frank Schmidt, Daniel Miller, and Peter van Loock
+The authors theoretically analyze the performance of long-distance quantum communication protocols, specifically quantum repeaters based on Gottesman-Kitaev-Preskill (GKP) qudits. Previously, only the qubit case has been studied. They construct three quantum repeater schemes and find that, while in most cases any benefits of using higher dimensions is negated by worse error correction, there are some regimes where the use of qubits does increase the secret key rate.
+
+[Phys. Rev. A 109, 042427] Published Mon Apr 29, 2024]]></summary>
+        <author>
+            <name>Frank Schmidt, Daniel Miller, and Peter van Loock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Promise of Future Searches for Cosmic Topology]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.171501</id>
@@ -1251,58 +1303,6 @@ Rare-earth tritellurides are van der Waals antiferromagnets that are a promising
 [Phys. Rev. B 109, 134404] Published Tue Apr 02, 2024]]></summary>
         <author>
             <name>Tomo Higashihara, Ryotaro Asama, Ryoya Nakamura, Mori Watanabe, Nanami Tomoda, Thomas Johannes Hasiweder, Yuita Fujisawa, Yoshinori Okada, Takuya Iwasaki, Kenji Watanabe, Takashi Taniguchi, Nan Jiang, and Yasuhiro Niimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inelastic scattering of transversely structured free electrons from nanophotonic targets: Theory and computation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.043502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.043502"/>
-        <updated>2024-04-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Austin G. Nixon, Matthieu Chalifour, Marc R. Bourgeois, Michael Sanchez, and David J. Masiello
-Recent experimental advances in transverse electron beam shaping have reignited interest in inelastic electron scattering observables and the information they contain. In this study, the authors present a detailed analysis of inelastic scattering of structured electron wave functions interacting with nanophotonic targets, providing theoretical models and implementing their theory in a simulation software.
-
-[Phys. Rev. A 109, 043502] Published Tue Apr 02, 2024]]></summary>
-        <author>
-            <name>Austin G. Nixon, Matthieu Chalifour, Marc R. Bourgeois, Michael Sanchez, and David J. Masiello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theory of Coupled Neuronal-Synaptic Dynamics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.021001"/>
-        <updated>2024-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): David G. Clark and L. F. Abbott
-A new theoretical framework for plastic neural networks predicts dynamical regimes where synapses rather than neurons primarily drive the network’s behavior, leading to an alternative candidate mechanism for working memory in the brain.
-
-[Phys. Rev. X 14, 021001] Published Mon Apr 01, 2024]]></summary>
-        <author>
-            <name>David G. Clark and L. F. Abbott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piezomagnetic properties in altermagnetic MnTe]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L041402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L041402"/>
-        <updated>2024-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Takuya Aoyama and Kenya Ohgushi
-This study presents experimental results of the piezomagnetic effect in MnTe, one of the candidate materials for altermagnets. The piezomagnetic effect is a cross-correlation between magnetization and stress that is allowed in materials with broken time-reversal symmetry. The authors observed magnetization proportional to the stress below the antiferromagnetic transition temperature, indicating that MnTe has characteristics of altermagnets. They also demonstrated that the altermagnetic domains can be controlled via the piezomagnetic effect.
-
-[Phys. Rev. Materials 8, L041402] Published Mon Apr 01, 2024]]></summary>
-        <author>
-            <name>Takuya Aoyama and Kenya Ohgushi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microscopic Origin of the Entropy of Astrophysical Black Holes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.141501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.141501"/>
-        <updated>2024-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Vijay Balasubramanian, Albion Lawrence, Javier M. Magán, and Martin Sasieta
-A theoretical proposal presents a framework for microscopic explanation of the entropy of astrophysical black holes.
-
-[Phys. Rev. Lett. 132, 141501] Published Mon Apr 01, 2024]]></summary>
-        <author>
-            <name>Vijay Balasubramanian, Albion Lawrence, Javier M. Magán, and Martin Sasieta</name>
         </author>
     </entry>
 </feed>
