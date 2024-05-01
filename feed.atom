@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-30T00:46:38.382Z</id>
+    <id>urn:2024-05-01T00:51:21.809Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-30T00:46:38.382Z</updated>
+    <updated>2024-05-01T00:51:21.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Contributions to Diffusion in Complex Materials Quantified with Machine Learning]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.186301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.186301"/>
+        <updated>2024-04-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Soham Chattopadhyay and Dallas R. Trinkle
+To better understand diffusion in complex materials, a computational method separating out uncorrelated individual contributions makes it possible to construct new analytic forms for diffusivity.
+
+[Phys. Rev. Lett. 132, 186301] Published Tue Apr 30, 2024]]></summary>
+        <author>
+            <name>Soham Chattopadhyay and Dallas R. Trinkle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laser Excitation of the Th-229 Nucleus]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.182501</id>
@@ -1290,19 +1303,6 @@ Cavitation bubbles are present in a plethora of industrial and medical applicati
 [Phys. Rev. Fluids 9, 043602] Published Tue Apr 02, 2024]]></summary>
         <author>
             <name>Mandeep Saini, Youssef Saade, Daniel Fuster, and Detlef Lohse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetotransport properties in van der Waals $R{\mathrm{Te}}_{3}$ $(R=\mathrm{La}, \mathrm{Ce}, \mathrm{Tb})$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.134404</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.134404"/>
-        <updated>2024-04-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tomo Higashihara, Ryotaro Asama, Ryoya Nakamura, Mori Watanabe, Nanami Tomoda, Thomas Johannes Hasiweder, Yuita Fujisawa, Yoshinori Okada, Takuya Iwasaki, Kenji Watanabe, Takashi Taniguchi, Nan Jiang, and Yasuhiro Niimi
-Rare-earth tritellurides are van der Waals antiferromagnets that are a promising platform not only for spintronic devices but also for the study of the correlation between the charge density wave (CDW) and magnetic states in low-dimensional materials. Here, the authors perform longitudinal and Hall resistivity measurements in exfoliated RTe3 (R=La, Ce, Tb) thin film devices. The carrier mobility and concentration change at the magnetic transition temperature. The result suggests the strong coupling between the CDW and antiferromagnetic phases.
-
-[Phys. Rev. B 109, 134404] Published Tue Apr 02, 2024]]></summary>
-        <author>
-            <name>Tomo Higashihara, Ryotaro Asama, Ryoya Nakamura, Mori Watanabe, Nanami Tomoda, Thomas Johannes Hasiweder, Yuita Fujisawa, Yoshinori Okada, Takuya Iwasaki, Kenji Watanabe, Takashi Taniguchi, Nan Jiang, and Yasuhiro Niimi</name>
         </author>
     </entry>
 </feed>
