@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021022",
+          "author": "Ludovico Lami, Julen S. Pedernales, and Martin B. Plenio",
+          "description": "Author(s): Ludovico Lami, Julen S. Pedernales, and Martin B. Plenio\nA proposed experiment could bring scientists closer to answering the long-standing question of whether gravity is a classical or a quantum phenomenon.\n\n[Phys. Rev. X 14, 021022] Published Wed May 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021022",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 1527,
+          "title": "Testing the Quantumness of Gravity without Entanglement",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021022.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.183802",
+          "author": "F. Pellerin, R. Houvenaghel, W. A. Coish, I. Carusotto, and P. St-Jean",
+          "description": "Author(s): F. Pellerin, R. Houvenaghel, W. A. Coish, I. Carusotto, and P. St-Jean\nA method for freely adjusting the parameters of a loop of optical fiber enables the exploration of exotic topological phases of matter.\n\n[Phys. Rev. Lett. 132, 183802] Published Wed May 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.183802",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 1308,
+          "title": "Wave-Function Tomography of Topological Dimer Chains with Long-Range Couplings",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.183802.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.186203",
+          "author": "Wolfgang S. M. Werner, Florian Simperl, Felix Blödorn, Julian Brunner, Johannes Kero, Alessandra Bellissimo, and Olga Ridzel",
+          "description": "Author(s): Wolfgang S. M. Werner, Florian Simperl, Felix Blödorn, Julian Brunner, Johannes Kero, Alessandra Bellissimo, and Olga Ridzel\nTo describe the electron beam attenuation lengths in solids, in addition to a single-exponential law, momentum relaxation must also be taken into account.\n\n[Phys. Rev. Lett. 132, 186203] Published Wed May 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.186203",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 1246,
+          "title": "Energy Dissipation of Fast Electrons in Polymethylmethacrylate: Toward a Universal Curve for Electron-Beam Attenuation in Solids between $∼0\\text{ }\\text{ }\\mathrm{eV}$ and Relativistic Energies",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.186203.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.205107",
+          "author": "Junyan Ma and H. Huang",
+          "description": "Author(s): Junyan Ma and H. Huang\nThis paper delves into the intriguing connection between electronic topology and the two-dimensional melting of solids. Conventionally, Kosterlitz-Thouless-Halperin-Nelson-Young theory shows that the behavior of disclinations determines the melting process of 2D crystals. By uncovering how electrons become trapped in disclinations due to nontrivial electronic topology, the authors shed light here on a deviation of the disclination-involving melting process, because of the increase in the energy barrier for unbinding disclination pairs.\n\n[Phys. Rev. B 109, 205107] Published Wed May 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.205107",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 1240,
+          "title": "Electronic topology with bound defect charges promotes intermediate hexatic phase in two-dimensional melting",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.205107.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.205108",
+          "author": "Jerome Lloyd, Tibor Rakovszky, Frank Pollmann, and Curt von Keyserlingk",
+          "description": "Author(s): Jerome Lloyd, Tibor Rakovszky, Frank Pollmann, and Curt von Keyserlingk\nIn systems of fermions at finite temperatures, interactions are believed to induce a crossover from the coherent and ballistic streaming of quasiparticles at early times, to incoherent diffusive behavior at late times. Here, the authors develop a numerical method to simulate such systems. They use the method to determine how the rate of diffusion depends on the strength of interactions, and to confirm the predicted crossover.\n\n[Phys. Rev. B 109, 205108] Published Wed May 01, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.205108",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 1788,
+          "title": "Ballistic to diffusive crossover in a weakly interacting Fermi gas",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.205108.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.186301",
           "author": "Soham Chattopadhyay and Dallas R. Trinkle",
           "description": "Author(s): Soham Chattopadhyay and Dallas R. Trinkle\nTo better understand diffusion in complex materials, a computational method separating out uncorrelated individual contributions makes it possible to construct new analytic forms for diffusivity.\n\n[Phys. Rev. Lett. 132, 186301] Published Tue Apr 30, 2024",
@@ -954,56 +1004,6 @@
           "wordCount": 1094,
           "title": "Quantum control and noise protection of a Floquet $0\\text{−}π$ qubit",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.042607.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141602",
-          "author": "Vladimir Kazakov, Evgeny Sobko, and Konstantin Zarembo",
-          "description": "Author(s): Vladimir Kazakov, Evgeny Sobko, and Konstantin Zarembo\nAn exact analytic solution for the vacuum state of the two-dimensional principal chiral model at any set of chemical potentials in the limit of large number of particle species exhibits an emergent third dimension and also supports the potential for a dual string description in a specific double-scaled limit.\n\n[Phys. Rev. Lett. 132, 141602] Published Tue Apr 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141602",
-          "publishedOn": "2024-04-02T10:00:00.000Z",
-          "wordCount": 853,
-          "title": "Large-$N$ Principal Chiral Model in Arbitrary External Fields",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.141602.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141603",
-          "author": "David B. Kaplan",
-          "description": "Author(s): David B. Kaplan\nDavid Kaplan has developed a lattice model for particles that are left- or right-handed, offering a firmer foundation for the theory of weak interactions.\n\n[Phys. Rev. Lett. 132, 141603] Published Tue Apr 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141603",
-          "publishedOn": "2024-04-02T10:00:00.000Z",
-          "wordCount": 760,
-          "title": "Chiral Gauge Theory at the Boundary between Topological Phases",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.141603.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141604",
-          "author": "David B. Kaplan and Srimoyee Sen",
-          "description": "Author(s): David B. Kaplan and Srimoyee Sen\nDavid Kaplan has developed a lattice model for particles that are left- or right-handed, offering a firmer foundation for the theory of weak interactions.\n\n[Phys. Rev. Lett. 132, 141604] Published Tue Apr 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.141604",
-          "publishedOn": "2024-04-02T10:00:00.000Z",
-          "wordCount": 1153,
-          "title": "Weyl Fermions on a Finite Lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.141604.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.146302",
-          "author": "Mirza M. Elahi, Hamed Vakili, Yihang Zeng, Cory R. Dean, and Avik W. Ghosh",
-          "description": "Author(s): Mirza M. Elahi, Hamed Vakili, Yihang Zeng, Cory R. Dean, and Avik W. Ghosh\nGraphene is the setting for the first demonstration of relativistic electrons’ paradoxical ability to whiz through a barrier, provided the barrier is high enough.\n\n[Phys. Rev. Lett. 132, 146302] Published Tue Apr 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.146302",
-          "publishedOn": "2024-04-02T10:00:00.000Z",
-          "wordCount": 1377,
-          "title": "Direct Evidence of Klein and Anti-Klein Tunneling of Graphitic Electrons in a Corbino Geometry",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.146302.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.043602",
-          "author": "Mandeep Saini, Youssef Saade, Daniel Fuster, and Detlef Lohse",
-          "description": "Author(s): Mandeep Saini, Youssef Saade, Daniel Fuster, and Detlef Lohse\nCavitation bubbles are present in a plethora of industrial and medical applications, and their understanding proves crucial to the development and tuning processes. In this study, we perform three dimensional direct numerical simulations (DNS) of multiple cavitation bubbles driven by pressure waves. Similarly observed in previously conducted experiments, it is found that these bubbles can exhibit an asymmetry in the direction of wave propagation. We show that this asymmetry is a consequence of the force induced by the wave on the bubbles, due to the finite speed of sound in the liquid medium.\n\n[Phys. Rev. Fluids 9, 043602] Published Tue Apr 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.043602",
-          "publishedOn": "2024-04-02T10:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Finite speed of sound effects on asymmetry in multibubble cavitation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.043602.png"
         }
       ]
     }
