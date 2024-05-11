@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-10T00:47:45.286Z</id>
+    <id>urn:2024-05-11T00:46:54.876Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T00:47:45.286Z</updated>
+    <updated>2024-05-11T00:46:54.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Single file motion of robot swarms]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L022037</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.L022037"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Laciel Alonso-Llanes, Angel Garcimartín, and Iker Zuriguel
+A robot swarm is used to simulate single-lane traffic, identifying three different states: free flow, intermittent, and totally congested. The stability and repeatability of these agents, which become a suitable model of programmable active-matter systems, is showcased.
+
+[Phys. Rev. Research 6, L022037] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>Laciel Alonso-Llanes, Angel Garcimartín, and Iker Zuriguel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirality-Driven Orbital Angular Momentum and Circular Dichroism in CoSi]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.196402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.196402"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Stefanie Suzanne Brinkman, Xin Liang Tan, Bjørnulf Brekke, Anders Christian Mathisen, Øyvind Finnseth, Richard Justin Schenk, Kenta Hagiwara, Meng-Jie Huang, Jens Buck, Matthias Kalläne, Moritz Hoesch, Kai Rossnagel, Kui-Hon Ou Yang, Minn-Tsong Lin, Guo-Jiun Shu, Ying-Jiun Chen, Christian Tusche, and Hendrik Bentmann
+X-ray experiments reveal that a semimetal exhibits “orbital texture”—an exotic electronic structure resulting in spin-dependent electron transport.
+
+[Phys. Rev. Lett. 132, 196402] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>Stefanie Suzanne Brinkman, Xin Liang Tan, Bjørnulf Brekke, Anders Christian Mathisen, Øyvind Finnseth, Richard Justin Schenk, Kenta Hagiwara, Meng-Jie Huang, Jens Buck, Matthias Kalläne, Moritz Hoesch, Kai Rossnagel, Kui-Hon Ou Yang, Minn-Tsong Lin, Guo-Jiun Shu, Ying-Jiun Chen, Christian Tusche, and Hendrik Bentmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum-Geometric Origin of Out-of-Plane Stacking Ferroelectricity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.196801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.196801"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Benjamin T. Zhou, Vedangi Pathak, and Marcel Franz
+The quantum-geometric origin of out-of-plane stacking ferroelectric polarization is elucidated and shown to be compatible with the modern theory of polarization.
+
+[Phys. Rev. Lett. 132, 196801] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>Benjamin T. Zhou, Vedangi Pathak, and Marcel Franz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine-Learning Optimized Measurements of Chaotic Dynamical Systems via the Information Bottleneck]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.197201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.197201"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kieran A. Murphy and Dani S. Bassett
+Machine learning can be employed to to optimize extraction of information from trajectory data in deterministic chaos.
+
+[Phys. Rev. Lett. 132, 197201] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>Kieran A. Murphy and Dani S. Bassett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Longitudinal and azimuthal thermoacoustic modes in a pressurized annular combustor with bluff-body-stabilized methane-hydrogen flames]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.053907</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.053907"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Byeonguk Ahn, Håkon T. Nygård, Nicholas A. Worth, Zhijian Yang, and Larry K. B. Li
+To explore the dynamics of annular combustors, we investigate azimuthal thermoacoustic instabilities under a range of hydrogen power fractions and operating conditions. Using time-series analysis and mode detection techniques, we examine the relationship between longitudinal and azimuthal modes, identifying a transition from chaos to high-amplitude periodic states. Our research sheds light on how hydrogen enrichment affects combustor stability and presents the first identification of type-II Pomeau–Manneville intermittency in annular combustors. These findings contribute to knowledge of the modal dynamics within combustors, with implications for the design and operation of future systems.
+
+[Phys. Rev. Fluids 9, 053907] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>Byeonguk Ahn, Håkon T. Nygård, Nicholas A. Worth, Zhijian Yang, and Larry K. B. Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineering of polydisperse porous media for enhanced fluid flows through systematic topology tuning via differentiable direct numerical simulation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.054103</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.054103"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mohammed G. Alhashim and Michael P. Brenner
+Recent advancements in automatic differentiation, which played a pivotal role in deep learning, offer a promising approach to addressing challenges in controlling fluid flow behavior. We demonstrate the power of the method by optimizing the packing of a polydisperse system of periodically arranged circular rods to minimize the pressure drop across the media. We show how the optimum topology of the porous media changes with changing the packing fraction.
+
+[Phys. Rev. Fluids 9, 054103] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>Mohammed G. Alhashim and Michael P. Brenner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beta functions of 2D adjoint QCD]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.105014</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.105014"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Aleksey Cherman and Maria Neuzil
+The authors discuss 2D QCD with adjoint massless fermions and its deformation by the two (classically) marginal four-fermion operators, only one of which respects a noninvertible symmetry. They compute the β functions of the two operators and discuss in detail their behavior in the IR, thereby clarifying some confusion in the literature stemming from different approaches, confinement behavior and treatment on the lattice. These are important results for this laboratory of confinement and lattice formulations.
+
+[Phys. Rev. D 109, 105014] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>Aleksey Cherman and Maria Neuzil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conformal field theory approach to parton fractional quantum Hall trial wave functions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.205128</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.205128"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Greg J. Henderson, G. J. Sreejith, and Steven H. Simon
+Conformal field theory (CFT) has played a pivotal role in understanding the topological phases of matter represented by many fractional quantum Hall effect (FQHE) trial wave functions. Previous papers have shown how the topological properties of a trial wave function expressible as a CFT correlation function can be related to properties of the corresponding CFT, assuming a field-theoretic generalization of Laughlin’s plasma analogy holds. Here, the authors show how these methods can be extended to understand certain topological properties of parton-type FQHE trial wave functions.
+
+[Phys. Rev. B 109, 205128] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>Greg J. Henderson, G. J. Sreejith, and Steven H. Simon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vacuum chambers for Swiss Light Source arcs]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.053201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.053201"/>
+        <updated>2024-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): R. Ganter, P. Braschoss, H.-H. Braun, J. Buchmann, A. Citterio, M. Dehler, N. Gaiffi, N. Kirchgeorg, M. Magjar, C. Rosenberg, D. Stephan, L. Schulz, R. Sieber, X. Wang, and A. Zandonella
+Solutions to the challenges of vacuum chambers for diffraction limited storage rings are presented for the upgrade of the Swiss Light Source: From design to assembly.
+
+[Phys. Rev. Accel. Beams 27, 053201] Published Fri May 10, 2024]]></summary>
+        <author>
+            <name>R. Ganter, P. Braschoss, H.-H. Braun, J. Buchmann, A. Citterio, M. Dehler, N. Gaiffi, N. Kirchgeorg, M. Magjar, C. Rosenberg, D. Stephan, L. Schulz, R. Sieber, X. Wang, and A. Zandonella</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Production of $p$ Nuclei from $r$-Process Seeds: The $νr$ Process]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.192701</id>
@@ -1186,123 +1303,6 @@ The so-called Remeika phase of the 3–4–13 class of materials is a candidate 
 [Phys. Rev. B 109, 134425] Published Tue Apr 16, 2024]]></summary>
         <author>
             <name>Ami Shimoda, Kazuaki Iwasa, Keitaro Kuwahara, Hajime Sagayama, Hironori Nakao, Motoyuki Ishikado, Akiko Nakao, Seiko Ohira-Kawamura, Naoki Murai, Takashi Ohhara, and Yusuke Nambu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Electrodynamics in $2+1$ Dimensions as the Organizing Principle of a Triangular Lattice Antiferromagnet]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021010</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.021010"/>
-        <updated>2024-04-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alexander Wietek, Sylvain Capponi, and Andreas M. Läuchli
-A numerical investigation has revealed a surprising correspondence between a lattice spin model and a quantum field theory.
-
-[Phys. Rev. X 14, 021010] Published Mon Apr 15, 2024]]></summary>
-        <author>
-            <name>Alexander Wietek, Sylvain Capponi, and Andreas M. Läuchli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confinement of magnetic solitons and edge states in a van der Waals material: FeOCl]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044003</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044003"/>
-        <updated>2024-04-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Martin Panthöfer, Stefanie Berinskat, Fabian Predelli, Peter Lemmens, and Angela Möller
-This paper reports that domain-wall-like modes govern the magnetic response of the van der Waals material FeOCl. Due to boundaries, these excitations condense into an unconventional magnetic order with a diffusional dynamics as probed by Mössbauer spectroscopy and Raman scattering. These results have implications for a better understanding of fundamental aspects of soliton-like excitations as well as topological magnetism and related information storage. The authors highlight that the observed phenomenology and proposed condensation of solitons into topological edge states is a generic feature of non-linear systems with confinement.
-
-[Phys. Rev. Materials 8, 044003] Published Mon Apr 15, 2024]]></summary>
-        <author>
-            <name>Martin Panthöfer, Stefanie Berinskat, Fabian Predelli, Peter Lemmens, and Angela Möller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Growth and characterization of $α$-Sn thin films on In- and Sb-rich reconstructions of InSb(001)]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044202</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.044202"/>
-        <updated>2024-04-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Aaron N. Engel, Connor P. Dempsey, Hadass S. Inbar, Jason T. Dong, Shinichi Nishihaya, Yuhao Chang, Alexei V. Fedorov, Makoto Hashimoto, Donghui Lu, and Christopher J. Palmstrøm
-α-Sn, the inversion symmetric analogue of HgTe, can be tuned through various topologically non-trivial phases by a combination of strain and/or confinement effects. In addition, thin films of α-Sn have demonstrated very efficient spin-charge conversion. However, α-Sn thin films grown on InSb have been plagued by heavy incorporation of the p-type dopant indium. To better study and make use of the topological phases in α-Sn, this indium doping must be minimized. The authors realize this reduction by tuning the surface reconstruction of InSb(001) on which molecular beam epitaxy growth of α-Sn is initiated. The low indium doping is verified by both photoemission and magnetotransport measurements. The accessibility of the surface Dirac node in angle-resolved photoemission spectroscopy—made possible by the substrate preparation procedure—allows direct measurements of the effect of confinement and epitaxial strain on the topological phase in this system.
-
-[Phys. Rev. Materials 8, 044202] Published Mon Apr 15, 2024]]></summary>
-        <author>
-            <name>Aaron N. Engel, Connor P. Dempsey, Hadass S. Inbar, Jason T. Dong, Shinichi Nishihaya, Yuhao Chang, Alexei V. Fedorov, Makoto Hashimoto, Donghui Lu, and Christopher J. Palmstrøm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feasible Route to High-Temperature Ambient-Pressure Hydride Superconductivity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.166001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.166001"/>
-        <updated>2024-04-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kapildeb Dolui, Lewis J. Conway, Christoph Heil, Timothy A. Strobel, Rohit P. Prasankumar, and Chris J. Pickard
-First-principles structure predictions across a very wide range of chemical compositions suggest that the cubic Mg2IrH6 structure is dynamically stable at zero pressure, and is computed to have a Tc of around 160K.
-
-[Phys. Rev. Lett. 132, 166001] Published Mon Apr 15, 2024]]></summary>
-        <author>
-            <name>Kapildeb Dolui, Lewis J. Conway, Christoph Heil, Timothy A. Strobel, Rohit P. Prasankumar, and Chris J. Pickard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coherent control of photomagnetic back-switching by double-pump laser pulses]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.044026</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.044026"/>
-        <updated>2024-04-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. Zalewski, L. Nowak, and A. Stupakiewicz
-The ultrafast all-optical control of magnetization without relying on heat is promising for magnetic recording technology. While the magnetization switching between two stable bit states does not require control over light polarization, photomagnetic toggling of magnetization (equivalent to the XOR logic operation) can be achieved. This study probes the efficiency of a back-switching scenario between two stable bit states, using a pair of femtosecond laser pulses with either the same or orthogonal orientations of linear polarization. Such a nonthermal toggle regime not only can provide recording at rates up to 50 GHz, but also can perform basic logic operations.
-
-[Phys. Rev. Applied 21, 044026] Published Mon Apr 15, 2024]]></summary>
-        <author>
-            <name>T. Zalewski, L. Nowak, and A. Stupakiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design of a dual-mode transverse deflecting structure using neural network and multiobjective algorithms]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.042001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.042001"/>
-        <updated>2024-04-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): H. Gong, W. Fang, J. Tan, X. Huang, C. Wang, Y. Xu, and Z. Zhao
-A transverse deflecting structure operating in two rf modes can provide time-varying linear polarization at ultrafast speed.
-
-[Phys. Rev. Accel. Beams 27, 042001] Published Mon Apr 15, 2024]]></summary>
-        <author>
-            <name>H. Gong, W. Fang, J. Tan, X. Huang, C. Wang, Y. Xu, and Z. Zhao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polarizability models for simulations of finite temperature Raman spectra from machine learning molecular dynamics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.043802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.043802"/>
-        <updated>2024-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ethan Berger and Hannu-Pekka Komsa
-While the efficacy of machine learning (ML) force fields in simulating molecular dynamics (MD) trajectories has already been well established, simulating Raman spectra from them requires polarizability models which are much less explored. In this work, three polarizability models are compared using three widely different materials, namely boron arsenide, 2D molybdenum disulfide and inorganic halide perovskites. The Raman spectra are obtained in combination with ML MD and compared to experiments, allowing us to highlight the advantages and shortcomings of each model.
-
-[Phys. Rev. Materials 8, 043802] Published Fri Apr 12, 2024]]></summary>
-        <author>
-            <name>Ethan Berger and Hannu-Pekka Komsa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observations of Rogue Seas in the Southern Ocean]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.154101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.154101"/>
-        <updated>2024-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Toffoli, A. Alberello, H. Clarke, F. Nelli, A. Benetazzo, F. Bergamasco, B. Ntamba Ntamba, M. Vichi, and M. Onorato
-Observations of the Southern Ocean show that wind can produce the surface states needed to generate rare “rogue” waves.
-
-[Phys. Rev. Lett. 132, 154101] Published Fri Apr 12, 2024]]></summary>
-        <author>
-            <name>A. Toffoli, A. Alberello, H. Clarke, F. Nelli, A. Benetazzo, F. Bergamasco, B. Ntamba Ntamba, M. Vichi, and M. Onorato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Origin of Anomalously Large Depletion Zones in Like-Charged Colloid-Polyelectrolyte Mixtures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.158103</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.158103"/>
-        <updated>2024-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. M. Martens, M. Vis, and R. Tuinier
-An explicit analytical expression to predict the size of the depletion zone in like-charged polyelectrolyte-colloid mixtures allows for a direct comparison with experiments.
-
-[Phys. Rev. Lett. 132, 158103] Published Fri Apr 12, 2024]]></summary>
-        <author>
-            <name>C. M. Martens, M. Vis, and R. Tuinier</name>
         </author>
     </entry>
 </feed>
