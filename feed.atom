@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-14T00:48:47.092Z</id>
+    <id>urn:2024-05-15T00:48:31.692Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T00:48:47.092Z</updated>
+    <updated>2024-05-15T00:48:31.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Experimental Quantum Homomorphic Encryption Using a Quantum Photonic Chip]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.200801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.200801"/>
+        <updated>2024-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yuan Li, Lin Cao, Wei Luo, Hui Zhang, Hong Cai, Muhammad Faeyz Karim, Feng Gao, Joseph Fitzsimons, Qinghua Song, and Ai-Qun Liu
+Quantum fully homomorphic encryption is shown to be feasible on a compact silicon photonic chip, improving the prospects of a scalable, programmable, and stable quantum network infrastructure.
+
+[Phys. Rev. Lett. 132, 200801] Published Tue May 14, 2024]]></summary>
+        <author>
+            <name>Yuan Li, Lin Cao, Wei Luo, Hui Zhang, Hong Cai, Muhammad Faeyz Karim, Feng Gao, Joseph Fitzsimons, Qinghua Song, and Ai-Qun Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free-space and near-wall dynamics of a flexible sheet sedimenting in Stokes flow]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.054104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.054104"/>
+        <updated>2024-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yijiang Yu and Michael D. Graham
+We present a numerical study of a thin elastic sheet with small extensibility sedimenting in a viscous fluid in free space or near a wall. The interplay between gravity and the elastic response of sheets gives rise to complex deformation and reorientation dynamics. Near a vertical wall, sheets exhibit asymmetric conformations that cause the sheet to drift toward or away from the wall. Near an inclined wall, sheets show qualitatively different dynamics when the wall angle is large: they either deposit on or slide along the wall with a fixed wall-normal distance.
+
+[Phys. Rev. Fluids 9, 054104] Published Tue May 14, 2024]]></summary>
+        <author>
+            <name>Yijiang Yu and Michael D. Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measurement of nuclear effects in neutrino-argon interactions using generalized kinematic imbalance variables with the MicroBooNE detector]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.092007</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.092007"/>
+        <updated>2024-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): P. Abratenko et al. (MicroBooNE Collaboration)
+Modeling of neutrino-nucleus scattering is essential to making sense of neutrino experimental data. In this paper, the MicroBooNE collaboration proposes and measures a set of generalized kinematic imbalance variables that are particularly well-suited for separating out and modeling nuclear effects. The usefulness of these variables is demonstrated by comparing data to event generators.
+
+[Phys. Rev. D 109, 092007] Published Tue May 14, 2024]]></summary>
+        <author>
+            <name>P. Abratenko &lt;em&gt;et al.&lt;/em&gt; (MicroBooNE Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark matter annihilation and pair-instability supernovae]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.103021</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.103021"/>
+        <updated>2024-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Djuna Croon and Jeremy Sakstein
+The authors study the effect of annihilating dark matter on massive stars suffering from pair-instability. The annihilation of dark matter inserts energy into the star and the authors show that for sufficient dark matter density, significant changes occur in the masses of the resulting black holes. For dark matter masses greater than 1 GeV, most of the dark matter is in the core which leads to a more violent explosion, resulting in a lighter black hole, while for masses less than .5 GeV, most of the dark matter is in the envelope, supporting the star through energy release, causing a less violent explosion and a more massive black hole.
+
+[Phys. Rev. D 109, 103021] Published Tue May 14, 2024]]></summary>
+        <author>
+            <name>Djuna Croon and Jeremy Sakstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measurement-driven neural-network training for integrated magnetic tunnel junction arrays]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.054028</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.054028"/>
+        <updated>2024-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): William A. Borders, Advait Madhavan, Matthew W. Daniels, Vasileia Georgiou, Martin Lueker-Boden, Tiffany S. Santos, Patrick M. Braganca, Mark D. Stiles, Jabez J. McClelland, and Brian D. Hoskins
+Defective devices can severely impact the performance of hardware-based neural networks, in particular resistive crossbar arrays. This study introduces a network training approach that reduces the influence of defective devices, maintaining inference accuracy. The authors demonstrate this approach on a set of dies each containing a crossbar array consisting of 20,000 magnetic tunnel junction devices. They also develop a generalized approach using the statistics of defects and demonstrate similar performance on all dies. These results translate to a manufacturing setting where millions of dies with possible defects are produced, but the performance of even subpar chips can be guaranteed.
+
+[Phys. Rev. Applied 21, 054028] Published Tue May 14, 2024]]></summary>
+        <author>
+            <name>William A. Borders, Advait Madhavan, Matthew W. Daniels, Vasileia Georgiou, Martin Lueker-Boden, Tiffany S. Santos, Patrick M. Braganca, Mark D. Stiles, Jabez J. McClelland, and Brian D. Hoskins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enhanced Quantum Control of Individual Ultracold Molecules Using Optical Tweezer Arrays]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.020333</id>
@@ -1238,71 +1303,6 @@ The first experimental measurement of the incoherent photonuclear production of 
 [Phys. Rev. Lett. 132, 162302] Published Fri Apr 19, 2024]]></summary>
         <author>
             <name>S. Acharya &lt;em&gt;et al.&lt;/em&gt; (ALICE Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision Measurement of the $n=2$ Triplet $P$ $J=1$ to $J=0$ Fine Structure of Atomic Helium Using Frequency-Offset Separated Oscillatory Fields]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.163001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.163001"/>
-        <updated>2024-04-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Heydarizadmotlagh, T. D. G. Skinner, K. Kato, M. C. George, and E. A. Hessels
-Precision measurement of the fine structure in helium makes it possible to perform an independent measurement of the fine structure constant.
-
-[Phys. Rev. Lett. 132, 163001] Published Fri Apr 19, 2024]]></summary>
-        <author>
-            <name>F. Heydarizadmotlagh, T. D. G. Skinner, K. Kato, M. C. George, and E. A. Hessels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evidence of scale-free clusters of vegetation in tropical rainforests]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.109.L042402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.109.L042402"/>
-        <updated>2024-04-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pablo Villegas, Tommaso Gili, Guido Caldarelli, and Andrea Gabrielli
-The distribution of vegetation clusters in a tropical rainforest shows evidence of scale-invariance, suggesting a system close to a critical state. This observation could help to diagnose the health of rainforests and other ecosystems in the face of environmental change.
-
-[Phys. Rev. E 109, L042402] Published Fri Apr 19, 2024]]></summary>
-        <author>
-            <name>Pablo Villegas, Tommaso Gili, Guido Caldarelli, and Andrea Gabrielli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filling-enforced obstructed atomic insulators]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.165139</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.165139"/>
-        <updated>2024-04-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yuanfeng Xu, Luis Elcoro, Zhi-Da Song, M. G. Vergniory, Claudia Felser, Stuart S. P. Parkin, Nicolas Regnault, Juan L. Mañes, and B. Andrei Bernevig
-Topologically trivial insulators can further be identified as obstructed atomic insulators when the symmetric Wannier functions are centered at positions not occupied by atoms. Here, the authors derive all charge-filling criteria that force a topologically trivial insulator to an obstructed atomic insulator. About one thousand filling-enforced obstructed atomic insulators are found through high-throughput calculations.
-
-[Phys. Rev. B 109, 165139] Published Fri Apr 19, 2024]]></summary>
-        <author>
-            <name>Yuanfeng Xu, Luis Elcoro, Zhi-Da Song, M. G. Vergniory, Claudia Felser, Stuart S. P. Parkin, Nicolas Regnault, Juan L. Mañes, and B. Andrei Bernevig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Density Loading and Collisional Loss of Laser-Cooled Molecules in an Optical Trap]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.163403</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.163403"/>
-        <updated>2024-04-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille
-Dense ensembles of laser-cooled molecules allow the observation of molecular collisions—a result that could lead to applications of cold molecular gases in quantum simulation and fundamental physics tests.
-
-[Phys. Rev. Lett. 132, 163403] Published Thu Apr 18, 2024]]></summary>
-        <author>
-            <name>Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic band structure of ${\mathrm{Sb}}_{2}{\mathrm{Te}}_{3}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.165205</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.165205"/>
-        <updated>2024-04-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): I. Mohelsky, J. Wyzula, F. Le Mardelé, F. Abadizaman, O. Caha, A. Dubroka, X. D. Sun, C. W. Cho, B. A. Piot, M. F. Tanzim, I. Aguilera, G. Bauer, G. Springholz, and M. Orlita
-Antimony telluride (Sb2Te3) has garnered significant attention within the condensed matter community, particularly as one of the earliest experimentally recognized topological insulators. However, despite substantial investigation, our understanding of the bulk electronic band structure of Sb2Te3 remains incomplete. Here, the authors employ a comprehensive experimental and theoretical approach integrating magneto-optical, optical, magnetotransport and ab initio techniques to examine Sb2Te3. Their findings reveal that this material possesses a direct energy band gap at the center of the Brillouin zone, while also exhibiting additional low-energy band extrema in mirror planes.
-
-[Phys. Rev. B 109, 165205] Published Thu Apr 18, 2024]]></summary>
-        <author>
-            <name>I. Mohelsky, J. Wyzula, F. Le Mardelé, F. Abadizaman, O. Caha, A. Dubroka, X. D. Sun, C. W. Cho, B. A. Piot, M. F. Tanzim, I. Aguilera, G. Bauer, G. Springholz, and M. Orlita</name>
         </author>
     </entry>
 </feed>

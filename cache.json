@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.200801",
+          "author": "Yuan Li, Lin Cao, Wei Luo, Hui Zhang, Hong Cai, Muhammad Faeyz Karim, Feng Gao, Joseph Fitzsimons, Qinghua Song, and Ai-Qun Liu",
+          "description": "Author(s): Yuan Li, Lin Cao, Wei Luo, Hui Zhang, Hong Cai, Muhammad Faeyz Karim, Feng Gao, Joseph Fitzsimons, Qinghua Song, and Ai-Qun Liu\nQuantum fully homomorphic encryption is shown to be feasible on a compact silicon photonic chip, improving the prospects of a scalable, programmable, and stable quantum network infrastructure.\n\n[Phys. Rev. Lett. 132, 200801] Published Tue May 14, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.200801",
+          "publishedOn": "2024-05-14T10:00:00.000Z",
+          "wordCount": 1122,
+          "title": "Experimental Quantum Homomorphic Encryption Using a Quantum Photonic Chip",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.200801.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.054104",
+          "author": "Yijiang Yu and Michael D. Graham",
+          "description": "Author(s): Yijiang Yu and Michael D. Graham\nWe present a numerical study of a thin elastic sheet with small extensibility sedimenting in a viscous fluid in free space or near a wall. The interplay between gravity and the elastic response of sheets gives rise to complex deformation and reorientation dynamics. Near a vertical wall, sheets exhibit asymmetric conformations that cause the sheet to drift toward or away from the wall. Near an inclined wall, sheets show qualitatively different dynamics when the wall angle is large: they either deposit on or slide along the wall with a fixed wall-normal distance.\n\n[Phys. Rev. Fluids 9, 054104] Published Tue May 14, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.054104",
+          "publishedOn": "2024-05-14T10:00:00.000Z",
+          "wordCount": 1334,
+          "title": "Free-space and near-wall dynamics of a flexible sheet sedimenting in Stokes flow",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.054104.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.092007",
+          "author": "P. Abratenko <em>et al.</em> (MicroBooNE Collaboration)",
+          "description": "Author(s): P. Abratenko et al. (MicroBooNE Collaboration)\nModeling of neutrino-nucleus scattering is essential to making sense of neutrino experimental data. In this paper, the MicroBooNE collaboration proposes and measures a set of generalized kinematic imbalance variables that are particularly well-suited for separating out and modeling nuclear effects. The usefulness of these variables is demonstrated by comparing data to event generators.\n\n[Phys. Rev. D 109, 092007] Published Tue May 14, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.092007",
+          "publishedOn": "2024-05-14T10:00:00.000Z",
+          "wordCount": 2109,
+          "title": "Measurement of nuclear effects in neutrino-argon interactions using generalized kinematic imbalance variables with the MicroBooNE detector",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.092007.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.103021",
+          "author": "Djuna Croon and Jeremy Sakstein",
+          "description": "Author(s): Djuna Croon and Jeremy Sakstein\nThe authors study the effect of annihilating dark matter on massive stars suffering from pair-instability. The annihilation of dark matter inserts energy into the star and the authors show that for sufficient dark matter density, significant changes occur in the masses of the resulting black holes. For dark matter masses greater than 1 GeV, most of the dark matter is in the core which leads to a more violent explosion, resulting in a lighter black hole, while for masses less than .5 GeV, most of the dark matter is in the envelope, supporting the star through energy release, causing a less violent explosion and a more massive black hole.\n\n[Phys. Rev. D 109, 103021] Published Tue May 14, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.103021",
+          "publishedOn": "2024-05-14T10:00:00.000Z",
+          "wordCount": 914,
+          "title": "Dark matter annihilation and pair-instability supernovae",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.103021.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.054028",
+          "author": "William A. Borders, Advait Madhavan, Matthew W. Daniels, Vasileia Georgiou, Martin Lueker-Boden, Tiffany S. Santos, Patrick M. Braganca, Mark D. Stiles, Jabez J. McClelland, and Brian D. Hoskins",
+          "description": "Author(s): William A. Borders, Advait Madhavan, Matthew W. Daniels, Vasileia Georgiou, Martin Lueker-Boden, Tiffany S. Santos, Patrick M. Braganca, Mark D. Stiles, Jabez J. McClelland, and Brian D. Hoskins\nDefective devices can severely impact the performance of hardware-based neural networks, in particular resistive crossbar arrays. This study introduces a network training approach that reduces the influence of defective devices, maintaining inference accuracy. The authors demonstrate this approach on a set of dies each containing a crossbar array consisting of 20,000 magnetic tunnel junction devices. They also develop a generalized approach using the statistics of defects and demonstrate similar performance on all dies. These results translate to a manufacturing setting where millions of dies with possible defects are produced, but the performance of even subpar chips can be guaranteed.\n\n[Phys. Rev. Applied 21, 054028] Published Tue May 14, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.054028",
+          "publishedOn": "2024-05-14T10:00:00.000Z",
+          "wordCount": 2081,
+          "title": "Measurement-driven neural-network training for integrated magnetic tunnel junction arrays",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.054028.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.020333",
           "author": "Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, and Simon L. Cornish",
           "description": "Author(s): Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, and Simon L. Cornish\nSite-resolved control and detection of rotational states of molecules trapped in an array of optical tweezers is demonstrated, opening up applications in quantum metrology, simulation, and sensing.\n\n[PRX Quantum 5, 020333] Published Mon May 13, 2024",
@@ -954,56 +1004,6 @@
           "wordCount": 891,
           "title": "First Measurement of the $|t|$ Dependence of Incoherent $J/ψ$ Photonuclear Production",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.162302.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.163001",
-          "author": "F. Heydarizadmotlagh, T. D. G. Skinner, K. Kato, M. C. George, and E. A. Hessels",
-          "description": "Author(s): F. Heydarizadmotlagh, T. D. G. Skinner, K. Kato, M. C. George, and E. A. Hessels\nPrecision measurement of the fine structure in helium makes it possible to perform an independent measurement of the fine structure constant.\n\n[Phys. Rev. Lett. 132, 163001] Published Fri Apr 19, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.163001",
-          "publishedOn": "2024-04-19T10:00:00.000Z",
-          "wordCount": 1005,
-          "title": "Precision Measurement of the $n=2$ Triplet $P$ $J=1$ to $J=0$ Fine Structure of Atomic Helium Using Frequency-Offset Separated Oscillatory Fields",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.163001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.109.L042402",
-          "author": "Pablo Villegas, Tommaso Gili, Guido Caldarelli, and Andrea Gabrielli",
-          "description": "Author(s): Pablo Villegas, Tommaso Gili, Guido Caldarelli, and Andrea Gabrielli\nThe distribution of vegetation clusters in a tropical rainforest shows evidence of scale-invariance, suggesting a system close to a critical state. This observation could help to diagnose the health of rainforests and other ecosystems in the face of environmental change.\n\n[Phys. Rev. E 109, L042402] Published Fri Apr 19, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.109.L042402",
-          "publishedOn": "2024-04-19T10:00:00.000Z",
-          "wordCount": 1345,
-          "title": "Evidence of scale-free clusters of vegetation in tropical rainforests",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.L042402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.165139",
-          "author": "Yuanfeng Xu, Luis Elcoro, Zhi-Da Song, M. G. Vergniory, Claudia Felser, Stuart S. P. Parkin, Nicolas Regnault, Juan L. Mañes, and B. Andrei Bernevig",
-          "description": "Author(s): Yuanfeng Xu, Luis Elcoro, Zhi-Da Song, M. G. Vergniory, Claudia Felser, Stuart S. P. Parkin, Nicolas Regnault, Juan L. Mañes, and B. Andrei Bernevig\nTopologically trivial insulators can further be identified as obstructed atomic insulators when the symmetric Wannier functions are centered at positions not occupied by atoms. Here, the authors derive all charge-filling criteria that force a topologically trivial insulator to an obstructed atomic insulator. About one thousand filling-enforced obstructed atomic insulators are found through high-throughput calculations.\n\n[Phys. Rev. B 109, 165139] Published Fri Apr 19, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.165139",
-          "publishedOn": "2024-04-19T10:00:00.000Z",
-          "wordCount": 1090,
-          "title": "Filling-enforced obstructed atomic insulators",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.165139.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.163403",
-          "author": "Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille",
-          "description": "Author(s): Varun Jorapur, Thomas K. Langin, Qian Wang, Geoffrey Zheng, and David DeMille\nDense ensembles of laser-cooled molecules allow the observation of molecular collisions—a result that could lead to applications of cold molecular gases in quantum simulation and fundamental physics tests.\n\n[Phys. Rev. Lett. 132, 163403] Published Thu Apr 18, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.163403",
-          "publishedOn": "2024-04-18T10:00:00.000Z",
-          "wordCount": 1122,
-          "title": "High Density Loading and Collisional Loss of Laser-Cooled Molecules in an Optical Trap",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.163403.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.165205",
-          "author": "I. Mohelsky, J. Wyzula, F. Le Mardelé, F. Abadizaman, O. Caha, A. Dubroka, X. D. Sun, C. W. Cho, B. A. Piot, M. F. Tanzim, I. Aguilera, G. Bauer, G. Springholz, and M. Orlita",
-          "description": "Author(s): I. Mohelsky, J. Wyzula, F. Le Mardelé, F. Abadizaman, O. Caha, A. Dubroka, X. D. Sun, C. W. Cho, B. A. Piot, M. F. Tanzim, I. Aguilera, G. Bauer, G. Springholz, and M. Orlita\nAntimony telluride (Sb2Te3) has garnered significant attention within the condensed matter community, particularly as one of the earliest experimentally recognized topological insulators. However, despite substantial investigation, our understanding of the bulk electronic band structure of Sb2Te3 remains incomplete. Here, the authors employ a comprehensive experimental and theoretical approach integrating magneto-optical, optical, magnetotransport and ab initio techniques to examine Sb2Te3. Their findings reveal that this material possesses a direct energy band gap at the center of the Brillouin zone, while also exhibiting additional low-energy band extrema in mirror planes.\n\n[Phys. Rev. B 109, 165205] Published Thu Apr 18, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.165205",
-          "publishedOn": "2024-04-18T10:00:00.000Z",
-          "wordCount": 1471,
-          "title": "Electronic band structure of ${\\mathrm{Sb}}_{2}{\\mathrm{Te}}_{3}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.165205.png"
         }
       ]
     }
