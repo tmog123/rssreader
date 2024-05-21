@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.023187",
+          "author": "Yosef Ashkenazy and Naftali R. Smith",
+          "description": "Author(s): Yosef Ashkenazy and Naftali R. Smith\nA method for predicting annual rain distributions, based on combining monthly rain histograms from historical data, is introduced and applied to several locations in Israel. It is then argued (using tests of the method in a simple toy model) that the method gives reliable predictions not only for typical events but also for rare ones.\n\n[Phys. Rev. Research 6, 023187] Published Mon May 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.023187",
+          "publishedOn": "2024-05-20T10:00:00.000Z",
+          "wordCount": 2251,
+          "title": "Data-driven analysis of annual rain distributions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.6.023187.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.054204",
+          "author": "Aurland K. Watkins, Dirk Johrendt, Vojtech Vlcek, Stephen D. Wilson, and Ram Seshadri",
+          "description": "Author(s): Aurland K. Watkins, Dirk Johrendt, Vojtech Vlcek, Stephen D. Wilson, and Ram Seshadri\nA reliable interlayer band structure of the kagome superconductor CsV3Sb5 is critical for understanding emergent phenomena like the charge density wave ordering and for classifying the topology. Here, the authors present a survey of computational techniques aimed at comparing the electronic interactions between kagome layers in CsV3Sb5. This study highlights the computational parameters and plotting methods that lead to differing band behaviors. Within conventional DFT, the parameters employed during structural relaxation are critical in determining the electronic structure between kagome layers. However, higher levels of computational theory contrast these results and point to the increased role of interlayer interactions.\n\n[Phys. Rev. Materials 8, 054204] Published Mon May 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.054204",
+          "publishedOn": "2024-05-20T10:00:00.000Z",
+          "wordCount": 971,
+          "title": "Fidelity and variability in the interlayer electronic structure of the kagome superconductor ${\\mathrm{CsV}}_{3}{\\mathrm{Sb}}_{5}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.054204.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.217001",
+          "author": "Thomas Connolly, Pavel D. Kurilovich, Spencer Diamond, Heekun Nho, Charlotte G. L. Bøttcher, Leonid I. Glazman, Valla Fatemi, and Michel H. Devoret",
+          "description": "Author(s): Thomas Connolly, Pavel D. Kurilovich, Spencer Diamond, Heekun Nho, Charlotte G. L. Bøttcher, Leonid I. Glazman, Valla Fatemi, and Michel H. Devoret\nMeasurements of the temperature distribution of quasiparticles in superconducting circuits reveal behavior that could inform strategies for mitigating quasiparticle-induced errors in superconducting qubits.\n\n[Phys. Rev. Lett. 132, 217001] Published Mon May 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.217001",
+          "publishedOn": "2024-05-20T10:00:00.000Z",
+          "wordCount": 1339,
+          "title": "Coexistence of Nonequilibrium Density and Equilibrium Energy Distribution of Quasiparticles in a Superconducting Qubit",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.217001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.103031",
+          "author": "Cong Zhou, Lei Huang, Kangrou Guo, Ya-Ping Li, and Zhen Pan",
+          "description": "Author(s): Cong Zhou, Lei Huang, Kangrou Guo, Ya-Ping Li, and Zhen Pan\nThe paper successfully models X-ray observational aspects of Quasi-Periodic Eruptions (QPEs) in galactic nuclei as due to collisions between a Tidal Disruption Event (TDE) accretion disk and a stellar mass black hole or main sequence star orbiting around a nuclear supermassive black hole (SMBH). This can have key implications in understanding EMRIs and stellar orbits in the vicinity of SMBHs.\n\n[Phys. Rev. D 109, 103031] Published Mon May 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.103031",
+          "publishedOn": "2024-05-20T10:00:00.000Z",
+          "wordCount": 1611,
+          "title": "Probing orbits of stellar mass objects deep in galactic nuclei with quasiperiodic eruptions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.103031.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.202701",
           "author": "A. Spyrou <em>et al.</em>",
           "description": "Author(s): A. Spyrou et al.\nMeasurements related to the production of lanthanum in stars where elements are thought to form via the “i process” indicate that less of the element is produced than models predict.\n\n[Phys. Rev. Lett. 132, 202701] Published Fri May 17, 2024",
@@ -964,46 +1004,6 @@
           "wordCount": 1788,
           "title": "Ballistic to diffusive crossover in a weakly interacting Fermi gas",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.205108.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.186301",
-          "author": "Soham Chattopadhyay and Dallas R. Trinkle",
-          "description": "Author(s): Soham Chattopadhyay and Dallas R. Trinkle\nTo better understand diffusion in complex materials, a computational method separating out uncorrelated individual contributions makes it possible to construct new analytic forms for diffusivity.\n\n[Phys. Rev. Lett. 132, 186301] Published Tue Apr 30, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.186301",
-          "publishedOn": "2024-04-30T10:00:00.000Z",
-          "wordCount": 1201,
-          "title": "Contributions to Diffusion in Complex Materials Quantified with Machine Learning",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.186301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.182501",
-          "author": "J. Tiedau, M. V. Okhapkin, K. Zhang, J. Thielking, G. Zitzer, E. Peik, F. Schaden, T. Pronebner, I. Morawetz, L. Toscani De Col, F. Schneider, A. Leitner, M. Pressler, G. A. Kazakov, K. Beeks, T. Sikorsky, and T. Schumm",
-          "description": "Author(s): J. Tiedau, M. V. Okhapkin, K. Zhang, J. Thielking, G. Zitzer, E. Peik, F. Schaden, T. Pronebner, I. Morawetz, L. Toscani De Col, F. Schneider, A. Leitner, M. Pressler, G. A. Kazakov, K. Beeks, T. Sikorsky, and T. Schumm\nResearchers use a laser to excite and precisely measure a long-sought exotic nuclear state, paving the way for precise timekeeping and ultrasensitive quantum sensing.\n\n[Phys. Rev. Lett. 132, 182501] Published Mon Apr 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.182501",
-          "publishedOn": "2024-04-29T10:00:00.000Z",
-          "wordCount": 1147,
-          "title": "Laser Excitation of the Th-229 Nucleus",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.182501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.074030",
-          "author": "Daniel Moreno",
-          "description": "Author(s): Daniel Moreno\nFollowing the Heavy Quark Expansion, this paper computes NLO corrections to the Darwin and four-quark operators for the inclusive semileptonic decays B → X_uℓν¯_ℓ. These corrections are found to be relatively large and will play a role in background subtraction for B → X_cℓν¯_ℓ measurements and better determination of CKM matrix elements.\n\n[Phys. Rev. D 109, 074030] Published Mon Apr 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.074030",
-          "publishedOn": "2024-04-29T10:00:00.000Z",
-          "wordCount": 917,
-          "title": "QCD corrections to the Darwin coefficient in inclusive semileptonic $B→{X}_{u}ℓ{\\overline{ν}}_{ℓ}$ decays",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.074030.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.086024",
-          "author": "Ana Climent, Roberto Emparan, Javier M. Magán, Martin Sasieta, and Alejandro Vilar López",
-          "description": "Author(s): Ana Climent, Roberto Emparan, Javier M. Magán, Martin Sasieta, and Alejandro Vilar López\nThe authors refine and extend the statistical interpretation of the black hole entropy formula to wide classes of black holes such as rotating and charged black holes, including extremal and near-extremal solutions, with or without supersymmetry. They achieve this by constructing a set of black hole microstates with semiclassical interiors that span a Hilbert space of dimension eS, where S is the black hole entropy.\n\n[Phys. Rev. D 109, 086024] Published Mon Apr 29, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.086024",
-          "publishedOn": "2024-04-29T10:00:00.000Z",
-          "wordCount": 1120,
-          "title": "Universal construction of black hole microstates",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.086024.png"
         }
       ]
     }
