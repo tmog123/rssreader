@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-21T00:49:06.204Z</id>
+    <id>urn:2024-05-22T00:49:17.663Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T00:49:06.204Z</updated>
+    <updated>2024-05-22T00:49:17.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First Results in the Search for Dark Sectors at NA64 with the CERN SPS High Energy Muon Beam]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.211803</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.211803"/>
+        <updated>2024-05-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yu. M. Andreev et al.
+An experiment at CERN seeks signs of dark matter by looking for missing energy and momentum in the debris of particle collisions.
+
+[Phys. Rev. Lett. 132, 211803] Published Tue May 21, 2024]]></summary>
+        <author>
+            <name>Yu. M. Andreev &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First-principles calculation of orbital Hall effect by Wannier interpolation: Role of orbital dependence of the anomalous position]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.174435</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.174435"/>
+        <updated>2024-05-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Dongwook Go, Hyun-Woo Lee, Peter M. Oppeneer, Stefan Blügel, and Yuriy Mokrousov
+In the emerging field of orbitronics, the orbital Hall effect stands out as one of the most important transport phenomena of orbital angular momentum. Here, the authors present a highly efficient and accurate first-principles method to compute the orbital Hall effect by Wannier interpolation and point out the crucial role of the anomalous position for the gauge-covariant description. The work guides the ongoing experimental efforts on the quantitative measurement of orbital currents.
+
+[Phys. Rev. B 109, 174435] Published Tue May 21, 2024]]></summary>
+        <author>
+            <name>Dongwook Go, Hyun-Woo Lee, Peter M. Oppeneer, Stefan Blügel, and Yuriy Mokrousov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrability as an attractor of adiabatic flows]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.195162</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.195162"/>
+        <updated>2024-05-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hyeongjin Kim and Anatoli Polkovnikov
+Generic many-body particle systems typically exhibit chaos and thermalization. Amidst this chaotic landscape there are special systems called integrable, for example, systems of noninteracting particles that are neither chaotic nor thermalizing. Integrable systems usually require a high degree of fine-tuning of the Hamiltonian that defines their dynamics. The authors find that these special systems act as natural geometric attractors of adiabatic flows that follow the directions of fastest relaxation of observables. They also found that near integrability observables exhibit universal slow relaxation in time, forming long-lived nonequilibrium states similar to turbulent cascades.
+
+[Phys. Rev. B 109, 195162] Published Tue May 21, 2024]]></summary>
+        <author>
+            <name>Hyeongjin Kim and Anatoli Polkovnikov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solution to the cocktail party problem: A time-reversal active metasurface for multipoint focusing]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.054039</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.054039"/>
+        <updated>2024-05-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Constant Bourdeloux, Mathias Fink, and Fabrice Lemoult
+The cocktail party effect refers to the brain’s ability to focus on a single auditory stimulus amidst the cacophony of background noise. This selective attention also resonates in electromagnetic telecommunication, where the surge in wireless communication exacerbates signal interference. To address that issue, researchers have developed reconfigurable intelligent surfaces, mirrors that dynamically shape their reflectivity to enhance wireless performance. Drawing inspiration from these advancements, the authors propose to extend this concept to the acoustic domain, where similar issues of signal clarity and interference persist, but over a much wider frequency range.
+
+[Phys. Rev. Applied 21, 054039] Published Tue May 21, 2024]]></summary>
+        <author>
+            <name>Constant Bourdeloux, Mathias Fink, and Fabrice Lemoult</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data-driven analysis of annual rain distributions]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.023187</id>
@@ -1251,58 +1303,6 @@ A proposed experiment could bring scientists closer to answering the long-standi
 [Phys. Rev. X 14, 021022] Published Wed May 01, 2024]]></summary>
         <author>
             <name>Ludovico Lami, Julen S. Pedernales, and Martin B. Plenio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wave-Function Tomography of Topological Dimer Chains with Long-Range Couplings]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.183802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.183802"/>
-        <updated>2024-05-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Pellerin, R. Houvenaghel, W. A. Coish, I. Carusotto, and P. St-Jean
-A method for freely adjusting the parameters of a loop of optical fiber enables the exploration of exotic topological phases of matter.
-
-[Phys. Rev. Lett. 132, 183802] Published Wed May 01, 2024]]></summary>
-        <author>
-            <name>F. Pellerin, R. Houvenaghel, W. A. Coish, I. Carusotto, and P. St-Jean</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy Dissipation of Fast Electrons in Polymethylmethacrylate: Toward a Universal Curve for Electron-Beam Attenuation in Solids between $∼0\text{ }\text{ }\mathrm{eV}$ and Relativistic Energies]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.186203</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.186203"/>
-        <updated>2024-05-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wolfgang S. M. Werner, Florian Simperl, Felix Blödorn, Julian Brunner, Johannes Kero, Alessandra Bellissimo, and Olga Ridzel
-To describe the electron beam attenuation lengths in solids, in addition to a single-exponential law, momentum relaxation must also be taken into account.
-
-[Phys. Rev. Lett. 132, 186203] Published Wed May 01, 2024]]></summary>
-        <author>
-            <name>Wolfgang S. M. Werner, Florian Simperl, Felix Blödorn, Julian Brunner, Johannes Kero, Alessandra Bellissimo, and Olga Ridzel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic topology with bound defect charges promotes intermediate hexatic phase in two-dimensional melting]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.205107</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.205107"/>
-        <updated>2024-05-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Junyan Ma and H. Huang
-This paper delves into the intriguing connection between electronic topology and the two-dimensional melting of solids. Conventionally, Kosterlitz-Thouless-Halperin-Nelson-Young theory shows that the behavior of disclinations determines the melting process of 2D crystals. By uncovering how electrons become trapped in disclinations due to nontrivial electronic topology, the authors shed light here on a deviation of the disclination-involving melting process, because of the increase in the energy barrier for unbinding disclination pairs.
-
-[Phys. Rev. B 109, 205107] Published Wed May 01, 2024]]></summary>
-        <author>
-            <name>Junyan Ma and H. Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballistic to diffusive crossover in a weakly interacting Fermi gas]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.205108</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.205108"/>
-        <updated>2024-05-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jerome Lloyd, Tibor Rakovszky, Frank Pollmann, and Curt von Keyserlingk
-In systems of fermions at finite temperatures, interactions are believed to induce a crossover from the coherent and ballistic streaming of quasiparticles at early times, to incoherent diffusive behavior at late times. Here, the authors develop a numerical method to simulate such systems. They use the method to determine how the rate of diffusion depends on the strength of interactions, and to confirm the predicted crossover.
-
-[Phys. Rev. B 109, 205108] Published Wed May 01, 2024]]></summary>
-        <author>
-            <name>Jerome Lloyd, Tibor Rakovszky, Frank Pollmann, and Curt von Keyserlingk</name>
         </author>
     </entry>
 </feed>
