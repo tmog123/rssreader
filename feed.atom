@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-29T00:53:06.747Z</id>
+    <id>urn:2024-05-30T00:49:58.669Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T00:53:06.747Z</updated>
+    <updated>2024-05-30T00:49:58.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Excited-State Half-Lives in $^{130}\mathrm{Cd}$ and the Isospin Dependence of Effective Charges]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.222501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.222501"/>
+        <updated>2024-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Jungclaus et al.
+Experiments comparing neutron-rich cadmium with previous data on a neutron-poor version prove that a key parameter in nuclear calculations depends on the neutron-to-proton ratio.
+
+[Phys. Rev. Lett. 132, 222501] Published Wed May 29, 2024]]></summary>
+        <author>
+            <name>A. Jungclaus &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transition between Heavy-Fermion-Strange-Metal and Quantum Spin Liquid in a $4d$-Electron Trimer Lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.226503</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.226503"/>
+        <updated>2024-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hengdi Zhao, Yu Zhang, Pedro Schlottmann, Rahul Nandkishore, Lance E. DeLong, and Gang Cao
+Observation of a heavy Fermi surface of charge-neutral spinons in Ba4Nb1−xRu3+xO12 provides experimental evidence for a robust quantum spin liquid that features an extraordinarily large entropy and a linear heat capacity extending into the milli-Kelvin regime.
+
+[Phys. Rev. Lett. 132, 226503] Published Wed May 29, 2024]]></summary>
+        <author>
+            <name>Hengdi Zhao, Yu Zhang, Pedro Schlottmann, Rahul Nandkishore, Lance E. DeLong, and Gang Cao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measurement of simplified template cross sections of the Higgs boson produced in association with $W$ or $Z$ bosons in the $H→b\overline{b}$ decay channel in proton-proton collisions at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.092011</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.092011"/>
+        <updated>2024-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Tumasyan et al. (CMS Collaboration)
+The CMS collaboration measured cross sections of associated Higgs boson production followed by the Higgs boson’s decay in the bottom-antibottom channel. Combining measurements where the associated vector boson was a Z or a W, they find that the measured interaction strength agrees with the standard model prediction to within one sigma within an error of about 20%.
+
+[Phys. Rev. D 109, 092011] Published Wed May 29, 2024]]></summary>
+        <author>
+            <name>A. Tumasyan &lt;em&gt;et al.&lt;/em&gt; (CMS Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onset of transmon ionization in microwave single-photon detection]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.174312</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.174312"/>
+        <updated>2024-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yuki Nojiri, Kedar E. Honasoge, Achim Marx, Kirill G. Fedorov, and Rudolf Gross
+Transmon ionization (TI) is detrimental to qubit coherence and manipulation. This study explores how TI, triggered by strong microwave pulses, affects microwave single-photon detectors (SPDs) based on a 3D multimode cavity coupled to a transmon qubit. Experimental and numerical investigations reveal that at a critical pump power transmon population suddenly increases, indicating a quantum-to- classical transition. The authors also outline the challenges and potential solutions for increasing the quantum efficiency of SPDs, being crucial for advancing quantum communication and sensing technologies.
+
+[Phys. Rev. B 109, 174312] Published Wed May 29, 2024]]></summary>
+        <author>
+            <name>Yuki Nojiri, Kedar E. Honasoge, Achim Marx, Kirill G. Fedorov, and Rudolf Gross</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Site-Selective Preparation and Multistate Readout of Molecules in Optical Tweezers]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.020344</id>
@@ -1251,58 +1303,6 @@ When injected into a plasma, a proton bunch triggers oscillatory phenomena which
 [Phys. Rev. E 109, 055203] Published Tue May 07, 2024]]></summary>
         <author>
             <name>L. Verra &lt;em&gt;et al.&lt;/em&gt; (AWAKE Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exact conditions for ensemble density functional theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.195120</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.195120"/>
-        <updated>2024-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Thais R. Scott, John Kozlowski, Steven Crisostomo, Aurora Pribram-Jones, and Kieron Burke
-Ensemble density functional theory (EDFT) offers a promising path for computing excitation energies via a theory of the ensemble density — a weighted sum of interacting excited-state densities. Recovering excitation energies is theoretically simple, but practical application requires approximations dependent on weight choice. Here, the authors derive exact conditions for EDFT. Using an exactly solvable model, they illustrate violations of exact conditions, weight-dependent derivative discontinuities in the strong-interaction limit, and ultimately the significance of weight dependence for future functional design.
-
-[Phys. Rev. B 109, 195120] Published Tue May 07, 2024]]></summary>
-        <author>
-            <name>Thais R. Scott, John Kozlowski, Steven Crisostomo, Aurora Pribram-Jones, and Kieron Burke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moiré fractional Chern insulators. I. First-principles calculations and continuum models of twisted bilayer ${\mathrm{MoTe}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.205121</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.205121"/>
-        <updated>2024-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yujin Jia, Jiabin Yu, Jiaxuan Liu, Jonah Herzog-Arbeitman, Ziyue Qi, Hanqi Pi, Nicolas Regnault, Hongming Weng, B. Andrei Bernevig, and Quansheng Wu
-The researchers here shed new light on the elusive single-particle model of twisted bilayer MoTe2, a material recently highlighted for hosting fractional Chern insulators at zero magnetic field. By leveraging an advanced machine learning method and density functional theory, the team meticulously maps out the band structure across various twist angles, revealing a pivotal band inversion and refining the theoretical landscape. By enhancing the continuum model with higher harmonic terms, they unveil opposite Chern numbers in the valence bands for key angles, paving the way for predicting diverse Chern states. This comprehensive analysis lays the groundwork for accurately pinpointing correlated phases in this intriguing material, offering a beacon for future explorations.
-
-[Phys. Rev. B 109, 205121] Published Tue May 07, 2024]]></summary>
-        <author>
-            <name>Yujin Jia, Jiabin Yu, Jiaxuan Liu, Jonah Herzog-Arbeitman, Ziyue Qi, Hanqi Pi, Nicolas Regnault, Hongming Weng, B. Andrei Bernevig, and Quansheng Wu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moiré fractional Chern insulators. II. First-principles calculations and continuum models of rhombohedral graphene superlattices]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.205122</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.205122"/>
-        <updated>2024-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jonah Herzog-Arbeitman, Yuzhi Wang, Jiaxuan Liu, Pok Man Tam, Ziyue Qi, Yujin Jia, Dmitri K. Efetov, Oskar Vafek, Nicolas Regnault, Hongming Weng, Quansheng Wu, B. Andrei Bernevig, and Jiabin Yu
-The observation of fractional Chern insulators in rhombohedral pentalayer graphene twisted on hexagonal boron nitride has initiated a flurry of theoretical work seeking its explanation. As a step towards understanding the origin of these phases, the authors undertake here a first-principles study of the large family of multilayer rhombohedral graphene/boron nitride superlattices, including structural relaxation. The moiré models they obtain faithfully capture the microscopic band structure and are the starting point for understanding the observed topological phases and predicting new ones.
-
-[Phys. Rev. B 109, 205122] Published Tue May 07, 2024]]></summary>
-        <author>
-            <name>Jonah Herzog-Arbeitman, Yuzhi Wang, Jiaxuan Liu, Pok Man Tam, Ziyue Qi, Yujin Jia, Dmitri K. Efetov, Oskar Vafek, Nicolas Regnault, Hongming Weng, Quansheng Wu, B. Andrei Bernevig, and Jiabin Yu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predicting the onset of quantum synchronization using machine learning]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.052411</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.052411"/>
-        <updated>2024-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Mahlow, B. Çakmak, G. Karpat, İ. Yalçınkaya, and F. F. Fanchini
-In an open system, environment-induced synchronization can occur between the expectation values of spin observables of a pair of qubits. Here, the authors apply a machine learning method to predict the emergence of such synchronization.
-
-[Phys. Rev. A 109, 052411] Published Tue May 07, 2024]]></summary>
-        <author>
-            <name>F. Mahlow, B. Çakmak, G. Karpat, İ. Yalçınkaya, and F. F. Fanchini</name>
         </author>
     </entry>
 </feed>
