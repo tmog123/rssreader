@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.224002",
+          "author": "Aaron D. Ratschow, Lisa S. Bauer, Pravash Bista, Stefan A. L. Weber, Hans-Jürgen Butt, and Steffen Hardt",
+          "description": "Author(s): Aaron D. Ratschow, Lisa S. Bauer, Pravash Bista, Stefan A. L. Weber, Hans-Jürgen Butt, and Steffen Hardt\nExperiments and theory explain how charge builds up in a moving water drop and why the effect requires a water-repelling surface.\n\n[Phys. Rev. Lett. 132, 224002] Published Fri May 31, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.224002",
+          "publishedOn": "2024-05-31T10:00:00.000Z",
+          "wordCount": 1206,
+          "title": "How Charges Separate when Surfaces Are Dewetted",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.224002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.226001",
+          "author": "Zhaoyu Han, Steven A. Kivelson, and Pavel A. Volkov",
+          "description": "Author(s): Zhaoyu Han, Steven A. Kivelson, and Pavel A. Volkov\nA mechanism for strong-coupling superconductivity based on the electron-phonon interaction, quadratic in phonon displacements suggests a new route to high-temperature superconductivity.\n\n[Phys. Rev. Lett. 132, 226001] Published Fri May 31, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.226001",
+          "publishedOn": "2024-05-31T10:00:00.000Z",
+          "wordCount": 994,
+          "title": "Quantum Bipolaron Superconductivity from Quadratic Electron-Phonon Coupling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.226001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.109.054625",
+          "author": "Qian Wu and Masayasu Kamimura",
+          "description": "Author(s): Qian Wu and Masayasu Kamimura\nAt low temperatures (10–1000 K), negative muons injected into a mixture of deuterium (D) and tritium (T) can catalyze the d+t fusion reaction into helium, which yields a neutron and 17.6 MeV energy. Following the catalyzed reaction, free muons can facilitate another fusion reaction, leading to a cyclic reaction known as muon-catalyzed fusion (μCF), a potential candidate for energy production. μCF has recently regained considerable research interest owing to several new developments and applications. For the nuclear reaction processes, the authors provide an elegant alternative to more complicated coupled-channels (CC) models (Kamimura et al., PRC 107, 034607) by replacing in the transition matrix the exact three-body wave function with a solution that uses a tailored d-t optical potential. The calculated results reproduce well those of the full CC calculations, and the proposed tractable transition-matrix model promises applications to other μCF systems. The predicted low-energy negative muon spectrum will also be useful for the generation of an ultraslow negative muon beam by utilizing the μCF for various applications, such as a scanning negative muon microscope and an injection source for the muon collider.\n\n[Phys. Rev. C 109, 054625] Published Fri May 31, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.109.054625",
+          "publishedOn": "2024-05-31T10:00:00.000Z",
+          "wordCount": 1251,
+          "title": "Tractable $T$-matrix model for reaction processes in muon-catalyzed fusion ${(dtμ)}_{J=v=0}→α+n+μ+17.6$ MeV or ${(αμ)}_{nl}+n+17.6$ MeV",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.109.054625.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.174216",
+          "author": "Matilde Baroni, Giulia Garcia Lorenzana, Tommaso Rizzo, and Marco Tarzia",
+          "description": "Author(s): Matilde Baroni, Giulia Garcia Lorenzana, Tommaso Rizzo, and Marco Tarzia\nAnderson localization is a fundamental phenomenon in condensed matter physics, with strong connections with many-body localization and quantum chaos. A crucial theoretical problem is that its behavior on the Bethe lattice, an infinite loop-less tree, differs dramatically from realistic models in finite dimensions. To amend the theory, the authors study here tree-like lattices with one loop of arbitrary length. The outcome opens the way to the computation of the critical exponents and explains some puzzling finite-size effects observed in numerical simulations.\n\n[Phys. Rev. B 109, 174216] Published Fri May 31, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.174216",
+          "publishedOn": "2024-05-31T10:00:00.000Z",
+          "wordCount": 1981,
+          "title": "Corrections to the Bethe lattice solution of Anderson localization",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.174216.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.184447",
+          "author": "Liang Li and Tianyu Liu",
+          "description": "Author(s): Liang Li and Tianyu Liu\nRoom-temperature quantum computing and solid-state quantum simulations have been long-standing goals in the field of quantum information science. Magnon Bose-Einstein condensation at room temperature may provide a key advance towards these objectives. Normally, the magnon Bose-Einstein condensation is driven by microwave pumping and detected by light. Here, the authors propose a method to create stable magnon condensate using lasers in a magneto-optical cavity, opening new avenues for all-optical control in quantum magnonics.\n\n[Phys. Rev. B 109, 184447] Published Fri May 31, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.184447",
+          "publishedOn": "2024-05-31T10:00:00.000Z",
+          "wordCount": 1107,
+          "title": "Bose-Einstein condensation of magnons under coherent pumping by light",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.184447.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.195173",
+          "author": "Kanta Masuki and Yuto Ashida",
+          "description": "Author(s): Kanta Masuki and Yuto Ashida\nCavity quantum electrodynamics (QED) studies the interaction between light and matter at the single quantum level and has played a central role in quantum science and technology. Combining the idea of cavity QED with moiré materials, the authors develop here a theory of cavity moiré materials, i.e., moiré materials confined in a cavity. These results indicate that the cavity confinement enables one to control magnetic frustration of moiré materials and might allow the realization of various exotic phases, such as the quantum spin liquid.\n\n[Phys. Rev. B 109, 195173] Published Fri May 31, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.195173",
+          "publishedOn": "2024-05-31T10:00:00.000Z",
+          "wordCount": 1514,
+          "title": "Cavity moiré materials: Controlling magnetic frustration with quantum light-matter interaction",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.195173.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.195436",
+          "author": "T. V. C. Antão, D. A. Miranda, and N. M. R. Peres",
+          "description": "Author(s): T. V. C. Antão, D. A. Miranda, and N. M. R. Peres\nThe chiral Aubry-André model is introduced as an atomic chain with staggered hoppings and a superimposed hopping modulation, revealing a unique interplay of one-dimensional and two-dimensional topological properties. Here, the authors describe the model’s phases and the coexistence of a 2D Chern number and a 1D winding number, combining features of the integer and half-integer quantum Hall effect with SSH-type 1D protected edge modes, motivating the engineering of complex topological insulators using the physics of quasicrystallinity.\n\n[Phys. Rev. B 109, 195436] Published Fri May 31, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.195436",
+          "publishedOn": "2024-05-31T10:00:00.000Z",
+          "wordCount": 2176,
+          "title": "Coexistence of one-dimensional and two-dimensional topology and genesis of Dirac cones in the chiral Aubry-André model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.195436.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.053320",
+          "author": "Daniel G. Allman, Parth Sabharwal, and Kevin C. Wright",
+          "description": "Author(s): Daniel G. Allman, Parth Sabharwal, and Kevin C. Wright\nThe authors report the experimental observation of the spontaneous appearance of currents in a ring of ultracold fermionic 6Li atoms with attractive interactions, following a quench to a BCS-like pair superfluid. The results are compared with the predictions from the Kibble-Zurek mechanism.\n\n[Phys. Rev. A 109, 053320] Published Fri May 31, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.053320",
+          "publishedOn": "2024-05-31T10:00:00.000Z",
+          "wordCount": 1260,
+          "title": "Quench-induced spontaneous currents in rings of ultracold fermionic atoms",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.053320.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.223202",
           "author": "YanLan Wang, ShaoGang Yu, RenPing Sun, HuiPeng Kang, SongPo Xu, XuanYang Lai, Wei Quan, and XiaoJun Liu",
           "description": "Author(s): YanLan Wang, ShaoGang Yu, RenPing Sun, HuiPeng Kang, SongPo Xu, XuanYang Lai, Wei Quan, and XiaoJun Liu\nPolarization-gated attoclock technique allows the observation of electron-electron interaction in nonsequential photoionization events.\n\n[Phys. Rev. Lett. 132, 223202] Published Thu May 30, 2024",
@@ -21,7 +101,7 @@
           "description": "Author(s): Tiantao Qu, Mudi Wang, Xiaoyu Cheng, Xiaohan Cui, Ruo-Yang Zhang, Zhao-Qing Zhang, Lei Zhang, Jun Chen, and C. T. Chan\nExperiments and numerical simulations indicate that randomly replacing a few nonmagnetic components with magnetic ones in a photonic alloy induces backscattering-free light propagation along its edge.\n\n[Phys. Rev. Lett. 132, 223802] Published Thu May 30, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.223802",
           "publishedOn": "2024-05-30T10:00:00.000Z",
-          "wordCount": 1240,
+          "wordCount": 1248,
           "title": "Topological Photonic Alloy",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.223802.png"
         },
@@ -51,7 +131,7 @@
           "description": "Author(s): John Z. Myers, Friedemann Bullinger, Nicolas Kempf, Markus Plaumann, Adam Ortmeier, Thomas Theis, Pavel Povolni, Jannik Romanowski, Jörn Engelmann, Klaus Scheffler, Jan-Bernd Hövener, Kai Buckenmaier, Rainer Körber, and Andrey N. Pravdivtsev\nNuclear magnetic resonance is typically performed at high magnetic fields, where heteronuclei are weakly coupled and resonate at their own frequences. This paper presents how hyperpolarization enables detection in the intermediate and strong-coupling regimes by using ultrasensitive SQUID setups. The authors also analytically derived product operators for this system (13C-labeled pyruvate) at arbitrary magnetic field. This confirms that spin precession does not occur at zero field, but rather that spins oscillate along an axis, demonstrating the importance of detection direction.\n\n[Phys. Rev. B 109, 184443] Published Thu May 30, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.184443",
           "publishedOn": "2024-05-30T10:00:00.000Z",
-          "wordCount": 2070,
+          "wordCount": 2076,
           "title": "Zero to ultralow magnetic field NMR of $[1{\\text{−}}^{13}\\mathrm{C}]\\mathrm{pyruvate}$ and $[2{\\text{−}}^{13}\\mathrm{C}]\\mathrm{pyruvate}$ enabled by SQUID sensors and hyperpolarization",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.184443.png"
         },
@@ -71,7 +151,7 @@
           "description": "Author(s): Hengdi Zhao, Yu Zhang, Pedro Schlottmann, Rahul Nandkishore, Lance E. DeLong, and Gang Cao\nObservation of a heavy Fermi surface of charge-neutral spinons in Ba4Nb1−xRu3+xO12 provides experimental evidence for a robust quantum spin liquid that features an extraordinarily large entropy and a linear heat capacity extending into the milli-Kelvin regime.\n\n[Phys. Rev. Lett. 132, 226503] Published Wed May 29, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.226503",
           "publishedOn": "2024-05-29T10:00:00.000Z",
-          "wordCount": 1161,
+          "wordCount": 1169,
           "title": "Transition between Heavy-Fermion-Strange-Metal and Quantum Spin Liquid in a $4d$-Electron Trimer Lattice",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.226503.png"
         },
@@ -131,7 +211,7 @@
           "description": "Author(s): Oleksandr V. Pylypovskyi, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin, and Denys Makarov\nGroup theory and first-principles calculations combine to predict which antiferromagnets have potentially useful net surface magnetization.\n\n[Phys. Rev. Lett. 132, 226702] Published Tue May 28, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.226702",
           "publishedOn": "2024-05-28T10:00:00.000Z",
-          "wordCount": 1173,
+          "wordCount": 1181,
           "title": "Surface-Symmetry-Driven Dzyaloshinskii-Moriya Interaction and Canted Ferrimagnetism in Collinear Magnetoelectric Antiferromagnet ${\\mathrm{Cr}}_{2}{\\mathrm{O}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.226702.png"
         },
@@ -141,7 +221,7 @@
           "description": "Author(s): Fereshteh L. Memarian, Derek Hammar, Md Mainul Hasan Sabbir, Mark Elias, Kevin A. Mitchell, and Linda S. Hirst\nConfining active nematics in cardioid-shaped wells leads to realization of the golden braid, a maximally efficient mixing state of exactly three defects with no defect creation or annihilation.\n\n[Phys. Rev. Lett. 132, 228301] Published Tue May 28, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.228301",
           "publishedOn": "2024-05-28T10:00:00.000Z",
-          "wordCount": 1092,
+          "wordCount": 1100,
           "title": "Controlling Chaos: Periodic Defect Braiding in Active Nematics Confined to a Cardioid",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.228301.png"
         },
@@ -151,7 +231,7 @@
           "description": "Author(s): Saini Jatin Rao, Siddhant Jain, and Saptarshi Basu\nOften considered a childhood pastime, soap bubbles emerged as a captivating domain for rigorous scientific inquiry for generations. While blowing soap bubbles is familiar to everyone, the underlying physics of inflating them remains unanswered. In our investigation, we visualize the previously unexplored internal airflow experimentally, revealing a toroidal vortical flow that resembles a bound vortex ring. The air enters the bubble as a round jet, emerging from the nozzle opening and impinges on the expanding concave interior to form this toroidal vortex. We also predict several scaling laws for the inflation rate and dynamics of this confined vortical flow by varying the source pressure.\n\n[Phys. Rev. Fluids 9, L051602] Published Tue May 28, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.L051602",
           "publishedOn": "2024-05-28T10:00:00.000Z",
-          "wordCount": 1083,
+          "wordCount": 1091,
           "title": "Dynamics of soap bubble inflation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.L051602.png"
         },
@@ -191,7 +271,7 @@
           "description": "Author(s): Andi Gu, Lorenzo Leone, Soumik Ghosh, Jens Eisert, Susanne F. Yelin, and Yihui Quek\nThe newly constructed pseudomagic ensembles possess low nonstabilizerness but are computationally indistinguishable from those with high nonstabilizerness, having implications for quantum scramblers, quantum cryptography, and magic state distillation.\n\n[Phys. Rev. Lett. 132, 210602] Published Fri May 24, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.210602",
           "publishedOn": "2024-05-24T10:00:00.000Z",
-          "wordCount": 916,
+          "wordCount": 924,
           "title": "Pseudomagic Quantum States",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.210602.png"
         },
@@ -221,7 +301,7 @@
           "description": "Author(s): J. Green, Eve Emmanouilidou, Harry W. T. Morgan, William T. Laderer, Chaowei Hu, Jonathan Loera, Anastassia N. Alexandrova, and Ni Ni\nInspired by the nonmagnetic topological materials database, the authors investigated the 3D fermiology and band topology of the Topological Crystalline Insulator (TCI) candidate SrAg4Sb2. The fermiology, revealed by angular-dependent quantum oscillations, shows excellent agreement with first-principles calculations. Symmetry and topology analysis result in two potential sets of topological invariants, suggesting the emergence of crystal-symmetry-protected gapless Dirac surface states either on the as-grown ab planes or on both the ab planes and as-grown mirror planes. Their findings provide evidence that SrAg4Sb2 is a promising TCI for exploring topological surface states protected by crystal symmetry.\n\n[Phys. Rev. Materials 8, 054205] Published Thu May 23, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.054205",
           "publishedOn": "2024-05-23T10:00:00.000Z",
-          "wordCount": 1316,
+          "wordCount": 1324,
           "title": "Fermiology and transport properties of the candidate topological crystalline insulator ${\\mathrm{SrAg}}_{4}{\\mathrm{Sb}}_{2}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.054205.png"
         },
@@ -231,7 +311,7 @@
           "description": "Author(s): I. Adachi et al. (Belle II Collaboration)\nThe ratio of inclusive semileptonic B meson decays into τ versus other leptons is in agreement with lepton universality.\n\n[Phys. Rev. Lett. 132, 211804] Published Thu May 23, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.211804",
           "publishedOn": "2024-05-23T10:00:00.000Z",
-          "wordCount": 851,
+          "wordCount": 857,
           "title": "First Measurement of $R({X}_{τ/ℓ})$ as an Inclusive Test of the $b→cτν$ Anomaly",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.211804.png"
         },
@@ -241,7 +321,7 @@
           "description": "Author(s): Aurélien Grabsch and Olivier Bénichou\nAn explicit formula is provided for the fourth cumulant of an arbitrary single-file system.\n\n[Phys. Rev. Lett. 132, 217101] Published Thu May 23, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.217101",
           "publishedOn": "2024-05-23T10:00:00.000Z",
-          "wordCount": 798,
+          "wordCount": 806,
           "title": "Tracer Diffusion beyond Gaussian Behavior: Explicit Results for General Single-File Systems",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.217101.png"
         },
@@ -251,7 +331,7 @@
           "description": "Author(s): Zhen Wang, Weicheng Fu, Yong Zhang, and Hong Zhao\nA universal scaling law shows that thermalization can be universally achieved in sufficiently large two- and three-dimensional lattices via weak nonlinear interactions.\n\n[Phys. Rev. Lett. 132, 217102] Published Thu May 23, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.217102",
           "publishedOn": "2024-05-23T10:00:00.000Z",
-          "wordCount": 923,
+          "wordCount": 931,
           "title": "Thermalization of Two- and Three-Dimensional Classical Lattices",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.217102.png"
         },
@@ -281,7 +361,7 @@
           "description": "Author(s): Petros-Andreas Pantazopoulos, Johannes Feist, Akashdeep Kamra, and Francisco J. García-Vidal\nHere, the authors demonstrate that cavity quantum electrodynamical effects induce electrostatic interactions between low-energy matter excitations when these are off-resonantly coupled either directly to the cavity field or indirectly via resonant mediator modes. These findings expose the limitations of previous models that have used just one cavity mode in the electromagnetic description of the cavity. The results provide critical insights for designing nanophotonic structures leading to significant cavity-induced interactions, which could open new avenues for modifying material properties using vacuum fields.\n\n[Phys. Rev. B 109, L201408] Published Thu May 23, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L201408",
           "publishedOn": "2024-05-23T10:00:00.000Z",
-          "wordCount": 794,
+          "wordCount": 802,
           "title": "Electrostatic nature of cavity-mediated interactions between low-energy matter excitations",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L201408.png"
         },
@@ -901,7 +981,7 @@
           "description": "Author(s): R. Ganter, P. Braschoss, H.-H. Braun, J. Buchmann, A. Citterio, M. Dehler, N. Gaiffi, N. Kirchgeorg, M. Magjar, C. Rosenberg, D. Stephan, L. Schulz, R. Sieber, X. Wang, and A. Zandonella\nSolutions to the challenges of vacuum chambers for diffraction limited storage rings are presented for the upgrade of the Swiss Light Source: From design to assembly.\n\n[Phys. Rev. Accel. Beams 27, 053201] Published Fri May 10, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.053201",
           "publishedOn": "2024-05-10T10:00:00.000Z",
-          "wordCount": 1744,
+          "wordCount": 1745,
           "title": "Vacuum chambers for Swiss Light Source arcs",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.27.053201.png"
         },
@@ -924,86 +1004,6 @@
           "wordCount": 1624,
           "title": "Curvature-induced clustering of cell adhesion proteins",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.109.054406.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.054701",
-          "author": "Alberto Degiovanni <em>et al.</em>",
-          "description": "Author(s): Alberto Degiovanni et al.\nA commercial linac prototype demonstrates key features for medical applications.\n\n[Phys. Rev. Accel. Beams 27, 054701] Published Thu May 09, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.054701",
-          "publishedOn": "2024-05-09T10:00:00.000Z",
-          "wordCount": 1262,
-          "title": "Design, integration, and commissioning of the first linac for image guided hadron therapy prototype",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.27.054701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.193802",
-          "author": "Arkady Kurnosov, Lucas J. Fernández-Alcázar, Alba Ramos, Boris Shapiro, and Tsampikos Kottos",
-          "description": "Author(s): Arkady Kurnosov, Lucas J. Fernández-Alcázar, Alba Ramos, Boris Shapiro, and Tsampikos Kottos\nA universal, one-parameter scaling theory is developed that describes transport behavior from the ballistic to the diffusive regime in multimode nonlinear photonic circuits.\n\n[Phys. Rev. Lett. 132, 193802] Published Wed May 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.193802",
-          "publishedOn": "2024-05-08T10:00:00.000Z",
-          "wordCount": 1089,
-          "title": "Optical Kinetic Theory of Nonlinear Multimode Photonic Networks",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.193802.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.196202",
-          "author": "David D. Dai and Liang Fu",
-          "description": "Author(s): David D. Dai and Liang Fu\nResearchers predict that several exotic states of matter can exist in semiconductor structures hosting electrons in one layer and holes in another.\n\n[Phys. Rev. Lett. 132, 196202] Published Wed May 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.196202",
-          "publishedOn": "2024-05-08T10:00:00.000Z",
-          "wordCount": 903,
-          "title": "Strong-Coupling Phases of Trions and Excitons in Electron-Hole Bilayers at Commensurate Densities",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.196202.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.184415",
-          "author": "Victor Ukleev, Oleg I. Utesov, Chen Luo, Florin Radu, Sebastian Wintz, Markus Weigand, Simone Finizio, Moritz Winter, Alexander Tahn, Bernd Rellinghaus, Kosuke Karube, Yoshinori Tokura, Yasujiro Taguchi, and Jonathan S. White",
-          "description": "Author(s): Victor Ukleev, Oleg I. Utesov, Chen Luo, Florin Radu, Sebastian Wintz, Markus Weigand, Simone Finizio, Moritz Winter, Alexander Tahn, Bernd Rellinghaus, Kosuke Karube, Yoshinori Tokura, Yasujiro Taguchi, and Jonathan S. White\nUsing x-ray resonant magnetic scattering in vector magnetic fields, this work explores the effect of the anisotropic exchange interaction on the magnetic spiral pitch in the cubic chiral magnet Co8Zn8Mn4. The experimental data reveal up to a 5% variation in the helical pitch within the (001) plane depending on temperature. Furthermore, the results reveal the existence of intrinsic competition between magnetocrystalline and exchange anisotropies in this material, with each favoring different orientations of the helical vector in the ground state.\n\n[Phys. Rev. B 109, 184415] Published Wed May 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.184415",
-          "publishedOn": "2024-05-08T10:00:00.000Z",
-          "wordCount": 1198,
-          "title": "Competing anisotropies in the chiral cubic magnet ${\\mathrm{Co}}_{8}{\\mathrm{Zn}}_{8}{\\mathrm{Mn}}_{4}$ unveiled by resonant x-ray magnetic scattering",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.184415.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.184416",
-          "author": "Koushik Pradhan, Arun Paramekanti, and Tanusri Saha-Dasgupta",
-          "description": "Author(s): Koushik Pradhan, Arun Paramekanti, and Tanusri Saha-Dasgupta\nIn contrast to dipolar refrigerator magnets, multipolar magnets possess more than just a north pole and a south pole. Using first principles and exact diagonalization calculations, this work establishes transition metal based vacancy-ordered halide double perovskites as new candidates for octupolar magnetism. The authors uncover a non-Kramers doublet ground state in these materials, explain the strong temperature-dependent effective magnetic moment, highlight the breakdown of the classic Kotani plot, and predict hidden octupolar order which may be tested in future experiments.\n\n[Phys. Rev. B 109, 184416] Published Wed May 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.184416",
-          "publishedOn": "2024-05-08T10:00:00.000Z",
-          "wordCount": 1045,
-          "title": "Multipolar magnetism in $5{d}^{2}$ vacancy-ordered halide double perovskites",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.184416.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.184417",
-          "author": "Yannik Zemp, Morgan Trassin, Elzbieta Gradauskaite, Bin Gao, Sang-Wook Cheong, Thomas Lottermoser, Manfred Fiebig, and Mads C. Weber",
-          "description": "Author(s): Yannik Zemp, Morgan Trassin, Elzbieta Gradauskaite, Bin Gao, Sang-Wook Cheong, Thomas Lottermoser, Manfred Fiebig, and Mads C. Weber\nIn hybrid-improper ferroelectrics, two nonpolar structural distortions jointly give rise to a spontaneous electric polarization. In Ca3Mn1.9Ti0.1O7, this ferroelectric state coexists with antiferromagnetism to yield a new type of multiferroic. Here, the authors show that it is characterized by a pronounced magnetoelectric response of the ferroelectric state to the intrinsic magnetic ordering and to external magnetic fields. Optical second harmonic generation is of particular advantage to this study, as it provides access to the electric polarization with spatial resolution of its domains.\n\n[Phys. Rev. B 109, 184417] Published Wed May 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.184417",
-          "publishedOn": "2024-05-08T10:00:00.000Z",
-          "wordCount": 1323,
-          "title": "Magnetoelectric coupling in the multiferroic hybrid-improper ferroelectric ${\\mathrm{Ca}}_{3}{\\mathrm{Mn}}_{1.9}{\\mathrm{Ti}}_{0.1}{\\mathrm{O}}_{7}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.184417.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.195127",
-          "author": "Sabyasachi Tiwari, Emmanouil Kioupakis, José Menendez, and Feliciano Giustino",
-          "description": "Author(s): Sabyasachi Tiwari, Emmanouil Kioupakis, José Menendez, and Feliciano Giustino\nHere, the authors make a fundamental theoretical advancement by unifying the theory of optical transitions in semiconductors including direct and phonon-assisted processes. This unification overcomes the fundamental limitation in the textbook theory of phonon-assisted optical absorption that gives unphysical absorption rates for photon energies greater than the direct band gap. They demonstrate the predictive power of their theory by calculating optical absorption and luminescence in standard semiconductors, and they achieve excellent quantitative agreement with the best available experiments. This work brings a paradigm shift in the theory of optical transitions, and opens the pathway for precise calculations of semiconductor optical properties.\n\n[Phys. Rev. B 109, 195127] Published Wed May 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.195127",
-          "publishedOn": "2024-05-08T10:00:00.000Z",
-          "wordCount": 2059,
-          "title": "Unified theory of optical absorption and luminescence including both direct and phonon-assisted processes",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.195127.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.054017",
-          "author": "Jonathan Backman, Youseung Lee, and Mathieu Luisier",
-          "description": "Author(s): Jonathan Backman, Youseung Lee, and Mathieu Luisier\nTransition-metal dichalcogenides (TMDCs) are promising building blocks for future electronic circuits, but their performance is often hindered by poorly understood electron-phonon interactions. This study leverages a fresh ab initio approach, combining density-functional theory with the linearized Boltzmann transport equation (LBTE) and nonequilibrium Green’s functions (NEGF), to explore phonon-limited transport in TMDCs. The authors find that LBTE and NEGF return very similar mobility values despite the different approximations upon which they rely, thus paving the way for comprehensive device simulations that include electron-phonon scattering.\n\n[Phys. Rev. Applied 21, 054017] Published Wed May 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.054017",
-          "publishedOn": "2024-05-08T10:00:00.000Z",
-          "wordCount": 1489,
-          "title": "Phonon-limited transport in two-dimensional materials: A unified approach for <i>ab initio</i> mobility and current calculations",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.054017.png"
         }
       ]
     }
