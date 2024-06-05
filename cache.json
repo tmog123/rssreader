@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021037",
+          "author": "Andreas Morr and Niklas Boers",
+          "description": "Author(s): Andreas Morr and Niklas Boers\nStatistical properties of fluctuations of certain parameters describing a complex system can reveal when that system is approaching a tipping point.\n\n[Phys. Rev. X 14, 021037] Published Tue Jun 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021037",
+          "publishedOn": "2024-06-04T10:00:00.000Z",
+          "wordCount": 1926,
+          "title": "Detection of Approaching Critical Transitions in Natural Systems Driven by Red Noise",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021037.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.231903",
+          "author": "F. V. Ignatov <em>et al.</em> (CMD-3 Collaboration)",
+          "description": "Author(s): F. V. Ignatov et al. (CMD-3 Collaboration)\nA new measurement of the e+e−→π+π− cross section from the CMD-3 experiment points to a larger hadronic contribution to muon g−2 than previous such measurements, which, if confirmed, would ease the tension between theory and experiment for that magnetic moment.\n\n[Phys. Rev. Lett. 132, 231903] Published Tue Jun 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.231903",
+          "publishedOn": "2024-06-04T10:00:00.000Z",
+          "wordCount": 872,
+          "title": "Measurement of the Pion Form Factor with CMD-3 Detector and its Implication to the Hadronic Contribution to Muon ($g−2$)",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.231903.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.064701",
+          "author": "A. Caquas, L. R. Pastur, and A. Genty",
+          "description": "Author(s): A. Caquas, L. R. Pastur, and A. Genty\nHave you ever tried spinning your water bottle to empty it more quickly? This experiment, familiar to the general public, has rarely been studied in the scientific literature, which focuses mainly on the non-rotational case. We show that this popular experiment is surprisingly complex. Our study reveals the presence of three flow regimes, which have a direct impact on the efficiency of the draining process.\n\n[Phys. Rev. Fluids 9, 064701] Published Tue Jun 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.064701",
+          "publishedOn": "2024-06-04T10:00:00.000Z",
+          "wordCount": 1451,
+          "title": "Impact of rotation change on the emptying of an ideal bottle of water",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.064701.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.112002",
+          "author": "F. V. Ignatov <em>et al.</em> (CMD-3 Collaboration)",
+          "description": "Author(s): F. V. Ignatov et al. (CMD-3 Collaboration)\nA new measurement of the e+e-→π+π- cross section from the CMD-3 experiment points to a larger hadronic contribution to muon g-2 than previous such measurements, which, if confirmed, would ease the tension between theory and experiment for that magnetic moment.\n\n[Phys. Rev. D 109, 112002] Published Tue Jun 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.112002",
+          "publishedOn": "2024-06-04T10:00:00.000Z",
+          "wordCount": 2081,
+          "title": "Measurement of the ${e}^{+}{e}^{−}→{π}^{+}{π}^{−}$ cross section from threshold to 1.2 GeV with the CMD-3 detector",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.112002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.062801",
+          "author": "E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green",
+          "description": "Author(s): E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green\nThe authors present experimental data for annihilation spectra and binding energies for positron interactions with several aromatic and heterocyclic ring molecules. The results are compared with the predictions of an ab initio theory of positron binding with excellent agreement.\n\n[Phys. Rev. A 109, 062801] Published Tue Jun 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.062801",
+          "publishedOn": "2024-06-04T10:00:00.000Z",
+          "wordCount": 1532,
+          "title": "Positron annihilation and binding in aromatic and other ring molecules",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.062801.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXLife.2.023010",
           "author": "Jeff Maltas, Dagim Shiferaw Tadele, Arda Durmaz, Christopher D. McFarland, Michael Hinczewski, and Jacob G. Scott",
           "description": "Author(s): Jeff Maltas, Dagim Shiferaw Tadele, Arda Durmaz, Christopher D. McFarland, Michael Hinczewski, and Jacob G. Scott\nInteractions between drug-resistant mutants and their evolutionary ancestors in the absence of treatment can significantly impact treatment efficacy. This explains pre-existing drug resistance in non-small cell lung cancer, providing new insights for treatment strategies.\n\n[PRX Life 2, 023010] Published Mon Jun 03, 2024",
@@ -954,56 +1004,6 @@
           "wordCount": 842,
           "title": "Five-parton scattering in QCD at two loops",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.094025.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.105018",
-          "author": "Leonardo Rastelli and Brandon C. Rayhaun",
-          "description": "Author(s): Leonardo Rastelli and Brandon C. Rayhaun\nThe authors prove (under some mild assumptions) the conjecture about the rationality of the trace anomaly central charges a and c in 4D N= 2 superconformal theories. They work on the Higgs branch and use rigorous results from vertex operator algebras in their arguments. This closes some shortcomings of the Coulomb branch arguments and rigorously shows the generality of this intriguing property.\n\n[Phys. Rev. D 109, 105018] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.105018",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 727,
-          "title": "Rationality in four dimensions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.105018.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.106014",
-          "author": "Emma Albertini, Fay Dowker, Arad Nasiri, and Stav Zalel",
-          "description": "Author(s): Emma Albertini, Fay Dowker, Arad Nasiri, and Stav Zalel\nThis paper deals with interacting quantum field theories on a causal set. Free theories on these sets have been copiously discussed but here, the authors develop perturbative expansions, in-in and in-out correlators and make a suggestion on how to define an S-matrix, a daunting task, given the absence of Cauchy surfaces in a causal set.\n\n[Phys. Rev. D 109, 106014] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.106014",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 843,
-          "title": "In-in correlators and scattering amplitudes on a causal set",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.106014.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.174307",
-          "author": "Yaodong Li, Romain Vasseur, Matthew P. A. Fisher, and Andreas W. W. Ludwig",
-          "description": "Author(s): Yaodong Li, Romain Vasseur, Matthew P. A. Fisher, and Andreas W. W. Ludwig\nThe authors explore critical properties of entanglement phase transitions in random tensor networks and monitored quantum circuits with Clifford tensors/gates for on-site Hilbert space dimensions which are powers of a prime number p. Exact mappings to replica spin models and characterizations of their symmetry groups predict that all universal properties will depend only on p. These predictions are confirmed with extensive numerical simulations. The authors also establish multifractal scaling of the purity, reflected in a continuous spectrum of critical exponents, while the typical exponent is the prefactor of the logarithm in the entanglement entropy.\n\n[Phys. Rev. B 109, 174307] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.174307",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 1504,
-          "title": "Statistical mechanics model for Clifford random tensor networks and monitored quantum circuits",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.174307.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.174518",
-          "author": "R. K. Kushwaha,  Arushi, S. Sharma, S. Srivastava, P. K. Meena, M. Pula, J. Beare, J. Gautreau, A. D. Hillier, G. M. Luke, and R. P. Singh",
-          "description": "Author(s): R. K. Kushwaha,  Arushi, S. Sharma, S. Srivastava, P. K. Meena, M. Pula, J. Beare, J. Gautreau, A. D. Hillier, G. M. Luke, and R. P. Singh\nHere, the authors report on the superconducting properties of the ternary noncentrosymmetric superconductor Re8NbTa, a new member of the Re-based superconductors that are known for the frequent occurrence of time-reversal symmetry breaking and their complex superconducting ground states. Bulk and transverse field muon spin rotation/relaxation (μSR) measurements confirm moderately coupled, fully gapped superconductivity. However, zero-field μSR measurements indicate the possible presence of spin fluctuation/time-reversal symmetry breaking in the superconducting ground state, suggesting the unconventional superconductivity in Re8NbTa.\n\n[Phys. Rev. B 109, 174518] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.174518",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 1083,
-          "title": "Unconventional properties of the noncentrosymmetric superconductor ${\\mathrm{Re}}_{8}\\mathrm{NbTa}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.174518.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.205416",
-          "author": "L. Bockhorn, D. Schuh, C. Reichl, W. Wegscheider, and R. J. Haug",
-          "description": "Author(s): L. Bockhorn, D. Schuh, C. Reichl, W. Wegscheider, and R. J. Haug\nUltrahigh-mobility two-dimensional electron gases show an astonishing robust negative magnetoresistance at zero magnetic field. In situ variation of the electron density enables a deep insight into the nature of this negative magnetoresistance. Here, the authors investigate the temperature-dependent giant negative magnetoresistance (GNMR) as a function of the electron density for several temperatures and currents. They find that the GNMR behavior depends decisively on the electron density. This observation is attributed to a changed disorder potential with electron density.\n\n[Phys. Rev. B 109, 205416] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.205416",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 1341,
-          "title": "Influence of the electron density on the giant negative magnetoresistance in two-dimensional electron gases",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.205416.png"
         }
       ]
     }

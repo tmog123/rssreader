@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-04T00:51:00.027Z</id>
+    <id>urn:2024-06-05T00:50:14.656Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-04T00:51:00.027Z</updated>
+    <updated>2024-06-05T00:50:14.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Detection of Approaching Critical Transitions in Natural Systems Driven by Red Noise]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021037</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.021037"/>
+        <updated>2024-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Andreas Morr and Niklas Boers
+Statistical properties of fluctuations of certain parameters describing a complex system can reveal when that system is approaching a tipping point.
+
+[Phys. Rev. X 14, 021037] Published Tue Jun 04, 2024]]></summary>
+        <author>
+            <name>Andreas Morr and Niklas Boers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measurement of the Pion Form Factor with CMD-3 Detector and its Implication to the Hadronic Contribution to Muon ($g−2$)]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.231903</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.231903"/>
+        <updated>2024-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. V. Ignatov et al. (CMD-3 Collaboration)
+A new measurement of the e+e−→π+π− cross section from the CMD-3 experiment points to a larger hadronic contribution to muon g−2 than previous such measurements, which, if confirmed, would ease the tension between theory and experiment for that magnetic moment.
+
+[Phys. Rev. Lett. 132, 231903] Published Tue Jun 04, 2024]]></summary>
+        <author>
+            <name>F. V. Ignatov &lt;em&gt;et al.&lt;/em&gt; (CMD-3 Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of rotation change on the emptying of an ideal bottle of water]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.064701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.064701"/>
+        <updated>2024-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Caquas, L. R. Pastur, and A. Genty
+Have you ever tried spinning your water bottle to empty it more quickly? This experiment, familiar to the general public, has rarely been studied in the scientific literature, which focuses mainly on the non-rotational case. We show that this popular experiment is surprisingly complex. Our study reveals the presence of three flow regimes, which have a direct impact on the efficiency of the draining process.
+
+[Phys. Rev. Fluids 9, 064701] Published Tue Jun 04, 2024]]></summary>
+        <author>
+            <name>A. Caquas, L. R. Pastur, and A. Genty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measurement of the ${e}^{+}{e}^{−}→{π}^{+}{π}^{−}$ cross section from threshold to 1.2 GeV with the CMD-3 detector]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.112002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.112002"/>
+        <updated>2024-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. V. Ignatov et al. (CMD-3 Collaboration)
+A new measurement of the e+e-→π+π- cross section from the CMD-3 experiment points to a larger hadronic contribution to muon g-2 than previous such measurements, which, if confirmed, would ease the tension between theory and experiment for that magnetic moment.
+
+[Phys. Rev. D 109, 112002] Published Tue Jun 04, 2024]]></summary>
+        <author>
+            <name>F. V. Ignatov &lt;em&gt;et al.&lt;/em&gt; (CMD-3 Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positron annihilation and binding in aromatic and other ring molecules]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.062801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.062801"/>
+        <updated>2024-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green
+The authors present experimental data for annihilation spectra and binding energies for positron interactions with several aromatic and heterocyclic ring molecules. The results are compared with the predictions of an ab initio theory of positron binding with excellent agreement.
+
+[Phys. Rev. A 109, 062801] Published Tue Jun 04, 2024]]></summary>
+        <author>
+            <name>E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frequency-Dependent Ecological Interactions Increase the Prevalence, and Shape the Distribution, of Preexisting Drug Resistance]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXLife.2.023010</id>
@@ -1238,71 +1303,6 @@ Scattering processes that produce multiple jets in the final states are abundant
 [Phys. Rev. D 109, 094025] Published Mon May 13, 2024]]></summary>
         <author>
             <name>Bakul Agarwal, Federico Buccioni, Federica Devoto, Giulio Gambuti, Andreas von Manteuffel, and Lorenzo Tancredi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rationality in four dimensions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.105018</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.105018"/>
-        <updated>2024-05-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Leonardo Rastelli and Brandon C. Rayhaun
-The authors prove (under some mild assumptions) the conjecture about the rationality of the trace anomaly central charges a and c in 4D N= 2 superconformal theories. They work on the Higgs branch and use rigorous results from vertex operator algebras in their arguments. This closes some shortcomings of the Coulomb branch arguments and rigorously shows the generality of this intriguing property.
-
-[Phys. Rev. D 109, 105018] Published Mon May 13, 2024]]></summary>
-        <author>
-            <name>Leonardo Rastelli and Brandon C. Rayhaun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In-in correlators and scattering amplitudes on a causal set]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.106014</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.106014"/>
-        <updated>2024-05-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Emma Albertini, Fay Dowker, Arad Nasiri, and Stav Zalel
-This paper deals with interacting quantum field theories on a causal set. Free theories on these sets have been copiously discussed but here, the authors develop perturbative expansions, in-in and in-out correlators and make a suggestion on how to define an S-matrix, a daunting task, given the absence of Cauchy surfaces in a causal set.
-
-[Phys. Rev. D 109, 106014] Published Mon May 13, 2024]]></summary>
-        <author>
-            <name>Emma Albertini, Fay Dowker, Arad Nasiri, and Stav Zalel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical mechanics model for Clifford random tensor networks and monitored quantum circuits]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.174307</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.174307"/>
-        <updated>2024-05-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yaodong Li, Romain Vasseur, Matthew P. A. Fisher, and Andreas W. W. Ludwig
-The authors explore critical properties of entanglement phase transitions in random tensor networks and monitored quantum circuits with Clifford tensors/gates for on-site Hilbert space dimensions which are powers of a prime number p. Exact mappings to replica spin models and characterizations of their symmetry groups predict that all universal properties will depend only on p. These predictions are confirmed with extensive numerical simulations. The authors also establish multifractal scaling of the purity, reflected in a continuous spectrum of critical exponents, while the typical exponent is the prefactor of the logarithm in the entanglement entropy.
-
-[Phys. Rev. B 109, 174307] Published Mon May 13, 2024]]></summary>
-        <author>
-            <name>Yaodong Li, Romain Vasseur, Matthew P. A. Fisher, and Andreas W. W. Ludwig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unconventional properties of the noncentrosymmetric superconductor ${\mathrm{Re}}_{8}\mathrm{NbTa}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.174518</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.174518"/>
-        <updated>2024-05-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. K. Kushwaha,  Arushi, S. Sharma, S. Srivastava, P. K. Meena, M. Pula, J. Beare, J. Gautreau, A. D. Hillier, G. M. Luke, and R. P. Singh
-Here, the authors report on the superconducting properties of the ternary noncentrosymmetric superconductor Re8NbTa, a new member of the Re-based superconductors that are known for the frequent occurrence of time-reversal symmetry breaking and their complex superconducting ground states. Bulk and transverse field muon spin rotation/relaxation (μSR) measurements confirm moderately coupled, fully gapped superconductivity. However, zero-field μSR measurements indicate the possible presence of spin fluctuation/time-reversal symmetry breaking in the superconducting ground state, suggesting the unconventional superconductivity in Re8NbTa.
-
-[Phys. Rev. B 109, 174518] Published Mon May 13, 2024]]></summary>
-        <author>
-            <name>R. K. Kushwaha,  Arushi, S. Sharma, S. Srivastava, P. K. Meena, M. Pula, J. Beare, J. Gautreau, A. D. Hillier, G. M. Luke, and R. P. Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Influence of the electron density on the giant negative magnetoresistance in two-dimensional electron gases]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.205416</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.205416"/>
-        <updated>2024-05-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): L. Bockhorn, D. Schuh, C. Reichl, W. Wegscheider, and R. J. Haug
-Ultrahigh-mobility two-dimensional electron gases show an astonishing robust negative magnetoresistance at zero magnetic field. In situ variation of the electron density enables a deep insight into the nature of this negative magnetoresistance. Here, the authors investigate the temperature-dependent giant negative magnetoresistance (GNMR) as a function of the electron density for several temperatures and currents. They find that the GNMR behavior depends decisively on the electron density. This observation is attributed to a changed disorder potential with electron density.
-
-[Phys. Rev. B 109, 205416] Published Mon May 13, 2024]]></summary>
-        <author>
-            <name>L. Bockhorn, D. Schuh, C. Reichl, W. Wegscheider, and R. J. Haug</name>
         </author>
     </entry>
 </feed>
