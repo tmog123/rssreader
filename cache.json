@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.236504",
+          "author": "Maria Chatzieleftheriou, Silke Biermann, and Evgeny A. Stepanov",
+          "description": "Author(s): Maria Chatzieleftheriou, Silke Biermann, and Evgeny A. Stepanov\nD-TRILEX calculations unveil details of the crossover region in Mott transitions between the weakly and strongly correlated regimes for a half-filled 2D Hubbard model.\n\n[Phys. Rev. Lett. 132, 236504] Published Wed Jun 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.236504",
+          "publishedOn": "2024-06-05T10:00:00.000Z",
+          "wordCount": 988,
+          "title": "Local and Nonlocal Electronic Correlations at the Metal-Insulator Transition in the Two-Dimensional Hubbard Model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.236504.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.235110",
+          "author": "Xiaodong Cao, Yi Lu, E. Miles Stoudenmire, and Olivier Parcollet",
+          "description": "Author(s): Xiaodong Cao, Yi Lu, E. Miles Stoudenmire, and Olivier Parcollet\nAs quantum systems evolve in time, their entanglement usually grows quickly, making tensor network methods inefficient. “Imaginary time” evolution is efficient, but extrapolating back to the real axis is ill-conditioned. Here, the authors show that complex time, a mixture of the two, remains efficient while allowing a controlled reconstruction technique. Therefore, one can reach significantly longer times, which they demonstrate by obtaining high-accuracy results for impurity models at low energies.\n\n[Phys. Rev. B 109, 235110] Published Wed Jun 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.235110",
+          "publishedOn": "2024-06-05T10:00:00.000Z",
+          "wordCount": 1174,
+          "title": "Dynamical correlation functions from complex time evolution",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.235110.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.235205",
+          "author": "Xuefen Cai, Su-Huai Wei, Peter Deák, Jingxiu Yang, Chen Zhang, Bin Wang, Shu-Shen Li, and Hui-Xiong Deng",
+          "description": "Author(s): Xuefen Cai, Su-Huai Wei, Peter Deák, Jingxiu Yang, Chen Zhang, Bin Wang, Shu-Shen Li, and Hui-Xiong Deng\nThe authors clarify here the cause behind the discontinuous bandgap behavior in certain isovalent alloys by studying α-(Rh,Ga)2O3 alloys using first-principles calculations. This challenges the applicability of conventional empirical continuous rules. They demonstrate that this unusual behavior is due to the unconventional evolution of the wavefunction character at the band edges. This work emphasizes the importance of considering specific band-edge wavefunction character differences in endpoint materials for more accurate predictions of semiconductor alloy properties, which will help in designing better materials for electronics and optoelectronics.\n\n[Phys. Rev. B 109, 235205] Published Wed Jun 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.235205",
+          "publishedOn": "2024-06-05T10:00:00.000Z",
+          "wordCount": 1039,
+          "title": "Band-gap discontinuity in semiconductor alloys with dissimilar wavefunction characters at the band edges",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.235205.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.245108",
+          "author": "Lei Su and Meng Zeng",
+          "description": "Author(s): Lei Su and Meng Zeng\nThis work taps into the idea of gauging finite subgroups of global symmetries in conventional systems to obtain unconventional phases and phase transitions, greatly expanding the conventional Landau paradigm. Assisted by analytical anomaly computations and numerical density-matrix renormalization group calculations, the authors map the ordinary superfluid-insulator transition of the Bose-Hubbard model to novel phase transitions between exotic topological and/or symmetry-breaking phases. The general framework has potential applications in cold atom experiments and digital quantum simulators.\n\n[Phys. Rev. B 109, 245108] Published Wed Jun 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.245108",
+          "publishedOn": "2024-06-05T10:00:00.000Z",
+          "wordCount": 2326,
+          "title": "Gapless symmetry-protected topological phases and generalized deconfined critical points from gauging a finite subgroup",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.245108.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L220402",
+          "author": "Wancong Tan, Haonan Jin, Raymond Fan, Kejing Ran, and Shilei Zhang",
+          "description": "Author(s): Wancong Tan, Haonan Jin, Raymond Fan, Kejing Ran, and Shilei Zhang\nThe depth-dependent skyrmion twisting angle evolution in the chiral magnet Cu2OSeO3 is found to be temperature dependent, which is unexpected from a standard micromagnetic model. Here, the authors experimentally identify that the extra twisting of the topological textures is strongly correlated with the noncollinear electric polarization from the same material, suggesting a new mechanism that can control the magnetic skyrmions.\n\n[Phys. Rev. B 109, L220402] Published Wed Jun 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L220402",
+          "publishedOn": "2024-06-05T10:00:00.000Z",
+          "wordCount": 1201,
+          "title": "Evidence for giant surface Dzyaloshinskii-Moriya interaction in the chiral magnetic insulator ${\\mathrm{Cu}}_{2}{\\mathrm{OSeO}}_{3}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L220402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L241103",
+          "author": "Selma Franca, Torsten Seidemann, Fabian Hassler, Jeroen van den Brink, and Ion Cosma Fulga",
+          "description": "Author(s): Selma Franca, Torsten Seidemann, Fabian Hassler, Jeroen van den Brink, and Ion Cosma Fulga\nWhile topoelectrical circuits are a successful tool for realizing various topological phases of matter, experiments mostly focus on detecting topological boundary phenomena originating from an underlying circuit Laplacian. Here, the authors introduce appropriate signal processing techniques that allow the recovery of the full spectrum of the chiral symmetric system from a single two-point impedance measurement. The robustness of these techniques is demonstrated by constructing the Fibonacci topoelectrical circuit for the first time, suggesting that topoelectrical circuits are an ideal metamaterial platform for studying different properties of quasi(crystalline) systems.\n\n[Phys. Rev. B 109, L241103] Published Wed Jun 05, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L241103",
+          "publishedOn": "2024-06-05T10:00:00.000Z",
+          "wordCount": 984,
+          "title": "Impedance spectroscopy of chiral symmetric topoelectrical circuits",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L241103.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021037",
           "author": "Andreas Morr and Niklas Boers",
           "description": "Author(s): Andreas Morr and Niklas Boers\nStatistical properties of fluctuations of certain parameters describing a complex system can reveal when that system is approaching a tipping point.\n\n[Phys. Rev. X 14, 021037] Published Tue Jun 04, 2024",
@@ -944,66 +1004,6 @@
           "wordCount": 2514,
           "title": "Enhanced Quantum Control of Individual Ultracold Molecules Using Optical Tweezer Arrays",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.5.020333.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021025",
-          "author": "Jun Ge, Pinyuan Wang, Ying Xing, Qiangwei Yin, Anqi Wang, Jie Shen, Hechang Lei, Ziqiang Wang, and Jian Wang",
-          "description": "Author(s): Jun Ge, Pinyuan Wang, Ying Xing, Qiangwei Yin, Anqi Wang, Jie Shen, Hechang Lei, Ziqiang Wang, and Jian Wang\nIn its superconducting state, an exotic metal harbors charge carriers that appear to have 4 and 6 times the charge of a single electron, suggesting the formation of Cooper-pair “molecules.”\n\n[Phys. Rev. X 14, 021025] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021025",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 4555,
-          "title": "Charge-$4e$ and Charge-$6e$ Flux Quantization and Higher Charge Superconductivity in Kagome Superconductor Ring Devices",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021025.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.023154",
-          "author": "Chang Hoong Chow, Boon Long Ng, Vindhiya Prakash, and Christian Kurtsiefer",
-          "description": "Author(s): Chang Hoong Chow, Boon Long Ng, Vindhiya Prakash, and Christian Kurtsiefer\nCooling by electromagnetically induced transparency is experimentally demonstrated with an optically trapped single neutral atom. The Fano resonance feature is resolved in the fluorescence excitation spectra and the temperature profiles.\n\n[Phys. Rev. Research 6, 023154] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.023154",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 1311,
-          "title": "Fano resonance in excitation spectroscopy and cooling of an optically trapped single atom",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.6.023154.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.205001",
-          "author": "Y. Luo, D. Xu, M. Blaskiewicz, and C. Montag",
-          "description": "Author(s): Y. Luo, D. Xu, M. Blaskiewicz, and C. Montag\nAs a crucial validation for the forthcoming electron-ion collider (EIC), an experiment at the RHIC demonstrates the ability to prepare and collide ion beams with emittance ratio of 11:1.\n\n[Phys. Rev. Lett. 132, 205001] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.205001",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 856,
-          "title": "Experimental Demonstration of a Large Transverse Emittance Ratio $11∶1$ in the Relativistic Heavy Ion Collider for the Electron-Ion Collider",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.205001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.094023",
-          "author": "Giuseppe De Laurentis, Harald Ita, Maximillian Klinkert, and Vasily Sotnikov",
-          "description": "Author(s): Giuseppe De Laurentis, Harald Ita, Maximillian Klinkert, and Vasily Sotnikov\nScattering processes that produce multiple jets in the final states are abundant at the Large Hadron Collider, which makes the computation of the corresponding theoretical high-precision predictions a crucial task to perform. By using different methods, two different collaborations computed the five-parton scattering amplitudes at two-loops in Quantum Chromodynamics (QCD) for any number of colors, that is including all non-planar Feynman diagrams. In DN13078 and DN13084, the authors employed analytic reconstruction methods for amplitude computations, which expose drastically simpler structures in two-loop helicity amplitudes. The authors of the other collaboration in LM18078D used tensor projection in the ’t Hooft-Veltman scheme and found analytic results for the scattering amplitudes expressed in terms of massless pentagon functions.\n\n[Phys. Rev. D 109, 094023] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.094023",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 877,
-          "title": "Double-virtual NNLO QCD corrections for five-parton scattering. I. The gluon channel",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.094023.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.094024",
-          "author": "Giuseppe De Laurentis, Harald Ita, and Vasily Sotnikov",
-          "description": "Author(s): Giuseppe De Laurentis, Harald Ita, and Vasily Sotnikov\nScattering processes that produce multiple jets in the final states are abundant at the Large Hadron Collider, which makes the computation of the corresponding theoretical high-precision predictions a crucial task to perform. By using different methods, two different collaborations computed the five-parton scattering amplitudes at two-loops in Quantum Chromodynamics (QCD) for any number of colors, that is including all non-planar Feynman diagrams. In DN13078 and DN13084, the authors employed analytic reconstruction methods for amplitude computations, which expose drastically simpler structures in two-loop helicity amplitudes. The authors of the other collaboration in LM18078D used tensor projection in the ’t Hooft-Veltman scheme and found analytic results for the scattering amplitudes expressed in terms of massless pentagon functions.\n\n[Phys. Rev. D 109, 094024] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.094024",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 902,
-          "title": "Double-virtual NNLO QCD corrections for five-parton scattering. II. The quark channels",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.094024.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.094025",
-          "author": "Bakul Agarwal, Federico Buccioni, Federica Devoto, Giulio Gambuti, Andreas von Manteuffel, and Lorenzo Tancredi",
-          "description": "Author(s): Bakul Agarwal, Federico Buccioni, Federica Devoto, Giulio Gambuti, Andreas von Manteuffel, and Lorenzo Tancredi\nScattering processes that produce multiple jets in the final states are abundant at the Large Hadron Collider, which makes the computation of the corresponding theoretical high-precision predictions a crucial task to perform. By using different methods, two different collaborations computed the five-parton scattering amplitudes at two-loops in Quantum Chromodynamics (QCD) for any number of colors, that is including all non-planar Feynman diagrams. In DN13078 and DN13084, the authors employed analytic reconstruction methods for amplitude computations, which expose drastically simpler structures in two-loop helicity amplitudes. The authors of the other collaboration in LM18078D used tensor projection in the ’t Hooft-Veltman scheme and found analytic results for the scattering amplitudes expressed in terms of massless pentagon functions.\n\n[Phys. Rev. D 109, 094025] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.094025",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 842,
-          "title": "Five-parton scattering in QCD at two loops",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.094025.png"
         }
       ]
     }
