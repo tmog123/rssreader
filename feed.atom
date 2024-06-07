@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-06T00:50:16.794Z</id>
+    <id>urn:2024-06-07T00:52:33.922Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T00:50:16.794Z</updated>
+    <updated>2024-06-07T00:52:33.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Primordial Black Holes with QCD Color Charge]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.231402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.231402"/>
+        <updated>2024-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Elba Alonso-Monsalve and David I. Kaiser
+Some ultralight black holes that formed soon after the big bang might have been exotic objects with a net “color charge” that left potentially observable signatures.
+
+[Phys. Rev. Lett. 132, 231402] Published Thu Jun 06, 2024]]></summary>
+        <author>
+            <name>Elba Alonso-Monsalve and David I. Kaiser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue-Detuned Magneto-optical Trap of CaF Molecules]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.233402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.233402"/>
+        <updated>2024-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Samuel J. Li, Connor M. Holland, Yukai Lu, and Lawrence W. Cheuk
+Cooler and denser clouds of CaF molecules are trapped using blue-detuned magneto-optical traps.
+
+[Phys. Rev. Lett. 132, 233402] Published Thu Jun 06, 2024]]></summary>
+        <author>
+            <name>Samuel J. Li, Connor M. Holland, Yukai Lu, and Lawrence W. Cheuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evidence for ${B}^{+}→{K}^{+}ν\overline{ν}$ decays]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.112006</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.112006"/>
+        <updated>2024-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): I. Adachi et al. (Belle II Collaboration)
+The Belle II Collaboration finds the first evidence for the rare decay B+→K+νν¯. Interestingly, the measured branching fraction is about 2.7 sigma larger than the standard model expectation.
+
+[Phys. Rev. D 109, 112006] Published Thu Jun 06, 2024]]></summary>
+        <author>
+            <name>I. Adachi &lt;em&gt;et al.&lt;/em&gt; (Belle II Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anomalous Fermi pockets on the Hund's metal surface of ${\mathrm{Sr}}_{2}{\mathrm{RuO}}_{4}$ induced by correlation-enhanced spin-orbit coupling]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L241107</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L241107"/>
+        <updated>2024-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Takeshi Kondo, Masayuki Ochi, Shuntaro Akebi, Yuyang Dong, Haruka Taniguchi, Yoshiteru Maeno, and Shik Shin
+Much attention has been given to the spin-orbit coupling (SOC) effect on strongly correlated systems. Here, the authors investigate the electronic structure of the surface layer consisting of rotated RuO6 octahedrons in strongly correlated Sr2RuO4. They demonstrate that the octahedral rotation generates small Fermi pockets. Furthermore, it enhances the strong correlation, which increases the effective SOC, causing high orbital mixing. This result reasonably explains why the orbital-selective Mott transition is not realized in perovskite oxides with crystal distortion of octahedral rotation and tilt.
+
+[Phys. Rev. B 109, L241107] Published Thu Jun 06, 2024]]></summary>
+        <author>
+            <name>Takeshi Kondo, Masayuki Ochi, Shuntaro Akebi, Yuyang Dong, Haruka Taniguchi, Yoshiteru Maeno, and Shik Shin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Local and Nonlocal Electronic Correlations at the Metal-Insulator Transition in the Two-Dimensional Hubbard Model]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.236504</id>
@@ -97,7 +149,7 @@ Statistical properties of fluctuations of certain parameters describing a comple
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measurement of the Pion Form Factor with CMD-3 Detector and its Implication to the Hadronic Contribution to Muon ($g−2$)]]></title>
+        <title type="html"><![CDATA[Measurement of the Pion Form Factor with CMD-3 Detector and Its Implication to the Hadronic Contribution to Muon ($g−2$)]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.231903</id>
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.231903"/>
         <updated>2024-06-04T10:00:00.000Z</updated>
@@ -1251,58 +1303,6 @@ We present a numerical study of a thin elastic sheet with small extensibility se
 [Phys. Rev. Fluids 9, 054104] Published Tue May 14, 2024]]></summary>
         <author>
             <name>Yijiang Yu and Michael D. Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement of nuclear effects in neutrino-argon interactions using generalized kinematic imbalance variables with the MicroBooNE detector]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.092007</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.092007"/>
-        <updated>2024-05-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. Abratenko et al. (MicroBooNE Collaboration)
-Modeling of neutrino-nucleus scattering is essential to making sense of neutrino experimental data. In this paper, the MicroBooNE collaboration proposes and measures a set of generalized kinematic imbalance variables that are particularly well-suited for separating out and modeling nuclear effects. The usefulness of these variables is demonstrated by comparing data to event generators.
-
-[Phys. Rev. D 109, 092007] Published Tue May 14, 2024]]></summary>
-        <author>
-            <name>P. Abratenko &lt;em&gt;et al.&lt;/em&gt; (MicroBooNE Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark matter annihilation and pair-instability supernovae]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.103021</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.103021"/>
-        <updated>2024-05-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Djuna Croon and Jeremy Sakstein
-The authors study the effect of annihilating dark matter on massive stars suffering from pair-instability. The annihilation of dark matter inserts energy into the star and the authors show that for sufficient dark matter density, significant changes occur in the masses of the resulting black holes. For dark matter masses greater than 1 GeV, most of the dark matter is in the core which leads to a more violent explosion, resulting in a lighter black hole, while for masses less than .5 GeV, most of the dark matter is in the envelope, supporting the star through energy release, causing a less violent explosion and a more massive black hole.
-
-[Phys. Rev. D 109, 103021] Published Tue May 14, 2024]]></summary>
-        <author>
-            <name>Djuna Croon and Jeremy Sakstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement-driven neural-network training for integrated magnetic tunnel junction arrays]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.21.054028</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.21.054028"/>
-        <updated>2024-05-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): William A. Borders, Advait Madhavan, Matthew W. Daniels, Vasileia Georgiou, Martin Lueker-Boden, Tiffany S. Santos, Patrick M. Braganca, Mark D. Stiles, Jabez J. McClelland, and Brian D. Hoskins
-Defective devices can severely impact the performance of hardware-based neural networks, in particular resistive crossbar arrays. This study introduces a network training approach that reduces the influence of defective devices, maintaining inference accuracy. The authors demonstrate this approach on a set of dies each containing a crossbar array consisting of 20,000 magnetic tunnel junction devices. They also develop a generalized approach using the statistics of defects and demonstrate similar performance on all dies. These results translate to a manufacturing setting where millions of dies with possible defects are produced, but the performance of even subpar chips can be guaranteed.
-
-[Phys. Rev. Applied 21, 054028] Published Tue May 14, 2024]]></summary>
-        <author>
-            <name>William A. Borders, Advait Madhavan, Matthew W. Daniels, Vasileia Georgiou, Martin Lueker-Boden, Tiffany S. Santos, Patrick M. Braganca, Mark D. Stiles, Jabez J. McClelland, and Brian D. Hoskins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced Quantum Control of Individual Ultracold Molecules Using Optical Tweezer Arrays]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.020333</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.5.020333"/>
-        <updated>2024-05-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, and Simon L. Cornish
-Site-resolved control and detection of rotational states of molecules trapped in an array of optical tweezers is demonstrated, opening up applications in quantum metrology, simulation, and sensing.
-
-[PRX Quantum 5, 020333] Published Mon May 13, 2024]]></summary>
-        <author>
-            <name>Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, and Simon L. Cornish</name>
         </author>
     </entry>
 </feed>

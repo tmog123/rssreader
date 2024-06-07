@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.231402",
+          "author": "Elba Alonso-Monsalve and David I. Kaiser",
+          "description": "Author(s): Elba Alonso-Monsalve and David I. Kaiser\nSome ultralight black holes that formed soon after the big bang might have been exotic objects with a net “color charge” that left potentially observable signatures.\n\n[Phys. Rev. Lett. 132, 231402] Published Thu Jun 06, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.231402",
+          "publishedOn": "2024-06-06T10:00:00.000Z",
+          "wordCount": 865,
+          "title": "Primordial Black Holes with QCD Color Charge",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.231402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.233402",
+          "author": "Samuel J. Li, Connor M. Holland, Yukai Lu, and Lawrence W. Cheuk",
+          "description": "Author(s): Samuel J. Li, Connor M. Holland, Yukai Lu, and Lawrence W. Cheuk\nCooler and denser clouds of CaF molecules are trapped using blue-detuned magneto-optical traps.\n\n[Phys. Rev. Lett. 132, 233402] Published Thu Jun 06, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.233402",
+          "publishedOn": "2024-06-06T10:00:00.000Z",
+          "wordCount": 1270,
+          "title": "Blue-Detuned Magneto-optical Trap of CaF Molecules",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.233402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.112006",
+          "author": "I. Adachi <em>et al.</em> (Belle II Collaboration)",
+          "description": "Author(s): I. Adachi et al. (Belle II Collaboration)\nThe Belle II Collaboration finds the first evidence for the rare decay B+→K+νν¯. Interestingly, the measured branching fraction is about 2.7 sigma larger than the standard model expectation.\n\n[Phys. Rev. D 109, 112006] Published Thu Jun 06, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.112006",
+          "publishedOn": "2024-06-06T10:00:00.000Z",
+          "wordCount": 2291,
+          "title": "Evidence for ${B}^{+}→{K}^{+}ν\\overline{ν}$ decays",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.112006.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L241107",
+          "author": "Takeshi Kondo, Masayuki Ochi, Shuntaro Akebi, Yuyang Dong, Haruka Taniguchi, Yoshiteru Maeno, and Shik Shin",
+          "description": "Author(s): Takeshi Kondo, Masayuki Ochi, Shuntaro Akebi, Yuyang Dong, Haruka Taniguchi, Yoshiteru Maeno, and Shik Shin\nMuch attention has been given to the spin-orbit coupling (SOC) effect on strongly correlated systems. Here, the authors investigate the electronic structure of the surface layer consisting of rotated RuO6 octahedrons in strongly correlated Sr2RuO4. They demonstrate that the octahedral rotation generates small Fermi pockets. Furthermore, it enhances the strong correlation, which increases the effective SOC, causing high orbital mixing. This result reasonably explains why the orbital-selective Mott transition is not realized in perovskite oxides with crystal distortion of octahedral rotation and tilt.\n\n[Phys. Rev. B 109, L241107] Published Thu Jun 06, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L241107",
+          "publishedOn": "2024-06-06T10:00:00.000Z",
+          "wordCount": 1347,
+          "title": "Anomalous Fermi pockets on the Hund's metal surface of ${\\mathrm{Sr}}_{2}{\\mathrm{RuO}}_{4}$ induced by correlation-enhanced spin-orbit coupling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L241107.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.236504",
           "author": "Maria Chatzieleftheriou, Silke Biermann, and Evgeny A. Stepanov",
           "description": "Author(s): Maria Chatzieleftheriou, Silke Biermann, and Evgeny A. Stepanov\nD-TRILEX calculations unveil details of the crossover region in Mott transitions between the weakly and strongly correlated regimes for a half-filled 2D Hubbard model.\n\n[Phys. Rev. Lett. 132, 236504] Published Wed Jun 05, 2024",
@@ -21,7 +61,7 @@
           "description": "Author(s): Xiaodong Cao, Yi Lu, E. Miles Stoudenmire, and Olivier Parcollet\nAs quantum systems evolve in time, their entanglement usually grows quickly, making tensor network methods inefficient. “Imaginary time” evolution is efficient, but extrapolating back to the real axis is ill-conditioned. Here, the authors show that complex time, a mixture of the two, remains efficient while allowing a controlled reconstruction technique. Therefore, one can reach significantly longer times, which they demonstrate by obtaining high-accuracy results for impurity models at low energies.\n\n[Phys. Rev. B 109, 235110] Published Wed Jun 05, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.235110",
           "publishedOn": "2024-06-05T10:00:00.000Z",
-          "wordCount": 1174,
+          "wordCount": 1173,
           "title": "Dynamical correlation functions from complex time evolution",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.235110.png"
         },
@@ -82,7 +122,7 @@
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.231903",
           "publishedOn": "2024-06-04T10:00:00.000Z",
           "wordCount": 872,
-          "title": "Measurement of the Pion Form Factor with CMD-3 Detector and its Implication to the Hadronic Contribution to Muon ($g−2$)",
+          "title": "Measurement of the Pion Form Factor with CMD-3 Detector and Its Implication to the Hadronic Contribution to Muon ($g−2$)",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.231903.png"
         },
         {
@@ -964,46 +1004,6 @@
           "wordCount": 1354,
           "title": "Free-space and near-wall dynamics of a flexible sheet sedimenting in Stokes flow",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.054104.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.092007",
-          "author": "P. Abratenko <em>et al.</em> (MicroBooNE Collaboration)",
-          "description": "Author(s): P. Abratenko et al. (MicroBooNE Collaboration)\nModeling of neutrino-nucleus scattering is essential to making sense of neutrino experimental data. In this paper, the MicroBooNE collaboration proposes and measures a set of generalized kinematic imbalance variables that are particularly well-suited for separating out and modeling nuclear effects. The usefulness of these variables is demonstrated by comparing data to event generators.\n\n[Phys. Rev. D 109, 092007] Published Tue May 14, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.092007",
-          "publishedOn": "2024-05-14T10:00:00.000Z",
-          "wordCount": 2126,
-          "title": "Measurement of nuclear effects in neutrino-argon interactions using generalized kinematic imbalance variables with the MicroBooNE detector",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.092007.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.103021",
-          "author": "Djuna Croon and Jeremy Sakstein",
-          "description": "Author(s): Djuna Croon and Jeremy Sakstein\nThe authors study the effect of annihilating dark matter on massive stars suffering from pair-instability. The annihilation of dark matter inserts energy into the star and the authors show that for sufficient dark matter density, significant changes occur in the masses of the resulting black holes. For dark matter masses greater than 1 GeV, most of the dark matter is in the core which leads to a more violent explosion, resulting in a lighter black hole, while for masses less than .5 GeV, most of the dark matter is in the envelope, supporting the star through energy release, causing a less violent explosion and a more massive black hole.\n\n[Phys. Rev. D 109, 103021] Published Tue May 14, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.103021",
-          "publishedOn": "2024-05-14T10:00:00.000Z",
-          "wordCount": 931,
-          "title": "Dark matter annihilation and pair-instability supernovae",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.103021.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.054028",
-          "author": "William A. Borders, Advait Madhavan, Matthew W. Daniels, Vasileia Georgiou, Martin Lueker-Boden, Tiffany S. Santos, Patrick M. Braganca, Mark D. Stiles, Jabez J. McClelland, and Brian D. Hoskins",
-          "description": "Author(s): William A. Borders, Advait Madhavan, Matthew W. Daniels, Vasileia Georgiou, Martin Lueker-Boden, Tiffany S. Santos, Patrick M. Braganca, Mark D. Stiles, Jabez J. McClelland, and Brian D. Hoskins\nDefective devices can severely impact the performance of hardware-based neural networks, in particular resistive crossbar arrays. This study introduces a network training approach that reduces the influence of defective devices, maintaining inference accuracy. The authors demonstrate this approach on a set of dies each containing a crossbar array consisting of 20,000 magnetic tunnel junction devices. They also develop a generalized approach using the statistics of defects and demonstrate similar performance on all dies. These results translate to a manufacturing setting where millions of dies with possible defects are produced, but the performance of even subpar chips can be guaranteed.\n\n[Phys. Rev. Applied 21, 054028] Published Tue May 14, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.21.054028",
-          "publishedOn": "2024-05-14T10:00:00.000Z",
-          "wordCount": 2096,
-          "title": "Measurement-driven neural-network training for integrated magnetic tunnel junction arrays",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.21.054028.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.020333",
-          "author": "Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, and Simon L. Cornish",
-          "description": "Author(s): Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, and Simon L. Cornish\nSite-resolved control and detection of rotational states of molecules trapped in an array of optical tweezers is demonstrated, opening up applications in quantum metrology, simulation, and sensing.\n\n[PRX Quantum 5, 020333] Published Mon May 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.5.020333",
-          "publishedOn": "2024-05-13T10:00:00.000Z",
-          "wordCount": 2514,
-          "title": "Enhanced Quantum Control of Individual Ultracold Molecules Using Optical Tweezer Arrays",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.5.020333.png"
         }
       ]
     }
