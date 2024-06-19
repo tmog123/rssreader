@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-18T00:51:56.095Z</id>
+    <id>urn:2024-06-19T00:51:51.307Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T00:51:56.095Z</updated>
+    <updated>2024-06-19T00:51:51.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anomalous Fraunhofer-like patterns in quantum anomalous Hall Josephson junctions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.023293</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.023293"/>
+        <updated>2024-06-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Junjie Qi, Haiwen Liu, Jie Liu, Hua Jiang, Dong E. Liu, Chui-Zhen Chen, Ke He, and X. C. Xie
+The transition from edge-dominated to bulk-dominated quantum interference patterns of supercurrents in a quantum anomalous Hall-based Josephson junction is investigated. An anomalous Fraunhofer-like pattern is observed due to the bulk carriers induced by magnetic domains, even when the chemical potential resides within the bulk gap.
+
+[Phys. Rev. Research 6, 023293] Published Tue Jun 18, 2024]]></summary>
+        <author>
+            <name>Junjie Qi, Haiwen Liu, Jie Liu, Hua Jiang, Dong E. Liu, Chui-Zhen Chen, Ke He, and X. C. Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semi-Inclusive Deep-Inelastic Scattering at Next-to-Next-to-Leading Order in QCD]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.251901</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.251901"/>
+        <updated>2024-06-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Leonardo Bonino, Thomas Gehrmann, and Giovanni Stagnitto
+The NNLO QCD contributions to the semi-inclusive deep-inelastic scattering (SIDIS) process are computed, and this might reduce the scale-dependent measurement uncertainties at the forthcoming electron-ion collider.
+
+[Phys. Rev. Lett. 132, 251901] Published Tue Jun 18, 2024]]></summary>
+        <author>
+            <name>Leonardo Bonino, Thomas Gehrmann, and Giovanni Stagnitto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-to-Next-to-Leading Order QCD Corrections to Semi-Inclusive Deep-Inelastic Scattering]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.251902</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.251902"/>
+        <updated>2024-06-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Saurav Goyal, Sven-Olaf Moch, Vaibhav Pathak, Narayan Rana, and V. Ravindran
+The NNLO QCD contributions to the semi-inclusive deep-inelastic scattering (SIDIS) process are computed, and this might reduce the scale-dependent measurement uncertainties at the forthcoming electron-ion collider.
+
+[Phys. Rev. Lett. 132, 251902] Published Tue Jun 18, 2024]]></summary>
+        <author>
+            <name>Saurav Goyal, Sven-Olaf Moch, Vaibhav Pathak, Narayan Rana, and V. Ravindran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electrically Induced Angular Momentum Flow between Separated Ferromagnets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.256701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.256701"/>
+        <updated>2024-06-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Richard Schlitz, Matthias Grammer, Tobias Wimmer, Janine Gückelhorn, Luis Flacke, Sebastian T. B. Goennenwein, Rudolf Gross, Hans Huebl, Akashdeep Kamra, and Matthias Althammer
+Spin currents carried by magnetic waves called magnons can be sent across a device without using insulating magnets—a result that could lead to spintronic devices compatible with silicon electronics.
+
+[Phys. Rev. Lett. 132, 256701] Published Tue Jun 18, 2024]]></summary>
+        <author>
+            <name>Richard Schlitz, Matthias Grammer, Tobias Wimmer, Janine Gückelhorn, Luis Flacke, Sebastian T. B. Goennenwein, Rudolf Gross, Hans Huebl, Akashdeep Kamra, and Matthias Althammer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inference of the low-energy constants in $\mathrm{Δ}$-full chiral effective field theory including a correlated truncation error]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.109.064003</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.109.064003"/>
+        <updated>2024-06-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Isak Svensson, Andreas Ekström, and Christian Forssén
+A chiral effective field theory (EFT) description of the nuclear interaction contains a power counting to organize the order-by-order contributions of the strong-interaction dynamics to nuclear observables. The truncation of the EFT expansion at finite order induces errors in predicted nucleon-nucleon scattering observables. These errors are correlated across scattering energies and angles, which robust uncertainty quantification needs to account for. This work reports a Bayesian analysis for neutron-proton scattering in a so-called Δ-full version of chiral EFT. The authors employ Gaussian processes to learn about the correlation structure of the truncation errors and find that the effective number of neutron-proton scattering data is reduced by approximately a factor of 4 due to the correlation structure of the EFT truncation error (shown in the figure for differential cross sections). The results are important for analyzing the predictive capabilities in ab-initio nuclear theory.
+
+[Phys. Rev. C 109, 064003] Published Tue Jun 18, 2024]]></summary>
+        <author>
+            <name>Isak Svensson, Andreas Ekström, and Christian Forssén</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exact Steering Bound for Two-Qubit Werner States]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.250201</id>
@@ -1238,71 +1303,6 @@ Nuclear magnetic resonance is typically performed at high magnetic fields, where
 [Phys. Rev. B 109, 184443] Published Thu May 30, 2024]]></summary>
         <author>
             <name>John Z. Myers, Friedemann Bullinger, Nicolas Kempf, Markus Plaumann, Adam Ortmeier, Thomas Theis, Pavel Povolni, Jannik Romanowski, Jörn Engelmann, Klaus Scheffler, Jan-Bernd Hövener, Kai Buckenmaier, Rainer Körber, and Andrey N. Pravdivtsev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excited-State Half-Lives in $^{130}\mathrm{Cd}$ and the Isospin Dependence of Effective Charges]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.222501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.222501"/>
-        <updated>2024-05-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Jungclaus et al.
-Experiments comparing neutron-rich cadmium with previous data on a neutron-poor version prove that a key parameter in nuclear calculations depends on the neutron-to-proton ratio.
-
-[Phys. Rev. Lett. 132, 222501] Published Wed May 29, 2024]]></summary>
-        <author>
-            <name>A. Jungclaus &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transition between Heavy-Fermion-Strange-Metal and Quantum Spin Liquid in a $4d$-Electron Trimer Lattice]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.226503</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.226503"/>
-        <updated>2024-05-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hengdi Zhao, Yu Zhang, Pedro Schlottmann, Rahul Nandkishore, Lance E. DeLong, and Gang Cao
-Observation of a heavy Fermi surface of charge-neutral spinons in Ba4Nb1−xRu3+xO12 provides experimental evidence for a robust quantum spin liquid that features an extraordinarily large entropy and a linear heat capacity extending into the milli-Kelvin regime.
-
-[Phys. Rev. Lett. 132, 226503] Published Wed May 29, 2024]]></summary>
-        <author>
-            <name>Hengdi Zhao, Yu Zhang, Pedro Schlottmann, Rahul Nandkishore, Lance E. DeLong, and Gang Cao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement of simplified template cross sections of the Higgs boson produced in association with $W$ or $Z$ bosons in the $H→b\overline{b}$ decay channel in proton-proton collisions at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.092011</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.092011"/>
-        <updated>2024-05-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Tumasyan et al. (CMS Collaboration)
-The CMS collaboration measured cross sections of associated Higgs boson production followed by the Higgs boson’s decay in the bottom-antibottom channel. Combining measurements where the associated vector boson was a Z or a W, they find that the measured interaction strength agrees with the standard model prediction to within one sigma within an error of about 20%.
-
-[Phys. Rev. D 109, 092011] Published Wed May 29, 2024]]></summary>
-        <author>
-            <name>A. Tumasyan &lt;em&gt;et al.&lt;/em&gt; (CMS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onset of transmon ionization in microwave single-photon detection]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.174312</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.174312"/>
-        <updated>2024-05-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yuki Nojiri, Kedar E. Honasoge, Achim Marx, Kirill G. Fedorov, and Rudolf Gross
-Transmon ionization (TI) is detrimental to qubit coherence and manipulation. This study explores how TI, triggered by strong microwave pulses, affects microwave single-photon detectors (SPDs) based on a 3D multimode cavity coupled to a transmon qubit. Experimental and numerical investigations reveal that at a critical pump power transmon population suddenly increases, indicating a quantum-to- classical transition. The authors also outline the challenges and potential solutions for increasing the quantum efficiency of SPDs, being crucial for advancing quantum communication and sensing technologies.
-
-[Phys. Rev. B 109, 174312] Published Wed May 29, 2024]]></summary>
-        <author>
-            <name>Yuki Nojiri, Kedar E. Honasoge, Achim Marx, Kirill G. Fedorov, and Rudolf Gross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Site-Selective Preparation and Multistate Readout of Molecules in Optical Tweezers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.020344</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.5.020344"/>
-        <updated>2024-05-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lewis R. B. Picard, Gabriel E. Patenotte, Annie J. Park, Samuel F. Gebretsadkan, and Kang-Kuen Ni
-Harnessing the multilevel structure and constituent atoms of polar molecules allows us to extend the state preparation and measurement capabilities for broad applicability in quantum information, simulation, and metrology.
-
-[PRX Quantum 5, 020344] Published Tue May 28, 2024]]></summary>
-        <author>
-            <name>Lewis R. B. Picard, Gabriel E. Patenotte, Annie J. Park, Samuel F. Gebretsadkan, and Kang-Kuen Ni</name>
         </author>
     </entry>
 </feed>
