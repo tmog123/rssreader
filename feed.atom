@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-24T00:52:49.541Z</id>
+    <id>urn:2024-06-25T00:51:29.020Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T00:52:49.541Z</updated>
+    <updated>2024-06-25T00:51:29.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bath-Engineering Magnetic Order in Quantum Spin Chains: An Analytic Mapping Approach]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.266701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.266701"/>
+        <updated>2024-06-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Brett Min, Nicholas Anto-Sztrikacs, Marlon Brenes, and Dvira Segal
+A method showing a bath-induced transition from antiferromangnetic to ferromagnetic order in a Heisenberg spin chain demonstrates a unified framework for understanding impacts of environmental factors on magnetic ordering in spin systems.
+
+[Phys. Rev. Lett. 132, 266701] Published Mon Jun 24, 2024]]></summary>
+        <author>
+            <name>Brett Min, Nicholas Anto-Sztrikacs, Marlon Brenes, and Dvira Segal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Nuclear Spin Polarization via Ground-State Level Anticrossing of Boron Vacancy Defects in Hexagonal Boron Nitride]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.266801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.266801"/>
+        <updated>2024-06-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shihao Ru, Zhengzhi Jiang, Haidong Liang, Jonathan Kenny, Hongbing Cai, Xiaodan Lyu, Robert Cernansky, Feifei Zhou, Yuzhe Yang, Kenji Watanabe, Takashi Taniguch, Fuli Li, Teck Seng Koh, Xiaogang Liu, Fedor Jelezko, Andrew A. Bettiol, and Weibo Gao
+Leveraging the ground state level anticrossing, nitrogen nuclei near boron vacancies in hexagonal boron nitride achieve nuclear spin polarization via a weak laser.
+
+[Phys. Rev. Lett. 132, 266801] Published Mon Jun 24, 2024]]></summary>
+        <author>
+            <name>Shihao Ru, Zhengzhi Jiang, Haidong Liang, Jonathan Kenny, Hongbing Cai, Xiaodan Lyu, Robert Cernansky, Feifei Zhou, Yuzhe Yang, Kenji Watanabe, Takashi Taniguch, Fuli Li, Teck Seng Koh, Xiaogang Liu, Fedor Jelezko, Andrew A. Bettiol, and Weibo Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling the beam of gravitational radiation from a cosmic string loop]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.123540</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.123540"/>
+        <updated>2024-06-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Namitha Suresh and David F. Chernoff
+The authors combine new (“multipoint”) methods with established asymptotic and numerical tools to calculate the emission of gravitational radiation from cosmic string loops over the entire celestial sphere from the ultra-low to the ultra-high frequency spectrum. These emissions contribute to the stochastic gravitational wave background and will be detectable by a wide range of instruments, from pulsar timing arrays to space-based gravitational wave detectors. An accurate description of the spectrum will be decisive for its detection.
+
+[Phys. Rev. D 109, 123540] Published Mon Jun 24, 2024]]></summary>
+        <author>
+            <name>Namitha Suresh and David F. Chernoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applicability of Eliashberg theory for systems with electron-phonon and electron-electron interaction: A comparative analysis]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.245132</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.245132"/>
+        <updated>2024-06-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shang-Shun Zhang, Zachary M. Raines, and Andrey V. Chubukov
+The applicability of Eliashberg theory, for fermions interacting with fluctuations of a soft collective boson near a quantum-critical point (QCP) in two dimensions, remains a subject of debate. The velocity of the soft boson is comparable to the Fermi velocity. Hence, Migdal’s justification of Eliashberg theory is formally not applicable. The authors argue here that some elements of Migdal’s reasoning remain valid because the collective boson is overdamped, yet vertex corrections to Eliashberg theory are O(1). At the same time, they show that these corrections are numerically small, at least near an Ising-nematic QCP.
+
+[Phys. Rev. B 109, 245132] Published Mon Jun 24, 2024]]></summary>
+        <author>
+            <name>Shang-Shun Zhang, Zachary M. Raines, and Andrey V. Chubukov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emergence of Complex Network Topologies from Flow-Weighted Optimization of Network Efficiency]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021050</id>
@@ -1251,58 +1303,6 @@ The authors present experimental data for annihilation spectra and binding energ
 [Phys. Rev. A 109, 062801] Published Tue Jun 04, 2024]]></summary>
         <author>
             <name>E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frequency-Dependent Ecological Interactions Increase the Prevalence, and Shape the Distribution, of Preexisting Drug Resistance]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXLife.2.023010</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXLife.2.023010"/>
-        <updated>2024-06-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jeff Maltas, Dagim Shiferaw Tadele, Arda Durmaz, Christopher D. McFarland, Michael Hinczewski, and Jacob G. Scott
-Interactions between drug-resistant mutants and their evolutionary ancestors in the absence of treatment can significantly impact treatment efficacy. This explains pre-existing drug resistance in non-small cell lung cancer, providing new insights for treatment strategies.
-
-[PRX Life 2, 023010] Published Mon Jun 03, 2024]]></summary>
-        <author>
-            <name>Jeff Maltas, Dagim Shiferaw Tadele, Arda Durmaz, Christopher D. McFarland, Michael Hinczewski, and Jacob G. Scott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[${\mathrm{La}}_{4}{\mathrm{Co}}_{4}X$ $(X=\mathrm{Pb}, \mathrm{Bi}, \mathrm{Sb})$: A demonstration of antagonistic pairs as a route to quasi-low-dimensional ternary compounds]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.064401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.064401"/>
-        <updated>2024-06-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tyler J. Slade, Nao Furukawa, Matthew Dygert, Siham Mohamed, Atreyee Das, Weiyi Xia, Cai-Zhuang Wang, Sergey L. Bud'ko, and Paul C. Canfield
-Low or quasi reduced-dimensional crystal structures are associated with enhanced electronic correlations and emergent quantum behavior. Despite wide interest, identification of new material examples remains restricted by the lack of chemical rules for predicting the structure of extended solids. The authors present the antagonistic pairs approach to discover intermetallic compounds with reduced dimensional structural motifs. By using a pair of strongly immiscible atoms (an antagonistic pair) with a mutually compatible third element, they show that ternary compounds can be formed in which the compatible third element separates the immiscible elements into distinct crystallographic substructures. Quasi-low dimensional structural units, such as sheets, chains, or clusters are the consequence of the immiscible atoms trying to avoid close contact in the solid state. As an example, the authors outline the discovery of La4Co4X (X = Pb, Bi, Sb), a family of intermetallic compounds in which the La separates the highly immiscible Co-Pb or Co-Bi atoms into a quasi-layered structure. They anticipate that their approach is a generalizable design principle for discovering new materials and new structure types containing low-dimensional substructures.
-
-[Phys. Rev. Materials 8, 064401] Published Mon Jun 03, 2024]]></summary>
-        <author>
-            <name>Tyler J. Slade, Nao Furukawa, Matthew Dygert, Siham Mohamed, Atreyee Das, Weiyi Xia, Cai-Zhuang Wang, Sergey L. Bud'ko, and Paul C. Canfield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of Interatomic Coulombic Decay Induced by Double Excitation of Helium in Nanodroplets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.233001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.233001"/>
-        <updated>2024-06-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): B. Bastian, J. D. Asmussen, L. Ben Ltaief, H. B. Pedersen, K. Sishodia, S. De, S. R. Krishnan, C. Medina, N. Pal, R. Richter, N. Sisourat, and M. Mudrich
-Interatomic Coulombic decay is experimentally observed in a doubly excited atom despite its extremely short lifetime.
-
-[Phys. Rev. Lett. 132, 233001] Published Mon Jun 03, 2024]]></summary>
-        <author>
-            <name>B. Bastian, J. D. Asmussen, L. Ben Ltaief, H. B. Pedersen, K. Sishodia, S. De, S. R. Krishnan, C. Medina, N. Pal, R. Richter, N. Sisourat, and M. Mudrich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spontaneous Formation of Altermagnetism from Orbital Ordering]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.236701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.236701"/>
-        <updated>2024-06-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Valentin Leeb, Alexander Mook, Libor Šmejkal, and Johannes Knolle
-In a system where a standard antiferromagnet coexists with a second, ordered phase, which breaks the sublattice rotational symmetry spontaneously, altermagnetism may emerge as an electronic instability.
-
-[Phys. Rev. Lett. 132, 236701] Published Mon Jun 03, 2024]]></summary>
-        <author>
-            <name>Valentin Leeb, Alexander Mook, Libor Šmejkal, and Johannes Knolle</name>
         </author>
     </entry>
 </feed>
