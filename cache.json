@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.261001",
+          "author": "M. Aguilar <em>et al.</em> (AMS Collaboration)",
+          "description": "Author(s): M. Aguilar et al. (AMS Collaboration)\nA long-running experiment aboard the International Space Station has found an unexpected population of cosmic rays made of heavy hydrogen ions.\n\n[Phys. Rev. Lett. 132, 261001] Published Tue Jun 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.261001",
+          "publishedOn": "2024-06-25T10:00:00.000Z",
+          "wordCount": 1311,
+          "title": "Properties of Cosmic Deuterons Measured by the Alpha Magnetic Spectrometer",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.261001.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.268301",
+          "author": "Rodrigo Saavedra, Gerhard Gompper, and Marisol Ripoll",
+          "description": "Author(s): Rodrigo Saavedra, Gerhard Gompper, and Marisol Ripoll\nWhen their vision is not strictly aligned with their propulsion vector, active agents can spontaneously self-organize into large-scale swirling patterns.\n\n[Phys. Rev. Lett. 132, 268301] Published Tue Jun 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.268301",
+          "publishedOn": "2024-06-25T10:00:00.000Z",
+          "wordCount": 1023,
+          "title": "Swirling Due to Misaligned Perception-Dependent Motility",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.268301.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.109.064322",
+          "author": "Esra Yüksel, Derya Soydaner, and Hüseyin Bahtiyar",
+          "description": "Author(s): Esra Yüksel, Derya Soydaner, and Hüseyin Bahtiyar\nUnderstanding nuclear properties away from the stability line and near the limits of the nuclear landscape relies heavily on theoretical calculations, because many unstable nuclei are difficult to reach in experiments. The authors apply two machine learning (ML) models to assess their performance in predicting nuclear mass excesses using available experimental data and a physics-based feature space. The models successfully reproduce known physical relationships and demonstrate a robust capability for extrapolation far beyond the training and test regions, offering results comparable to the model calculations. Incorporating techniques that enhance the interpretability of the ML models highlights their potential as powerful nuclear physics tools.\n\n[Phys. Rev. C 109, 064322] Published Tue Jun 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.109.064322",
+          "publishedOn": "2024-06-25T10:00:00.000Z",
+          "wordCount": 1272,
+          "title": "Nuclear mass predictions using machine learning models",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.109.064322.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.214436",
+          "author": "Vemund Falch, Jeroen Danon, Alireza Qaiumzadeh, and Arne Brataas",
+          "description": "Author(s): Vemund Falch, Jeroen Danon, Alireza Qaiumzadeh, and Arne Brataas\nAt interfaces between insulating magnets and conductors, spin pumping and spin transfer torques can couple spin and charge dynamics in the two materials through the spin Hall effect. Here, the authors develop a formalism to study how these effects modify surface magnon polaritons localized at antiferromagnet-semiconductor interfaces. Perturbatively derived analytical results, in good agreement with numerical results, show the influence of various material parameters, and can serve as a guide to explore new materials for magneto-plasmonic applications.\n\n[Phys. Rev. B 109, 214436] Published Tue Jun 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.214436",
+          "publishedOn": "2024-06-25T10:00:00.000Z",
+          "wordCount": 1447,
+          "title": "Impact of spin torques and spin-pumping phenomena on magnon-plasmon polaritons in antiferromagnetic insulator-semiconductor heterostructures",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.214436.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.224313",
+          "author": "Maria Tikhanovskaya, Ali Lavasani, Matthew P. A. Fisher, and Sagar Vijay",
+          "description": "Author(s): Maria Tikhanovskaya, Ali Lavasani, Matthew P. A. Fisher, and Sagar Vijay\nIn monitored quantum many-body dynamics, information about the evolving state can “leak” into the measurement record, as quantified by the linear-cross entropy (LXE). Here, the authors show that the LXE serves as an order parameter that also distinguishes various area-law-entangled phases of monitored circuits with a global Ising symmetry. The behavior of the LXE at a critical point separating these phases quantitatively agrees with predictions from the conformal field theory describing this critical point. This connection between out-of-equilibrium dynamics and equilibrium statistical mechanics suggests the possibility of the LXE as a probe of universal critical behavior in other kinds of monitored quantum evolution.\n\n[Phys. Rev. B 109, 224313] Published Tue Jun 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.224313",
+          "publishedOn": "2024-06-25T10:00:00.000Z",
+          "wordCount": 1788,
+          "title": "Universality of the cross-entropy in ${\\mathbb{Z}}_{2}$ symmetric monitored quantum circuits",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.224313.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.235148",
+          "author": "Matthias Hecker, Anant Rastogi, Daniel F. Agterberg, and Rafael M. Fernandes",
+          "description": "Author(s): Matthias Hecker, Anant Rastogi, Daniel F. Agterberg, and Rafael M. Fernandes\nElectronic nematicity, proposed as a novel correlated state of matter more than two decades ago, is being reported in an ever-growing number of materials. Yet, research on this topic has focused on realizations in quasi-two-dimensional lattices with fourfold or sixfold rotational symmetries. This work presents a systematic and unifying classification scheme for electronic nematicity in all crystallographic point groups and noncrystallographic groups relevant to quasicrystals and twisted materials. It reveals a rich nematic phenomenology described in terms of distinct types of Potts and clock models.\n\n[Phys. Rev. B 109, 235148] Published Tue Jun 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.235148",
+          "publishedOn": "2024-06-25T10:00:00.000Z",
+          "wordCount": 1534,
+          "title": "Classification of electronic nematicity in three-dimensional crystals and quasicrystals",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.235148.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.266701",
           "author": "Brett Min, Nicholas Anto-Sztrikacs, Marlon Brenes, and Dvira Segal",
           "description": "Author(s): Brett Min, Nicholas Anto-Sztrikacs, Marlon Brenes, and Dvira Segal\nA method showing a bath-induced transition from antiferromangnetic to ferromagnetic order in a Heisenberg spin chain demonstrates a unified framework for understanding impacts of environmental factors on magnetic ordering in spin systems.\n\n[Phys. Rev. Lett. 132, 266701] Published Mon Jun 24, 2024",
@@ -944,66 +1004,6 @@
           "wordCount": 1194,
           "title": "Evidence for giant surface Dzyaloshinskii-Moriya interaction in the chiral magnetic insulator ${\\mathrm{Cu}}_{2}{\\mathrm{OSeO}}_{3}$",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L220402.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.L241103",
-          "author": "Selma Franca, Torsten Seidemann, Fabian Hassler, Jeroen van den Brink, and Ion Cosma Fulga",
-          "description": "Author(s): Selma Franca, Torsten Seidemann, Fabian Hassler, Jeroen van den Brink, and Ion Cosma Fulga\nWhile topoelectrical circuits are a successful tool for realizing various topological phases of matter, experiments mostly focus on detecting topological boundary phenomena originating from an underlying circuit Laplacian. Here, the authors introduce appropriate signal processing techniques that allow the recovery of the full spectrum of the chiral symmetric system from a single two-point impedance measurement. The robustness of these techniques is demonstrated by constructing the Fibonacci topoelectrical circuit for the first time, suggesting that topoelectrical circuits are an ideal metamaterial platform for studying different properties of quasi(crystalline) systems.\n\n[Phys. Rev. B 109, L241103] Published Wed Jun 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.L241103",
-          "publishedOn": "2024-06-05T10:00:00.000Z",
-          "wordCount": 987,
-          "title": "Impedance spectroscopy of chiral symmetric topoelectrical circuits",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.L241103.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021037",
-          "author": "Andreas Morr and Niklas Boers",
-          "description": "Author(s): Andreas Morr and Niklas Boers\nStatistical properties of fluctuations of certain parameters describing a complex system can reveal when that system is approaching a tipping point.\n\n[Phys. Rev. X 14, 021037] Published Tue Jun 04, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021037",
-          "publishedOn": "2024-06-04T10:00:00.000Z",
-          "wordCount": 1935,
-          "title": "Detection of Approaching Critical Transitions in Natural Systems Driven by Red Noise",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021037.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.231903",
-          "author": "F. V. Ignatov <em>et al.</em> (CMD-3 Collaboration)",
-          "description": "Author(s): F. V. Ignatov et al. (CMD-3 Collaboration)\nA new measurement of the e+e−→π+π− cross section from the CMD-3 experiment points to a larger hadronic contribution to muon g−2 than previous such measurements, which, if confirmed, would ease the tension between theory and experiment for that magnetic moment.\n\n[Phys. Rev. Lett. 132, 231903] Published Tue Jun 04, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.231903",
-          "publishedOn": "2024-06-04T10:00:00.000Z",
-          "wordCount": 868,
-          "title": "Measurement of the Pion Form Factor with CMD-3 Detector and Its Implication to the Hadronic Contribution to Muon ($g−2$)",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.231903.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.064701",
-          "author": "A. Caquas, L. R. Pastur, and A. Genty",
-          "description": "Author(s): A. Caquas, L. R. Pastur, and A. Genty\nHave you ever tried spinning your water bottle to empty it more quickly? This experiment, familiar to the general public, has rarely been studied in the scientific literature, which focuses mainly on the non-rotational case. We show that this popular experiment is surprisingly complex. Our study reveals the presence of three flow regimes, which have a direct impact on the efficiency of the draining process.\n\n[Phys. Rev. Fluids 9, 064701] Published Tue Jun 04, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.064701",
-          "publishedOn": "2024-06-04T10:00:00.000Z",
-          "wordCount": 1473,
-          "title": "Impact of rotation change on the emptying of an ideal bottle of water",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.064701.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.109.112002",
-          "author": "F. V. Ignatov <em>et al.</em> (CMD-3 Collaboration)",
-          "description": "Author(s): F. V. Ignatov et al. (CMD-3 Collaboration)\nA new measurement of the e+e-→π+π- cross section from the CMD-3 experiment points to a larger hadronic contribution to muon g-2 than previous such measurements, which, if confirmed, would ease the tension between theory and experiment for that magnetic moment.\n\n[Phys. Rev. D 109, 112002] Published Tue Jun 04, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.109.112002",
-          "publishedOn": "2024-06-04T10:00:00.000Z",
-          "wordCount": 2108,
-          "title": "Measurement of the ${e}^{+}{e}^{−}→{π}^{+}{π}^{−}$ cross section from threshold to 1.2 GeV with the CMD-3 detector",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.109.112002.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.109.062801",
-          "author": "E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green",
-          "description": "Author(s): E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green\nThe authors present experimental data for annihilation spectra and binding energies for positron interactions with several aromatic and heterocyclic ring molecules. The results are compared with the predictions of an ab initio theory of positron binding with excellent agreement.\n\n[Phys. Rev. A 109, 062801] Published Tue Jun 04, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.109.062801",
-          "publishedOn": "2024-06-04T10:00:00.000Z",
-          "wordCount": 1565,
-          "title": "Positron annihilation and binding in aromatic and other ring molecules",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.109.062801.png"
         }
       ]
     }

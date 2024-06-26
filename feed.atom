@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-25T00:51:29.020Z</id>
+    <id>urn:2024-06-26T00:51:28.257Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T00:51:29.020Z</updated>
+    <updated>2024-06-26T00:51:28.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Properties of Cosmic Deuterons Measured by the Alpha Magnetic Spectrometer]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.261001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.261001"/>
+        <updated>2024-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Aguilar et al. (AMS Collaboration)
+A long-running experiment aboard the International Space Station has found an unexpected population of cosmic rays made of heavy hydrogen ions.
+
+[Phys. Rev. Lett. 132, 261001] Published Tue Jun 25, 2024]]></summary>
+        <author>
+            <name>M. Aguilar &lt;em&gt;et al.&lt;/em&gt; (AMS Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swirling Due to Misaligned Perception-Dependent Motility]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.268301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.268301"/>
+        <updated>2024-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rodrigo Saavedra, Gerhard Gompper, and Marisol Ripoll
+When their vision is not strictly aligned with their propulsion vector, active agents can spontaneously self-organize into large-scale swirling patterns.
+
+[Phys. Rev. Lett. 132, 268301] Published Tue Jun 25, 2024]]></summary>
+        <author>
+            <name>Rodrigo Saavedra, Gerhard Gompper, and Marisol Ripoll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear mass predictions using machine learning models]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.109.064322</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.109.064322"/>
+        <updated>2024-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Esra Yüksel, Derya Soydaner, and Hüseyin Bahtiyar
+Understanding nuclear properties away from the stability line and near the limits of the nuclear landscape relies heavily on theoretical calculations, because many unstable nuclei are difficult to reach in experiments. The authors apply two machine learning (ML) models to assess their performance in predicting nuclear mass excesses using available experimental data and a physics-based feature space. The models successfully reproduce known physical relationships and demonstrate a robust capability for extrapolation far beyond the training and test regions, offering results comparable to the model calculations. Incorporating techniques that enhance the interpretability of the ML models highlights their potential as powerful nuclear physics tools.
+
+[Phys. Rev. C 109, 064322] Published Tue Jun 25, 2024]]></summary>
+        <author>
+            <name>Esra Yüksel, Derya Soydaner, and Hüseyin Bahtiyar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of spin torques and spin-pumping phenomena on magnon-plasmon polaritons in antiferromagnetic insulator-semiconductor heterostructures]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.214436</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.214436"/>
+        <updated>2024-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Vemund Falch, Jeroen Danon, Alireza Qaiumzadeh, and Arne Brataas
+At interfaces between insulating magnets and conductors, spin pumping and spin transfer torques can couple spin and charge dynamics in the two materials through the spin Hall effect. Here, the authors develop a formalism to study how these effects modify surface magnon polaritons localized at antiferromagnet-semiconductor interfaces. Perturbatively derived analytical results, in good agreement with numerical results, show the influence of various material parameters, and can serve as a guide to explore new materials for magneto-plasmonic applications.
+
+[Phys. Rev. B 109, 214436] Published Tue Jun 25, 2024]]></summary>
+        <author>
+            <name>Vemund Falch, Jeroen Danon, Alireza Qaiumzadeh, and Arne Brataas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universality of the cross-entropy in ${\mathbb{Z}}_{2}$ symmetric monitored quantum circuits]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.224313</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.224313"/>
+        <updated>2024-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maria Tikhanovskaya, Ali Lavasani, Matthew P. A. Fisher, and Sagar Vijay
+In monitored quantum many-body dynamics, information about the evolving state can “leak” into the measurement record, as quantified by the linear-cross entropy (LXE). Here, the authors show that the LXE serves as an order parameter that also distinguishes various area-law-entangled phases of monitored circuits with a global Ising symmetry. The behavior of the LXE at a critical point separating these phases quantitatively agrees with predictions from the conformal field theory describing this critical point. This connection between out-of-equilibrium dynamics and equilibrium statistical mechanics suggests the possibility of the LXE as a probe of universal critical behavior in other kinds of monitored quantum evolution.
+
+[Phys. Rev. B 109, 224313] Published Tue Jun 25, 2024]]></summary>
+        <author>
+            <name>Maria Tikhanovskaya, Ali Lavasani, Matthew P. A. Fisher, and Sagar Vijay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification of electronic nematicity in three-dimensional crystals and quasicrystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.235148</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.235148"/>
+        <updated>2024-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Matthias Hecker, Anant Rastogi, Daniel F. Agterberg, and Rafael M. Fernandes
+Electronic nematicity, proposed as a novel correlated state of matter more than two decades ago, is being reported in an ever-growing number of materials. Yet, research on this topic has focused on realizations in quasi-two-dimensional lattices with fourfold or sixfold rotational symmetries. This work presents a systematic and unifying classification scheme for electronic nematicity in all crystallographic point groups and noncrystallographic groups relevant to quasicrystals and twisted materials. It reveals a rich nematic phenomenology described in terms of distinct types of Potts and clock models.
+
+[Phys. Rev. B 109, 235148] Published Tue Jun 25, 2024]]></summary>
+        <author>
+            <name>Matthias Hecker, Anant Rastogi, Daniel F. Agterberg, and Rafael M. Fernandes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bath-Engineering Magnetic Order in Quantum Spin Chains: An Analytic Mapping Approach]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.266701</id>
@@ -1225,84 +1303,6 @@ The depth-dependent skyrmion twisting angle evolution in the chiral magnet Cu2OS
 [Phys. Rev. B 109, L220402] Published Wed Jun 05, 2024]]></summary>
         <author>
             <name>Wancong Tan, Haonan Jin, Raymond Fan, Kejing Ran, and Shilei Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impedance spectroscopy of chiral symmetric topoelectrical circuits]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L241103</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L241103"/>
-        <updated>2024-06-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Selma Franca, Torsten Seidemann, Fabian Hassler, Jeroen van den Brink, and Ion Cosma Fulga
-While topoelectrical circuits are a successful tool for realizing various topological phases of matter, experiments mostly focus on detecting topological boundary phenomena originating from an underlying circuit Laplacian. Here, the authors introduce appropriate signal processing techniques that allow the recovery of the full spectrum of the chiral symmetric system from a single two-point impedance measurement. The robustness of these techniques is demonstrated by constructing the Fibonacci topoelectrical circuit for the first time, suggesting that topoelectrical circuits are an ideal metamaterial platform for studying different properties of quasi(crystalline) systems.
-
-[Phys. Rev. B 109, L241103] Published Wed Jun 05, 2024]]></summary>
-        <author>
-            <name>Selma Franca, Torsten Seidemann, Fabian Hassler, Jeroen van den Brink, and Ion Cosma Fulga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detection of Approaching Critical Transitions in Natural Systems Driven by Red Noise]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.021037</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.021037"/>
-        <updated>2024-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andreas Morr and Niklas Boers
-Statistical properties of fluctuations of certain parameters describing a complex system can reveal when that system is approaching a tipping point.
-
-[Phys. Rev. X 14, 021037] Published Tue Jun 04, 2024]]></summary>
-        <author>
-            <name>Andreas Morr and Niklas Boers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement of the Pion Form Factor with CMD-3 Detector and Its Implication to the Hadronic Contribution to Muon ($g−2$)]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.231903</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.231903"/>
-        <updated>2024-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. V. Ignatov et al. (CMD-3 Collaboration)
-A new measurement of the e+e−→π+π− cross section from the CMD-3 experiment points to a larger hadronic contribution to muon g−2 than previous such measurements, which, if confirmed, would ease the tension between theory and experiment for that magnetic moment.
-
-[Phys. Rev. Lett. 132, 231903] Published Tue Jun 04, 2024]]></summary>
-        <author>
-            <name>F. V. Ignatov &lt;em&gt;et al.&lt;/em&gt; (CMD-3 Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact of rotation change on the emptying of an ideal bottle of water]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.064701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.064701"/>
-        <updated>2024-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Caquas, L. R. Pastur, and A. Genty
-Have you ever tried spinning your water bottle to empty it more quickly? This experiment, familiar to the general public, has rarely been studied in the scientific literature, which focuses mainly on the non-rotational case. We show that this popular experiment is surprisingly complex. Our study reveals the presence of three flow regimes, which have a direct impact on the efficiency of the draining process.
-
-[Phys. Rev. Fluids 9, 064701] Published Tue Jun 04, 2024]]></summary>
-        <author>
-            <name>A. Caquas, L. R. Pastur, and A. Genty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement of the ${e}^{+}{e}^{−}→{π}^{+}{π}^{−}$ cross section from threshold to 1.2 GeV with the CMD-3 detector]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.109.112002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.109.112002"/>
-        <updated>2024-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. V. Ignatov et al. (CMD-3 Collaboration)
-A new measurement of the e+e-→π+π- cross section from the CMD-3 experiment points to a larger hadronic contribution to muon g-2 than previous such measurements, which, if confirmed, would ease the tension between theory and experiment for that magnetic moment.
-
-[Phys. Rev. D 109, 112002] Published Tue Jun 04, 2024]]></summary>
-        <author>
-            <name>F. V. Ignatov &lt;em&gt;et al.&lt;/em&gt; (CMD-3 Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positron annihilation and binding in aromatic and other ring molecules]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.109.062801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.109.062801"/>
-        <updated>2024-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green
-The authors present experimental data for annihilation spectra and binding energies for positron interactions with several aromatic and heterocyclic ring molecules. The results are compared with the predictions of an ab initio theory of positron binding with excellent agreement.
-
-[Phys. Rev. A 109, 062801] Published Tue Jun 04, 2024]]></summary>
-        <author>
-            <name>E. Arthur-Baidoo, J. R. Danielson, C. M. Surko, J. P. Cassidy, S. K. Gregg, J. Hofierka, B. Cunningham, C. H. Patterson, and D. G. Green</name>
         </author>
     </entry>
 </feed>
