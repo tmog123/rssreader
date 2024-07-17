@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.075604",
+          "author": "Ryan P. Collanton and Kevin D. Dorfman",
+          "description": "Author(s): Ryan P. Collanton and Kevin D. Dorfman\nWhen two different polymers are blended, they form phase-separated emulsions with weak interfaces. These recycled materials are inferior to the original plastics, posing a fundamental challenge for recycling mixed plastic waste streams. An emerging solution to this problem is the addition of a multiblock copolymer compatibilizer to “stitch together” the interface. Using coarse-grained molecular dynamics simulations, Collanton and Dorfman examined how interfacial toughness is impacted by the number of blocks in the compatibilizer and the copolymer loading, connecting the microstructural features of the interface to its failure mechanism.\n\n[Phys. Rev. Materials 8, 075604] Published Tue Jul 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.075604",
+          "publishedOn": "2024-07-16T10:00:00.000Z",
+          "wordCount": 1398,
+          "title": "Deformation and failure of glassy polymer-polymer interfaces compatibilized by linear multiblock copolymers",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/PhysRevMaterials.8.075604.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.034002",
+          "author": "Jesse Belden, Nathan Speirs, Aren Hellum, George Loubimov, and Tadd T. Truscott",
+          "description": "Author(s): Jesse Belden, Nathan Speirs, Aren Hellum, George Loubimov, and Tadd T. Truscott\nPebbles that are slightly curved—rather than completely flat—exert the highest impact forces when dropped onto a watery surface.\n\n[Phys. Rev. Lett. 133, 034002] Published Tue Jul 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.034002",
+          "publishedOn": "2024-07-16T10:00:00.000Z",
+          "wordCount": 1239,
+          "title": "Water Impact: When a Sphere Becomes Flat",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.034002.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.034201",
+          "author": "Ruijian Gou, Gerrit Lohmann, and Lixin Wu",
+          "description": "Author(s): Ruijian Gou, Gerrit Lohmann, and Lixin Wu\nUsing a detailed simulation, researchers reveal how climate change will affect the regional dynamics of the conveyor-belt-like circulation of water through the Atlantic Ocean.\n\n[Phys. Rev. Lett. 133, 034201] Published Tue Jul 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.034201",
+          "publishedOn": "2024-07-16T10:00:00.000Z",
+          "wordCount": 1027,
+          "title": "Atlantic Meridional Overturning Circulation Decline: Tipping Small Scales under Global Warming",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.034201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.110.026015",
+          "author": "Vid Homšak and Stefano Veroni",
+          "description": "Author(s): Vid Homšak and Stefano Veroni\nThis presents a numerical study of black hole thermodynamics in Causal Set theory. The authors introduced a new code that allows the generation of causal sets corresponding to Schwarzschild black holes, and then they tested whether the proposed horizon molecules model is consistent with the continuum Bekenstein-Hawking formula.\n\n[Phys. Rev. D 110, 026015] Published Tue Jul 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.110.026015",
+          "publishedOn": "2024-07-16T10:00:00.000Z",
+          "wordCount": 1665,
+          "title": "Boltzmannian state counting for black hole entropy in causal set theory",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.110.026015.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.045429",
+          "author": "L. Bittermann, F. Dominguez, and P. Recher",
+          "description": "Author(s): L. Bittermann, F. Dominguez, and P. Recher\nDistinguishing Majorana bound states (MBSs) from trivial states remains challenging. Here, the authors propose a new route to probe two fundamental properties of MBSs using optically active quantum dots coupled to MBSs embedded in a pnp setup. The presence of a nonlocal superconducting order parameter enables the emission of two correlated photons, whose polarization-resolved cross-noise provides direct information on the pairing spin texture and the number of MBSs, thus differentiating a trivial scenario from a topological one.\n\n[Phys. Rev. B 110, 045429] Published Tue Jul 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.045429",
+          "publishedOn": "2024-07-16T10:00:00.000Z",
+          "wordCount": 1452,
+          "title": "Photonic cross-noise spectroscopy of Majorana bound states",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.045429.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.031009",
           "author": "Zijia Liu, Xiaozhu Zhang, Xiaolei Ru, Ting-Ting Gao, Jack Murdoch Moore, and Gang Yan",
           "description": "Author(s): Zijia Liu, Xiaozhu Zhang, Xiaolei Ru, Ting-Ting Gao, Jack Murdoch Moore, and Gang Yan\nA machine-learning framework predicts when a complex system, such as an ecosystem or a power grid, will undergo a critical transition.\n\n[Phys. Rev. X 14, 031009] Published Mon Jul 15, 2024",
@@ -741,7 +791,7 @@
           "description": "Author(s): I. Todoshchenko, M. Kamada, J.-P. Kaikkonen, Y. Liao, A. Savin, E. Kauppinen, E. Sergeicheva, and P. J. Hakonen\nThe pressure of ground-state phonons is an acoustic analog to the famous Casimir pressure of zero-point photons. In the experiments here, the authors demonstrate acoustic Casimir pressure in solid monolayer 3He adsorbed on a nanotube. They also demonstrate pushing out thermal phonons with decreasing temperature or length. Another manifestation of quantum degeneracy is Bose-Einstein condensation of vacancies in dimer solid 3He and supersolidity, i.e., nondissipative mass current. The condensation is detected by an increase of dissipation and decoupling of mass.\n\n[Phys. Rev. B 109, 224519] Published Fri Jun 28, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.224519",
           "publishedOn": "2024-06-28T10:00:00.000Z",
-          "wordCount": 1342,
+          "wordCount": 1343,
           "title": "Quantum degeneracy in mesoscopic matter: Casimir effect and Bose-Einstein condensation",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.224519.png"
         },
@@ -954,56 +1004,6 @@
           "wordCount": 1550,
           "title": "Applicability of Eliashberg theory for systems with electron-phonon and electron-electron interaction: A comparative analysis",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.245132.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021050",
-          "author": "Sebastiano Bontorin, Giulia Cencetti, Riccardo Gallotti, Bruno Lepri, and Manlio De Domenico",
-          "description": "Author(s): Sebastiano Bontorin, Giulia Cencetti, Riccardo Gallotti, Bruno Lepri, and Manlio De Domenico\nA simple model based on network theory can reproduce the complex structures seen in urban transportation networks.\n\n[Phys. Rev. X 14, 021050] Published Fri Jun 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021050",
-          "publishedOn": "2024-06-21T10:00:00.000Z",
-          "wordCount": 2237,
-          "title": "Emergence of Complex Network Topologies from Flow-Weighted Optimization of Network Efficiency",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021050.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.021051",
-          "author": "Yanyu Jia, Guo Yu, Tiancheng Song, Fang Yuan, Ayelet J. Uzan, Yue Tang, Pengjie Wang, Ratnadwip Singha, Michael Onyszczak, Zhaoyi Joy Zheng, Kenji Watanabe, Takashi Taniguchi, Leslie M. Schoop, and Sanfeng Wu",
-          "description": "Author(s): Yanyu Jia, Guo Yu, Tiancheng Song, Fang Yuan, Ayelet J. Uzan, Yue Tang, Pengjie Wang, Ratnadwip Singha, Michael Onyszczak, Zhaoyi Joy Zheng, Kenji Watanabe, Takashi Taniguchi, Leslie M. Schoop, and Sanfeng Wu\nA liquid-like spreading of metal atoms on a topological material can generate a superconductor—one that might benefit quantum computing.\n\n[Phys. Rev. X 14, 021051] Published Fri Jun 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.021051",
-          "publishedOn": "2024-06-21T10:00:00.000Z",
-          "wordCount": 1868,
-          "title": "Superconductivity from On-Chip Metallization on 2D Topological Chalcogenides",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.14.021051.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.251001",
-          "author": "Koki Tokeshi and Vincent Vennin",
-          "description": "Author(s): Koki Tokeshi and Vincent Vennin\nTheorists explain why cosmic inflation might appear to be driven by a single inflaton field, even if it had actually been driven by two or more such fields.\n\n[Phys. Rev. Lett. 132, 251001] Published Fri Jun 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.251001",
-          "publishedOn": "2024-06-21T10:00:00.000Z",
-          "wordCount": 886,
-          "title": "Why Does Inflation Look Single Field to Us?",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.251001.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.132.256503",
-          "author": "Kaiwen Chen, Xiangqi Liu, Jiachen Jiao, Muyuan Zou, Chengyu Jiang, Xin Li, Yixuan Luo, Qiong Wu, Ningyuan Zhang, Yanfeng Guo, and Lei Shu",
-          "description": "Author(s): Kaiwen Chen, Xiangqi Liu, Jiachen Jiao, Muyuan Zou, Chengyu Jiang, Xin Li, Yixuan Luo, Qiong Wu, Ningyuan Zhang, Yanfeng Guo, and Lei Shu\nA positive muon spin relaxation study of polycrystalline La3Ni2O6.92 under ambient pressure reveals static long range bulk magnetic order consistent with a spin density wave.\n\n[Phys. Rev. Lett. 132, 256503] Published Fri Jun 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.132.256503",
-          "publishedOn": "2024-06-21T10:00:00.000Z",
-          "wordCount": 1098,
-          "title": "Evidence of Spin Density Waves in ${\\mathrm{La}}_{3}{\\mathrm{Ni}}_{2}{\\mathrm{O}}_{7−δ}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.132.256503.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.109.235428",
-          "author": "I. Yahniuk, M. Hild, L. E. Golub, J. Amann, J. Eroms, D. Weiss, Wun-Hao Kang, Ming-Hao Liu, K. Watanabe, T. Taniguchi, and S. D. Ganichev",
-          "description": "Author(s): I. Yahniuk, M. Hild, L. E. Golub, J. Amann, J. Eroms, D. Weiss, Wun-Hao Kang, Ming-Hao Liu, K. Watanabe, T. Taniguchi, and S. D. Ganichev\nPhotocurrents are generated by the ratchet effect – the combined action of a spatially periodic in-plane electrostatic potential and a periodically modulated radiation electric field caused by near-field diffraction. Polarized radiation is converted into a direct current due to the spatial asymmetry of the metamaterial. The ratchet current vector is gate tunable via a global back gate and a patterned gate, which control the lateral asymmetry of the system.\n\n[Phys. Rev. B 109, 235428] Published Fri Jun 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.109.235428",
-          "publishedOn": "2024-06-21T10:00:00.000Z",
-          "wordCount": 1906,
-          "title": "Terahertz ratchet in graphene two-dimensional metamaterial formed by a patterned gate with an antidot array",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.109.235428.png"
         }
       ]
     }
