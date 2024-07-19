@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-18T00:52:21.140Z</id>
+    <id>urn:2024-07-19T00:53:07.937Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T00:52:21.140Z</updated>
+    <updated>2024-07-19T00:53:07.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Predicting Heteropolymer Interactions: Demixing and Hypermixing of Disordered Protein Sequences]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.031011</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.031011"/>
+        <updated>2024-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kyosuke Adachi and Kyogo Kawaguchi
+A new theory that accounts for disorder in a protein’s structure sheds light on the development inside a cell of tiny droplets that are vital to a cell’s function.
+
+[Phys. Rev. X 14, 031011] Published Thu Jul 18, 2024]]></summary>
+        <author>
+            <name>Kyosuke Adachi and Kyogo Kawaguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-consistent sharp interface theory of active condensate dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033082</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.033082"/>
+        <updated>2024-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Andriy Goychuk, Leonardo Demarchi, Ivan Maryshev, and Erwin Frey
+How the nonlinear dynamics of a self-propelling biomolecular condensate can be reduced to an incompressible linear system reminiscent of fluid mechanics is demonstrated. Using this framework, the criteria is interrogated to observe condensate dynamics.
+
+[Phys. Rev. Research 6, 033082] Published Thu Jul 18, 2024]]></summary>
+        <author>
+            <name>Andriy Goychuk, Leonardo Demarchi, Ivan Maryshev, and Erwin Frey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thermal and Coherent Spin Pumping by Noncollinear Antiferromagnets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.036701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.036701"/>
+        <updated>2024-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ping Tang and Gerrit E. W. Bauer
+Interface effects explain the sign of the spin Seebeck effect in antiferromagnets across a spin-flop transition.
+
+[Phys. Rev. Lett. 133, 036701] Published Thu Jul 18, 2024]]></summary>
+        <author>
+            <name>Ping Tang and Gerrit E. W. Bauer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-space topological invariant for time-quasiperiodic Majorana modes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.014309</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.014309"/>
+        <updated>2024-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Zihao Qi, Ilyoun Na, Gil Refael, and Yang Peng
+Defining topological invariants in systems with dense energy spectrum is inherently challenging due to the absence of gaps. Here, the authors define a topological invariant for time quasiperiodically driven superconducting systems using spectral localizers, a recently developed tool for probing real-space topology. The invariant is shown to identify the number and quasienergy of quasiperiodic Majorana modes hosted by the system. Drawing insights from non-Hermitian physics, the authors also establish a criterion and provide a physical interpretation for spectral localizers, thereby widening their applicability.
+
+[Phys. Rev. B 110, 014309] Published Thu Jul 18, 2024]]></summary>
+        <author>
+            <name>Zihao Qi, Ilyoun Na, Gil Refael, and Yang Peng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum optimal control of squeezing in cavity optomechanics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.013512</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.013512"/>
+        <updated>2024-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Anton Halaski, Matthias G. Krauss, Daniel Basilewitsch, and Christiane P. Koch
+The authors show how to use optimal control theory to maximize squeezing in an optomechanical setup with two external drives and determine how fast the mechanical mode can be squeezed. The results provide a clear recipe for experimentalists to achieve optimized quantum control in such optomechanical systems.
+
+[Phys. Rev. A 110, 013512] Published Thu Jul 18, 2024]]></summary>
+        <author>
+            <name>Anton Halaski, Matthias G. Krauss, Daniel Basilewitsch, and Christiane P. Koch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tunneling Spectroscopy at Megabar Pressures: Determination of the Superconducting Gap in Sulfur]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.036002</id>
@@ -1238,71 +1303,6 @@ A number of astrophysical mechanisms can cause observationally detectable late-t
 [Phys. Rev. D 109, 123040] Published Thu Jun 27, 2024]]></summary>
         <author>
             <name>Nirmal Raj, Prajwal Shivanna, and Gaurav Niraj Rachh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toward Programmable Quantum Processors Based on Spin Qubits with Mechanically Mediated Interactions and Transport]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.263602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.263602"/>
-        <updated>2024-06-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Fung, E. Rosenfeld, J. D. Schaefer, A. Kabcenell, J. Gieseler, T. X. Zhou, T. Madhavan, N. Aslam, A. Yacoby, and M. D. Lukin
-A vibrating nanobeam could be used to share information between distant solid-state spin qubits, potentially allowing use of these qubits in complex computations.
-
-[Phys. Rev. Lett. 132, 263602] Published Wed Jun 26, 2024]]></summary>
-        <author>
-            <name>F. Fung, E. Rosenfeld, J. D. Schaefer, A. Kabcenell, J. Gieseler, T. X. Zhou, T. Madhavan, N. Aslam, A. Yacoby, and M. D. Lukin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effects of spin-orbit coupling in a valley chiral kagome network]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.245429</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.245429"/>
-        <updated>2024-06-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. Wittig, F. Dominguez, and P. Recher
-Chern mosaic systems exhibit weakly protected chiral modes propagating in the bulk of the material. This novel phase of matter has recently been found in twisted bilayer graphene and double-aligned graphene-hexagonal boron nitride. Here, the authors investigate the spectrum and transport properties of a valley chiral kagome scattering network. The interplay of the network geometry, magnetic field, and spin-orbit coupling gives rise to peculiar interference phenomena, including a sizable zero-field spin polarization of the conductance.
-
-[Phys. Rev. B 109, 245429] Published Wed Jun 26, 2024]]></summary>
-        <author>
-            <name>P. Wittig, F. Dominguez, and P. Recher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic transport, metal-insulator transition, and Wigner crystallization in transition metal dichalcogenide monolayers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.245431</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.245431"/>
-        <updated>2024-06-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yi Huang and Sankar Das Sarma
-By analyzing transport data from high-mobility transition metal dichalcogenide (TMD) WSe2 monolayers and considering realistic disorder scattering, the authors explain here the observed nonmonotonic carrier density dependence of mobility and the linear temperature-dependent resistivity in the metallic phase. They theoretically examine the metal-insulator transition (MIT) critical density and the melting temperature of Wigner crystallization (WC), suggesting that the observed two-dimensional low-density MIT likely results from the complex interplay between disorder effects and interaction-driven WC physics.
-
-[Phys. Rev. B 109, 245431] Published Wed Jun 26, 2024]]></summary>
-        <author>
-            <name>Yi Huang and Sankar Das Sarma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quartet tomography in multiterminal Josephson junctions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.L241407</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.L241407"/>
-        <updated>2024-06-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): David Christian Ohnmacht, Marco Coraiola, Juan José García-Esteban, Deividas Sabonis, Fabrizio Nichele, Wolfgang Belzig, and Juan Carlos Cuevas
-The authors propose here how to detect quartets in hybrid multiterminal Josephson junctions from the analysis of the current-phase relation and Andreev bound state (ABS) spectra. The methods are applied to the partial ABS spectrum of a three-terminal Josephson junction realized in an InAs/Al heterostructure, which is extracted from spectroscopic measurements with the help of a deep-learning algorithm. The authors’ analysis confirms the existence of quartets in these hybrid structures and illustrates their close relationship with ABS hybridization.
-
-[Phys. Rev. B 109, L241407] Published Wed Jun 26, 2024]]></summary>
-        <author>
-            <name>David Christian Ohnmacht, Marco Coraiola, Juan José García-Esteban, Deividas Sabonis, Fabrizio Nichele, Wolfgang Belzig, and Juan Carlos Cuevas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Properties of Cosmic Deuterons Measured by the Alpha Magnetic Spectrometer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.261001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.261001"/>
-        <updated>2024-06-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Aguilar et al. (AMS Collaboration)
-A long-running experiment aboard the International Space Station has found an unexpected population of cosmic rays made of heavy hydrogen ions.
-
-[Phys. Rev. Lett. 132, 261001] Published Tue Jun 25, 2024]]></summary>
-        <author>
-            <name>M. Aguilar &lt;em&gt;et al.&lt;/em&gt; (AMS Collaboration)</name>
         </author>
     </entry>
 </feed>
