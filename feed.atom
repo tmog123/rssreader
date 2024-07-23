@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-22T00:54:59.627Z</id>
+    <id>urn:2024-07-23T00:53:37.363Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T00:54:59.627Z</updated>
+    <updated>2024-07-23T00:53:37.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Regime of Inertial Alfvén Wave Turbulence in the Auroral Ionosphere]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.045201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.045201"/>
+        <updated>2024-07-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Francesca Di Mare and Gregory G. Howes
+Data analysis from the TRICE-2 sounding rocket in the auroral ionosphere revealed a regime of inertial Alfvén wave turbulence with properties distinct from heliospheric and solar wind plasma turbulence that allows the identification of features related to ionospheric plasma and turbulence cascade which are difficult to access in the laboratory.
+
+[Phys. Rev. Lett. 133, 045201] Published Mon Jul 22, 2024]]></summary>
+        <author>
+            <name>Francesca Di Mare and Gregory G. Howes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quasimolecular ${J}_{\mathrm{tet}}=3/2$ Moments in the Cluster Mott Insulator ${\mathrm{GaTa}}_{4}{\mathrm{Se}}_{8}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.046501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.046501"/>
+        <updated>2024-07-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Magnaterra, J. Attig, L. Peterlini, M. Hermanns, M. H. Upton, Jungho Kim, L. Prodan, V. Tsurkan, I. Kézsmárki, P. H. M. van Loosdrecht, and M. Grüninger
+The cluster Mott character of the lacunar spinel GaTa4Se8 has been determined using resonant inelastic x-ray scattering.
+
+[Phys. Rev. Lett. 133, 046501] Published Mon Jul 22, 2024]]></summary>
+        <author>
+            <name>M. Magnaterra, J. Attig, L. Peterlini, M. Hermanns, M. H. Upton, Jungho Kim, L. Prodan, V. Tsurkan, I. Kézsmárki, P. H. M. van Loosdrecht, and M. Grüninger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magneto-optical Particles in Isotropic Spinning Fields Mimic Magnetic Monopoles]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.046901</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.046901"/>
+        <updated>2024-07-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Manuel I. Marqués, Shulamit Edelstein, Pedro A. Serena, Beatriz Castillo López de Larrinzar, and Antonio Garcia-Martín
+Quasiparticles propelled by an isotropic radiation spinning field combined with an external static magnetic field are shown to behave like magnetic monopoles.
+
+[Phys. Rev. Lett. 133, 046901] Published Mon Jul 22, 2024]]></summary>
+        <author>
+            <name>Manuel I. Marqués, Shulamit Edelstein, Pedro A. Serena, Beatriz Castillo López de Larrinzar, and Antonio Garcia-Martín</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infrared-safe energy weighting does not guarantee small nonperturbative effects]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.014029</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.014029"/>
+        <updated>2024-07-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Samuel Bright-Thonney, Benjamin Nachman, and Jesse Thaler
+“Infrared and Collinear Safety” is used as a guiding principle in jet physics to ensure consistent jet definitions that are insensitive to non-perturbative modeling, including in machine-learning applications. However, as demonstrated by the authors, IRC safety does not guarantee small non-perturbative corrections. They develop an Energy Flow Network (EFN) to maximally demonstrate the problem, and then introduce Lipschitz-EFNs to show how it may be mitigated.
+
+[Phys. Rev. D 110, 014029] Published Mon Jul 22, 2024]]></summary>
+        <author>
+            <name>Samuel Bright-Thonney, Benjamin Nachman, and Jesse Thaler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of nonlocal pseudopotentials on the electrical and thermal transport properties of aluminum: A density functional theory study]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.014207</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.014207"/>
+        <updated>2024-07-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Qianrui Liu (刘千锐) and Mohan Chen (陈默涵)
+Accurate prediction of electron transport coefficients is crucial for understanding warm dense matter. The authors adopt here the Kubo-Greenwood formula and density functional theory, which are implemented within the ABACUS package, to study the electrical and thermal transport properties of aluminum. They highlight the importance of considering the nonlocal potential correction and validating the frozen core approximation for accurately calculating the electrical and thermal transport properties of electrons in liquid and warm dense aluminum (0.2–10 eV).
+
+[Phys. Rev. B 110, 014207] Published Mon Jul 22, 2024]]></summary>
+        <author>
+            <name>Qianrui Liu (刘千锐) and Mohan Chen (陈默涵)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Picosecond Trajectory of Two-Dimensional Vortex Motion in ${\mathrm{FeSe}}_{0.5}{\mathrm{Te}}_{0.5}$ Visualized by Terahertz Second Harmonic Generation]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.036004</id>
@@ -1238,71 +1303,6 @@ Using simple models supported by experimental evidence, this study rationalizes 
 [PRX Energy 3, 023014] Published Fri Jun 28, 2024]]></summary>
         <author>
             <name>Amanda L. Holt, Lincoln F. Rehm, and Alison M. Sweeney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperbolic Shear Metasurfaces]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.263803</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.263803"/>
-        <updated>2024-06-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Enrico M. Renzi, Emanuele Galiffi, Xiang Ni, and Andrea Alù
-The introduction of hyperbolic shear metasurfaces that support ultraconfined hyperbolic surface modes with symmetry-tailored axial dispersion and loss redistribution makes possible the generalization of the features of shear polaritons to metasurfaces.
-
-[Phys. Rev. Lett. 132, 263803] Published Fri Jun 28, 2024]]></summary>
-        <author>
-            <name>Enrico M. Renzi, Emanuele Galiffi, Xiang Ni, and Andrea Alù</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phase Transition to Turbulence via Moving Fronts]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.264002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.264002"/>
-        <updated>2024-06-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sébastien Gomé, Aliénor Rivière, Laurette S. Tuckerman, and Dwight Barkley
-Simulations of Couette flow that eliminate discreet structures show that turbulence proliferates through expanding fronts and decays through spontaneous formation of laminar zones.
-
-[Phys. Rev. Lett. 132, 264002] Published Fri Jun 28, 2024]]></summary>
-        <author>
-            <name>Sébastien Gomé, Aliénor Rivière, Laurette S. Tuckerman, and Dwight Barkley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin-Dependent $π{π}^{*}$ Gap in Graphene on a Magnetic Substrate]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.266401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.266401"/>
-        <updated>2024-06-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. M. Sheverdyaeva, G. Bihlmayer, E. Cappelluti, D. Pacilé, F. Mazzola, N. Atodiresei, M. Jugovac, I. Grimaldi, G. Contini, Asish K. Kundu, I. Vobornik, J. Fujii, P. Moras, C. Carbone, and L. Ferrari
-Photoemission spectroscopy and density-functional calculations indicate specific bands of graphene and spin-polarized Eu states induce a large spin-dependent gap at the Dirac point.
-
-[Phys. Rev. Lett. 132, 266401] Published Fri Jun 28, 2024]]></summary>
-        <author>
-            <name>P. M. Sheverdyaeva, G. Bihlmayer, E. Cappelluti, D. Pacilé, F. Mazzola, N. Atodiresei, M. Jugovac, I. Grimaldi, G. Contini, Asish K. Kundu, I. Vobornik, J. Fujii, P. Moras, C. Carbone, and L. Ferrari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum degeneracy in mesoscopic matter: Casimir effect and Bose-Einstein condensation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.109.224519</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.109.224519"/>
-        <updated>2024-06-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): I. Todoshchenko, M. Kamada, J.-P. Kaikkonen, Y. Liao, A. Savin, E. Kauppinen, E. Sergeicheva, and P. J. Hakonen
-The pressure of ground-state phonons is an acoustic analog to the famous Casimir pressure of zero-point photons. In the experiments here, the authors demonstrate acoustic Casimir pressure in solid monolayer 3He adsorbed on a nanotube. They also demonstrate pushing out thermal phonons with decreasing temperature or length. Another manifestation of quantum degeneracy is Bose-Einstein condensation of vacancies in dimer solid 3He and supersolidity, i.e., nondissipative mass current. The condensation is detected by an increase of dissipation and decoupling of mass.
-
-[Phys. Rev. B 109, 224519] Published Fri Jun 28, 2024]]></summary>
-        <author>
-            <name>I. Todoshchenko, M. Kamada, J.-P. Kaikkonen, Y. Liao, A. Savin, E. Kauppinen, E. Sergeicheva, and P. J. Hakonen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agnostic Phase Estimation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.132.260801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.132.260801"/>
-        <updated>2024-06-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xingrui Song, Flavio Salvati, Chandrashekhar Gaikwad, Nicole Yunger Halpern, David R. M. Arvidsson-Shukur, and Kater Murch
-Quantum sensing can benefit from entanglement protocols that can be interpreted as allowing qubits to go backward in time to choose an optimal initial state.
-
-[Phys. Rev. Lett. 132, 260801] Published Thu Jun 27, 2024]]></summary>
-        <author>
-            <name>Xingrui Song, Flavio Salvati, Chandrashekhar Gaikwad, Nicole Yunger Halpern, David R. M. Arvidsson-Shukur, and Kater Murch</name>
         </author>
     </entry>
 </feed>
