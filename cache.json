@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.030316",
+          "author": "M. A. Norcia <em>et al.</em>",
+          "description": "Author(s): M. A. Norcia et al.\nA new approach to assembling and maintaining arrays of ytterbium atoms combines the strengths of optical tweezers and optical lattices to enable larger atom arrays with defect repair by atom replacement.\n\n[PRX Quantum 5, 030316] Published Thu Jul 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.5.030316",
+          "publishedOn": "2024-07-25T10:00:00.000Z",
+          "wordCount": 2028,
+          "title": "Iterative Assembly of ${}^{171}$$\\mathrm{Yb}$ Atom Arrays with Cavity-Enhanced Optical Lattices",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.5.030316.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.045202",
+          "author": "Fabio Bacchini, Vladimir Zhdankin, Evgeny A. Gorbunov, Gregory R. Werner, Lev Arzamasskiy, Mitchell C. Begelman, and Dmitri A. Uzdensky",
+          "description": "Author(s): Fabio Bacchini, Vladimir Zhdankin, Evgeny A. Gorbunov, Gregory R. Werner, Lev Arzamasskiy, Mitchell C. Begelman, and Dmitri A. Uzdensky\nThe largest 3D fully kinetic shearing-box simulations of pair-plasma magnetorotational turbulence which take into account the radiation reaction self-consistently show how particles can be accelerated efficiently to nonthermal energies independently of initial conditions.\n\n[Phys. Rev. Lett. 133, 045202] Published Thu Jul 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.045202",
+          "publishedOn": "2024-07-25T10:00:00.000Z",
+          "wordCount": 900,
+          "title": "Collisionless Magnetorotational Turbulence in Pair Plasmas: Steady-State Dynamics, Particle Acceleration, and Radiative Cooling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.045202.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.074004",
+          "author": "Atul S. Vivek, Ranabir Dey, and Harish N. Dixit",
+          "description": "Author(s): Atul S. Vivek, Ranabir Dey, and Harish N. Dixit\nAs liquid films on solid substrates approach submicron thickness, they tend to become naturally unstable due to the action of long-range dispersion forces. Interestingly, the presence of surfactants and gravitational drainage alters the stability characteristics of these films. Using linear and nonlinear stability analyses in the lubrication limit, we show that draining films containing surfactants exhibit greater stability compared to stationary films with surfactants, as well as draining films with clean interfaces. Our findings can have potential implications for the stability of a wide variety of thin films, ranging from precorneal tear films to industrial coatings.\n\n[Phys. Rev. Fluids 9, 074004] Published Thu Jul 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.074004",
+          "publishedOn": "2024-07-25T10:00:00.000Z",
+          "wordCount": 1388,
+          "title": "Rupture of a surfactant-laden draining thin film",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.074004.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.110.014327",
+          "author": "Tobias Wolfgruber, Marco Knöll, and Robert Roth",
+          "description": "Author(s): Tobias Wolfgruber, Marco Knöll, and Robert Roth\nAb-initio calculations of atomic nuclei have revolutionized nuclear structure physics. Yet challenges remain, not least the reliable calculation of nuclear radii. In a concurrent development, modern machine-learning algorithms have excelled in a variety of computational tasks such as pattern recognition and interpolation. The authors have applied artificial neural networks (ANNs) to the extrapolation of no-core shell model calculations to infinite model spaces, effectively circumventing their computational limitations. In particular, the results show that min-max normalization, a common technique in machine learning, leads to the best results for radii. These advances offer hope that the ANN architecture is capable of handling other observables such as electromagnetic moments and transition strengths.\n\n[Phys. Rev. C 110, 014327] Published Thu Jul 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.110.014327",
+          "publishedOn": "2024-07-25T10:00:00.000Z",
+          "wordCount": 1535,
+          "title": "Precise neural network predictions of energies and radii from the no-core shell model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.110.014327.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.110.013712",
+          "author": "Karthik Chinni and Nicolás Quesada",
+          "description": "Author(s): Karthik Chinni and Nicolás Quesada\nThe authors study the dynamics of the pump mode in the down-conversion Hamiltonian using the cumulant expansion method, perturbation theory, and the full numerical simulation. They obtain the properties of the pump mode, such as depletion, entanglement, and squeezing for an experimentally relevant initial state.\n\n[Phys. Rev. A 110, 013712] Published Thu Jul 25, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.110.013712",
+          "publishedOn": "2024-07-25T10:00:00.000Z",
+          "wordCount": 2525,
+          "title": "Beyond the parametric approximation: Pump depletion, entanglement, and squeezing in macroscopic down-conversion",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.110.013712.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.046102",
           "author": "Lin Hu, Danshuo Liu, Fawei Zheng, Xuelin Yang, Yugui Yao, Bo Shen, and Bing Huang",
           "description": "Author(s): Lin Hu, Danshuo Liu, Fawei Zheng, Xuelin Yang, Yugui Yao, Bo Shen, and Bing Huang\nThe growth of a nitride epilayer on a van der Waals substrate follows a new growth mechanism, different from the previously known models of material growth.\n\n[Phys. Rev. Lett. 133, 046102] Published Wed Jul 24, 2024",
@@ -954,56 +1004,6 @@
           "wordCount": 1330,
           "title": "Laser Excitation of the $^{229}\\mathrm{Th}$ Nuclear Isomeric Transition in a Solid-State Host",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.013201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.016501",
-          "author": "Nikita Kavokine, Markus Müller, Antoine Georges, and Olivier Parcollet",
-          "description": "Author(s): Nikita Kavokine, Markus Müller, Antoine Georges, and Olivier Parcollet\nThe exact numerical solution of the quantum Heisenberg spin glass throughout the ordered phase and down to zero temperature clears a technical limitation in the investigation of a system of fundamental relevance.\n\n[Phys. Rev. Lett. 133, 016501] Published Tue Jul 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.016501",
-          "publishedOn": "2024-07-02T10:00:00.000Z",
-          "wordCount": 1139,
-          "title": "Exact Numerical Solution of the Fully Connected Classical and Quantum Heisenberg Spin Glass",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.016501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.074601",
-          "author": "Aubrey L. McCutchan, Colin R. Meyer, and Blair A. Johnson",
-          "description": "Author(s): Aubrey L. McCutchan, Colin R. Meyer, and Blair A. Johnson\nOur experimental study explores ice melting rates in quiescent water and in turbulent flow. Particle image velocimetry measurements allow us to visualize and characterize flows generated by meltwater plumes and to non-invasively measure melt rate of an ice sphere fixed in place in the center of our isotropic turbulence tank, in which randomly actuated synthetic jets produce a core of homogeneous isotropic turbulence. We present relationships between ambient water temperature and turbulent kinetic energy on melt rates.\n\n[Phys. Rev. Fluids 9, 074601] Published Tue Jul 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.074601",
-          "publishedOn": "2024-07-02T10:00:00.000Z",
-          "wordCount": 1286,
-          "title": "Enhancement of ice melting in isotropic turbulence",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.074601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.035108",
-          "author": "Gabriel Pescia, Jannes Nys, Jane Kim, Alessandro Lovato, and Giuseppe Carleo",
-          "description": "Author(s): Gabriel Pescia, Jannes Nys, Jane Kim, Alessandro Lovato, and Giuseppe Carleo\nThe immense parameter complexity of current neural-network quantum states (NQS) in continuous space renders their application to realistic physical systems impossible. Here, the authors rigorously motivate a many-body coordinate transformation as basis for a variational neural-network Ansatz, implement it via message-passing neural networks, and show a resulting reduction of two orders of magnitude in parameter complexity and convergence speed. With this, the authors open the door for future NQS studies of extended systems in the thermodynamic limit.\n\n[Phys. Rev. B 110, 035108] Published Tue Jul 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.035108",
-          "publishedOn": "2024-07-02T10:00:00.000Z",
-          "wordCount": 1142,
-          "title": "Message-passing neural quantum states for the homogeneous electron gas",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.035108.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.045104",
-          "author": "Gunhee Park (박건희), Nathan Ng, David R. Reichman, and Garnet Kin-Lic Chan",
-          "description": "Author(s): Gunhee Park (박건희), Nathan Ng, David R. Reichman, and Garnet Kin-Lic Chan\nThe authors describe here two developments of tensor network influence functionals for quantum impurity dynamics within the fermionic setting of the Anderson impurity model. The first provides the correct extension of the method to continuous time by introducing a related mathematical object. The second connects the dynamics described by a compressed tensor network influence functionals to that of a quantum embedding method with a time-dependent effective bath undergoing nonunitary dynamics. Using these concepts, the authors implement higher-order time propagators for the quench dynamics of the Anderson impurity model.\n\n[Phys. Rev. B 110, 045104] Published Tue Jul 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.045104",
-          "publishedOn": "2024-07-02T10:00:00.000Z",
-          "wordCount": 1654,
-          "title": "Tensor network influence functionals in the continuous-time limit: Connections to quantum embedding, bath discretization, and higher-order time propagation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.045104.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.045403",
-          "author": "Debasis Dutta and Amit Agarwal",
-          "description": "Author(s): Debasis Dutta and Amit Agarwal\nCollective plasmon modes, in the presence of unidirectional drift flow, acquire a nonreciprocal dispersion through the plasmonic Doppler effect. Here, the authors identify an additional quantum correction to the plasmonic Doppler shift arising from the quantum metric of the Bloch wavefunction. The authors show that the quantum plasmonic Doppler shift dominates in moiré systems, such as twisted bilayer graphene, leading to nonreciprocity up to 20%. These findings highlight the potential of moiré systems for innovative nonreciprocal photonic devices with applied direct current.\n\n[Phys. Rev. B 110, 045403] Published Tue Jul 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.045403",
-          "publishedOn": "2024-07-02T10:00:00.000Z",
-          "wordCount": 1300,
-          "title": "Large quantum nonreciprocity in plasmons dragged by drifting electrons",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.045403.png"
         }
       ]
     }

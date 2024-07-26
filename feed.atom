@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-25T00:53:30.532Z</id>
+    <id>urn:2024-07-26T00:52:44.809Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T00:53:30.532Z</updated>
+    <updated>2024-07-26T00:52:44.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Iterative Assembly of ${}^{171}$$\mathrm{Yb}$ Atom Arrays with Cavity-Enhanced Optical Lattices]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.030316</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.5.030316"/>
+        <updated>2024-07-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. A. Norcia et al.
+A new approach to assembling and maintaining arrays of ytterbium atoms combines the strengths of optical tweezers and optical lattices to enable larger atom arrays with defect repair by atom replacement.
+
+[PRX Quantum 5, 030316] Published Thu Jul 25, 2024]]></summary>
+        <author>
+            <name>M. A. Norcia &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collisionless Magnetorotational Turbulence in Pair Plasmas: Steady-State Dynamics, Particle Acceleration, and Radiative Cooling]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.045202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.045202"/>
+        <updated>2024-07-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fabio Bacchini, Vladimir Zhdankin, Evgeny A. Gorbunov, Gregory R. Werner, Lev Arzamasskiy, Mitchell C. Begelman, and Dmitri A. Uzdensky
+The largest 3D fully kinetic shearing-box simulations of pair-plasma magnetorotational turbulence which take into account the radiation reaction self-consistently show how particles can be accelerated efficiently to nonthermal energies independently of initial conditions.
+
+[Phys. Rev. Lett. 133, 045202] Published Thu Jul 25, 2024]]></summary>
+        <author>
+            <name>Fabio Bacchini, Vladimir Zhdankin, Evgeny A. Gorbunov, Gregory R. Werner, Lev Arzamasskiy, Mitchell C. Begelman, and Dmitri A. Uzdensky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rupture of a surfactant-laden draining thin film]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.074004</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.074004"/>
+        <updated>2024-07-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Atul S. Vivek, Ranabir Dey, and Harish N. Dixit
+As liquid films on solid substrates approach submicron thickness, they tend to become naturally unstable due to the action of long-range dispersion forces. Interestingly, the presence of surfactants and gravitational drainage alters the stability characteristics of these films. Using linear and nonlinear stability analyses in the lubrication limit, we show that draining films containing surfactants exhibit greater stability compared to stationary films with surfactants, as well as draining films with clean interfaces. Our findings can have potential implications for the stability of a wide variety of thin films, ranging from precorneal tear films to industrial coatings.
+
+[Phys. Rev. Fluids 9, 074004] Published Thu Jul 25, 2024]]></summary>
+        <author>
+            <name>Atul S. Vivek, Ranabir Dey, and Harish N. Dixit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precise neural network predictions of energies and radii from the no-core shell model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.110.014327</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.110.014327"/>
+        <updated>2024-07-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tobias Wolfgruber, Marco Knöll, and Robert Roth
+Ab-initio calculations of atomic nuclei have revolutionized nuclear structure physics. Yet challenges remain, not least the reliable calculation of nuclear radii. In a concurrent development, modern machine-learning algorithms have excelled in a variety of computational tasks such as pattern recognition and interpolation. The authors have applied artificial neural networks (ANNs) to the extrapolation of no-core shell model calculations to infinite model spaces, effectively circumventing their computational limitations. In particular, the results show that min-max normalization, a common technique in machine learning, leads to the best results for radii. These advances offer hope that the ANN architecture is capable of handling other observables such as electromagnetic moments and transition strengths.
+
+[Phys. Rev. C 110, 014327] Published Thu Jul 25, 2024]]></summary>
+        <author>
+            <name>Tobias Wolfgruber, Marco Knöll, and Robert Roth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the parametric approximation: Pump depletion, entanglement, and squeezing in macroscopic down-conversion]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.013712</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.013712"/>
+        <updated>2024-07-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Karthik Chinni and Nicolás Quesada
+The authors study the dynamics of the pump mode in the down-conversion Hamiltonian using the cumulant expansion method, perturbation theory, and the full numerical simulation. They obtain the properties of the pump mode, such as depletion, entanglement, and squeezing for an experimentally relevant initial state.
+
+[Phys. Rev. A 110, 013712] Published Thu Jul 25, 2024]]></summary>
+        <author>
+            <name>Karthik Chinni and Nicolás Quesada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hybrid van der Waals Epitaxy]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.046102</id>
@@ -1238,71 +1303,6 @@ Researchers have made the most precise measurement to date of the excited nuclea
 [Phys. Rev. Lett. 133, 013201] Published Tue Jul 02, 2024]]></summary>
         <author>
             <name>R. Elwell, Christian Schneider, Justin Jeet, J. E. S. Terhune, H. W. T. Morgan, A. N. Alexandrova, H. B. Tran Tan, Andrei Derevianko, and Eric R. Hudson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exact Numerical Solution of the Fully Connected Classical and Quantum Heisenberg Spin Glass]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.016501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.016501"/>
-        <updated>2024-07-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nikita Kavokine, Markus Müller, Antoine Georges, and Olivier Parcollet
-The exact numerical solution of the quantum Heisenberg spin glass throughout the ordered phase and down to zero temperature clears a technical limitation in the investigation of a system of fundamental relevance.
-
-[Phys. Rev. Lett. 133, 016501] Published Tue Jul 02, 2024]]></summary>
-        <author>
-            <name>Nikita Kavokine, Markus Müller, Antoine Georges, and Olivier Parcollet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancement of ice melting in isotropic turbulence]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.074601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.074601"/>
-        <updated>2024-07-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Aubrey L. McCutchan, Colin R. Meyer, and Blair A. Johnson
-Our experimental study explores ice melting rates in quiescent water and in turbulent flow. Particle image velocimetry measurements allow us to visualize and characterize flows generated by meltwater plumes and to non-invasively measure melt rate of an ice sphere fixed in place in the center of our isotropic turbulence tank, in which randomly actuated synthetic jets produce a core of homogeneous isotropic turbulence. We present relationships between ambient water temperature and turbulent kinetic energy on melt rates.
-
-[Phys. Rev. Fluids 9, 074601] Published Tue Jul 02, 2024]]></summary>
-        <author>
-            <name>Aubrey L. McCutchan, Colin R. Meyer, and Blair A. Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Message-passing neural quantum states for the homogeneous electron gas]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.035108</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.035108"/>
-        <updated>2024-07-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gabriel Pescia, Jannes Nys, Jane Kim, Alessandro Lovato, and Giuseppe Carleo
-The immense parameter complexity of current neural-network quantum states (NQS) in continuous space renders their application to realistic physical systems impossible. Here, the authors rigorously motivate a many-body coordinate transformation as basis for a variational neural-network Ansatz, implement it via message-passing neural networks, and show a resulting reduction of two orders of magnitude in parameter complexity and convergence speed. With this, the authors open the door for future NQS studies of extended systems in the thermodynamic limit.
-
-[Phys. Rev. B 110, 035108] Published Tue Jul 02, 2024]]></summary>
-        <author>
-            <name>Gabriel Pescia, Jannes Nys, Jane Kim, Alessandro Lovato, and Giuseppe Carleo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensor network influence functionals in the continuous-time limit: Connections to quantum embedding, bath discretization, and higher-order time propagation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.045104</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.045104"/>
-        <updated>2024-07-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gunhee Park (박건희), Nathan Ng, David R. Reichman, and Garnet Kin-Lic Chan
-The authors describe here two developments of tensor network influence functionals for quantum impurity dynamics within the fermionic setting of the Anderson impurity model. The first provides the correct extension of the method to continuous time by introducing a related mathematical object. The second connects the dynamics described by a compressed tensor network influence functionals to that of a quantum embedding method with a time-dependent effective bath undergoing nonunitary dynamics. Using these concepts, the authors implement higher-order time propagators for the quench dynamics of the Anderson impurity model.
-
-[Phys. Rev. B 110, 045104] Published Tue Jul 02, 2024]]></summary>
-        <author>
-            <name>Gunhee Park (박건희), Nathan Ng, David R. Reichman, and Garnet Kin-Lic Chan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large quantum nonreciprocity in plasmons dragged by drifting electrons]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.045403</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.045403"/>
-        <updated>2024-07-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Debasis Dutta and Amit Agarwal
-Collective plasmon modes, in the presence of unidirectional drift flow, acquire a nonreciprocal dispersion through the plasmonic Doppler effect. Here, the authors identify an additional quantum correction to the plasmonic Doppler shift arising from the quantum metric of the Bloch wavefunction. The authors show that the quantum plasmonic Doppler shift dominates in moiré systems, such as twisted bilayer graphene, leading to nonreciprocity up to 20%. These findings highlight the potential of moiré systems for innovative nonreciprocal photonic devices with applied direct current.
-
-[Phys. Rev. B 110, 045403] Published Tue Jul 02, 2024]]></summary>
-        <author>
-            <name>Debasis Dutta and Amit Agarwal</name>
         </author>
     </entry>
 </feed>
