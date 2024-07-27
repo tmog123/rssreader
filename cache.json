@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.041401",
+          "author": "Álvaro Álvarez-Domínguez, Luis J. Garay, Eduardo Martín-Martínez, and José Polo-Gómez",
+          "description": "Author(s): Álvaro Álvarez-Domínguez, Luis J. Garay, Eduardo Martín-Martínez, and José Polo-Gómez\nThe formation of a black hole from light alone is permitted by general relativity, but a new study says quantum physics rules it out.\n\n[Phys. Rev. Lett. 133, 041401] Published Fri Jul 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.041401",
+          "publishedOn": "2024-07-26T10:00:00.000Z",
+          "wordCount": 730,
+          "title": "No Black Holes from Light",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.041401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.046802",
+          "author": "Yihao Hu, Jiyuan Yang, and Shi Liu",
+          "description": "Author(s): Yihao Hu, Jiyuan Yang, and Shi Liu\nEmergence of helical dipole spirals in ferroelectric PbTiO3 is expected to increase the piezoelectric response by approximately 400%.\n\n[Phys. Rev. Lett. 133, 046802] Published Fri Jul 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.046802",
+          "publishedOn": "2024-07-26T10:00:00.000Z",
+          "wordCount": 1187,
+          "title": "Giant Piezoelectric Effects of Topological Structures in Stretched Ferroelectric Membranes",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.046802.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.035158",
+          "author": "Jun Mochida and Yuto Ashida",
+          "description": "Author(s): Jun Mochida and Yuto Ashida\nCavity confinement of quantum materials can induce a strong coupling between the electronic system and the quantum electromagnetic field, potentially leading to novel quantum phenomena of light and matter. The authors study here how the ultrastrong light-matter coupling can affect the Kondo effect. Nonperturbative analyses show that the ultrastrong coupling can enhance the Kondo temperature and give rise to several notable phenomena, including universal scalings of the cavity-modified Kondo effect, the photon occupation number, and the entanglement entropy between the cavity and electrons.\n\n[Phys. Rev. B 110, 035158] Published Fri Jul 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.035158",
+          "publishedOn": "2024-07-26T10:00:00.000Z",
+          "wordCount": 1079,
+          "title": "Cavity-enhanced Kondo effect",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.035158.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.045147",
+          "author": "Khachatur G. Nazaryan and Leonid Levitov",
+          "description": "Author(s): Khachatur G. Nazaryan and Leonid Levitov\nSpatial current patterns observed on the macroscale encode information about carrier dynamics on the microscale. In particular, vortices, manifested through currents flowing against externally applied electric fields, attract interest as a telltale signature of electron hydrodynamics. Previous studies have often regarded vorticity as a distinct feature of the hydrodynamic phase. Here, the authors explore the conditions under which vortex patterns can arise in electron systems, finding that the requirements for vortices prove to be considerably less stringent than previous work have suggested.\n\n[Phys. Rev. B 110, 045147] Published Fri Jul 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.045147",
+          "publishedOn": "2024-07-26T10:00:00.000Z",
+          "wordCount": 1314,
+          "title": "Nonlocal conductivity, continued fractions, and current vortices in electron fluids",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.045147.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.030316",
           "author": "M. A. Norcia <em>et al.</em>",
           "description": "Author(s): M. A. Norcia et al.\nA new approach to assembling and maintaining arrays of ytterbium atoms combines the strengths of optical tweezers and optical lattices to enable larger atom arrays with defect repair by atom replacement.\n\n[PRX Quantum 5, 030316] Published Thu Jul 25, 2024",
@@ -681,7 +721,7 @@
           "description": "Author(s): Yifu Cao, Chandan Setty, Andreas Kreisel, Laura Fanfarillo, and P. J. Hirschfeld\nAn ultranodal superconducting state exhibits very unusual physical properties since it has a strongly enhanced low-energy density of states compared to a nodal state. The iron-based superconductor FeSe1−xSx has been proposed as a realization of such an exotic state. The authors of this work examine here the consequences in this superconductor with Bogoliubov Fermi surfaces and find that the spin-relaxation rate shows an upturn towards low temperature as result of an interplay of correlation effects, multiband nature and the Bogoliubov Fermi surface.\n\n[Phys. Rev. B 110, L020503] Published Thu Jul 11, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L020503",
           "publishedOn": "2024-07-11T10:00:00.000Z",
-          "wordCount": 1100,
+          "wordCount": 1099,
           "title": "Spin fluctuations in the ultranodal superconducting state of Fe(Se,S)",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.L020503.png"
         },
@@ -801,7 +841,7 @@
           "description": "Author(s): Gonzalo Alonso-Álvarez, James M. Cline, and Caitlyn Dewar\nDark matter that interacts with itself could extract significant momentum from a binary supermassive black hole system, causing the black holes to merge.\n\n[Phys. Rev. Lett. 133, 021401] Published Tue Jul 09, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.021401",
           "publishedOn": "2024-07-09T10:00:00.000Z",
-          "wordCount": 1331,
+          "wordCount": 1330,
           "title": "Self-Interacting Dark Matter Solves the Final Parsec Problem of Supermassive Black Hole Mergers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.021401.png"
         },
@@ -964,46 +1004,6 @@
           "wordCount": 1233,
           "title": "Decay Dynamics of a Single Spherical Domain in Near-Critical Phase-Separated Conditions",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.018201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.110.014310",
-          "author": "D. Nagae <em>et al.</em>",
-          "description": "Author(s): D. Nagae et al.\nNuclear masses are among the most significant observables to elucidate nuclear structure and its evolution with proton and neutron number as well as nucleosynthesis in the cosmos. This is especially so in exotic nuclei where masses will be among the first observables measured for new nuclei. Yet, such measurements are extremely difficult due to the short lifetimes and low production yields at rare isotope beam facilities. The present work describes the Rare-RI Ring facility, an isochronous storage ring at RIKEN, and the first commissioning measurements to establish its capabilities. The full identification of each ion before injection into the storage ring and the measurement time of about 1 ms are excellently suited for measuring masses of the most exotic nuclei, promising a breakthrough in the precision mass spectrometry of extremely rare short-lived radionuclides.\n\n[Phys. Rev. C 110, 014310] Published Wed Jul 03, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.110.014310",
-          "publishedOn": "2024-07-03T10:00:00.000Z",
-          "wordCount": 1308,
-          "title": "Isochronous mass spectrometry at the RIKEN Rare-RI Ring facility",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.110.014310.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.110.015801",
-          "author": "Shahina, R. J. deBoer, J. Görres, R. Fang, M. Febbraro, R. Kelmar, M. Matney, K. Manukyan, J. T. Nattress, E. Robles, T. J. Ruland, T. T. King, A. Sanchez, R. S. Sidhu, E. Stech, and M. Wiescher",
-          "description": "Author(s): Shahina, R. J. deBoer, J. Görres, R. Fang, M. Febbraro, R. Kelmar, M. Matney, K. Manukyan, J. T. Nattress, E. Robles, T. J. Ruland, T. T. King, A. Sanchez, R. S. Sidhu, E. Stech, and M. Wiescher\nThe 22Ne + α reaction has significant impact at the end of the core helium burning phase in red giant stars. Radiative α capture, (α,γ), heats the plasma while the (α,n) reaction provides neutrons for the weak s process; their interplay determines the efficiency of the latter as a neutron source. The authors measure the strength of the resonance at Eα,lab=830 keV in the 22Ne(α,n)25Mg reaction. This resonance dominates the reaction rate for both the 22Ne(α,n)25Mg reaction and the competing 22Ne(α,γ)26Mg radiative capture at temperatures larger than 0.25 GK. As a crucial step, the authors characterize the stilbene neutron detector, where relevant information on the neutron energy is retained, and evaluate the possible sources of neutron background in their measurement. The results significantly improve the characterization of the astrophysically impactful 830 keV resonance.\n\n[Phys. Rev. C 110, 015801] Published Wed Jul 03, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.110.015801",
-          "publishedOn": "2024-07-03T10:00:00.000Z",
-          "wordCount": 1367,
-          "title": "Strength measurement of the ${E}_{α}^{\\mathrm{lab}}=830$ keV resonance in the $^{22}\\mathrm{Ne}(α,n)^{25}\\mathrm{Mg}$ reaction using a stilbene detector",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.110.015801.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.014408",
-          "author": "Farhan Islam, Deborah Schlagel, Yongbin Lee, Santanu Pakhira, Daniel M. Pajerowski, David C. Johnston, Liqin Ke, David Vaknin, and Robert J. McQueeney",
-          "description": "Author(s): Farhan Islam, Deborah Schlagel, Yongbin Lee, Santanu Pakhira, Daniel M. Pajerowski, David C. Johnston, Liqin Ke, David Vaknin, and Robert J. McQueeney\nThe authors investigate here the coexistence of ferromagnetic order and antiferromagnetic dimers in Mn-substituted SnTe, a dilute magnetic topological insulator. Using inelastic neutron scattering and density functional theory, they reveal that the strong antiferromagnetic interaction via Mn-Te-Mn superexchange competes with the long-range ferromagnetic order. These findings provide new insights into the limitations of achieving robust ferromagnetism and quantum anomalous Hall effects in such systems.\n\n[Phys. Rev. B 110, 014408] Published Wed Jul 03, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.014408",
-          "publishedOn": "2024-07-03T10:00:00.000Z",
-          "wordCount": 1360,
-          "title": "Coexistence of ferromagnetism and antiferromagnetic dimers in topological insulators",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.014408.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.013201",
-          "author": "R. Elwell, Christian Schneider, Justin Jeet, J. E. S. Terhune, H. W. T. Morgan, A. N. Alexandrova, H. B. Tran Tan, Andrei Derevianko, and Eric R. Hudson",
-          "description": "Author(s): R. Elwell, Christian Schneider, Justin Jeet, J. E. S. Terhune, H. W. T. Morgan, A. N. Alexandrova, H. B. Tran Tan, Andrei Derevianko, and Eric R. Hudson\nResearchers have made the most precise measurement to date of the excited nuclear state of thorium-229, a candidate isotope for an ultraprecise nuclear clock.\n\n[Phys. Rev. Lett. 133, 013201] Published Tue Jul 02, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.013201",
-          "publishedOn": "2024-07-02T10:00:00.000Z",
-          "wordCount": 1330,
-          "title": "Laser Excitation of the $^{229}\\mathrm{Th}$ Nuclear Isomeric Transition in a Solid-State Host",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.013201.png"
         }
       ]
     }
