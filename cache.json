@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.050606",
+          "author": "Eric Vernier, Hsiu-Chung Yeh, Lorenzo Piroli, and Aditi Mitra",
+          "description": "Author(s): Eric Vernier, Hsiu-Chung Yeh, Lorenzo Piroli, and Aditi Mitra\nRobust edge modes exist for a class of integrable spin chains in the interacting Floquet setting.\n\n[Phys. Rev. Lett. 133, 050606] Published Fri Aug 02, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.050606",
+          "publishedOn": "2024-08-02T10:00:00.000Z",
+          "wordCount": 1054,
+          "title": "Strong Zero Modes in Integrable Quantum Circuits",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.050606.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.054101",
+          "author": "Vlad Giurgiu, Giuseppe Carlo Alp Caridi, Marco De Paoli, and Alfredo Soldati",
+          "description": "Author(s): Vlad Giurgiu, Giuseppe Carlo Alp Caridi, Marco De Paoli, and Alfredo Soldati\nNew data on the rotation around both long and short axes of plastic strands may help researchers track and remove microplastics that pollute the ocean.\n\n[Phys. Rev. Lett. 133, 054101] Published Fri Aug 02, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.054101",
+          "publishedOn": "2024-08-02T10:00:00.000Z",
+          "wordCount": 1253,
+          "title": "Full Rotational Dynamics of Plastic Microfibers in Turbulence",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.054101.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.054501",
+          "author": "Yuriy Yerin, Stefan-Ludwig Drechsler, A. A. Varlamov, Mario Cuoco, and Francesco Giazotto",
+          "description": "Author(s): Yuriy Yerin, Stefan-Ludwig Drechsler, A. A. Varlamov, Mario Cuoco, and Francesco Giazotto\nMultiband superconductors with nontrivial interband phase relation between the order parameters can break time-reversal symmetry. The authors show here that a nonreciprocal supercurrent can arise in Josephson junctions linking conventional single-band and multiband superconductors with broken time-reversal symmetry, and the supercurrent rectification can be manipulated by the interband phase difference and the strength of the interband scattering. For a junction with three-band superconductors, the interband phase frustration leads to a hexagonal pattern of nodal lines in the profile of the rectification, where the amplitude drops to zero.\n\n[Phys. Rev. B 110, 054501] Published Fri Aug 02, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.054501",
+          "publishedOn": "2024-08-02T10:00:00.000Z",
+          "wordCount": 1155,
+          "title": "Supercurrent rectification with time-reversal symmetry broken multiband superconductors",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.054501.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.051001",
           "author": "Tassia Ferreira, David Alonso, Carlos Garcia-Garcia, and Nora Elisa Chisari",
           "description": "Author(s): Tassia Ferreira, David Alonso, Carlos Garcia-Garcia, and Nora Elisa Chisari\nA correlation between two astronomical observables reveals the influence of visible matter on a universe dominated by dark matter.\n\n[Phys. Rev. Lett. 133, 051001] Published Thu Aug 01, 2024",
@@ -268,7 +298,7 @@
         {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.056901",
           "author": "Gerald Curran, III, Zachary Rex, Casper Xallan Wilson, Luke J. Weaver, and Ivan Biaggio",
-          "description": "Author(s): Gerald Curran, III, Zachary Rex, Casper Xallan Wilson, Luke J. Weaver, and Ivan Biaggio\nA combined theoretical and experimental work in single-crystal rubrene provides a model of singlet fission that accounts for triplet-induced dephasing and derives the triplet-exciton hopping rate between inequivalent sites.\n\n[Phys. Rev. Lett. 133, 056901] Published Mon Jul 29, 2024",
+          "description": "Author(s): Gerald Curran, III, Zachary Rex, Casper Xallan Wilson, Luke J. Weaver, and Ivan Biaggio\nA combined theoretical and experimental work in single-crystal rubrene provides a model of spin coherence that accounts for transport-induced dephasing and derives the triplet-exciton hopping rate between inequivalent sites.\n\n[Phys. Rev. Lett. 133, 056901] Published Mon Jul 29, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.056901",
           "publishedOn": "2024-07-29T10:00:00.000Z",
           "wordCount": 1281,
@@ -931,7 +961,7 @@
           "description": "Author(s): Fabrizio Berritta, Jan A. Krzywda, Jacob Benestad, Joost van der Heijden, Federico Fedele, Saeed Fallahi, Geoffrey C. Gardner, Michael J. Manfra, Evert van Nieuwenburg, Jeroen Danon, Anasua Chatterjee, and Ferdinand Kuemmeth\nIn quantum information science, online Hamiltonian learning emerges as a promising tool to compensate for uncontrolled environmental effects, thereby enhancing qubit quality factors. Several estimation schemes have been proposed to boost learning efficiency, but experimental implementation has been hindered by hardware limitations. Here the authors perform physics-informed, adaptive Bayesian Hamiltonian estimation for a singlet-triplet spin qubit, using a quantum controller powered by a field-programmable gate array. These techniques allow for significantly faster and more accurate real-time tracking of low-frequency noise in solid-state qubits.\n\n[Phys. Rev. Applied 22, 014033] Published Mon Jul 15, 2024",
           "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.014033",
           "publishedOn": "2024-07-15T10:00:00.000Z",
-          "wordCount": 1492,
+          "wordCount": 1583,
           "title": "Physics-informed tracking of qubit fluctuations",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.22.014033.png"
         },
@@ -974,36 +1004,6 @@
           "wordCount": 2031,
           "title": "Detecting dark matter substructures on small scales with fast radio bursts",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.110.023516.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.014420",
-          "author": "Michael P. Adams, Evelyn P. Sinaga, Štefan Liščák, and Andreas Michels",
-          "description": "Author(s): Michael P. Adams, Evelyn P. Sinaga, Štefan Liščák, and Andreas Michels\nThe authors derive here analytical expressions for the polarized magnetic neutron scattering cross section and the related pair-distance distribution function arising from dilute nanoparticle assemblies with antisymmetric vortex-type spin structures. Connections between the magnetic correlation coefficients and the field-dependent vortex-axes distribution function are established. The results, which are validated through a comparative analysis with micromagnetic simulations, replace the conventional formulation for the macrospin model and provide a framework for the analysis of experimental neutron data.\n\n[Phys. Rev. B 110, 014420] Published Fri Jul 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.014420",
-          "publishedOn": "2024-07-12T10:00:00.000Z",
-          "wordCount": 1073,
-          "title": "Framework for polarized magnetic neutron scattering from nanoparticle assemblies with vortex-type spin textures",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.014420.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.035135",
-          "author": "Shirin Mozaffari, William R. Meier, Richa P. Madhogaria, Nikolai Peshcherenko, Seoung-Hun Kang, John W. Villanova, Hasitha W. Suriya Arachchige, Guoxin Zheng, Yuan Zhu, Kuan-Wen Chen, Kaila Jenkins, Dechen Zhang, Aaron Chan, Lu Li, Mina Yoon, Yang Zhang, and David G. Mandrus",
-          "description": "Author(s): Shirin Mozaffari, William R. Meier, Richa P. Madhogaria, Nikolai Peshcherenko, Seoung-Hun Kang, John W. Villanova, Hasitha W. Suriya Arachchige, Guoxin Zheng, Yuan Zhu, Kuan-Wen Chen, Kaila Jenkins, Dechen Zhang, Aaron Chan, Lu Li, Mina Yoon, Yang Zhang, and David G. Mandrus\nKagome metals are exciting platforms to explore electronic instabilities such as charge density waves. The authors study here magnetotransport properties of various kagome compounds, with a focus on the charge density wave metal ScV6Sn6 and explain characteristic features among them. For example, ScV6Sn6 and CsV3Sb5 both have charge density waves, and both exhibit sublinear resistivity above the charge ordering temperature and anomalous Hall-like behavior below this temperature. This contrasts with LuV6Sn6, which lacks charge ordering and lacks these intriguing transport hallmarks.\n\n[Phys. Rev. B 110, 035135] Published Fri Jul 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.035135",
-          "publishedOn": "2024-07-12T10:00:00.000Z",
-          "wordCount": 1403,
-          "title": "Universal sublinear resistivity in vanadium kagome materials hosting charge density waves",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.035135.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.035136",
-          "author": "Steffen Bollmann, Jukka I. Väyrynen, and Elio J. König",
-          "description": "Author(s): Steffen Bollmann, Jukka I. Väyrynen, and Elio J. König\nMesoscopic quantum devices, such as quantum dots in a Coulomb blockade regime, are suitable platforms for emulating strongly correlated many-body effects. Considering a quantum dot with Kramers degenerate doublets of Majorana zero modes in time-reversal invariant triplet superconductors with strong charging energy effects and order parameter fluctuations, the authors suggest here a setup realizing a novel Kondo fixed point. Using Abelian bosonization, they show that the system displays Fermi-liquid and non-Fermi-liquid ground state characteristics alike.\n\n[Phys. Rev. B 110, 035136] Published Fri Jul 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.035136",
-          "publishedOn": "2024-07-12T10:00:00.000Z",
-          "wordCount": 1465,
-          "title": "Topological Kondo effect with spinful Majorana fermions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.035136.png"
         }
       ]
     }
