@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-12T00:55:58.944Z</id>
+    <id>urn:2024-08-13T00:55:30.989Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-12T00:55:58.944Z</updated>
+    <updated>2024-08-13T00:55:30.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Neural-network Density Functional Theory Based on Variational Energy Minimization]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.076401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.076401"/>
+        <updated>2024-08-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yang Li, Zechen Tang, Zezhou Chen, Minghui Sun, Boheng Zhao, He Li, Honggeng Tao, Zilong Yuan, Wenhui Duan, and Yong Xu
+Instead of training the neural networks with predictions derived from DFT, unsupervised learning by treating the energy functional of variational DFT as the loss function of the neural network yields predictions of material properties.
+
+[Phys. Rev. Lett. 133, 076401] Published Mon Aug 12, 2024]]></summary>
+        <author>
+            <name>Yang Li, Zechen Tang, Zezhou Chen, Minghui Sun, Boheng Zhao, He Li, Honggeng Tao, Zilong Yuan, Wenhui Duan, and Yong Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many-Body Quantum Interference Route to the Two-Channel Kondo Effect: Inverse Design for Molecular Junctions and Quantum Dot Devices]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.076501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.076501"/>
+        <updated>2024-08-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sudeshna Sen and Andrew K. Mitchell
+Many-body quantum interference can be used in molecular transistors and quantum dot nanostructures to engineer fractionalized Kondo anyons.
+
+[Phys. Rev. Lett. 133, 076501] Published Mon Aug 12, 2024]]></summary>
+        <author>
+            <name>Sudeshna Sen and Andrew K. Mitchell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automated Distribution of Polarization-Entangled Photons Using Deployed New York City Fibers]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.030330</id>
@@ -1277,32 +1303,6 @@ This study is an experimental observation and characterization of the long-antic
 [Phys. Rev. B 110, 035148] Published Fri Jul 19, 2024]]></summary>
         <author>
             <name>Predrag Nikolić, Yuanyuan Xu, Takumi Ohtsuki, David C. Elbert, Satoru Nakatsuji, and Natalia Drichko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extensive long-range entanglement at finite temperatures from a nonequilibrium bias]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.035149</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.035149"/>
-        <updated>2024-07-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Shachar Fraenkel and Moshe Goldstein
-In a quantum many-body system, any two contiguous subsystems are typically either weakly entangled, or this entanglement decays with their separation. Could one observe strong long-range entanglement in a natural setup? Through exact calculations, the authors show here that such a remarkable behavior emerges in a simple 1D wire containing free fermions with a single scatterer, subject to temperature or voltage bias. The phenomenon arises from the coherent nature of the scattering, and may bear implications to more complex nonequilibrium systems.
-
-[Phys. Rev. B 110, 035149] Published Fri Jul 19, 2024]]></summary>
-        <author>
-            <name>Shachar Fraenkel and Moshe Goldstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theory of intrinsic acoustic plasmons in twisted bilayer graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.045431</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.045431"/>
-        <updated>2024-07-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lorenzo Cavicchi, Iacopo Torre, Pablo Jarillo-Herrero, Frank H. L. Koppens, and Marco Polini
-The authors theoretically investigate here the intrinsic plasmonic properties of twisted bilayer graphene as a function of twist angle θ, temperature, and filling factor. Using the random phase approximation, the authors consider the layer-pseudospin degree of freedom, spatial nonlocality of the density-density response function, crystalline local field effects, and Hartree self-consistency. Their findings reveal a smooth transition in the plasmonic spectrum of TBG from a strongly coupled regime (θ ≲ 2°) with a weakly dispersive intraband plasmon, to a weakly coupled regime (θ ≳ 2°), where an acoustic plasmon clearly emerges.
-
-[Phys. Rev. B 110, 045431] Published Fri Jul 19, 2024]]></summary>
-        <author>
-            <name>Lorenzo Cavicchi, Iacopo Torre, Pablo Jarillo-Herrero, Frank H. L. Koppens, and Marco Polini</name>
         </author>
     </entry>
 </feed>

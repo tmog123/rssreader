@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.076401",
+          "author": "Yang Li, Zechen Tang, Zezhou Chen, Minghui Sun, Boheng Zhao, He Li, Honggeng Tao, Zilong Yuan, Wenhui Duan, and Yong Xu",
+          "description": "Author(s): Yang Li, Zechen Tang, Zezhou Chen, Minghui Sun, Boheng Zhao, He Li, Honggeng Tao, Zilong Yuan, Wenhui Duan, and Yong Xu\nInstead of training the neural networks with predictions derived from DFT, unsupervised learning by treating the energy functional of variational DFT as the loss function of the neural network yields predictions of material properties.\n\n[Phys. Rev. Lett. 133, 076401] Published Mon Aug 12, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.076401",
+          "publishedOn": "2024-08-12T10:00:00.000Z",
+          "wordCount": 1138,
+          "title": "Neural-network Density Functional Theory Based on Variational Energy Minimization",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.076401.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.076501",
+          "author": "Sudeshna Sen and Andrew K. Mitchell",
+          "description": "Author(s): Sudeshna Sen and Andrew K. Mitchell\nMany-body quantum interference can be used in molecular transistors and quantum dot nanostructures to engineer fractionalized Kondo anyons.\n\n[Phys. Rev. Lett. 133, 076501] Published Mon Aug 12, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.076501",
+          "publishedOn": "2024-08-12T10:00:00.000Z",
+          "wordCount": 1037,
+          "title": "Many-Body Quantum Interference Route to the Two-Channel Kondo Effect: Inverse Design for Molecular Junctions and Quantum Dot Devices",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.076501.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.030330",
           "author": "Alexander N. Craddock, Anne Lazenby, Gabriel Bello Portmann, Rourke Sekelsky, Mael Flament, and Mehdi Namazi",
           "description": "Author(s): Alexander N. Craddock, Anne Lazenby, Gabriel Bello Portmann, Rourke Sekelsky, Mael Flament, and Mehdi Namazi\nProgress toward practical, large-scale quantum networks is achieved via a demonstration of long-term, high-quality polarization-entanglement distribution.\n\n[PRX Quantum 5, 030330] Published Fri Aug 09, 2024",
@@ -984,26 +1004,6 @@
           "wordCount": 1554,
           "title": "Possible Weyl-Luttinger phase transition in pyrochlore iridates revealed by Raman scattering",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.035148.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.035149",
-          "author": "Shachar Fraenkel and Moshe Goldstein",
-          "description": "Author(s): Shachar Fraenkel and Moshe Goldstein\nIn a quantum many-body system, any two contiguous subsystems are typically either weakly entangled, or this entanglement decays with their separation. Could one observe strong long-range entanglement in a natural setup? Through exact calculations, the authors show here that such a remarkable behavior emerges in a simple 1D wire containing free fermions with a single scatterer, subject to temperature or voltage bias. The phenomenon arises from the coherent nature of the scattering, and may bear implications to more complex nonequilibrium systems.\n\n[Phys. Rev. B 110, 035149] Published Fri Jul 19, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.035149",
-          "publishedOn": "2024-07-19T10:00:00.000Z",
-          "wordCount": 1834,
-          "title": "Extensive long-range entanglement at finite temperatures from a nonequilibrium bias",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.035149.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.045431",
-          "author": "Lorenzo Cavicchi, Iacopo Torre, Pablo Jarillo-Herrero, Frank H. L. Koppens, and Marco Polini",
-          "description": "Author(s): Lorenzo Cavicchi, Iacopo Torre, Pablo Jarillo-Herrero, Frank H. L. Koppens, and Marco Polini\nThe authors theoretically investigate here the intrinsic plasmonic properties of twisted bilayer graphene as a function of twist angle θ, temperature, and filling factor. Using the random phase approximation, the authors consider the layer-pseudospin degree of freedom, spatial nonlocality of the density-density response function, crystalline local field effects, and Hartree self-consistency. Their findings reveal a smooth transition in the plasmonic spectrum of TBG from a strongly coupled regime (θ ≲ 2°) with a weakly dispersive intraband plasmon, to a weakly coupled regime (θ ≳ 2°), where an acoustic plasmon clearly emerges.\n\n[Phys. Rev. B 110, 045431] Published Fri Jul 19, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.045431",
-          "publishedOn": "2024-07-19T10:00:00.000Z",
-          "wordCount": 1245,
-          "title": "Theory of intrinsic acoustic plasmons in twisted bilayer graphene",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.045431.png"
         }
       ]
     }
