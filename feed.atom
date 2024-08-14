@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-13T00:55:30.989Z</id>
+    <id>urn:2024-08-14T00:54:42.391Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-13T00:55:30.989Z</updated>
+    <updated>2024-08-14T00:54:42.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spin-$S$ Kitaev-Heisenberg model on the honeycomb lattice: A high-order treatment via the many-body coupled cluster method]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033168</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.033168"/>
+        <updated>2024-08-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Georgiou, I. Rousochatzakis, D. J. J. Farnell, J. Richter, and R. F. Bishop
+A coupled cluster method technique captures strong quantum-mechanical fluctuations of generalized Kitaev models and uncovers new insights into their complex phase diagrams.
+
+[Phys. Rev. Research 6, 033168] Published Tue Aug 13, 2024]]></summary>
+        <author>
+            <name>M. Georgiou, I. Rousochatzakis, D. J. J. Farnell, J. Richter, and R. F. Bishop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation of Non-Hermitian Edge Burst in Quantum Dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.070801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.070801"/>
+        <updated>2024-08-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lei Xiao, Wen-Tan Xue, Fei Song, Yu-Min Hu, Wei Yi, Zhong Wang, and Peng Xue
+In non-Hermitian systems, boundary effects are more pronounced than in Hermitian systems.
+
+[Phys. Rev. Lett. 133, 070801] Published Tue Aug 13, 2024]]></summary>
+        <author>
+            <name>Lei Xiao, Wen-Tan Xue, Fei Song, Yu-Min Hu, Wei Yi, Zhong Wang, and Peng Xue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Entanglement in Physical Networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.077401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.077401"/>
+        <updated>2024-08-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Cory Glover and Albert-László Barabási
+A new mathematical measure of knottiness could help improve the transport efficiencies of subway and road systems, as well as other physical networks.
+
+[Phys. Rev. Lett. 133, 077401] Published Tue Aug 13, 2024]]></summary>
+        <author>
+            <name>Cory Glover and Albert-László Barabási</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous pressure-induced valence and magnetic transitions in ${\mathrm{EuMnSb}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.075127</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.075127"/>
+        <updated>2024-08-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Raimundas Sereika, Greeshma C. Jose, Silu Huang, Rongying Jin, William A. Shelton, Weiwei Xie, Jiyong Zhao, Barbara Lavina, Esen E. Alp, Yuming Xiao, Dongzhou Zhang, Yogesh K. Vohra, and Wenli Bi
+EuMnSb2 is a unique material platform to realize magnetic control of topological quasiparticles. The authors employ here external pressure as a tuning mechanism to investigate the valence and magnetic properties through a series of synchrotron x-ray diffraction and spectroscopy techniques. They find a continuous valence change accompanied by a large increase in the magnetic ordering temperature in the Eu sublattice. This enhancement is likely due to the reduced Eu ion distance and increased 4f-5d orbital mixing.
+
+[Phys. Rev. B 110, 075127] Published Tue Aug 13, 2024]]></summary>
+        <author>
+            <name>Raimundas Sereika, Greeshma C. Jose, Silu Huang, Rongying Jin, William A. Shelton, Weiwei Xie, Jiyong Zhao, Barbara Lavina, Esen E. Alp, Yuming Xiao, Dongzhou Zhang, Yogesh K. Vohra, and Wenli Bi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neural-network Density Functional Theory Based on Variational Energy Minimization]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.076401</id>
@@ -1251,58 +1303,6 @@ Quasiparticles propelled by an isotropic radiation spinning field combined with 
 [Phys. Rev. D 110, 014029] Published Mon Jul 22, 2024]]></summary>
         <author>
             <name>Samuel Bright-Thonney, Benjamin Nachman, and Jesse Thaler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effects of nonlocal pseudopotentials on the electrical and thermal transport properties of aluminum: A density functional theory study]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.014207</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.014207"/>
-        <updated>2024-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Qianrui Liu (刘千锐) and Mohan Chen (陈默涵)
-Accurate prediction of electron transport coefficients is crucial for understanding warm dense matter. The authors adopt here the Kubo-Greenwood formula and density functional theory, which are implemented within the ABACUS package, to study the electrical and thermal transport properties of aluminum. They highlight the importance of considering the nonlocal potential correction and validating the frozen core approximation for accurately calculating the electrical and thermal transport properties of electrons in liquid and warm dense aluminum (0.2–10 eV).
-
-[Phys. Rev. B 110, 014207] Published Mon Jul 22, 2024]]></summary>
-        <author>
-            <name>Qianrui Liu (刘千锐) and Mohan Chen (陈默涵)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Picosecond Trajectory of Two-Dimensional Vortex Motion in ${\mathrm{FeSe}}_{0.5}{\mathrm{Te}}_{0.5}$ Visualized by Terahertz Second Harmonic Generation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.036004</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.036004"/>
-        <updated>2024-07-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sachiko Nakamura, Haruki Matsumoto, Hiroki Ogawa, Tomoki Kobayashi, Fuyuki Nabeshima, Atsutaka Maeda, and Ryo Shimano
-A new technique reveals high-speed trajectories of oscillating vortices and shows that they are 10,000 times lighter than expected.
-
-[Phys. Rev. Lett. 133, 036004] Published Fri Jul 19, 2024]]></summary>
-        <author>
-            <name>Sachiko Nakamura, Haruki Matsumoto, Hiroki Ogawa, Tomoki Kobayashi, Fuyuki Nabeshima, Atsutaka Maeda, and Ryo Shimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disorder-Induced Anomalous Mobility Enhancement in Confined Geometries]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.037101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.037101"/>
-        <updated>2024-07-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Dan Shafir and Stanislav Burov
-When a strong and quenched disorder is present, the mobility of a particle in a two-dimensional channel is enhanced as the cross-section of the channel is diminished.
-
-[Phys. Rev. Lett. 133, 037101] Published Fri Jul 19, 2024]]></summary>
-        <author>
-            <name>Dan Shafir and Stanislav Burov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Possible Weyl-Luttinger phase transition in pyrochlore iridates revealed by Raman scattering]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.035148</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.035148"/>
-        <updated>2024-07-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Predrag Nikolić, Yuanyuan Xu, Takumi Ohtsuki, David C. Elbert, Satoru Nakatsuji, and Natalia Drichko
-This study is an experimental observation and characterization of the long-anticipated topological phase transition between different types of nodal electronic spectra in pyrochlore iridates. A unique combination of theory and measurements reveal that an incoherent part of the Raman scattering spectrum can unambiguously distinguish between Weyl and quadratic band-touching quasiparticles in correlated topological materials, while extracting Fermi energy relative to the node, Coulomb interaction effects and the amount of disorder. The results provide a critical verification of some prominent expectations that have been driving the research on pyrochlore iridates in recent years.
-
-[Phys. Rev. B 110, 035148] Published Fri Jul 19, 2024]]></summary>
-        <author>
-            <name>Predrag Nikolić, Yuanyuan Xu, Takumi Ohtsuki, David C. Elbert, Satoru Nakatsuji, and Natalia Drichko</name>
         </author>
     </entry>
 </feed>
