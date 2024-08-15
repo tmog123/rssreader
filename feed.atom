@@ -1,10 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-14T00:54:42.391Z</id>
+    <id>urn:2024-08-15T00:52:11.774Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T00:54:42.391Z</updated>
+    <updated>2024-08-15T00:52:11.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First-principles investigation of near-field energy transfer between localized quantum emitters in solids]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033170</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.033170"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Swarnabha Chattaraj, Supratik Guha, and Giulia Galli
+A theoretical framework integrating quantum electrodynamics and first-principles electronic structure calculations is used to study near-field energy transfer between localized defects in solids. The results suggest breaking of selection rules in optical absorption at near field, relevant toward a novel optical memory protocol.
+
+[Phys. Rev. Research 6, 033170] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Swarnabha Chattaraj, Supratik Guha, and Giulia Galli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measurement of Energy Correlators inside Jets and Determination of the Strong Coupling ${α}_{S}({m}_{Z})$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.071903</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.071903"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Hayrapetyan et al. (CMS Collaboration)
+The measurements of the two- and three-particle energy correlators at LHC results in the most precise value of the strong coupling constant αs(mZ) obtained using jet-substructure observables.
+
+[Phys. Rev. Lett. 133, 071903] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>A. Hayrapetyan &lt;em&gt;et al.&lt;/em&gt; (CMS Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discontinuous Transition in Electrolyte Flow through Charge-Patterned Nanochannels]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.078201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.078201"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tine Curk, Sergi G. Leyva, and Ignacio Pagonabarraga
+Electrically patterning the walls of a nanochannel could provide a route to creating “valves” that abruptly alter the speed at which a charged fluid flows through a nanofluidic device.
+
+[Phys. Rev. Lett. 133, 078201] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Tine Curk, Sergi G. Leyva, and Ignacio Pagonabarraga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Numerical investigation on the heat transfer in wind turbulence over breaking waves]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.084606</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.084606"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Min Lu, Zixuan Yang, Guowei He, and Lian Shen
+Wave breaking is recognized as one of the most violent air-sea interaction processes, significantly enhancing the transfer of heat, mass, and momentum between the oceans and the atmosphere. In this study, we investigate heat transfer in wind turbulence over breaking waves using direct numerical simulation, with a particular focus on the effects of wave age. Our findings suggest that temperature responds in a more complex way to wave age than velocity does, emphasizing the need to incorporate this phenomenon into air-sea interaction and weather forecasting models.
+
+[Phys. Rev. Fluids 9, 084606] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Min Lu, Zixuan Yang, Guowei He, and Lian Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lyapunov exponents to test general relativity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.044033</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.044033"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander Deich, Nicolás Yunes, and Charles Gammie
+This paper discusses null trajectories around compact objects, using Lyapunov exponents which provide information about the separation between these trajectories followed by photons that ultimately end up on the observer’s screen, forming superimposed photon rings. The technique is initially applied to Kerr space-time and then extended to some generalizations.
+
+[Phys. Rev. D 110, 044033] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Alexander Deich, Nicolás Yunes, and Charles Gammie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environment-adaptive machine learning potentials]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.064101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.064101"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ngoc Cuong Nguyen and Dionysios Sema
+Machine learning interatomic potentials (MLIP) have shown great promise in predicting material properties when tailored for specific applications in mind. However, they face limitations when expanded to capture a diverse set of local atomic environments. Here, the authors introduce a novel method to construct environment-adaptive machine-learned (EAML) interatomic potentials by adapting to the local atomic environment of each atom. The approach shows a significant improvement in the accuracy of the EAML potential compared to the current state-of-the-art, paving the way for a new class of MLIPs.
+
+[Phys. Rev. B 110, 064101] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Ngoc Cuong Nguyen and Dionysios Sema</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helical trilayer graphene in magnetic field: Chern mosaic and higher Chern number ideal flat bands]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.075417</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.075417"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Anushree Datta, Daniele Guerci, Mark O. Goerbig, and Christophe Mora
+As compared to other prominent twisted-layered systems that feature flat bands, twisted helical trilayer graphene at magic angles displays flat bands with Chern number higher than one, and features a Chern mosaic. The authors show here intriguing topological phase transitions with increasing Chern numbers in the flat bands under a perpendicular magnetic field. The associated wavefunctions are derived, and a set of hidden wavefunctions are shown to play a crucial role in the topological transitions and increase of Chern numbers.
+
+[Phys. Rev. B 110, 075417] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Anushree Datta, Daniele Guerci, Mark O. Goerbig, and Christophe Mora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electrically tunable high-Chern-number quasiflat bands in twisted antiferromagnetic topological insulators]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.085135</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.085135"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Huaiqiang Wang, Yiliang Fan, and Haijun Zhang
+Isolated flat bands possessing high Chern numbers are highly prized in condensed matter physics. Here, the authors propose realizing high Chern number flat-band states through moiré engineering of the two coupled Dirac-cone surface states of antiferromagnetic topological insulator thin films. The emergent Dirac-cone states induced from the anisotropic intersurface couplings, respecting multifold rotational symmetries, are dubbed intertwined Dirac states. They are found to play a significant role in this process. Furthermore, topological phase transitions between trivial and nontrivial flat-band states can be tuned by an out-of-plane electric field.
+
+[Phys. Rev. B 110, 085135] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Huaiqiang Wang, Yiliang Fan, and Haijun Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resistive and ballistic phonon transport in <i>β</i>-${\mathrm{Ga}}_{2}{\mathrm{O}}_{3}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.085302</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.085302"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): R. Ahrling, R. Mitdank, A. Popp, J. Rehm, A. Akhtar, Z. Galazka, and S. F. Fischer
+Phonon-mediated heat conduction in high-purity crystals is governed by Fourier’s law for diffusive transport and by phonon-radiative transfer (PRT) between the surfaces for ballistic transport. PRT is characterized by a phonon mean free path (mfp) that is limited by the crystal size. The authors demonstrate here the crossover from diffusive to ballistic phonon transport for transparent wide-band gap ß-Ga2O3 MOCVD homoepitaxially grown layers on single crystal substrates. Such phonon-transparent interfaces may be employed to design heat flow in future cryogenic electronic devices.
+
+[Phys. Rev. B 110, 085302] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>R. Ahrling, R. Mitdank, A. Popp, J. Rehm, A. Akhtar, Z. Galazka, and S. F. Fischer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laser-induced quenching of metastability at the Mott insulator to metal transition]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L081108</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L081108"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Theodor Luibrand, Lorenzo Fratino, Farnaz Tahouni-Bonab, Amihai Kronman, Yoav Kalcheim, Ivan K. Schuller, Marcelo Rozenberg, Reinhold Kleiner, Dieter Koelle, and Stefan Guénon
+The authors investigate here the effect of focused laser beam irradiationon a V2O3 thin film at the Mott transition. Whether a metallic orinsulating phase is predominantly induced by laser scanning depends on the thermal history, i.e., whether the film is at the insulator-to-metal or the metal-to-insulator transition. This unexpected behavior challenges our current understanding, as the laser actually raises the local temperature and should drive the thin film toward the metallic state.
+
+[Phys. Rev. B 110, L081108] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Theodor Luibrand, Lorenzo Fratino, Farnaz Tahouni-Bonab, Amihai Kronman, Yoav Kalcheim, Ivan K. Schuller, Marcelo Rozenberg, Reinhold Kleiner, Dieter Koelle, and Stefan Guénon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibrational branching fractions for laser cooling of nonlinear strontium-containing molecules]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.022811</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.022811"/>
+        <updated>2024-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander Frenett, Zack Lasner, Lan Cheng, and John M. Doyle
+The authors explore candidates for a next-generation search for the electron electric dipole moment (eEDM) by experimentally measuring the vibrational loss channels in three Sr-containing nonlinear molecules. They conclude that SrNH2 is the optimal choice for a future laser-cooled molecule-based eEDM experiment.
+
+[Phys. Rev. A 110, 022811] Published Wed Aug 14, 2024]]></summary>
+        <author>
+            <name>Alexander Frenett, Zack Lasner, Lan Cheng, and John M. Doyle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spin-$S$ Kitaev-Heisenberg model on the honeycomb lattice: A high-order treatment via the many-body coupled cluster method]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033168</id>
@@ -1160,149 +1303,6 @@ The authors study here the ultrafast dynamics of photoexcited carriers in the We
 [Phys. Rev. B 110, 014311] Published Wed Jul 24, 2024]]></summary>
         <author>
             <name>Xiao Zhuo, Qinsheng Wang, Bin Cheng, Delang Liang, Haimen Mu, Lin Li, Zhengfei Wang, Anlian Pan, Changgan Zeng, and Dong Sun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inverse Spin Hall Effect Dominated Spin-Charge Conversion in (101) and (110)-Oriented ${\mathrm{RuO}}_{2}$ Films]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.046701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.046701"/>
-        <updated>2024-07-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Z. Q. Wang, Z. Q. Li, L. Sun, Z. Y. Zhang, K. He, H. Niu, J. Cheng, M. Yang, X. Yang, G. Chen, Z. Yuan, H. F. Ding, and B. F. Miao
-A method based on spin-pumping and symmetry disentangles the effects of spin Hall and spin splitting phenomena in RuO2 and other altermagnets.
-
-[Phys. Rev. Lett. 133, 046701] Published Tue Jul 23, 2024]]></summary>
-        <author>
-            <name>Z. Q. Wang, Z. Q. Li, L. Sun, Z. Y. Zhang, K. He, H. Niu, J. Cheng, M. Yang, X. Yang, G. Chen, Z. Yuan, H. F. Ding, and B. F. Miao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collective Charge Excitations between Moiré Minibands in Twisted ${\mathrm{WSe}}_{2}$ Bilayers Probed with Resonant Inelastic Light Scattering]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.046902</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.046902"/>
-        <updated>2024-07-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nihit Saigal, Lennart Klebl, Hendrik Lambers, Sina Bahmanyar, Veljko Antić, Dante M. Kennes, Tim O. Wehling, and Ursula Wurstbauer
-Collective electronic excitations between moiré-bands in twisted WSe2 bilayers may be probed by resonant inelastic light scattering, a sensitive way to access the moiré-bands and to study their unique properties.
-
-[Phys. Rev. Lett. 133, 046902] Published Tue Jul 23, 2024]]></summary>
-        <author>
-            <name>Nihit Saigal, Lennart Klebl, Hendrik Lambers, Sina Bahmanyar, Veljko Antić, Dante M. Kennes, Tim O. Wehling, and Ursula Wurstbauer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutual Linearity of Nonequilibrium Network Currents]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.047401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.047401"/>
-        <updated>2024-07-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pedro E. Harunari, Sara Dal Cengio, Vivien Lecomte, and Matteo Polettini
-Any two stationary network currents are linearly related upon perturbations of the transition rate of a single graph’s edge, arbitrarily far from equilibrium.
-
-[Phys. Rev. Lett. 133, 047401] Published Tue Jul 23, 2024]]></summary>
-        <author>
-            <name>Pedro E. Harunari, Sara Dal Cengio, Vivien Lecomte, and Matteo Polettini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detailed dynamics of a moving magnetic skyrmion lattice in MnSi observed using small-angle neutron scattering under an alternating electric current flow]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.014431</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.014431"/>
-        <updated>2024-07-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. Okuyama, M. Bleuel, Q. Ye, J. Krzywon, N. Nagaosa, A. Kikkawa, Y. Taguchi, Y. Tokura, J. D. Reim, Y. Nambu, and T. J. Sato
-Moving states of magnetic skyrmions under an alternating current (ac) in MnSi are studied here by small-angle neutron scattering (SANS). A drastic difference is found in the SANS patterns measured with the ac frequency below and above the threshold value, indicating that the viscous motion of skyrmion-lattice domains at low frequencies changes to oscillations of individual skyrmions. These oscillations decrease dislocations of the skyrmion lattice by a random organization effect and, with that, the dislocation density of the skyrmion lattice can be controlled by the ac frequency.
-
-[Phys. Rev. B 110, 014431] Published Tue Jul 23, 2024]]></summary>
-        <author>
-            <name>D. Okuyama, M. Bleuel, Q. Ye, J. Krzywon, N. Nagaosa, A. Kikkawa, Y. Taguchi, Y. Tokura, J. D. Reim, Y. Nambu, and T. J. Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antiferromagnetic superlattices: Anisotropic band and spin-valley valve in buckled two-dimensional materials]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.035426</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.035426"/>
-        <updated>2024-07-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wei-Tao Lu, Tie-Feng Fang, and Qing-Feng Sun
-Due to it’s chiral nature, graphene with periodic potentials shows transport anisotropy and renormalized velocity perpendicular to the periodic direction. Here, the authors demonstrate that, in antiferromagnetic superlattices, the spin-orbit coupling gives rise to an anomalous anisotropic behavior with velocity renormalization parallel to the periodic direction. The strength and direction of anisotropy can be regulated by adjusting both gate voltage and spin-orbit coupling. These findings have significant implications for engineering anisotropic materials and spin-valley valve.
-
-[Phys. Rev. B 110, 035426] Published Tue Jul 23, 2024]]></summary>
-        <author>
-            <name>Wei-Tao Lu, Tie-Feng Fang, and Qing-Feng Sun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement-driven Langevin modeling of superparamagnetic tunnel junctions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.014057</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.014057"/>
-        <updated>2024-07-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Liam A. Pocher, Temitayo N. Adeyeye, Sidra Gibeault, Philippe Talatchian, Ursula Ebels, Daniel P. Lathrop, Jabez J. McClelland, Mark D. Stiles, Advait Madhavan, and Matthew W. Daniels
-Superparamagnetic tunnel junctions (SMTJs) are fundamental elements of many proposed probabilistic computers, but models often fail to capture important statistical features of experimental devices. In particular, the most probable states of real devices are often not the fully magnetized states. The authors develop an efficient, measurement-driven model that agrees with measurements that were not used in the modeling process, including the power-law behavior of dwell-time distributions at subnanosecond timescales. These results open avenues to tackle challenges in modeling high-speed SMTJ circuitry.
-
-[Phys. Rev. Applied 22, 014057] Published Tue Jul 23, 2024]]></summary>
-        <author>
-            <name>Liam A. Pocher, Temitayo N. Adeyeye, Sidra Gibeault, Philippe Talatchian, Ursula Ebels, Daniel P. Lathrop, Jabez J. McClelland, Mark D. Stiles, Advait Madhavan, and Matthew W. Daniels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First experimental evidence of a beam-beam long-range compensation using wires in the Large Hadron Collider]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.071003</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.071003"/>
-        <updated>2024-07-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Poyet, A. Bertarelli, F. Carra, S. D. Fartoukh, N. Fuster-Martínez, N. Karastathis, Y. Papaphilippou, M. Pojer, S. Redaelli, A. Rossi, K. Skoufaris, M. Solfaroli Camillocci, and G. Sterbini
-Current-carrying wires in the Large Hadron Collider mimic long-rang beam-beam interactions to reduce the effect of real long-range beam-beam interactions.
-
-[Phys. Rev. Accel. Beams 27, 071003] Published Tue Jul 23, 2024]]></summary>
-        <author>
-            <name>A. Poyet, A. Bertarelli, F. Carra, S. D. Fartoukh, N. Fuster-Martínez, N. Karastathis, Y. Papaphilippou, M. Pojer, S. Redaelli, A. Rossi, K. Skoufaris, M. Solfaroli Camillocci, and G. Sterbini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Regime of Inertial Alfvén Wave Turbulence in the Auroral Ionosphere]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.045201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.045201"/>
-        <updated>2024-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Francesca Di Mare and Gregory G. Howes
-Data analysis from the TRICE-2 sounding rocket in the auroral ionosphere revealed a regime of inertial Alfvén wave turbulence with properties distinct from heliospheric and solar wind plasma turbulence that allows the identification of features related to ionospheric plasma and turbulence cascade which are difficult to access in the laboratory.
-
-[Phys. Rev. Lett. 133, 045201] Published Mon Jul 22, 2024]]></summary>
-        <author>
-            <name>Francesca Di Mare and Gregory G. Howes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quasimolecular ${J}_{\mathrm{tet}}=3/2$ Moments in the Cluster Mott Insulator ${\mathrm{GaTa}}_{4}{\mathrm{Se}}_{8}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.046501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.046501"/>
-        <updated>2024-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Magnaterra, J. Attig, L. Peterlini, M. Hermanns, M. H. Upton, Jungho Kim, L. Prodan, V. Tsurkan, I. Kézsmárki, P. H. M. van Loosdrecht, and M. Grüninger
-The cluster Mott character of the lacunar spinel GaTa4Se8 has been determined using resonant inelastic x-ray scattering.
-
-[Phys. Rev. Lett. 133, 046501] Published Mon Jul 22, 2024]]></summary>
-        <author>
-            <name>M. Magnaterra, J. Attig, L. Peterlini, M. Hermanns, M. H. Upton, Jungho Kim, L. Prodan, V. Tsurkan, I. Kézsmárki, P. H. M. van Loosdrecht, and M. Grüninger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magneto-optical Particles in Isotropic Spinning Fields Mimic Magnetic Monopoles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.046901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.046901"/>
-        <updated>2024-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Manuel I. Marqués, Shulamit Edelstein, Pedro A. Serena, Beatriz Castillo López de Larrinzar, and Antonio Garcia-Martín
-Quasiparticles propelled by an isotropic radiation spinning field combined with an external static magnetic field are shown to behave like magnetic monopoles.
-
-[Phys. Rev. Lett. 133, 046901] Published Mon Jul 22, 2024]]></summary>
-        <author>
-            <name>Manuel I. Marqués, Shulamit Edelstein, Pedro A. Serena, Beatriz Castillo López de Larrinzar, and Antonio Garcia-Martín</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrared-safe energy weighting does not guarantee small nonperturbative effects]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.014029</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.014029"/>
-        <updated>2024-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Samuel Bright-Thonney, Benjamin Nachman, and Jesse Thaler
-“Infrared and Collinear Safety” is used as a guiding principle in jet physics to ensure consistent jet definitions that are insensitive to non-perturbative modeling, including in machine-learning applications. However, as demonstrated by the authors, IRC safety does not guarantee small non-perturbative corrections. They develop an Energy Flow Network (EFN) to maximally demonstrate the problem, and then introduce Lipschitz-EFNs to show how it may be mitigated.
-
-[Phys. Rev. D 110, 014029] Published Mon Jul 22, 2024]]></summary>
-        <author>
-            <name>Samuel Bright-Thonney, Benjamin Nachman, and Jesse Thaler</name>
         </author>
     </entry>
 </feed>
