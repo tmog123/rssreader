@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-19T00:55:07.517Z</id>
+    <id>urn:2024-08-20T00:54:06.043Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T00:55:07.517Z</updated>
+    <updated>2024-08-20T00:54:06.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum and classical spin dynamics across temperature scales in the $S=1/2$ Heisenberg antiferromagnet]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033184</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.033184"/>
+        <updated>2024-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pyeongjae Park, G. Sala, Daniel M. Pajerowski, Andrew F. May, James A. Kolopus, D. Dahlbom, Matthew B. Stone, Gábor B. Halász, and Andrew D. Christianson
+A new approach utilizing thermal fluctuations to investigate the spin dynamics of quantum magnets is introduced. It successfully identifies the spin Hamiltonian of a quantum antiferromagnet and elucidates the temperature-induced dissipation of quantum spin dynamics, which are challenging to assess using conventional spin-wave theories.
+
+[Phys. Rev. Research 6, 033184] Published Mon Aug 19, 2024]]></summary>
+        <author>
+            <name>Pyeongjae Park, G. Sala, Daniel M. Pajerowski, Andrew F. May, James A. Kolopus, D. Dahlbom, Matthew B. Stone, Gábor B. Halász, and Andrew D. Christianson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taming Mass Gaps with Anti–de Sitter Space]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.081601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.081601"/>
+        <updated>2024-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Christian Copetti, Lorenzo Di Pietro, Ziming Ji, and Shota Komatsu
+The transition from massless to mass-gapped phase in certain quantum field theories in AdS2 is shown to be triggered by a singlet operator that becomes marginal.
+
+[Phys. Rev. Lett. 133, 081601] Published Mon Aug 19, 2024]]></summary>
+        <author>
+            <name>Christian Copetti, Lorenzo Di Pietro, Ziming Ji, and Shota Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Droplets in Two-Dimensional Bose Mixtures at Finite Temperature]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.083401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.083401"/>
+        <updated>2024-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): G. Spada, S. Pilati, and S. Giorgini
+Quantum Monte Carlo simulations of Bose mixtures in 2D at finite temperature reveal the coexistence of liquid droplets and gas phases.
+
+[Phys. Rev. Lett. 133, 083401] Published Mon Aug 19, 2024]]></summary>
+        <author>
+            <name>G. Spada, S. Pilati, and S. Giorgini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near-field radiative heat transfer between a nanoparticle and a graphene grating]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.075423</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.075423"/>
+        <updated>2024-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Minggang Luo, Youssef Jeyar, Brahim Guizal, and Mauro Antezza
+The authors explore here the near-field radiative heat transfer between a planar fused silica slab coated with a strip graphene grating and a laterally and/or normally shifted fused silica nanoparticle. For this study, the authors utilize a scattering matrix approach derived from the Fourier modal method ﻿augmented with local basis functions. The study identifies a general rule of thumb that delineates two distinct asymptotic regimes: the inhibition regime, in which a lateral shift of the nanoparticle reduces the heat transfer; neutral regime, where the lateral shift’s effect on heat transfer becomes negligible. A critical point for understanding the effect of lateral shift on radiative heat transfer is found at the ratio of normal shift to grating period d/D≈0.85.
+
+[Phys. Rev. B 110, 075423] Published Mon Aug 19, 2024]]></summary>
+        <author>
+            <name>Minggang Luo, Youssef Jeyar, Brahim Guizal, and Mauro Antezza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optical mode enabled manipulation of topological phase in waveguide-based scattering networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.075424</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.075424"/>
+        <updated>2024-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Changyu Zhou, Zhenwei Xie, Ting Lei, Yao Zhang, Qinmiao Chen, and Xiaocong Yuan
+Topologies in scattering networks are governed by certain parameters that allow manipulation of their topological phases. The authors propose here a scheme to control topological phases using the waveguide mode as a controlling means. They experimentally validate this with a ring optical-waveguide device, demonstrating that changing the mode switches the robust interface state’s direction, proving that the network’s topological phase can be controlled by specific waveguide modes.
+
+[Phys. Rev. B 110, 075424] Published Mon Aug 19, 2024]]></summary>
+        <author>
+            <name>Changyu Zhou, Zhenwei Xie, Ting Lei, Yao Zhang, Qinmiao Chen, and Xiaocong Yuan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Controllable suppression of the unconventional superconductivity in bulk and thin-film ${\mathrm{Sr}}_{2}{\mathrm{RuO}}_{4}$ via high-energy electron irradiation]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.033178</id>
@@ -1238,71 +1303,6 @@ Experiments at the Joint European Torus make the case for using gamma rays to de
 [Phys. Rev. C 110, 014625] Published Tue Jul 30, 2024]]></summary>
         <author>
             <name>Marica Rebai, Davide Rigamonti, Andrea Dal Molin, Giulia Marcer, Angela Bracco, Franco Camera, Daniela Farina, Giuseppe Gorini, Evgeniy Khilkevitch, Massimo Nocente, Enrico Perelli Cippo, Oscar Putignano, Jimmy Scionti, Alexander Shevelev, Andrej Zohar, and Marco Tardocchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modeling phonon-mediated quasiparticle poisoning in superconducting qubit arrays]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.024519</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.024519"/>
-        <updated>2024-07-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): E. Yelton, C. P. Larson, V. Iaia, K. Dodge, G. La Magna, P. G. Baity, I. V. Pechenezhskiy, R. McDermott, N. A. Kurinsky, G. Catelani, and B. L. T. Plourde
-Background radiation can deposit large amounts of energy in the substrate of superconducting qubit arrays. Such events create bursts of energetic phonons that cause transient degradations of coherence, leading to errors. Correlated errors across multiple qubits are problematic for quantum error correction. The authors develop here a numerical model to describe the results of controlled phonon injection experiments. A dense array of qubits is modeled to explore the effectiveness of down-converting metal films for mitigating the effects of gamma ray impacts.
-
-[Phys. Rev. B 110, 024519] Published Tue Jul 30, 2024]]></summary>
-        <author>
-            <name>E. Yelton, C. P. Larson, V. Iaia, K. Dodge, G. La Magna, P. G. Baity, I. V. Pechenezhskiy, R. McDermott, N. A. Kurinsky, G. Catelani, and B. L. T. Plourde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote sensing of a levitated superconductor with a flux-tunable microwave cavity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.014078</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.014078"/>
-        <updated>2024-07-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Philip Schmidt, Remi Claessen, Gerard Higgins, Joachim Hofer, Jannek J. Hansen, Peter Asenbaum, Martin Zemlicka, Kevin Uhl, Reinhold Kleiner, Rudolf Gross, Hans Huebl, Michael Trupke, and Markus Aspelmeyer
-The authors implement a scheme for sensing magnetic fields using a remotely located dc SQUID embedded in a microwave resonator. This configuration provides a path toward quantum-limited detection of microwave photons. The detector is used to resolve precisely the motion of a magnetically levitated superconducting microsphere. In addition to advancing magnetic field sensing at ultralow temperatures, this innovative platform has the potential to generate and measure nonclassical mechanical states of microgram-scale masses.
-
-[Phys. Rev. Applied 22, 014078] Published Tue Jul 30, 2024]]></summary>
-        <author>
-            <name>Philip Schmidt, Remi Claessen, Gerard Higgins, Joachim Hofer, Jannek J. Hansen, Peter Asenbaum, Martin Zemlicka, Kevin Uhl, Reinhold Kleiner, Rudolf Gross, Hans Huebl, Michael Trupke, and Markus Aspelmeyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin noise spectroscopy of an alignment-based atomic magnetometer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.013125</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.013125"/>
-        <updated>2024-07-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Koźbiał, L. Elson, L. M. Rushton, A. Akbar, A. Meraki, K. Jensen, and J. Kołodyński
-The authors propose a stochastic theoretical model that explains the dynamics of an alignment-based atomic magnetometer and verify the model in a series of experiments with good agreement. The results could potentially enable alignment-based magnetometers in real-time sensing tasks.
-
-[Phys. Rev. A 110, 013125] Published Tue Jul 30, 2024]]></summary>
-        <author>
-            <name>M. Koźbiał, L. Elson, L. M. Rushton, A. Akbar, A. Meraki, K. Jensen, and J. Kołodyński</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokamak Plasmas with Density up to 10 Times the Greenwald Limit]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.055101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.055101"/>
-        <updated>2024-07-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): N. C. Hurst, B. E. Chapman, J. S. Sarff, A. F. Almagri, K. J. McCollam, D. J. Den Hartog, J. B. Flahavan, and C. B. Forest
-Tokamak experiments in the Madison Symmetric Torus have produced plasma with an unprecedented density of up to ten times the Greenwald density limit, promising more stable fusion operating scenarios.
-
-[Phys. Rev. Lett. 133, 055101] Published Mon Jul 29, 2024]]></summary>
-        <author>
-            <name>N. C. Hurst, B. E. Chapman, J. S. Sarff, A. F. Almagri, K. J. McCollam, D. J. Den Hartog, J. B. Flahavan, and C. B. Forest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Persistence of Spin Coherence in a Crystalline Environment]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.056901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.056901"/>
-        <updated>2024-07-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gerald Curran, III, Zachary Rex, Casper Xallan Wilson, Luke J. Weaver, and Ivan Biaggio
-A combined theoretical and experimental work in single-crystal rubrene provides a model of spin coherence that accounts for transport-induced dephasing and derives the triplet-exciton hopping rate between inequivalent sites.
-
-[Phys. Rev. Lett. 133, 056901] Published Mon Jul 29, 2024]]></summary>
-        <author>
-            <name>Gerald Curran, III, Zachary Rex, Casper Xallan Wilson, Luke J. Weaver, and Ivan Biaggio</name>
         </author>
     </entry>
 </feed>
