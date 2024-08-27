@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.083905",
+          "author": "J. Mak, N. Harnik, E. Heifetz, G. Kumar, and E. Q. Y. Ong",
+          "description": "Author(s): J. Mak, N. Harnik, E. Heifetz, G. Kumar, and E. Q. Y. Ong\nBaroclinic instability plays an important role in rotating stratified fluid systems, such as Earth’s atmosphere and ocean, and can be modeled as a pair of constructively interfering edge-waves. We provide a self-consistent explanation of how the edge-wave interaction mechanism is modified in the presence of slopes, extending existing simple but incomplete explanations. We also put forth speculations on using linear instability theory to inform eddy parameterizations, and highlight parity-time symmetry in the governing equations, finding links between shear instabilities, interacting edge-waves, eddy-mean interactions, and concepts from quantum field theory.\n\n[Phys. Rev. Fluids 9, 083905] Published Mon Aug 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.083905",
+          "publishedOn": "2024-08-26T10:00:00.000Z",
+          "wordCount": 1973,
+          "title": "Edge-wave phase shifts versus normal-mode phase tilts in an Eady problem with a sloping boundary",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.083905.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.054112",
+          "author": "Olga Koritsoglou, Guillaume Duchateau, Olivier Utéza, and Alexandros Mouskeftaras",
+          "description": "Author(s): Olga Koritsoglou, Guillaume Duchateau, Olivier Utéza, and Alexandros Mouskeftaras\nPhysical processes induced by ultrashort laser pulse interaction with transparent solids evolve across multiple spatial and temporal scales, including photoionization, energy deposition, subsequent relaxation and macroscopic material modification. Through a coupled experimental-simulation investigation, the authors provide here quantitative data on the creation of overcritical plasma density, GPa-level shockwaves, and temperatures in excess of 10000 K within the silica target. These results describe an unprecedented range of physical mechanisms and address long-standing unanswered questions.\n\n[Phys. Rev. B 110, 054112] Published Mon Aug 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.054112",
+          "publishedOn": "2024-08-26T10:00:00.000Z",
+          "wordCount": 1166,
+          "title": "Quantitative assessment of femtosecond laser-induced stress waves in fused silica",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.054112.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.064432",
+          "author": "Florent Pawula, Ali Fakih, Ramzy Daou, Sylvie Hébert, Natalia Mordvinova, Oleg Lebedev, Denis Pelloquin, and Antoine Maignan",
+          "description": "Author(s): Florent Pawula, Ali Fakih, Ramzy Daou, Sylvie Hébert, Natalia Mordvinova, Oleg Lebedev, Denis Pelloquin, and Antoine Maignan\nWhile ruthenium dioxide has been cited as the canonical realization of the altermagnetic state, many recent experimental probes are at odds. Here, the authors demonstrate that transport in single crystals shows no sign of a transition to an altermagnetic state over an extended temperature range up to 1000 K and that the magnetotransport in single crystals is dominated by multiband effects.\n\n[Phys. Rev. B 110, 064432] Published Mon Aug 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.064432",
+          "publishedOn": "2024-08-26T10:00:00.000Z",
+          "wordCount": 983,
+          "title": "Multiband transport in ${\\mathrm{RuO}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.064432.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.064514",
+          "author": "Fabian Jerzembeck, You-Sheng Li, Grgur Palle, Zhenhai Hu, Mehdi Biderang, Naoki Kikugawa, Dmitry A. Sokolov, Sayak Ghosh, Brad J. Ramshaw, Thomas Scaffidi, Michael Nicklas, Jörg Schmalian, Andrew P. Mackenzie, and Clifford W. Hicks",
+          "description": "Author(s): Fabian Jerzembeck, You-Sheng Li, Grgur Palle, Zhenhai Hu, Mehdi Biderang, Naoki Kikugawa, Dmitry A. Sokolov, Sayak Ghosh, Brad J. Ramshaw, Thomas Scaffidi, Michael Nicklas, Jörg Schmalian, Andrew P. Mackenzie, and Clifford W. Hicks\nThe superconducting order parameter of Sr2RuO4 is still strongly debated. A key issue is whether it is single- or multi-component. In this study, the authors apply uniaxial pressure to Sr2RuO4 to search for two characteristics of multicomponent superconductivity. Neither of the two signatures were found, and the authors show how tightly these null results constrain attempts to construct a two-component Ginzburg-Landau theory for the order parameter of this famous unconventional superconductor.\n\n[Phys. Rev. B 110, 064514] Published Mon Aug 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.064514",
+          "publishedOn": "2024-08-26T10:00:00.000Z",
+          "wordCount": 1688,
+          "title": "${T}_{c}$ and the elastocaloric effect of ${\\mathrm{Sr}}_{2}{\\mathrm{RuO}}_{4}$ under $〈110〉$ uniaxial stress: No indications of transition splitting",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.064514.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.064517",
+          "author": "Raffael L. Klees, Daniel Gresta, Jonathan Sturm, Laurens W. Molenkamp, and Ewelina M. Hankiewicz",
+          "description": "Author(s): Raffael L. Klees, Daniel Gresta, Jonathan Sturm, Laurens W. Molenkamp, and Ewelina M. Hankiewicz\nThe clear identification of Majorana modes remains one of the most challenging unresolved issues in condensed matter physics. The authors explore the thermoelectric properties transverse to quantum-dot-based Josephson junctions in a novel four-terminal configuration. The superconducting phase dependence introduces a distinctive control mechanism that significantly aids in detecting signatures of Majorana states. This is evidenced by their impact on transverse electrical and thermal conductances, the Seebeck coefficient, and the observed violation of the Wiedemann-Franz law.\n\n[Phys. Rev. B 110, 064517] Published Mon Aug 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.064517",
+          "publishedOn": "2024-08-26T10:00:00.000Z",
+          "wordCount": 1161,
+          "title": "Majorana-mediated thermoelectric transport in multiterminal junctions",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.064517.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.L081113",
+          "author": "Hannah Lange, Lukas Homeier, Eugene Demler, Ulrich Schollwöck, Annabelle Bohrdt, and Fabian Grusdt",
+          "description": "Author(s): Hannah Lange, Lukas Homeier, Eugene Demler, Ulrich Schollwöck, Annabelle Bohrdt, and Fabian Grusdt\nUnderstanding unconventional superconductivity involves unraveling the pairing mechanism of charge carriers in doped antiferromagnets, where Cooper pairs form despite repulsive interactions. This paper examines a model relevant to bilayer nickelate superconductors, revealing a transition from tightly bound to spatially extended pairs as repulsion increases. At strong repulsion, a microscopic pairing mechanism is identified that leads to robust pairing with a peak in binding energies at around 30% doping, which can be tested using quantum simulators.\n\n[Phys. Rev. B 110, L081113] Published Mon Aug 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L081113",
+          "publishedOn": "2024-08-26T10:00:00.000Z",
+          "wordCount": 1101,
+          "title": "Pairing dome from an emergent Feshbach resonance in a strongly repulsive bilayer model",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.L081113.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.082501",
           "author": "J. Kahlbow <em>et al.</em> (SAMURAI21-NeuLAND Collaboration)",
           "description": "Author(s): J. Kahlbow et al. (SAMURAI21-NeuLAND Collaboration)\nThe first identification of the unbound nucleus 30F observed at the Samurai spectrometer in RIKEN has consequences for the superfluidity of 28O and the two-neutron halo nature of 29,31F.\n\n[Phys. Rev. Lett. 133, 082501] Published Fri Aug 23, 2024",
@@ -944,66 +1004,6 @@
           "wordCount": 1541,
           "title": "Fractional Chern insulator states in multilayer graphene moiré superlattices",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.075109.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.085113",
-          "author": "Cheng Ma, Min Chen, Yu Xie, Qiang Xu, Wenhui Mi, Yanchao Wang, and Yanming Ma",
-          "description": "Author(s): Cheng Ma, Min Chen, Yu Xie, Qiang Xu, Wenhui Mi, Yanchao Wang, and Yanming Ma\nDue to the favorable linear scaling with system size, irrespective of temperatures, finite-temperature orbital-free density functional theory (FT-OFDFT) holds considerable promise for investigating the properties of warm dense matter. However, the quality of FT-OFDFT strongly depends on a noninteracting free-energy-density functional. The authors derived a nonlocal free-energy functional named XWMF using line integrals. XWMF exhibits high numerical accuracy and stability, enabling FT-OFDFT for realistic simulations of the warm dense matter across a broad range of temperatures and pressures.\n\n[Phys. Rev. B 110, 085113] Published Tue Aug 06, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.085113",
-          "publishedOn": "2024-08-06T10:00:00.000Z",
-          "wordCount": 962,
-          "title": "Nonlocal free-energy density functional for a broad range of warm dense matter simulations",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.085113.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.085114",
-          "author": "Chuan-Zhe Yao and Wei-Min Zhang",
-          "description": "Author(s): Chuan-Zhe Yao and Wei-Min Zhang\nThe strong system-reservoir coupling prevents the thermal equilibrium state of systems from being expressed as a Gibbs state with bare system Hamiltonian. Correspondingly, many thermodynamic quantities must be redefined. In particular, for the heat capacity of strongly coupled quantum Brownian motion, there has been controversy regarding inconsistencies in different definitions and the anomalous negative heat capacity. Here, the authors rigorously solve the reduced density matrix of quantum Brownian motion and obtain the renormalized Hamiltonian and reduced partition function. This resolves the controversy about the heat capacity under strong coupling.\n\n[Phys. Rev. B 110, 085114] Published Tue Aug 06, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.085114",
-          "publishedOn": "2024-08-06T10:00:00.000Z",
-          "wordCount": 1241,
-          "title": "Strong-coupling quantum thermodynamics of quantum Brownian motion based on the exact solution of its reduced density matrix",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.085114.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024013",
-          "author": "Edward Butler-Caddle, K.D.G. Imalka Jayawardena, Anjana Wijesekara, Rebecca L. Milot, and James Lloyd-Hughes",
-          "description": "Author(s): Edward Butler-Caddle, K.D.G. Imalka Jayawardena, Anjana Wijesekara, Rebecca L. Milot, and James Lloyd-Hughes\nPerovskite solar cell performance is affected by the rate of charge-carrier transfer into the charge transport layers (CTLs) and interfacial recombination, but these are difficult to distinguish. This study distinguishes them using ultrafast spectroscopy combined with a charge-carrier dynamics model that includes the Coulombic forces arising from the selective extraction of charge carriers. The authors obtain extraction and interface recombination rate constants for three common CTLs and determine the perovskite’s ambipolar diffusivity. These results identify the performance-limiting properties, and could inform the design of superior materials that can be characterized with this method.\n\n[Phys. Rev. Applied 22, 024013] Published Tue Aug 06, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024013",
-          "publishedOn": "2024-08-06T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Distinguishing carrier transport and interfacial recombination at perovskite/transport-layer interfaces using ultrafast spectroscopy and numerical simulation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.22.024013.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.063401",
-          "author": "Alexander Impertro, Simon Karch, Julian F. Wienand, SeungJung Huh, Christian Schweizer, Immanuel Bloch, and Monika Aidelsburger",
-          "description": "Author(s): Alexander Impertro, Simon Karch, Julian F. Wienand, SeungJung Huh, Christian Schweizer, Immanuel Bloch, and Monika Aidelsburger\nA new manipulation technique could enable the realization of more versatile quantum simulators.\n\n[Phys. Rev. Lett. 133, 063401] Published Mon Aug 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.063401",
-          "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 1701,
-          "title": "Local Readout and Control of Current and Kinetic Energy Operators in Optical Lattices",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.063401.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.066501",
-          "author": "S. Agrestini, F. Borgatti, P. Florio, J. Frassineti, D. Fiore Mosca, Q. Faure, B. Detlefs, C. J. Sahle, S. Francoual, J. Choi, M. Garcia-Fernandez, K.-J. Zhou, V. F. Mitrović, P. M. Woodward, G. Ghiringhelli, C. Franchini, F. Boscherini, S. Sanna, and M. Moretti Sala",
-          "description": "Author(s): S. Agrestini, F. Borgatti, P. Florio, J. Frassineti, D. Fiore Mosca, Q. Faure, B. Detlefs, C. J. Sahle, S. Francoual, J. Choi, M. Garcia-Fernandez, K.-J. Zhou, V. F. Mitrović, P. M. Woodward, G. Ghiringhelli, C. Franchini, F. Boscherini, S. Sanna, and M. Moretti Sala\nX-ray spectroscopy shows a finite magnetic moment in the double-perovskite compound Ba2NaOsO6 despite its nominally nonmagnetic 5d1 configuration.\n\n[Phys. Rev. Lett. 133, 066501] Published Mon Aug 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.066501",
-          "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 1193,
-          "title": "Origin of Magnetism in a Supposedly Nonmagnetic Osmium Oxide",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.066501.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.110.024107",
-          "author": "Soheli Mukherjee, Pierre Le Doussal, and Naftali R. Smith",
-          "description": "Author(s): Soheli Mukherjee, Pierre Le Doussal, and Naftali R. Smith\nRun and tumble particles show an alternating sequence of propulsion and reorientation. Here, large deviations are found in the fluctuations of local and occupation times of run and tumble particles in one dimension.\n\n[Phys. Rev. E 110, 024107] Published Mon Aug 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.110.024107",
-          "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 1232,
-          "title": "Large deviations in statistics of the local time and occupation time for a run and tumble particle",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.110.024107.png"
         }
       ]
     }
