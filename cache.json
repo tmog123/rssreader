@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.096601",
+          "author": "F. Balduini, L. Rocchino, A. Molinari, T. Paul, G. Mariani, V. Hasse, C. Felser, C. Zota, H. Schmid, and B. Gotsmann",
+          "description": "Author(s): F. Balduini, L. Rocchino, A. Molinari, T. Paul, G. Mariani, V. Hasse, C. Felser, C. Zota, H. Schmid, and B. Gotsmann\nCombining quantum oscillations and transverse-electron focusing experiments enables the measurement of the Weyl Fermi surface and separation between Weyl points in NbP.\n\n[Phys. Rev. Lett. 133, 096601] Published Wed Aug 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.096601",
+          "publishedOn": "2024-08-28T10:00:00.000Z",
+          "wordCount": 1366,
+          "title": "Probing the Shape of the Weyl Fermi Surface of NbP Using Transverse Electron Focusing",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.096601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.084006",
+          "author": "Akhil Varma",
+          "description": "Author(s): Akhil Varma\nBeyond a threshold speed, the receding contact line of a partially wetting liquid on a solid substrate becomes unstable, forming a corner. At these speeds, one expects the inertial effects near the contact line to be significant for many liquids commonly used in industrial processes. To account for it, we provide the self-similar leading-order inertial correction to the well-known Stokes solution for the interface shape and flow field near the moving contact line. Furthermore, inspired by recent experiments, we make quantitative predictions for water and liquid mercury and argue that it is essential to consider inertial contributions when modeling fast-moving contact lines.\n\n[Phys. Rev. Fluids 9, 084006] Published Wed Aug 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.084006",
+          "publishedOn": "2024-08-28T10:00:00.000Z",
+          "wordCount": 1447,
+          "title": "Weak-inertial effects on destabilized receding contact lines",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.084006.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.075306",
+          "author": "Zezhu Wei, D. E. Feldman, and Bertrand I. Halperin",
+          "description": "Author(s): Zezhu Wei, D. E. Feldman, and Bertrand I. Halperin\nElectronic interferometry has emerged as a powerful tool to extract information about 2D electron liquids, including fractional statistics of anyons in the quantum Hall effect. The existing theory mostly addresses the conceptually simplest case of a single edge mode, but recent experiments have focused on multichannel edges. Motivated by recent experiments, the authors consider here a quantum Hall interferometer model containing two edge modes and study theoretically the current-voltage curves for various values of the relative edge velocities, interaction strength, and the temperature. When the inner mode is completely reflected and the outer mode is partially transmitted, the authors find striking features related to resonance of excitations of the closed inner channel. Fluctuations in the charge of the closed inner mode, caused by sparse tunneling events, lead to an exponential suppression of the interference visibility at high voltages, in agreement with experiments.\n\n[Phys. Rev. B 110, 075306] Published Wed Aug 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.075306",
+          "publishedOn": "2024-08-28T10:00:00.000Z",
+          "wordCount": 1490,
+          "title": "Quantum Hall interferometry at finite bias with multiple edge channels",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.075306.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.085155",
+          "author": "Till Domröse and Claus Ropers",
+          "description": "Author(s): Till Domröse and Claus Ropers\nOptical excitations of quantum materials promise novel technological functionality. Here, the authors report on laser-induced structural dynamics in 1T’-TaTe2, finding a femtosecond structural transformation between two charge-density-wave phases. Groundbreaking methodological advancements in ultrafast electron diffraction allow to uncover the transition mechanism with high resolution and sensitivity, enabled by a high-coherence electron source and the formation of nanometer-sized pulsed electron illumination. In particular, the transition is induced and subsequently probed at an unprecedented repetition rate of 2 MHz.\n\n[Phys. Rev. B 110, 085155] Published Wed Aug 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.085155",
+          "publishedOn": "2024-08-28T10:00:00.000Z",
+          "wordCount": 2349,
+          "title": "Femtosecond trimer quench in the unconventional charge-density-wave material $1{T}^{′}\\text{−}{\\mathrm{TaTe}}_{2}$",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.085155.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.110.023115",
+          "author": "Evgeny S. Andrianov and Oleg I. Tolstikhin",
+          "description": "Author(s): Evgeny S. Andrianov and Oleg I. Tolstikhin\nThe authors study the effects of the interaction of a strong laser field with free electrons produced by strong-field ionization on the quantum state of the field. They show that under experimentally realistic conditions the interaction can strongly affect the quantum state of the field by squeezing and displacing the coherent state of the free field, which can result in the formation of nonclassical and non-Gaussian field states.\n\n[Phys. Rev. A 110, 023115] Published Wed Aug 28, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.110.023115",
+          "publishedOn": "2024-08-28T10:00:00.000Z",
+          "wordCount": 875,
+          "title": "Formation of nonclassical and non-Gaussian states of a strong electromagnetic field due to its interaction with free electrons produced by ionization of a target gas",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.110.023115.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.084203",
           "author": "Tiema Qian, Chaowei Hu, J. Green, Erxi Feng, Huibo Cao, and Ni Ni",
           "description": "Author(s): Tiema Qian, Chaowei Hu, J. Green, Erxi Feng, Huibo Cao, and Ni Ni\nTo explore new magnetic topological insulators, the authors grew high quality single crystals of (Ge1−δ−xMnx)2Bi2Te5 (GeMn225) (x ≤ 0.47, 0.11 ≤ δ ≤ 0.20) by flux and chemical vapor transport methods. Elemental analysis and diffraction data reveal Ge/Bi site mixing and Ge vacancies, with Mn atoms occupying the inner two layers. The x=0.47 sample exhibits bilayer A-type antiferromagnetism with the easy axis along the c-axis below 10.8 K. Compared to MnBi2Te4, it shows enhanced effective interlayer AFM exchange and much reduced uniaxial anisotropy. This study highlights the potential of these materials for investigating emergent phenomena, including the layer Hall and quantum metric nonlinear Hall effects.\n\n[Phys. Rev. Materials 8, 084203] Published Tue Aug 27, 2024",
@@ -954,56 +1004,6 @@
           "wordCount": 1193,
           "title": "Tunable topological magnetism in superlattices of nonmagnetic B20 systems",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.L060407.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024020",
-          "author": "Matteo Castellani, Owen Medeiros, Reed A. Foster, Alessandro Buzzi, Marco Colangelo, Joshua C. Bienfang, Alessandro Restelli, and Karl K. Berggren",
-          "description": "Author(s): Matteo Castellani, Owen Medeiros, Reed A. Foster, Alessandro Buzzi, Marco Colangelo, Joshua C. Bienfang, Alessandro Restelli, and Karl K. Berggren\nScaling up cryogenic systems, like arrays of superconducting nanowire single-photon detectors (SNSPDs), requires developing cryogenic coprocessors to minimize the number of cables exiting the cryostat. This work addresses this challenge by demonstrating the ability to read out, process, encode, and store data from SNSPDs using integrated nanowire electronics. The authors design a digital counter based on nanocryotrons—three-terminal nanowire devices—to perform signal processing and digitization at low temperatures. These results suggest that nanowire coprocessors could be developed, which would benefit the application of SNSPD arrays and other superconducting platforms.\n\n[Phys. Rev. Applied 22, 024020] Published Thu Aug 08, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024020",
-          "publishedOn": "2024-08-08T10:00:00.000Z",
-          "wordCount": 2583,
-          "title": "Nanocryotron ripple counter integrated with a superconducting nanowire single-photon detector for megapixel arrays",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.22.024020.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.060201",
-          "author": "Si-Ran Zhao, Shuai Zhao, Hai-Hao Dong, Wen-Zhao Liu, Jing-Ling Chen, Kai Chen, Qiang Zhang, and Jian-Wei Pan",
-          "description": "Author(s): Si-Ran Zhao, Shuai Zhao, Hai-Hao Dong, Wen-Zhao Liu, Jing-Ling Chen, Kai Chen, Qiang Zhang, and Jian-Wei Pan\nLocal realism is ruled out again in the first loophole-free demonstration of Hardy’s all versus nothing quantum nonlocality test.\n\n[Phys. Rev. Lett. 133, 060201] Published Wed Aug 07, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.060201",
-          "publishedOn": "2024-08-07T10:00:00.000Z",
-          "wordCount": 1525,
-          "title": "Loophole-Free Test of Local Realism via Hardy’s Violation",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.060201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.063201",
-          "author": "Zan Nie, Noa Nambu, Kenneth A. Marsh, Daniel Matteo, C. Kumar Patel, Chaojie Zhang, Yipeng Wu, Stefanos Carlström, Felipe Morales, Serguei Patchkovskii, Olga Smirnova, Misha Ivanov, and Chan Joshi",
-          "description": "Author(s): Zan Nie, Noa Nambu, Kenneth A. Marsh, Daniel Matteo, C. Kumar Patel, Chaojie Zhang, Yipeng Wu, Stefanos Carlström, Felipe Morales, Serguei Patchkovskii, Olga Smirnova, Misha Ivanov, and Chan Joshi\nA resonance between energy levels in argon atoms and nitrogen molecules could be used to remotely sense contaminants in air.\n\n[Phys. Rev. Lett. 133, 063201] Published Wed Aug 07, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.063201",
-          "publishedOn": "2024-08-07T10:00:00.000Z",
-          "wordCount": 1218,
-          "title": "Bidirectional Cascaded Superfluorescent Lasing in Air Enabled by Resonant Third Harmonic Photon Exchange from Nitrogen to Argon",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.063201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.066601",
-          "author": "D. N. Sheng, Aidan P. Reddy, Ahmed Abouelkomsan, Emil J. Bergholtz, and Liang Fu",
-          "description": "Author(s): D. N. Sheng, Aidan P. Reddy, Ahmed Abouelkomsan, Emil J. Bergholtz, and Liang Fu\nStates called quantum anomalous Hall crystals exhibit a quantized Hall conductance with a larger than expected value.\n\n[Phys. Rev. Lett. 133, 066601] Published Wed Aug 07, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.066601",
-          "publishedOn": "2024-08-07T10:00:00.000Z",
-          "wordCount": 995,
-          "title": "Quantum Anomalous Hall Crystal at Fractional Filling of Moiré Superlattices",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.066601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024016",
-          "author": "Anthony D’Addario, Johnathan Kuan, Noah F. Opondo, Ozan Erturk, Tao Zhou, Sunil A. Bhave, Martin V. Holt, and Gregory D. Fuchs",
-          "description": "Author(s): Anthony D’Addario, Johnathan Kuan, Noah F. Opondo, Ozan Erturk, Tao Zhou, Sunil A. Bhave, Martin V. Holt, and Gregory D. Fuchs\nBulk acoustic wave (BAW) resonators that generate dynamic lattice strain are important for applications such as filters, sensors, and quantum control, but there is a lack of measurements available to quantify the strain directly. This study uses stroboscopic X-ray diffraction microscopy with correlated optical measurements on an ensemble of nitrogen-vacancy center defects to measure the dynamic strain in a diamond BAW resonator. This unique approach allows for directly imaging BAW resonator strain to improve fabrication and performance and for directly measuring important parameters of quantum defects to improve quantum control.\n\n[Phys. Rev. Applied 22, 024016] Published Wed Aug 07, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024016",
-          "publishedOn": "2024-08-07T10:00:00.000Z",
-          "wordCount": 1469,
-          "title": "Stroboscopic x-ray diffraction microscopy of dynamic strain in diamond thin-film bulk acoustic resonators for quantum control of nitrogen-vacancy centers",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.22.024016.png"
         }
       ]
     }
