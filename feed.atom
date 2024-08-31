@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-30T00:56:42.964Z</id>
+    <id>urn:2024-08-31T00:56:16.320Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T00:56:42.964Z</updated>
+    <updated>2024-08-31T00:56:16.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperdensity Functional Theory of Soft Matter]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.098201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.098201"/>
+        <updated>2024-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt
+A new scheme utilizing machine learning allows for the investigation of complex observables in spatially inhomogeneous many-body systems in a way not possible with conventional density functional theory.
+
+[Phys. Rev. Lett. 133, 098201] Published Fri Aug 30, 2024]]></summary>
+        <author>
+            <name>Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time-gated optical spectroscopy of field-effect-stimulated recombination via interfacial point defects in fully processed silicon carbide power MOSFETs]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.024075</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.024075"/>
+        <updated>2024-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maximilian W. Feil, Magdalena Weger, Hans Reisinger, Thomas Aichinger, André Kabakow, Dominic Waldhör, Andreas C. Jakowetz, Sven Prigann, Gregor Pobegen, Wolfgang Gustin, Michael Waltl, Michel Bockstedte, and Tibor Grasser
+Silicon carbide MOSFETs are transforming power electronics by enabling higher switching frequencies and lower losses than their silicon-only counterparts. This study uses time-gated optical spectroscopy to investigate defect-assisted recombination in fully processed devices, specifically addressing their well-known hysteresis. The inquiry identifies a local vibrational mode with a very energy of 220 meV, indicating the presence of a carbon-cluster-like defect. This approach to characterizing interface states in MOSFETs reveals possibilities for enhancing device reliability and performance.
+
+[Phys. Rev. Applied 22, 024075] Published Fri Aug 30, 2024]]></summary>
+        <author>
+            <name>Maximilian W. Feil, Magdalena Weger, Hans Reisinger, Thomas Aichinger, André Kabakow, Dominic Waldhör, Andreas C. Jakowetz, Sven Prigann, Gregor Pobegen, Wolfgang Gustin, Michael Waltl, Michel Bockstedte, and Tibor Grasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High mobility charge transport in a multicarrier altermagnet CrSb]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.084412</id>
@@ -1277,32 +1303,6 @@ Progress toward practical, large-scale quantum networks is achieved via a demons
 [PRX Quantum 5, 030330] Published Fri Aug 09, 2024]]></summary>
         <author>
             <name>Alexander N. Craddock, Anne Lazenby, Gabriel Bello Portmann, Rourke Sekelsky, Mael Flament, and Mehdi Namazi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runaway Gravitational Production of Dark Photons]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.061602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.061602"/>
-        <updated>2024-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Christian Capanelli, Leah Jenks, Edward W. Kolb, and Evan McDonough
-Gravitational production of the hypothetical dark photons due to its nonminimal coupling to gravity can suffer from an instability which leads to runaway particle production.
-
-[Phys. Rev. Lett. 133, 061602] Published Fri Aug 09, 2024]]></summary>
-        <author>
-            <name>Christian Capanelli, Leah Jenks, Edward W. Kolb, and Evan McDonough</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulating Holographic Conformal Field Theories on Hyperbolic Lattices]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.061603</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.061603"/>
-        <updated>2024-08-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Santanu Dey, Anffany Chen, Pablo Basteiro, Alexander Fritzsche, Martin Greiter, Matthias Kaminski, Patrick M. Lenggenhager, René Meyer, Riccardo Sorbello, Alexander Stegmaier, Ronny Thomale, Johanna Erdmenger, and Igor Boettcher
-A proof-of-principle demonstration suggests that holographic correspondences may be simulated in electrical circuits.
-
-[Phys. Rev. Lett. 133, 061603] Published Fri Aug 09, 2024]]></summary>
-        <author>
-            <name>Santanu Dey, Anffany Chen, Pablo Basteiro, Alexander Fritzsche, Martin Greiter, Matthias Kaminski, Patrick M. Lenggenhager, René Meyer, Riccardo Sorbello, Alexander Stegmaier, Ronny Thomale, Johanna Erdmenger, and Igor Boettcher</name>
         </author>
     </entry>
 </feed>

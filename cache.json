@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.098201",
+          "author": "Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt",
+          "description": "Author(s): Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt\nA new scheme utilizing machine learning allows for the investigation of complex observables in spatially inhomogeneous many-body systems in a way not possible with conventional density functional theory.\n\n[Phys. Rev. Lett. 133, 098201] Published Fri Aug 30, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.098201",
+          "publishedOn": "2024-08-30T10:00:00.000Z",
+          "wordCount": 989,
+          "title": "Hyperdensity Functional Theory of Soft Matter",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.098201.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024075",
+          "author": "Maximilian W. Feil, Magdalena Weger, Hans Reisinger, Thomas Aichinger, André Kabakow, Dominic Waldhör, Andreas C. Jakowetz, Sven Prigann, Gregor Pobegen, Wolfgang Gustin, Michael Waltl, Michel Bockstedte, and Tibor Grasser",
+          "description": "Author(s): Maximilian W. Feil, Magdalena Weger, Hans Reisinger, Thomas Aichinger, André Kabakow, Dominic Waldhör, Andreas C. Jakowetz, Sven Prigann, Gregor Pobegen, Wolfgang Gustin, Michael Waltl, Michel Bockstedte, and Tibor Grasser\nSilicon carbide MOSFETs are transforming power electronics by enabling higher switching frequencies and lower losses than their silicon-only counterparts. This study uses time-gated optical spectroscopy to investigate defect-assisted recombination in fully processed devices, specifically addressing their well-known hysteresis. The inquiry identifies a local vibrational mode with a very energy of 220 meV, indicating the presence of a carbon-cluster-like defect. This approach to characterizing interface states in MOSFETs reveals possibilities for enhancing device reliability and performance.\n\n[Phys. Rev. Applied 22, 024075] Published Fri Aug 30, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024075",
+          "publishedOn": "2024-08-30T10:00:00.000Z",
+          "wordCount": 1903,
+          "title": "Time-gated optical spectroscopy of field-effect-stimulated recombination via interfacial point defects in fully processed silicon carbide power MOSFETs",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.22.024075.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.084412",
           "author": "Takahiro Urata, Wataru Hattori, and Hiroshi Ikuta",
           "description": "Author(s): Takahiro Urata, Wataru Hattori, and Hiroshi Ikuta\nAltermagnets are unconventional type of magnetic materials with intriguing properties. CrSb is particularly important because of its high ordering temperature and large spin-splitting energy. Here, the authors measured the magnetotransport properties of CrSb. Employing focused-ion-beam machining, they prepared micro-sized lamellar samples to measure all independent Hall tensor components. The Hall resistivity was highly non-linear at low temperatures, but an anomalous Hall effect was ruled out by symmetry-based considerations. Instead, the magnetotransport properties are well explained by a multicarrier effect. Notably, the analysis revealed the presence of carriers with the highest mobility reported for altermagnets so far.\n\n[Phys. Rev. Materials 8, 084412] Published Thu Aug 29, 2024",
@@ -984,26 +1004,6 @@
           "wordCount": 1588,
           "title": "Automated Distribution of Polarization-Entangled Photons Using Deployed New York City Fibers",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRXQUANTUM/key_images/10.1103/PRXQuantum.5.030330.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.061602",
-          "author": "Christian Capanelli, Leah Jenks, Edward W. Kolb, and Evan McDonough",
-          "description": "Author(s): Christian Capanelli, Leah Jenks, Edward W. Kolb, and Evan McDonough\nGravitational production of the hypothetical dark photons due to its nonminimal coupling to gravity can suffer from an instability which leads to runaway particle production.\n\n[Phys. Rev. Lett. 133, 061602] Published Fri Aug 09, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.061602",
-          "publishedOn": "2024-08-09T10:00:00.000Z",
-          "wordCount": 990,
-          "title": "Runaway Gravitational Production of Dark Photons",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.061602.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.061603",
-          "author": "Santanu Dey, Anffany Chen, Pablo Basteiro, Alexander Fritzsche, Martin Greiter, Matthias Kaminski, Patrick M. Lenggenhager, René Meyer, Riccardo Sorbello, Alexander Stegmaier, Ronny Thomale, Johanna Erdmenger, and Igor Boettcher",
-          "description": "Author(s): Santanu Dey, Anffany Chen, Pablo Basteiro, Alexander Fritzsche, Martin Greiter, Matthias Kaminski, Patrick M. Lenggenhager, René Meyer, Riccardo Sorbello, Alexander Stegmaier, Ronny Thomale, Johanna Erdmenger, and Igor Boettcher\nA proof-of-principle demonstration suggests that holographic correspondences may be simulated in electrical circuits.\n\n[Phys. Rev. Lett. 133, 061603] Published Fri Aug 09, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.061603",
-          "publishedOn": "2024-08-09T10:00:00.000Z",
-          "wordCount": 1413,
-          "title": "Simulating Holographic Conformal Field Theories on Hyperbolic Lattices",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.061603.png"
         }
       ]
     }
