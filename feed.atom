@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-04T00:57:08.993Z</id>
+    <id>urn:2024-09-05T00:57:05.024Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T00:57:08.993Z</updated>
+    <updated>2024-09-05T00:57:05.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Constant-Depth Preparation of Matrix Product States with Adaptive Quantum Circuits]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.030344</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.5.030344"/>
+        <updated>2024-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kevin C. Smith, Abid Khan, Bryan K. Clark, S.M. Girvin, and Tzu-Chieh Wei
+An efficient and practical protocol to prepare certain matrix product states using measurements and feedforward operations.
+
+[PRX Quantum 5, 030344] Published Wed Sep 04, 2024]]></summary>
+        <author>
+            <name>Kevin C. Smith, Abid Khan, Bryan K. Clark, S.M. Girvin, and Tzu-Chieh Wei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Measure the Controllability of an Infectious Disease?]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.031041</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.031041"/>
+        <updated>2024-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kris V. Parag
+A new model of epidemics describes infections as part of a feedback loop—an approach that might one day help optimize interventions such as social distancing and lockdowns.
+
+[Phys. Rev. X 14, 031041] Published Wed Sep 04, 2024]]></summary>
+        <author>
+            <name>Kris V. Parag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching for Scalar Field Dark Matter with LIGO]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.101001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.101001"/>
+        <updated>2024-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexandre S. Göttel, Aldo Ejlli, Kanioar Karan, Sander M. Vermeulen, Lorenzo Aiello, Vivien Raymond, and Hartmut Grote
+An analysis of gravitational data from the LIGO detector sets new limits on a wave-like form of dark matter called scalar field dark matter.
+
+[Phys. Rev. Lett. 133, 101001] Published Wed Sep 04, 2024]]></summary>
+        <author>
+            <name>Alexandre S. Göttel, Aldo Ejlli, Kanioar Karan, Sander M. Vermeulen, Lorenzo Aiello, Vivien Raymond, and Hartmut Grote</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excitations of a Binary Dipolar Supersolid]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.103401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.103401"/>
+        <updated>2024-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): W. Kirkby, Au-Chen Lee, D. Baillie, T. Bland, F. Ferlaino, P. B. Blakie, and R. N. Bisset
+The excitation spectrum of a binary dipolar supersolid in a linear crystal geometry reveals three Goldstone modes.
+
+[Phys. Rev. Lett. 133, 103401] Published Wed Sep 04, 2024]]></summary>
+        <author>
+            <name>W. Kirkby, Au-Chen Lee, D. Baillie, T. Bland, F. Ferlaino, P. B. Blakie, and R. N. Bisset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flexible entangled-state generation in linear optics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.032402</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.032402"/>
+        <updated>2024-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Brendan Pankovich, Alex Neville, Angus Kan, Srikrishna Omkar, Kwok Ho Wan, and Kamil Brádler
+Entangled dual-rail photonic qubit states are important resource states for measurement-based and fusion-based quantum computing. However, their generation is highly challenging due to the probabilistic nature of entangling operations. Here, the authors introduce a formalism using ZX diagrams to design linear optical systems that can generate entangled multiqubit states of dual-rail photonic qubits. This formalism makes it easier to compare methods for creating a desired photonic state and to find the most optimal one.
+
+[Phys. Rev. A 110, 032402] Published Wed Sep 04, 2024]]></summary>
+        <author>
+            <name>Brendan Pankovich, Alex Neville, Angus Kan, Srikrishna Omkar, Kwok Ho Wan, and Kamil Brádler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Observation of Pairwise Level Degeneracies and the Quantum Regime of the Arrhenius Law in a Double-Well Parametric Oscillator]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.031040</id>
@@ -1238,71 +1303,6 @@ Electrically patterning the walls of a nanochannel could provide a route to crea
 [Phys. Rev. Lett. 133, 078201] Published Wed Aug 14, 2024]]></summary>
         <author>
             <name>Tine Curk, Sergi G. Leyva, and Ignacio Pagonabarraga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numerical investigation on the heat transfer in wind turbulence over breaking waves]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.084606</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.084606"/>
-        <updated>2024-08-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Min Lu, Zixuan Yang, Guowei He, and Lian Shen
-Wave breaking is recognized as one of the most violent air-sea interaction processes, significantly enhancing the transfer of heat, mass, and momentum between the oceans and the atmosphere. In this study, we investigate heat transfer in wind turbulence over breaking waves using direct numerical simulation, with a particular focus on the effects of wave age. Our findings suggest that temperature responds in a more complex way to wave age than velocity does, emphasizing the need to incorporate this phenomenon into air-sea interaction and weather forecasting models.
-
-[Phys. Rev. Fluids 9, 084606] Published Wed Aug 14, 2024]]></summary>
-        <author>
-            <name>Min Lu, Zixuan Yang, Guowei He, and Lian Shen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyapunov exponents to test general relativity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.044033</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.044033"/>
-        <updated>2024-08-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alexander Deich, Nicolás Yunes, and Charles Gammie
-This paper discusses null trajectories around compact objects, using Lyapunov exponents which provide information about the separation between these trajectories followed by photons that ultimately end up on the observer’s screen, forming superimposed photon rings. The technique is initially applied to Kerr space-time and then extended to some generalizations.
-
-[Phys. Rev. D 110, 044033] Published Wed Aug 14, 2024]]></summary>
-        <author>
-            <name>Alexander Deich, Nicolás Yunes, and Charles Gammie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Environment-adaptive machine learning potentials]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.064101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.064101"/>
-        <updated>2024-08-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ngoc Cuong Nguyen and Dionysios Sema
-Machine learning interatomic potentials (MLIP) have shown great promise in predicting material properties when tailored for specific applications in mind. However, they face limitations when expanded to capture a diverse set of local atomic environments. Here, the authors introduce a novel method to construct environment-adaptive machine-learned (EAML) interatomic potentials by adapting to the local atomic environment of each atom. The approach shows a significant improvement in the accuracy of the EAML potential compared to the current state-of-the-art, paving the way for a new class of MLIPs.
-
-[Phys. Rev. B 110, 064101] Published Wed Aug 14, 2024]]></summary>
-        <author>
-            <name>Ngoc Cuong Nguyen and Dionysios Sema</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helical trilayer graphene in magnetic field: Chern mosaic and higher Chern number ideal flat bands]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.075417</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.075417"/>
-        <updated>2024-08-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Anushree Datta, Daniele Guerci, Mark O. Goerbig, and Christophe Mora
-As compared to other prominent twisted-layered systems that feature flat bands, twisted helical trilayer graphene at magic angles displays flat bands with Chern number higher than one, and features a Chern mosaic. The authors show here intriguing topological phase transitions with increasing Chern numbers in the flat bands under a perpendicular magnetic field. The associated wavefunctions are derived, and a set of hidden wavefunctions are shown to play a crucial role in the topological transitions and increase of Chern numbers.
-
-[Phys. Rev. B 110, 075417] Published Wed Aug 14, 2024]]></summary>
-        <author>
-            <name>Anushree Datta, Daniele Guerci, Mark O. Goerbig, and Christophe Mora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electrically tunable high-Chern-number quasiflat bands in twisted antiferromagnetic topological insulators]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.085135</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.085135"/>
-        <updated>2024-08-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Huaiqiang Wang, Yiliang Fan, and Haijun Zhang
-Isolated flat bands possessing high Chern numbers are highly prized in condensed matter physics. Here, the authors propose realizing high Chern number flat-band states through moiré engineering of the two coupled Dirac-cone surface states of antiferromagnetic topological insulator thin films. The emergent Dirac-cone states induced from the anisotropic intersurface couplings, respecting multifold rotational symmetries, are dubbed intertwined Dirac states. They are found to play a significant role in this process. Furthermore, topological phase transitions between trivial and nontrivial flat-band states can be tuned by an out-of-plane electric field.
-
-[Phys. Rev. B 110, 085135] Published Wed Aug 14, 2024]]></summary>
-        <author>
-            <name>Huaiqiang Wang, Yiliang Fan, and Haijun Zhang</name>
         </author>
     </entry>
 </feed>
