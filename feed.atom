@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-06T00:56:52.891Z</id>
+    <id>urn:2024-09-07T00:55:57.085Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T00:56:52.891Z</updated>
+    <updated>2024-09-07T00:55:57.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spin Dynamics across Metallic Layers on the Few-Femtosecond Timescale]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.106902</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.106902"/>
+        <updated>2024-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Romain Géneaux, Hung-Tzu Chang, Alexander Guggenmos, Renaud Delaunay, François Légaré, Katherine Légaré, Jan Lüning, Tymur Parpiiev, Ilana J. P. Molesky, Bethany R. de Roulet, Michael W. Zuerch, Sangeeta Sharma, Martin Schultze, and Stephen R. Leone
+Researchers use ultrashort laser pulses to trigger a spin-aligned electron flow on the few-femtosecond timescale—opening up a possible path toward faster spintronic devices.
+
+[Phys. Rev. Lett. 133, 106902] Published Fri Sep 06, 2024]]></summary>
+        <author>
+            <name>Romain Géneaux, Hung-Tzu Chang, Alexander Guggenmos, Renaud Delaunay, François Légaré, Katherine Légaré, Jan Lüning, Tymur Parpiiev, Ilana J. P. Molesky, Bethany R. de Roulet, Michael W. Zuerch, Sangeeta Sharma, Martin Schultze, and Stephen R. Leone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark matter scattering off $^{2}\mathrm{H}$ and $^{4}\mathrm{He}$ nuclei within chiral effective field theory]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.110.034002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.110.034002"/>
+        <updated>2024-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Elena Filandri and Michele Viviani
+The nature of dark matter is one of the outstanding problems in particle physics and cosmology. To assist in the search for dark matter (DM), the authors examine the most general interactions between weakly interacting massive particles (WIMPs), assumed to be spin-1/2 fermions, and isotopes of the lightest nuclei, hydrogen and helium, using chiral effective field theory for a wide range of masses and coupling constants. The authors conclude that the scalar nuclear response functions are much greater than the others and severely constrained by the existing limits provided by experiments. The present study could be extended to other possible types of DM interactions, lighter DM candidates or heavier nuclei, such as lithium, argon, and xenon, currently widely used in dark matter detectors.
+
+[Phys. Rev. C 110, 034002] Published Fri Sep 06, 2024]]></summary>
+        <author>
+            <name>Elena Filandri and Michele Viviani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Noncapillary Wave Dynamics due to Interfacial Coupling with Plasma Patterns at a Liquid Surface]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.105301</id>
@@ -1277,32 +1303,6 @@ An analysis of the brightest gamma-ray burst ever observed reveals no difference
 [Phys. Rev. Lett. 133, 071501] Published Thu Aug 15, 2024]]></summary>
         <author>
             <name>Zhen Cao &lt;em&gt;et al.&lt;/em&gt; (The LHAASO Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoEDAL Search in the CMS Beam Pipe for Magnetic Monopoles Produced via the Schwinger Effect]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.071803</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.071803"/>
-        <updated>2024-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): B. Acharya et al.
-A search for the magnetic monopoles that carry 2 to 45 Dirac units of magnetic charge that could have been produced by heavy-ion collisions places world-leading limits on the monopole masses.
-
-[Phys. Rev. Lett. 133, 071803] Published Thu Aug 15, 2024]]></summary>
-        <author>
-            <name>B. Acharya &lt;em&gt;et al.&lt;/em&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporal Refraction in an Acoustic Phononic Lattice]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.077201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.077201"/>
-        <updated>2024-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Brian L. Kim, Christopher Chong, and Chiara Daraio
-A magnet-and-coil system reveals how acoustic waves reflect and refract when the host medium suddenly changes elasticity.
-
-[Phys. Rev. Lett. 133, 077201] Published Thu Aug 15, 2024]]></summary>
-        <author>
-            <name>Brian L. Kim, Christopher Chong, and Chiara Daraio</name>
         </author>
     </entry>
 </feed>
