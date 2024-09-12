@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.110.L032302",
+          "author": "Jasper van der Kolk, Marián Boguñá, and M. Ángeles Serrano",
+          "description": "Author(s): Jasper van der Kolk, Marián Boguñá, and M. Ángeles Serrano\nThe authors extend the geometric renormalization approach for networks to the weakly geometric regime and apply it to a set of real networks. They show that geometric information is essential for obtaining self-similarity across scales, even when the geometric coupling is weak.\n\n[Phys. Rev. E 110, L032302] Published Wed Sep 11, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.110.L032302",
+          "publishedOn": "2024-09-11T10:00:00.000Z",
+          "wordCount": 1034,
+          "title": "Renormalization of networks with weak geometric coupling",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.110.L032302.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.110.063020",
+          "author": "Gabriela Sato-Polito, Matias Zaldarriaga, and Eliot Quataert",
+          "description": "Author(s): Gabriela Sato-Polito, Matias Zaldarriaga, and Eliot Quataert\nThe paper establishes a discrepancy in the inferred supermassive black hole mass density between gravitational-wave based estimates (from pulsar timing) and electromagnetic estimates (from galaxy scaling relations and the quasar luminosity function). Further, possible solutions are also discussed.\n\n[Phys. Rev. D 110, 063020] Published Wed Sep 11, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.110.063020",
+          "publishedOn": "2024-09-11T10:00:00.000Z",
+          "wordCount": 1782,
+          "title": "Where are the supermassive black holes measured by PTAs?",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.110.063020.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.104418",
+          "author": "Igor Lyalin and Roland K. Kawakami",
+          "description": "Author(s): Igor Lyalin and Roland K. Kawakami\nOrbitronics is an exciting new field closely connected to spintronics. One of the important questions is how efficiently orbital currents can be transferred across interfaces. Here, the authors study spin-orbit torque in Cr/Ni bilayers with the insertion of an ultrathin spacer between them. Using the experimentally measured torque as a proxy for the orbital current transferred from Cr to Ni, they find that across 12 different spacer materials, the apparent interface transparency to the orbital current is comparable to or larger than the spin current.\n\n[Phys. Rev. B 110, 104418] Published Wed Sep 11, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.104418",
+          "publishedOn": "2024-09-11T10:00:00.000Z",
+          "wordCount": 970,
+          "title": "Interface transparency to orbital current",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.104418.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.115119",
+          "author": "Maksymilian Kliczkowski, Lauren Keyes, Sayantan Roy, Thereza Paiva, Mohit Randeria, Nandini Trivedi, and Maciej M. Maśka",
+          "description": "Author(s): Maksymilian Kliczkowski, Lauren Keyes, Sayantan Roy, Thereza Paiva, Mohit Randeria, Nandini Trivedi, and Maciej M. Maśka\nAnalytic continuation of numerical data obtained from quantum Monte Carlo simulations from imaginary time to real frequencies is of great interest in diverse fields. This is a classic ill-posed problem of inverting a Laplace transform. Here, the authors develop an unsupervised encoder-decoder neural network with deeply tunable architecture to address this question. For the repulsive Hubbard model, a paradigmatic model for correlated quantum materials and optical lattices, the authors show that their approach is more robust against noise than maximum entropy methods currently in use.\n\n[Phys. Rev. B 110, 115119] Published Wed Sep 11, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.115119",
+          "publishedOn": "2024-09-11T10:00:00.000Z",
+          "wordCount": 1869,
+          "title": "Autoencoder-based analytic continuation method for strongly correlated quantum systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.115119.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.125127",
+          "author": "Sopheak Sorn and Adarsh S. Patri",
+          "description": "Author(s): Sopheak Sorn and Adarsh S. Patri\nDiscovering long-range hidden orders is a long-standing challenge in the field of unconventional magnetism. Such type of order is elusive to conventional magnetic probes. Here, focusing on the archetypal ferro-octupolar ordering in metallic heavy-fermion compounds, the authors demonstrate through a combination of semiclassical transport and general symmetry analysis that nonlinear Hall transport is the dominant experimental signature.\n\n[Phys. Rev. B 110, 125127] Published Wed Sep 11, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.125127",
+          "publishedOn": "2024-09-11T10:00:00.000Z",
+          "wordCount": 1092,
+          "title": "Signatures of hidden octupolar order from nonlinear Hall effects",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.125127.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.034024",
+          "author": "Mingze Wu, Junhui Li, Bingjie Xu, Song Yu, and Yichen Zhang",
+          "description": "Author(s): Mingze Wu, Junhui Li, Bingjie Xu, Song Yu, and Yichen Zhang\nThe system’s source noise affects the practical performance of discrete-modulated continuous-variable quantum key distribution. The good news: This noise exists inside the system and cannot be exploited by eavesdroppers, so it can be trusted. However, a lack of appropriate modeling leaves a security-key-rate gap, omitting this trusted noise. The authors propose a model for trusted source noise in the discrete-modulated protocol, successfully mitigating the negative impact of an imperfect source on system performance while maintaining security of the protocol, and thus promoting practical deployment.\n\n[Phys. Rev. Applied 22, 034024] Published Wed Sep 11, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.034024",
+          "publishedOn": "2024-09-11T10:00:00.000Z",
+          "wordCount": 1269,
+          "title": "Trusted-source-noise model of discrete-modulated continuous-variable quantum key distribution",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.22.034024.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.094601",
+          "author": "Ryan Roussel, Juan Pablo Gonzalez-Aguilera, Eric Wisniewski, Alexander Ody, Wanming Liu, John Power, Young-Kee Kim, and Auralee Edelen",
+          "description": "Author(s): Ryan Roussel, Juan Pablo Gonzalez-Aguilera, Eric Wisniewski, Alexander Ody, Wanming Liu, John Power, Young-Kee Kim, and Auralee Edelen\nReconstruction of a beam six-dimensional phase space using neural networks.\n\n[Phys. Rev. Accel. Beams 27, 094601] Published Wed Sep 11, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.094601",
+          "publishedOn": "2024-09-11T10:00:00.000Z",
+          "wordCount": 1531,
+          "title": "Efficient six-dimensional phase space reconstructions from experimental measurements using generative machine learning",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/PhysRevAccelBeams.27.094601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.110.032411",
+          "author": "Balint Pato, Theerapat Tansuwannont, and Kenneth R. Brown",
+          "description": "Author(s): Balint Pato, Theerapat Tansuwannont, and Kenneth R. Brown\nThis paper examines a fault-tolerant error-correction protocol for a particular concatenated Steane code that requires only two ancilla qubits per generator. The authors enhance its performance by finding an appropriate gate ordering of the syndrome measurements that tolerates up to four faults. They run noise simulations at the circuit level to suggest that this code has a significantly higher noise threshold than a comparable color code, in contrast to what other noise models predict.\n\n[Phys. Rev. A 110, 032411] Published Wed Sep 11, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.110.032411",
+          "publishedOn": "2024-09-11T10:00:00.000Z",
+          "wordCount": 1436,
+          "title": "Concatenated Steane code with single-flag syndrome checks",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/PhysRevA.110.032411.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.116401",
           "author": "Riccardo Rurali, Carlos Escorihuela-Sayalero, Josep Lluís Tamarit, Jorge Íñiguez-González, and Claudio Cazorla",
           "description": "Author(s): Riccardo Rurali, Carlos Escorihuela-Sayalero, Josep Lluís Tamarit, Jorge Íñiguez-González, and Claudio Cazorla\nUltraviolet photons induce potassium niobate to behave like a potent solid-state refrigerant, according to new calculations.\n\n[Phys. Rev. Lett. 133, 116401] Published Tue Sep 10, 2024",
@@ -924,86 +1004,6 @@
           "wordCount": 1533,
           "title": "Single theoretical model for breakup of viscous thread with and without a fiber",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.9.084005.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.110.046020",
-          "author": "Nihat Sadik Deger, Ángel J. Murcia, and Dmitri Sorokin",
-          "description": "Author(s): Nihat Sadik Deger, Ángel J. Murcia, and Dmitri Sorokin\nA recently formulated nonlinear and electric-magnetic duality invariant extension of four-dimensional source-free Maxwell theory (ModMax) received a lot of attention. In this paper, the authors show that the already longer known six-dimensional nonlinear conformal chiral 2-form theory is related to the 4D ModMax theory by dimensional reduction. They study systematically exact solutions of this theory coupled to gravity (plane waves, black, strings, etc.) and their relation to supergravity solutions.\n\n[Phys. Rev. D 110, 046020] Published Tue Aug 20, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.110.046020",
-          "publishedOn": "2024-08-20T10:00:00.000Z",
-          "wordCount": 854,
-          "title": "Waves and strings in an interacting conformal chiral 2-form theory in six dimensions",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.110.046020.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.064317",
-          "author": "Roy D. Jara, Jr. and Jayson G. Cosme",
-          "description": "Author(s): Roy D. Jara, Jr. and Jayson G. Cosme\nThe authors demonstrate here that, for open systems quenched using finite-ramp protocols, dissipation results in a delay in detecting phase transitions if a threshold-based criterion for an order parameter is used. This leads to a regime for intermediate quench speeds, in which the transition time follows the predicted universal scaling of the Kibble-Zurek mechanism, despite the system appearing to enter a new phase after the ramp has ended. Their results highlight the subtleties of experimentally observing phase transitions in open systems.\n\n[Phys. Rev. B 110, 064317] Published Tue Aug 20, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.064317",
-          "publishedOn": "2024-08-20T10:00:00.000Z",
-          "wordCount": 1633,
-          "title": "Apparent delay of the Kibble-Zurek mechanism in quenched open systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.064317.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.075203",
-          "author": "Luis F. Cárdenas-Castillo, Shuai Zhang, Fernando L. Freire, Jr., Denis Kochan, and Wei Chen",
-          "description": "Author(s): Luis F. Cárdenas-Castillo, Shuai Zhang, Fernando L. Freire, Jr., Denis Kochan, and Wei Chen\nFor three-dimensional semiconductors and insulators, the authors elaborate here that the imaginary part of dielectric function integrated over frequency gives the spread of valence-band Wannier functions, which characterizes how insulating is the material. For two-dimensional materials, their opacity divided by frequency and then integrated over frequency does the same job.\n\n[Phys. Rev. B 110, 075203] Published Tue Aug 20, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.075203",
-          "publishedOn": "2024-08-20T10:00:00.000Z",
-          "wordCount": 1201,
-          "title": "Detecting the spread of valence-band Wannier functions by optical sum rules",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.075203.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.L081301",
-          "author": "Rui Chen, Z. Z. Du, Hai-Peng Sun, Hai-Zhou Lu, and X. C. Xie",
-          "description": "Author(s): Rui Chen, Z. Z. Du, Hai-Peng Sun, Hai-Zhou Lu, and X. C. Xie\nThe nonlinear Hall effect provides a new experimental tool to probe the condensed matter phases. This work presents the first real-space lattice theory of the nonlinear Hall effect, so that strong disorder can be handled to explain an unexpected fluctuation in the experiments and discover a “localization” of the nonlinear Hall effect. The calculation can be generalized to more crystal lattices.\n\n[Phys. Rev. B 110, L081301] Published Tue Aug 20, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L081301",
-          "publishedOn": "2024-08-20T10:00:00.000Z",
-          "wordCount": 1333,
-          "title": "Nonlinear Hall effect on a disordered lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.L081301.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024052",
-          "author": "Shuyan Chai, Qian Wu, Ting Zhang, Guangping Zhang, Ying Dai, Baibiao Huang, and Yandong Ma",
-          "description": "Author(s): Shuyan Chai, Qian Wu, Ting Zhang, Guangping Zhang, Ying Dai, Baibiao Huang, and Yandong Ma\nTriferroic multiferroicity, with ferroelectricity, ferromagnetism, and ferroelasticity coexisting in a single phase, is an intriguing phenomenon with promising device applications. Despite their great fundamental and technological importance, triferroic multiferroics remain substantially unexplored—especially those of semiconducting character. This computational study predicts semiconducting triferroic multiferroicity in the layered van der Waals material T′-TiBr2, with ferroelastic control of magnetization orientation and ferroelectric control of the absolute values of spin-polarization-density distributions, which is quite exciting.\n\n[Phys. Rev. Applied 22, 024052] Published Tue Aug 20, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.024052",
-          "publishedOn": "2024-08-20T10:00:00.000Z",
-          "wordCount": 993,
-          "title": "Semiconducting triferroic multiferroics in van der Waals bilayer lattice",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.22.024052.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.033184",
-          "author": "Pyeongjae Park, G. Sala, Daniel M. Pajerowski, Andrew F. May, James A. Kolopus, D. Dahlbom, Matthew B. Stone, Gábor B. Halász, and Andrew D. Christianson",
-          "description": "Author(s): Pyeongjae Park, G. Sala, Daniel M. Pajerowski, Andrew F. May, James A. Kolopus, D. Dahlbom, Matthew B. Stone, Gábor B. Halász, and Andrew D. Christianson\nA new approach utilizing thermal fluctuations to investigate the spin dynamics of quantum magnets is introduced. It successfully identifies the spin Hamiltonian of a quantum antiferromagnet and elucidates the temperature-induced dissipation of quantum spin dynamics, which are challenging to assess using conventional spin-wave theories.\n\n[Phys. Rev. Research 6, 033184] Published Mon Aug 19, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.033184",
-          "publishedOn": "2024-08-19T10:00:00.000Z",
-          "wordCount": 1449,
-          "title": "Quantum and classical spin dynamics across temperature scales in the $S=1/2$ Heisenberg antiferromagnet",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.6.033184.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.081601",
-          "author": "Christian Copetti, Lorenzo Di Pietro, Ziming Ji, and Shota Komatsu",
-          "description": "Author(s): Christian Copetti, Lorenzo Di Pietro, Ziming Ji, and Shota Komatsu\nThe transition from massless to mass-gapped phase in certain quantum field theories in AdS2 is shown to be triggered by a singlet operator that becomes marginal.\n\n[Phys. Rev. Lett. 133, 081601] Published Mon Aug 19, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.081601",
-          "publishedOn": "2024-08-19T10:00:00.000Z",
-          "wordCount": 966,
-          "title": "Taming Mass Gaps with Anti–de Sitter Space",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.081601.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.083401",
-          "author": "G. Spada, S. Pilati, and S. Giorgini",
-          "description": "Author(s): G. Spada, S. Pilati, and S. Giorgini\nQuantum Monte Carlo simulations of Bose mixtures in 2D at finite temperature reveal the coexistence of liquid droplets and gas phases.\n\n[Phys. Rev. Lett. 133, 083401] Published Mon Aug 19, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.083401",
-          "publishedOn": "2024-08-19T10:00:00.000Z",
-          "wordCount": 1146,
-          "title": "Quantum Droplets in Two-Dimensional Bose Mixtures at Finite Temperature",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.083401.png"
         }
       ]
     }
