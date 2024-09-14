@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-13T00:57:19.762Z</id>
+    <id>urn:2024-09-14T00:56:41.546Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T00:57:19.762Z</updated>
+    <updated>2024-09-14T00:56:41.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coupled volume of fluid and phase field method for direct numerical simulation of insoluble surfactant-laden interfacial flows and application to rising bubbles]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.094004</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.094004"/>
+        <updated>2024-09-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Palas Kumar Farsoiya, Stéphane Popinet, Howard A. Stone, and Luc Deike
+We present an open-source Direct Numerical Simulation framework to analyze surfactant-laden flows. With adaptive mesh refinement and parallelization, this tool enables researchers to explore the effects of surfactants on interfacial flows, particularly their impact on rising bubbles. The simulations show that surfactants slow down bubbles and alter their trajectory. Such numerical frameworks on the solutal Marangoni effect are crucial for understanding and predicting the behavior of multiphase flows in natural and industrial processes.
+
+[Phys. Rev. Fluids 9, 094004] Published Fri Sep 13, 2024]]></summary>
+        <author>
+            <name>Palas Kumar Farsoiya, Stéphane Popinet, Howard A. Stone, and Luc Deike</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast generation of spectrally shaped disorder]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.110.034122</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.110.034122"/>
+        <updated>2024-09-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Aaron Shih, Mathias Casiulis, and Stefano Martiniani
+Systems with correlated disorder can display unusual optical properties, but it is a challenge to design such structures with desired long-range correlations. The authors introduce an efficient algorithm for generating correlated disordered structures with arbitrary spectral properties.
+
+[Phys. Rev. E 110, 034122] Published Fri Sep 13, 2024]]></summary>
+        <author>
+            <name>Aaron Shih, Mathias Casiulis, and Stefano Martiniani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiral Stoner magnetism in Dirac bands]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.104420</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.104420"/>
+        <updated>2024-09-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Zhiyu Dong and Leonid Levitov
+Stoner magnetism in bands with Berry curvature features a coupling between spin chirality density and Berry’s orbital magnetism, arising without microscopic spin-orbital interactions. Carriers moving in a spin texture perceive it as a geometric magnetic field coupled to their orbital motion through a spin-dependent gauge field. This emergent spin-orbital interaction, previously predicted to enable chiral magnons at system boundaries, also favors chiral spin textures such as skyrmions – topologically protected, particle-like objects stabilized in the ground state.
+
+[Phys. Rev. B 110, 104420] Published Fri Sep 13, 2024]]></summary>
+        <author>
+            <name>Zhiyu Dong and Leonid Levitov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terahertz and gigahertz magnetoratchets in graphene-based two-dimensional metamaterials]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.125303</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.125303"/>
+        <updated>2024-09-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Hild, E. Mönch, L. E. Golub, I. A. Dmitriev, I. Yahniuk, K. Amann, J. Amann, J. Eroms, J. Wunderlich, D. Weiss, C. Consejo, C. Bray, K. Maussang, F. Teppe, J. Gumenjuk-Sichevska, K. Watanabe, T. Taniguchi, and S. D. Ganichev
+Here, the authors study the ratchet effect – the conversion of alternating fields in the terahertz and gigahertz range into direct current – using a 2D metamaterial formed by monolayer graphene and a nearby gate with an array of triangular holes. A combined experimental and theoretical study shows that application of magnetic field leads to giant enhancement of the ratchet current and emergence of quantum magneto-oscillations, also featuring a complex Fano shape of the cyclotron resonance and well-pronounced electron spin resonance.
+
+[Phys. Rev. B 110, 125303] Published Fri Sep 13, 2024]]></summary>
+        <author>
+            <name>M. Hild, E. Mönch, L. E. Golub, I. A. Dmitriev, I. Yahniuk, K. Amann, J. Amann, J. Eroms, J. Wunderlich, D. Weiss, C. Consejo, C. Bray, K. Maussang, F. Teppe, J. Gumenjuk-Sichevska, K. Watanabe, T. Taniguchi, and S. D. Ganichev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Directional emission of a readout resonator for qubit measurement]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.034035</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.034035"/>
+        <updated>2024-09-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alec Yen, Yufeng Ye, Kaidong Peng, Jennifer Wang, Gregory Cunningham, Michael Gingras, Bethany M. Niedzielski, Hannah Stickler, Kyle Serniak, Mollie E. Schwartz, and Kevin P. O’Brien
+Robust and scalable multiplexed qubit readout is essential for realizing a fault-tolerant quantum computer. Conventional approaches rely on intentional mismatch of the feedline to provide directionality to the readout signal, at the cost of increased variation in resonator linewidth, which ultimately degrades quantum error correction. The authors address this challenge by demonstrating high-fidelity qubit readout using a readout resonator that emits photons preferentially toward the output, across its full bandwidth. By maintaining directional decay of the readout signal without intentional mismatch, this work presents a path toward the design of reliable, modular quantum processors.
+
+[Phys. Rev. Applied 22, 034035] Published Fri Sep 13, 2024]]></summary>
+        <author>
+            <name>Alec Yen, Yufeng Ye, Kaidong Peng, Jennifer Wang, Gregory Cunningham, Michael Gingras, Bethany M. Niedzielski, Hannah Stickler, Kyle Serniak, Mollie E. Schwartz, and Kevin P. O’Brien</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Signal Crosstalk in a Flip-Chip Quantum Processor]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.030350</id>
@@ -102,7 +167,7 @@ Outstanding in the (magnetic) field: The authors demonstrate an alternative, sel
         <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.034033"/>
         <updated>2024-09-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Claudio E. Calosso, Michele Gozzelino, Filippo Levi, and Salvatore Micalizio
-A laser’s frequency tends to drift (the so-called light shift), and stabilization typically entails additional complicated gear. This study shows how to turn the light shift from a nuisance to an amazing resource for compact atomic frequency standards. Exploiting the dispersive behavior of the light shift, the authors stabilize the laser frequency to the same atoms that are involved in the clock’s operation, without the need for any external reference. This technique results in significant hardware simplification, which is quite advantageous for industrial and space applications, where compact and robust automatic laser-frequency stabilization is especially valuable.
+Fluctuations in laser frequency affect atomic clock stability (via the so-called light shift) and stabilization is required, typically entailing additional complicated gear. This study shows how to turn the light shift from a nuisance to an amazing resource for compact atomic frequency standards. Exploiting the dispersive behavior of the light shift, the authors stabilize the laser frequency to the same atoms that are involved in the clock’s operation, without the need for any external reference. This technique results in significant hardware simplification, which is quite advantageous for industrial and space applications, where compact and robust automatic laser-frequency stabilization is especially valuable.
 
 [Phys. Rev. Applied 22, 034033] Published Thu Sep 12, 2024]]></summary>
         <author>
@@ -1238,71 +1303,6 @@ Here, the authors use muon and neutron spectroscopies to establish the magnetic 
 [Phys. Rev. B 110, 064425] Published Thu Aug 22, 2024]]></summary>
         <author>
             <name>Ifeanyi John Onuorah, Jonathan Frassineti, Qiaochu Wang, Muhammad Maikudi Isah, Pietro Bonfà, Jeffrey G. Rau, J. A. Rodriguez-Rivera, A. I. Kolesnikov, Vesna F. Mitrović, Samuele Sanna, and Kemp W. Plumb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissociative recombination of rotationally cold ${\mathrm{ArH}}^{+}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.022816</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.022816"/>
-        <updated>2024-08-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ábel Kálosi, Manfred Grieser, Leonard W. Isberner, Holger Kreckel, Åsa Larson, David A. Neufeld, Ann E. Orel, Daniel Paul, Daniel W. Savin, Stefan Schippers, Viviane C. Schmidt, Andreas Wolf, Mark G. Wolfire, and Oldřich Novotný
-The authors experimentally studied the dissociative recombination of electronically and vibrationally relaxed ArH^+ in its lowest rotational levels, using an electron-ion merged-beams setup at the Cryogenic Storage Ring. They find that the unusually slow reaction rate at low collision energies is driven by nonadiabatic interactions where dissociation occurs on the loosely bound electronic ground-state ArH.
-
-[Phys. Rev. A 110, 022816] Published Thu Aug 22, 2024]]></summary>
-        <author>
-            <name>Ábel Kálosi, Manfred Grieser, Leonard W. Isberner, Holger Kreckel, Åsa Larson, David A. Neufeld, Ann E. Orel, Daniel Paul, Daniel W. Savin, Stefan Schippers, Viviane C. Schmidt, Andreas Wolf, Mark G. Wolfire, and Oldřich Novotný</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Realization of a Coherent and Efficient One-Dimensional Atom]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.083602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.083602"/>
-        <updated>2024-08-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Natasha Tomm, Nadia O. Antoniadis, Marcelo Janovitch, Matteo Brunelli, Rüdiger Schott, Sascha R. Valentin, Andreas D. Wieck, Arne Ludwig, Patrick P. Potts, Alisa Javadi, and Richard J. Warburton
-A device that sorts photon states could lead to a basic component of an all-optical quantum computer.
-
-[Phys. Rev. Lett. 133, 083602] Published Wed Aug 21, 2024]]></summary>
-        <author>
-            <name>Natasha Tomm, Nadia O. Antoniadis, Marcelo Janovitch, Matteo Brunelli, Rüdiger Schott, Sascha R. Valentin, Andreas D. Wieck, Arne Ludwig, Patrick P. Potts, Alisa Javadi, and Richard J. Warburton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking quantum master equations beyond ultraweak coupling]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.064319</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.064319"/>
-        <updated>2024-08-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Camilo Santiago Tello Breuer, Tobias Becker, and André Eckardt
-Open quantum systems are ubiquitous, however, their description beyond ultraweak system-bath coupling is challenging. The standard Redfield master equation can violate positivity. Recently, Nathan and Rudner proposed an alternative equation, not suffering from this problem. The authors compare here both equations to the exact solution of a simple model. The Redfield equation performs noticeably better for transient dynamics. For the steady state it is slightly better for high temperatures, but fails at low temperatures, where the Nathan-Rudner equation is still accurate.
-
-[Phys. Rev. B 110, 064319] Published Wed Aug 21, 2024]]></summary>
-        <author>
-            <name>Camilo Santiago Tello Breuer, Tobias Becker, and André Eckardt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractional AC Josephson effect in a topological insulator proximitized by a self-formed superconductor]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.064511</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.064511"/>
-        <updated>2024-08-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ilan T. Rosen, Christie J. Trimble, Molly P. Andersen, Evgeny Mikheev, Yanbin Li, Yunzhi Liu, Lixuan Tai, Peng Zhang, Kang L. Wang, Yi Cui, M. A. Kastner, James R. Williams, and David Goldhaber-Gordon
-Josephson junctions with topological weak links should support Majorana bound states, yet are challenging to fabricate without damaging the topological material. Here, the authors evaporate a noble metal onto a (BiSb)2Te3 topological insulator that chemically reacts, creating a self-formed superconductor while minimizing damage. The interface between the superconductor and untouched (BiSb)2Te3 has adequate interface transparency, and the two materials have similar work functions. Under microwave irradiation, they observe suppressed first and third Shapiro steps, which supports the presence of Majorana bound states.
-
-[Phys. Rev. B 110, 064511] Published Wed Aug 21, 2024]]></summary>
-        <author>
-            <name>Ilan T. Rosen, Christie J. Trimble, Molly P. Andersen, Evgeny Mikheev, Yanbin Li, Yunzhi Liu, Lixuan Tai, Peng Zhang, Kang L. Wang, Yi Cui, M. A. Kastner, James R. Williams, and David Goldhaber-Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultrafast spin dynamics in the proximate quantum spin liquid $α−\mathrm{RuC}{\mathrm{l}}_{3}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L081111</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L081111"/>
-        <updated>2024-08-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Haochen Zhang, Subin Kim, Young-June Kim, Hae-Young Kee, and Luyi Yang
-Detecting spin dynamics in quantum spin liquids presents significant challenges. Here, the authors explore photoinduced excitations in the Kitaev spin liquid candidate α-RuCl3 using heterodyne transient grating spectroscopy. This method allows for a comprehensive characterization of different photoinduced components. They identify signatures of spin excitations within the Kitaev paramagnetic phase. The two distinct lifetimes observed in this temperature regime, on the order of tens of picoseconds, likely correspond to the dynamics of unconventional spin excitations predicted by the Kitaev model.
-
-[Phys. Rev. B 110, L081111] Published Wed Aug 21, 2024]]></summary>
-        <author>
-            <name>Haochen Zhang, Subin Kim, Young-June Kim, Hae-Young Kee, and Luyi Yang</name>
         </author>
     </entry>
 </feed>
