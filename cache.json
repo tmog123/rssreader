@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.033300",
+          "author": "David A. Kessler and Herbert Levine",
+          "description": "Author(s): David A. Kessler and Herbert Levine\nThe possible dynamical behaviors of a viral population interacting with host immunity are explored. Transitions between propagating viral “pulses” and more complex behavior can readily occur, depending on population size and on memory retention in the immune response.\n\n[Phys. Rev. Research 6, 033300] Published Mon Sep 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.033300",
+          "publishedOn": "2024-09-16T10:00:00.000Z",
+          "wordCount": 1443,
+          "title": "Pulse instabilities can shape virus-immune coevolution",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRRESEARCH/key_images/10.1103/PhysRevResearch.6.033300.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.121402",
+          "author": "Giovanni Maria Tomaselli, Thomas F. M. Spieksma, and Gianfranco Bertone",
+          "description": "Author(s): Giovanni Maria Tomaselli, Thomas F. M. Spieksma, and Gianfranco Bertone\nGravitational-wave signals from black hole mergers could reveal the presence of “gravitational atoms”—black holes surrounded by clouds of axions or other light bosons.\n\n[Phys. Rev. Lett. 133, 121402] Published Mon Sep 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.121402",
+          "publishedOn": "2024-09-16T10:00:00.000Z",
+          "wordCount": 1080,
+          "title": "Legacy of Boson Clouds on Black Hole Binaries",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.121402.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.110.064048",
+          "author": "Giovanni Maria Tomaselli, Thomas F. M. Spieksma, and Gianfranco Bertone",
+          "description": "Author(s): Giovanni Maria Tomaselli, Thomas F. M. Spieksma, and Gianfranco Bertone\nGravitational-wave signals from black hole mergers could reveal the presence of “gravitational atoms”—black holes surrounded by clouds of axions or other light bosons.\n\n[Phys. Rev. D 110, 064048] Published Mon Sep 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.110.064048",
+          "publishedOn": "2024-09-16T10:00:00.000Z",
+          "wordCount": 2198,
+          "title": "Resonant history of gravitational atoms in black hole binaries",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/PhysRevD.110.064048.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.110.L031601",
+          "author": "Rui Wang, Stefano Burrello, Maria Colonna, and Francesco Matera",
+          "description": "Author(s): Rui Wang, Stefano Burrello, Maria Colonna, and Francesco Matera\nThe treatment of particle correlations and the description of clusters in the nuclear medium are important aspects that need to be better understood in the theoretical description of nuclear matter and the simulation of heavy-ion collisions. The authors propose a novel treatment of clustering for transport calculations based on a mechanism that suppresses cluster formation due to the Pauli principle via a medium-dependent cutoff in the momentum distribution of the clusters. The impact of clusters on the dynamics of unstable nuclear matter is clearly seen, and a `distillation’ mechanism is observed that affects the distribution of clusters between the low- and high-density regions. Although the approach has room for improvements, it captures the essential physics, and promises to have an impact on the further development of the field.\n\n[Phys. Rev. C 110, L031601] Published Mon Sep 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.110.L031601",
+          "publishedOn": "2024-09-16T10:00:00.000Z",
+          "wordCount": 884,
+          "title": "Dynamics of dilute nuclear matter with light clusters and in-medium effects",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRC/key_images/10.1103/PhysRevC.110.L031601.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.115421",
+          "author": "D. J. P. de Sousa, C. O. Ascencio, and Tony Low",
+          "description": "Author(s): D. J. P. de Sousa, C. O. Ascencio, and Tony Low\nBerry curvature and the magnetic moment of Bloch electrons in quantum materials yield unexpected electro-optical effects. Here, the authors derive a generalized constitutive relation for current response in electrically biased systems using semiclassical Boltzmann theory. They uncover a magnetoelectric electro-optical effect requiring broken time-reversal or inversion symmetry. This work reveals how Berry curvature and magnetic moment textures in Bloch bands can lead to unique electromagnetic signatures, potentially enabling new ways to manipulate light in quantum materials.\n\n[Phys. Rev. B 110, 115421] Published Mon Sep 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.115421",
+          "publishedOn": "2024-09-16T10:00:00.000Z",
+          "wordCount": 1002,
+          "title": "Linear magnetoelectric electro-optical effect",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.115421.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.034040",
+          "author": "G.Y. Thiancourt, S.M. Ngom, N. Bardou, and T. Devolder",
+          "description": "Author(s): G.Y. Thiancourt, S.M. Ngom, N. Bardou, and T. Devolder\nIn some magnetic materials, spin-wave dispersion relations vary monotonically across the Brillouin zone, allowing wave packets with zero momentum to flow unidirectionally, which points to high-frequency spintronic applications. To get there, though, it is crucial to develop methods that can link a spin wave’s properties to experimentally accessible metrics. To this end, the authors use propagating-spin-wave spectroscopy to precisely measure the dispersion of unidirectional spin waves. Their method identifies the wave vector at a particular frequency, which was a limiting factor in previous studies. This metrological approach is sure to impact the study of thin-film magnetism.\n\n[Phys. Rev. Applied 22, 034040] Published Mon Sep 16, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.034040",
+          "publishedOn": "2024-09-16T10:00:00.000Z",
+          "wordCount": 1140,
+          "title": "Unidirectional spin waves measured using propagating-spin-wave spectroscopy",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/PhysRevApplied.22.034040.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.094004",
           "author": "Palas Kumar Farsoiya, Stéphane Popinet, Howard A. Stone, and Luc Deike",
           "description": "Author(s): Palas Kumar Farsoiya, Stéphane Popinet, Howard A. Stone, and Luc Deike\nWe present an open-source Direct Numerical Simulation framework to analyze surfactant-laden flows. With adaptive mesh refinement and parallelization, this tool enables researchers to explore the effects of surfactants on interfacial flows, particularly their impact on rising bubbles. The simulations show that surfactants slow down bubbles and alter their trajectory. Such numerical frameworks on the solutal Marangoni effect are crucial for understanding and predicting the behavior of multiphase flows in natural and industrial processes.\n\n[Phys. Rev. Fluids 9, 094004] Published Fri Sep 13, 2024",
@@ -944,66 +1004,6 @@
           "wordCount": 1617,
           "title": "Electron-phonon interaction and band structure renormalization using Gaussian orbital basis sets",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.075145.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.L060410",
-          "author": "Jalil Varela-Manjarres, Ali Kefayati, M. Benjamin Jungfleisch, John Q. Xiao, and Branislav K. Nikolić",
-          "description": "Author(s): Jalil Varela-Manjarres, Ali Kefayati, M. Benjamin Jungfleisch, John Q. Xiao, and Branislav K. Nikolić\nThe authors predict here that nonperiodic magnetization dynamics in the field of ultrafast demagnetization, where a femtosecond laser pulse forces the magnetization vector to shrink without rotating, acts as the second (in addition to light itself) nonequilibrium drive on conduction electrons, leading to charge current pumping. The electromagnetic radiation by such pumped current contains proper spectral features at THz frequencies, as often observed experimentally but not fully understood microscopically. Since the time-dependent quantum transport formalism unraveling this effect also accounts for the well-known spin current pumping by periodic magnetization precession, the present study unifies, from a common microscopic viewpoint, such “low energy” effect with demagnetization dynamics as “higher energy” effect in spintronics.\n\n[Phys. Rev. B 110, L060410] Published Fri Aug 23, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L060410",
-          "publishedOn": "2024-08-23T10:00:00.000Z",
-          "wordCount": 1410,
-          "title": "Charge and spin current pumping by ultrafast demagnetization dynamics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.L060410.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.080201",
-          "author": "V. Vilasini and Renato Renner",
-          "description": "Author(s): V. Vilasini and Renato Renner\nIn order for quantum processes with indefinite causal order to be realized on a classical spacetime, the inputs and outputs cannot be localized in spacetime.\n\n[Phys. Rev. Lett. 133, 080201] Published Thu Aug 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.080201",
-          "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 1121,
-          "title": "Fundamental Limits for Realizing Quantum Processes in Spacetime",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.080201.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.110.024311",
-          "author": "O. Alvarez-Llamoza, M. G. Cosenza, J. C. Gonzalez-Avella, M. A. Suarez, K. Tucci, and P. Valverde",
-          "description": "Author(s): O. Alvarez-Llamoza, M. G. Cosenza, J. C. Gonzalez-Avella, M. A. Suarez, K. Tucci, and P. Valverde\nA mathematical model suggests that social groups can behave in unexpected ways when subjected to competing mass media.\n\n[Phys. Rev. E 110, 024311] Published Thu Aug 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.110.024311",
-          "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 1553,
-          "title": "Mass media competition and alternative ordering in social dynamics",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/PhysRevE.110.024311.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.064320",
-          "author": "Aranya Bhattacharya, Rathindra Nath Das, Bidyut Dey, and Johanna Erdmenger",
-          "description": "Author(s): Aranya Bhattacharya, Rathindra Nath Das, Bidyut Dey, and Johanna Erdmenger\nThis study investigates the behavior of wave functions in parity-time (𝒫𝒯) symmetric quantum systems, focusing on their spread and localization. Using a tight-binding chain model, the authors explore the dynamics under 𝒫𝒯 symmetry and its breaking. By employing innovative quantum information measures, such as complexity, entropy, and inverse participation ratio in Krylov space, they quantify the wave function’s distribution. In the 𝒫𝒯-symmetric phase, the wave function spreads evenly, while 𝒫𝒯 symmetry breaking leads to localization, exemplifying the non-Hermitian skin effect and edge modes.\n\n[Phys. Rev. B 110, 064320] Published Thu Aug 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.064320",
-          "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 1195,
-          "title": "Spread complexity and localization in $\\mathcal{PT}$-symmetric systems",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.064320.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.064424",
-          "author": "M. Usama Hasan and Geoffrey S. D. Beach",
-          "description": "Author(s): M. Usama Hasan and Geoffrey S. D. Beach\nUnderstanding how exchange bias (EB) –- an effect utilized in many spintronic devices – affects basic magnetization reversal processes like domain nucleation and propagation is important both fundamentally and practically. Here, the authors describe a way to disentangle the EB field for domain nucleation and propagation in thin films. They find that nucleation EB can be quite varied, in contrast to propagation EB, and the two can differ significantly. Among other consequences, this can lead to hysteresis loop asymmetry, a widely observed yet partially understood phenomenon.\n\n[Phys. Rev. B 110, 064424] Published Thu Aug 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.064424",
-          "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 1620,
-          "title": "Disentangling nucleation and propagation of magnetization reversal in exchange-biased thin films",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.064424.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.064425",
-          "author": "Ifeanyi John Onuorah, Jonathan Frassineti, Qiaochu Wang, Muhammad Maikudi Isah, Pietro Bonfà, Jeffrey G. Rau, J. A. Rodriguez-Rivera, A. I. Kolesnikov, Vesna F. Mitrović, Samuele Sanna, and Kemp W. Plumb",
-          "description": "Author(s): Ifeanyi John Onuorah, Jonathan Frassineti, Qiaochu Wang, Muhammad Maikudi Isah, Pietro Bonfà, Jeffrey G. Rau, J. A. Rodriguez-Rivera, A. I. Kolesnikov, Vesna F. Mitrović, Samuele Sanna, and Kemp W. Plumb\nHere, the authors use muon and neutron spectroscopies to establish the magnetic ground state of the candidate rare-earth Kitaev model compound Na2PrO3. They find that the magnetism is drastically modified from what is required to realize Kitaev physics, and that local atomic physics simultaneously contributes to a vanishing static moment and an intense two-magnon continuum. These findings demonstrate how two hallmarks of quantum fluctuations, a vanishing static magnetic moment and an intense continuum of magnetic excitations, can arise in the absence of magnetic frustration.\n\n[Phys. Rev. B 110, 064425] Published Thu Aug 22, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.064425",
-          "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 1419,
-          "title": "Unraveling the magnetic ground state in the alkali-metal lanthanide oxide ${\\mathrm{Na}}_{2}\\mathrm{Pr}{\\mathrm{O}}_{3}$",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/PhysRevB.110.064425.png"
         }
       ]
     }
