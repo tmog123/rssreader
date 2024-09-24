@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-23T01:00:10.030Z</id>
+    <id>urn:2024-09-24T01:00:22.259Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T01:00:10.030Z</updated>
+    <updated>2024-09-24T01:00:22.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eigenstate Localization in a Many-Body Quantum System]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.137101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.137101"/>
+        <updated>2024-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chao Yin, Rahul Nandkishore, and Andrew Lucas
+The existence of many-body localization is argued through a construction of a family of many-body quantum systems in which every low-energy eigenstate is localized.
+
+[Phys. Rev. Lett. 133, 137101] Published Mon Sep 23, 2024]]></summary>
+        <author>
+            <name>Chao Yin, Rahul Nandkishore, and Andrew Lucas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Scaling Law in Real Neuronal Networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.138401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.138401"/>
+        <updated>2024-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xin-Ya Zhang, Jack Murdoch Moore, Xiaolei Ru, and Gang Yan
+Researchers leverage synapse-level maps of the fruit fly brain to examine how neuronal connection probabilities vary with distance, offering insights into how these neuronal networks may optimize function within spatial constraints.
+
+[Phys. Rev. Lett. 133, 138401] Published Mon Sep 23, 2024]]></summary>
+        <author>
+            <name>Xin-Ya Zhang, Jack Murdoch Moore, Xiaolei Ru, and Gang Yan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Longitudinal optical phonons in photonic time crystals containing a stationary charge]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L100306</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L100306"/>
+        <updated>2024-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sihao Zhang, Junhua Dong, Huanan Li, Jingjun Xu, and Boris Shapiro
+Photonic time crystals (PTCs) enable exotic light-matter interactions but typically require significant modulation strength to open a wide momentum band gap, limiting their practical realization. Here, the authors demonstrate that a Lorentzian medium-based PTC with a stationary charge cannot only excite but also amplify longitudinal optical phonons, with a band gap spanning the entire momentum space. This infinite momentum band gap can be achieved with a minimal modulation depth, enriching time-varying photonics by incorporating the distinct wave characteristics of longitudinal excitations.
+
+[Phys. Rev. B 110, L100306] Published Mon Sep 23, 2024]]></summary>
+        <author>
+            <name>Sihao Zhang, Junhua Dong, Huanan Li, Jingjun Xu, and Boris Shapiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extended-Josephson-junction qubit system]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.032621</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.032621"/>
+        <updated>2024-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Andrey Grankin, Alicia J. Kollár, and Mohammad Hafezi
+The authors develop a theoretical framework for describing the light-matter interaction in extended Josephson junctions. They show that each such junction can host multiple plasmon modes, each encoding a qubit, and that it is possible to address each qubit mode individually with frequency-momentum-selective coupling, which could prove useful in future quantum simulation or computing applications.
+
+[Phys. Rev. A 110, 032621] Published Mon Sep 23, 2024]]></summary>
+        <author>
+            <name>Andrey Grankin, Alicia J. Kollár, and Mohammad Hafezi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential polarizability of the strontium intercombination transition at 1064.7 nm]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.032819</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.032819"/>
+        <updated>2024-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Romaric Journet, Félix Faisant, Sanghyeop Lee, and Marc Cheneau
+The authors present measurements of the scalar, vector, and tensor components of the differential dynamic polarizability of the strontium intercombination transition at 1064.7 nm, which is highly relevant for the engineering of optical trapping potentials. They also identify a magic ellipticity of the polarization where the differential polarizability vanishes.
+
+[Phys. Rev. A 110, 032819] Published Mon Sep 23, 2024]]></summary>
+        <author>
+            <name>Romaric Journet, Félix Faisant, Sanghyeop Lee, and Marc Cheneau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modeling when and how physics Ph.D. students search for a research group: The role of interests and prior research experiences in timely group integration]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020119</id>
@@ -422,6 +487,19 @@ The possible dynamical behaviors of a viral population interacting with host imm
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Signatures of Ultralight Bosons in the Orbital Eccentricity of Binary Black Holes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.121401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.121401"/>
+        <updated>2024-09-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mateja Bošković, Matthias Koschnitzke, and Rafael A. Porto
+Gravitational-wave signals from black hole mergers could reveal the presence of “gravitational atoms”—black holes surrounded by clouds of axions or other light bosons.
+
+[Phys. Rev. Lett. 133, 121401] Published Mon Sep 16, 2024]]></summary>
+        <author>
+            <name>Mateja Bošković, Matthias Koschnitzke, and Rafael A. Porto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Legacy of Boson Clouds on Black Hole Binaries]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.121402</id>
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.121402"/>
@@ -493,6 +571,7 @@ In some magnetic materials, spin-wave dispersion relations vary monotonically ac
         <updated>2024-09-13T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Yann Balland, Luc Absil, and Franck Pereira Dos Santos
 A quantum sensor with a sensitivity in the quectonewton range has probed the Casimir-Polder force in the micrometer range.
+
 [Phys. Rev. Lett. 133, 113403] Published Fri Sep 13, 2024]]></summary>
         <author>
             <name>Yann Balland, Luc Absil, and Franck Pereira Dos Santos</name>
@@ -1224,84 +1303,6 @@ By electrostatically tuning the strength and hierarchy of the inter-moiré inter
 [Phys. Rev. B 110, 115404] Published Tue Sep 03, 2024]]></summary>
         <author>
             <name>Wei Ren, Konstantin Davydov, Ziyan Zhu, Jaden Ma, Kenji Watanabe, Takashi Taniguchi, Efthimios Kaxiras, Mitchell Luskin, and Ke Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phonon thermal Hall effect in nonmagnetic ${\mathrm{Y}}_{2}{\mathrm{Ti}}_{2}{\mathrm{O}}_{7}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L100301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L100301"/>
-        <updated>2024-09-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Rohit Sharma, Martin Valldor, and Thomas Lorenz
-The authors report a field-linear thermal Hall effect in single-crystal samples of Y2Ti2O7, Dy2Ti2O7, and DyYTi2O7. The slopes κxy/B show temperature-dependent peaks that align with corresponding peaks in the respective longitudinal thermal conductivities κxx(T). This is consistent with a phononic thermal Hall effect, observed in a growing number of insulating materials. While the presence of magnetic Dy3+ ions significantly influences the longitudinal thermal conductivities, the thermal Hall ratios vary rather weakly between magnetic and nonmagnetic materials, suggesting a primarily nonmagnetic origin of the thermal Hall effect.
-
-[Phys. Rev. B 110, L100301] Published Tue Sep 03, 2024]]></summary>
-        <author>
-            <name>Rohit Sharma, Martin Valldor, and Thomas Lorenz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineering topology in graphene with chiral cavities]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L121101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L121101"/>
-        <updated>2024-09-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ceren B. Dag and Vasil Rokaj
-This work elucidates how the quantum nature of photons affects the topology of the correlated photoelectron hybrid wave function. The authors reveal a fundamental relation between the Berry phase and the properties of exchanged photons with matter at light-matter hybridization points in the Brillouin zone. Furthermore, the cavity-mediated electronic interactions in graphene valleys are analytically derived for the case where the material is subject to enhanced vacuum fluctuations in a chiral cavity.
-
-[Phys. Rev. B 110, L121101] Published Tue Sep 03, 2024]]></summary>
-        <author>
-            <name>Ceren B. Dag and Vasil Rokaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum repeater node with free-space coupled trapped ions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.032603</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.032603"/>
-        <updated>2024-09-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Max Bergerhoff, Omar Elshehy, Stephan Kucera, Matthias Kreis, and Jürgen Eschner
-Quantum repeater cells are crucial for overcoming loss in long-distance quantum networks. Here, the authors present a trapped-ion implementation of a quantum repeater cell, using two 40Ca+ ions that act as quantum memories and are coupled to free-space photonic channels. With this setup they are able to demonstrate asynchronous generation of atom-photon and photon-photon entanglement.
-
-[Phys. Rev. A 110, 032603] Published Tue Sep 03, 2024]]></summary>
-        <author>
-            <name>Max Bergerhoff, Omar Elshehy, Stephan Kucera, Matthias Kreis, and Jürgen Eschner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperdensity Functional Theory of Soft Matter]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.098201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.098201"/>
-        <updated>2024-08-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt
-A new scheme utilizing machine learning allows for the investigation of complex observables in spatially inhomogeneous many-body systems in a way not possible with conventional density functional theory.
-
-[Phys. Rev. Lett. 133, 098201] Published Fri Aug 30, 2024]]></summary>
-        <author>
-            <name>Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time-gated optical spectroscopy of field-effect-stimulated recombination via interfacial point defects in fully processed silicon carbide power MOSFETs]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.024075</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.024075"/>
-        <updated>2024-08-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Maximilian W. Feil, Magdalena Weger, Hans Reisinger, Thomas Aichinger, André Kabakow, Dominic Waldhör, Andreas C. Jakowetz, Sven Prigann, Gregor Pobegen, Wolfgang Gustin, Michael Waltl, Michel Bockstedte, and Tibor Grasser
-Silicon carbide MOSFETs are transforming power electronics by enabling higher switching frequencies and lower losses than their silicon-only counterparts. This study uses time-gated optical spectroscopy to investigate defect-assisted recombination in fully processed devices, specifically addressing their well-known hysteresis. The inquiry identifies a local vibrational mode with a very energy of 220 meV, indicating the presence of a carbon-cluster-like defect. This approach to characterizing interface states in MOSFETs reveals possibilities for enhancing device reliability and performance.
-
-[Phys. Rev. Applied 22, 024075] Published Fri Aug 30, 2024]]></summary>
-        <author>
-            <name>Maximilian W. Feil, Magdalena Weger, Hans Reisinger, Thomas Aichinger, André Kabakow, Dominic Waldhör, Andreas C. Jakowetz, Sven Prigann, Gregor Pobegen, Wolfgang Gustin, Michael Waltl, Michel Bockstedte, and Tibor Grasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High mobility charge transport in a multicarrier altermagnet CrSb]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.084412</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.084412"/>
-        <updated>2024-08-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Takahiro Urata, Wataru Hattori, and Hiroshi Ikuta
-Altermagnets are unconventional type of magnetic materials with intriguing properties. CrSb is particularly important because of its high ordering temperature and large spin-splitting energy. Here, the authors measured the magnetotransport properties of CrSb. Employing focused-ion-beam machining, they prepared micro-sized lamellar samples to measure all independent Hall tensor components. The Hall resistivity was highly non-linear at low temperatures, but an anomalous Hall effect was ruled out by symmetry-based considerations. Instead, the magnetotransport properties are well explained by a multicarrier effect. Notably, the analysis revealed the presence of carriers with the highest mobility reported for altermagnets so far.
-
-[Phys. Rev. Materials 8, 084412] Published Thu Aug 29, 2024]]></summary>
-        <author>
-            <name>Takahiro Urata, Wataru Hattori, and Hiroshi Ikuta</name>
         </author>
     </entry>
 </feed>
