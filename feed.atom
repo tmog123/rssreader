@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-30T01:02:10.571Z</id>
+    <id>urn:2024-10-01T01:05:46.928Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T01:02:10.571Z</updated>
+    <updated>2024-10-01T01:05:46.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Observation of Enhanced Long-Range Elliptic Anisotropies Inside High-Multiplicity Jets in $pp$ Collisions at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.142301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.142301"/>
+        <updated>2024-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Hayrapetyan et al. (CMS Collaboration)
+Any two particles within jets emitted from pp collisons that have more than 80 charged particle species are found to be more correlated than expected, suggesting an onset of collective behavior in small collision systems.
+
+[Phys. Rev. Lett. 133, 142301] Published Mon Sep 30, 2024]]></summary>
+        <author>
+            <name>A. Hayrapetyan &lt;em&gt;et al.&lt;/em&gt; (CMS Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thermal Melting of a Vortex Lattice in a Quasi Two-Dimensional Bose Gas]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.143401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.143401"/>
+        <updated>2024-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rishabh Sharma, David Rey, Laurent Longchambon, Aurélien Perrin, Hélène Perrin, and Romain Dubessy
+Observation of the melting of a vortex lattice in a quasi-two-dimensional Bose gas is consistent with a hexatic to liquid transition.
+
+[Phys. Rev. Lett. 133, 143401] Published Mon Sep 30, 2024]]></summary>
+        <author>
+            <name>Rishabh Sharma, David Rey, Laurent Longchambon, Aurélien Perrin, Hélène Perrin, and Romain Dubessy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidelines for accurate and efficient calculations of mobilities in two-dimensional semiconductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.125304</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.125304"/>
+        <updated>2024-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jiaqi Zhou, Samuel Poncé, and Jean-Christophe Charlier
+Reported carrier mobilities in two-dimensional materials predicted by ab initio calculations differ widely due to various approximations used in different studies, questioning the validity of the Boltzmann transport equation in monolayers. Here, the authors aim to settle the debate and study the impact of many computational choices and approximations, including pseudopotential, quadrupole correction, Berry connection, and spin-orbit coupling (SOC). Based on this, the authors propose a practical approach that balances high accuracy with computational efficiency.
+
+[Phys. Rev. B 110, 125304] Published Mon Sep 30, 2024]]></summary>
+        <author>
+            <name>Jiaqi Zhou, Samuel Poncé, and Jean-Christophe Charlier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Observation of New Charmonium or Charmoniumlike States in ${B}^{+}→{D}^{*±}{D}^{∓}{K}^{+}$ Decays]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.131902</id>
@@ -1264,45 +1303,6 @@ Magnetic frustration frequently leads to highly correlated spin fluctuations and
 [Phys. Rev. B 110, 094414] Published Mon Sep 09, 2024]]></summary>
         <author>
             <name>J. Sourd, Y. Skourski, L. Prodan, V. Tsurkan, A. Miyata, J. Wosnitza, and S. Zherlitsyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disentangling spin excitation continua in classical and quantum magnets using two-dimensional nonlinear spectroscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.104415</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.104415"/>
-        <updated>2024-09-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Emily Z. Zhang, Ciarán Hickey, and Yong Baek Kim
-Two-dimensional coherent spectroscopy (2DCS) has emerged as a powerful tool for probing nonlinear excitation dynamics in quantum magnets, overcoming the limitations of traditional inelastic neutron scattering as a linear probe. The authors use here classical molecular dynamics simulations to compare the 2DCS responses of various models with large Kitaev interactions, revealing distinct features between quantum spin liquids, classical spin liquids, and large unit cell magnetic orders. These findings underscore the potential for 2DCS in disentangling the complex dynamics of frustrated magnetic systems.
-
-[Phys. Rev. B 110, 104415] Published Mon Sep 09, 2024]]></summary>
-        <author>
-            <name>Emily Z. Zhang, Ciarán Hickey, and Yong Baek Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hofstadter spectrum of Chern bands in twisted transition metal dichalcogenides]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.115114</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.115114"/>
-        <updated>2024-09-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kryštof Kolář, Kang Yang, Felix von Oppen, and Christophe Mora
-Twisted transition metal dichalcogenide bilayers feature topological flat bands at zero magnetic field, allowing the experimental observation of integer and fractional quantum anomalous Hall effects. This work studies the band structures of these systems under externally applied magnetic fields, uncovering a fingerprint of the zero field topology in the Hofstadter spectra. In particular, it emerges that the Landau-level-like behavior at zero flux can be understood using the band structures at finite flux.
-
-[Phys. Rev. B 110, 115114] Published Mon Sep 09, 2024]]></summary>
-        <author>
-            <name>Kryštof Kolář, Kang Yang, Felix von Oppen, and Christophe Mora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scandium-based point defect in AlN for quantum information processing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.125116</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.125116"/>
-        <updated>2024-09-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kamil Czelej, Mark E. Turiansky, Sai Mu, and Chris G. Van de Walle
-Point defects in wide-band-gap semiconductors are leading qubit candidates for realizing quantum information processing. The authors investigate here the electronic structure and magneto-optical properties of scandium-related point defects in AlN, a material widely used in electronics and optoelectronics. The positively charged scandium−nitrogen-vacancy complex, which has a singlet ground state, exhibits a spin polarization cycle similar to the ST1 center in diamond, with long coherence time resulting from an electron spin being transferred to a nuclear spin, and large optically detected magnetic resonance readout contrast. These properties render the center promising for use as a quantum memory.
-
-[Phys. Rev. B 110, 125116] Published Mon Sep 09, 2024]]></summary>
-        <author>
-            <name>Kamil Czelej, Mark E. Turiansky, Sai Mu, and Chris G. Van de Walle</name>
         </author>
     </entry>
 </feed>
