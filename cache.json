@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.146002",
+          "author": "P. Puphal, P. Reiss, N. Enderlein, Y.-M. Wu, G. Khaliullin, V. Sundaramurthy, T. Priessnitz, M. Knauft, A. Suthar, L. Richter, M. Isobe, P. A. van Aken, H. Takagi, B. Keimer, Y. E. Suyolcu, B. Wehinger, P. Hansmann, and M. Hepting",
+          "description": "Author(s): P. Puphal, P. Reiss, N. Enderlein, Y.-M. Wu, G. Khaliullin, V. Sundaramurthy, T. Priessnitz, M. Knauft, A. Suthar, L. Richter, M. Isobe, P. A. van Aken, H. Takagi, B. Keimer, Y. E. Suyolcu, B. Wehinger, P. Hansmann, and M. Hepting\nUtilizing STEM, single-crystal x-ray diffraction, and density functional theory, the individual contributions of monolayer and trilayer structural units to electronic band structure in superconducting La3Ni2O7 are disentangled.\n\n[Phys. Rev. Lett. 133, 146002] Published Fri Oct 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.146002",
+          "publishedOn": "2024-10-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Unconventional Crystal Structure of the High-Pressure Superconductor ${\\mathrm{La}}_{3}{\\mathrm{Ni}}_{2}{\\mathrm{O}}_{7}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.134202",
+          "author": "Venkata Lokesh K. Y., Surajit Bera, and Sumilan Banerjee",
+          "description": "Author(s): Venkata Lokesh K. Y., Surajit Bera, and Sumilan Banerjee\nInformation scrambling may become enhanced for systems with many metastable configurations, such as glasses, when the complex dynamics samples the multitude of configurations. The authors study here the scrambling in chains of quantum dots, modeled via two paradigmatic spin glass models – Sachdev-Ye and p-spin glass – and show that the butterfly velocity characterizing scrambling is enhanced above the glass transition where the dynamics is maximally complex. However, the evolution of glassy complexity with quantum and thermal fluctuations in the two spin glasses is very different.\n\n[Phys. Rev. B 110, 134202] Published Fri Oct 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.134202",
+          "publishedOn": "2024-10-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Information scrambling and butterfly velocity in quantum spin glass chains",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.155408",
+          "author": "A. Zubayer, N. Ghafoor, K. A. Thorarinsdottir, A. Glavic, J. Stahn, G. Nagy, A. Vorobiev, F. Magnus, J. Birch, and F. Eriksson",
+          "description": "Author(s): A. Zubayer, N. Ghafoor, K. A. Thorarinsdottir, A. Glavic, J. Stahn, G. Nagy, A. Vorobiev, F. Magnus, J. Birch, and F. Eriksson\nThis study explores the use of Fe/11B4CTi multilayers for polarizing neutron optics, with a focus on tuning the scattering length density (SLD). Compared to the conventional Fe/Si systems, Fe/11B4CTi multilayers demonstrate enhanced reflectivity and polarization due to reduced interface width and optimized SLD matching and contrast. By adjusting the ratio of 11B4C and Ti, a wide range of SLD contrasts can be achieved, allowing for fine-tuning of polarization. These findings highlight the potential of SLD-tuned multilayers for advancing thin-film neutron optics applications.\n\n[Phys. Rev. B 110, 155408] Published Fri Oct 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.155408",
+          "publishedOn": "2024-10-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Increased neutron reflectivity and polarization of neutron-optical engineered $\\mathrm{Fe}/^{11}\\mathrm{B}_{4}\\mathrm{CTi}$ multilayer optics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.044013",
+          "author": "Michael G. Raymer, Clark Embleton, and Jeffrey H. Shapiro",
+          "description": "Author(s): Michael G. Raymer, Clark Embleton, and Jeffrey H. Shapiro\nIn 2004, L. M. Duan and H. J. Kimble proposed a way to load a single-photon polarization qubit into a quantum memory consisting of a four-state atom or color center that is strongly coupled to an optical cavity. That scheme has been widely studied and demonstrated, and is at the heart of a recent proposal (zero-added-loss multiplexing, ZALM) to increase the rate of entanglement distribution by multiplexing states of entangled photon pairs. The authors report an improved version of the Duan-Kimble scheme that simultaneously achieves high memory-loading fidelity and loading probability. They also rederive the underlying equations, to clear up a misconception in the literature.\n\n[Phys. Rev. Applied 22, 044013] Published Fri Oct 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.044013",
+          "publishedOn": "2024-10-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "The Duan-Kimble cavity-atom quantum memory loading scheme revisited",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.044014",
+          "author": "Jeffrey H. Shapiro, Michael G. Raymer, Clark Embleton, Franco N.C. Wong, and Brian J. Smith",
+          "description": "Author(s): Jeffrey H. Shapiro, Michael G. Raymer, Clark Embleton, Franco N.C. Wong, and Brian J. Smith\nZero-added-loss multiplexing (ZALM) promises to vastly increase entanglement-distribution rates, a critical necessity for the coming quantum Internet. This work investigates ZALM’s heralded source of entangled photon pairs and the loading of their entangled states into pairs of intracavity color-center quantum memories; it exposes ZALM’s trade-offs between distribution rate, heralding probability, heralding efficiency, and entangled-state fidelity. Surprisingly, even with ideal equipment there is a nonzero probability that an incorrect entangled state will be heralded. Perfect transfer of the entangled photonic state to memory is possible when the state is bandwidth-compressed.\n\n[Phys. Rev. Applied 22, 044014] Published Fri Oct 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.044014",
+          "publishedOn": "2024-10-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Entanglement source and quantum memory analysis for zero-added-loss multiplexing",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.L103001",
           "author": "Yechan Noh and Alex Smolyanitsky",
           "description": "Author(s): Yechan Noh and Alex Smolyanitsky\nAqueous ions permeate subnanoscale pores in two-dimensional materials by leaping local energy barriers, not through simple diffusion. Depending on the local ion-pore and ion-solvent interactions, seemingly non-intuitive behaviors can arise. The authors combine molecular dynamics simulations, quantum-chemical calculations, and kinetic theory to demonstrate that electrostatically driven flow of aqueous alkali cations through subnanoscale pores can be inactivated by stretching the two-dimensional membrane hosting the pores. More specifically, they show that potassium transport significantly decreases in response to moderate membrane strain, while sodium transport increases. This behavior is attributed to a clearly observed strain-induced repulsive-to-attractive transition in the ion-pore electrostatic interactions.\n\n[Phys. Rev. Materials 8, L103001] Published Thu Oct 03, 2024",
@@ -212,7 +262,7 @@
           "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.143401",
           "publishedOn": "2024-09-30T10:00:00.000Z",
           "wordCount": null,
-          "title": "Thermal Melting of a Vortex Lattice in a Quasi Two-Dimensional Bose Gas",
+          "title": "Thermal Melting of a Vortex Lattice in a Quasi-Two-Dimensional Bose Gas",
           "imageUrl": null
         },
         {
@@ -953,56 +1003,6 @@
           "publishedOn": "2024-09-13T10:00:00.000Z",
           "wordCount": null,
           "title": "Directional emission of a readout resonator for qubit measurement",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.030350",
-          "author": "Sandoko Kosen, Hang-Xi Li, Marcus Rommel, Robert Rehammar, Marco Caputo, Leif Grönberg, Jorge Fernández-Pendás, Anton Frisk Kockum, Janka Biznárová, Liangyu Chen, Christian Križan, Andreas Nylander, Amr Osman, Anita Fadavi Roudsari, Daryoush Shiri, Giovanna Tancredi, Joonas Govenius, and Jonas Bylander",
-          "description": "Author(s): Sandoko Kosen, Hang-Xi Li, Marcus Rommel, Robert Rehammar, Marco Caputo, Leif Grönberg, Jorge Fernández-Pendás, Anton Frisk Kockum, Janka Biznárová, Liangyu Chen, Christian Križan, Andreas Nylander, Amr Osman, Anita Fadavi Roudsari, Daryoush Shiri, Giovanna Tancredi, Joonas Govenius, and Jonas Bylander\nLow crosstalk levels are achieved in a superconducting quantum processor, indicating the potential of scaling up to larger numbers of qubits.\n\n[PRX Quantum 5, 030350] Published Thu Sep 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.5.030350",
-          "publishedOn": "2024-09-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Signal Crosstalk in a Flip-Chip Quantum Processor",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020115",
-          "author": "Justin A. Gutzwa, Ramón S. Barthelemy, Camila Amaral, Madison Swirtz, Adrienne Traxler, and Charles Henderson",
-          "description": "Author(s): Justin A. Gutzwa, Ramón S. Barthelemy, Camila Amaral, Madison Swirtz, Adrienne Traxler, and Charles Henderson\nA qualitative social network analysis of women and/or LGBT+ Ph.D.’s shows how direct support from peers, faculty, and identity-based affinity groups were necessary for minoritized physics students to navigate departmental exclusion.\n\n[Phys. Rev. Phys. Educ. Res. 20, 020115] Published Thu Sep 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020115",
-          "publishedOn": "2024-09-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "How women and lesbian, gay, bisexual, transgender, and queer physics doctoral students navigate graduate education: The roles of professional environments and social networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.110.L032601",
-          "author": "Florian Sammüller and Matthias Schmidt",
-          "description": "Author(s): Florian Sammüller and Matthias Schmidt\nClassical density functional theory deals with the properties of interacting many-body systems. The excess free energy functional is the key quantity in this approach. Leveraging pair-correlation matching and local learning, the authors arrive at a neural-network representation of the excess free energy.\n\n[Phys. Rev. E 110, L032601] Published Thu Sep 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.110.L032601",
-          "publishedOn": "2024-09-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Neural density functionals: Local learning and pair-correlation matching",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.115305",
-          "author": "Yixin Xu and Yanguang Zhou",
-          "description": "Author(s): Yixin Xu and Yanguang Zhou\nQuantifying elastic and inelastic phonon scattering at interfaces is critical for designing corresponding devices with desired thermal properties. However, a general metric for quickly characterizing the contributions to interfacial thermal conductance from elastic and inelastic phonon scattering processes is lacking. Here, the authors introduce a general metric based on the Kullback-Leibler divergence and interfacial anharmonic ratio to quickly assess the contributions to interfacial thermal conductance from elastic and inelastic phonon scattering.\n\n[Phys. Rev. B 110, 115305] Published Thu Sep 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.115305",
-          "publishedOn": "2024-09-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Metric for quantifying elastic and inelastic thermal transport at interfaces",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.115306",
-          "author": "Victor Lopez-Richard, Luiz A. Meneghetti, Jr., Gabriel L. Nogueira, Fabian Hartmann, and Carlos F. O. Graeff",
-          "description": "Author(s): Victor Lopez-Richard, Luiz A. Meneghetti, Jr., Gabriel L. Nogueira, Fabian Hartmann, and Carlos F. O. Graeff\nThis paper presents a unified framework for analyzing cyclic voltammetry and impedance spectroscopy in solar cells. By integrating diffusive transport and nonequilibrium carrier dynamics, the authors explain complex capacitive and inductive responses, offering analytical expressions for current-voltage behavior. The model predicts how external factors like bias and illumination impact impedance, extending beyond perovskites and memristors. This approach provides insights into the microscopic mechanisms of device performance, highlighting how external stimuli modulate charge transport in a wide range of photovoltaic technologies.\n\n[Phys. Rev. B 110, 115306] Published Thu Sep 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.115306",
-          "publishedOn": "2024-09-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Unified model for probing solar cell dynamics via cyclic voltammetry and impedance spectroscopy",
           "imageUrl": null
         }
       ]
