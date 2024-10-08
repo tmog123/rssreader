@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-07T01:02:04.529Z</id>
+    <id>urn:2024-10-08T00:59:50.430Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T01:02:04.529Z</updated>
+    <updated>2024-10-08T00:59:50.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A 25-micrometer Single-Photon-Sensitive Kinetic Inductance Detector]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.041005</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.041005"/>
+        <updated>2024-10-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Peter K. Day, Nicholas F. Cothard, Christopher Albert, Logan Foote, Elijah Kane, Byeong H. Eom, Ritoban Basu Thakur, Reinier M. J. Janssen, Andrew Beyer, Pierre M. Echternach, Sven van Berkel, Steven Hailey-Dunsheath, Thomas R. Stevenson, Shahab Dabironezare, Jochem J. A. Baselmans, Jason Glenn, C. Matt Bradford, and Henry G. Leduc
+An infrared detector is sensitive to a wide range of intensities and could potentially pick up biomarkers from exoplanet atmospheres.
+
+[Phys. Rev. X 14, 041005] Published Mon Oct 07, 2024]]></summary>
+        <author>
+            <name>Peter K. Day, Nicholas F. Cothard, Christopher Albert, Logan Foote, Elijah Kane, Byeong H. Eom, Ritoban Basu Thakur, Reinier M. J. Janssen, Andrew Beyer, Pierre M. Echternach, Sven van Berkel, Steven Hailey-Dunsheath, Thomas R. Stevenson, Shahab Dabironezare, Jochem J. A. Baselmans, Jason Glenn, C. Matt Bradford, and Henry G. Leduc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electrotaxis of Self-Propelling Artificial Swimmers in Microchannels]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.158301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.158301"/>
+        <updated>2024-10-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Carola M. Buness, Avi Rana, Corinna C. Maass, and Ranabir Dey
+Artificial active swimmers in microchannels exhibit a behavior similar to electrotaxis in response to electrical fields and pressure driven flow.
+
+[Phys. Rev. Lett. 133, 158301] Published Mon Oct 07, 2024]]></summary>
+        <author>
+            <name>Carola M. Buness, Avi Rana, Corinna C. Maass, and Ranabir Dey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuning Transduction from Hidden Observables to Optimize Information Harvesting]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.158401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.158401"/>
+        <updated>2024-10-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Giorgio Nicoletti and Daniel Maria Busiello
+Bacteria, cells, swarms, and other organisms pluck information from noisy environments with extraordinarily high precision.
+
+[Phys. Rev. Lett. 133, 158401] Published Mon Oct 07, 2024]]></summary>
+        <author>
+            <name>Giorgio Nicoletti and Daniel Maria Busiello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thermodynamic integration by statistically sampling ensembles of dynamically unstable solids without molecular dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.144104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.144104"/>
+        <updated>2024-10-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Junsoo Park, Zhigang Wu, and John W. Lawson
+The anharmonic free energy of dynamically unstable systems can be accurately calculated by thermodynamic integration, if the configurational ensemble obeying the true potential is obtained. This usually requires computationally costly ab initio molecular dynamics (AIMD). The authors present here a way to accomplish this by direct statistical sampling of ensembles using interatomic force constants and without MD. Phase transition temperatures of binary shape-memory alloys are predicted to within 25% error at a speed-up of about three orders of magnitude over AIMD.
+
+[Phys. Rev. B 110, 144104] Published Mon Oct 07, 2024]]></summary>
+        <author>
+            <name>Junsoo Park, Zhigang Wu, and John W. Lawson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symmetry-enforced Fermi surface degeneracies observed in the purported time-reversal symmetry-broken superconductor ${\mathrm{LaNiGa}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.165115</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.165115"/>
+        <updated>2024-10-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Matthew Staab, Robert Prater, Sudheer Sreedhar, Journey Byland, Eliana Mann, Davis Zackaria, Yunshu Shi, Henry J. Bowman, Andrew L. Stephens, Myung-Chul Jung, Antia S. Botana, Warren E. Pickett, Valentin Taufour, and Inna Vishik
+Cleaved single crystals, including along the thin edge, have enabled measurement of the full electronic structure of the purported time-reversal symmetry-broken superconductor LaNiGa2. These data support the nonsymmorphic symmetry-enforced degeneracy, predicted across an entire face of the Brillouin zone. Two topological Dirac points are not lifted by spin-orbit coupling and are analogous to the two graphene valleys, except that they are pinned at the Fermi level. These features, as well as near-degeneracies throughout the band structure, may assist in determining the character of pairing in this unique superconductor.
+
+[Phys. Rev. B 110, 165115] Published Mon Oct 07, 2024]]></summary>
+        <author>
+            <name>Matthew Staab, Robert Prater, Sudheer Sreedhar, Journey Byland, Eliana Mann, Davis Zackaria, Yunshu Shi, Henry J. Bowman, Andrew L. Stephens, Myung-Chul Jung, Antia S. Botana, Warren E. Pickett, Valentin Taufour, and Inna Vishik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unconventional Crystal Structure of the High-Pressure Superconductor ${\mathrm{La}}_{3}{\mathrm{Ni}}_{2}{\mathrm{O}}_{7}$]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.146002</id>
@@ -63,7 +128,7 @@ In 2004, L. M. Duan and H. J. Kimble proposed a way to load a single-photon pola
         <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.044014"/>
         <updated>2024-10-04T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Jeffrey H. Shapiro, Michael G. Raymer, Clark Embleton, Franco N.C. Wong, and Brian J. Smith
-Zero-added-loss multiplexing (ZALM) promises to vastly increase entanglement-distribution rates, a critical necessity for the coming quantum Internet. This work investigates ZALM’s heralded source of entangled photon pairs and the loading of their entangled states into pairs of intracavity color-center quantum memories; it exposes ZALM’s trade-offs between distribution rate, heralding probability, heralding efficiency, and entangled-state fidelity. Surprisingly, even with ideal equipment there is a nonzero probability that an incorrect entangled state will be heralded. Perfect transfer of the entangled photonic state to memory is possible when the state is bandwidth-compressed.
+Zero-added-loss multiplexing (ZALM) promises to vastly increase entanglement-distribution rates, a critical necessity for the coming quantum Internet. This work investigates ZALM’s heralded source of entangled photon pairs and the loading of their entangled states into pairs of intracavity color-center quantum memories; it exposes ZALM’s trade-offs between distribution rate, heralding probability, heralding efficiency, and entangled-state fidelity. Surprisingly, even with ideal equipment there is a nonzero probability that an incorrect entangled state will be heralded. Perfect transfer of the entangled photonic state to memory is possible when the state is sufficiently bandwidth-compressed.
 
 [Phys. Rev. Applied 22, 044014] Published Fri Oct 04, 2024]]></summary>
         <author>
@@ -1238,71 +1303,6 @@ A quantum sensor with a sensitivity in the quectonewton range has probed the Cas
 [Phys. Rev. Lett. 133, 113403] Published Fri Sep 13, 2024]]></summary>
         <author>
             <name>Yann Balland, Luc Absil, and Franck Pereira Dos Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coupled volume of fluid and phase field method for direct numerical simulation of insoluble surfactant-laden interfacial flows and application to rising bubbles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.094004</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.094004"/>
-        <updated>2024-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Palas Kumar Farsoiya, Stéphane Popinet, Howard A. Stone, and Luc Deike
-We present an open-source Direct Numerical Simulation framework to analyze surfactant-laden flows. With adaptive mesh refinement and parallelization, this tool enables researchers to explore the effects of surfactants on interfacial flows, particularly their impact on rising bubbles. The simulations show that surfactants slow down bubbles and alter their trajectory. Such numerical frameworks on the solutal Marangoni effect are crucial for understanding and predicting the behavior of multiphase flows in natural and industrial processes.
-
-[Phys. Rev. Fluids 9, 094004] Published Fri Sep 13, 2024]]></summary>
-        <author>
-            <name>Palas Kumar Farsoiya, Stéphane Popinet, Howard A. Stone, and Luc Deike</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast generation of spectrally shaped disorder]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.110.034122</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.110.034122"/>
-        <updated>2024-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Aaron Shih, Mathias Casiulis, and Stefano Martiniani
-Systems with correlated disorder can display unusual optical properties, but it is a challenge to design such structures with desired long-range correlations. The authors introduce an efficient algorithm for generating correlated disordered structures with arbitrary spectral properties.
-
-[Phys. Rev. E 110, 034122] Published Fri Sep 13, 2024]]></summary>
-        <author>
-            <name>Aaron Shih, Mathias Casiulis, and Stefano Martiniani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiral Stoner magnetism in Dirac bands]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.104420</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.104420"/>
-        <updated>2024-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zhiyu Dong and Leonid Levitov
-Stoner magnetism in bands with Berry curvature features a coupling between spin chirality density and Berry’s orbital magnetism, arising without microscopic spin-orbital interactions. Carriers moving in a spin texture perceive it as a geometric magnetic field coupled to their orbital motion through a spin-dependent gauge field. This emergent spin-orbital interaction, previously predicted to enable chiral magnons at system boundaries, also favors chiral spin textures such as skyrmions – topologically protected, particle-like objects stabilized in the ground state.
-
-[Phys. Rev. B 110, 104420] Published Fri Sep 13, 2024]]></summary>
-        <author>
-            <name>Zhiyu Dong and Leonid Levitov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terahertz and gigahertz magnetoratchets in graphene-based two-dimensional metamaterials]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.125303</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.125303"/>
-        <updated>2024-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Hild, E. Mönch, L. E. Golub, I. A. Dmitriev, I. Yahniuk, K. Amann, J. Amann, J. Eroms, J. Wunderlich, D. Weiss, C. Consejo, C. Bray, K. Maussang, F. Teppe, J. Gumenjuk-Sichevska, K. Watanabe, T. Taniguchi, and S. D. Ganichev
-Here, the authors study the ratchet effect – the conversion of alternating fields in the terahertz and gigahertz range into direct current – using a 2D metamaterial formed by monolayer graphene and a nearby gate with an array of triangular holes. A combined experimental and theoretical study shows that application of magnetic field leads to giant enhancement of the ratchet current and emergence of quantum magneto-oscillations, also featuring a complex Fano shape of the cyclotron resonance and well-pronounced electron spin resonance.
-
-[Phys. Rev. B 110, 125303] Published Fri Sep 13, 2024]]></summary>
-        <author>
-            <name>M. Hild, E. Mönch, L. E. Golub, I. A. Dmitriev, I. Yahniuk, K. Amann, J. Amann, J. Eroms, J. Wunderlich, D. Weiss, C. Consejo, C. Bray, K. Maussang, F. Teppe, J. Gumenjuk-Sichevska, K. Watanabe, T. Taniguchi, and S. D. Ganichev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Directional emission of a readout resonator for qubit measurement]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.034035</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.034035"/>
-        <updated>2024-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alec Yen, Yufeng Ye, Kaidong Peng, Jennifer Wang, Gregory Cunningham, Michael Gingras, Bethany M. Niedzielski, Hannah Stickler, Kyle Serniak, Mollie E. Schwartz, and Kevin P. O’Brien
-Robust and scalable multiplexed qubit readout is essential for realizing a fault-tolerant quantum computer. Conventional approaches rely on intentional mismatch of the feedline to provide directionality to the readout signal, at the cost of increased variation in resonator linewidth, which ultimately degrades quantum error correction. The authors address this challenge by demonstrating high-fidelity qubit readout using a readout resonator that emits photons preferentially toward the output, across its full bandwidth. By maintaining directional decay of the readout signal without intentional mismatch, this work presents a path toward the design of reliable, modular quantum processors.
-
-[Phys. Rev. Applied 22, 034035] Published Fri Sep 13, 2024]]></summary>
-        <author>
-            <name>Alec Yen, Yufeng Ye, Kaidong Peng, Jennifer Wang, Gregory Cunningham, Michael Gingras, Bethany M. Niedzielski, Hannah Stickler, Kyle Serniak, Mollie E. Schwartz, and Kevin P. O’Brien</name>
         </author>
     </entry>
 </feed>
