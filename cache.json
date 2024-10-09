@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.155101",
+          "author": "M. R. Edwards, N. M. Fasano, A. M. Giakas, M. M. Wang, J. Griff-McMahon, A. Morozov, V. M. Perez-Ramirez, N. Lemos, P. Michel, and J. M. Mikhailova",
+          "description": "Author(s): M. R. Edwards, N. M. Fasano, A. M. Giakas, M. M. Wang, J. Griff-McMahon, A. Morozov, V. M. Perez-Ramirez, N. Lemos, P. Michel, and J. M. Mikhailova\nWhen two laser beams converge on a volume of gas, their interference creates a diffraction grating made of plasma that can divert and shape a third beam.\n\n[Phys. Rev. Lett. 133, 155101] Published Tue Oct 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.155101",
+          "publishedOn": "2024-10-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Greater than Five-Order-of-Magnitude Postcompression Temporal Contrast Improvement with an Ionization Plasma Grating",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.156702",
+          "author": "Zheyuan Liu, Makoto Ozeki, Shinichiro Asai, Shinichi Itoh, and Takatsugu Masuda",
+          "description": "Author(s): Zheyuan Liu, Makoto Ozeki, Shinichiro Asai, Shinichi Itoh, and Takatsugu Masuda\nInelastic neutron scattering on MnTe shows evidence for altermagnetic magnon chiral splitting.\n\n[Phys. Rev. Lett. 133, 156702] Published Tue Oct 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.156702",
+          "publishedOn": "2024-10-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Chiral Split Magnon in Altermagnetic MnTe",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.110.086011",
+          "author": "Jan M. Pawlowski and Jan Tränkle",
+          "description": "Author(s): Jan M. Pawlowski and Jan Tränkle\nThe authors derive black hole solutions to the quantum equations of motions (e.o.m.) in the framework of asymptotically safe gravity, which is based on the functional renormalization group approach to quantum gravity, After deriving the quantum effective action from multigraviton correlation functions with full momentum dependence and solving numerically the resulting quantum e.o.m., they identify significant quantum gravity effects around the event horizon, a priory considered a very “classical” region of gravity.\n\n[Phys. Rev. D 110, 086011] Published Tue Oct 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.110.086011",
+          "publishedOn": "2024-10-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Effective action and black hole solutions in asymptotically safe quantum gravity",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.144412",
+          "author": "Mercè Roig, Andreas Kreisel, Yue Yu, Brian M. Andersen, and Daniel F. Agterberg",
+          "description": "Author(s): Mercè Roig, Andreas Kreisel, Yue Yu, Brian M. Andersen, and Daniel F. Agterberg\nAltermagnets feature vanishing net magnetization, similar to antiferromagnets, but exhibit time-reversal symmetry breaking and spin-split band structures. This work constructs minimal models for altermagnetism based on symmetry arguments considering two magnetic atoms in the unit cell and demonstrates that these can capture key properties of the band structure and altermagnetic spin splitting for the material candidate RuO2. Notably, the models have altermagnetic ground states and give rise to a Berry curvature and a conductivity linear in the spin-orbit coupling.\n\n[Phys. Rev. B 110, 144412] Published Tue Oct 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.144412",
+          "publishedOn": "2024-10-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Minimal models for altermagnetism",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.041005",
           "author": "Peter K. Day, Nicholas F. Cothard, Christopher Albert, Logan Foote, Elijah Kane, Byeong H. Eom, Ritoban Basu Thakur, Reinier M. J. Janssen, Andrew Beyer, Pierre M. Echternach, Sven van Berkel, Steven Hailey-Dunsheath, Thomas R. Stevenson, Shahab Dabironezare, Jochem J. A. Baselmans, Jason Glenn, C. Matt Bradford, and Henry G. Leduc",
           "description": "Author(s): Peter K. Day, Nicholas F. Cothard, Christopher Albert, Logan Foote, Elijah Kane, Byeong H. Eom, Ritoban Basu Thakur, Reinier M. J. Janssen, Andrew Beyer, Pierre M. Echternach, Sven van Berkel, Steven Hailey-Dunsheath, Thomas R. Stevenson, Shahab Dabironezare, Jochem J. A. Baselmans, Jason Glenn, C. Matt Bradford, and Henry G. Leduc\nAn infrared detector is sensitive to a wide range of intensities and could potentially pick up biomarkers from exoplanet atmospheres.\n\n[Phys. Rev. X 14, 041005] Published Mon Oct 07, 2024",
@@ -963,46 +1003,6 @@
           "publishedOn": "2024-09-16T10:00:00.000Z",
           "wordCount": null,
           "title": "Resonant history of gravitational atoms in black hole binaries",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.110.L031601",
-          "author": "Rui Wang, Stefano Burrello, Maria Colonna, and Francesco Matera",
-          "description": "Author(s): Rui Wang, Stefano Burrello, Maria Colonna, and Francesco Matera\nThe treatment of particle correlations and the description of clusters in the nuclear medium are important aspects that need to be better understood in the theoretical description of nuclear matter and the simulation of heavy-ion collisions. The authors propose a novel treatment of clustering for transport calculations based on a mechanism that suppresses cluster formation due to the Pauli principle via a medium-dependent cutoff in the momentum distribution of the clusters. The impact of clusters on the dynamics of unstable nuclear matter is clearly seen, and a `distillation’ mechanism is observed that affects the distribution of clusters between the low- and high-density regions. Although the approach has room for improvements, it captures the essential physics, and promises to have an impact on the further development of the field.\n\n[Phys. Rev. C 110, L031601] Published Mon Sep 16, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.110.L031601",
-          "publishedOn": "2024-09-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dynamics of dilute nuclear matter with light clusters and in-medium effects",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.115421",
-          "author": "D. J. P. de Sousa, C. O. Ascencio, and Tony Low",
-          "description": "Author(s): D. J. P. de Sousa, C. O. Ascencio, and Tony Low\nBerry curvature and the magnetic moment of Bloch electrons in quantum materials yield unexpected electro-optical effects. Here, the authors derive a generalized constitutive relation for current response in electrically biased systems using semiclassical Boltzmann theory. They uncover a magnetoelectric electro-optical effect requiring broken time-reversal or inversion symmetry. This work reveals how Berry curvature and magnetic moment textures in Bloch bands can lead to unique electromagnetic signatures, potentially enabling new ways to manipulate light in quantum materials.\n\n[Phys. Rev. B 110, 115421] Published Mon Sep 16, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.115421",
-          "publishedOn": "2024-09-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Linear magnetoelectric electro-optical effect",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.034040",
-          "author": "G.Y. Thiancourt, S.M. Ngom, N. Bardou, and T. Devolder",
-          "description": "Author(s): G.Y. Thiancourt, S.M. Ngom, N. Bardou, and T. Devolder\nIn some magnetic materials, spin-wave dispersion relations vary monotonically across the Brillouin zone, allowing wave packets with zero momentum to flow unidirectionally, which points to high-frequency spintronic applications. To get there, though, it is crucial to develop methods that can link a spin wave’s properties to experimentally accessible metrics. To this end, the authors use propagating-spin-wave spectroscopy to precisely measure the dispersion of unidirectional spin waves. Their method identifies the wave vector at a particular frequency, which was a limiting factor in previous studies. This metrological approach is sure to impact the study of thin-film magnetism.\n\n[Phys. Rev. Applied 22, 034040] Published Mon Sep 16, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.034040",
-          "publishedOn": "2024-09-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Unidirectional spin waves measured using propagating-spin-wave spectroscopy",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.113403",
-          "author": "Yann Balland, Luc Absil, and Franck Pereira Dos Santos",
-          "description": "Author(s): Yann Balland, Luc Absil, and Franck Pereira Dos Santos\nA quantum sensor with a sensitivity in the quectonewton range has probed the Casimir-Polder force in the micrometer range.\n\n[Phys. Rev. Lett. 133, 113403] Published Fri Sep 13, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.113403",
-          "publishedOn": "2024-09-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quectonewton Local Force Sensor",
           "imageUrl": null
         }
       ]
