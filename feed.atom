@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-22T01:01:21.691Z</id>
+    <id>urn:2024-10-23T01:00:01.632Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T01:01:21.691Z</updated>
+    <updated>2024-10-23T01:00:01.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pair-Density-Wave Superconductivity: A Microscopic Model on the 2D Honeycomb Lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.176501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.176501"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yi-Fan Jiang and Hong Yao
+A pair density wave state can be realized in a minimal model of spinless fermions on a honeycomb lattice with nearest-neighbor and next-nearest-neighbor interaction.
+
+[Phys. Rev. Lett. 133, 176501] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>Yi-Fan Jiang and Hong Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatio-temporal instabilities of blood flow in a model capillary network]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.104401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.104401"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mathieu Alonzo, Nathaniel J. Karst, Thomas Podgorski, John B. Geddes, and Gwennou Coupier
+The blood microcirculatory network is where nutrients, respiratory gases, and metabolic waste products are exchanged with the neighboring cells. Here, these components can take unexpected routes to get from one point to another. Whereas a simple fluid would follow the most direct route, we show in our in vitro experiments that red blood cells, which are responsible for oxygenating the body, can intermittently take side routes and remain in the network longer than expected. These observations, backed up by associated modeling, raise new questions regarding hypoxia mechanisms in organs, even under apparently healthy conditions.
+
+[Phys. Rev. Fluids 9, 104401] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>Mathieu Alonzo, Nathaniel J. Karst, Thomas Podgorski, John B. Geddes, and Gwennou Coupier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Point-cloud clustering and tracking algorithm for radar interferometry]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.110.045207</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.110.045207"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Magnus F. Ivarsen, Jean-Pierre St-Maurice, Glenn C. Hussey, Devin R. Huyghebaert, and Megan D. Gillies
+Applying data mining tools to a rich observational dataset has enabled researchers to track the turbulent plasma clouds that accompany the aurora.
+
+[Phys. Rev. E 110, 045207] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>Magnus F. Ivarsen, Jean-Pierre St-Maurice, Glenn C. Hussey, Devin R. Huyghebaert, and Megan D. Gillies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Versatile braiding of non-Hermitian topological edge states]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.134317</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.134317"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bofeng Zhu, Qiang Wang, You Wang, Qi Jie Wang, and Y. D. Chong
+The mathematical concept of braiding describes how string-like objects can be interwoven, including topologically distinct “links” and “knots”. A physical setting for realizing braids is the complex energy levels of non-Hermitian systems. The authors introduce here a route to generating energy braids, using topological edge states of non-Hermitian lattices. The model hosts braids like Solomon links and [n]-catenanes, which have not yet been observed physically. The model is experimentally feasible, requiring only a lattice with local gain and loss, without nonreciprocal coupling.
+
+[Phys. Rev. B 110, 134317] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>Bofeng Zhu, Qiang Wang, You Wang, Qi Jie Wang, and Y. D. Chong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probing the Berezinskii-Kosterlitz-Thouless vortex unbinding transition in two-dimensional superconductors using local noise magnetometry]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.144518</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.144518"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jonathan B. Curtis, Nikola Maksimovic, Nicholas R. Poniatowski, Amir Yacoby, Bertrand Halperin, Prineha Narang, and Eugene Demler
+Understanding the dynamics of vortices in superconductors is crucial in two dimensions, since these materials are expected to undergo a topological Berezinskii-Kosterlitz-Thouless (BKT) phase transition. It has remained challenging, however, to directly fingerprint this transition and the associated vortex dynamics. Here, the authors show that spin qubit noise magnetometry can potentially detect signatures of the BKT transition via its impact on the magnetic flux noise emanating from the sample as a function of frequency, temperature, and distance.
+
+[Phys. Rev. B 110, 144518] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>Jonathan B. Curtis, Nikola Maksimovic, Nicholas R. Poniatowski, Amir Yacoby, Bertrand Halperin, Prineha Narang, and Eugene Demler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thermal crossover from a Chern insulator to a fractional Chern insulator in pentalayer graphene]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.155148</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.155148"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sankar Das Sarma and Ming Xie
+A recent experiment in pentalayer graphene/hBN moiré superlattices uncovered a surprising new phase, with integer quantization at fractional fillings, emerging at lower temperatures than the previously observed FQAHE states. Through theoretical analysis of the transport data, the authors establish here that this low-temperature phase is likely a disorder-induced localized insulating phase, and that the transition between this phase and the higher temperature FQAHE phase is a crossover phenomenon driven by the competition between interaction and disorder energy scales.
+
+[Phys. Rev. B 110, 155148] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>Sankar Das Sarma and Ming Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical proof of the topological entanglement entropy inequality]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.165154</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.165154"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Michael Levin
+It is generally believed that two-dimensional gapped phases of matter with anyon excitations have a special pattern of entanglement in their ground-state wave function. Recently, this intuition was formalized by a universal inequality relating the topological entanglement entropy of a gapped ground state to the total quantum dimension of its anyon excitations. This paper presents an alternative, more direct proof of this inequality.
+
+[Phys. Rev. B 110, 165154] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>Michael Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transport through a lattice with local loss: From quantum dots to lattice gases]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.043317</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.043317"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. R. Anglin
+The author studies the quantum-gas realization of the fermion transport problem through a finite one-dimensional lattice of quantum dots, with localized particle loss from the central lattice site. The author shows that this model represents one limiting case of a larger class of models that can be realized with cold quantum gases in optical lattices.
+
+[Phys. Rev. A 110, 043317] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>J. R. Anglin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum optimal control robust to $1/{f}^{α}$ noises using fractional calculus: Voltage-controlled exchange in semiconductor spin qubits]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.L040602</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.L040602"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bohdan Khromets and Jonathan Baugh
+The authors combine fractional calculus with optimization methods to design control signals that enhance the performance of quantum systems in noisy environments. They focus on identifying the ideal pulse characteristics to minimize the disruptive effects of electrical noise on exchange gates for semiconductor spin qubits.
+
+[Phys. Rev. A 110, L040602] Published Tue Oct 22, 2024]]></summary>
+        <author>
+            <name>Bohdan Khromets and Jonathan Baugh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the potential of resonance islands and bent crystals for a slow extraction from circular hadron accelerators]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042018</id>
@@ -1186,123 +1303,6 @@ The triangular lattice S=½ antiferromagnet κ-(BEDT-TTF)2Cu2(CN)3, found on the
 [Phys. Rev. B 110, 165105] Published Wed Oct 02, 2024]]></summary>
         <author>
             <name>Jesse Liebman, Kazuya Miyagawa, Kazushi Kanoda, and Natalia Drichko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measurement-induced phase transitions in systems with diffusive dynamics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L140301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L140301"/>
-        <updated>2024-10-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hyunsoo Ha, Akshat Pandey, Sarang Gopalakrishnan, and David A. Huse
-The universality class of the measurement-induced phase transition changes significantly when a diffusing conserved density is present. The authors analytically show here the impact of diffusive correlations, supported by numerical results from a new model that couples conserved densities into Clifford circuits through projective measurements. Rare-region effects away from the critical point are also explored. This result extends to monitored circuits with U(1) symmetry.
-
-[Phys. Rev. B 110, L140301] Published Wed Oct 02, 2024]]></summary>
-        <author>
-            <name>Hyunsoo Ha, Akshat Pandey, Sarang Gopalakrishnan, and David A. Huse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signatures of a quantum critical endpoint in the Kitaev candidate ${\mathrm{Na}}_{2}{\mathrm{Co}}_{2}{\mathrm{TeO}}_{6}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L140402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L140402"/>
-        <updated>2024-10-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): J. Arneth, K.-Y. Choi, R. Kalaivanan, R. Sankar, and R. Klingeler
-The Kitaev candidate material Na2Co2TeO6 has been recently proposed to undergo a discontinuous order-disorder transition into a quantum spin liquid like state when a magnetic field BC∼6T is applied along the nearest-neighbor Co-Co-bonds. In this PRB Letter, high-resolution dilatometry studies uncover signatures of a quantum critical endpoint (QCEP) near BC by showing that the magnetic Grüneisen parameter changes its sign at the critical field.The presented results expand the class of materials exhibiting a QCEP to honeycomb antiferromagnets with possibly Kitaev-like interactions.
-
-[Phys. Rev. B 110, L140402] Published Wed Oct 02, 2024]]></summary>
-        <author>
-            <name>J. Arneth, K.-Y. Choi, R. Kalaivanan, R. Sankar, and R. Klingeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced magnetization by defect-assisted exciton recombination in atomically thin ${\mathrm{CrCl}}_{3}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.104402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.104402"/>
-        <updated>2024-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xin-Yue Zhang, Thomas K. M. Graham, Hyeonhu Bae, Yu-Xuan Wang, Nazar Delegan, Jonghoon Ahn, Zhi-Cheng Wang, Jakub Regner, Kenji Watanabe, Takashi Taniguchi, Minkyung Jung, Zdeněk Sofer, Fazel Tafti, David D. Awschalom, F. Joseph Heremans, Binghai Yan, and Brian B. Zhou
-Optically controlled magnetism offers prospects for high efficiency information processing, but such investigations are often restricted to magnets with special readout properties. Here, the authors utilize nitrogen-vacancy (NV) center magnetometry to directly image the transient, photoinduced stray fields in a material proximal to the NV center. They discover that the antiferromagnetic layer magnetization in atomically thin CrCl3 is enhanced by exciton pumping, which they attribute to a charge transfer between water-related surface adsorbates and the spin-polarized conduction band during nonradiative exciton recombination. Their work demonstrates how defects can enhance 2D magnetism and broadens the study of photoinduced magnetic effects.
-
-[Phys. Rev. Materials 8, 104402] Published Tue Oct 01, 2024]]></summary>
-        <author>
-            <name>Xin-Yue Zhang, Thomas K. M. Graham, Hyeonhu Bae, Yu-Xuan Wang, Nazar Delegan, Jonghoon Ahn, Zhi-Cheng Wang, Jakub Regner, Kenji Watanabe, Takashi Taniguchi, Minkyung Jung, Zdeněk Sofer, Fazel Tafti, David D. Awschalom, F. Joseph Heremans, Binghai Yan, and Brian B. Zhou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unconventional Discontinuous Transitions in Isospin Systems]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.146501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.146501"/>
-        <updated>2024-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zachary M. Raines, Leonid I. Glazman, and Andrey V. Chubukov
-Fractional metal states arising from spin and valley polarization can be understood using an analytic treatment similar to the conventional analysis of the Stoner ferromagnet.
-
-[Phys. Rev. Lett. 133, 146501] Published Tue Oct 01, 2024]]></summary>
-        <author>
-            <name>Zachary M. Raines, Leonid I. Glazman, and Andrey V. Chubukov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excitation of the Gyrotropic Mode in a Magnetic Vortex by Time-Varying Strain]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.146701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.146701"/>
-        <updated>2024-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Vadym Iurchuk, Jürgen Lindner, Jürgen Fassbender, and Attila Kákay
-Imposing time-dependent strain on a magnetic disk induces vortex dynamics and offers a path toward energy-efficient spintronic devices.
-
-[Phys. Rev. Lett. 133, 146701] Published Tue Oct 01, 2024]]></summary>
-        <author>
-            <name>Vadym Iurchuk, Jürgen Lindner, Jürgen Fassbender, and Attila Kákay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unconventional discontinuous transitions in a two-dimensional system with spin and valley degrees of freedom]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.155402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.155402"/>
-        <updated>2024-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zachary M. Raines, Leonid I. Glazman, and Andrey V. Chubukov
-Many interesting quasi-two-dimensional materials host effectively conserved low-energy spin and valley isospin degrees of freedom. In a number of these systems isospin symmetry is broken by a cascade of transitions into fractional metal states, where some number of isospin species are spontaneously depleted. Here, the authors study itinerant isospin symmetry breaking transitions in multivalley system, showing that for a range of parameters there is naturally such a cascade of strongly first-order transitions coinciding with a large enhancement of the associated isospin susceptibilities.
-
-[Phys. Rev. B 110, 155402] Published Tue Oct 01, 2024]]></summary>
-        <author>
-            <name>Zachary M. Raines, Leonid I. Glazman, and Andrey V. Chubukov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paired fermions in strong magnetic fields and daughters of even-denominator Hall plateaus]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.165402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.165402"/>
-        <updated>2024-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Misha Yutushui, Maria Hermanns, and David F. Mross
-The vision of realizing and controlling non-Abelian particles is a major driving force in quantum many-body physics, with possible applications in quantum technology. Recent experiments have observed “daughter states” near putative non-Abelian fractional quantum Hall states, suggesting a close relationship. Here, the authors identify these daughters as integer quantum Hall states of composite-fermion pairs and develop their theory. Crucially, the daughter state filling factors are directly related to the parent non-Abelian topological orders, providing a shortcut for measuring the latter.
-
-[Phys. Rev. B 110, 165402] Published Tue Oct 01, 2024]]></summary>
-        <author>
-            <name>Misha Yutushui, Maria Hermanns, and David F. Mross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing membrane-based scanning force microscopy through an optical cavity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.044001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.044001"/>
-        <updated>2024-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Thomas Gisler, David Hälg, Vincent Dumont, Shobhna Misra, Letizia Catalini, Eric C. Langman, Albert Schliesser, Christian L. Degen, and Alexander Eichler
-Sensing the magnetic field emitted by individual nuclear spins would allow important insights into the structures of proteins and nanoscale devices. Toward this goal, ultrasensitive silicon nitride resonators have recently emerged as scanning force sensors, but to achieve the sensitivity required for single-spin sensing, the readout noise of these sensors must be reduced. In this work, the authors demonstrate a scanning force microscope based on a silicon nitride membrane embedded in an optical cavity for low-noise readout. They find that laser phase noise crucially impacts the sensor’s usable bandwidth.
-
-[Phys. Rev. Applied 22, 044001] Published Tue Oct 01, 2024]]></summary>
-        <author>
-            <name>Thomas Gisler, David Hälg, Vincent Dumont, Shobhna Misra, Letizia Catalini, Eric C. Langman, Albert Schliesser, Christian L. Degen, and Alexander Eichler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classical simulation of non-Gaussian bosonic circuits]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.042402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.042402"/>
-        <updated>2024-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Beatriz Dias and Robert König
-The authors present efficient classical algorithms for simulating linear bosonic circuits applied to non-Gaussian states composed of superpositions of Gaussian states. Their approach, based on an augmented covariance matrix formalism, enables exact simulations with polynomial runtime in the number of modes and circuit size, and quadratic runtime in the number of superposition terms. They also present an approximate algorithm whose runtime is linear in the number of superposition terms.
-
-[Phys. Rev. A 110, 042402] Published Tue Oct 01, 2024]]></summary>
-        <author>
-            <name>Beatriz Dias and Robert König</name>
         </author>
     </entry>
 </feed>
