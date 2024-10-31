@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-30T01:01:01.785Z</id>
+    <id>urn:2024-10-31T01:01:23.212Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T01:01:01.785Z</updated>
+    <updated>2024-10-31T01:01:23.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First Principles Numerical Demonstration of Emergent Decoherent Histories]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.041027</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.041027"/>
+        <updated>2024-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Philipp Strasberg, Teresa E. Reinhard, and Joseph Schindler
+Simulations deliver hints on how the multiverse produced according to the many-world interpretation of quantum mechanics might be compatible with our stable, classical Universe.
+
+[Phys. Rev. X 14, 041027] Published Wed Oct 30, 2024]]></summary>
+        <author>
+            <name>Philipp Strasberg, Teresa E. Reinhard, and Joseph Schindler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor product random matrix theory]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042029</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042029"/>
+        <updated>2024-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander Altland, Joaquim Telles de Miranda, and Tobias Micklitz
+This article analyzes and solves a minimal model showcasing the dynamics of quantum thermalization in the case where two random subsystems mutually act as “bath” for each other.
+
+[Phys. Rev. Research 6, L042029] Published Wed Oct 30, 2024]]></summary>
+        <author>
+            <name>Alexander Altland, Joaquim Telles de Miranda, and Tobias Micklitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Inequalities for Quantum Black Holes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.181501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.181501"/>
+        <updated>2024-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Antonia M. Frassino, Robie A. Hennigar, Juan F. Pedraza, and Andrew Svesko
+New spacetime inequalities applicable to quantum-corrected black holes to all orders of backreaction are proposed for the first time in three dimensions.
+
+[Phys. Rev. Lett. 133, 181501] Published Wed Oct 30, 2024]]></summary>
+        <author>
+            <name>Antonia M. Frassino, Robie A. Hennigar, Juan F. Pedraza, and Andrew Svesko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strange Metal and Superconductor in the Two-Dimensional Yukawa-Sachdev-Ye-Kitaev Model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.186502</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.186502"/>
+        <updated>2024-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chenyuan Li, Davide Valentinis, Aavishkar A. Patel, Haoyu Guo, Jörg Schmalian, Subir Sachdev, and Ilya Esterlis
+Focusing on the inhomogeneity in the position of a quantum phase transition of so called strange metals provides answers to key puzzles in high-temperature superconductivity
+
+[Phys. Rev. Lett. 133, 186502] Published Wed Oct 30, 2024]]></summary>
+        <author>
+            <name>Chenyuan Li, Davide Valentinis, Aavishkar A. Patel, Haoyu Guo, Jörg Schmalian, Subir Sachdev, and Ilya Esterlis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analytical prediction for the steady-state behavior of a confined drop with interface viscosity under shear flow]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.103603</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.103603"/>
+        <updated>2024-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. Guglietta and F. Pelusi
+The present study provides a comprehensive analytical prediction for the steady-state deformation and inclination angle of drops under shear flow, considering both confinement and interface viscosity. By merging the theories for confined and unconfined drops, the model accurately captures the behavior across a wide range of conditions, offering a robust tool for applications in complex fluids. Immersed boundary-lattice Boltzmann simulations were performed to further validate the results.
+
+[Phys. Rev. Fluids 9, 103603] Published Wed Oct 30, 2024]]></summary>
+        <author>
+            <name>F. Guglietta and F. Pelusi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perturbations of the Vaidya metric in the frequency domain: Quasinormal modes and tidal response]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.084081</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.084081"/>
+        <updated>2024-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lodovico Capuano, Luca Santoni, and Enrico Barausse
+The authors have studies the dynamics of linear perturbations in the Vaidya metric, where the black hole has an evolving mass. They show that a clever change of variables enables one to study, despite the time dependence of the background, these perturbations in the frequency domain, at least for a certain range of frequencies. They go on to calculate the quasi-normal modes and tidal Love numbers in the Vaidya background.
+
+[Phys. Rev. D 110, 084081] Published Wed Oct 30, 2024]]></summary>
+        <author>
+            <name>Lodovico Capuano, Luca Santoni, and Enrico Barausse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rydberg series of intralayer K-excitons in ${\mathrm{WSe}}_{2}$ multilayers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.155439</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.155439"/>
+        <updated>2024-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Piotr Kapuściński, Artur O. Slobodeniuk, Alex Delhomme, Clément Faugeras, Magdalena Grzeszczyk, Karol Nogajewski, Kenji Watanabe, Takashi Taniguchi, and Marek Potemski
+Here, the authors combine magnetoreflectance experiments with theoretical modeling based on the k⋅p approach to explore the origin and properties of intravalley excitons in WSe2 bi-, tri-, and quadlayers. The reflectance spectra display rich excitonic series across all thicknesses. By comparing magnetoreflectance data with theoretical predictions, the authors reveal that excitonic resonances in trilayers arise from two distinct Rydberg series, quadlayers exhibit four such series, and bilayers feature a single Rydberg series akin to that of monolayers.
+
+[Phys. Rev. B 110, 155439] Published Wed Oct 30, 2024]]></summary>
+        <author>
+            <name>Piotr Kapuściński, Artur O. Slobodeniuk, Alex Delhomme, Clément Faugeras, Magdalena Grzeszczyk, Karol Nogajewski, Kenji Watanabe, Takashi Taniguchi, and Marek Potemski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Characterizing the chemical potential disorder in the topological insulator ${({\mathrm{Bi}}_{1−x}{\mathrm{Sb}}_{x})}_{2}{\mathrm{Te}}_{3}$ thin films]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.104202</id>
@@ -1212,97 +1303,6 @@ The paper proposes a physical analytic model to explain observed high magnificat
 [Phys. Rev. D 110, 083514] Published Thu Oct 10, 2024]]></summary>
         <author>
             <name>Hiroki Kawai and Masamune Oguri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intrinsic process for upconversion photoluminescence via $K$-momentum–phonon coupling in carbon nanotubes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.155418</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.155418"/>
-        <updated>2024-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daichi Kozawa, Shun Fujii, and Yuichiro K. Kato
-Carbon nanotubes exhibit efficient upconversion photoluminescence, which has been thought to arise from extrinsic effects such as defects. By using single nanotube spectroscopy on defect-free, air-suspended carbon nanotubes, the authors demonstrate here that upconversion readily occurs through an intrinsic process. Sidebands in the upconversion photoluminescence excitation spectra are assigned to K-momentum phonon modes, explaining the mechanism of upconversion. With efficient upconversion, large energy gain, and near-unity radiative quantum efficiency, these pristine nanotubes offer a promising platform for exploring optothermal effects.
-
-[Phys. Rev. B 110, 155418] Published Thu Oct 10, 2024]]></summary>
-        <author>
-            <name>Daichi Kozawa, Shun Fujii, and Yuichiro K. Kato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topological Kondo semimetal and insulator in AB-stacked heterobilayer transition metal dichalcogenides]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.165128</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.165128"/>
-        <updated>2024-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daniele Guerci, Kevin P. Lucht, Valentin Crépel, Jennifer Cano, J. H. Pixley, and Andrew Millis
-The “Topological Kondo Insulator” is a long-sought phase of matter, in which two physically distinct systems, localized magnetic moments and mobile (conducting) electrons, combine via the many body process known as the Kondo effect to form a nonmagnetic insulator with gapless topological surface states and a quantized spin Hall conductance. Guerci and collaborators predict here that this state can be realized in the currently intensively studied transition metal dichalcogenide bilayer systems, opening the door to extensive studies of Kondo insulator physics.
-
-[Phys. Rev. B 110, 165128] Published Thu Oct 10, 2024]]></summary>
-        <author>
-            <name>Daniele Guerci, Kevin P. Lucht, Valentin Crépel, Jennifer Cano, J. H. Pixley, and Andrew Millis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controlling orbital magnetism of band electron systems via bath engineering]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L140405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L140405"/>
-        <updated>2024-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Subrata Chakraborty and So Takei
-A complete theory of the orbital magnetic susceptibility of an isolated multiband electron system was developed in 2015. Here, the authors study whether one can control this orbital susceptibility by opening the electron system to a fermionic bath. They show that, as the system-bath coupling is increased, a properly engineered bath can enhance the diamagnetic susceptibility of the system and even change its orbital paramagnetic response into a diamagnetic one. The work also discusses how a Van Hove singularity in the bath density of states can be exploited to generate a giant enhancement of the orbital magnetic response. These results are counterintuitive, relative to the common belief, that bath-induced decoherence merely leads to the quenching of the orbital magnetic susceptibility.
-
-[Phys. Rev. B 110, L140405] Published Thu Oct 10, 2024]]></summary>
-        <author>
-            <name>Subrata Chakraborty and So Takei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process tensor distinguishability measures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.042210</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.042210"/>
-        <updated>2024-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Guilherme Zambon
-The paper critiques the use of Choi divergences in resource theories of quantum processes, demonstrating that they fail to satisfy key conditions necessary for proper monotone measures. Instead, the author introduces generalized divergences, which meet these conditions and are argued to be more suitable for distinguishing quantum combs and defining monotones in various applications.
-
-[Phys. Rev. A 110, 042210] Published Thu Oct 10, 2024]]></summary>
-        <author>
-            <name>Guilherme Zambon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Geometry and Stabilization of Fractional Chern Insulators Far from the Ideal Limit]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.156504</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.156504"/>
-        <updated>2024-10-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gal Shavit and Yuval Oreg
-A new coupled-wire construction provides a direct link between fractional Chern-insulator stability, electron-electron interaction parameters, and quantum geometrical properties of the strongly-correlated band hosting it.
-
-[Phys. Rev. Lett. 133, 156504] Published Wed Oct 09, 2024]]></summary>
-        <author>
-            <name>Gal Shavit and Yuval Oreg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solvent mixing and ion partitioning effects in spontaneous charging and electrokinetic flow of immiscible liquid-liquid interface]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.103701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.103701"/>
-        <updated>2024-10-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yunfan Huang and Moran Wang
-Liquid-liquid interfaces typically exhibit a diffuse nature, with an interface thickness that is comparable with the electric double layer under practical conditions. In two-liquid electrokinetics, effects of solvent mixing become particularly pronounced when imbalanced ion partitioning dominates the interface charging, which is intricately linked to the interfacial physico-chemical properties. Our study presents a holistic framework to incorporate the general charging mechanisms into a diffuse interface description, paving the way for future research in two-liquid physico-chemical hydrodynamics, where the constitutive relationship of two-liquid interface charging is pivotal.
-
-[Phys. Rev. Fluids 9, 103701] Published Wed Oct 09, 2024]]></summary>
-        <author>
-            <name>Yunfan Huang and Moran Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collapsar disk outflows: Heavy element production]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.083024</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.083024"/>
-        <updated>2024-10-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Coleman Dean and Rodrigo Fernández
-Despite its intensity, the gravitational collapse of certain massive stars does not produce an abundance of heavy elements.
-
-[Phys. Rev. D 110, 083024] Published Wed Oct 09, 2024]]></summary>
-        <author>
-            <name>Coleman Dean and Rodrigo Fernández</name>
         </author>
     </entry>
 </feed>
