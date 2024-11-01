@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-31T01:01:23.212Z</id>
+    <id>urn:2024-11-01T01:05:52.541Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-31T01:01:23.212Z</updated>
+    <updated>2024-11-01T01:05:52.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Autodetachment of Diatomic Carbon Anions from Long-Lived High-Rotation Quartet States]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.183001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.183001"/>
+        <updated>2024-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf
+Sometimes a rotating molecule can transition to a new state only if an electron carries away some of the molecule’s angular momentum.
+
+[Phys. Rev. Lett. 133, 183001] Published Thu Oct 31, 2024]]></summary>
+        <author>
+            <name>Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic Taylor-Proudman Constraint Explains Flows into the Tangent Cylinder]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.184101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.184101"/>
+        <updated>2024-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alban Pothérat, Kélig Aujogue, and François Debray
+A “Little Earth Experiment” inside a giant magnet sheds light on so-far-unexplained flow patterns in Earth’s interior.
+
+[Phys. Rev. Lett. 133, 184101] Published Thu Oct 31, 2024]]></summary>
+        <author>
+            <name>Alban Pothérat, Kélig Aujogue, and François Debray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piecewise Omnigenous Stellarators]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.185101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.185101"/>
+        <updated>2024-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. L. Velasco, I. Calvo, F. J. Escoto, E. Sánchez, H. Thienpondt, and F. I. Parra
+Breaking the problem into pieces makes it easier to design a fusion reactor’s coils for optimum energy confinement.
+
+[Phys. Rev. Lett. 133, 185101] Published Thu Oct 31, 2024]]></summary>
+        <author>
+            <name>J. L. Velasco, I. Calvo, F. J. Escoto, E. Sánchez, H. Thienpondt, and F. I. Parra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unimolecular processes in diatomic carbon anions at high rotational excitation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.042828</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.042828"/>
+        <updated>2024-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf
+The authors present a combined experimental and theoretical study of the decay of excited dicarbon anions, to address possible mechanisms leading to the delayed autofragmentation and autodetachment that has been observed before, but has not been well understood. Their results present strong evidence that C2− ions in quasistable levels of the quartet electronic states are the so-far unidentified source of the unimolecular decay.
+
+[Phys. Rev. A 110, 042828] Published Thu Oct 31, 2024]]></summary>
+        <author>
+            <name>Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First Principles Numerical Demonstration of Emergent Decoherent Histories]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.041027</id>
@@ -188,7 +240,7 @@ By manipulating a nitrogen vacancy’s single spin, researchers have shown that 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two-dimensional Topological Ferroelectric Metal with Giant Shift Current]]></title>
+        <title type="html"><![CDATA[Two-Dimensional Topological Ferroelectric Metal with Giant Shift Current]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.186801</id>
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.186801"/>
         <updated>2024-10-28T10:00:00.000Z</updated>
@@ -1251,58 +1303,6 @@ The mitigation of a previously neglected energy-loss mechanism in organic light-
 [Phys. Rev. X 14, 041009] Published Thu Oct 10, 2024]]></summary>
         <author>
             <name>Kwangmo Yang, Doyoun Kwon, Sungho Nam, Joonghyuk Kim, Yeon Sook Chung, Hyunjoon Yoo, Insung Park, Yongsup Park, Ji Whan Kim, and Jaesang Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predictive Framework for Flow Reversals and Excursions in Turbulence]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.154002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.154002"/>
-        <updated>2024-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Balachandra Suri
-A new framework shows that the occurrence of reversals and excursions of large-scale circulations in turbulent geophysical, fluid, and thermal systems can be predicted and averted via feedback control.
-
-[Phys. Rev. Lett. 133, 154002] Published Thu Oct 10, 2024]]></summary>
-        <author>
-            <name>Balachandra Suri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traveling Wave Amplification in Stationary Gratings]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.156903</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.156903"/>
-        <updated>2024-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. A. R. Horsley and J. B. Pendry
-Compression and quantum emission phenomena that are predicted in moving refractive index profiles can be equivalently realized in nonmoving, modulated systems.
-
-[Phys. Rev. Lett. 133, 156903] Published Thu Oct 10, 2024]]></summary>
-        <author>
-            <name>S. A. R. Horsley and J. B. Pendry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanics and Morphology of Proliferating Cell Collectives with Self-Inhibiting Growth]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.158402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.158402"/>
-        <updated>2024-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Scott Weady, Bryce Palmer, Adam Lamson, Taeyoon Kim, Reza Farhadifar, and Michael J. Shelley
-A growing cell colony can develop concentric wavelike patterns in cell size due to purely mechanical processes such as the inevitable collisions between cells.
-
-[Phys. Rev. Lett. 133, 158402] Published Thu Oct 10, 2024]]></summary>
-        <author>
-            <name>Scott Weady, Bryce Palmer, Adam Lamson, Taeyoon Kim, Reza Farhadifar, and Michael J. Shelley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analytic model for the statistics of ultrahigh magnification events]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.083514</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.083514"/>
-        <updated>2024-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hiroki Kawai and Masamune Oguri
-The paper proposes a physical analytic model to explain observed high magnification events of stars, such as Icarus and Earendel, due to galaxy clusters. The authors further show that the model agrees well with simulations. Future extensions of the model could potentially have implications for constraining primordial black hole populations.
-
-[Phys. Rev. D 110, 083514] Published Thu Oct 10, 2024]]></summary>
-        <author>
-            <name>Hiroki Kawai and Masamune Oguri</name>
         </author>
     </entry>
 </feed>
