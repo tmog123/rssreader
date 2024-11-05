@@ -1,10 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-04T01:02:39.459Z</id>
+    <id>urn:2024-11-05T00:59:15.898Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T01:02:39.459Z</updated>
+    <updated>2024-11-05T00:59:15.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Conformal field theories in a magnetic field]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043093</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.043093"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rufus Boyack, Luca Delacrétaz, Éric Dupuis, and William Witczak-Krempa
+An examination of how conformal field theories respond to the presence of a magnetic field demonstrates that these systems typically transition into gapped phases but can also host metallic or non-Fermi-liquid behavior. These results offer new insights into the possible phases of quantum critical states under magnetic fields; more technically, they also characterize the spectrum of large-flux background monopole operators in conformal field theories.
+
+[Phys. Rev. Research 6, 043093] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Rufus Boyack, Luca Delacrétaz, Éric Dupuis, and William Witczak-Krempa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gauge Theory Bootstrap]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.191601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.191601"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yifei He and Martin Kruczenski
+By matching chiral effective theory with gauge theory, a new S-matrix bootstrap method is able to predict the properties of ρ resonance using only a few gauge theory parameters.
+
+[Phys. Rev. Lett. 133, 191601] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Yifei He and Martin Kruczenski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Constraints on Axion-Mediated Spin Interactions Using Magnetic Amplification]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.191801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.191801"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Haowen Su, Min Jiang, Yuanhong Wang, Ying Huang, Xiang Kang, Wei Ji, Xinhua Peng, and Dmitry Budker
+By exploiting polarized-gas collisions, researchers have conducted a sensitive search for exotic spin-dependent interactions, placing new constraints on a dark matter candidate called the axion.
+
+[Phys. Rev. Lett. 133, 191801] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Haowen Su, Min Jiang, Yuanhong Wang, Ying Huang, Xiang Kang, Wei Ji, Xinhua Peng, and Dmitry Budker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ionic Diffusion in ${\mathrm{CO}}_{2}$ Adsorption by ${\mathrm{Li}}_{4}{\mathrm{SiO}}_{4}$: Inert-Marker Experiment and DFT Calculations]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.198001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.198001"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tao Deng, Shuzhen Chen, Zongze Lv, Yujie Zheng, Shaojun Xu, and Changlei Qin
+Pt inert-marker experiments combined with first-principles calculations reveal the ionic diffusion mechanism in CO2 adsorption by Li4SiO4.
+
+[Phys. Rev. Lett. 133, 198001] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Tao Deng, Shuzhen Chen, Zongze Lv, Yujie Zheng, Shaojun Xu, and Changlei Qin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Application of the shift-invert Lanczos algorithm to a nonequilibrium Green's function for transport problems]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.110.055302</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.110.055302"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): K. Uzawa and K. Hagino
+The authors present a “shift-invert Lanczos” method that helps significantly reducing the computational cost of solving transport with a non-equilibrium Green’s function theory. They show examples of application in the case of a model Hamiltonian and a more realistic one used to describe nuclear fission.
+
+[Phys. Rev. E 110, 055302] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>K. Uzawa and K. Hagino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initial tensor construction and dependence of the tensor renormalization group on initial tensors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.094501</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.094501"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Katsumasa Nakayama and Manuel Schneider
+The authors presents a novel method for constructing tensor network representations of partition functions, avoiding the need for singular value decompositions or series expansions, and introduce several variants of tensor renormalization algorithms and investigate their efficiencies.
+
+[Phys. Rev. D 110, 094501] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Katsumasa Nakayama and Manuel Schneider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bootstrapping gauge theories]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.096001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.096001"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yifei He and Martin Kruczenski
+By matching chiral effective theory with gauge theory, a new S-matrix bootstrap method is able to predict the properties of ρ resonance using only a few gauge theory parameters.
+
+[Phys. Rev. D 110, 096001] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Yifei He and Martin Kruczenski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fate of stringy noninvertible symmetries]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.106001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.106001"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jonathan J. Heckman, Jacob McNamara, Miguel Montero, Adar Sharon, Cumrun Vafa, and Irene Valenzuela
+Expectations from conventional symmetries suggest that noninvertible symmetries in quantum gravity will be “gauged”. However, in both settings, global noninvertible symmetries of the boundary theory in AdS/CFT or on the string-worldsheet, one finds that these invertible gauge symmetries are either “benign”, dual to conventional gauge symmetries, or broken by string-loop effects proportional to the string coupling gs, except if the theory itself is something like a tensionless string theory. Only in the tensionless string limit (gs→0) approximate noninvertible gauge symmetries emerge.
+
+[Phys. Rev. D 110, 106001] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Jonathan J. Heckman, Jacob McNamara, Miguel Montero, Adar Sharon, Cumrun Vafa, and Irene Valenzuela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient electron spin relaxation by chiral phonons in $\mathrm{WSe}{}_{2}$ monolayers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.195403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.195403"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): D. Lagarde, M. Glazov, V. Jindal, K. Mourzidis, Iann Gerber, A. Balocchi, L. Lombez, P. Renucci, T. Taniguchi, K. Watanabe, C. Robert, and X. Marie
+In transition metal dichalcogenide semiconductor monolayers, the spin dynamics of electrons is usually controlled by the spin-valley locking effect: a carrier spin flip occurs only if there is a simultaneous change in the valley. However, very little is known about the intravalley spin relaxation processes. Here, the authors demonstrate that the spin relaxation of an electron in WSe2 monolayers can occur efficiently without a change in valley thanks to chiral phonons. The consequence is an efficient relaxation from bright to dark excitons.
+
+[Phys. Rev. B 110, 195403] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>D. Lagarde, M. Glazov, V. Jindal, K. Mourzidis, Iann Gerber, A. Balocchi, L. Lombez, P. Renucci, T. Taniguchi, K. Watanabe, C. Robert, and X. Marie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charge density waves with nontrivial orbital textures in rare earth tritellurides]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.205103</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.205103"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sergey Alekseev, Sayed Ali Akbar Ghorashi, Rafael M. Fernandes, and Jennifer Cano
+Recent experiments on the rare-earth tritellurides RTe3 reveal unconventional collective modes in the charge density wave (CDW) state, suggesting symmetry breaking beyond that imposed by the CDW wave vector. Here, the authors develop a CDW Ginzburg-Landau theory that incorporates nontrivial orbital order, allowing for solutions in which two CDWs with distinct orbital characters coexist. The resulting CDW pattern exhibits an orbital texture that can break mirror and/or inversion symmetry.
+
+[Phys. Rev. B 110, 205103] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Sergey Alekseev, Sayed Ali Akbar Ghorashi, Rafael M. Fernandes, and Jennifer Cano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interplay of superexchange and vibronic effects in the hidden order of ${\mathrm{Ba}}_{2}{\mathrm{MgReO}}_{6}$ from first principles]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L201101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L201101"/>
+        <updated>2024-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Dario Fiore Mosca, Cesare Franchini, and Leonid V. Pourovskii
+In heavy transition metal oxides, electronic correlation and strong spin-orbit coupling can give rise to “hidden order”, with multipolar order parameters. Here, the authors investigate the origin of the unusual quadrupolar and magnetic phases in the double perovskite Ba2MgReO6. They derive its low-energy Hamiltonian from first principles and show that its antiferroic order of x2-y2 quadrupoles and a low-temperature canted antiferromagnetic phase emerge from the interplay between electron-lattice coupling and multipolar superexchange interactions.
+
+[Phys. Rev. B 110, L201101] Published Mon Nov 04, 2024]]></summary>
+        <author>
+            <name>Dario Fiore Mosca, Cesare Franchini, and Leonid V. Pourovskii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable Multispecies Ion Transport in a Grid-Based Surface-Electrode Trap]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.14.041028</id>
@@ -1160,149 +1303,6 @@ General stacking theory provides a straightforward criteria to predict whether a
 [Phys. Rev. Lett. 133, 166701] Published Tue Oct 15, 2024]]></summary>
         <author>
             <name>Baoru Pan, Pan Zhou, Pengbo Lyu, Huaping Xiao, Xuejuan Yang, and Lizhong Sun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-Lived Magnetization in an Atomic Spin Chain Tuned to a Diabolic Point]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.166703</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.166703"/>
-        <updated>2024-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. J. G. Elbertse, D. Borodin, J. Oh, T. Ahn, J. Hwang, J. C. Rietveld, A. J. Heinrich, F. Delgado, S. Otte, and Y. Bae
-A quantum degeneracy named after a Chinese yo-yo boosts the magnetization lifetime of a short chain of magnetic iron atoms by a factor of 1000.
-
-[Phys. Rev. Lett. 133, 166703] Published Tue Oct 15, 2024]]></summary>
-        <author>
-            <name>R. J. G. Elbertse, D. Borodin, J. Oh, T. Ahn, J. Hwang, J. C. Rietveld, A. J. Heinrich, F. Delgado, S. Otte, and Y. Bae</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rift Gaps in Chemical-Wave Network Systems]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.168001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.168001"/>
-        <updated>2024-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tamar Kanimian, Lara Haroun, and Rabih Sultan
-Patterns formed in chemical waves in precipitation reactions and electroless metal-deposition media are shown to be chemical analogs of Voronoi diagrams.
-
-[Phys. Rev. Lett. 133, 168001] Published Tue Oct 15, 2024]]></summary>
-        <author>
-            <name>Tamar Kanimian, Lara Haroun, and Rabih Sultan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detection of geometric phases in spin waves using nitrogen vacancy centers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.134424</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.134424"/>
-        <updated>2024-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tomas T. Osterholt, Pieter M. Gunnink, and Rembert A. Duine
-Spin wave geometric phases are well-known to play a fundamental role in magnon Hall effects and may ultimately be used to control spin waves in the field of magnonics. Here, the authors demonstrate theoretically how nitrogen-vacancy (NV) centers can be used to directly measure spin wave geometric phases in a variety of physical systems, including magnetic domain walls and magnetic rings with directional anisotropies.
-
-[Phys. Rev. B 110, 134424] Published Tue Oct 15, 2024]]></summary>
-        <author>
-            <name>Tomas T. Osterholt, Pieter M. Gunnink, and Rembert A. Duine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic and viscous dynamics of spheroidal nanoparticles]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.144425</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.144425"/>
-        <updated>2024-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Frederik L. Durhuus, Marco Beleggia, and Cathrine Frandsen
-Magnetic nanoparticles can be synthesised in a wide range of shapes, which greatly impacts their utility as heating agents. Here, the authors use Langevin dynamics simulations of spheroidal particles to study how their shape affects both the net energy absorption and whether the energy is dissipated by viscous friction or magnetic losses. This study establishes a procedure for maximising the absorption rate in a given applied field via particle shape.
-
-[Phys. Rev. B 110, 144425] Published Tue Oct 15, 2024]]></summary>
-        <author>
-            <name>Frederik L. Durhuus, Marco Beleggia, and Cathrine Frandsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pairing interaction from three-dimensional acoustic plasmon demon modes in ${\mathrm{Sr}}_{2}{\mathrm{RuO}}_{4}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.155127</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.155127"/>
-        <updated>2024-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Young Woo Choi, Jisoon Ihm, and Marvin L. Cohen
-Sixty seven years after Pines’ prediction, the “demon” mode – a three-dimensional acoustic plasmon – has been experimentally observed in the unconventional superconductor Sr2RuO4. This low-energy, charge-neutral excitation could play an important role in the superconducting pairing interaction. The authors calculate here how the demon mode affects the dynamical screened Coulomb interaction and the Coulomb kernel in Sr2RuO4. Their findings reveal that the demon mode reduces Coulomb repulsion between electrons, favorable for anisotropic superconductivity. This also suggests that other materials exhibiting demon modes might experience reduced Coulomb repulsion, potentially leading to enhanced superconductivity.
-
-[Phys. Rev. B 110, 155127] Published Tue Oct 15, 2024]]></summary>
-        <author>
-            <name>Young Woo Choi, Jisoon Ihm, and Marvin L. Cohen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep learning lattice gauge theories]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.165133</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.165133"/>
-        <updated>2024-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Anuj Apte, Clay Córdova, Tzu-Chen Huang, and Anthony Ashmore
-Here, the authors use gauge-invariant neural network quantum states (NNQS) to study ℤN lattice gauge theories. They compute ground states and map out phase transitions, identifying a continuous transition in ℤ2 with Ising critical exponents and a weakly first-order transition in ℤ3. Their work demonstrates how deep learning can overcome challenges in traditional lattice simulations, providing a novel approach for exploring complex quantum phases and topological order in condensed matter systems.
-
-[Phys. Rev. B 110, 165133] Published Tue Oct 15, 2024]]></summary>
-        <author>
-            <name>Anuj Apte, Clay Córdova, Tzu-Chen Huang, and Anthony Ashmore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ion-chain sympathetic cooling and gate dynamics]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.044033</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.044033"/>
-        <updated>2024-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Paul and C. Noel
-Trapped ions offer much promise for near-term implementations of quantum computing. To ensure that the ions remain coherent, laser-cooling schemes are required to stave off decoherence caused by motional heating, but effective schemes must satisfy trade-offs between motional and dephasing errors, and between cooling power and chain length. This work uses a mix of theoretical and computational techniques to establish best practices for laser cooling for long chains of trapped ions. It turns out that placing the coolant at the center of an ion chain is always optimal.
-
-[Phys. Rev. Applied 22, 044033] Published Tue Oct 15, 2024]]></summary>
-        <author>
-            <name>A. Paul and C. Noel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superspontaneous four-wave mixing in a sequence of lossy ring resonators]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.043509</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.043509"/>
-        <updated>2024-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Amideddin Mataji-Kojouri and Marco Liscidini
-The authors study photon pair generation by superspontaneous four-wave mixing in single-channel and double-channel sequences of ring resonators in the presence of loss. They show that, in the presence of loss, superradiant photon-pair generation in single-channel sequences is achievable only when the resonators are either deeply over- or undercoupled.
-
-[Phys. Rev. A 110, 043509] Published Tue Oct 15, 2024]]></summary>
-        <author>
-            <name>Amideddin Mataji-Kojouri and Marco Liscidini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-distance photon-mediated and short-distance entangling gates in three-qubit quantum dot spin systems]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043029</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.043029"/>
-        <updated>2024-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nooshin M. Estakhri, Ada Warren, Sophia E. Economou, and Edwin Barnes
-Entangling operations (short and long range) in modular three-qubit semiconductor quantum dot spin qubit systems with long-range interactions mediated by superconducting resonators are examined. The effect of the spectator qubits in reducing the gate fidelities and the impact of charge noise are also analyzed.
-
-[Phys. Rev. Research 6, 043029] Published Fri Oct 11, 2024]]></summary>
-        <author>
-            <name>Nooshin M. Estakhri, Ada Warren, Sophia E. Economou, and Edwin Barnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highly Nonlinear Light-Nucleus Interaction]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.152503</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.152503"/>
-        <updated>2024-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hanxu Zhang, Tao Li, and Xu Wang
-Hydrogenlike thorium-229 ions interacting with intense lasers could unlock a highly nonlinear and nonperturbative regime of light-nucleus interaction.
-
-[Phys. Rev. Lett. 133, 152503] Published Fri Oct 11, 2024]]></summary>
-        <author>
-            <name>Hanxu Zhang, Tao Li, and Xu Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballistic Electron Source with Magnetically Controlled Valley Polarization in Bilayer Graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.156301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.156301"/>
-        <updated>2024-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Josep Ingla-Aynés, Antonio L. R. Manesco, Talieh S. Ghiasi, Kenji Watanabe, Takashi Taniguchi, and Herre S. J. van der Zant
-A valley-polarized current source in bilayer graphene has been made by electrostatically defining quantum point contact pairs that work as a coherent valley-polarized current splitter and collector.
-
-[Phys. Rev. Lett. 133, 156301] Published Fri Oct 11, 2024]]></summary>
-        <author>
-            <name>Josep Ingla-Aynés, Antonio L. R. Manesco, Talieh S. Ghiasi, Kenji Watanabe, Takashi Taniguchi, and Herre S. J. van der Zant</name>
         </author>
     </entry>
 </feed>
