@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.041038",
+          "author": "Matthew P. Leighton, Jannik Ehrich, and David A. Sivak",
+          "description": "Author(s): Matthew P. Leighton, Jannik Ehrich, and David A. Sivak\nA theoretical model shows that exchange of information plays a key role in the molecular machines found in biological cells.\n\n[Phys. Rev. X 14, 041038] Published Fri Nov 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.041038",
+          "publishedOn": "2024-11-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Information Arbitrage in Bipartite Heat Engines",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.113802",
+          "author": "Amir M. Orvati Movaffagh, Adetoye Adekoya, and Sara Kadkhodaei",
+          "description": "Author(s): Amir M. Orvati Movaffagh, Adetoye Adekoya, and Sara Kadkhodaei\nDefects in semiconducting compounds regulate charge carrier density and, consequently, the electrical properties, directly impacting the performance of electronic devices such as thermoelectrics, transistors, and solar cells. While traditionally, the Gibbs energy for defective compounds has been developed empirically, this study introduces a theoretical framework that directly connects defect energetics at electronic and atomic levels to a universally parameterized Gibbs energy function in the dilute range. This universal parameterization enables a consistent description of Gibbs energy across varying coexistence conditions, accommodating different chemical potentials and Fermi levels. This formalism for defect energy represents a significant advancement in the first-principles parameterization of the thermodynamics of defective compounds.\n\n[Phys. Rev. Materials 8, 113802] Published Fri Nov 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.113802",
+          "publishedOn": "2024-11-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Defect energy formalism for CALPHAD thermodynamics of dilute point defects",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.198301",
+          "author": "Alexander P. Antonov, Lorenzo Caprini, Anton Ldov, Christian Scholz, and Hartmut Löwen",
+          "description": "Author(s): Alexander P. Antonov, Lorenzo Caprini, Anton Ldov, Christian Scholz, and Hartmut Löwen\nIn active systems where inertial effects cannot be neglected, the interplay of friction and activity leads to three distinct regimes of particle motion.\n\n[Phys. Rev. Lett. 133, 198301] Published Fri Nov 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.198301",
+          "publishedOn": "2024-11-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Inertial Active Matter with Coulomb Friction",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.113601",
+          "author": "Yufei Ma and Haibo Huang",
+          "description": "Author(s): Yufei Ma and Haibo Huang\nAlthough the scaling law We1/2 where We is the Weber number for describing the maximum spreading of an impacting drop in the capillary regime has been validated by subsequent works, the We1/4 scaling persists in the literature. We found not only viscous dissipation but also the initial diameter result in the gap. Taking the initial diameter and wettability into account, a generalized scaling for the drop’s maximum spreading is established, showing excellent agreement with data for both low and relatively high We.\n\n[Phys. Rev. Fluids 9, 113601] Published Fri Nov 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.113601",
+          "publishedOn": "2024-11-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Clinching 1/2 scaling: Deciphering spreading data of droplet impact",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.110.103508",
+          "author": "Conghao Zhou, Hao-Yi Wu, Andrés N. Salcedo, Sebastian Grandis, Tesla Jeltema, Alexie Leauthaud, Matteo Costanzi, Tomomi Sunayama, David H. Weinberg, Tianyu Zhang, Eduardo Rozo, Chun-Hao To, Sebastian Bocquet, Tamas Varga, and Matthew Kwiecien",
+          "description": "Author(s): Conghao Zhou, Hao-Yi Wu, Andrés N. Salcedo, Sebastian Grandis, Tesla Jeltema, Alexie Leauthaud, Matteo Costanzi, Tomomi Sunayama, David H. Weinberg, Tianyu Zhang, Eduardo Rozo, Chun-Hao To, Sebastian Bocquet, Tamas Varga, and Matthew Kwiecien\nThe authors develop a formalism that allows the use of the Sunyaev-Zel’dovich effect to minimize biases due to projection effects in galaxy cluster analyses. The proposed framework can be applied to combined data such as from the Dark Energy Survey and the South Pole Telescope, or the optical and X-ray eROSITA.\n\n[Phys. Rev. D 110, 103508] Published Fri Nov 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.110.103508",
+          "publishedOn": "2024-11-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Forecasting the constraints on optical selection bias and projection effects of galaxy cluster lensing with multiwavelength data",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.111001",
+          "author": "O. Boente Garcia <em>et al.</em>",
+          "description": "Author(s): O. Boente Garcia et al.\nA high-density gas target in the LHC opens new opportunities for physics measurements with protons and heavy ions.\n\n[Phys. Rev. Accel. Beams 27, 111001] Published Fri Nov 08, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.111001",
+          "publishedOn": "2024-11-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "High-density gas target at the LHCb experiment",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042039",
           "author": "Tali Khain, Michel Fruchart, and Vincenzo Vitelli",
           "description": "Author(s): Tali Khain, Michel Fruchart, and Vincenzo Vitelli\nThe control of particle motion in a fluid, a crucial problem in applications ranging from cell manipulation to drug delivery, is typically achieved by acting directly on the particle. Here, it is shown that the orientation of sinking objects can be controlled by modulating the viscosity of an anisotropic fluid.\n\n[Phys. Rev. Research 6, L042039] Published Thu Nov 07, 2024",
@@ -943,66 +1003,6 @@
           "publishedOn": "2024-10-21T10:00:00.000Z",
           "wordCount": null,
           "title": "Characterization of antiferromagnetic magnons using nitrogen vacancy center relaxometry",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.165305",
-          "author": "V. N. Mantsevich and M. M. Glazov",
-          "description": "Author(s): V. N. Mantsevich and M. M. Glazov\nTwo-dimensional semiconductors based on transition metal dichalcogenides offer a unique platform to study propagation of excitons. Here, the authors show theoretically that, in addition to the well studied diffusive propagation, excitons can form a viscous fluid. Based on the developed microscopic theory, the authors conclude that such a scenario is possible in two-dimensional semiconductors.\n\n[Phys. Rev. B 110, 165305] Published Mon Oct 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.165305",
-          "publishedOn": "2024-10-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Viscous hydrodynamics of excitons in van der Waals heterostructures",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.L161407",
-          "author": "Carlo Panu, Fabio Taddei, Marco Polini, and Amir Yacoby",
-          "description": "Author(s): Carlo Panu, Fabio Taddei, Marco Polini, and Amir Yacoby\nSeparating heat from charge in a material is a truly challenging task, since it requires the violation of the Wiedemann-Franz law. Such violations are rare in nature, and typically require, e.g., strong electron-electron interactions. In this Letter, the authors show that such separation can reach 100% efficiency in a hybrid superconducting quantum Hall setup, provided that the quantum Hall system is tuned to the integer filling factor. To illustrate this idea, microscopic calculations for a three-terminal setup are presented.\n\n[Phys. Rev. B 110, L161407] Published Mon Oct 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L161407",
-          "publishedOn": "2024-10-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Heat-charge separation in a hybrid superconducting quantum Hall setup",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.044052",
-          "author": "Rachel E. Maizel, Shuang Wu, Purnima P. Balakrishnan, Alexander J. Grutter, Christy J. Kinane, Andrew J. Caruana, Prabandha Nakarmi, Bhuwan Nepal, David A. Smith, Youngmin Lim, Julia L. Jones, Wyatt C. Thomas, Jing Zhao, F. Marc Michel, Tim Mewes, and Satoru Emori",
-          "description": "Author(s): Rachel E. Maizel, Shuang Wu, Purnima P. Balakrishnan, Alexander J. Grutter, Christy J. Kinane, Andrew J. Caruana, Prabandha Nakarmi, Bhuwan Nepal, David A. Smith, Youngmin Lim, Julia L. Jones, Wyatt C. Thomas, Jing Zhao, F. Marc Michel, Tim Mewes, and Satoru Emori\nIn spintronics, conventional devices exploiting spin-orbit torque cannot simultaneously provide both low damping and strong torque, the two necessities for energy-efficient operation. The authors take a different approach to meet both criteria, using Fe-Ni alloy films with steep vertical gradients in composition. Intriguingly, they find that sizable spin-orbit torque emerges even in an alloy without any intentional compositional gradient, due to a gradient in growth-induced strain. Their results give perspective for materials engineering of spin-orbit-torque devices, leveraging asymmetry not only in chemical composition, but also in atomic-scale lattice structure.\n\n[Phys. Rev. Applied 22, 044052] Published Mon Oct 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.044052",
-          "publishedOn": "2024-10-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Vertically graded $\\mathrm{Fe}$-$\\mathrm{Ni}$ alloys with low damping and a sizable spin-orbit torque",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.14.041016",
-          "author": "Eleanor K. R. Mackay, Sophie Marbach, Brennan Sprinkle, and Alice L. Thorneywork",
-          "description": "Author(s): Eleanor K. R. Mackay, Sophie Marbach, Brennan Sprinkle, and Alice L. Thorneywork\nA new method for studying the behavior of multiparticle systems relies on a simple “head count” of particles in imaginary boxes.\n\n[Phys. Rev. X 14, 041016] Published Fri Oct 18, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.14.041016",
-          "publishedOn": "2024-10-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "The Countoscope: Measuring Self and Collective Dynamics without Trajectories",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.134111",
-          "author": "Antonio Siciliano, Lorenzo Monacelli, and Francesco Mauri",
-          "description": "Author(s): Antonio Siciliano, Lorenzo Monacelli, and Francesco Mauri\nGaussian fluctuations describe the quantum state of the nuclei, even in strongly anharmonic materials. However, this approximation fails spectacularly in molecular crystals with rotational motions and in tunneling modes. This paper presents a variational approach that overcomes these limitations through a nonlinear transformation of Cartesian coordinates. Employing Monte Carlo sampling of the quantum phase space at finite temperatures, the method maintains an analytical expression for the entropy, which ensures direct access to the free energy and, consequently, the phase diagram of materials.\n\n[Phys. Rev. B 110, 134111] Published Fri Oct 18, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.134111",
-          "publishedOn": "2024-10-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Beyond Gaussian fluctuations of quantum anharmonic nuclei",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.134518",
-          "author": "Yuki Yamazaki and Shingo Kobayashi",
-          "description": "Author(s): Yuki Yamazaki and Shingo Kobayashi\nThe identification of Cooper pair symmetry is a crucial initial step in the study of topological superconductors (TSCs). Here, the authors develop a theory for the identification of pairing symmetry in time reversal symmetry breaking TSCs, focusing on the electromagnetic responses of Majorana fermions at their surfaces. They explore how the pairing symmetries relate to the electromagnetic response of the Majorana fermions under magnetic point group symmetry. The study also predicts the appearance of a magnetic quadrupole response in odd-parity chiral superconductivity in UTe2 and ferromagnetic superconductivity in UCoGe.\n\n[Phys. Rev. B 110, 134518] Published Fri Oct 18, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.134518",
-          "publishedOn": "2024-10-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Majorana multipole response with magnetic point group symmetry",
           "imageUrl": null
         }
       ]
