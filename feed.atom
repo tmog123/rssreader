@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-13T01:00:10.555Z</id>
+    <id>urn:2024-11-14T01:00:02.898Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T01:00:10.555Z</updated>
+    <updated>2024-11-14T01:00:02.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Advantage: A Single Qubit’s Experimental Edge in Classical Data Storage]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.200201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.200201"/>
+        <updated>2024-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Chen Ding, Edwin Peter Lobo, Mir Alimuddin, Xiao-Yue Xu, Shuo Zhang, Manik Banik, Wan-Su Bao, and He-Liang Huang
+A new quantum communication protocol allows a qubit to outperform a classical bit in storing capacity for classical data.
+
+[Phys. Rev. Lett. 133, 200201] Published Wed Nov 13, 2024]]></summary>
+        <author>
+            <name>Chen Ding, Edwin Peter Lobo, Mir Alimuddin, Xiao-Yue Xu, Shuo Zhang, Manik Banik, Wan-Su Bao, and He-Liang Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frequency-Dependent Covariance Reveals Critical Spatiotemporal Patterns of Synchronized Activity in the Human Brain]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.208401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.208401"/>
+        <updated>2024-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rubén Calvo, Carles Martorell, Guillermo B. Morales, Serena Di Santo, and Miguel A. Muñoz
+A new frequency-based analysis of recordings from neurons in the brain may give insight into brain pathologies such as Parkinson’s disease.
+
+[Phys. Rev. Lett. 133, 208401] Published Wed Nov 13, 2024]]></summary>
+        <author>
+            <name>Rubén Calvo, Carles Martorell, Guillermo B. Morales, Serena Di Santo, and Miguel A. Muñoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis of $\mathrm{DESI}×\mathrm{DES}$ using the Lagrangian effective theory of LSS]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.103518</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.103518"/>
+        <updated>2024-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. Chen et al.
+The paper combines galaxy data targeted with the Dark Energy Spectroscopic Instrument (DESI) with the associated galaxy lensing signal from the Year-3 Dark Energy Survey. The modeling implements novel effective and hybrid effective field theory aspects, independently confirming previous Cosmic Microwave Background results on the amplitude of the lensing signal, S8.
+
+[Phys. Rev. D 110, 103518] Published Wed Nov 13, 2024]]></summary>
+        <author>
+            <name>S. Chen &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic dipole $γ$-ray strength functions in the crossover from spherical to deformed neodymium isotopes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.110.054313</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.110.054313"/>
+        <updated>2024-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Mercenne, P. Fanto, W. Ryssens, and Y. Alhassid
+The γ-ray strength function is an important input into Hauser-Feshbach calculations of neutron capture in compound nuclear reactions. Experiments suggest an enhancement of the strength function at low energy, but this enhancement has not been reproduced in models of heavy nuclei as conventional shell-model methods become computationally intractable. Using shell-model Monte Carlo methods, the authors have successfully reproduced the low-energy enhancement (LEE) for magnetic dipole transitions in neodymium isotopes, while also illuminating the role of the scissors and spin-flip modes in these M1 transitions. If the LEE persists in heavy neutron-rich nuclei, thus significantly enhancing the radiative neutron-capture rates of nuclei near the neutron drip line, it would likely have profound effects on r-process nucleosynthesis.
+
+[Phys. Rev. C 110, 054313] Published Wed Nov 13, 2024]]></summary>
+        <author>
+            <name>A. Mercenne, P. Fanto, W. Ryssens, and Y. Alhassid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian analysis of $(3+1)\mathrm{D}$ relativistic nuclear dynamics with the RHIC beam energy scan data]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.110.054905</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.110.054905"/>
+        <updated>2024-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Syed Afrid Jahan, Hendrik Roch, and Chun Shen
+The state-of-the-art in the modeling and analysis of relativistic heavy-ion collisions involves multistage approaches to simulate the evolving strongly interacting matter and uses Bayesian analysis to obtain statistically relevant physical quantities. This work features a (3+1)D model applied to collision energies lower than those considered so far to explore the full range of the RHIC beam energy scan. This enables an exploration of the behavior of QCD at large baryon chemical potentials. The results of such comprehensive and systematic phenomenological studies have promise to advance knowledge of QCD in extreme conditions.
+
+[Phys. Rev. C 110, 054905] Published Wed Nov 13, 2024]]></summary>
+        <author>
+            <name>Syed Afrid Jahan, Hendrik Roch, and Chun Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum geometry induced third-order nonlinear transport responses]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.195131</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.195131"/>
+        <updated>2024-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Debottam Mandal, Sanjay Sarkar, Kamal Das, and Amit Agarwal
+The authors develop here a comprehensive framework for third-order electronic transport, focusing on the impact of quantum geometry in materials where conventional responses are absent. By deriving new forms of reciprocal longitudinal and Hall currents in time-reversal symmetry-broken systems, they reveal how quantum geometric features – specifically, the quantum geometric connection and tensor – shape these nonlinear currents. This theoretical advancement provides a blueprint for identifying materials with intrinsic third-order responses, with potential applications in advanced quantum technologies.
+
+[Phys. Rev. B 110, 195131] Published Wed Nov 13, 2024]]></summary>
+        <author>
+            <name>Debottam Mandal, Sanjay Sarkar, Kamal Das, and Amit Agarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly quantized Born effective charges as probes for the topological phase transition in the Haldane and Kane-Mele models]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L201405</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L201405"/>
+        <updated>2024-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Paolo Fachin, Francesco Macheda, Paolo Barone, and Francesco Mauri
+The authors introduce here a novel method for examining transitions between distinct topological phases by analyzing vibrational resonances in infrared spectra. In the prototypical Haldane and Kane-Mele models, the Born effective charges, which measure the interaction between infrared light and phonons, are nearly quantized and exhibit a sharp change that coincides with the topological phase transition. In the Haldane model, which breaks time-reversal symmetry, a similar discontinuous shift is also observed in the chiral phonon splitting.
+
+[Phys. Rev. B 110, L201405] Published Wed Nov 13, 2024]]></summary>
+        <author>
+            <name>Paolo Fachin, Francesco Macheda, Paolo Barone, and Francesco Mauri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spectroscopic Measurements and Models of Energy Deposition in the Substrate of Quantum Circuits by Natural Ionizing Radiation]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.040323</id>
@@ -1209,97 +1300,6 @@ Resonator cavities are known to influence the rate of energy exchange between ne
 [Phys. Rev. B 110, 155435] Published Thu Oct 24, 2024]]></summary>
         <author>
             <name>Elliot K. Beutler, Jon P. Camden, and David J. Masiello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generalized theory for optical cooling of a trapped atom with spin]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.043116</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.043116"/>
-        <updated>2024-10-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Saumitra S. Phatak, Karl N. Blodgett, David Peana, Meng Raymond Chen, and Jonathan D. Hood
-The authors develop a generalized optical cooling model for a bound atom with spin in a single or counterpropagating beam configuration with different polarizations. They perform simulations with hyperfine levels and demonstrate good agreement with a simplified spin model. The results provide valuable insights into optimizing cooling schemes.
-
-[Phys. Rev. A 110, 043116] Published Thu Oct 24, 2024]]></summary>
-        <author>
-            <name>Saumitra S. Phatak, Karl N. Blodgett, David Peana, Meng Raymond Chen, and Jonathan D. Hood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optically resolved exchange splittings in the doped van der Waals ferromagnet ${\mathrm{CrBr}}_{3}:{\mathrm{Yb}}^{3+}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.104410</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.104410"/>
-        <updated>2024-10-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Thom J. Snoeren, Kimo Pressler, and Daniel R. Gamelin
-The use of impurities to generate new properties in magnetic CrX3 compounds remains surprisingly underexplored. The authors report the magneto-optical properties of Yb3+-doped CrBr3, in which Yb3+ serves as a spin-bearing optical point defect. Their data reveal that ground- and excited-state Yb3+ spin degeneracies are spontaneously lifted through strong magnetic exchange with neighboring Cr3+ ions, such that individual Yb3+ spin transitions are resolved even at zero external field, and Yb3+ spins are easily manipulated via CrBr3 magnetization. The large Yb3+ spin splittings present unique opportunities for optical spin manipulation of point defects and highlight the use of impurities to add spin-photonic functionalities to this classic 2D van der Waals magnet.
-
-[Phys. Rev. Materials 8, 104410] Published Wed Oct 23, 2024]]></summary>
-        <author>
-            <name>Thom J. Snoeren, Kimo Pressler, and Daniel R. Gamelin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Individual-Ion Addressing and Readout in a Penning Trap]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.173201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.173201"/>
-        <updated>2024-10-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Brian J. McMahon, Kenton R. Brown, Creston D. Herold, and Brian C. Sawyer
-A way to address the individual ions of a rotating ion crystal could allow scientists to perform quantum simulations in which each qubit can be carefully controlled.
-
-[Phys. Rev. Lett. 133, 173201] Published Wed Oct 23, 2024]]></summary>
-        <author>
-            <name>Brian J. McMahon, Kenton R. Brown, Creston D. Herold, and Brian C. Sawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimization Methodology of Polar Direct-Drive Illumination for the National Ignition Facility]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.175101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.175101"/>
-        <updated>2024-10-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. E. M. Barlow, A. Colaïtis, D. Viala, M. J. Rosenberg, I. Igumenshchev, V. Goncharov, L. Ceurvorst, P. B. Radha, W. Theobald, R. S. Craxton, M. J. V. Streeter, R. H. H. Scott, K. Glize, T. Chapman, and J. Mathiaud
-An automatic, algorithmic technique can find optimal laser configurations for inertial-confinement fusion—one of two main fusion approaches.
-
-[Phys. Rev. Lett. 133, 175101] Published Wed Oct 23, 2024]]></summary>
-        <author>
-            <name>D. E. M. Barlow, A. Colaïtis, D. Viala, M. J. Rosenberg, I. Igumenshchev, V. Goncharov, L. Ceurvorst, P. B. Radha, W. Theobald, R. S. Craxton, M. J. V. Streeter, R. H. H. Scott, K. Glize, T. Chapman, and J. Mathiaud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static and fluctuating zigzag order and possible signatures of Kitaev physics in torque measurements of $α\text{−}{\mathrm{RuCl}}_{3}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.134439</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.134439"/>
-        <updated>2024-10-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. Froude-Powers, Subin Kim, Jacob Gordon, Hae-Young Kee, Young-June Kim, and S. R. Julian
-The Kitaev spin liquid is a long-sought state of matter, for which α-RuCl3 has been a leading candidate since the observation of an apparently quantized thermal Hall effect at high magnetic field. In 2021, Gordon and Kee predicted a distinctive signature that must be present in the magnetic torque of such a Kitaev system. The authors of this paper report torque measurements that, after accounting for unexpected signals associated with magnetic order, do not show this predicted signature.
-
-[Phys. Rev. B 110, 134439] Published Wed Oct 23, 2024]]></summary>
-        <author>
-            <name>S. Froude-Powers, Subin Kim, Jacob Gordon, Hae-Young Kee, Young-June Kim, and S. R. Julian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orbital selective order and ${\mathbb{Z}}_{3}$ Potts nematicity from a non-Fermi liquid]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.165158</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.165158"/>
-        <updated>2024-10-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): YuZheng Xie, Andrew Hardy, and Arun Paramekanti
-Electronic liquid crystals are ubiquitous in strongly correlated matter, and often seen in multiorbital materials exhibiting non-Fermi-liquid transport. The authors propose here and analyze a three-orbital Sachdev-Ye-Kitaev model that hosts a uniform solution corresponding to a ℤ3 Potts nematic. In the atomic limit, this model displays an orbital-selective non-Fermi liquid down to T=0. On the triangular and cubic lattice, this evolves into a nematic with highly anisotropic transport, reminiscent of dynamical mean field theory studies of multiorbital Hubbard models.
-
-[Phys. Rev. B 110, 165158] Published Wed Oct 23, 2024]]></summary>
-        <author>
-            <name>YuZheng Xie, Andrew Hardy, and Arun Paramekanti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coherent control of a triangular exchange-only spin qubit]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.044057</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.044057"/>
-        <updated>2024-10-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Edwin Acuna, Joseph D. Broz, Kaushal Shyamsundar, Antonio B. Mei, Colin P. Feeney, Valerie Smetanka, Tiffany Davis, Kangmu Lee, Maxwell D. Choi, Brydon Boyd, June Suh, Wonill Ha, Cameron Jennings, Andrew S. Pan, Daniel S. Sanchez, Matthew D. Reed, and Jason R. Petta
-Semiconductor spin qubits are a promising platform for spin-based quantum computing due to their high density and fast gate speeds. Most research to date has focused on linear quantum dot arrays with limited qubit connectivity. Scaling up these devices is desired, but the fabrication process has been an obstacle. Using a semiconductor manufacturing approach, the authors demonstrate a closely packed two-dimensional array of quantum dots with qubit fidelities exceeding 99.8%. The device architecture opens the door to fabricating larger two-dimensional quantum dot arrays with high connectivity.
-
-[Phys. Rev. Applied 22, 044057] Published Wed Oct 23, 2024]]></summary>
-        <author>
-            <name>Edwin Acuna, Joseph D. Broz, Kaushal Shyamsundar, Antonio B. Mei, Colin P. Feeney, Valerie Smetanka, Tiffany Davis, Kangmu Lee, Maxwell D. Choi, Brydon Boyd, June Suh, Wonill Ha, Cameron Jennings, Andrew S. Pan, Daniel S. Sanchez, Matthew D. Reed, and Jason R. Petta</name>
         </author>
     </entry>
 </feed>
