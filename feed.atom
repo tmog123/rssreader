@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-19T01:03:50.345Z</id>
+    <id>urn:2024-11-20T01:03:02.016Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-19T01:03:50.345Z</updated>
+    <updated>2024-11-20T01:03:02.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Duality Constraints on Thermal Spectra of 3D Conformal Field Theories and 4D Quasinormal Modes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.211601</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.211601"/>
+        <updated>2024-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sašo Grozdanov and Mile Vrbica
+New universal duality relations constrain the thermal spectra of 3D conformal field theories and the quasinormal spectra of their black hole duals.
+
+[Phys. Rev. Lett. 133, 211601] Published Tue Nov 19, 2024]]></summary>
+        <author>
+            <name>Sašo Grozdanov and Mile Vrbica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Separating dark acoustic oscillations from astrophysics at cosmic dawn]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.103533</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.103533"/>
+        <updated>2024-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jo Verwohlt, Charlotte A. Mason, Julian B. Muñoz, Francis-Yan Cyr-Racine, Mark Vogelsberger, and Jesús Zavala
+Low-frequency radio observations could allow researchers to distinguish among several dark matter models, thanks to dark matter’s influence on the early Universe.
+
+[Phys. Rev. D 110, 103533] Published Tue Nov 19, 2024]]></summary>
+        <author>
+            <name>Jo Verwohlt, Charlotte A. Mason, Julian B. Muñoz, Francis-Yan Cyr-Racine, Mark Vogelsberger, and Jesús Zavala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Altermagnetism on the Shastry-Sutherland lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.205140</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.205140"/>
+        <updated>2024-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Francesco Ferrari and Roser Valentí
+Altermagnetism is an unconventional form of magnetic order characterized by spin-split electronic bands and zero net magnetization. Here, the authors utilize a variational Monte Carlo approach to reveal the emergence of d-wave altermagnetism in the Hubbard model on the Shastry-Sutherland lattice and demonstrate how strong electronic correlations manifest in the metal-insulator transition. The calculation of photoemission spectral functions highlights the presence of altermagnetic Zeeman splitting, also in the Mott insulating phase (and upon doping).
+
+[Phys. Rev. B 110, 205140] Published Tue Nov 19, 2024]]></summary>
+        <author>
+            <name>Francesco Ferrari and Roser Valentí</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deconfined quantum criticality in Ising gauge theory entangled with single-component fermions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L201110</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L201110"/>
+        <updated>2024-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Umberto Borla, Snir Gazit, and Sergej Moroz
+Investigating novel manifestations of quantum criticality is central to modern theoretical condensed matter physics. Here, the authors unveil the exotic quantum phase diagram of a two-dimensional system of single-component fermions, minimally coupled to dynamical Ising gauge fields. With state-of-the-art numerical methods, the authors detect a robust quantum critical line, where gauge confinement and translation symmetry breaking occur simultaneously. The authors conjecture a u(1) deconfined criticality scenario, and propose a corresponding low-energy effective field theory of the exotic quantum critical point.
+
+[Phys. Rev. B 110, L201110] Published Tue Nov 19, 2024]]></summary>
+        <author>
+            <name>Umberto Borla, Snir Gazit, and Sergej Moroz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anderson localization versus hopping asymmetry in a disordered lattice]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.053517</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.053517"/>
+        <updated>2024-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): E. T. Kokkinakis, K. G. Makris, and E. N. Economou
+Within the framework of non-Hermitian photonics, the authors investigate the interplay between disorder and non-Hermiticity in a one-dimensional disordered lattice. They show that the competition between the effects of disorder and non-Hermiticity results in qualitatively distinct phases of wave diffraction, including counterintuitive characteristics regarding the relation between the strength of disorder and the wave packet’s velocity.
+
+[Phys. Rev. A 110, 053517] Published Tue Nov 19, 2024]]></summary>
+        <author>
+            <name>E. T. Kokkinakis, K. G. Makris, and E. N. Economou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nonrelativistic Spin Splitting at the Brillouin Zone Center in Compensated Magnets]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.216701</id>
@@ -479,7 +544,8 @@ The first experimental demonstration of two schemes to enhance the longitudinal 
         <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.206502"/>
         <updated>2024-11-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Zhihuan Dong, Adarsh S. Patri, and T. Senthil
-Remarkable recent experiments on the moiré structure formed by pentalayer rhombohedral graphene aligned with a hexagonal boron nitride substrate report the discovery of a zero field fractional quantum Hall effect. These “(fractional) quantum anomalous Hall” [(F)QAH] phases occur for one sign of a pe…
+Fractional quantum anomalous Hall phases in rhombohedral multilayer graphene.
+
 [Phys. Rev. Lett. 133, 206502] Published Tue Nov 12, 2024]]></summary>
         <author>
             <name>Zhihuan Dong, Adarsh S. Patri, and T. Senthil</name>
@@ -1235,71 +1301,6 @@ The authors present a combined experimental and theoretical study of the decay o
 [Phys. Rev. A 110, 042828] Published Thu Oct 31, 2024]]></summary>
         <author>
             <name>Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Principles Numerical Demonstration of Emergent Decoherent Histories]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.041027</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.041027"/>
-        <updated>2024-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Philipp Strasberg, Teresa E. Reinhard, and Joseph Schindler
-Simulations deliver hints on how the multiverse produced according to the many-worlds interpretation of quantum mechanics might be compatible with our stable, classical Universe.
-
-[Phys. Rev. X 14, 041027] Published Wed Oct 30, 2024]]></summary>
-        <author>
-            <name>Philipp Strasberg, Teresa E. Reinhard, and Joseph Schindler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensor product random matrix theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042029</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.L042029"/>
-        <updated>2024-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alexander Altland, Joaquim Telles de Miranda, and Tobias Micklitz
-This article analyzes and solves a minimal model showcasing the dynamics of quantum thermalization in the case where two random subsystems mutually act as “bath” for each other.
-
-[Phys. Rev. Research 6, L042029] Published Wed Oct 30, 2024]]></summary>
-        <author>
-            <name>Alexander Altland, Joaquim Telles de Miranda, and Tobias Micklitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Inequalities for Quantum Black Holes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.181501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.181501"/>
-        <updated>2024-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Antonia M. Frassino, Robie A. Hennigar, Juan F. Pedraza, and Andrew Svesko
-New spacetime inequalities applicable to quantum-corrected black holes to all orders of backreaction are proposed for the first time in three dimensions.
-
-[Phys. Rev. Lett. 133, 181501] Published Wed Oct 30, 2024]]></summary>
-        <author>
-            <name>Antonia M. Frassino, Robie A. Hennigar, Juan F. Pedraza, and Andrew Svesko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strange Metal and Superconductor in the Two-Dimensional Yukawa-Sachdev-Ye-Kitaev Model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.186502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.186502"/>
-        <updated>2024-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chenyuan Li, Davide Valentinis, Aavishkar A. Patel, Haoyu Guo, Jörg Schmalian, Subir Sachdev, and Ilya Esterlis
-Focusing on the inhomogeneity in the position of a quantum phase transition of so called strange metals provides answers to key puzzles in high-temperature superconductivity
-
-[Phys. Rev. Lett. 133, 186502] Published Wed Oct 30, 2024]]></summary>
-        <author>
-            <name>Chenyuan Li, Davide Valentinis, Aavishkar A. Patel, Haoyu Guo, Jörg Schmalian, Subir Sachdev, and Ilya Esterlis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analytical prediction for the steady-state behavior of a confined drop with interface viscosity under shear flow]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.9.103603</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.9.103603"/>
-        <updated>2024-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Guglietta and F. Pelusi
-The present study provides a comprehensive analytical prediction for the steady-state deformation and inclination angle of drops under shear flow, considering both confinement and interface viscosity. By merging the theories for confined and unconfined drops, the model accurately captures the behavior across a wide range of conditions, offering a robust tool for applications in complex fluids. Immersed boundary-lattice Boltzmann simulations were performed to further validate the results.
-
-[Phys. Rev. Fluids 9, 103603] Published Wed Oct 30, 2024]]></summary>
-        <author>
-            <name>F. Guglietta and F. Pelusi</name>
         </author>
     </entry>
 </feed>
