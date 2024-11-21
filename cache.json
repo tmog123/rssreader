@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.216402",
+          "author": "Jiachen Li and Tianyu Zhu",
+          "description": "Author(s): Jiachen Li and Tianyu Zhu\nA new framework that embeds electrons in a surrounding bath captures nonlocal correlation effects that are relevant to metals, semiconductors, and correlated insulators.\n\n[Phys. Rev. Lett. 133, 216402] Published Wed Nov 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.216402",
+          "publishedOn": "2024-11-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Interacting-Bath Dynamical Embedding for Capturing Nonlocal Electron Correlation in Solids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.216901",
+          "author": "Ivan Toftul, Pavel Tonkaev, Kirill Koshelev, Fangxing Lai, Qinghai Song, Maxim Gorkunov, and Yuri Kivshar",
+          "description": "Author(s): Ivan Toftul, Pavel Tonkaev, Kirill Koshelev, Fangxing Lai, Qinghai Song, Maxim Gorkunov, and Yuri Kivshar\nContrary to conventional wisdom, a lattice of engineered nanoparticles called meta-atoms can have a chiral optical response even when each meta-atom is not chiral.\n\n[Phys. Rev. Lett. 133, 216901] Published Wed Nov 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.216901",
+          "publishedOn": "2024-11-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Chiral Dichroism in Resonant Metasurfaces with Monoclinic Lattices",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.114607",
+          "author": "Kerry S. Klemmer and Michael F. Howland",
+          "description": "Author(s): Kerry S. Klemmer and Michael F. Howland\nAs wind turbines increase in scale and are deployed in diverse atmospheric conditions, understanding wake dynamics in stratified atmospheric boundary layers becomes critical. This study uses large eddy simulations to analyze the mechanisms that govern wake momentum deficit and added turbulence kinetic energy transport in stable and neutral atmospheric boundary layers. Findings reveal that dynamics are strongly influenced by effects of stratification on the atmospheric inflow, rather than buoyant forcing, and the dependence of wake-added turbulence on stability. These insights can guide new models that better predict wakes across conditions, contributing to more efficient wind power.\n\n[Phys. Rev. Fluids 9, 114607] Published Wed Nov 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.9.114607",
+          "publishedOn": "2024-11-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Momentum deficit and wake-added turbulence kinetic energy budgets in the stratified atmospheric boundary layer",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.110.054127",
+          "author": "Anıl Cengiz and Sean D. Lawley",
+          "description": "Author(s): Anıl Cengiz and Sean D. Lawley\nThis work considers the narrow-escape problem in a three-dimensional domain with partially reactive traps on an otherwise reflecting boundary. The authors derive asymptotic results for three regimes, where traps have high, medium, or low reactivity. This problem is of particular interest in cell biology, where molecules diffuse to find small targets on a cell membrane.\n\n[Phys. Rev. E 110, 054127] Published Wed Nov 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.110.054127",
+          "publishedOn": "2024-11-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Narrow escape with imperfect reactions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.110.094040",
+          "author": "Matthias Berwein, Nora Brambilla, Abhishek Mohapatra, and Antonio Vairo",
+          "description": "Author(s): Matthias Berwein, Nora Brambilla, Abhishek Mohapatra, and Antonio Vairo\nThe authors develop an effective theory, based on the nonrelativistic Born-Oppenheimer approximation, to treat systems with two heavy quarks or a heavy quark-antiquark pair and light degrees of freedom. This allows for a unified treatment of quarkonia, doubly heavy baryons, and exotic states such as hybrids, tetraquarks, and pentaquarks.\n\n[Phys. Rev. D 110, 094040] Published Wed Nov 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.110.094040",
+          "publishedOn": "2024-11-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hybrids, tetraquarks, pentaquarks, doubly heavy baryons, and quarkonia in Born-Oppenheimer effective theory",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.205424",
+          "author": "C. Hermansen, M. Caltapanides, V. Meden, and J. Paaske",
+          "description": "Author(s): C. Hermansen, M. Caltapanides, V. Meden, and J. Paaske\nQuantum dot arrays offer a natural representation of the interacting π-electron system of small hydrocarbon molecules. This paper proposes an extension of quantum dot simulators to include also the molecular vibrational modes represented by single-mode microwave resonators coupled capacitively to the quantum dots. The authors calculate the gate-tunable energy transfer from a voltage-biased triple quantum dot system to a single damped resonator mode and find a pronounced maximum near an interference node in the electrical current.\n\n[Phys. Rev. B 110, 205424] Published Wed Nov 20, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.205424",
+          "publishedOn": "2024-11-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Simulating electron-vibron energy transfer with quantum dots and resonators",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.211601",
           "author": "Sašo Grozdanov and Mile Vrbica",
           "description": "Author(s): Sašo Grozdanov and Mile Vrbica\nNew universal duality relations constrain the thermal spectra of 3D conformal field theories and the quasinormal spectra of their black hole duals.\n\n[Phys. Rev. Lett. 133, 211601] Published Tue Nov 19, 2024",
@@ -943,66 +1003,6 @@
           "publishedOn": "2024-11-01T10:00:00.000Z",
           "wordCount": null,
           "title": "Tailor-Designed Models for the Turbulent Velocity Gradient through Normalizing Flow",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.184501",
-          "author": "Kosuke Nogaki and Youichi Yanase",
-          "description": "Author(s): Kosuke Nogaki and Youichi Yanase\nMagnetic field induced superconductivity is a counterintuitive phenomenon and has long been a challenge in the realm of condensed matter physics. The authors present here a novel mechanism to realize magnetic field induced superconductivity, in which the interplay between sublattice degrees of freedom and the Coulomb interaction plays a crucial role. This study significantly advances our understanding of the untapped phenomena in strongly correlated electron systems endowed with sublattice degrees of freedom, which are ubiquitous in superconductors attracting recent interest.\n\n[Phys. Rev. B 110, 184501] Published Fri Nov 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.184501",
-          "publishedOn": "2024-11-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Field-induced superconductivity mediated by odd-parity multipole fluctuation",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.054003",
-          "author": "Yi-Long Chen (陈一龙), Rui-Rui Li (李睿睿), Ran He (贺冉), Shu-Qian Chen (陈树谦), Wen-Hao Qi (亓文昊), Jin-Ming Cui (崔金明), Yun-Feng Huang (黄运锋), Chuan-Feng Li (李传锋), and Guang-Can Guo (郭光灿)",
-          "description": "Author(s): Yi-Long Chen (陈一龙), Rui-Rui Li (李睿睿), Ran He (贺冉), Shu-Qian Chen (陈树谦), Wen-Hao Qi (亓文昊), Jin-Ming Cui (崔金明), Yun-Feng Huang (黄运锋), Chuan-Feng Li (李传锋), and Guang-Can Guo (郭光灿)\nIndividual addressing with low crosstalk is crucial for high-fidelity quantum gates in trapped-ion systems, but technical challenges in reducing ion crosstalk have thwarted progress. This study uses symmetrically configured acousto-optic deflectors to achieve a Rabi-rate crosstalk as low as 1.19(5)×10−3. Additionally, such deflectors offer flexible manipulation and two-dimensional addressing, making them a promising platform for scalable quantum circuits. This result could significantly advance the practical application of fault-tolerant quantum computing.\n\n[Phys. Rev. Applied 22, 054003] Published Fri Nov 01, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.054003",
-          "publishedOn": "2024-11-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-crosstalk optical addressing system for atomic qubits based on multiple objectives and acousto-optic deflectors",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.183001",
-          "author": "Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf",
-          "description": "Author(s): Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf\nSometimes a rotating molecule can transition to a new state only if an electron carries away some of the molecule’s angular momentum.\n\n[Phys. Rev. Lett. 133, 183001] Published Thu Oct 31, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.183001",
-          "publishedOn": "2024-10-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Autodetachment of Diatomic Carbon Anions from Long-Lived High-Rotation Quartet States",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.184101",
-          "author": "Alban Pothérat, Kélig Aujogue, and François Debray",
-          "description": "Author(s): Alban Pothérat, Kélig Aujogue, and François Debray\nA “Little Earth Experiment” inside a giant magnet sheds light on so-far-unexplained flow patterns in Earth’s interior.\n\n[Phys. Rev. Lett. 133, 184101] Published Thu Oct 31, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.184101",
-          "publishedOn": "2024-10-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Magnetic Taylor-Proudman Constraint Explains Flows into the Tangent Cylinder",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.185101",
-          "author": "J. L. Velasco, I. Calvo, F. J. Escoto, E. Sánchez, H. Thienpondt, and F. I. Parra",
-          "description": "Author(s): J. L. Velasco, I. Calvo, F. J. Escoto, E. Sánchez, H. Thienpondt, and F. I. Parra\nBreaking the problem into pieces makes it easier to design a fusion reactor’s coils for optimum energy confinement.\n\n[Phys. Rev. Lett. 133, 185101] Published Thu Oct 31, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.185101",
-          "publishedOn": "2024-10-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Piecewise Omnigenous Stellarators",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.110.042828",
-          "author": "Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf",
-          "description": "Author(s): Viviane C. Schmidt, Roman Čurík, Milan Ončák, Klaus Blaum, Sebastian George, Jürgen Göck, Manfred Grieser, Florian Grussie, Robert von Hahn, Claude Krantz, Holger Kreckel, Oldřich Novotný, Kaija Spruck, and Andreas Wolf\nThe authors present a combined experimental and theoretical study of the decay of excited dicarbon anions, to address possible mechanisms leading to the delayed autofragmentation and autodetachment that has been observed before, but has not been well understood. Their results present strong evidence that C2− ions in quasistable levels of the quartet electronic states are the so-far unidentified source of the unimolecular decay.\n\n[Phys. Rev. A 110, 042828] Published Thu Oct 31, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.110.042828",
-          "publishedOn": "2024-10-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Unimolecular processes in diatomic carbon anions at high rotational excitation",
           "imageUrl": null
         }
       ]
