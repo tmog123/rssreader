@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.223402",
+          "author": "D. S. Grün, S. J. M. White, A. Ortu, A. Di Carli, H. Edri, M. Lepers, M. J. Mark, and F. Ferlaino",
+          "description": "Author(s): D. S. Grün, S. J. M. White, A. Ortu, A. Di Carli, H. Edri, M. Lepers, M. J. Mark, and F. Ferlaino\nErbium and similar elements provide a wide range of electronic “handles” for manipulating atoms in many-body quantum experiments.\n\n[Phys. Rev. Lett. 133, 223402] Published Tue Nov 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.223402",
+          "publishedOn": "2024-11-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Optical Tweezer Arrays of Erbium Atoms",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.228301",
+          "author": "Martin Cramer Pedersen, Sourav Mukherjee, Amin Doostmohammadi, Chandana Mondal, and Kristian Thijssen",
+          "description": "Author(s): Martin Cramer Pedersen, Sourav Mukherjee, Amin Doostmohammadi, Chandana Mondal, and Kristian Thijssen\nWhen doped with active particles that serve as a means of local energy injection, colloidal gels can dynamically adopt highly porous yet compact bulk structures\n\n[Phys. Rev. Lett. 133, 228301] Published Tue Nov 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.228301",
+          "publishedOn": "2024-11-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Active Particles Knead Three-Dimensional Gels into Porous Structures",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.174449",
+          "author": "Vladislav Bilyk, Elena Mishina, Theo Rasing, and Alexey Kimel",
+          "description": "Author(s): Vladislav Bilyk, Elena Mishina, Theo Rasing, and Alexey Kimel\nDeveloping efficient means to control and detect stable spin states in antiferromagnets, which often do not have any net magnetization, has been a challenge since the very discovery of antiferromagnetism. Here, the authors report on experimental study of ultrafast Second Harmonic Generation (SHG) from antiferromagnetic Cr2O3 excited by an intense nearly single cycle terahertz (THz) pulse. The authors show that although SHG is an efficient mean to detect stable spin states in this compound and THz pulse is an efficient mean to control them, THz-induced SHG transients appear to have no relation to spin dynamics and can be explained in terms of THz electric field induced SHG.\n\n[Phys. Rev. B 110, 174449] Published Tue Nov 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.174449",
+          "publishedOn": "2024-11-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Terahertz-induced second harmonic generation dynamics in antiferromagnetic ${\\mathrm{Cr}}_{2}{\\mathrm{O}}_{3}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.205150",
+          "author": "Andrew C. Burgess and David D. O'Regan",
+          "description": "Author(s): Andrew C. Burgess and David D. O'Regan\nThe authors construct here a DFT+U type corrective functional using exact quantum conditions instead of the Hubbard model. DFT+U is widely used in density functional theory, particularly for transition-metal and rare-earth bearing materials. In several small molecules, providing stringent, near-ideal test cases, traditional DFT+U worsens the total energy. The introduced mBLOR functional, with parameters calculated in situ, instead reduces errors significantly. It incorporates simplified interorbital error corrections, is free of double-counting approximations, and opens gaps without unphysical symmetry breaking.\n\n[Phys. Rev. B 110, 205150] Published Tue Nov 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.205150",
+          "publishedOn": "2024-11-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Flat plane based double-counting free and parameter free many-body $\\mathrm{DFT}+U$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.205431",
+          "author": "Cheng Guo and Shanhui Fan",
+          "description": "Author(s): Cheng Guo and Shanhui Fan\nPassivity is a fundamental property of many physical systems, characterizing their inability to generate energy. The authors investigate here passivity constraints on the relations between transmission, reflection, and absorption eigenvalues in linear time-invariant systems. The analysis shows that the set of allowable eigenvalue combinations forms a convex polyhedron. The theory reveals a surprising connection to Horn’s inequalities, a fundamental result in matrix theory. It has significant implications for the design and optimization of passive devices in optics, acoustics, and mesoscopic physics.\n\n[Phys. Rev. B 110, 205431] Published Tue Nov 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.205431",
+          "publishedOn": "2024-11-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Passivity constraints on the relations between transmission, reflection, and absorption eigenvalues",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.L180202",
+          "author": "Tobias Binninger, Yin-Ying Ting, Piotr M. Kowalski, and Michael H. Eikerling",
+          "description": "Author(s): Tobias Binninger, Yin-Ying Ting, Piotr M. Kowalski, and Michael H. Eikerling\nConfigurational sampling is an exponentially scaling problem widely encountered in computational materials research. Quantum computing techniques can provide new solutions to such classically hard-to-solve problems. Here, the authors introduce a method that enables the use of quantum annealing to determine the ionic ground state configuration in a battery material. The method relies on a grand-canonical transformation of the energy cost function that strongly reduces the effective coupling strengths of the interaction graph, which is essential for effectiveness of quantum annealing.\n\n[Phys. Rev. B 110, L180202] Published Tue Nov 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L180202",
+          "publishedOn": "2024-11-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Optimization of ionic configurations in battery materials by quantum annealing",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.L201118",
+          "author": "Yao-Jui Chan, Syed Mohammed Faizanuddin, Raju Kalaivanan, Sankar Raman, Hsin Lin, Uddipta Kar, Akhilesh Kr. Singh, Wei-Li Lee, Ranganayakulu K. Vankayala, Min-Nan Ou, and Yu-Chieh Wen",
+          "description": "Author(s): Yao-Jui Chan, Syed Mohammed Faizanuddin, Raju Kalaivanan, Sankar Raman, Hsin Lin, Uddipta Kar, Akhilesh Kr. Singh, Wei-Li Lee, Ranganayakulu K. Vankayala, Min-Nan Ou, and Yu-Chieh Wen\nNonlinear photocurrents in topological semimetals encode quantum geometric characters of Bloch wavefunctions and band topology, and offer a new opportunity for advanced photovoltaics. Here, the authors characterize the nonlinear photoconductivities of chiral multifold semimetal CoSi through a refined terahertz emission spectroscopy analysis. The results reveal a large linear shift conductivity and confirm a giant nonquantized circular injection conductivity in the mid-infrared range. Bulk transverse injection currents and relatively weak photon drag effect are also identified.\n\n[Phys. Rev. B 110, L201118] Published Tue Nov 26, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L201118",
+          "publishedOn": "2024-11-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Origin of nonlinear photocurrents in chiral multifold semimetal CoSi unveiled by terahertz emission spectroscopy",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.221001",
           "author": "F. Aharonian <em>et al.</em> (H.E.S.S. Collaboration)",
           "description": "Author(s): F. Aharonian et al. (H.E.S.S. Collaboration)\nA new analysis of more than a decade’s worth of observations extends the spectrum of cosmic-ray electrons to unprecedented high energies.\n\n[Phys. Rev. Lett. 133, 221001] Published Mon Nov 25, 2024",
@@ -933,76 +1003,6 @@
           "publishedOn": "2024-11-06T10:00:00.000Z",
           "wordCount": null,
           "title": "Noninvertible Symmetries Act Locally by Quantum Operations",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.198201",
-          "author": "Barath Venkateswaran, Trevor J. Jones, Grace Kresge, Joel Marthelot, Etienne Jambon-Puillet, and P.-T. Brun",
-          "description": "Author(s): Barath Venkateswaran, Trevor J. Jones, Grace Kresge, Joel Marthelot, Etienne Jambon-Puillet, and P.-T. Brun\nBy repeatedly applying coats of a hardening polymer to a surface, researchers have created rubbery stalactite-like formations that could be useful in soft robotics.\n\n[Phys. Rev. Lett. 133, 198201] Published Wed Nov 06, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.198201",
-          "publishedOn": "2024-11-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Stacked Rayleigh-Taylor Instabilities Grow Drops into Soft Stalactitelike Structures",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.174409",
-          "author": "C. Spezzani <em>et al.</em>",
-          "description": "Author(s): C. Spezzani et al.\nThe authors demonstrate the generation of elliptically polarized femtosecond pulses from a seeded free electron laser (FEL) in the 700–800 eV range. Using a variable-polarization undulator, they achieved on-axis elliptical polarization at the third harmonic of FEL’s fundamental wavelength, enabling studies based on magnetic circular dichroism at the Fe L2,3 edge. These results pave the way for investigations of transition metals, covering both the M and L edges at the FERMI FEL at Elettra Sincrotrone Trieste.\n\n[Phys. Rev. B 110, 174409] Published Wed Nov 06, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.174409",
-          "publishedOn": "2024-11-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circular dichroism experiments at the $L$ edge of magnetic transition metals enabled by elliptically polarized pulses from a seeded free-electron laser",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.205115",
-          "author": "Daniel Seleznev, Jennifer Cano, and David Vanderbilt",
-          "description": "Author(s): Daniel Seleznev, Jennifer Cano, and David Vanderbilt\nTopological flat bands offer a unique opportunity to study the interplay between electronic correlations and band topology, giving rise to correlation-induced topological phases, such as fractional quantum Hall states. Here, the authors explore the generation of topological flat bands in Bernal-stacked bilayer graphene via application of commensurate electric and magnetic superlattices. Tuning these superlattices reveals their versatility in producing topological flat bands, including those with high Chern numbers. The authors additionally propose a novel, tunable setup involving magnetoelectrics and type-II superconductors to generate such superlattices.\n\n[Phys. Rev. B 110, 205115] Published Wed Nov 06, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.205115",
-          "publishedOn": "2024-11-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Inducing topological flat bands in bilayer graphene with electric and magnetic superlattices",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.043104",
-          "author": "Liang Si, Eric Jacob, Wenfeng Wu, Andreas Hausoel, Juraj Krsnik, Paul Worm, Simone Di Cataldo, Oleg Janson, and Karsten Held",
-          "description": "Author(s): Liang Si, Eric Jacob, Wenfeng Wu, Andreas Hausoel, Juraj Krsnik, Paul Worm, Simone Di Cataldo, Oleg Janson, and Karsten Held\nDensity-functional theory plus dynamical mean-field theory correctly predicted the Fermi surface and quasiparticle renormalization in infinite-layer nickelates. There is no Ni-3dz2 Fermi surface and no Γ pocket, justifying a minimal model with correlated Ni-3dx2−y2 orbital and weakly correlated A pocket only.\n\n[Phys. Rev. Research 6, 043104] Published Tue Nov 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.6.043104",
-          "publishedOn": "2024-11-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Closing in on possible scenarios for infinite-layer nickelates: Comparison of dynamical mean-field theory with angular-resolved photoemission spectroscopy",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.114407",
-          "author": "Chengkun Xing, Shu Zhang, Weiliang Yao, Dapeng Cui, Qing Huang, Junyi Yang, Shashi Pandey, Dongliang Gong, Lukas Horák, Yan Xin, Eun Sang Choi, Yang Zhang, Haidong Zhou, and Jian Liu",
-          "description": "Author(s): Chengkun Xing, Shu Zhang, Weiliang Yao, Dapeng Cui, Qing Huang, Junyi Yang, Shashi Pandey, Dongliang Gong, Lukas Horák, Yan Xin, Eun Sang Choi, Yang Zhang, Haidong Zhou, and Jian Liu\nQuantum mechanics permits entanglement and state-tunneling of spins, enabling magnetic materials to rapidly alter configurations without energy expenditure. However, strong quantum spin fluctuations typically arise in nonconductive frustrated magnets, limiting their technological application. The authors demonstrate that an epitaxial conductive film grown on an insulating magnetic substrate exhibits resistance behaviors reflective of the substrate’s quantum spin fluctuations. This correlation is evident across various temperatures and magnetic fields, showcasing excellent controls. Their findings suggest a novel proximitized transport approach to mediating electronic behaviors by quantum spin fluctuations and harnessing insulating quantum magnets for advanced spin electronics.\n\n[Phys. Rev. Materials 8, 114407] Published Tue Nov 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.114407",
-          "publishedOn": "2024-11-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Anomalous proximitized transport in metal/quantum magnet heterostructure ${\\mathrm{Bi}}_{2}{\\mathrm{Ir}}_{2}{\\mathrm{O}}_{7}/{\\mathrm{Yb}}_{2}{\\mathrm{Ti}}_{2}{\\mathrm{O}}_{7}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.115602",
-          "author": "Jaehee Lee, Jeongun Lee, Seounghee Yun, Sanha Kim, Howon Lee, Shawn A. Chester, and Hansohl Cho",
-          "description": "Author(s): Jaehee Lee, Jeongun Lee, Seounghee Yun, Sanha Kim, Howon Lee, Shawn A. Chester, and Hansohl Cho\nHighly stretchable elastomeric materials often exhibit size-dependent, nonlocal features in damage and fracture processes. This study investigates the nonlocal fracture behavior in a broad variety of elastomers which display moderate to extreme stretchability by means of experiments and numerical simulations. The authors highlight that the experimentally observed size-dependent fracture is accurately described by a nonlocal continuum model that makes use of an intrinsic length scale associated with a finite fracture process zone in diverse synthetic elastomers.\n\n[Phys. Rev. Materials 8, 115602] Published Tue Nov 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.115602",
-          "publishedOn": "2024-11-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Size-dependent fracture in elastomers: Experiments and continuum modeling",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.191902",
-          "author": "A. Hayrapetyan <em>et al.</em> (CMS Collaboration)",
-          "description": "Author(s): A. Hayrapetyan et al. (CMS Collaboration)\nA low-energy signature of physics beyond the standard model fails to appear in proton collisions at the Large Hadron Collider.\n\n[Phys. Rev. Lett. 133, 191902] Published Tue Nov 05, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.191902",
-          "publishedOn": "2024-11-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Search for Soft Unclustered Energy Patterns in Proton-Proton Collisions at 13 TeV",
           "imageUrl": null
         }
       ]
