@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-27T01:04:48.625Z</id>
+    <id>urn:2024-11-28T01:04:54.231Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-27T01:04:48.625Z</updated>
+    <updated>2024-11-28T01:04:54.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ultrafast Low-Energy Photoelectron Diffraction for the Study of Surface-Adsorbate Interactions with 100-fs Temporal Resolution]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.226201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.226201"/>
+        <updated>2024-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): H. Erk, C. E. Jensen, S. Jauernik, and M. Bauer
+A novel configuration for pump-probe low-energy electron diffraction uses photoelectrons from the substrate and achieves 100-fs time resolution.
+
+[Phys. Rev. Lett. 133, 226201] Published Wed Nov 27, 2024]]></summary>
+        <author>
+            <name>H. Erk, C. E. Jensen, S. Jauernik, and M. Bauer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optically Defined Phononic Crystal Defect]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.226904</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.226904"/>
+        <updated>2024-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thomas J. Clark, Simon Bernard, Jiaxing Ma, Vincent Dumont, and Jack C. Sankey
+Forces imposed by laser light can manipulate the shape of a membrane’s vibrational modes.
+
+[Phys. Rev. Lett. 133, 226904] Published Wed Nov 27, 2024]]></summary>
+        <author>
+            <name>Thomas J. Clark, Simon Bernard, Jiaxing Ma, Vincent Dumont, and Jack C. Sankey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuning Colloidal Reactions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.228201</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.228201"/>
+        <updated>2024-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ryan K. Krueger, Ella M. King, and Michael P. Brenner
+Researchers used machine learning to optimize the process by which a tiny cage is opened to release a molecule.
+
+[Phys. Rev. Lett. 133, 228201] Published Wed Nov 27, 2024]]></summary>
+        <author>
+            <name>Ryan K. Krueger, Ella M. King, and Michael P. Brenner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Field-angle evolution of the superconducting and magnetic phases of ${\mathrm{UTe}}_{2}$ around the $b$ axis]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.184520</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.184520"/>
+        <updated>2024-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sylvia K. Lewin, Josephine J. Yu, Corey E. Frank, David Graf, Patrick Chen, Sheng Ran, Yun Suk Eo, Johnpierre Paglione, S. Raghu, and Nicholas P. Butch
+Uranium ditelluride (UTe2) is a prospective spin-triplet heavy fermion superconductor with intriguing behavior in high magnetic fields. Here, the authors measure the angular phase boundaries of two superconducting states in UTe2, one of which only exists for large fields along the b axis, by tilting magnetic fields away from the b axis with fields up to 41 T. Their findings indicate that both phases are spin-triplet and that the field-stabilized phase likely experiences paramagnetic limiting with fields away from b.
+
+[Phys. Rev. B 110, 184520] Published Wed Nov 27, 2024]]></summary>
+        <author>
+            <name>Sylvia K. Lewin, Josephine J. Yu, Corey E. Frank, David Graf, Patrick Chen, Sheng Ran, Yun Suk Eo, Johnpierre Paglione, S. Raghu, and Nicholas P. Butch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optical Tweezer Arrays of Erbium Atoms]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.223402</id>
@@ -1109,7 +1161,7 @@ A theoretical model shows that exchange of information plays a key role in the m
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Defect energy formalism for CALPHAD thermodynamics of dilute point defects]]></title>
+        <title type="html"><![CDATA[Defect energy formalism for CALPHAD thermodynamics of dilute point defects: Theory]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.8.113802</id>
         <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.8.113802"/>
         <updated>2024-11-08T10:00:00.000Z</updated>
@@ -1249,58 +1301,6 @@ Accurate modeling of system-bath interactions in quantum systems is a challenge 
 [Phys. Rev. B 110, 184505] Published Thu Nov 07, 2024]]></summary>
         <author>
             <name>O. Kashuba and R.-P. Riwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin orbital lattice entanglement in the ideal $j=\frac{1}{2}$ compound ${\mathrm{K}}_{2}{\mathrm{IrCl}}_{6}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.195120</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.195120"/>
-        <updated>2024-11-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. Warzanowski, M. Magnaterra, Ch. J. Sahle, M. Moretti Sala, P. Becker, L. Bohatý, I. Císařová, G. Monaco, T. Lorenz, P. H. M. van Loosdrecht, J. van den Brink, and M. Grüninger
-Materials with spin-orbit entangled j=½ moments provide a rich playground for frustrated quantum magnetism. Combining resonant inelastic x-ray scattering, optical spectroscopy, and x-ray diffraction, the authors show here that cubic K2IrCl6 hosts ideal spin-orbit entangled j=½ moments. Importantly, they also show that the j=³⁄₂ excited states hybridize with vibrational states leading to spin orbital lattice entanglement in K2IrCl6, thereby substantially enriching the field of spin-orbit entangled materials physics.
-
-[Phys. Rev. B 110, 195120] Published Thu Nov 07, 2024]]></summary>
-        <author>
-            <name>P. Warzanowski, M. Magnaterra, Ch. J. Sahle, M. Moretti Sala, P. Becker, L. Bohatý, I. Císařová, G. Monaco, T. Lorenz, P. H. M. van Loosdrecht, J. van den Brink, and M. Grüninger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferromagnetic ferroelectricity due to the Kugel-Khomskii mechanism of orbital ordering assisted by atomic Hund's second rule effects]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.205116</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.205116"/>
-        <updated>2024-11-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): I. V. Solovyev, R. Ono, and S. A. Nikolaev
-Ferromagnetic ferroelectricity is a fundamentally interesting and technologically important phenomenon. Nevertheless, the coexistence of ferroelectricity and ferromagnetism is extremely rare in nature. Here, the authors propose how the ferromagnetic ferroelectricity can be induced by the orbital degrees of freedom: if two magnetic sites are connected by the spatial inversion and the system can freely choose which orbitals to occupy, the occupation of unlike orbitals across the inversion center will not only stabilize the ferromagnetic coupling, but also break the inversion symmetry, thus resulting in the ferroelectric-ferromagnetic ground state. The phenomenon is expected in the layered van der Waals ferromagnet VI3, where atomic Hund’s second rule effects provide a sufficient flexibility for the orbital degrees of freedom to form the ordered pattern with broken inversion symmetry.
-
-[Phys. Rev. B 110, 205116] Published Thu Nov 07, 2024]]></summary>
-        <author>
-            <name>I. V. Solovyev, R. Ono, and S. A. Nikolaev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poor man's Majorana edge mode enabled by specular Andreev reflection]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L180402</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L180402"/>
-        <updated>2024-11-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. W. J. Beenakker
-The surface of a three-dimensional topological insulator supports a chiral Majorana edge mode at the interface between a superconductor and a magnetic insulator. The complexity of the materials combination is such that this state has not yet been observed. Remarkably enough, a similar state without topological protection appears in proximitized graphene, if the Fermi level of the massless electrons is at the Dirac point. The simplified geometry may favor experimental observation of this “poor-man’s” Majorana mode.
-
-[Phys. Rev. B 110, L180402] Published Thu Nov 07, 2024]]></summary>
-        <author>
-            <name>C. W. J. Beenakker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noninvertible Symmetries Act Locally by Quantum Operations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.191602</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.191602"/>
-        <updated>2024-11-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Masaki Okada and Yuji Tachikawa
-The actions of noninvertible symmetries on local operators can be better understood in terms of quantum operations which include unitary evolutions and measurements.
-
-[Phys. Rev. Lett. 133, 191602] Published Wed Nov 06, 2024]]></summary>
-        <author>
-            <name>Masaki Okada and Yuji Tachikawa</name>
         </author>
     </entry>
 </feed>
