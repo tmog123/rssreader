@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.232502",
+          "author": "P. von Neumann-Cosel, V. O. Nesterenko, I. Brandherm, P. I. Vishnevskiy, P.-G. Reinhard, J. Kvasil, H. Matsubara, A. Repko, A. Richter, M. Scheck, and A. Tamii",
+          "description": "Author(s): P. von Neumann-Cosel, V. O. Nesterenko, I. Brandherm, P. I. Vishnevskiy, P.-G. Reinhard, J. Kvasil, H. Matsubara, A. Repko, A. Richter, M. Scheck, and A. Tamii\nNuclear scattering data suggest the possible observation of a predicted but never-observed nuclear vibration.\n\n[Phys. Rev. Lett. 133, 232502] Published Wed Dec 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.232502",
+          "publishedOn": "2024-12-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Candidate Toroidal Electric Dipole Mode in the Spherical Nucleus $^{58}\\mathrm{Ni}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.238001",
+          "author": "A. O. Parry and C. Rascón",
+          "description": "Author(s): A. O. Parry and C. Rascón\nAn exact analytic solution of the Koga-Widom-Indekeu model for wetting transitions in three-phase fluid coexistence has been found, setting the bound for the validity of approximate theories predicting critical point wetting.\n\n[Phys. Rev. Lett. 133, 238001] Published Wed Dec 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.238001",
+          "publishedOn": "2024-12-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Wetting, Algebraic Curves, and Conformal Invariance",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.110.126005",
+          "author": "Sristy Agrawal, Oliver DeWolfe, Kenneth Higginbotham, and Joshua Levin",
+          "description": "Author(s): Sristy Agrawal, Oliver DeWolfe, Kenneth Higginbotham, and Joshua Levin\nThrough the Ryu-Takayanagi formula, entanglement entropy in quantum field theories with dual gravitational descriptions is given a beautiful geometric interpretation as the area of a minimal surface. As these minimal surfaces in hyperbolic space are formally infinite, interpretation of the result requires regulation. The horocycle prescription introduced in this work promises a cleaner way to deal with these divergences for two dimensional field theories.\n\n[Phys. Rev. D 110, 126005] Published Wed Dec 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.110.126005",
+          "publishedOn": "2024-12-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Horocycle regulator: Exact cutoff-independence in AdS/CFT",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.214303",
+          "author": "K. Dini, H. Sigurðsson, N. W. E. Seet, P. M. Walker, and T. C. H. Liew",
+          "description": "Author(s): K. Dini, H. Sigurðsson, N. W. E. Seet, P. M. Walker, and T. C. H. Liew\nPolariton neurons allow exciton-polaritons to transport information using a successive local switching in analogy to action potentials in biological neurons. The authors show here an analogue of saltatory conduction for enhancing signal speeds: by connecting bistable nodes with waveguides, polariton signal speeds can be increased tenfold. The modeling of this system requires a new theoretical tool: nonlinear finite-difference time-domain simulation, which accounts for the propagation of light in the full three-dimensional nanostructure together with nonlinear exciton-exciton scattering using Maxwell-Bloch equations.\n\n[Phys. Rev. B 110, 214303] Published Wed Dec 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.214303",
+          "publishedOn": "2024-12-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Nonlinear finite-difference time-domain method for exciton-polaritons: Application to saltatory conduction in polariton neurons",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.214406",
+          "author": "P. Peter Stavropoulos, Yang Yang, Ioannis Rousochatzakis, and Natalia B. Perkins",
+          "description": "Author(s): P. Peter Stavropoulos, Yang Yang, Ioannis Rousochatzakis, and Natalia B. Perkins\nThis study explores the complex interplay of interactions in the classical Kitaev-Γ model, revealing a rich phase diagram characterized by a diverse range of magnetic ground states. It uncovers incommensurate spiral orders and chiral phases arising from the competition between Kitaev and Γ interactions, emphasizing the significant role of magnetic anisotropy. These findings provide valuable insights into the formation of unconventional magnetic order in systems with bond-anisotropic interactions, contributing to the understanding of experimental findings in 4d and 5d transition metal compounds with strong spin-orbit coupling.\n\n[Phys. Rev. B 110, 214406] Published Wed Dec 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.214406",
+          "publishedOn": "2024-12-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Complex orders and chirality in the classical Kitaev-$\\mathrm{Γ}$ model",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.064019",
+          "author": "Cecile A. Skoryna-Kline, Jorge Monroy-Ruz, and Krishna C. Balram",
+          "description": "Author(s): Cecile A. Skoryna-Kline, Jorge Monroy-Ruz, and Krishna C. Balram\nPiezoelectric devices are traditionally analyzed in the quasistatic regime with the magnetic fields ignored. However, the surface magnetic fields can be significant at GHz frequencies and provide a natural interface to nanoscale spin systems. The authors show via scaling arguments that the surface magnetic field scales with the square of the operation frequency, and demonstrate its existence in a proof-of-concept experiment by showing excess absorption of a focused surface acoustic wave induced by magnon mode. This approach leads to enhanced spin detection sensitivity of piezoelectric devices, and also indicates the feasibility of single-spin electrical readout at cryogenic temperatures.\n\n[Phys. Rev. Applied 22, 064019] Published Wed Dec 04, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.064019",
+          "publishedOn": "2024-12-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Piezoelectric microresonators for sensitive spin detection",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.8.124402",
           "author": "A. J. Wright, D. Bromley, J. Watts, J. Ramberger, B. Kaiser, M. J. Erickson, P. A. Crowell, C. Leighton, and L. O’Brien",
           "description": "Author(s): A. J. Wright, D. Bromley, J. Watts, J. Ramberger, B. Kaiser, M. J. Erickson, P. A. Crowell, C. Leighton, and L. O’Brien\nBackground signals in non-local spin valves can hinder the interpretation of spin signals and could compromise performance in future devices. This work comprehensively investigates these background signals across a variety of ferromagnetic (Ni80Fe20, Fe, Co) and non-magnetic (Al, Cu) metals, using experimental measurements paired with three-dimensional finite element method simulations. The authors reveal the complex dependence of current spreading and thermoelectric effects on temperature, device dimensions and material pairings, giving rise to non-trivial background signals. They find excellent agreement between experiment and simulations across broad phase space, providing an insight into charge and heat transport in nanoscopic spintronic devices\n\n[Phys. Rev. Materials 8, 124402] Published Tue Dec 03, 2024",
@@ -943,66 +1003,6 @@
           "publishedOn": "2024-11-12T10:00:00.000Z",
           "wordCount": null,
           "title": "Anomalous Hall Crystals in Rhombohedral Multilayer Graphene. I. Interaction-Driven Chern Bands and Fractional Quantum Hall States at Zero Magnetic Field",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.206504",
-          "author": "Boran Zhou, Hui Yang, and Ya-Hui Zhang",
-          "description": "Author(s): Boran Zhou, Hui Yang, and Ya-Hui Zhang\nThe standard theoretical framework for fractional quantum anomalous Hall (FQAH) effect assumes an isolated flat Chern band in the single particle level. In this Letter, we challenge this paradigm for the FQAH effect recently observed in pentalayer rhombohedrally stacked graphene aligned with hexagon…\n[Phys. Rev. Lett. 133, 206504] Published Tue Nov 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.206504",
-          "publishedOn": "2024-11-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fractional Quantum Anomalous Hall Effect in Rhombohedral Multilayer Graphene in the Moiréless Limit",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.206602",
-          "author": "Yugo Onishi and Liang Fu",
-          "description": "Author(s): Yugo Onishi and Liang Fu\nThe static structure factor at long wavelength, characterized by a recently introduced concept quantum weight, has a lower bound solely determined by the many-body Chern number.\n\n[Phys. Rev. Lett. 133, 206602] Published Tue Nov 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.206602",
-          "publishedOn": "2024-11-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Topological Bound on the Structure Factor",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.110.054110",
-          "author": "Juan Neirotti and Nestor Caticha",
-          "description": "Author(s): Juan Neirotti and Nestor Caticha\nThe stability of governments is highly variable as a function of political systems and country-specific conditions. The authors develop a statistical mechanics model in which legislative actors are represented as information processing agents equipped with a neural network. They found that a large number of items in the executive branch agenda, combined with a decrease in the executive’s approval rating, could trigger a phase transition into a disorder state interpreted as the dissolution of the executive branch.\n\n[Phys. Rev. E 110, 054110] Published Tue Nov 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.110.054110",
-          "publishedOn": "2024-11-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Legislative rebellions and impeachments in a neural network society",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.110.054604",
-          "author": "Luke Langford and Ahmad K. Omar",
-          "description": "Author(s): Luke Langford and Ahmad K. Omar\nThis work derives dynamics for the out-of-equilibrium interface of two coexisting phases in a system composed of active Brownian particles. Beginning from microscopic considerations, the authors strive to provide a perspective for understanding interfaces far from equilibrium.\n\n[Phys. Rev. E 110, 054604] Published Tue Nov 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.110.054604",
-          "publishedOn": "2024-11-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Theory of capillary tension and interfacial dynamics of motility-induced phases",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.110.L051601",
-          "author": "Jintao Qi, Boqun Liu, and Xu Wang",
-          "description": "Author(s): Jintao Qi, Boqun Liu, and Xu Wang\nWhen the conditions are right, the energy released in a downward electronic transition in an atom can excite its atomic nucleus, potentially creating a path to controlling excited nuclear quantum states. Among these processes, nuclear excitation by electron capture (NEEC) stands out as the only one that has not yet been unambiguously confirmed by experiment, despite theoretical proposals spanning nearly half a century. The authors propose using intense femtosecond laser pulses on clusters of 235U atoms, demonstrating that with suitable laser parameters, the 76.7-eV nuclear isomer in 235U is almost entirely (more than 99.9%) excited via NEEC. The long, 26-minute lifetime of the isomer allows for efficient detection and diminishes atomic processes disturbing the detection. An experimental confirmation would represent a robust and conclusive verification of this elusive phenomenon.\n\n[Phys. Rev. C 110, L051601] Published Tue Nov 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.110.L051601",
-          "publishedOn": "2024-11-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Laser-based approach to verify nuclear excitation by electron capture",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.184404",
-          "author": "Yuta Ishii, Terutoshi Sakakura, Yoshihisa Ishikawa, Ryoji Kiyanagi, Jana Lustikova, Takuya Aoyama, Kenya Ohgushi, Yusuke Wakabayashi, Hiroyuki Kimura, and Yukio Noda",
-          "description": "Author(s): Yuta Ishii, Terutoshi Sakakura, Yoshihisa Ishikawa, Ryoji Kiyanagi, Jana Lustikova, Takuya Aoyama, Kenya Ohgushi, Yusuke Wakabayashi, Hiroyuki Kimura, and Yukio Noda\nThe authors investigate here the magnetic structure of the multiferroic material RMn2O5 (R=Tb0.515Gd0.485) using neutron scattering experiments. They reveal the remarkable influence of the cycloidal magnetic structure on electric polarization, even in the commensurate magnetic phase, while the collinear structure has minimal effect on dielectric properties. This discovery contrasts with previous findings in other RMn2O5 materials, offering new insights into the magnetoelectric coupling in this system.\n\n[Phys. Rev. B 110, 184404] Published Tue Nov 12, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.184404",
-          "publishedOn": "2024-11-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Nonferroelectric phase with loss of cycloidal magnetic structure in ${\\mathrm{Tb}}_{0.515}{\\mathrm{Gd}}_{0.485}{\\mathrm{Mn}}_{2}{\\mathrm{O}}_{5}$",
           "imageUrl": null
         }
       ]
