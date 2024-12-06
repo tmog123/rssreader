@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-05T01:06:18.752Z</id>
+    <id>urn:2024-12-06T01:05:26.871Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-05T01:06:18.752Z</updated>
+    <updated>2024-12-06T01:05:26.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Probing the exciton spin-valley depolarization with spin-momentum-valley locked unbound states using tr-ARPES]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043243</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.043243"/>
+        <updated>2024-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mehdi Arfaoui, Robson Ferreira, and Sihem Jaziri
+A detailed theoretical description of the high-energy states that form the escape continuum for photoejected electrons in a tr-ARPES experiment, paying particular attention to their momentum dispersions, time-reversal symmetries, and spin characteristics. The analysis of the various symmetries fulfilled by such unbound states reveals the existence of a momentum-valley locking for the unbound final electron states, sharing various features with the valley Hall effect.
+
+[Phys. Rev. Research 6, 043243] Published Thu Dec 05, 2024]]></summary>
+        <author>
+            <name>Mehdi Arfaoui, Robson Ferreira, and Sihem Jaziri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Gravitational Wave Memory in the Next Galactic Core-Collapse Supernova]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.231401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.231401"/>
+        <updated>2024-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Colter J. Richardson, Haakon Andresen, Anthony Mezzacappa, Michele Zanolin, Michael G. Benjamin, Pedro Marronetti, Eric J. Lentz, and Marek J. Szczepańczyk
+Scientists have devised a way to use current gravitational-wave detectors to observe permanent deformations of spacetime caused by certain supernovae.
+
+[Phys. Rev. Lett. 133, 231401] Published Thu Dec 05, 2024]]></summary>
+        <author>
+            <name>Colter J. Richardson, Haakon Andresen, Anthony Mezzacappa, Michele Zanolin, Michael G. Benjamin, Pedro Marronetti, Eric J. Lentz, and Marek J. Szczepańczyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutual information and the encoding of contingency tables]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.110.064306</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.110.064306"/>
+        <updated>2024-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maximilian Jerdee, Alec Kirkley, and M. E. J. Newman
+This study focuses on the comparison of labelings, such as network communities, using mutual information. It presents a novel, significantly tighter, bound on the information needed to encode contingency tables in several typical cases. The work makes a valuable contribution to the understanding of the information content of labelings and adds to the discussion on comparing clusters or communities.
+
+[Phys. Rev. E 110, 064306] Published Thu Dec 05, 2024]]></summary>
+        <author>
+            <name>Maximilian Jerdee, Alec Kirkley, and M. E. J. Newman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effect of impurities and disorder on the braiding dynamics of Majorana zero modes]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.214506</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.214506"/>
+        <updated>2024-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Cole Peeters, Themba Hodge, Eric Mascot, and Stephan Rachel
+Majorana zero modes, the midgap states in topological superconductors, can be utilized as topological qubits in future quantum computers. By pairwise exchanging them (called braiding), quantum gates can be operated. Impurities and random disorder are usually foes of Majorana zero modes and braiding operations. The authors investigate here both the case of single impurities and random disorder on a T-junction geometry with four Majorana zero modes, and analyze the induced qubit errors. Surprisingly, there is a parameter regime in which disorder can even enhance the topological phase (black dots in the figure) and improve the braiding performance.
+
+[Phys. Rev. B 110, 214506] Published Thu Dec 05, 2024]]></summary>
+        <author>
+            <name>Cole Peeters, Themba Hodge, Eric Mascot, and Stephan Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pressure-induced quantum melting of chiral spin order and subsequent transition to a degenerate semiconductor state in FeGe]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L220401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L220401"/>
+        <updated>2024-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Y. Fujishiro, C. Terakura, A. Miyake, N. Kanazawa, K. Nakazawa, N. Ogawa, H. Kadobayashi, S. Kawaguchi, T. Kagayama, M. Tokunaga, Y. Kato, Y. Motome, K. Shimizu, and Y. Tokura
+The authors reveal here anomalous charge transport upon melting of chiral spin orders, such as helical and skyrmion spin textures, in the itinerant chiral magnet FeGe. Under high pressure, significant modifications in the electronic structure induce a metal-to-semiconductor transition. Remarkably, a spontaneous anomalous Hall effect is observed in the short-range-ordered chiral spin ground state (P= 20–30 GPa) beyond the quantum phase transition. This macroscopic time-reversal symmetry breaking in the absence of long-range magnetic order represents a highly unconventional phenomenon.
+
+[Phys. Rev. B 110, L220401] Published Thu Dec 05, 2024]]></summary>
+        <author>
+            <name>Y. Fujishiro, C. Terakura, A. Miyake, N. Kanazawa, K. Nakazawa, N. Ogawa, H. Kadobayashi, S. Kawaguchi, T. Kagayama, M. Tokunaga, Y. Kato, Y. Motome, K. Shimizu, and Y. Tokura</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Candidate Toroidal Electric Dipole Mode in the Spherical Nucleus $^{58}\mathrm{Ni}$]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.232502</id>
@@ -1238,70 +1303,6 @@ The authors introduce here a novel method for examining transitions between dist
 [Phys. Rev. B 110, L201405] Published Wed Nov 13, 2024]]></summary>
         <author>
             <name>Paolo Fachin, Francesco Macheda, Paolo Barone, and Francesco Mauri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spectroscopic Measurements and Models of Energy Deposition in the Substrate of Quantum Circuits by Natural Ionizing Radiation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.5.040323</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.5.040323"/>
-        <updated>2024-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Joseph W. Fowler, Paul Szypryt, Raymond Bunker, Ellen R. Edwards, Ian Fogarty Florang, Jiansong Gao, Andrea Giachero, Shannon F. Hoogerheide, Ben Loer, H. Pieter Mumm, Nathan Nakamura, Galen C. O’Neil, John L. Orrell, Elizabeth M. Scott, Jason Stevens, Daniel S. Swetz, Brent A. VanDevender, Michael Vissers, and Joel N. Ullom
-New superconducting thermal detectors characterize the radiation environment of qubits, making it possible to determine and reduce sources of decoherence.
-
-[PRX Quantum 5, 040323] Published Tue Nov 12, 2024]]></summary>
-        <author>
-            <name>Joseph W. Fowler, Paul Szypryt, Raymond Bunker, Ellen R. Edwards, Ian Fogarty Florang, Jiansong Gao, Andrea Giachero, Shannon F. Hoogerheide, Ben Loer, H. Pieter Mumm, Nathan Nakamura, Galen C. O’Neil, John L. Orrell, Elizabeth M. Scott, Jason Stevens, Daniel S. Swetz, Brent A. VanDevender, Michael Vissers, and Joel N. Ullom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parent Berry Curvature and the Ideal Anomalous Hall Crystal]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.14.041040</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.14.041040"/>
-        <updated>2024-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tixuan Tan and Trithep Devakul
-Certain geometric features in the electronic structure of a material hosting a 2D system of strongly interacting electrons can lead to a crystal-like pattern—an anomalous Hall crystal—that insulates in its bulk but conducts along its edges.
-
-[Phys. Rev. X 14, 041040] Published Tue Nov 12, 2024]]></summary>
-        <author>
-            <name>Tixuan Tan and Trithep Devakul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Demonstration of Mode-Coupled and High-Brightness Self-Amplified Spontaneous Emission in an X-Ray Free-Electron Laser]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.205001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.205001"/>
-        <updated>2024-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Eduard Prat, Wenxiang Hu, Christopher Arrell, Marco Calvi, Philipp Dijkstal, Rolf Follath, and Sven Reiche
-The first experimental demonstration of two schemes to enhance the longitudinal coherence of SASE-XFEL pulses shows that the SASE pulse bandwidth can be reduced by up to a factor of three.
-
-[Phys. Rev. Lett. 133, 205001] Published Tue Nov 12, 2024]]></summary>
-        <author>
-            <name>Eduard Prat, Wenxiang Hu, Christopher Arrell, Marco Calvi, Philipp Dijkstal, Rolf Follath, and Sven Reiche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theory of Quantum Anomalous Hall Phases in Pentalayer Rhombohedral Graphene Moiré Structures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.206502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.206502"/>
-        <updated>2024-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zhihuan Dong, Adarsh S. Patri, and T. Senthil
-Fractional quantum anomalous Hall phases in rhombohedral multilayer graphene.
-
-[Phys. Rev. Lett. 133, 206502] Published Tue Nov 12, 2024]]></summary>
-        <author>
-            <name>Zhihuan Dong, Adarsh S. Patri, and T. Senthil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anomalous Hall Crystals in Rhombohedral Multilayer Graphene. I. Interaction-Driven Chern Bands and Fractional Quantum Hall States at Zero Magnetic Field]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.206503</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.206503"/>
-        <updated>2024-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Junkai Dong (董焌锴), Taige Wang, Tianle Wang, Tomohiro Soejima (副島智大), Michael P. Zaletel, Ashvin Vishwanath, and Daniel E. Parker
-Recent experiments on rhombohedral pentalayer graphene with a substrate-induced moiré potential have identified both Chern insulators and fractional quantum Hall states at zero magnetic field. Surprisingly, these states are observed in strong displacement fields where the effects of the moiré lattic…
-[Phys. Rev. Lett. 133, 206503] Published Tue Nov 12, 2024]]></summary>
-        <author>
-            <name>Junkai Dong (董焌锴), Taige Wang, Tianle Wang, Tomohiro Soejima (副島智大), Michael P. Zaletel, Ashvin Vishwanath, and Daniel E. Parker</name>
         </author>
     </entry>
 </feed>
