@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.241402",
+          "author": "Claus Lämmerzahl and Sebastian Ulbricht",
+          "description": "Author(s): Claus Lämmerzahl and Sebastian Ulbricht\nMeasuring gravitational analogues of quantum phenomena could lead to high-precision measurement of gravitational forces, according to a theoretical proposal.\n\n[Phys. Rev. Lett. 133, 241402] Published Fri Dec 13, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.241402",
+          "publishedOn": "2024-12-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Gravitational Metrological Triangle",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.246703",
+          "author": "Daniel Bennett, Gabriel Martínez-Carracedo, Xu He, Jaime Ferrer, Philippe Ghosez, Riccardo Comin, and Efthimios Kaxiras",
+          "description": "Author(s): Daniel Bennett, Gabriel Martínez-Carracedo, Xu He, Jaime Ferrer, Philippe Ghosez, Riccardo Comin, and Efthimios Kaxiras\nStacking of two-dimensional van der Waals magnets induces multiferroic order, providing a general approach for fabricating multifunctional nanomaterials.\n\n[Phys. Rev. Lett. 133, 246703] Published Fri Dec 13, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.246703",
+          "publishedOn": "2024-12-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Stacking-Engineered Ferroelectricity and Multiferroic Order in van der Waals Magnets",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.214510",
+          "author": "Sylwia Gutowska, Karolina Górnicka, Paweł Wójcik, Tomasz Klimczuk, and Bartlomiej Wiendlocha",
+          "description": "Author(s): Sylwia Gutowska, Karolina Górnicka, Paweł Wójcik, Tomasz Klimczuk, and Bartlomiej Wiendlocha\nPb and Pb-Bi alloys are prototypes of strongly coupled superconductors, combining fascinating physics with application potential. Electron-phonon coupling (EPC) in cubic Pb is already strong, with λ≃1.5 and Tc=7.2 K. The work here demonstrates how alloying Pb with Bi — through electron doping, a cubic-to-hexagonal phase transition, and strong spin-orbit coupling — produces an alloy with record-strong EPC (λ≃2) and a higher Tc=8.6 K. Furthermore, the alloy’s anisotropic superconducting gap structure and strong electron scattering influence its thermodynamic properties, deviating from isotropic BCS and Eliashberg theories.\n\n[Phys. Rev. B 110, 214510] Published Fri Dec 13, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.214510",
+          "publishedOn": "2024-12-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Anisotropic, multiband, and strong-coupling superconductivity of the ${\\mathrm{Pb}}_{0.64}{\\mathrm{Bi}}_{0.36}$ alloy",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.245127",
+          "author": "Gabriel I. López-Morales, Joanna M. Zajac, Johannes Flick, Carlos A. Meriles, and Cyrus E. Dreyer",
+          "description": "Author(s): Gabriel I. López-Morales, Joanna M. Zajac, Johannes Flick, Carlos A. Meriles, and Cyrus E. Dreyer\nThe negatively charged nitrogen vacancy (NV−) center in diamond is a well-known color center with interesting applications in nanoscale sensing and quantum metrology, due to its high sensitivity to minute local electric, magnetic, and strain fields. Motivated by these applications of the this center, the authors employ here first-principles calculations based on quantum embedding to derive a many-body description of its excited-state dipole couplings and strain susceptibilities, which underlie the electric field and strain induced Stark effects.\n\n[Phys. Rev. B 110, 245127] Published Fri Dec 13, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.245127",
+          "publishedOn": "2024-12-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Quantum embedding study of strain- and electric-field-induced Stark effects on the ${\\mathrm{NV}}^{−}$ center in diamond",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.064049",
+          "author": "Aleksei A. Nikitin and Erkki Lähderanta",
+          "description": "Author(s): Aleksei A. Nikitin and Erkki Lähderanta\nMagnonic crystals, artificial magnetic media with periodically modulated properties, are a powerful tool for processing microwave signals, but generally require several millimeters of periodic structure. The authors present an innovative approach to circumvent this issue through a magnonic waveguide covered by a VO2 stripe with a shaped microgroove. Simulations show that such a structure does not manifest noticeable spin-wave reflection, but still demonstrates a rejection band in its transmission characteristic. The obtained findings pave a clear way forward to microminiaturizing spin-wave devices, where features of magnonic crystals are exploited.\n\n[Phys. Rev. Applied 22, 064049] Published Fri Dec 13, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.064049",
+          "publishedOn": "2024-12-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Spin-wave signal rejection in magnonic waveguides induced by conducting films with a single groove",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.064050",
+          "author": "Ben Kaiser, Justin Ramberger, Mikaela Norum, Nileena Nandakumaran, John Dewey, and Chris Leighton",
+          "description": "Author(s): Ben Kaiser, Justin Ramberger, Mikaela Norum, Nileena Nandakumaran, John Dewey, and Chris Leighton\nSpintronic devices known as metallic nonlocal spin valves are leading candidates for next-generation low-resistance hard disk drive read heads but suffer from low signal. This work addresses this challenge through a wide-ranging study of the use of tuned-interface-resistance Al-O barriers, realizing 500-fold enhancement in spin signal even in the ultrathin Al limit. Despite this boost, spin signals still fall short of theoretical predictions, uncovering a universal spin polarization vs. resistance-area product relationship, over twelve orders of magnitude in the resistance-area product.\n\n[Phys. Rev. Applied 22, 064050] Published Fri Dec 13, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.064050",
+          "publishedOn": "2024-12-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Optimizing nonlocal spin valves via wide-range interfacial-resistance tuning: Toward spin-accumulation sensors",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.064051",
+          "author": "Samuel J. Karlson, Pauli Kehayias, Jennifer M. Schloss, Andrew C. Maccabe, Adam Libson, David F. Phillips, Guoqing Wang, Paola Cappellaro, and Danielle A. Braje",
+          "description": "Author(s): Samuel J. Karlson, Pauli Kehayias, Jennifer M. Schloss, Andrew C. Maccabe, Adam Libson, David F. Phillips, Guoqing Wang, Paola Cappellaro, and Danielle A. Braje\nN-V diamond magnetic microscopes enable high-resolution imaging across a wide range of physical and engineering disciplines, but the applications were restricted to a narrow measurable frequency range, and the field of view size was limited when imaging ac magnetic fields. This work overcomes these challenges to achieve a 1.5 × 1.5 mm2 field of view size, and applies a quantum frequency mixing technique to enable a wide range of detectable frequencies, from 0 to 70 MHz and beyond. This result can lead to new capabilities to better understand and diagnose problems in electronics components, study material properties, and even improve quantum computing technology.\n\n[Phys. Rev. Applied 22, 064051] Published Fri Dec 13, 2024",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.22.064051",
+          "publishedOn": "2024-12-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Quantum frequency mixing using an $\\mathrm{N}$-$V$ diamond microscope",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.5.040341",
           "author": "Henning Schlömer, Hannah Lange, Titus Franz, Thomas Chalopin, Petar Bojović, Si Wang, Immanuel Bloch, Timon A. Hilker, Fabian Grusdt, and Annabelle Bohrdt",
           "description": "Author(s): Henning Schlömer, Hannah Lange, Titus Franz, Thomas Chalopin, Petar Bojović, Si Wang, Immanuel Bloch, Timon A. Hilker, Fabian Grusdt, and Annabelle Bohrdt\nResearchers demonstrate how local control and bilayer optical lattices can simulate nickelate and cuprate high-temperature superconductors, enabling the study of long-range superconducting order and d-wave pairing physics.\n\n[PRX Quantum 5, 040341] Published Thu Dec 12, 2024",
@@ -933,76 +1003,6 @@
           "publishedOn": "2024-11-21T10:00:00.000Z",
           "wordCount": null,
           "title": "Atomistic modeling of bulk and grain boundary diffusion in solid electrolyte ${\\mathrm{Li}}_{6}{\\mathrm{PS}}_{5}\\mathrm{Cl}$ using machine-learning interatomic potentials",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.211802",
-          "author": "Raphaël Berthiaume, Bhubanjyoti Bhattacharya, Rida Boumris, Alexandre Jean, Suman Kumbhakar, and David London",
-          "description": "Author(s): Raphaël Berthiaume, Bhubanjyoti Bhattacharya, Rida Boumris, Alexandre Jean, Suman Kumbhakar, and David London\nA new analysis of B-meson decays strongly hints that they harbor physics beyond the standard model.\n\n[Phys. Rev. Lett. 133, 211802] Published Thu Nov 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.211802",
-          "publishedOn": "2024-11-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Anomalies in Hadronic $B$ Decays",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.213602",
-          "author": "J. Voisin, A. Durand, T. Copie, M. Perdriat, and G. Hétet",
-          "description": "Author(s): J. Voisin, A. Durand, T. Copie, M. Perdriat, and G. Hétet\nBy manipulating and detecting nuclear spins in a tiny floating diamond, scientists have reported a record-long spin coherence time for a levitated system.\n\n[Phys. Rev. Lett. 133, 213602] Published Thu Nov 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.213602",
-          "publishedOn": "2024-11-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Nuclear Magnetic Resonance with a Levitating Microparticle",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.214002",
-          "author": "Duco van Buuren, Pallav Kant, Jochem G. Meijer, Christian Diddens, and Detlef Lohse",
-          "description": "Author(s): Duco van Buuren, Pallav Kant, Jochem G. Meijer, Christian Diddens, and Detlef Lohse\nWhen approaching a bubble or droplet, a solidifying front of water ice behaves differently than when interacting with solid particles.\n\n[Phys. Rev. Lett. 133, 214002] Published Thu Nov 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.214002",
-          "publishedOn": "2024-11-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Deforming Ice with Drops",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.218001",
-          "author": "S. Izumoto, D. M. Escala, J. Heyman, T. Le Borgne, and A. De Wit",
-          "description": "Author(s): S. Izumoto, D. M. Escala, J. Heyman, T. Le Borgne, and A. De Wit\nThe properties of reaction-diffusion waves can be controlled by fluid stretching and compression in a hyperbolic flow.\n\n[Phys. Rev. Lett. 133, 218001] Published Thu Nov 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.218001",
-          "publishedOn": "2024-11-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Control of Chemical Waves by Fluid Stretching and Compression",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.110.055206",
-          "author": "Nicholas Babusis, Adam Patel, Rokas Jutas, Zahra Manzoor, Mikhail N. Shneider, Audrius Pugzlys, Andrius Baltuska, and Alexey Shashurin",
-          "description": "Author(s): Nicholas Babusis, Adam Patel, Rokas Jutas, Zahra Manzoor, Mikhail N. Shneider, Audrius Pugzlys, Andrius Baltuska, and Alexey Shashurin\nThe authors propose a new microwave scattering probe technique that allows spatially resolved measurements of electron number density to be made in midinfrared filaments.\n\n[Phys. Rev. E 110, 055206] Published Thu Nov 21, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.110.055206",
-          "publishedOn": "2024-11-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "One-dimensional mapping of femtosecond laser filaments using coherent microwave scattering",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.216402",
-          "author": "Jiachen Li and Tianyu Zhu",
-          "description": "Author(s): Jiachen Li and Tianyu Zhu\nA new framework that embeds electrons in a surrounding bath captures nonlocal correlation effects that are relevant to metals, semiconductors, and correlated insulators.\n\n[Phys. Rev. Lett. 133, 216402] Published Wed Nov 20, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.216402",
-          "publishedOn": "2024-11-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Interacting-Bath Dynamical Embedding for Capturing Nonlocal Electron Correlation in Solids",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.133.216901",
-          "author": "Ivan Toftul, Pavel Tonkaev, Kirill Koshelev, Fangxing Lai, Qinghai Song, Maxim Gorkunov, and Yuri Kivshar",
-          "description": "Author(s): Ivan Toftul, Pavel Tonkaev, Kirill Koshelev, Fangxing Lai, Qinghai Song, Maxim Gorkunov, and Yuri Kivshar\nContrary to conventional wisdom, a lattice of engineered nanoparticles called meta-atoms can have a chiral optical response even when each meta-atom is not chiral.\n\n[Phys. Rev. Lett. 133, 216901] Published Wed Nov 20, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.133.216901",
-          "publishedOn": "2024-11-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Chiral Dichroism in Resonant Metasurfaces with Monoclinic Lattices",
           "imageUrl": null
         }
       ]
