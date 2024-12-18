@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-17T01:06:08.873Z</id>
+    <id>urn:2024-12-18T01:03:28.525Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T01:06:08.873Z</updated>
+    <updated>2024-12-18T01:03:28.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Constraining Light QCD Axions with Isolated Neutron Star Cooling]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.251002</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.251002"/>
+        <updated>2024-12-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Antonio Gómez-Bañón, Kai Bartnick, Konstantin Springmann, and José A. Pons
+New constraints are placed in the axion parameter space by using the effect of light QCD axion on neutron star structure and the rate of neutron star cooling.
+
+[Phys. Rev. Lett. 133, 251002] Published Tue Dec 17, 2024]]></summary>
+        <author>
+            <name>Antonio Gómez-Bañón, Kai Bartnick, Konstantin Springmann, and José A. Pons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metallic Bonding in Close-Packed Structures: Structural Frustration from a Hidden Gauge Symmetry]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.256401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.256401"/>
+        <updated>2024-12-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Eric He, C. M. Wilson, and R. Ganesh
+Symmetry conditions dictated by band structure and nearest-neighbor interactions indicate why specific complex ordered structures are present in lithium and sodium under pressure.
+
+[Phys. Rev. Lett. 133, 256401] Published Tue Dec 17, 2024]]></summary>
+        <author>
+            <name>Eric He, C. M. Wilson, and R. Ganesh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sedimentary rocks from Mediterranean drought in the Messinian age as a probe of the past cosmic ray flux]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.110.L121301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.110.L121301"/>
+        <updated>2024-12-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lorenzo Caccianiga, Lorenzo Apollonio, Federico Maria Mariani, Paolo Magnani, Claudio Galelli, and Alessandro Veutro
+Minerals exposed during an ancient Mediterranean Sea desiccation should reveal damage caused by muons, providing evidence of enhanced cosmic-ray fluxes.
+
+[Phys. Rev. D 110, L121301] Published Tue Dec 17, 2024]]></summary>
+        <author>
+            <name>Lorenzo Caccianiga, Lorenzo Apollonio, Federico Maria Mariani, Paolo Magnani, Claudio Galelli, and Alessandro Veutro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum error mitigation by layerwise Richardson extrapolation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.110.062420</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.110.062420"/>
+        <updated>2024-12-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Vincent Russo and Andrea Mari
+The authors present an error-mitigation scheme in which the noise from different layers of a quantum circuit can be amplified and then extrapolated to the zero-noise limit independently. In doing this they enhance the traditional Richardson extrapolation protocol with the flexibility of layerwise unitary folding schemes.
+
+[Phys. Rev. A 110, 062420] Published Tue Dec 17, 2024]]></summary>
+        <author>
+            <name>Vincent Russo and Andrea Mari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random walks of intermittently self-propelled particles]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043281</id>
@@ -1251,58 +1303,6 @@ Magnetospheric Multiscale mission data shows direct evidence of Alfvén-acoustic
 [Phys. Rev. Lett. 133, 225201] Published Mon Nov 25, 2024]]></summary>
         <author>
             <name>Xin An, Anton Artemyev, Vassilis Angelopoulos, Terry Z. Liu, Ivan Vasko, and David Malaspina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissipation Bounds Precision of Current Response to Kinetic Perturbations]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.227101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.227101"/>
-        <updated>2024-11-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Krzysztof Ptaszyński, Timur Aslyamov, and Massimiliano Esposito
-A new type of thermodynamic uncertainty relation provides a thermodynamic trade-off between current fluctuations and the static linear current response, rather than the current itself.
-
-[Phys. Rev. Lett. 133, 227101] Published Mon Nov 25, 2024]]></summary>
-        <author>
-            <name>Krzysztof Ptaszyński, Timur Aslyamov, and Massimiliano Esposito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adsorbate Configurations in Ni Single-Atom Catalysts during ${\mathrm{CO}}_{2}$ Electrocatalytic Reduction Unveiled by <i>Operando</i> XAS, XES, and Machine Learning]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.228001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.228001"/>
-        <updated>2024-11-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Andrea Martini, Janis Timoshenko, Philipp Grosse, Clara Rettenmaier, Dorottya Hursán, Gabriele Deplano, Hyo Sang Jeon, Arno Bergmann, and Beatriz Roldan Cuenya
-A suite of in situ x-ray spectroscopy techniques coupled with machine learning and density functional theory enable a comprehensive characterization of the local atomistic and electronic structure of the working Ni-N-C catalyst during the electrocatalytic reduction of CO2 to CO.
-
-[Phys. Rev. Lett. 133, 228001] Published Mon Nov 25, 2024]]></summary>
-        <author>
-            <name>Andrea Martini, Janis Timoshenko, Philipp Grosse, Clara Rettenmaier, Dorottya Hursán, Gabriele Deplano, Hyo Sang Jeon, Arno Bergmann, and Beatriz Roldan Cuenya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bond disorder in extended Heisenberg-Kitaev models: Spin textures and in-gap states in the high-field regime]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.174444</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.174444"/>
-        <updated>2024-11-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Georgia Fragkopoulou and Matthias Vojta
-Motivated by experimental results obtained for the layered Kitaev magnet α-RuCl3, the authors investigate here the effect of quenched disorder in extended Heisenberg-Kitaev models. Defects are shown to introduce local spin textures and to induce magnetic states inside the excitation gap of the high-field phase, with both phenomena strongly depending on the direction of the applied magnetic field. The study highlights the nontrivial defect physics in strongly spin-orbit coupled magnets in general, and Kitaev materials in particular.
-
-[Phys. Rev. B 110, 174444] Published Mon Nov 25, 2024]]></summary>
-        <author>
-            <name>Georgia Fragkopoulou and Matthias Vojta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effect of low-temperature compression on superconductivity and crystal structure in strontium metal]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.174519</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.174519"/>
-        <updated>2024-11-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): J. Lim, S. Sinha, D. E. Jackson, R. S. Kumar, C. Park, R. J. Hemley, D. VanGennep, Y. K. Vohra, R. G. Hennig, P. J. Hirschfeld, G. R. Stewart, and J. J. Hamlin
-The superconducting and structural properties of strontium metal are examined under pressures up to 60 GPa at cryogenic temperatures. Low-temperature pressure application doubles the superconducting critical temperature between 35–42 GPa compared to previous results with cryogenic cooling after room-temperature compression. Low-temperature x-ray diffraction shows that the Sr-IV phase remains stable up to 60 GPa, suggesting that thermal energy aids in overcoming kinetic barriers to the Sr-V phase, which appears above 46 GPa under room-temperature compression.
-
-[Phys. Rev. B 110, 174519] Published Mon Nov 25, 2024]]></summary>
-        <author>
-            <name>J. Lim, S. Sinha, D. E. Jackson, R. S. Kumar, C. Park, R. J. Hemley, D. VanGennep, Y. K. Vohra, R. G. Hennig, P. J. Hirschfeld, G. R. Stewart, and J. J. Hamlin</name>
         </author>
     </entry>
 </feed>
