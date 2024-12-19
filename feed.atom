@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-18T01:03:28.525Z</id>
+    <id>urn:2024-12-19T01:04:11.205Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T01:03:28.525Z</updated>
+    <updated>2024-12-19T01:04:11.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Constraints on the Melting Temperature and Phase Stability of Shocked Iron up to 270 GPa Probed by Ultrafast X-Ray Absorption Spectroscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.254101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.254101"/>
+        <updated>2024-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. Balugani, J. A. Hernandez, N. Sévelin-Radiguet, O. Mathon, V. Recoules, J. J. Kas, D. E. Eakins, H. Doyle, A. Ravasio, and R. Torchio
+By measuring the melting temperature of iron under high transient pressure, researchers set a limit on the temperature at the boundary between the inner and outer cores.
+
+[Phys. Rev. Lett. 133, 254101] Published Wed Dec 18, 2024]]></summary>
+        <author>
+            <name>S. Balugani, J. A. Hernandez, N. Sévelin-Radiguet, O. Mathon, V. Recoules, J. J. Kas, D. E. Eakins, H. Doyle, A. Ravasio, and R. Torchio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matched Guiding and Controlled Injection in Dark-Current-Free, 10-GeV-Class, Channel-Guided Laser-Plasma Accelerators]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.255001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.255001"/>
+        <updated>2024-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Picksley, J. Stackhouse, C. Benedetti, K. Nakamura, H. E. Tsai, R. Li, B. Miao, J. E. Shrock, E. Rockafellow, H. M. Milchberg, C. B. Schroeder, J. van Tilborg, E. Esarey, C. G. R. Geddes, and A. J. Gonsalves
+A laser-driven electron accelerator delivers beams of ~10-GeV electrons—an approach that could lead to cheaper, more compact alternatives to large-scale x-ray sources and particle accelerators.
+
+[Phys. Rev. Lett. 133, 255001] Published Wed Dec 18, 2024]]></summary>
+        <author>
+            <name>A. Picksley, J. Stackhouse, C. Benedetti, K. Nakamura, H. E. Tsai, R. Li, B. Miao, J. E. Shrock, E. Rockafellow, H. M. Milchberg, C. B. Schroeder, J. van Tilborg, E. Esarey, C. G. R. Geddes, and A. J. Gonsalves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helical edge modes in a triangular Heisenberg antiferromagnet]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.224426</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.224426"/>
+        <updated>2024-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bastián Pradenas, Grigor Adamyan, and Oleg Tchernyshyov
+An energy or action term proportional to a topological invariant does not change under continuous variations. Although such a term does not affect classical dynamics in the bulk, it may alter boundary conditions. The authors show here that a topological energy term, allowed in a Heisenberg antiferromagnet on a triangular lattice, leads to the formation of one-way propagating magnon edge modes. They offer a realistic microscopic superexchange model that yields this topological term and helical edge modes.
+
+[Phys. Rev. B 110, 224426] Published Wed Dec 18, 2024]]></summary>
+        <author>
+            <name>Bastián Pradenas, Grigor Adamyan, and Oleg Tchernyshyov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectral density and sum rules for second-order response functions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.245132</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.245132"/>
+        <updated>2024-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Barry Bradlyn and Peter Abbamonte
+Sum rules for response functions represent some of the few exact results in many-body physics, relating the dynamical response functions to equilibrium ground state properties. To date, however, sum rules have been examined primarily for linear response functions. In this work, the authors introduce a spectral density representation for second-order response functions, using it to systematically derive families of sum rules, including a nonlinear extension of the well-known f-sum rule. This work places important constraints on future nonlinear spectroscopic experiments.
+
+[Phys. Rev. B 110, 245132] Published Wed Dec 18, 2024]]></summary>
+        <author>
+            <name>Barry Bradlyn and Peter Abbamonte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring photon correlation using imperfect detectors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.064067</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.064067"/>
+        <updated>2024-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rachel N. Clark, Sam G. Bishop, Joseph K. Cannon, John P. Hadden, Philip R. Dolan, Alastair G. Sinclair, and Anthony J. Bennett
+Single-photon detectors are integral to many photonic quantum technologies, but take tens of nanoseconds to recover after each detection event. This study models the form of the count-rate saturation for bunched, Poissonian, and antibunched light sources and demonstrates the form’s effect on the recovery of detector efficiency. The authors also show how this effect suppresses the ability to accurately measure multiphoton correlation with bunched light. These insights highlight the importance of accurate detector calibration as higher-rate sources continue to be developed for real-world quantum technologies.
+
+[Phys. Rev. Applied 22, 064067] Published Wed Dec 18, 2024]]></summary>
+        <author>
+            <name>Rachel N. Clark, Sam G. Bishop, Joseph K. Cannon, John P. Hadden, Philip R. Dolan, Alastair G. Sinclair, and Anthony J. Bennett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Constraining Light QCD Axions with Isolated Neutron Star Cooling]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.251002</id>
@@ -1238,71 +1303,6 @@ The authors construct here a DFT+U type corrective functional using exact quantu
 [Phys. Rev. B 110, 205150] Published Tue Nov 26, 2024]]></summary>
         <author>
             <name>Andrew C. Burgess and David D. O'Regan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passivity constraints on the relations between transmission, reflection, and absorption eigenvalues]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.205431</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.205431"/>
-        <updated>2024-11-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Cheng Guo and Shanhui Fan
-Passivity is a fundamental property of many physical systems, characterizing their inability to generate energy. The authors investigate here passivity constraints on the relations between transmission, reflection, and absorption eigenvalues in linear time-invariant systems. The analysis shows that the set of allowable eigenvalue combinations forms a convex polyhedron. The theory reveals a surprising connection to Horn’s inequalities, a fundamental result in matrix theory. It has significant implications for the design and optimization of passive devices in optics, acoustics, and mesoscopic physics.
-
-[Phys. Rev. B 110, 205431] Published Tue Nov 26, 2024]]></summary>
-        <author>
-            <name>Cheng Guo and Shanhui Fan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimization of ionic configurations in battery materials by quantum annealing]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L180202</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L180202"/>
-        <updated>2024-11-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tobias Binninger, Yin-Ying Ting, Piotr M. Kowalski, and Michael H. Eikerling
-Configurational sampling is an exponentially scaling problem widely encountered in computational materials research. Quantum computing techniques can provide new solutions to such classically hard-to-solve problems. Here, the authors introduce a method that enables the use of quantum annealing to determine the ionic ground state configuration in a battery material. The method relies on a grand-canonical transformation of the energy cost function that strongly reduces the effective coupling strengths of the interaction graph, which is essential for effectiveness of quantum annealing.
-
-[Phys. Rev. B 110, L180202] Published Tue Nov 26, 2024]]></summary>
-        <author>
-            <name>Tobias Binninger, Yin-Ying Ting, Piotr M. Kowalski, and Michael H. Eikerling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Origin of nonlinear photocurrents in chiral multifold semimetal CoSi unveiled by terahertz emission spectroscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L201118</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L201118"/>
-        <updated>2024-11-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yao-Jui Chan, Syed Mohammed Faizanuddin, Raju Kalaivanan, Sankar Raman, Hsin Lin, Uddipta Kar, Akhilesh Kr. Singh, Wei-Li Lee, Ranganayakulu K. Vankayala, Min-Nan Ou, and Yu-Chieh Wen
-Nonlinear photocurrents in topological semimetals encode quantum geometric characters of Bloch wavefunctions and band topology, and offer a new opportunity for advanced photovoltaics. Here, the authors characterize the nonlinear photoconductivities of chiral multifold semimetal CoSi through a refined terahertz emission spectroscopy analysis. The results reveal a large linear shift conductivity and confirm a giant nonquantized circular injection conductivity in the mid-infrared range. Bulk transverse injection currents and relatively weak photon drag effect are also identified.
-
-[Phys. Rev. B 110, L201118] Published Tue Nov 26, 2024]]></summary>
-        <author>
-            <name>Yao-Jui Chan, Syed Mohammed Faizanuddin, Raju Kalaivanan, Sankar Raman, Hsin Lin, Uddipta Kar, Akhilesh Kr. Singh, Wei-Li Lee, Ranganayakulu K. Vankayala, Min-Nan Ou, and Yu-Chieh Wen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Statistics Measurement of the Cosmic-Ray Electron Spectrum with H.E.S.S.]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.221001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.221001"/>
-        <updated>2024-11-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Aharonian et al. (H.E.S.S. Collaboration)
-A new analysis of more than a decade’s worth of observations extends the spectrum of cosmic-ray electrons to unprecedented high energies.
-
-[Phys. Rev. Lett. 133, 221001] Published Mon Nov 25, 2024]]></summary>
-        <author>
-            <name>F. Aharonian &lt;em&gt;et al.&lt;/em&gt; (H.E.S.S. Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Scale Energy Transfer from Fluid-Scale Alfvén Waves to Kinetic-Scale Ion Acoustic Waves in the Earth’s Magnetopause Boundary Layer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.225201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.225201"/>
-        <updated>2024-11-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xin An, Anton Artemyev, Vassilis Angelopoulos, Terry Z. Liu, Ivan Vasko, and David Malaspina
-Magnetospheric Multiscale mission data shows direct evidence of Alfvén-acoustic-energy channeling as a viable mechanism for plasma heating near plasma boundaries where large-amplitude Alfvén waves are present and complementary to the classical turbulence cascade.
-
-[Phys. Rev. Lett. 133, 225201] Published Mon Nov 25, 2024]]></summary>
-        <author>
-            <name>Xin An, Anton Artemyev, Vassilis Angelopoulos, Terry Z. Liu, Ivan Vasko, and David Malaspina</name>
         </author>
     </entry>
 </feed>
