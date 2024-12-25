@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-24T01:00:40.667Z</id>
+    <id>urn:2024-12-25T00:59:53.687Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T01:00:40.667Z</updated>
+    <updated>2024-12-25T00:59:53.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Superconductivity from repulsive interactions in Bernal-stacked bilayer graphene]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.214517</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.214517"/>
+        <updated>2024-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Glenn Wagner, Yves H. Kwan, Nick Bultinck, Steven H. Simon, and S. A. Parameswaran
+The authors propose here a simple three-pocket model for Kohn-Luttinger type interaction-driven superconductivity in untwisted “Bernal-stacked” bilayer graphene. The Cooper pairing results from overscreening of the purely repulsive Coulomb interaction, leading to p-wave superconductivity. The three-pocket model is substantiated by both random phase approximation and functional renormalization group calculations. These show that the proposed mechanism can account for the unusual behaviour seen in experiments, where superconductivity only emerges under application of an in-plane magnetic field or proximity-induced spin-orbit coupling.
+
+[Phys. Rev. B 110, 214517] Published Tue Dec 24, 2024]]></summary>
+        <author>
+            <name>Glenn Wagner, Yves H. Kwan, Nick Bultinck, Steven H. Simon, and S. A. Parameswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Origin of metal-insulator transitions in the parent compounds of ruthenium-pnictide superconductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.235153</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.235153"/>
+        <updated>2024-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Niraj Aryal, Corey Melnick, Emil S. Bozin, Robert M. Konik, and Weiguo Yin
+The authors explore here the origin of metal-to-insulator transition (MIT) in the parent compounds of recently discovered ruthenium pnictide superconductors. Using various first-principles calculations, such as density functional and dynamical mean-field theories, they rule out electronic correlation and Fermi surface nesting as the drivers for MIT. Instead, they suggest electron-phonon coupling as the most likely mechanism to induce the transition from an insulating monoclinic to a metallic orthorhombic phase. They propose ultrafast light-induced novel two-step MIT in these systems,which calls for further investigation.
+
+[Phys. Rev. B 110, 235153] Published Tue Dec 24, 2024]]></summary>
+        <author>
+            <name>Niraj Aryal, Corey Melnick, Emil S. Bozin, Robert M. Konik, and Weiguo Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Hermitian multiterminal phase-biased Josephson junctions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.235426</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.235426"/>
+        <updated>2024-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jorge Cayao and Masatoshi Sato
+The authors predict here the realization of higher-dimensional exceptional points by combining the realms of non-Hermitian physics and multiterminal Josephson junctions. They demonstrate that the exceptional points emerge as stable lines and surfaces in the Andreev spectrum protected by non-Hermitian topology and controllable by the Josephson effect via the superconducting phases. The authors also show that the exceptional points mediate the formation of Andreev molecules and enhance their nonlocal Josephson effect, which is otherwise tiny.
+
+[Phys. Rev. B 110, 235426] Published Tue Dec 24, 2024]]></summary>
+        <author>
+            <name>Jorge Cayao and Masatoshi Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative diffusion model for surface structure discovery]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.235427</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.235427"/>
+        <updated>2024-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Nikolaj Rønne, Alán Aspuru-Guzik, and Bjørk Hammer
+The generative diffusion method is adapted for use in connection with surface structure determination. The authors introduce here the concepts required to train a diffusion model on structures from small-cell density functional theory calculations. Using the diffusion model to generate large-cell surface structures, the authors demonstrate that highly plausible structures result. The efficiency of generating low-energy structures is compared to that of the random structure search method. Finally, using the diffusion method, a structure for a Ag-based surface-oxide grain boundary is proposed.
+
+[Phys. Rev. B 110, 235427] Published Tue Dec 24, 2024]]></summary>
+        <author>
+            <name>Nikolaj Rønne, Alán Aspuru-Guzik, and Bjørk Hammer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theories for charge-driven nematicity in kagome metals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.245138</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.245138"/>
+        <updated>2024-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Francesco Grandi, Michael A. Sentef, Dante M. Kennes, and Ronny Thomale
+Nematicity, the broken rotational symmetry of a lattice’s point group, is often linked to unconventional superconductivity. This work presents two theories for the nematic behavior in kagome metals. One theory suggests a d-wave charge Pomeranchuk instability, while the other attributes nematicity to fluctuations in one-dimensional charge order observed experimentally. Unlike iron-based superconductors, where spin-fluctuations drive nematicity, the kagome metals’ nematic tendencies are likely induced by charge fluctuations, offering a distinct mechanism for this behavior.
+
+[Phys. Rev. B 110, 245138] Published Tue Dec 24, 2024]]></summary>
+        <author>
+            <name>Francesco Grandi, Michael A. Sentef, Dante M. Kennes, and Ronny Thomale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental observation of boundary flat bands with topological spin textures]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L241110</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L241110"/>
+        <updated>2024-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yuanchuan Biao, Zhongbo Yan, and Rui Yu
+The spin polarization of a boundary flat band (BFB) protected by chiral symmetry is typically fixed. The authors experimentally demonstrate here the realization of BFBs with momentum-dependent spin polarizations, exhibiting nontrivial topological windings across the boundary Brillouin zone in a circuit system. The so-called subchiral symmetry is the key symmetry responsible for the emergence of these additional topological properties. These findings establish BFBs as a promising new platform for exploring flat-band physics.
+
+[Phys. Rev. B 110, L241110] Published Tue Dec 24, 2024]]></summary>
+        <author>
+            <name>Yuanchuan Biao, Zhongbo Yan, and Rui Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coherence limit due to hyperfine interaction with nuclei in the barrier material of $\mathrm{Si}$ spin qubits]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.064089</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.064089"/>
+        <updated>2024-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lukas Cvitkovich, Peter Stano, Christoph Wilhelmer, Dominic Waldhör, Daniel Loss, Yann-Michel Niquet, and Tibor Grasser
+Limited coherence times pose one of the biggest challenges for quantum computing with electron-spin qubits. One promising strategy to enhance the coherence of silicon spin qubits is purification of the semiconducting host material, to remove isotopes with nuclear spins. This study shows that the residual hyperfine interactions with atoms in the barrier material act as an additional source of hyperfine noise, limiting the coherence times even for present-day purification levels of 28Si. Thus we should not focus solely on the silicon to improve silicon qubits.
+
+[Phys. Rev. Applied 22, 064089] Published Tue Dec 24, 2024]]></summary>
+        <author>
+            <name>Lukas Cvitkovich, Peter Stano, Christoph Wilhelmer, Dominic Waldhör, Daniel Loss, Yann-Michel Niquet, and Tibor Grasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unambiguous Detection of High-Energy Vortex States via the Superkick Effect]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.265001</id>
@@ -1212,97 +1303,6 @@ Contemporary photonic resonant systems are non-Hermitian, exhibiting radiation l
 [Phys. Rev. B 110, 245407] Published Fri Dec 06, 2024]]></summary>
         <author>
             <name>Thomas Christopoulos, Georgios Nousios, Emmanouil E. Kriezis, and Odysseas Tsilipakos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probing the exciton spin-valley depolarization with spin-momentum-valley locked unbound states using tr-ARPES]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043243</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.043243"/>
-        <updated>2024-12-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mehdi Arfaoui, Robson Ferreira, and Sihem Jaziri
-A detailed theoretical description of the high-energy states that form the escape continuum for photoejected electrons in a tr-ARPES experiment, paying particular attention to their momentum dispersions, time-reversal symmetries, and spin characteristics. The analysis of the various symmetries fulfilled by such unbound states reveals the existence of a momentum-valley locking for the unbound final electron states, sharing various features with the valley Hall effect.
-
-[Phys. Rev. Research 6, 043243] Published Thu Dec 05, 2024]]></summary>
-        <author>
-            <name>Mehdi Arfaoui, Robson Ferreira, and Sihem Jaziri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting Gravitational Wave Memory in the Next Galactic Core-Collapse Supernova]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.231401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.231401"/>
-        <updated>2024-12-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Colter J. Richardson, Haakon Andresen, Anthony Mezzacappa, Michele Zanolin, Michael G. Benjamin, Pedro Marronetti, Eric J. Lentz, and Marek J. Szczepańczyk
-Scientists have devised a way to use current gravitational-wave detectors to observe permanent deformations of spacetime caused by certain supernovae.
-
-[Phys. Rev. Lett. 133, 231401] Published Thu Dec 05, 2024]]></summary>
-        <author>
-            <name>Colter J. Richardson, Haakon Andresen, Anthony Mezzacappa, Michele Zanolin, Michael G. Benjamin, Pedro Marronetti, Eric J. Lentz, and Marek J. Szczepańczyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutual information and the encoding of contingency tables]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.110.064306</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.110.064306"/>
-        <updated>2024-12-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Maximilian Jerdee, Alec Kirkley, and M. E. J. Newman
-This study focuses on the comparison of labelings, such as network communities, using mutual information. It presents a novel, significantly tighter, bound on the information needed to encode contingency tables in several typical cases. The work makes a valuable contribution to the understanding of the information content of labelings and adds to the discussion on comparing clusters or communities.
-
-[Phys. Rev. E 110, 064306] Published Thu Dec 05, 2024]]></summary>
-        <author>
-            <name>Maximilian Jerdee, Alec Kirkley, and M. E. J. Newman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effect of impurities and disorder on the braiding dynamics of Majorana zero modes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.214506</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.214506"/>
-        <updated>2024-12-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Cole Peeters, Themba Hodge, Eric Mascot, and Stephan Rachel
-Majorana zero modes, the midgap states in topological superconductors, can be utilized as topological qubits in future quantum computers. By pairwise exchanging them (called braiding), quantum gates can be operated. Impurities and random disorder are usually foes of Majorana zero modes and braiding operations. The authors investigate here both the case of single impurities and random disorder on a T-junction geometry with four Majorana zero modes, and analyze the induced qubit errors. Surprisingly, there is a parameter regime in which disorder can even enhance the topological phase (black dots in the figure) and improve the braiding performance.
-
-[Phys. Rev. B 110, 214506] Published Thu Dec 05, 2024]]></summary>
-        <author>
-            <name>Cole Peeters, Themba Hodge, Eric Mascot, and Stephan Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pressure-induced quantum melting of chiral spin order and subsequent transition to a degenerate semiconductor state in FeGe]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L220401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L220401"/>
-        <updated>2024-12-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Y. Fujishiro, C. Terakura, A. Miyake, N. Kanazawa, K. Nakazawa, N. Ogawa, H. Kadobayashi, S. Kawaguchi, T. Kagayama, M. Tokunaga, Y. Kato, Y. Motome, K. Shimizu, and Y. Tokura
-The authors reveal here anomalous charge transport upon melting of chiral spin orders, such as helical and skyrmion spin textures, in the itinerant chiral magnet FeGe. Under high pressure, significant modifications in the electronic structure induce a metal-to-semiconductor transition. Remarkably, a spontaneous anomalous Hall effect is observed in the short-range-ordered chiral spin ground state (P= 20–30 GPa) beyond the quantum phase transition. This macroscopic time-reversal symmetry breaking in the absence of long-range magnetic order represents a highly unconventional phenomenon.
-
-[Phys. Rev. B 110, L220401] Published Thu Dec 05, 2024]]></summary>
-        <author>
-            <name>Y. Fujishiro, C. Terakura, A. Miyake, N. Kanazawa, K. Nakazawa, N. Ogawa, H. Kadobayashi, S. Kawaguchi, T. Kagayama, M. Tokunaga, Y. Kato, Y. Motome, K. Shimizu, and Y. Tokura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candidate Toroidal Electric Dipole Mode in the Spherical Nucleus $^{58}\mathrm{Ni}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.232502</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.232502"/>
-        <updated>2024-12-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): P. von Neumann-Cosel, V. O. Nesterenko, I. Brandherm, P. I. Vishnevskiy, P.-G. Reinhard, J. Kvasil, H. Matsubara, A. Repko, A. Richter, M. Scheck, and A. Tamii
-Nuclear scattering data suggest the possible observation of a predicted but never-observed nuclear vibration.
-
-[Phys. Rev. Lett. 133, 232502] Published Wed Dec 04, 2024]]></summary>
-        <author>
-            <name>P. von Neumann-Cosel, V. O. Nesterenko, I. Brandherm, P. I. Vishnevskiy, P.-G. Reinhard, J. Kvasil, H. Matsubara, A. Repko, A. Richter, M. Scheck, and A. Tamii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wetting, Algebraic Curves, and Conformal Invariance]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.238001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.238001"/>
-        <updated>2024-12-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. O. Parry and C. Rascón
-An exact analytic solution of the Koga-Widom-Indekeu model for wetting transitions in three-phase fluid coexistence has been found, setting the bound for the validity of approximate theories predicting critical point wetting.
-
-[Phys. Rev. Lett. 133, 238001] Published Wed Dec 04, 2024]]></summary>
-        <author>
-            <name>A. O. Parry and C. Rascón</name>
         </author>
     </entry>
 </feed>
