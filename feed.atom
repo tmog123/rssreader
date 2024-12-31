@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-30T01:02:49.976Z</id>
+    <id>urn:2024-12-31T01:00:12.509Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T01:02:49.976Z</updated>
+    <updated>2024-12-31T01:00:12.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unveiling van Hove singularity modulation and fluctuated charge order in kagome superconductor $\mathrm{Cs}{\mathrm{V}}_{3}\mathrm{S}{\mathrm{b}}_{5}$ via time-resolved ARPES]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevResearch.6.043328</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevResearch.6.043328"/>
+        <updated>2024-12-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yigui Zhong, Takeshi Suzuki, Hongxiong Liu, Kecheng Liu, Zhengwei Nie, Youguo Shi, Sheng Meng, Baiqing Lv, Hong Ding, Teruto Kanai, Jiro Itatani, Shik Shin, and Kozo Okazaki
+Time- and angle-resolved photoemission spectroscopy is used to explore the dynamic band structures in the kagome superconductor CsV3Sb5. Laser excitation induces a rapid shift of the van Hove singularities toward the Fermi level, followed by decay accompanied by oscillations linked to a specific phonon mode. Remarkably, this phonon mode—typically observable only in the charge-density wave (CDW) phase—persists beyond the CDW transition, revealing the potential presence of fluctuating CDW. These findings highlight strong electron-phonon couplings in CsV3Sb5 and demonstrate optical control of van Hove singularities in this system.
+
+[Phys. Rev. Research 6, 043328] Published Mon Dec 30, 2024]]></summary>
+        <author>
+            <name>Yigui Zhong, Takeshi Suzuki, Hongxiong Liu, Kecheng Liu, Zhengwei Nie, Youguo Shi, Sheng Meng, Baiqing Lv, Hong Ding, Teruto Kanai, Jiro Itatani, Shik Shin, and Kozo Okazaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light-controlled terahertz plasmonic time-varying media: Momentum gaps, entangled plasmon pairs, and pulse-induced time reversal]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.L241411</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.L241411"/>
+        <updated>2024-12-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Egor I. Kiselev, Yiming Pan, and Netanel H. Lindner
+The authors suggest here a new method to excite terahertz plasmons in two-dimensional Dirac materials with amplitude modulated high frequency light. This method does not make use of THz sources, but, in fact, could be used to generate THz radiation. Additionally, they show that their method can be used to create entangled plasmon pairs, to amplify plasmons, and to actively control them, e.g. to time-mirror plasmonic waves.
+
+[Phys. Rev. B 110, L241411] Published Mon Dec 30, 2024]]></summary>
+        <author>
+            <name>Egor I. Kiselev, Yiming Pan, and Netanel H. Lindner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nanoscale structural correlations in a model cuprate superconductor]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevB.110.214519</id>
@@ -1277,32 +1303,6 @@ Response theory for nonequilibrium systems provides a basis for optimal fingerpr
 [Phys. Rev. Lett. 133, 244201] Published Mon Dec 09, 2024]]></summary>
         <author>
             <name>Valerio Lucarini and Mickaël D. Chekroun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping the Topological Proximity-Induced Gap in Multiterminal Josephson Junctions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.246601</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.246601"/>
-        <updated>2024-12-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Wisne, Y. Deng, I. M. A. Lilja, P. J. Hakonen, and V. Chandrasekhar
-The resistance of Josephson junctions as a function of the phase differences reveals the topological nature of the underlying anomalous superconducting Green’s function.
-
-[Phys. Rev. Lett. 133, 246601] Published Mon Dec 09, 2024]]></summary>
-        <author>
-            <name>M. Wisne, Y. Deng, I. M. A. Lilja, P. J. Hakonen, and V. Chandrasekhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin-Polarized Scanning Tunneling Microscopy Measurements of an Anderson Impurity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.246701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.246701"/>
-        <updated>2024-12-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mahasweta Bagchi, Tfyeche Y. Tounsi, Affan Safeer, Camiel van Efferen, Achim Rosch, Thomas Michely, Wouter Jolie, Theo A. Costi, and Jeison Fischer
-Spin-polarized scanning tunneling microscopy measurements on MoS2 show magnetic field induced changes in the peak heights of the Anderson impurity states as well as in the magnetic field-split Kondo resonance.
-
-[Phys. Rev. Lett. 133, 246701] Published Mon Dec 09, 2024]]></summary>
-        <author>
-            <name>Mahasweta Bagchi, Tfyeche Y. Tounsi, Affan Safeer, Camiel van Efferen, Achim Rosch, Thomas Michely, Wouter Jolie, Theo A. Costi, and Jeison Fischer</name>
         </author>
     </entry>
 </feed>
