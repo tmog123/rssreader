@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-07T01:01:18.840Z</id>
+    <id>urn:2025-01-08T01:01:09.638Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-07T01:01:18.840Z</updated>
+    <updated>2025-01-08T01:01:09.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blending Optimal Control and Biologically Plausible Learning for Noise-Robust Physical Neural Networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.017301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.017301"/>
+        <updated>2025-01-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Satoshi Sunada, Tomoaki Niiyama, Kazutaka Kanno, Rin Nogami, André Röhm, Takato Awano, and Atsushi Uchida
+A new training technique could increase the number of physical systems that could serve as AI platforms.
+
+[Phys. Rev. Lett. 134, 017301] Published Tue Jan 07, 2025]]></summary>
+        <author>
+            <name>Satoshi Sunada, Tomoaki Niiyama, Kazutaka Kanno, Rin Nogami, André Röhm, Takato Awano, and Atsushi Uchida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics of meta-learning representation in the teacher-student scenario]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.014303</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.014303"/>
+        <updated>2025-01-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hui Wang, Cho Tung Yip, and Bo Li
+The authors use an analytical approach from statistical physics to study the meta-learning (“learning to learn”) dynamics of two-layer nonlinear neural networks. They consider the teacher-student framework and project its high-dimensional learning dynamics into a finite set of macroscopic observables. Similar scenarios have been studied before in the computer science and machine learning literature. However, the statistical-physics-based approach presented here provides new insights into meta-learning.
+
+[Phys. Rev. E 111, 014303] Published Tue Jan 07, 2025]]></summary>
+        <author>
+            <name>Hui Wang, Cho Tung Yip, and Bo Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emergent cross-product-type spin-orbit coupling under ferroaxial ordering]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L041104</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L041104"/>
+        <updated>2025-01-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Akane Inda and Satoru Hayami
+Ferroaxial ordering, which is characterized as a ferroic alignment of a time-reversal-even axial vector, is often caused by vertical mirror symmetry breaking according to a rotational distortion of the lattice structure. The authors theoretically clarify here the emergent cross-product-type spin-orbit coupling under ferroaxial ordering based on a d-p tetragonal cluster model. Such unconventional spin-orbit entanglement originates from the interplay between the atomic spin-orbit coupling and the d-p hybridization according to vertical mirror symmetry breaking.
+
+[Phys. Rev. B 111, L041104] Published Tue Jan 07, 2025]]></summary>
+        <author>
+            <name>Akane Inda and Satoru Hayami</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QCD Constraints on Isospin-Dense Matter and the Nuclear Equation of State]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.011903</id>
@@ -1264,45 +1303,6 @@ Fixed target experiments involving high-energy leptons scattering off atoms are 
 [Phys. Rev. D 110, 113007] Published Wed Dec 11, 2024]]></summary>
         <author>
             <name>Ryan Plestid and Mark B. Wise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonreciprocal transport of thermally generated magnons]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.214418</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.214418"/>
-        <updated>2024-12-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Cosset-Chéneau, S. H. Tirion, X.-Y. Wei, J. Ben Youssef, and B. J. van Wees
-The dynamic dipolar magnetic stray fields of magnons propagating in a magnetic insulator allow for a nonreciprocity of their transmission under a ferromagnetic gate. Such a nonreciprocity has been previously detected in conventional coherent magnon transport experiments. Here, the authors show that this mechanism can also lead to a nonreciprocity of thermally generated magnon transport, that is in a dependence of the nonlocal spin Seebeck effect amplitude on the thermal gradient direction.
-
-[Phys. Rev. B 110, 214418] Published Wed Dec 11, 2024]]></summary>
-        <author>
-            <name>M. Cosset-Chéneau, S. H. Tirion, X.-Y. Wei, J. Ben Youssef, and B. J. van Wees</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid skyrmions in magnetic multilayer thin films are half-integer hopfions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.224420</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.224420"/>
-        <updated>2024-12-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): W. S. Parker, J. A. Reddinger, and B. J. McMorran
-The magnetic skyrmions found in multilayer thin films have a three-dimensional hybrid structure with depth-dependent helicity. The authors develop here a theoretical framework for these hybrid skyrmions based on the Hopf fibration, which captures the knotted structure of their field lines. They show that hybrid skyrmions can be considered half-integer Hopfions, and use their framework to relate the topological charge of partially twisted hybrid skyrmions to their surface domain wall helicity, providing a connection between experimental measurements and underlying topology.
-
-[Phys. Rev. B 110, 224420] Published Wed Dec 11, 2024]]></summary>
-        <author>
-            <name>W. S. Parker, J. A. Reddinger, and B. J. McMorran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entanglement entropy on generalized Brillouin zone]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.235127</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.235127"/>
-        <updated>2024-12-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zhenghao Yang, Chaoze Lu, and Xiancong Lu
-The physical interpretation of entanglement entropy in non-Hermitian systems remains unclear. The authors construct here an artificial lattice by performing a Fourier transformation on the non-Bloch Hamiltonian. Interestingly, when the generalized Brillouin zone (GBZ) is circular, the authors demonstrate that the entanglement entropy on the artificial lattices is well defined (real and positive definite). For noncircular GBZ, the non-Bloch edge entanglement entropy remains real and quantized, serving as a reliable topological indicator. The non-Bloch entanglement entropy opens new possibilities for studying many-body non-Hermitian physics.
-
-[Phys. Rev. B 110, 235127] Published Wed Dec 11, 2024]]></summary>
-        <author>
-            <name>Zhenghao Yang, Chaoze Lu, and Xiancong Lu</name>
         </author>
     </entry>
 </feed>
