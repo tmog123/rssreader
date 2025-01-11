@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-10T01:02:46.370Z</id>
+    <id>urn:2025-01-11T01:01:20.167Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T01:02:46.370Z</updated>
+    <updated>2025-01-11T01:01:20.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Continuous Collective Strong Coupling of Strontium Atoms to a High Finesse Ring Cavity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.013403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.013403"/>
+        <updated>2025-01-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Julia R. K. Cline, Vera M. Schäfer, Zhijing Niu, Dylan J. Young, Tai Hyun Yoon, and James K. Thompson
+Continuous loading and transport of ultracold strontium atoms inside a high-finesse cavity is experimentally demonstrated, with implications for continuous cavity QED experiments.
+
+[Phys. Rev. Lett. 134, 013403] Published Fri Jan 10, 2025]]></summary>
+        <author>
+            <name>Julia R. K. Cline, Vera M. Schäfer, Zhijing Niu, Dylan J. Young, Tai Hyun Yoon, and James K. Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological chiral superconductivity beyond pairing in a Fermi liquid]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.014508</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.014508"/>
+        <updated>2025-01-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Minho Kim, Abigail Timmel, Long Ju, and Xiao-Gang Wen
+The BCS theory of superconductivity is based on determinant or Pfaffian wave functions, which also describe Fermi liquids. Here, the authors develop a new theory of superconductivity in two dimensions, based on product wave functions. The new superconductivity is shown to be induced by purely repulsive interactions for flat dispersion ε∼k4, and can potentially have high transition temperatures. The resulting chiral superconductors display topological order, fractional statistics, and chiral edge states.
+
+[Phys. Rev. B 111, 014508] Published Fri Jan 10, 2025]]></summary>
+        <author>
+            <name>Minho Kim, Abigail Timmel, Long Ju, and Xiao-Gang Wen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic, thermodynamic, and dynamical properties of the three-dimensional fermionic Hubbard model: A comprehensive Monte Carlo study]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.035123</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.035123"/>
+        <updated>2025-01-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yu-Feng Song, Youjin Deng, and Yuan-Yao He
+The authors present here a comprehensive and numerically unbiased study for finite-temperature properties of the 3D fermionic Hubbard model. At half-filling, a complete temperature-interaction strength phase diagram of the model is established, including the highly accurate results of the Néel transition temperature and a multimessenger characterization of the metal-insulator crossover in the paramagnetic phase. The temperature dependence of various thermodynamic quantities and their underlying physics are thoroughly explored. The persistence of Néel AFM ordered phase to finite doping is further revealed.
+
+[Phys. Rev. B 111, 035123] Published Fri Jan 10, 2025]]></summary>
+        <author>
+            <name>Yu-Feng Song, Youjin Deng, and Yuan-Yao He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory effects on the current-induced propagation of spin textures in ${\mathrm{Nd}\mathrm{Co}}_{5}{/\mathrm{Ni}}_{8}{\mathrm{Fe}}_{2}$ bilayers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.014023</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.014023"/>
+        <updated>2025-01-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): V.V. Fernández, A.E. Herguedas-Alonso, J. Hermosa, L. Aballe, A. Sorrentino, R. Valcarcel, C. Quiros, J.I. Martín, E. Pereiro, S. Ferrer, A. Hierro-Rodríguez, and M. Vélez
+For spintronic circuits based on the magnetic racetrack concept, soft patterning by dipolar and exchange interactions is an alternative to lithography, with the added advantage of full reconfigurability. In this study, parallel-stripe domain patterns in a hard magnetic layer with weak perpendicular anisotropy create linear paths that guide the propagation of domain walls in an adjacent soft magnetic layer. An exchange-bias field remembers the last saturated state, due to the localized magnetic spring at the interface. These results provide a basis for reconfigurable domain-wall racetracks in which the propagation direction can be controlled by magnetic history and applied fields.
+
+[Phys. Rev. Applied 23, 014023] Published Fri Jan 10, 2025]]></summary>
+        <author>
+            <name>V.V. Fernández, A.E. Herguedas-Alonso, J. Hermosa, L. Aballe, A. Sorrentino, R. Valcarcel, C. Quiros, J.I. Martín, E. Pereiro, S. Ferrer, A. Hierro-Rodríguez, and M. Vélez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toward a 2D Local Implementation of Quantum Low-Density Parity-Check Codes]]></title>
         <id>http://link.aps.org/doi/10.1103/PRXQuantum.6.010306</id>
@@ -1251,58 +1303,6 @@ Measuring gravitational analogues of quantum phenomena could lead to high-precis
 [Phys. Rev. Lett. 133, 241402] Published Fri Dec 13, 2024]]></summary>
         <author>
             <name>Claus Lämmerzahl and Sebastian Ulbricht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacking-Engineered Ferroelectricity and Multiferroic Order in van der Waals Magnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.133.246703</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.133.246703"/>
-        <updated>2024-12-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daniel Bennett, Gabriel Martínez-Carracedo, Xu He, Jaime Ferrer, Philippe Ghosez, Riccardo Comin, and Efthimios Kaxiras
-Stacking of two-dimensional van der Waals magnets induces multiferroic order, providing a general approach for fabricating multifunctional nanomaterials.
-
-[Phys. Rev. Lett. 133, 246703] Published Fri Dec 13, 2024]]></summary>
-        <author>
-            <name>Daniel Bennett, Gabriel Martínez-Carracedo, Xu He, Jaime Ferrer, Philippe Ghosez, Riccardo Comin, and Efthimios Kaxiras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anisotropic, multiband, and strong-coupling superconductivity of the ${\mathrm{Pb}}_{0.64}{\mathrm{Bi}}_{0.36}$ alloy]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.214510</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.214510"/>
-        <updated>2024-12-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sylwia Gutowska, Karolina Górnicka, Paweł Wójcik, Tomasz Klimczuk, and Bartlomiej Wiendlocha
-Pb and Pb-Bi alloys are prototypes of strongly coupled superconductors, combining fascinating physics with application potential. Electron-phonon coupling (EPC) in cubic Pb is already strong, with λ≃1.5 and Tc=7.2 K. The work here demonstrates how alloying Pb with Bi — through electron doping, a cubic-to-hexagonal phase transition, and strong spin-orbit coupling — produces an alloy with record-strong EPC (λ≃2) and a higher Tc=8.6 K. Furthermore, the alloy’s anisotropic superconducting gap structure and strong electron scattering influence its thermodynamic properties, deviating from isotropic BCS and Eliashberg theories.
-
-[Phys. Rev. B 110, 214510] Published Fri Dec 13, 2024]]></summary>
-        <author>
-            <name>Sylwia Gutowska, Karolina Górnicka, Paweł Wójcik, Tomasz Klimczuk, and Bartlomiej Wiendlocha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum embedding study of strain- and electric-field-induced Stark effects on the ${\mathrm{NV}}^{−}$ center in diamond]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.110.245127</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.110.245127"/>
-        <updated>2024-12-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gabriel I. López-Morales, Joanna M. Zajac, Johannes Flick, Carlos A. Meriles, and Cyrus E. Dreyer
-The negatively charged nitrogen vacancy (NV−) center in diamond is a well-known color center with interesting applications in nanoscale sensing and quantum metrology, due to its high sensitivity to minute local electric, magnetic, and strain fields. Motivated by these applications of the this center, the authors employ here first-principles calculations based on quantum embedding to derive a many-body description of its excited-state dipole couplings and strain susceptibilities, which underlie the electric field and strain induced Stark effects.
-
-[Phys. Rev. B 110, 245127] Published Fri Dec 13, 2024]]></summary>
-        <author>
-            <name>Gabriel I. López-Morales, Joanna M. Zajac, Johannes Flick, Carlos A. Meriles, and Cyrus E. Dreyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin-wave signal rejection in magnonic waveguides induced by conducting films with a single groove]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.22.064049</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.22.064049"/>
-        <updated>2024-12-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Aleksei A. Nikitin and Erkki Lähderanta
-Magnonic crystals, artificial magnetic media with periodically modulated properties, are a powerful tool for processing microwave signals, but generally require several millimeters of periodic structure. The authors present an innovative approach to circumvent this issue through a magnonic waveguide covered by a VO2 stripe with a shaped microgroove. Simulations show that such a structure does not manifest noticeable spin-wave reflection, but still demonstrates a rejection band in its transmission characteristic. The obtained findings pave a clear way forward to microminiaturizing spin-wave devices, where features of magnonic crystals are exploited.
-
-[Phys. Rev. Applied 22, 064049] Published Fri Dec 13, 2024]]></summary>
-        <author>
-            <name>Aleksei A. Nikitin and Erkki Lähderanta</name>
         </author>
     </entry>
 </feed>
