@@ -6,6 +6,106 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.013802",
+          "author": "Wei Bin How, Sanggyu Chong, Federico Grasselli, Kevin K. Huguenin-Dumittan, and Michele Ceriotti",
+          "description": "Author(s): Wei Bin How, Sanggyu Chong, Federico Grasselli, Kevin K. Huguenin-Dumittan, and Michele Ceriotti\nMachine learning methods for predicting electronic density of states often assume that the model predictions and targets share the same absolute energy reference. However, this overlooks a subtle point, that the absolute energy reference cannot be defined for infinite bulk systems due to the conditionally convergent nature of electrostatic potentials. This paper introduces a training framework that uses a self-aligning loss function to provide an adaptive energy reference during training. Models trained using this framework outperform those relying on fixed conventional internal energy references, like the Fermi level or average Hartree potential. The paper also sheds insights on how the adaptive reference enhances model performance and identifies the conditions under which they are the most effective.\n\n[Phys. Rev. Materials 9, 013802] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.013802",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Adaptive energy reference for machine-learning models of the electronic density of states",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.031401",
+          "author": "Bruce Allen and Joseph D. Romano",
+          "description": "Author(s): Bruce Allen and Joseph D. Romano\nA theoretical analysis places limits on the precision for inter-pulsar correlations contained in the Hellings and Downs curve.\n\n[Phys. Rev. Lett. 134, 031401] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.031401",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Optimal Reconstruction of the Hellings and Downs Correlation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.036501",
+          "author": "David Barbalas, Ralph Romero, III, Dipanjan Chaudhuri, Fahad Mahmood, Hari P. Nair, Nathaniel J. Schreiber, Darrell G. Schlom, K. M. Shen, and N. P. Armitage",
+          "description": "Author(s): David Barbalas, Ralph Romero, III, Dipanjan Chaudhuri, Fahad Mahmood, Hari P. Nair, Nathaniel J. Schreiber, Darrell G. Schlom, K. M. Shen, and N. P. Armitage\nEnergy relaxation rates in Sr2RuO4 probed with THz 2D coherent spectroscopy are strongly subdominant compared to the previously measured momentum relaxation rates.\n\n[Phys. Rev. Lett. 134, 036501] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.036501",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Energy Relaxation and Dynamics in the Correlated Metal ${\\mathrm{Sr}}_{2}{\\mathrm{RuO}}_{4}$ via Terahertz Two-Dimensional Coherent Spectroscopy",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.037001",
+          "author": "Joanna Krynski, Daniel McGrath, Alexandre Le Roch, Sarah Holloway, Lucrezia Migliorin, Cédric Virmontois, and Vincent Goiffon",
+          "description": "Author(s): Joanna Krynski, Daniel McGrath, Alexandre Le Roch, Sarah Holloway, Lucrezia Migliorin, Cédric Virmontois, and Vincent Goiffon\nA CMOS-based image sensor with very low noise levels allows observation of the quantization of dark current generation rate of stray electron/hole pairs in unilluminated photodetectors.\n\n[Phys. Rev. Lett. 134, 037001] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.037001",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Single-Electron Quantization of Dark Current in Quanta Image Sensors",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.014312",
+          "author": "Cristiano Muzzi, Mikheil Tsitsishvili, and Giuliano Chiriacò",
+          "description": "Author(s): Cristiano Muzzi, Mikheil Tsitsishvili, and Giuliano Chiriacò\nNoise is usually seen as an obstacle to quantum coherence, but the authors uncover here a surprising phenomenon: under certain conditions, noise can enhance entanglement in quantum systems. By examining two coupled fermionic chains—one system and one ancilla—they demonstrate that fast ancilla dynamics, combined with strong noise, alters the interplay between coherence and decoherence, boosting entanglement within the system. This counterintuitive discovery opens up new pathways to exploit noise for processes in quantum information technologies.\n\n[Phys. Rev. B 111, 014312] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.014312",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Entanglement enhancement induced by noise in inhomogeneously monitored systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.024109",
+          "author": "Haian Xu, Wan Xu, Pu Wang, Lin Liu, Xiao-Di Liu, and Eugene Gregoryanz",
+          "description": "Author(s): Haian Xu, Wan Xu, Pu Wang, Lin Liu, Xiao-Di Liu, and Eugene Gregoryanz\nSolid hydrogen deuteride (HD), due to the absence of the ortho-para distinction and having a mass inbetween that of hydrogen and deuterium, is an interesting object to study and compare to the two other species. Here, the authors map out the phase diagram of a H2-HD-D2 mixture up to 350 GPa (3.5 MAtm) and between 10 and 300 K. They demonstrate the existence of the phase IV previously observed in the pure isotopes only and optically measure the mixture closing band gap as function of pressure.\n\n[Phys. Rev. B 111, 024109] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.024109",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Phase transitions in ${\\mathrm{H}}_{2}\\text{−}{\\mathrm{HD}\\text{−}\\mathrm{D}}_{2}$ mixtures up to 350 GPa",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035440",
+          "author": "Anjana Uday, Gertjan Lippertz, Bibek Bhujel, Alexey A. Taskin, and Yoichi Ando",
+          "description": "Author(s): Anjana Uday, Gertjan Lippertz, Bibek Bhujel, Alexey A. Taskin, and Yoichi Ando\nHalf-integer conductance quantization due to chiral Majorana edge modes is predicted when a section of a quantum anomalous Hall insulator is proximitized by an s-wave superconductor. While such a quantization has been observed, its origin remains controversial. The new study here consists of multiterminal measurements and analyzes the data using the Landauer-Büttiker formalism. Elucidation of all the relevant edge potentials unambiguously concludes that the half-inter quantization arises from edge-state equilibration, and hence is not of Majorana origin.\n\n[Phys. Rev. B 111, 035440] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035440",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Non-Majorana origin of the half-integer conductance quantization elucidated by multiterminal superconductor–quantum anomalous Hall insulator heterostructure",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.045147",
+          "author": "Denis Golež, Eva Paprotzki, Philipp Werner, and Martin Eckstein",
+          "description": "Author(s): Denis Golež, Eva Paprotzki, Philipp Werner, and Martin Eckstein\nTime-resolved x-ray absorption spectroscopy (XAS) is a powerful tool for exploring ultrafast changes in electron interactions in Mott and charge transfer insulators. Recent advances in free-electron laser experiments have demonstrated that photodoping can modify effective interactions, particularly the Hubbard U, as evidenced by shifts in x-ray absorption spectra. This theoretical study, based on GW+EDMFT, reveals that dynamical screening effects induced by photodoping become evident both in a change of the position and the lineshape of the x-ray absorption spectra. This response arises from a complex interplay of multiorbital interactions and photoinduced changes in screening, highlighting the value of comparing different spectroscopic probes to investigate the nature of photoinduced screening.\n\n[Phys. Rev. B 111, 045147] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.045147",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Theory of ultrafast screening of $U$ in driven charge-transfer insulators: A time-resolved x-ray absorption study",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.045150",
+          "author": "Shung-Kang Koh, Ching-Ping Lee, Tzu-Kan Hsiao, Io-Chun Hoi, Yen-Hsiang Lin, Chung-Yu Mou, Dah-Chin Ling, Yung-Fu Chen, Cen-Shawn Wu, and Jeng-Chung Chen",
+          "description": "Author(s): Shung-Kang Koh, Ching-Ping Lee, Tzu-Kan Hsiao, Io-Chun Hoi, Yen-Hsiang Lin, Chung-Yu Mou, Dah-Chin Ling, Yung-Fu Chen, Cen-Shawn Wu, and Jeng-Chung Chen\nUnderstanding environmental noise properties helps devise strategies to minimize decoherence rates. This study investigates decoherence in an Aharonov-Bohm quantum interferometer influenced by a radio-frequency electromagnetic (RF-EM) field and surface acoustic waves (SAW). The authors examine RF-EM field-induced phase breaking without thermal heating and identify optimal SAW conditions to minimize dephasing. Decoherence arises from electric field fluctuations associated with RF-EM fields and SAWs, enhancing charge-charge interactions.\n\n[Phys. Rev. B 111, 045150] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.045150",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Decoherence in a ballistic quantum interferometer due to the interplay of radio-frequency electromagnetic field and surface acoustic wave",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.L041113",
+          "author": "M. J. Rendell, S. D. Liles, S. Bladwell, A. Srinivasan, O. Klochan, I. Farrer, D. A. Ritchie, O. P. Sushkov, and A. R. Hamilton",
+          "description": "Author(s): M. J. Rendell, S. D. Liles, S. Bladwell, A. Srinivasan, O. Klochan, I. Farrer, D. A. Ritchie, O. P. Sushkov, and A. R. Hamilton\nFermi surface measurements are critical for determining the electrical and magnetic properties of solids. Typical techniques used in 2D systems such as Shubnikov–de Haas and commensurability oscillations are unable to detect changes in the parity of the Fermi surface, i.e., when E(+k) ≠ E(-k). In this work, the authors show that transverse magnetic focusing can be used to detect changes in Fermi surface parity, as focusing only measures a well defined section of the Fermi surface.\n\n[Phys. Rev. B 111, L041113] Published Wed Jan 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.L041113",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Probing Fermi surface parity with spin-resolved transverse magnetic focusing",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.6.010313",
           "author": "Ramanjit Sohal and Abhinav Prem",
           "description": "Author(s): Ramanjit Sohal and Abhinav Prem\nDecoherence can be used to generate mixed-state topological orders without analogue in closed systems and with properties useful for quantum information applications.\n\n[PRX Quantum 6, 010313] Published Tue Jan 21, 2025",
@@ -903,106 +1003,6 @@
           "publishedOn": "2024-12-30T10:00:00.000Z",
           "wordCount": null,
           "title": "Unveiling van Hove singularity modulation and fluctuated charge order in kagome superconductor $\\mathrm{Cs}{\\mathrm{V}}_{3}\\mathrm{S}{\\mathrm{b}}_{5}$ via time-resolved ARPES",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.L241411",
-          "author": "Egor I. Kiselev, Yiming Pan, and Netanel H. Lindner",
-          "description": "Author(s): Egor I. Kiselev, Yiming Pan, and Netanel H. Lindner\nThe authors suggest here a new method to excite terahertz plasmons in two-dimensional Dirac materials with amplitude modulated high frequency light. This method does not make use of THz sources, but, in fact, could be used to generate THz radiation. Additionally, they show that their method can be used to create entangled plasmon pairs, to amplify plasmons, and to actively control them, e.g. to time-mirror plasmonic waves.\n\n[Phys. Rev. B 110, L241411] Published Mon Dec 30, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L241411",
-          "publishedOn": "2024-12-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Light-controlled terahertz plasmonic time-varying media: Momentum gaps, entangled plasmon pairs, and pulse-induced time reversal",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.214519",
-          "author": "Zachary W. Anderson, Marin Spaić, Nikolaos Biniskos, Liam Thompson, Biqiong Yu, Jack Zwettler, Yaohua Liu, Feng Ye, Garrett E. Granroth, Matthew Krogstad, Raymond Osborn, Damjan Pelc, and Martin Greven",
-          "description": "Author(s): Zachary W. Anderson, Marin Spaić, Nikolaos Biniskos, Liam Thompson, Biqiong Yu, Jack Zwettler, Yaohua Liu, Feng Ye, Garrett E. Granroth, Matthew Krogstad, Raymond Osborn, Damjan Pelc, and Martin Greven\nNanoscale structural and electronic inhomogeneity is known to be common in the cuprate superconductors, and there is reason to believe that it is fundamental to much of the rich electronic phenomenology of these complex oxides. The authors use here advanced neutron and x-ray diffuse scattering to measure local structural correlations in HgBa2CuO4+δ, a high-symmetry cuprate with exemplary electronic properties. Combined diffuse scattering, spectral analysis, and structural modeling reveal locally correlated atomic displacements perpendicular to the CuO2 planes.\n\n[Phys. Rev. B 110, 214519] Published Fri Dec 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.214519",
-          "publishedOn": "2024-12-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Nanoscale structural correlations in a model cuprate superconductor",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.245425",
-          "author": "Deepankur Thureja, F. Emre Yazıcı, Tomasz Smoleński, Martin Kroner, David J. Norris, and Atac İmamoǧlu",
-          "description": "Author(s): Deepankur Thureja, F. Emre Yazıcı, Tomasz Smoleński, Martin Kroner, David J. Norris, and Atac İmamoǧlu\nSolid-state single-photon sources based on quantum dots have found numerous applications in fields ranging from quantum information processing to commercial displays. A major current limitation is the large inhomogeneity in, and lack of tunability of, the photon energy. Here, the authors demonstrate electrically defined quantum dots for excitons in monolayer semiconductors, where the exciton, and consequently the photon emission, energy can be controlled using applied gate voltages. Resonance fluorescence measurements show strong spectral jumps and blinking of exciton emission, verifying their zero-dimensional nature.\n\n[Phys. Rev. B 110, 245425] Published Fri Dec 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.245425",
-          "publishedOn": "2024-12-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Electrically defined quantum dots for bosonic excitons",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.110.063121",
-          "author": "Ming Lian, Maximillian Mrozek-McCourt, Christopher K. Angyal, Dadbeh Shaddel, Zachary J. Blogg, John R. Griffin, Ian Crawley, and Ariel T. Sommer",
-          "description": "Author(s): Ming Lian, Maximillian Mrozek-McCourt, Christopher K. Angyal, Dadbeh Shaddel, Zachary J. Blogg, John R. Griffin, Ian Crawley, and Ariel T. Sommer\nThe authors develop, numerically characterize, and experimentally test a new lens configuration that minimizes the sensitivity of a crossed-beam optical dipole trap to misalignment. This allows the trap to move and remain aligned, e.g. to bring an atomic cloud held in the trap close to a surface or field source for various applications in quantum simulation, sensing, and information processing.\n\n[Phys. Rev. A 110, 063121] Published Fri Dec 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.110.063121",
-          "publishedOn": "2024-12-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Self-aligning recirculated crossed optical dipole trap for lithium atoms",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.110.063532",
-          "author": "M. I. Bakunov, A. V. Shirokova, M. A. Kurnikov, and A. V. Maslov",
-          "description": "Author(s): M. I. Bakunov, A. V. Shirokova, M. A. Kurnikov, and A. V. Maslov\nThis paper critically examines the theoretical models used in the study of photonic time crystals, emphasizing the importance of taking dynamics of the medium, such as polarization, into account. The findings challenge earlier predictions of parametric amplification in a Lorentzian medium, showing that such effects do not arise when the medium’s full dynamics are properly accounted for.\n\n[Phys. Rev. A 110, 063532] Published Fri Dec 27, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.110.063532",
-          "publishedOn": "2024-12-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Electromagnetic waves in a Lorentzian medium with periodically modulated oscillator density",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.224202",
-          "author": "Ziv Landau and Ulf Leonhardt",
-          "description": "Author(s): Ziv Landau and Ulf Leonhardt\nIn astrophysics, cracks have appeared in the cosmological standard model. Now, this new paper in condensed matter physics suggests a surprisingly simple fix. The authors develop here a theory for calculating the energy of quantum fluctuations in spatially homogeneous but time-depending media. The expanding universe acts as such a medium. The authors show that in this “medium of space” each ingredient of the cosmic mix get a little lighter as if it were partially buoyant in the sea of the vacuum.\n\n[Phys. Rev. B 110, 224202] Published Thu Dec 26, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.224202",
-          "publishedOn": "2024-12-26T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quantum noise in time-dependent media and cosmic expansion",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.245140",
-          "author": "Evgenii Zheltonozhskii, Ady Stern, and Netanel H. Lindner",
-          "description": "Author(s): Evgenii Zheltonozhskii, Ady Stern, and Netanel H. Lindner\nIdentifying the topological order of potentially non-Abelian half-filled quantum Hall states is notoriously difficult. While “daughter states” have been proposed as a signature, existing calculations were incomplete. This work provides a comprehensive framework based on hierarchical construction and flux attachment, predicting daughter states for all candidate parent states. Observing daughter states on both sides of half-filling enables the identification of the parent’s topological order. Applied to experiments, this reveals a Pfaffian state in wide-well GaAs and a Pfaffian/anti-Pfaffian sequence in graphene, a contrast to PH-Pfaffian in narrow-well GaAs.\n\n[Phys. Rev. B 110, 245140] Published Thu Dec 26, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.245140",
-          "publishedOn": "2024-12-26T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Identifying the topological order of quantized half-filled Landau levels through their daughter states",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.L241112",
-          "author": "Thomas G. Kiely and Debanjan Chowdhury",
-          "description": "Author(s): Thomas G. Kiely and Debanjan Chowdhury\nInteractions and fluctuations can drastically change the nature of phases and phase transitions in electronic materials. Here, the authors provide numerical evidence for a continuous quantum phase transition between a normal metal and a crystalline insulator, which challenges physicists’ standard theories for quantum phase transitions and demands novel explanations. Inspired by experiments in moiré quantum simulators and using sophisticated numerics, the authors study the transition from a crystal of spatially separated electron pairs to a metal as the interaction strength is reduced at a fixed low filling.\n\n[Phys. Rev. B 110, L241112] Published Thu Dec 26, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.L241112",
-          "publishedOn": "2024-12-26T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Continuous Wigner-Mott transitions at $ν=1/5$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.110.063324",
-          "author": "S. Kannan, Y. S. Athreya, A. H. Abbas, X. T. Yan, S. S. Hodgman, and A. G. Truscott",
-          "description": "Author(s): S. Kannan, Y. S. Athreya, A. H. Abbas, X. T. Yan, S. S. Hodgman, and A. G. Truscott\nThe authors experimentally measure the s-wave scattering length between the two metastable isotopes of helium in a harmonic trap via trap oscillations and out-coupling. The result is in good agreement with previous theoretical predictions.\n\n[Phys. Rev. A 110, 063324] Published Thu Dec 26, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.110.063324",
-          "publishedOn": "2024-12-26T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Measurement of the $s$-wave scattering length between metastable helium isotopes",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.110.214517",
-          "author": "Glenn Wagner, Yves H. Kwan, Nick Bultinck, Steven H. Simon, and S. A. Parameswaran",
-          "description": "Author(s): Glenn Wagner, Yves H. Kwan, Nick Bultinck, Steven H. Simon, and S. A. Parameswaran\nThe authors propose here a simple three-pocket model for Kohn-Luttinger type interaction-driven superconductivity in untwisted “Bernal-stacked” bilayer graphene. The Cooper pairing results from overscreening of the purely repulsive Coulomb interaction, leading to p-wave superconductivity. The three-pocket model is substantiated by both random phase approximation and functional renormalization group calculations. These show that the proposed mechanism can account for the unusual behaviour seen in experiments, where superconductivity only emerges under application of an in-plane magnetic field or proximity-induced spin-orbit coupling.\n\n[Phys. Rev. B 110, 214517] Published Tue Dec 24, 2024",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.110.214517",
-          "publishedOn": "2024-12-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Superconductivity from repulsive interactions in Bernal-stacked bilayer graphene",
           "imageUrl": null
         }
       ]
