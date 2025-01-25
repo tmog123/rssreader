@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-24T00:59:28.999Z</id>
+    <id>urn:2025-01-25T00:55:53.967Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T00:59:28.999Z</updated>
+    <updated>2025-01-25T00:55:53.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Neural Density Functional Theory of Liquid-Gas Phase Coexistence]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011013</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.15.011013"/>
+        <updated>2025-01-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Florian Sammüller, Matthias Schmidt, and Robert Evans
+Conventional theory has trouble predicting the conditions that will cause a liquid to boil, but a neural-network-based approach performs better.
+
+[Phys. Rev. X 15, 011013] Published Fri Jan 24, 2025]]></summary>
+        <author>
+            <name>Florian Sammüller, Matthias Schmidt, and Robert Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical Mean-Field Theory of Complex Systems on Sparse Directed Networks]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.037401</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.037401"/>
+        <updated>2025-01-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fernando L. Metz
+A generalized dynamical mean-field theory allows computation of the phase diagram of sparse and heterogeneous networks.
+
+[Phys. Rev. Lett. 134, 037401] Published Fri Jan 24, 2025]]></summary>
+        <author>
+            <name>Fernando L. Metz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-dimensional model for adaptive networks of spiking neurons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.014422</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.014422"/>
+        <updated>2025-01-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bastian Pietras, Pau Clusella, and Ernest Montbrió
+Exact neuronal firing rate models provide a link between microscopic dynamics of individual spiking neurons and macroscopic variables. These authors extend the model to include a form of spike frequency adaptation and reduce its dimension. The reduced-dimension model facilitates analysis and reveals collective oscillations in the spiking neuronal network.
+
+[Phys. Rev. E 111, 014422] Published Fri Jan 24, 2025]]></summary>
+        <author>
+            <name>Bastian Pietras, Pau Clusella, and Ernest Montbrió</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large negative magnetoresistance in the off-stoichiometric topological semimetal ${\mathrm{PrSb}}_{x}{\mathrm{Te}}_{2−x}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.024421</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.024421"/>
+        <updated>2025-01-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Gokul Acharya, Krishna Pandey, M. M. Sharma, Jian Wang, Santosh Karki Chhetri, Md Rafique Un Nabi, Dinesh Upreti, Rabindra Basnet, Josh Sakon, and Jin Hu
+PrSbxTe1−x, a topological semimetal with strong magnetism but no long-range order, offers a unique platform to explore the interplay between topological electronic states and magnetism. Varying composition in PrSbxTe1−x, the authors identify here strongly anisotropic and gigantic negative magnetoresistance in off-stoichiometric PrSb0.3Te1.7, in which a switching from hole- to electron-type transport occurs. The twofold anisotropy in magnetoresistance aligns with magnetism. These findings suggest that tuning electronic states via composition can yield exciting properties in magnetic topological materials, paving a way for future applications.
+
+[Phys. Rev. B 111, 024421] Published Fri Jan 24, 2025]]></summary>
+        <author>
+            <name>Gokul Acharya, Krishna Pandey, M. M. Sharma, Jian Wang, Santosh Karki Chhetri, Md Rafique Un Nabi, Dinesh Upreti, Rabindra Basnet, Josh Sakon, and Jin Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equivalent-circuit modeling of electron-hole recombination in semiconductors and mixed ionic-electronic conductors]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.014055</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.014055"/>
+        <updated>2025-01-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Davide Moia
+Electron-hole recombination is a key process in semiconductor physics, though its role in the electrical response of devices such as halide perovskite solar cells remains unclear, due to a lack of suitable equivalent-circuit models. Here such a model for recombination processes, when integrated within a transmission line, allows the derivation of a device model that is analytically equivalent to the drift-diffusion equations. Elucidating the polarization processes that set the characteristic time scales of changes in recombination impedance, this model and its analytic approximations facilitate the optimization of devices for energy conversion, optoelectronics, and photoelectrochemistry.
+
+[Phys. Rev. Applied 23, 014055] Published Fri Jan 24, 2025]]></summary>
+        <author>
+            <name>Davide Moia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic running- and standing-wave optical traps for Rydberg atoms]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.111.013115</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.111.013115"/>
+        <updated>2025-01-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Lukas Ahlheit, Chris Nill, Daniil Svirskiy, Jan de Haan, Simon Schroers, Wolfgang Alt, Nina Stiesdal, Igor Lesanovsky, and Sebastian Hofferberth
+The authors present an experimental and theoretical study of how the geometry of an optical trap influences the magic wavelength for a collective Rydberg excitation, and find the magic trap wavelength where the coherence time in photon storage experiments is maximized. This magic wavelength depends not only on the Rydberg state, but also on the trap geometry due to the wave function of the almost-free Rydberg electron exploring the potential landscape surrounding the core. Hence, it is necessary to take the size of both Rydberg atom and trapping beams into account when trapping Rydberg atoms.
+
+[Phys. Rev. A 111, 013115] Published Fri Jan 24, 2025]]></summary>
+        <author>
+            <name>Lukas Ahlheit, Chris Nill, Daniil Svirskiy, Jan de Haan, Simon Schroers, Wolfgang Alt, Nina Stiesdal, Igor Lesanovsky, and Sebastian Hofferberth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interpreting convolutional neural networks' low-dimensional approximation to quantum spin systems]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevResearch.7.013094</id>
@@ -1225,84 +1303,6 @@ Simulations of neutron stars provide new bounds on their properties, such as the
 [Phys. Rev. Lett. 134, 011903] Published Mon Jan 06, 2025]]></summary>
         <author>
             <name>Ryan Abbott, William Detmold, Marc Illa, Assumpta Parreño, Robert J. Perry, Fernando Romero-López, Phiala E. Shanahan, and Michael L. Wagman (NPLQCD Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental study of the Richtmyer-Meshkov instability in spherical geometry]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.10.014001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.10.014001"/>
-        <updated>2025-01-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mathieu Brasseur, Georges Jourdan, Christian Mariani, Diogo C. Barros, Marc Vandenboomgaerde, and Denis Souffland
-An experimental investigation of the Richtmyer-Meshkov instability is conducted in spherical geometry where the displacement and the growth of the perturbations at the interface are given and compared to numerical simulations and new theoretical predictions. The results show that the instability amplitude initially grows, stabilizes, and then reduces before the arrival of the reflected shock wave. The theoretical model developed here agrees well with the experiments, although a time shift is observed in the stabilization regime. Furthermore, we show that convergent Rayleigh-Taylor effects are the main stabilizing mechanisms, and that compressibility has a negligible effect.
-
-[Phys. Rev. Fluids 10, 014001] Published Mon Jan 06, 2025]]></summary>
-        <author>
-            <name>Mathieu Brasseur, Georges Jourdan, Christian Mariani, Diogo C. Barros, Marc Vandenboomgaerde, and Denis Souffland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation of non-Hermitian pseudo-mobility-edge in a coupled electric circuit ladder]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.014304</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.014304"/>
-        <updated>2025-01-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xuewei Zhang, Chaohua Wu, Mou Yan, and Gang Chen
-The authors report here the experimental observation of the non-Hermitian pseudo-mobility-edge in a hybridized non-Hermitian circuit ladder. Through measuring the admittance spectrum and eigenstates, they show the transition from pseudo-mobility-edge phase to the skin-localized phase for open boundary condition and to the extended phase for mixed boundary condition. The results are in good agreement with theoretical predictions.
-
-[Phys. Rev. B 111, 014304] Published Mon Jan 06, 2025]]></summary>
-        <author>
-            <name>Xuewei Zhang, Chaohua Wu, Mou Yan, and Gang Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron-phonon coupling in the topological heavy fermion model of twisted bilayer graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.035110</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.035110"/>
-        <updated>2025-01-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yi-Jie Wang, Geng-Dong Zhou, Biao Lian, and Zhi-Da Song
-Plentiful strongly correlated electronic phases have been identified in magic-angle twisted bilayer graphene, yet the microscopic ingredients that stabilize them have remained elusive. This study demonstrates that the electron-phonon coupling (EPC), by introducing a significant multiplet splitting to the moiré-scale local orbitals, plays a vital role in determining these phases. The splitting not only selects the competing symmetry-breaking insulators, but also triggers the unconventional superconducting phase, and provides an alternative explanation to the semimetallic behavior at the charge neutrality point.
-
-[Phys. Rev. B 111, 035110] Published Mon Jan 06, 2025]]></summary>
-        <author>
-            <name>Yi-Jie Wang, Geng-Dong Zhou, Biao Lian, and Zhi-Da Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bose-Einstein-condensate source on an optical-grating-based atom chip for quantum sensor applications]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.L011001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.L011001"/>
-        <updated>2025-01-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. Calviac, A. Rouxel, S. Charlot, D. Bourrier, A. Arnoult, A. Monmayrant, O. Gauthier-Lafaye, A. Gauguet, and B. Allard
-The sensitivity of ultracold-atom sensors has great potential for on-board applications, but achieving this precision outside the laboratory requires a robust, compact atom source. This work presents a hybrid atom chip that combines two techniques to simplify the cold-atom source: optical gratings for single-beam laser cooling and conductive microcircuits for tight magnetic confinement. This hybrid configuration also achieves Bose-Einstein condensation. This research paves the way for integrating more advanced features into atomic chips with applications in atomic interferometry and atomtronics.
-
-[Phys. Rev. Applied 23, L011001] Published Mon Jan 06, 2025]]></summary>
-        <author>
-            <name>R. Calviac, A. Rouxel, S. Charlot, D. Bourrier, A. Arnoult, A. Monmayrant, O. Gauthier-Lafaye, A. Gauguet, and B. Allard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navier-Stokes Equations for Nearly Integrable Quantum Gases]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.010405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.010405"/>
-        <updated>2025-01-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Maciej Łebek and Miłosz Panfil
-Navier-Stokes equations are shown to emerge from a generalized hydrodynamics description for nearly integrable 1D models.
-
-[Phys. Rev. Lett. 134, 010405] Published Fri Jan 03, 2025]]></summary>
-        <author>
-            <name>Maciej Łebek and Miłosz Panfil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-Ray Diffraction Reveals the Consequences of Strong Deformation in Thin Smectic Films: Dilation and Chevron Formation]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.018101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.018101"/>
-        <updated>2025-01-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jean de Dieu Niyonzima, Haifa Jeridi, Lamya Essaoui, Caterina Tosarelli, Alina Vlad, Alessandro Coati, Sebastien Royer, Isabelle Trimaille, Michel Goldmann, Bruno Gallas, Doru Constantin, David Babonneau, Yves Garreau, Bernard Croset, Samo Kralj, Randall D. Kamien, and Emmanuelle Lacaze
-A combination of nonlinear theory and x-ray diffraction experiments of smectic liquid crystals reveals the need for a nonlinear energy term to correctly describe the spacing of smectic layers.
-
-[Phys. Rev. Lett. 134, 018101] Published Fri Jan 03, 2025]]></summary>
-        <author>
-            <name>Jean de Dieu Niyonzima, Haifa Jeridi, Lamya Essaoui, Caterina Tosarelli, Alina Vlad, Alessandro Coati, Sebastien Royer, Isabelle Trimaille, Michel Goldmann, Bruno Gallas, Doru Constantin, David Babonneau, Yves Garreau, Bernard Croset, Samo Kralj, Randall D. Kamien, and Emmanuelle Lacaze</name>
         </author>
     </entry>
 </feed>
