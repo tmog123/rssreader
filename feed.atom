@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-28T00:59:08.405Z</id>
+    <id>urn:2025-01-29T00:59:14.647Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T00:59:08.405Z</updated>
+    <updated>2025-01-29T00:59:14.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Efficient Learning of Quantum States Prepared With Few Fermionic Non-Gaussian Gates]]></title>
+        <id>http://link.aps.org/doi/10.1103/PRXQuantum.6.010319</id>
+        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.6.010319"/>
+        <updated>2025-01-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Antonio Anna Mele and Yaroslav Herasymenko
+A novel tomography algorithm with provably optimal run-time can uncover fundamental properties of a broad class of states and provide efficient circuit compilation.
+
+[PRX Quantum 6, 010319] Published Tue Jan 28, 2025]]></summary>
+        <author>
+            <name>Antonio Anna Mele and Yaroslav Herasymenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultraviolet-Complete Local Field Theory of Persistent Symmetry Breaking in $2+1$ Dimensions]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.041602</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.041602"/>
+        <updated>2025-01-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Bilal Hawashin, Junchen Rong, and Michael M. Scherer
+A local quantum field theory is found to spontaneously break a global symmetry at all temperatures, defying the normal expectation that symmetries get restored at high temperatures.
+
+[Phys. Rev. Lett. 134, 041602] Published Tue Jan 28, 2025]]></summary>
+        <author>
+            <name>Bilal Hawashin, Junchen Rong, and Michael M. Scherer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Realizing Quantitative Quasiparticle Modeling of Skyrmion Dynamics in Arbitrary Potentials]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.046701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.046701"/>
+        <updated>2025-01-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maarten A. Brems, Tobias Sparmann, Simon M. Fröhlich, Leonie-C. Dany, Jan Rothörl, Fabian Kammerbauer, Elizabeth M. Jefremovas, Oded Farago, Mathias Kläui, and Peter Virnau
+By ascertaining key missing parameters in Thiele-based simulations, a complete spatially resolved mapping of the skyrmion pinning energy without any inaccessible regions is obtained.
+
+[Phys. Rev. Lett. 134, 046701] Published Tue Jan 28, 2025]]></summary>
+        <author>
+            <name>Maarten A. Brems, Tobias Sparmann, Simon M. Fröhlich, Leonie-C. Dany, Jan Rothörl, Fabian Kammerbauer, Elizabeth M. Jefremovas, Oded Farago, Mathias Kläui, and Peter Virnau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cold Beam Optical Clock with Multifrequency Spectroscopy]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.043401</id>
@@ -1264,45 +1303,6 @@ The authors develop an energy-dependent frame transformation method to tackle th
 [Phys. Rev. A 111, 012805] Published Thu Jan 09, 2025]]></summary>
         <author>
             <name>Dávid Hvizdoš, Roman Čurík, and Chris H. Greene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.15.011002"/>
-        <updated>2025-01-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chase Hartquist, Shu Wang, Qiaodong Cui, Wojciech Matusik, Bolei Deng, and Xuanhe Zhao
-The energy required to fracture a lattice material obeys a scaling law governed by just three parameters, researchers find.
-
-[Phys. Rev. X 15, 011002] Published Wed Jan 08, 2025]]></summary>
-        <author>
-            <name>Chase Hartquist, Shu Wang, Qiaodong Cui, Wojciech Matusik, Bolei Deng, and Xuanhe Zhao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spectrally resolved far-field emission pattern of single photon emitters in $\mathrm{Mo}{\mathrm{S}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.9.016201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.9.016201"/>
-        <updated>2025-01-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Katja Barthelmi, Tomer Amit, Lukas Sigl, Mirco Troue, Thomas Klokkers, Anna Herrmann, Takashi Taniguchi, Kenji Watanabe, Jonathan Finley, Christoph Kastl, Sivan Refaely-Abramson, and Alexander Holleitner
-Single-sulfur vacancies in monolayer MoS2 can act as single photon emitters. Ab initio theory predicts sub-bandgap emission lines, which have never been resolved in corresponding luminescence experiments because of their small amplitude. The demonstrated experimental results reveal the lines of the single photon emitters by their dependence as a function of the photon energy and momentum as measured in the back focal plane of the optical circuitry. The agreement between theory and experiment suggests that the defect states interact strongly within the Brillouin zone.
-
-[Phys. Rev. Materials 9, 016201] Published Wed Jan 08, 2025]]></summary>
-        <author>
-            <name>Katja Barthelmi, Tomer Amit, Lukas Sigl, Mirco Troue, Thomas Klokkers, Anna Herrmann, Takashi Taniguchi, Kenji Watanabe, Jonathan Finley, Christoph Kastl, Sivan Refaely-Abramson, and Alexander Holleitner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliability Function of Classical-Quantum Channels]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.010802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.010802"/>
-        <updated>2025-01-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ke Li and Dong Yang
-Holevo’s conjecture is shown to be true: the reliability function of classical-quantum channels has a general lower bound.
-
-[Phys. Rev. Lett. 134, 010802] Published Wed Jan 08, 2025]]></summary>
-        <author>
-            <name>Ke Li and Dong Yang</name>
         </author>
     </entry>
 </feed>
