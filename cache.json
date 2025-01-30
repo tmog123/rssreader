@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.046302",
+          "author": "Alexey Yamilov, Hui Cao, and Sergey E. Skipetrov",
+          "description": "Author(s): Alexey Yamilov, Hui Cao, and Sergey E. Skipetrov\nSimulations demonstrate that light can be confined within a scattering medium in a way similar to electrons in a disordered metal.\n\n[Phys. Rev. Lett. 134, 046302] Published Wed Jan 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.046302",
+          "publishedOn": "2025-01-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Anderson Transition for Light in a Three-Dimensional Random Medium",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.014153",
+          "author": "Yilin Ye, Adrien Chaigneau, and Denis S. Grebenkov",
+          "description": "Author(s): Yilin Ye, Adrien Chaigneau, and Denis S. Grebenkov\nIt is possible to calculate the statistics of first-passage times to various targets, including to small targets and extended boundaries. Here, the authors ask what happens if the target is the fractal self-similar boundary of the Koch snowflake, and the particle starts from a fixed location near that boundary. They find two regimes that have well-known features, and a third, intermediate regime with a local persistence exponent that exhibits log-periodic oscillations.\n\n[Phys. Rev. E 111, 014153] Published Wed Jan 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.014153",
+          "publishedOn": "2025-01-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "First-passage times to a fractal boundary: Local persistence exponent and its log-periodic oscillations",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.014442",
+          "author": "Xiong Luo, Minxia Fang, Le-Ping Miao, Junning Zhao, Zhong Shen, Wencheng Fan, Xiaoxuan Ma, Zhaocai Wang, Aoli Shen, Junchao Zhang, Haoran Ye, Yu Xing, Xiaoyan Yao, Fusheng Ma, Ni Zhong, Shixun Cao, Chungang Duan, Shuai Dong, and Linglong Li",
+          "description": "Author(s): Xiong Luo, Minxia Fang, Le-Ping Miao, Junning Zhao, Zhong Shen, Wencheng Fan, Xiaoxuan Ma, Zhaocai Wang, Aoli Shen, Junchao Zhang, Haoran Ye, Yu Xing, Xiaoyan Yao, Fusheng Ma, Ni Zhong, Shixun Cao, Chungang Duan, Shuai Dong, and Linglong Li\nExternal stimuli, such as thermal agitation and magnetic fields, disrupt order in condensed matter systems while facilitating phase transitions by overcoming energy barriers. The authors demonstrate here the manipulation of perpendicular magnetic anisotropy and long-range dipolar interactions to achieve multistate magnetic spin textures at room temperature in the van der Waals ferromagnet Fe3GaTe2. This study provides experimental evidence for topological quasiparticles in two-dimensional systems.\n\n[Phys. Rev. B 111, 014442] Published Wed Jan 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.014442",
+          "publishedOn": "2025-01-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Manipulation of magnetic spin textures at room temperature in a van der Waals ferromagnet",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.045162",
+          "author": "P. Khanenko, D. Hafner, K. Semeniuk, J. Banda, T. Lühmann, F. Bärtl, T. Kotte, J. Wosnitza, G. Zwicknagl, C. Geibel, J. F. Landaeta, S. Khim, E. Hassinger, and M. Brando",
+          "description": "Author(s): P. Khanenko, D. Hafner, K. Semeniuk, J. Banda, T. Lühmann, F. Bärtl, T. Kotte, J. Wosnitza, G. Zwicknagl, C. Geibel, J. F. Landaeta, S. Khim, E. Hassinger, and M. Brando\nThe non-Fermi liquid (NFL) behavior often observed in heavy-fermion superconductors results from quantum critical fluctuations associated with a magnetic quantum critical point. There is growing evidence that these fluctuations are responsible for the pairing mechanism that forms the unconventional superconducting state in these systems near the QCP. In this work, the authors study the NFL behavior in the recently discovered superconductor CeRh2As2. They show that the NFL behavior is very weakly dependent on the magnetic field. This suggests a predominantly nonmagnetic origin of the quantum critical fluctuations.\n\n[Phys. Rev. B 111, 045162] Published Wed Jan 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.045162",
+          "publishedOn": "2025-01-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Origin of the non-Fermi-liquid behavior in ${\\mathrm{CeRh}}_{2}{\\mathrm{As}}_{2}$",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PRXQuantum.6.010319",
           "author": "Antonio Anna Mele and Yaroslav Herasymenko",
           "description": "Author(s): Antonio Anna Mele and Yaroslav Herasymenko\nA novel tomography algorithm with provably optimal run-time can uncover fundamental properties of a broad class of states and provide efficient circuit compilation.\n\n[PRX Quantum 6, 010319] Published Tue Jan 28, 2025",
@@ -963,46 +1003,6 @@
           "publishedOn": "2025-01-09T10:00:00.000Z",
           "wordCount": null,
           "title": "High-precision mass measurement of $^{103}\\mathrm{Sn}$ restores smoothness of the mass surface",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.111.014315",
-          "author": "L. Nies, D. Atanasov, M. Athanasakis-Kaklamanakis, M. Au, C. Bernerd, K. Blaum, K. Chrysalidis, P. Fischer, R. Heinke, C. Klink, D. Lange, D. Lunney, V. Manea, B. A. Marsh, M. Müller, M. Mougeot, S. Naimi, Ch. Schweiger, L. Schweikhard, and F. Wienholtz",
-          "description": "Author(s): L. Nies, D. Atanasov, M. Athanasakis-Kaklamanakis, M. Au, C. Bernerd, K. Blaum, K. Chrysalidis, P. Fischer, R. Heinke, C. Klink, D. Lange, D. Lunney, V. Manea, B. A. Marsh, M. Müller, M. Mougeot, S. Naimi, Ch. Schweiger, L. Schweikhard, and F. Wienholtz\nExpected to be doubly magic, 100Sn is the heaviest proton-bound, self-conjugate (N=Z) nucleus. Its mass and those of nearby nuclei are key to understanding nuclear structure and reactions near the proton dripline, including neutron-star-surface nucleosynthesis. The mass of 103Sn, previously an outlier due to a discrepant β-decay measurement, was precisely determined by an international team at CERN ISOLDE using multireflection time-of-flight mass spectrometry, their results agreeing well with those from another, complementary technique at FRIB. This new value enables re-evaluating the masses of five parent nuclei connected via decays. Comparing their results with theory calculations, the authors recovered a smooth trend of the local nuclear mass surface for tin, tellurium, and xenon isotopes, with possible impact on nuclear structure and astrophysics. Insights into ISOL target and source performances also suggest a path toward improved production of lighter tin isotopes for future studies.\n\n[Phys. Rev. C 111, 014315] Published Thu Jan 09, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.014315",
-          "publishedOn": "2025-01-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Refining the nuclear mass surface with the mass of $^{103}\\mathrm{Sn}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.L041105",
-          "author": "Pratik Sathe and Rahul Roy",
-          "description": "Author(s): Pratik Sathe and Rahul Roy\nLandau levels have played a pivotal role in advancing our understanding of topological phases of matter. Motivated by Landau levels, which are flat and topological, the authors answer here the following question: can a tight-binding Hamiltonian that exclusively has flat bands be topologically nontrivial? The authors show that, under broad conditions, energy levels in such flat-band Hamiltonians have vanishing Chern numbers. They also identify the exotic condition that is necessary for topologically nontrivial flat-band Hamiltonians. Importantly, all the proofs extend even to Hamiltonians that lack translational invariance.\n\n[Phys. Rev. B 111, L041105] Published Thu Jan 09, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.L041105",
-          "publishedOn": "2025-01-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Topological triviality of flat Hamiltonians",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014021",
-          "author": "Zhou You, Qing Liu, and You Zhou",
-          "description": "Author(s): Zhou You, Qing Liu, and You Zhou\nIn quantum information processing, using positive operator–valued measurements (POVMs) enables the design of general measurement schemes and efficient estimation methods with fixed circuits, but the CNOT-gate count during compilation becomes a bottleneck. This study shows that any single-qubit minimal informationally complete POVM (IC POVM) can be realized with at most two CNOT gates—and a symmetric case (SIC POVM) requires only one. This is achieved by virtually inserting gates to adjust unrelated parameters in the compilation circuit. The authors also provide a concise compilation circuit for single-qubit SIC POVMs, paving the way for practical application.\n\n[Phys. Rev. Applied 23, 014021] Published Thu Jan 09, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014021",
-          "publishedOn": "2025-01-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circuit optimization of informationally complete positive operator–valued qubit measurements for shadow estimation",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.111.012805",
-          "author": "Dávid Hvizdoš, Roman Čurík, and Chris H. Greene",
-          "description": "Author(s): Dávid Hvizdoš, Roman Čurík, and Chris H. Greene\nThe authors develop an energy-dependent frame transformation method to tackle the problem of electron collisions with molecular cations. This theory can be used to map the body-frame scattering information, which depends on the body-frame energy and the internuclear distance, into a physical scattering matrix that varies strongly and resonantly with the total laboratory-frame energy.\n\n[Phys. Rev. A 111, 012805] Published Thu Jan 09, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.111.012805",
-          "publishedOn": "2025-01-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Competing ionization and dissociation: Extension of the energy-dependent frame transformation to the gerade symmetry of ${\\text{H}}_{2}$",
           "imageUrl": null
         }
       ]
