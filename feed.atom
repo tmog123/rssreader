@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-30T00:58:22.538Z</id>
+    <id>urn:2025-01-31T00:59:28.759Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-30T00:58:22.538Z</updated>
+    <updated>2025-01-31T00:59:28.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Positive Oscillating Magnetoresistance in a van der Waals Antiferromagnetic Semiconductor]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011017</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.15.011017"/>
+        <updated>2025-01-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xiaohanwen Lin, Fan Wu, Nicolas Ubrig, Menghan Liao, Fengrui Yao, Ignacio Gutiérrez-Lezama, and Alberto F. Morpurgo
+At low temperatures the resistance of a layered magnetic semiconductor shoots up and down in response to an increasing magnetic field.
+
+[Phys. Rev. X 15, 011017] Published Thu Jan 30, 2025]]></summary>
+        <author>
+            <name>Xiaohanwen Lin, Fan Wu, Nicolas Ubrig, Menghan Liao, Fengrui Yao, Ignacio Gutiérrez-Lezama, and Alberto F. Morpurgo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic structure and topology in gulf-edged zigzag graphene nanoribbons]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.9.014203</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.9.014203"/>
+        <updated>2025-01-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tsai-Jung Liu, Florian M. Arnold, Alireza Ghasemifard, Qing-Long Liu, Dorothea Golze, Agnieszka Kuc, and Thomas Heine
+This study explores a unique class of graphene nanoribbons, the gulf-edged zigzag graphene nanoribbons (ZGNR-Gs), created by introducing bite-like patterns along the zigzag edges. The authors demonstrate a strong relationship between geometric structure and electronic properties, including magnetism and topological properties. They present simple rules to predict these properties based on four geometric parameters that fully characterize the structure. Using advanced computational models, they find that these nanoribbons act as semiconductors and exhibit spin-polarized, antiferromagnetically coupled edge states. Their discoveries facilitate the rational design of planar carbon nanostructures for nanoelectronics and potentially for applications in quantum computing.
+
+[Phys. Rev. Materials 9, 014203] Published Thu Jan 30, 2025]]></summary>
+        <author>
+            <name>Tsai-Jung Liu, Florian M. Arnold, Alireza Ghasemifard, Qing-Long Liu, Dorothea Golze, Agnieszka Kuc, and Thomas Heine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extendable optical phase synchronization of remote and independent quantum network nodes over deployed fibers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.014077</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.014077"/>
+        <updated>2025-01-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A.J. Stolk, J.J.B. Biemond, K.L. van der Enden, L. van Dooren, E.J. van Zwet, and R. Hanson
+Entanglement generation using the single-photon protocol is of interest for quantum networks, for its reduced sensitivity to photon losses. This protocol requires a stable relative optical phase on the optical link between network nodes. The authors present a phase-synchronization scheme that enables scalable entanglement generation over metropolitan distances, in a robust and extendable infrastructure. Their results show the feasibility of the single-click heralding protocol at long distances, and the approach can also be used with other types of node hardware, for near-term exploration of large-scale quantum networks.
+
+[Phys. Rev. Applied 23, 014077] Published Thu Jan 30, 2025]]></summary>
+        <author>
+            <name>A.J. Stolk, J.J.B. Biemond, K.L. van der Enden, L. van Dooren, E.J. van Zwet, and R. Hanson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anderson Transition for Light in a Three-Dimensional Random Medium]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.046302</id>
@@ -1264,45 +1303,6 @@ For spintronic circuits based on the magnetic racetrack concept, soft patterning
 [Phys. Rev. Applied 23, 014023] Published Fri Jan 10, 2025]]></summary>
         <author>
             <name>V.V. Fernández, A.E. Herguedas-Alonso, J. Hermosa, L. Aballe, A. Sorrentino, R. Valcarcel, C. Quiros, J.I. Martín, E. Pereiro, S. Ferrer, A. Hierro-Rodríguez, and M. Vélez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toward a 2D Local Implementation of Quantum Low-Density Parity-Check Codes]]></title>
-        <id>http://link.aps.org/doi/10.1103/PRXQuantum.6.010306</id>
-        <link href="http://link.aps.org/doi/10.1103/PRXQuantum.6.010306"/>
-        <updated>2025-01-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Noah Berthusen, Dhruv Devulapalli, Eddie Schoute, Andrew M. Childs, Michael J. Gullans, Alexey V. Gorshkov, and Daniel Gottesman
-A new approach to low-density parity-check codes provides competitively high performance with low overhead even on restricted architectures.
-
-[PRX Quantum 6, 010306] Published Thu Jan 09, 2025]]></summary>
-        <author>
-            <name>Noah Berthusen, Dhruv Devulapalli, Eddie Schoute, Andrew M. Childs, Michael J. Gullans, Alexey V. Gorshkov, and Daniel Gottesman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Direct-Detection Results on Sub-GeV Dark Matter Using the SENSEI Detector at SNOLAB]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.011804</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.011804"/>
-        <updated>2025-01-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Prakruth Adari et al. (SENSEI Collaboration)
-Using Skipper-CCDs, world-leading constraints are placed on sub-GeV dark matter candidates.
-
-[Phys. Rev. Lett. 134, 011804] Published Thu Jan 09, 2025]]></summary>
-        <author>
-            <name>Prakruth Adari &lt;em&gt;et al.&lt;/em&gt; (SENSEI Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-precision mass measurement of $^{103}\mathrm{Sn}$ restores smoothness of the mass surface]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.111.014314</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.111.014314"/>
-        <updated>2025-01-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. M. Ireland, F. M. Maier, G. Bollen, S. E. Campbell, X. Chen, H. Erington, N. D. Gamage, M. J. Gutiérrez, C. Izzo, E. Leistenschneider, E. M. Lykiardopoulou, R. Orford, W. S. Porter, D. Puentes, M. Redshaw, R. Ringle, S. Rogers, S. Schwarz, L. Stackable, C. S. Sumithrarachchi, A. A. Valverde, A. C. C. Villari, and I. T. Yandow
-100Sn is often regarded as the holy grail of nuclear structure studies as it is the heaviest proton-bound nucleus with equal numbers of protons and neutrons; and with N=Z=50 it is also expected to be doubly magic. Aside from the proximity to the proton dripline, the region of the nuclear chart near 100Sn also harbors nuclei at the end of the rp process which powers x-ray bursts on the surface of accreting neutron stars. The nuclear mass is a telltale observable for nuclear structure studies and nuclear astrophysics. Just three neutrons heavier than 100Sn, 103Sn had been identified as an outlier with a seriously irregular mass deduced from its β-decay Q value and the decay-daughter mass. An international research team performed high-precision Penning-trap mass measurements of 103Sn at the Facility for Rare Isotope Beams (FRIB). Their measured mass value is more than an order of magnitude more precise than that of a previous storage ring measurement. The team’s reported result reestablishes the smoothness of the nuclear mass surface and provides reevaluated values for the masses of several other important isotopes connected to 103Sn via decays.
-
-[Phys. Rev. C 111, 014314] Published Thu Jan 09, 2025]]></summary>
-        <author>
-            <name>C. M. Ireland, F. M. Maier, G. Bollen, S. E. Campbell, X. Chen, H. Erington, N. D. Gamage, M. J. Gutiérrez, C. Izzo, E. Leistenschneider, E. M. Lykiardopoulou, R. Orford, W. S. Porter, D. Puentes, M. Redshaw, R. Ringle, S. Rogers, S. Schwarz, L. Stackable, C. S. Sumithrarachchi, A. A. Valverde, A. C. C. Villari, and I. T. Yandow</name>
         </author>
     </entry>
 </feed>
