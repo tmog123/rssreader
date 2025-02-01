@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-31T00:59:28.759Z</id>
+    <id>urn:2025-02-01T01:02:55.405Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T00:59:28.759Z</updated>
+    <updated>2025-02-01T01:02:55.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linear response theory for cavity QED materials at arbitrary light-matter coupling strengths]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.035156</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.035156"/>
+        <updated>2025-01-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco
+The authors develop a linear response theory for materials collectively coupled to a cavity that is valid in all regimes of light-matter coupling, including symmetry-broken phases. The response functions for the cavity and the material are obtained in terms of the respective bare responses. The theory is formulated for a general model which encompasses most of the systems typically considered in the field of cavity QED materials. It is then applied to several specific models.
+
+[Phys. Rev. B 111, 035156] Published Fri Jan 31, 2025]]></summary>
+        <author>
+            <name>Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giant elastocaloric cooling at cryogenic temperatures in ${\mathrm{Tm}\mathrm{VO}}_{4}$ via a load-unload strain technique]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.014079</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.014079"/>
+        <updated>2025-01-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Mark P. Zic, Linda Ye, Maya H. Martinez, and Ian R. Fisher
+Elastocaloric cooling holds considerable promise as a compact, quick alternative to standard cryogenic refrigeration, though its practical implementation still requires considerable research on candidate materials and appropriate techniques for applying large, rapid strains at low temperatures. In this study a load-unload approach is used to induce substantial strains in a candidate cryogenic elastocaloric working material, TmVO4, at low temperatures. Employing this technique, the authors observe a giant elastocaloric response, cooling the material by 2.3 K at a bath temperature of 5 K. These results provide a starting point for practical elastocaloric cooling in the subkelvin regime.
+
+[Phys. Rev. Applied 23, 014079] Published Fri Jan 31, 2025]]></summary>
+        <author>
+            <name>Mark P. Zic, Linda Ye, Maya H. Martinez, and Ian R. Fisher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Positive Oscillating Magnetoresistance in a van der Waals Antiferromagnetic Semiconductor]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011017</id>
@@ -1277,32 +1303,6 @@ The BCS theory of superconductivity is based on determinant or Pfaffian wave fun
 [Phys. Rev. B 111, 014508] Published Fri Jan 10, 2025]]></summary>
         <author>
             <name>Minho Kim, Abigail Timmel, Long Ju, and Xiao-Gang Wen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic, thermodynamic, and dynamical properties of the three-dimensional fermionic Hubbard model: A comprehensive Monte Carlo study]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.035123</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.035123"/>
-        <updated>2025-01-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yu-Feng Song, Youjin Deng, and Yuan-Yao He
-The authors present here a comprehensive and numerically unbiased study for finite-temperature properties of the 3D fermionic Hubbard model. At half-filling, a complete temperature-interaction strength phase diagram of the model is established, including the highly accurate results of the Néel transition temperature and a multimessenger characterization of the metal-insulator crossover in the paramagnetic phase. The temperature dependence of various thermodynamic quantities and their underlying physics are thoroughly explored. The persistence of Néel AFM ordered phase to finite doping is further revealed.
-
-[Phys. Rev. B 111, 035123] Published Fri Jan 10, 2025]]></summary>
-        <author>
-            <name>Yu-Feng Song, Youjin Deng, and Yuan-Yao He</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory effects on the current-induced propagation of spin textures in ${\mathrm{Nd}\mathrm{Co}}_{5}{/\mathrm{Ni}}_{8}{\mathrm{Fe}}_{2}$ bilayers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.014023</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.014023"/>
-        <updated>2025-01-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): V.V. Fernández, A.E. Herguedas-Alonso, J. Hermosa, L. Aballe, A. Sorrentino, R. Valcarcel, C. Quiros, J.I. Martín, E. Pereiro, S. Ferrer, A. Hierro-Rodríguez, and M. Vélez
-For spintronic circuits based on the magnetic racetrack concept, soft patterning by dipolar and exchange interactions is an alternative to lithography, with the added advantage of full reconfigurability. In this study, parallel-stripe domain patterns in a hard magnetic layer with weak perpendicular anisotropy create linear paths that guide the propagation of domain walls in an adjacent soft magnetic layer. An exchange-bias field remembers the last saturated state, due to the localized magnetic spring at the interface. These results provide a basis for reconfigurable domain-wall racetracks in which the propagation direction can be controlled by magnetic history and applied fields.
-
-[Phys. Rev. Applied 23, 014023] Published Fri Jan 10, 2025]]></summary>
-        <author>
-            <name>V.V. Fernández, A.E. Herguedas-Alonso, J. Hermosa, L. Aballe, A. Sorrentino, R. Valcarcel, C. Quiros, J.I. Martín, E. Pereiro, S. Ferrer, A. Hierro-Rodríguez, and M. Vélez</name>
         </author>
     </entry>
 </feed>

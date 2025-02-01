@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035156",
+          "author": "Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco",
+          "description": "Author(s): Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco\nThe authors develop a linear response theory for materials collectively coupled to a cavity that is valid in all regimes of light-matter coupling, including symmetry-broken phases. The response functions for the cavity and the material are obtained in terms of the respective bare responses. The theory is formulated for a general model which encompasses most of the systems typically considered in the field of cavity QED materials. It is then applied to several specific models.\n\n[Phys. Rev. B 111, 035156] Published Fri Jan 31, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035156",
+          "publishedOn": "2025-01-31T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Linear response theory for cavity QED materials at arbitrary light-matter coupling strengths",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014079",
+          "author": "Mark P. Zic, Linda Ye, Maya H. Martinez, and Ian R. Fisher",
+          "description": "Author(s): Mark P. Zic, Linda Ye, Maya H. Martinez, and Ian R. Fisher\nElastocaloric cooling holds considerable promise as a compact, quick alternative to standard cryogenic refrigeration, though its practical implementation still requires considerable research on candidate materials and appropriate techniques for applying large, rapid strains at low temperatures. In this study a load-unload approach is used to induce substantial strains in a candidate cryogenic elastocaloric working material, TmVO4, at low temperatures. Employing this technique, the authors observe a giant elastocaloric response, cooling the material by 2.3 K at a bath temperature of 5 K. These results provide a starting point for practical elastocaloric cooling in the subkelvin regime.\n\n[Phys. Rev. Applied 23, 014079] Published Fri Jan 31, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014079",
+          "publishedOn": "2025-01-31T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Giant elastocaloric cooling at cryogenic temperatures in ${\\mathrm{Tm}\\mathrm{VO}}_{4}$ via a load-unload strain technique",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011017",
           "author": "Xiaohanwen Lin, Fan Wu, Nicolas Ubrig, Menghan Liao, Fengrui Yao, Ignacio Gutiérrez-Lezama, and Alberto F. Morpurgo",
           "description": "Author(s): Xiaohanwen Lin, Fan Wu, Nicolas Ubrig, Menghan Liao, Fengrui Yao, Ignacio Gutiérrez-Lezama, and Alberto F. Morpurgo\nAt low temperatures the resistance of a layered magnetic semiconductor shoots up and down in response to an increasing magnetic field.\n\n[Phys. Rev. X 15, 011017] Published Thu Jan 30, 2025",
@@ -983,26 +1003,6 @@
           "publishedOn": "2025-01-10T10:00:00.000Z",
           "wordCount": null,
           "title": "Topological chiral superconductivity beyond pairing in a Fermi liquid",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035123",
-          "author": "Yu-Feng Song, Youjin Deng, and Yuan-Yao He",
-          "description": "Author(s): Yu-Feng Song, Youjin Deng, and Yuan-Yao He\nThe authors present here a comprehensive and numerically unbiased study for finite-temperature properties of the 3D fermionic Hubbard model. At half-filling, a complete temperature-interaction strength phase diagram of the model is established, including the highly accurate results of the Néel transition temperature and a multimessenger characterization of the metal-insulator crossover in the paramagnetic phase. The temperature dependence of various thermodynamic quantities and their underlying physics are thoroughly explored. The persistence of Néel AFM ordered phase to finite doping is further revealed.\n\n[Phys. Rev. B 111, 035123] Published Fri Jan 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035123",
-          "publishedOn": "2025-01-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Magnetic, thermodynamic, and dynamical properties of the three-dimensional fermionic Hubbard model: A comprehensive Monte Carlo study",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014023",
-          "author": "V.V. Fernández, A.E. Herguedas-Alonso, J. Hermosa, L. Aballe, A. Sorrentino, R. Valcarcel, C. Quiros, J.I. Martín, E. Pereiro, S. Ferrer, A. Hierro-Rodríguez, and M. Vélez",
-          "description": "Author(s): V.V. Fernández, A.E. Herguedas-Alonso, J. Hermosa, L. Aballe, A. Sorrentino, R. Valcarcel, C. Quiros, J.I. Martín, E. Pereiro, S. Ferrer, A. Hierro-Rodríguez, and M. Vélez\nFor spintronic circuits based on the magnetic racetrack concept, soft patterning by dipolar and exchange interactions is an alternative to lithography, with the added advantage of full reconfigurability. In this study, parallel-stripe domain patterns in a hard magnetic layer with weak perpendicular anisotropy create linear paths that guide the propagation of domain walls in an adjacent soft magnetic layer. An exchange-bias field remembers the last saturated state, due to the localized magnetic spring at the interface. These results provide a basis for reconfigurable domain-wall racetracks in which the propagation direction can be controlled by magnetic history and applied fields.\n\n[Phys. Rev. Applied 23, 014023] Published Fri Jan 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014023",
-          "publishedOn": "2025-01-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Memory effects on the current-induced propagation of spin textures in ${\\mathrm{Nd}\\mathrm{Co}}_{5}{/\\mathrm{Ni}}_{8}{\\mathrm{Fe}}_{2}$ bilayers",
           "imageUrl": null
         }
       ]
