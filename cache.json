@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.051002",
+          "author": "M. Aguilar <em>et al.</em> (AMS Collaboration)",
+          "description": "Author(s): M. Aguilar et al. (AMS Collaboration)\nThe spectrum of cosmic-ray antiprotons has been measured for a full solar cycle, which may allow a better understanding of the sources and transport mechanisms of these high-energy particles.\n\n[Phys. Rev. Lett. 134, 051002] Published Mon Feb 03, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.051002",
+          "publishedOn": "2025-02-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Antiprotons and Elementary Particles over a Solar Cycle: Results from the Alpha Magnetic Spectrometer",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.024101",
+          "author": "Tristan Jocteur, Eric Bertin, Romain Mari, and Kirsten Martens",
+          "description": "Author(s): Tristan Jocteur, Eric Bertin, Romain Mari, and Kirsten Martens\nAmorphous solids, for example glasses and granular materials, display intermittent plastic deformation events known as avalanches near the yielding transition. It is typically assumed that the characteristics of the avalanches do not depend on the driving protocol (e.g., controlling strain or stress). The two-dimensional simulations of an elastoplastic model presented in this study highlight the complex interplay between the initial elastic state, the driving protocol, and the dynamics of avalanche propagation, thus challenging the assumption of universality of the avalanche statistics.\n\n[Phys. Rev. E 111, 024101] Published Mon Feb 03, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.024101",
+          "publishedOn": "2025-02-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Protocol dependence for avalanches under constant stress in elastoplastic models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.024301",
+          "author": "Ryota Watanabe, Takanori Ishii, Yuji Hirono, and Hirokazu Maruoka",
+          "description": "Author(s): Ryota Watanabe, Takanori Ishii, Yuji Hirono, and Hirokazu Maruoka\nThis study introduces a method based on neural networks to discover self-similarity in physical systems. Traditional methods employ assumed models, while here the authors are able to identify the self-similarity parameters from data directly and extract the exponents characterizing the scale-transformation symmetries. The method can be put to use with any self-similar physical system, with potential applications in various areas, for example materials science and fluid dynamics.\n\n[Phys. Rev. E 111, 024301] Published Mon Feb 03, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.024301",
+          "publishedOn": "2025-02-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Data-driven discovery of self-similarity using neural networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.025401",
+          "author": "Wout Laeremans, Anne Floor den Ouden, Jef Hooyberghs, and Wouter G. Ellenbroek",
+          "description": "Author(s): Wout Laeremans, Anne Floor den Ouden, Jef Hooyberghs, and Wouter G. Ellenbroek\nPrevious studies on the formation of loops in polymers under tension relied on barrier escape methods to predict looping times. This work revisits the problem, deriving a scaling law for freely jointed chains under tension, and demonstrating that the looping time inversely scales with the equilibrium looping probability.\n\n[Phys. Rev. E 111, 025401] Published Mon Feb 03, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.025401",
+          "publishedOn": "2025-02-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Polymer dynamics under tension: Mean first passage time for looping",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.054101",
+          "author": "Jialun Liu, David Yang, Ana F. Suzana, Steven J. Leake, and Ian K. Robinson",
+          "description": "Author(s): Jialun Liu, David Yang, Ana F. Suzana, Steven J. Leake, and Ian K. Robinson\nWhy do nanomaterials outperform bulk materials? This study reveals how nearly strainfree surfaces in BaTiO₃ nanoparticles enhance domain-wall mobility, driving superior dielectric performance. Using Bragg coherent diffraction imaging, the authors uncover electric field driven domain-wall dynamics. They validate a “side-by-side” domain model and identify a critical threshold of 3 MV/m for irreversible changes. These findings transform our understanding of nanoscale dielectric behavior and pave the path for breakthroughs in nanoelectronics.\n\n[Phys. Rev. B 111, 054101] Published Mon Feb 03, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.054101",
+          "publishedOn": "2025-02-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Electric field driven domain wall dynamics in ${\\mathrm{BaTiO}}_{3}$ nanoparticles",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.075103",
+          "author": "Yaar Vituri, Jiewen Xiao, Keshav Pareek, Tobias Holder, and Erez Berg",
+          "description": "Author(s): Yaar Vituri, Jiewen Xiao, Keshav Pareek, Tobias Holder, and Erez Berg\nHere, the authors identify incommensurate intervalley fluctuations between concentric hole and electron pockets as the primary particle-hole instability in hole-doped ABC-graphene’s half-metallic state. At intermediate densities, these fluctuations lead to a low-temperature superconducting instability with a sign-changing s-wave order parameter as revealed through a generalized RPA analysis. Closer to charge neutrality, the system develops finite-momentum intervalley coherent order, followed by a transition to a valley polarized state.\n\n[Phys. Rev. B 111, 075103] Published Mon Feb 03, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.075103",
+          "publishedOn": "2025-02-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Incommensurate intervalley coherent states in ABC graphene: Collective modes and superconductivity",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.085105",
+          "author": "Jonathan Paras and Antoine Allanore",
+          "description": "Author(s): Jonathan Paras and Antoine Allanore\nThe contribution of electrons to the entropy of metallic elements and their alloys is well established below room temperature. In this work, the authors test the performance of using an irreversible thermodynamic theory that experimentally links the transport electronic entropy to the thermopower and the number of charge carriers, to inform the total entropy of mixing of the system Fe-Ni, at both room temperature and 1273 K.\n\n[Phys. Rev. B 111, 085105] Published Mon Feb 03, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.085105",
+          "publishedOn": "2025-02-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Thermodynamic constraint for the electronic structure of Fe-Ni alloys at room and high temperature",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035156",
           "author": "Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco",
           "description": "Author(s): Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco\nThe authors develop a linear response theory for materials collectively coupled to a cavity that is valid in all regimes of light-matter coupling, including symmetry-broken phases. The response functions for the cavity and the material are obtained in terms of the respective bare responses. The theory is formulated for a general model which encompasses most of the systems typically considered in the field of cavity QED materials. It is then applied to several specific models.\n\n[Phys. Rev. B 111, 035156] Published Fri Jan 31, 2025",
@@ -933,76 +1003,6 @@
           "publishedOn": "2025-01-13T10:00:00.000Z",
           "wordCount": null,
           "title": "Current-induced circular dichroism on metallic surfaces: A first-principles study",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.014417",
-          "author": "Xinrun Mi, Xintong Li, Long Zhang, Yuchen Gu, Aifeng Wang, Yuan Li, Yisheng Chai, and Mingquan He",
-          "description": "Author(s): Xinrun Mi, Xintong Li, Long Zhang, Yuchen Gu, Aifeng Wang, Yuan Li, Yisheng Chai, and Mingquan He\nQuantum critical points (QCPs) are essential for understanding emergent quantum phases of matter. The authors introduce here a simple yet highly sensitive composite magnetoelectric method to detect critical spin fluctuations near QCPs by measuring the ac magnetostriction coefficient, which directly probes spin-spin correlations. Applied to the Kitaev spin liquid candidate Na3Co2SbO6, this method identifies two tricritical points, one of which is in close proximity to a QCP. This showcases the method’s broad applicability in probing QCPs in quantum magnets.\n\n[Phys. Rev. B 111, 014417] Published Mon Jan 13, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.014417",
-          "publishedOn": "2025-01-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Precisely tracking critical spin fluctuations using the ac magnetostriction coefficient: A case study on the Kitaev spin liquid candidate ${\\mathrm{Na}}_{3}{\\mathrm{Co}}_{2}{\\mathrm{SbO}}_{6}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.014507",
-          "author": "A. V. Chubukov and C. M. Varma",
-          "description": "Author(s): A. V. Chubukov and C. M. Varma\nThe authors analyze here superconductivity in the twisted transition metal chalcogenide WSe2. In this material, spin-orbit scattering locks the z components of spins of low-energy fermions. The authors show that the nominally repulsive 4-fermion interaction gives rise to an attraction in a hexagonal lattice version of p-wave channel. The gap function is inversion-odd and a linear combination of spin singlet and spin triplet. At weak coupling, superconductivity emerges via the Kohn-Luttinger mechanism. At strong coupling, the pairing is mediated by XY magnetic fluctuations.\n\n[Phys. Rev. B 111, 014507] Published Mon Jan 13, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.014507",
-          "publishedOn": "2025-01-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quantum criticality and superconductivity in twisted transition metal dichalcogenides",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035128",
-          "author": "Johan Bylin, Rebecka Lindblad, Lennart Spode, Ralph H. Scheicher, and Gunnar K. Pálsson",
-          "description": "Author(s): Johan Bylin, Rebecka Lindblad, Lennart Spode, Ralph H. Scheicher, and Gunnar K. Pálsson\nThe theoretical framework describing the influence of hydrogen on the electronic structure is well established for crystalline materials. However, for disordered materials such a framework is lacking. The authors contribute to closing this gap in understanding by determining here the evolution of s-d hybridization in V80Zr20 with hydrogen uptake, using hard x-ray photoemission, ab initio calculations, and both optical and electrical measurements. The authors identify optical transmission changes as a tool in determining the thermodynamic properties of hydrogen in thin metallic glasses.\n\n[Phys. Rev. B 111, 035128] Published Mon Jan 13, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035128",
-          "publishedOn": "2025-01-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Influence of hydrogen on the electronic structure in the transition metallic glass ${\\mathrm{V}}_{80}{\\mathrm{Zr}}_{20}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.L041201",
-          "author": "Yongjian Wang, Thomas Bömerich, A. A. Taskin, Achim Rosch, and Yoichi Ando",
-          "description": "Author(s): Yongjian Wang, Thomas Bömerich, A. A. Taskin, Achim Rosch, and Yoichi Ando\nOur common sense says that Hall voltage disappears when the magnetic field is parallel to the current. This is true for most materials, but when such a “parallel-field Hall effect” is observed, it gives unambiguous evidence for broken symmetry. A new study elucidates that this unusual phenomenon occurs in the topological semimetal ZrTe5, whose crystal symmetry has been controversial. This study demonstrates that the parallel-field Hall effect is a powerful tool to detect tiny symmetry breaking that is otherwise difficult to detect.\n\n[Phys. Rev. B 111, L041201] Published Mon Jan 13, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.L041201",
-          "publishedOn": "2025-01-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Parallel-field Hall effect in ${\\mathrm{ZrTe}}_{5}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014025",
-          "author": "Yefei Yin (尹叶飞), Mattias Kruskopf, Pierre Gournay, Benjamin Rolland, Martin Götz, Eckart Pesel, Teresa Tschirner, Davood Momeni, Atasi Chatterjee, Frank Hohls, Klaus Pierz, Hansjörg Scherer, Rolf J. Haug, and Hans Werner Schumacher",
-          "description": "Author(s): Yefei Yin (尹叶飞), Mattias Kruskopf, Pierre Gournay, Benjamin Rolland, Martin Götz, Eckart Pesel, Teresa Tschirner, Davood Momeni, Atasi Chatterjee, Frank Hohls, Klaus Pierz, Hansjörg Scherer, Rolf J. Haug, and Hans Werner Schumacher\nFollowing the revision of the International System of Units in 2019, the unit of electrical resistance (the familiar ohm) is defined in terms of Planck’s constant h and the elementary charge e. The primary standard for the ohm is based on GaAs quantum Hall resistance devices operating under extreme conditions, which hinders application outside national metrology institutes. This study presents , graphene-based quantum Hall resistance standards that can be employed under relaxed conditions for practical metrology, supplanting the GaAs standard. These graphene devices can lead to broader dissemination of primary resistance standards in calibration laboratories and industry.\n\n[Phys. Rev. Applied 23, 014025] Published Mon Jan 13, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014025",
-          "publishedOn": "2025-01-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Graphene quantum Hall resistance standard for realizing the unit of electrical resistance under relaxed experimental conditions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.013403",
-          "author": "Julia R. K. Cline, Vera M. Schäfer, Zhijing Niu, Dylan J. Young, Tai Hyun Yoon, and James K. Thompson",
-          "description": "Author(s): Julia R. K. Cline, Vera M. Schäfer, Zhijing Niu, Dylan J. Young, Tai Hyun Yoon, and James K. Thompson\nContinuous loading and transport of ultracold strontium atoms inside a high-finesse cavity is experimentally demonstrated, with implications for continuous cavity QED experiments.\n\n[Phys. Rev. Lett. 134, 013403] Published Fri Jan 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.013403",
-          "publishedOn": "2025-01-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Continuous Collective Strong Coupling of Strontium Atoms to a High Finesse Ring Cavity",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.014508",
-          "author": "Minho Kim, Abigail Timmel, Long Ju, and Xiao-Gang Wen",
-          "description": "Author(s): Minho Kim, Abigail Timmel, Long Ju, and Xiao-Gang Wen\nThe BCS theory of superconductivity is based on determinant or Pfaffian wave functions, which also describe Fermi liquids. Here, the authors develop a new theory of superconductivity in two dimensions, based on product wave functions. The new superconductivity is shown to be induced by purely repulsive interactions for flat dispersion ε∼k4, and can potentially have high transition temperatures. The resulting chiral superconductors display topological order, fractional statistics, and chiral edge states.\n\n[Phys. Rev. B 111, 014508] Published Fri Jan 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.014508",
-          "publishedOn": "2025-01-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Topological chiral superconductivity beyond pairing in a Fermi liquid",
           "imageUrl": null
         }
       ]
