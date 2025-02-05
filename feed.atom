@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-04T00:59:26.120Z</id>
+    <id>urn:2025-02-05T01:00:17.770Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T00:59:26.120Z</updated>
+    <updated>2025-02-05T01:00:17.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hybrid Josephson Rhombus: A Superconducting Element with Tailored Current-Phase Relation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011021</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.15.011021"/>
+        <updated>2025-02-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): L. Banszerus, C. W. Andersson, W. Marshall, T. Lindemann, M. J. Manfra, C. M. Marcus, and S. Vaitiekėnas
+A circuit containing four superconducting devices called Josephson junctions can be finely tuned for various technological applications.
+
+[Phys. Rev. X 15, 011021] Published Tue Feb 04, 2025]]></summary>
+        <author>
+            <name>L. Banszerus, C. W. Andersson, W. Marshall, T. Lindemann, M. J. Manfra, C. M. Marcus, and S. Vaitiekėnas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph-theoretical proof of nonintegrability in quantum many-body systems: Application to the PXP model]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L081101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L081101"/>
+        <updated>2025-02-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): HaRu K. Park and SungBin Lee
+The Yang-Baxter method is a powerful tool for studying integrable systems, but proving whether a system possesses local conserved quantities remains challenging. Shiraishi’s proof of the XYZ model’s nonintegrability with a magnetic field inspired the authors’ demonstration of the PXP model’s nonintegrability, previously only conjectured via level statistics. As the PXP model is a key example of quantum many-body scars exhibiting exotic long-time behavior, the present work highlights that such behavior is unrelated to local conserved quantities and introduces a graph-theoretical approach, suggesting universality in nonintegrability proofs.
+
+[Phys. Rev. B 111, L081101] Published Tue Feb 04, 2025]]></summary>
+        <author>
+            <name>HaRu K. Park and SungBin Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optical manifestations and bounds of topological Euler class]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L081103</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L081103"/>
+        <updated>2025-02-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wojciech J. Jankowski, Arthur S. Morris, Adrien Bouhon, F. Nur Ünal, and Robert-Jan Slager
+The authors demonstrate here that multigap topological phases hosting an Euler invariant relate to quantum-geometric bounds. These bounds constrain optical weights and sizes of adjacent gaps. The results are validated upon recasting them as optical absorption rates and open up a route to determine experimentally the topological Euler class through momentum- and frequency-resolved measurements. Moreover, it is shown that a singular quantum geometry of topological Euler band nodes induces observable features, such as quantized optical conductivities.
+
+[Phys. Rev. B 111, L081103] Published Tue Feb 04, 2025]]></summary>
+        <author>
+            <name>Wojciech J. Jankowski, Arthur S. Morris, Adrien Bouhon, F. Nur Ünal, and Robert-Jan Slager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Antiprotons and Elementary Particles over a Solar Cycle: Results from the Alpha Magnetic Spectrometer]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.051002</id>
@@ -1264,45 +1303,6 @@ By incorporating electrical pulses with shapes similar to those of the spikes fr
 [Phys. Rev. Lett. 134, 027301] Published Mon Jan 13, 2025]]></summary>
         <author>
             <name>Christian Klos and Raoul-Martin Memmesheimer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effect of ssDNA ligand in modulating the folding and unfolding dynamics of cold shock protein BcCsp]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.014413</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.014413"/>
-        <updated>2025-01-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zhenyong Xue, Ping Yu, Yuhang Zhang, Zhuwei Zhang, Hao Sun, Zhiqi Hou, Haiyan Hong, Shimin Le, and Hu Chen
-The cold shock domain protein, BcCsp, a key regulator of gene expression, binds strongly to single-stranded DNA that contains a particular sequence. Magnetic tweezer studies reveal that such DNA stabilizes both the native folded and partially unfolded states of BcCsp, reducing its unfolding rate while leaving folding unaffected. This work also uncovers how ssDNA binding reshapes the protein’s energy landscape, coupling folding dynamics with ligand interactions.
-
-[Phys. Rev. E 111, 014413] Published Mon Jan 13, 2025]]></summary>
-        <author>
-            <name>Zhenyong Xue, Ping Yu, Yuhang Zhang, Zhuwei Zhang, Hao Sun, Zhiqi Hou, Haiyan Hong, Shimin Le, and Hu Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constraining theoretical corrections to Gamow-Teller transition rates]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevC.111.015501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevC.111.015501"/>
-        <updated>2025-01-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): L. Xayavong and Y. Lim
-β decays provide important tests of the Standard Model, but the precision is limited by model dependencies and small but crucial corrections such as isospin breaking. By comparing theoretical and experimental ratios of mirror decays, the authors find cancellation of many of the model dependencies, allowing constraints on the remaining corrections and ultimately on possible new physics.
-
-[Phys. Rev. C 111, 015501] Published Mon Jan 13, 2025]]></summary>
-        <author>
-            <name>L. Xayavong and Y. Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Current-induced circular dichroism on metallic surfaces: A first-principles study]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.014415</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.014415"/>
-        <updated>2025-01-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Farzad Mahfouzi, Mark D. Stiles, and Paul M. Haney
-Orbital angular momentum is a central quantity in the burgeoning field of orbitronics. Researchers have interpreted optical measurements of current-driven accumulation versus film thickness as determining the depth dependence of orbital angular momentum accumulation. The authors compute here both the current-induced orbital angular momentum spatial profile at the surface of a Pt thin film and the film-thickness dependence of the circular dichroism, and show that the latter is set by the mean free path while the former is considerably shorter.
-
-[Phys. Rev. B 111, 014415] Published Mon Jan 13, 2025]]></summary>
-        <author>
-            <name>Farzad Mahfouzi, Mark D. Stiles, and Paul M. Haney</name>
         </author>
     </entry>
 </feed>
