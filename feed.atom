@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-05T01:00:17.770Z</id>
+    <id>urn:2025-02-06T01:00:22.325Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T01:00:17.770Z</updated>
+    <updated>2025-02-06T01:00:22.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microscopic origins of octupole collectivity in doubly magic $^{208}\mathrm{Pb}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevC.111.L021301</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevC.111.L021301"/>
+        <updated>2025-02-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Rejmund and P. Van Isacker
+Many spherical nuclei exhibit a collective, low-lying octupole excitation. This paper analyzes such a state in the doubly magic nucleus 208Pb and traces the properties back to coherent scattering of high-angular momentum proton-neutron pairs that are fully aligned. A large fragmentation of the particle-hole wave function, together with its coherence, which is shown to be a generic property of the lowest-energy eigenstate, lead to a constructive accumulation of interaction strength. This insight into the shell-model underpinnings of such otherwise well-characterized collective nuclear states may help explain the ubiquity of their appearance.
+
+[Phys. Rev. C 111, L021301] Published Wed Feb 05, 2025]]></summary>
+        <author>
+            <name>M. Rejmund and P. Van Isacker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charge density waves and pinning by lattice anisotropy in 214 cuprates]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.064504</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.064504"/>
+        <updated>2025-02-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Xiao Hu, P. M. Lozano, Feng Ye, Qiang Li, J. Sears, I. A. Zaliznyak, G. D. Gu, and J. M. Tranquada
+Unlocking the secrets of high-temperature superconductivity, researchers have turned their attention to the La2−x(Ba,Sr)xCuO4 family, where subtle lattice distortions play a pivotal role. By employing neutron diffraction, the authors have successfully identified that the tilt pattern of the CuO6 octahedra, which breaks the fourfold Cu-O bond symmetry, is uniquely responsible for pinning the charge density wave order to the lattice.
+
+[Phys. Rev. B 111, 064504] Published Wed Feb 05, 2025]]></summary>
+        <author>
+            <name>Xiao Hu, P. M. Lozano, Feng Ye, Qiang Li, J. Sears, I. A. Zaliznyak, G. D. Gu, and J. M. Tranquada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalized framework for straintronics in two-dimensional quantum materials using group theory]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.085112</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.085112"/>
+        <updated>2025-02-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rami Zemouri, A. R. Champagne, and Saurabh Maiti
+There is a growing need for strain modeling in the rapidly developing field of straintronics and two-dimensional materials. Here, by means of group theory the authors formulate a general microscopic theory of strain which considers the symmetry of the lattice and the bonds within the unit cell. They identify when and how many scalar and vector potentials can arise from strain in single and multilayer systems. Thus, for example, strained low-energy bilayer graphene is shown to have two vector potentials. This formulation allows for a greater range of materials to be studied in quantum transport experiments.
+
+[Phys. Rev. B 111, 085112] Published Wed Feb 05, 2025]]></summary>
+        <author>
+            <name>Rami Zemouri, A. R. Champagne, and Saurabh Maiti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full minimal coupling Maxwell-TDDFT: An <i>ab initio</i> framework for light-matter interaction beyond the dipole approximation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.085114</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.085114"/>
+        <updated>2025-02-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Franco P. Bonafé, Esra Ilke Albar, Sebastian T. Ohlmann, Valeriia P. Kosheleva, Carlos M. Bustamante, Francesco Troisi, Angel Rubio, and Heiko Appel
+The authors present here the first ab initio nonrelativistic QED method that self-consistently couples light and matter beyond the electric dipole approximation, avoiding multipolar truncations. Implemented in the open-source code Octopus for massively parallel simulations, this framework unveils phenomena like renormalized Cherenkov radiation, magneto-optical effects in molecules, and frequency shifts in plasmonic modes. Crucially, it captures effects beyond the dipole approximation, missed by traditional approaches. Thus, the method opens new frontiers in the exploration of quantum matter driven by structured light, orbital angular momentum, and strong-field physics.
+
+[Phys. Rev. B 111, 085114] Published Wed Feb 05, 2025]]></summary>
+        <author>
+            <name>Franco P. Bonafé, Esra Ilke Albar, Sebastian T. Ohlmann, Valeriia P. Kosheleva, Carlos M. Bustamante, Francesco Troisi, Angel Rubio, and Heiko Appel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local-photon model of the momentum of light]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.111.023703</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.111.023703"/>
+        <updated>2025-02-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Gabriel Waite, Daniel Hodgson, Ben Lang, Varghese Alapatt, and Almut Beige
+Instead of the traditional momentum space, here the authors consider a photon wave function in position space. This local photon approach introduces an additional degree of freedom that distinguishes between positive- and negative-frequency photons, and sheds new light on the Abraham-Minkowski controversy.
+
+[Phys. Rev. A 111, 023703] Published Wed Feb 05, 2025]]></summary>
+        <author>
+            <name>Gabriel Waite, Daniel Hodgson, Ben Lang, Varghese Alapatt, and Almut Beige</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hybrid Josephson Rhombus: A Superconducting Element with Tailored Current-Phase Relation]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011021</id>
@@ -1238,71 +1303,6 @@ A new framework identifies mechanical networks at the rigidity transition, enabl
 [Phys. Rev. E 111, 015418] Published Tue Jan 14, 2025]]></summary>
         <author>
             <name>Tyler Hain, Chris Santangelo, and M. Lisa Manning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomic-scale Dzyaloshinskii-Moriya-modified Yoshimori spirals in an Fe double layer on Ir(110)]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L020405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L020405"/>
-        <updated>2025-01-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Timo Knispel, Vasily Tseplyaev, Gustav Bihlmayer, Stefan Blügel, Thomas Michely, and Jeison Fischer
-Ultrathin magnetic films on heavy metal substrates with strong spin-orbit coupling enable exploration of novel spin textures and magnetic interactions. While isotropic Ir substrates have been extensively studied, anisotropic fcc(110) surfaces remain overlooked. The authors stabilize here a pseudomorphic Fe double layer on a metastable unreconstructed Ir(110)-(1×1) surface. Spin-polarized scanning tunneling microscopy reveals a magnetically robust right-handed Néel-type magnetic spiral, identified via density functional theory as Yoshimori-type, with the Dzyaloshinskii-Moriya interaction determining the handedness and type of the spiral.
-
-[Phys. Rev. B 111, L020405] Published Tue Jan 14, 2025]]></summary>
-        <author>
-            <name>Timo Knispel, Vasily Tseplyaev, Gustav Bihlmayer, Stefan Blügel, Thomas Michely, and Jeison Fischer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct observation of the vanishing electron energy loss spectroscopy cross section in graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L041401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L041401"/>
-        <updated>2025-01-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Alberto Guandalini, Ryosuke Senga, Yung-Chang Lin, Kazu Suenaga, Paolo Barone, Francesco Mauri, Thomas Pichler, and Christian Kramberger
-Here, the authors use graphene to confirm for the first time the vanishing of the electron energy-loss function in 2D materials upon approaching the optical limit, combining high energy and momentum resolution in a transmission electron microscope. Modeling kinematic effects is essential for retrieving the intrinsic uniform dielectric response of graphene, highlighting the need for ultrahigh momentum resolution to compare EELS with optics, as the measured loss function can approach but never reach the optical limit.
-
-[Phys. Rev. B 111, L041401] Published Tue Jan 14, 2025]]></summary>
-        <author>
-            <name>Alberto Guandalini, Ryosuke Senga, Yung-Chang Lin, Kazu Suenaga, Paolo Barone, Francesco Mauri, Thomas Pichler, and Christian Kramberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybridized Soliton Lasing in Coupled Semiconductor Lasers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.023802</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.023802"/>
-        <updated>2025-01-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Theodore P. Letsou, Dmitry Kazakov, Pawan Ratra, Lorenzo L. Columbo, Massimo Brambilla, Franco Prati, Cristina Rimoldi, Sandro Dal Cin, Nikola Opačak, Henry O. Everitt, Marco Piccardo, Benedikt Schwarz, and Federico Capasso
-An experiment demonstrates that a chip-scale coupled laser system consisting of a pair of coupled semiconductor ring lasers can exhibit complex optical states impossible to achieve in a single waveguide laser.
-
-[Phys. Rev. Lett. 134, 023802] Published Mon Jan 13, 2025]]></summary>
-        <author>
-            <name>Theodore P. Letsou, Dmitry Kazakov, Pawan Ratra, Lorenzo L. Columbo, Massimo Brambilla, Franco Prati, Cristina Rimoldi, Sandro Dal Cin, Nikola Opačak, Henry O. Everitt, Marco Piccardo, Benedikt Schwarz, and Federico Capasso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planar Hall Effect in Quasi-Two-Dimensional Materials]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.026301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.026301"/>
-        <updated>2025-01-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Koushik Ghorai, Sunit Das, Harsh Varshney, and Amit Agarwal
-Stacked bilayer graphene can demonstrate a 2D planar Hall effect due to factors related to Berry curvature, orbital magnetic moments, and broken symmetries.
-
-[Phys. Rev. Lett. 134, 026301] Published Mon Jan 13, 2025]]></summary>
-        <author>
-            <name>Koushik Ghorai, Sunit Das, Harsh Varshney, and Amit Agarwal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smooth Exact Gradient Descent Learning in Spiking Neural Networks]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.027301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.027301"/>
-        <updated>2025-01-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Christian Klos and Raoul-Martin Memmesheimer
-By incorporating electrical pulses with shapes similar to those of the spikes from biological neurons, researchers improved the ability to train energy-efficient types of neural networks.
-
-[Phys. Rev. Lett. 134, 027301] Published Mon Jan 13, 2025]]></summary>
-        <author>
-            <name>Christian Klos and Raoul-Martin Memmesheimer</name>
         </author>
     </entry>
 </feed>
