@@ -6,6 +6,136 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.023801",
+          "author": "Lei Zhang, Wenhao Luo, Renxi Liu, Mohan Chen, Zhongbo Yan, and Kun Cao",
+          "description": "Author(s): Lei Zhang, Wenhao Luo, Renxi Liu, Mohan Chen, Zhongbo Yan, and Kun Cao\nDespite the widespread applications of alumina due to its rich polymorphism, the structures of many transitional aluminas remain unresolved. This work employs the neuroevolution potential (NEP) approach to accurately describe polymorphic aluminas. Its accuracy and generality are validated through molecular dynamics simulations under diverse thermodynamic and structural conditions. A structural search workflow has also been developed based on NEP, which, in conjunction with spectroscopic data and structural stability considerations, supports the energetic preference of the Smrčok model over the Luo model for γ-Al2O3. This methodological framework provides a systematic approach for exploring polymorphic materials with intrinsic defects, such as Ga2O3.\n\n[Phys. Rev. Materials 9, 023801] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.023801",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Exploring the energy landscape of aluminas through machine learning interatomic potential",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.053002",
+          "author": "Ze-Min Huang and Sebastian Diehl",
+          "description": "Author(s): Ze-Min Huang and Sebastian Diehl\nThe one-dimensional Su-Schrieffer-Heeger model with Hubbard interactions exhibits a defect-driven topological phase transition at finite temperatures.\n\n[Phys. Rev. Lett. 134, 053002] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.053002",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Interaction-Induced Topological Phase Transition at Finite Temperature",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.056002",
+          "author": "Davide Nigro, Dimitrios Trypogeorgos, Antonio Gianfrate, Daniele Sanvitto, Iacopo Carusotto, and Dario Gerace",
+          "description": "Author(s): Davide Nigro, Dimitrios Trypogeorgos, Antonio Gianfrate, Daniele Sanvitto, Iacopo Carusotto, and Dario Gerace\nPrediction of a polariton supersolid state whose periodicity can be tuned by the input power, providing a novel platform to explore exotic states of matter.\n\n[Phys. Rev. Lett. 134, 056002] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.056002",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Supersolidity of Polariton Condensates in Photonic Crystal Waveguides",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.058205",
+          "author": "Jonghyun Hwang, Mariana Altomare, and Howard A. Stone",
+          "description": "Author(s): Jonghyun Hwang, Mariana Altomare, and Howard A. Stone\nAn ultrasoft material can move smoothly through a pipe, but the motion generates “furrows” on the material’s front surface.\n\n[Phys. Rev. Lett. 134, 058205] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.058205",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Surface Furrowing Instability in Everting Soft Solids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.025302",
+          "author": "Luke Causer, Grant M. Rotskoff, and Juan P. Garrahan",
+          "description": "Author(s): Luke Causer, Grant M. Rotskoff, and Juan P. Garrahan\nIn machine learning, diffusion models are a paradigm for generative modeling. This study introduces a novel approach applicable to discrete systems using tensor networks. This allows modeling the diffusion process exactly, eliminating the need for stochastic differential equations. Integrating the above with Markov-chain Monte Carlo, the authors are able to learn efficient nonlocal proposal updates, in turn leading to effective sampling of complex Boltzmann-like distributions. The combined framework presented here has promise particularly for rare-event sampling.\n\n[Phys. Rev. E 111, 025302] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.025302",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Discrete generative diffusion models without stochastic differential equations: A tensor network approach",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevC.111.025501",
+          "author": "W. C. Haxton and Evan Rule",
+          "description": "Author(s): W. C. Haxton and Evan Rule\nBecause processes involving charged leptons are expected to conserve flavor, any evidence of muon-to-electron conversion is recognized as an important signal to constrain physics beyond the Standard Model. Whereas most experiments so far have assumed elastic transitions for muon-to-electron conversion, this paper shows how inelastic transitions which leave the nucleus in an excited state would allow for more probes of new physics. Such transitions can modify the near-endpoint spectrum of conversion electrons, to which the underlying flavor-symmetry violating operator is sensitive. The authors find that 27Al, the target of ongoing muon-to-electron conversion experiments, is an excellent isotope choice to observe inelastic transitions.\n\n[Phys. Rev. C 111, 025501] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.025501",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Nuclear-level effective theory of $μ→e$ conversion: Inelastic process",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.054203",
+          "author": "Ze Chen, Kohei Kawabata, Anish Kulkarni, and Shinsei Ryu",
+          "description": "Author(s): Ze Chen, Kohei Kawabata, Anish Kulkarni, and Shinsei Ryu\nThe interplay between non-Hermiticity and disorder gives rise to unique universality classes of phase transitions and critical phenomena. Here, the authors develop effective field theory of non-Hermitian disordered systems and classify the universality classes across all the symmetry classes of non-Hermitian systems. The authors demonstrate that the phase transition characteristic of nonreciprocal disordered systems originates from the competition between kinetic and topological terms from the field-theoretical perspective.\n\n[Phys. Rev. B 111, 054203] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.054203",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Field theory of non-Hermitian disordered systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.054412",
+          "author": "Lujunyu Wang, Guang Tian, Haiyun Chen, Jiaji Zhao, Hengjie Shi, Haoyu Wang, Zhilin Li, and Xiaosong Wu",
+          "description": "Author(s): Lujunyu Wang, Guang Tian, Haiyun Chen, Jiaji Zhao, Hengjie Shi, Haoyu Wang, Zhilin Li, and Xiaosong Wu\nThe Hall effect driven by in-plane magnetic field or magnetization has recently attracted widespread interest. Various mechanisms, most of which are related to the Berry curvature, have been proposed to explain this unusual phenomenon. Here, the authors report an in-plane Hall effect dominated by the Lorentz force in the magnetic Weyl semimetal Co3Sn2S2. The study provides insights into the conductivity anisotropy of individual Fermi pockets in multiband systems and broadens the exploration of the in-plane Hall effect to a wider range of materials.\n\n[Phys. Rev. B 111, 054412] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.054412",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "In-plane Hall effect in ${\\mathrm{Co}}_{3}{\\mathrm{Sn}}_{2}{\\mathrm{S}}_{2}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.064411",
+          "author": "N. R. Vovk, E. V. Ezerskaya, and R. V. Mikhaylovskiy",
+          "description": "Author(s): N. R. Vovk, E. V. Ezerskaya, and R. V. Mikhaylovskiy\nAntiferromagnetic iron oxides with rare-earth ions provide a promising platform for ultrafast spin switching by light. The magnetic properties in these materials are defined by anisotropic exchange coupling between the rare-earth orbitals and iron spins. Here, the authors present a comprehensive theory, describing the dynamical response of the magnetic rare-earth and iron systems to a strong ultrashort THz pulse. Working out the case of the archetypical orthoferrite TmFeO3, the authors identify different coherent spin switching scenarios in this compound.\n\n[Phys. Rev. B 111, 064411] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.064411",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Theory of terahertz-driven magnetic switching in rare-earth orthoferrites: The case of $\\mathrm{TmFe}{\\mathrm{O}}_{3}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.L081403",
+          "author": "Serhii Kryhin, Qiantan Hong, and Leonid Levitov",
+          "description": "Author(s): Serhii Kryhin, Qiantan Hong, and Leonid Levitov\nA hallmark of electron hydrodynamics—a transport regime dominated by electron collisions—is that collisions enhance conduction and reduce dissipation, causing resistance to drop and conductance to rise with temperature (T). Here, the authors present a microscopic study of two-dimensional electron fluids, predicting linear-in-T scaling of hydrodynamic conductance. This behavior, contrasting with the T2 scaling in three-dimensional Fermi liquids, arises from a cascade of multiple long-lived viscous modes unique to two-dimensional systems. The number of modes relevant for transport grows as T decreases, resulting in a non-Fermi-liquid linear-in-T behavior.\n\n[Phys. Rev. B 111, L081403] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.L081403",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Linear-in-temperature conductance in two-dimensional electron fluids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.024019",
+          "author": "Xiang Li, Sheng-Yong Li, Si-Lu Zhao, Zheng-Yang Mei, Yang He, Cheng-Lin Deng, Yu Liu, Yan-Jun Liu, Gui-Han Liang, Jin-Zhe Wang, Xiao-Hui Song, Kai Xu, Heng Fan, Yu-Xiang Zhang, Zhong-Cheng Xiang, and Dong-Ning Zheng",
+          "description": "Author(s): Xiang Li, Sheng-Yong Li, Si-Lu Zhao, Zheng-Yang Mei, Yang He, Cheng-Lin Deng, Yu Liu, Yan-Jun Liu, Gui-Han Liang, Jin-Zhe Wang, Xiao-Hui Song, Kai Xu, Heng Fan, Yu-Xiang Zhang, Zhong-Cheng Xiang, and Dong-Ning Zheng\nDeterministic emission of shaped microwave photons is important for high-efficiency transmission of quantum information, and thus is crucial for building long-range quantum networks. Current approaches are hindered by the need for complex flux-tunable elements, as well as a small linear range of tunable coupling. This study demonstrates a simple and scalable photon generator that modulates qubit-resonator coupling without extra elements, achieving high-fidelity photon emission with minimal spurious frequency shifts, making it a promising solution for future quantum networks using both single-rail and time-bin encoding.\n\n[Phys. Rev. Applied 23, 024019] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.024019",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "On-demand shaped-photon emission based on a parametrically modulated qubit",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.111.022211",
+          "author": "Wei-Ming Chen, Yen-Ting Lin, and Chia-Yi Ju",
+          "description": "Author(s): Wei-Ming Chen, Yen-Ting Lin, and Chia-Yi Ju\nThe authors develop a perturbation theory for non-Hermitian systems based on a geometric formalism that yields relatively simple recursive formulas for the perturbed eigenvectors and eigenvalues. The authors provide an example and show that the method proposed reduces to the standard Rayleigh-Schrödinger perturbation theory in the Hermitian regime.\n\n[Phys. Rev. A 111, 022211] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.111.022211",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Non-Hermitian generalization of Rayleigh-Schrödinger perturbation theory",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.111.023308",
+          "author": "Tommy Z. Fischer and Ashton S. Bradley",
+          "description": "Author(s): Tommy Z. Fischer and Ashton S. Bradley\nThe authors theoretically study the development of turbulence in a Bose-Einstein condensate trapped and shaken in a box potential. They identify two distinct turbulence regimes with different scalings for weak and strong forces.\n\n[Phys. Rev. A 111, 023308] Published Fri Feb 07, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.111.023308",
+          "publishedOn": "2025-02-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Regimes of steady-state turbulence in a quantum fluid",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.051602",
           "author": "Vazha Loladze and Takemichi Okui",
           "description": "Author(s): Vazha Loladze and Takemichi Okui\nThe scattering of a charged particle off a magnetic monopole does not imply the existence of fractional particle numbers, theorists say.\n\n[Phys. Rev. Lett. 134, 051602] Published Thu Feb 06, 2025",
@@ -873,136 +1003,6 @@
           "publishedOn": "2025-01-17T10:00:00.000Z",
           "wordCount": null,
           "title": "Vibrational modes as the origin of dielectric loss at 0.27–100 THz in $a$-$\\mathrm{Si}\\mathrm{C}$:$\\mathrm{H}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXLife.3.013004",
-          "author": "I. K. Kominis and E. Gkoudinakis",
-          "description": "Author(s): I. K. Kominis and E. Gkoudinakis\nBiological magnetometers, driven by mechanisms like radical-pair, magnetite, and MagR, may approach the quantum energy resolution limit, linking magnetic sensitivity to Planck’s constant and guiding advancements in biomimetic sensing technologies.\n\n[PRX Life 3, 013004] Published Thu Jan 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PRXLife.3.013004",
-          "publishedOn": "2025-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Approaching the Quantum Limit of Energy Resolution in Animal Magnetoreception",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.023201",
-          "author": "H. N. Hausser, J. Keller, T. Nordmann, N. M. Bhatt, J. Kiethe, H. Liu, I. M. Richter, M. von Boehn, J. Rahm, S. Weyers, E. Benkler, B. Lipphardt, S. Dörscher, K. Stahl, J. Klose, C. Lisdat, M. Filzinger, N. Huntemann, E. Peik, and T. E. Mehlstäubler",
-          "description": "Author(s): H. N. Hausser, J. Keller, T. Nordmann, N. M. Bhatt, J. Kiethe, H. Liu, I. M. Richter, M. von Boehn, J. Rahm, S. Weyers, E. Benkler, B. Lipphardt, S. Dörscher, K. Stahl, J. Klose, C. Lisdat, M. Filzinger, N. Huntemann, E. Peik, and T. E. Mehlstäubler\nResearchers have built an optical clock using an array of trapped ions—an architecture that can be scaled up to boost the clock’s precision.\n\n[Phys. Rev. Lett. 134, 023201] Published Thu Jan 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.023201",
-          "publishedOn": "2025-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "$^{115}{\\mathrm{In}}^{+}\\text{−}^{172}{\\mathrm{Yb}}^{+}$ Coulomb Crystal Clock with $2.5×{10}^{−18}$ Systematic Uncertainty",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.026303",
-          "author": "Xiaobai Ning, A. Pezo, Kyoung-Whan Kim, Weisheng Zhao, Kyung-Jin Lee, and Aurélien Manchon",
-          "description": "Author(s): Xiaobai Ning, A. Pezo, Kyoung-Whan Kim, Weisheng Zhao, Kyung-Jin Lee, and Aurélien Manchon\nA theory of charge, spin, and orbital diffusion applied to multiband materials and heterostructures suggests that the diffusivity of orbital angular momentum in metals is typically much lower than that of spin or charge.\n\n[Phys. Rev. Lett. 134, 026303] Published Thu Jan 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.026303",
-          "publishedOn": "2025-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Orbital Diffusion, Polarization, and Swapping in Centrosymmetric Metals",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.013602",
-          "author": "Yahua Liu, Seyed Ali Hosseini, Cong Liu, Milo Feinberg, Benedikt Dorschner, Zuankai Wang, and Ilya Karlin",
-          "description": "Author(s): Yahua Liu, Seyed Ali Hosseini, Cong Liu, Milo Feinberg, Benedikt Dorschner, Zuankai Wang, and Ilya Karlin\nDrops impacting superhydrophobic surfaces have a rim-lamella structure at maximum spreading. The volume ratio of these two components is shown to be Weber-independent and related to a new Weber-independent characteristic time, the transition time. Volume ratios from experiments and simulations at different Ohnesorge numbers are shown.\n\n[Phys. Rev. Fluids 10, 013602] Published Thu Jan 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.013602",
-          "publishedOn": "2025-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Transition time of a bouncing drop",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035137",
-          "author": "Masaki Kato and Masao Ogata",
-          "description": "Author(s): Masaki Kato and Masao Ogata\nSpin-dependent interatomic hopping gives rise to exotic phenomena such as topological insulators and cross-correlated effects. The authors systematically investigate interatomic spin-orbit coupling (SOC) and derive an explicit expression for the SOC hopping integrals. Using a multipole technique, they discuss how spin and orbital degrees of freedom couple in several specific tight-binding models on several distinct lattices. In particular, they reveal that the spin splitting, unique to chiral systems, is induced by the electric toroidal quadrupole.\n\n[Phys. Rev. B 111, 035137] Published Thu Jan 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035137",
-          "publishedOn": "2025-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Interatomic spin-orbit coupling in atomic orbital based tight-binding models",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035427",
-          "author": "Tiemo Pedergnana, Julia Kölliker, Leonardo Perniola, and Nicolas Noiray",
-          "description": "Author(s): Tiemo Pedergnana, Julia Kölliker, Leonardo Perniola, and Nicolas Noiray\nPhysical objects create reflections and shadows under incident waves, making them detectable and motivating research on cloaking devices. Here, the authors use the synchronization of a self-oscillating cavity mode with the incident waves to cancel backscattering and compensate transmission losses from a cavity. This cloak of invisibility concept only requires the addition of a saturable gain to the resonant scatterer. An acoustic experiment demonstrates this quasipassive concept in a one-dimensional waveguide, cloaking an obstacle by simply tuning the saturable gain.\n\n[Phys. Rev. B 111, 035427] Published Thu Jan 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035427",
-          "publishedOn": "2025-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Cloaking obstacles using synchronization",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.045135",
-          "author": "Bikash Patra, Amrita Mukherjee, and Bahadur Singh",
-          "description": "Author(s): Bikash Patra, Amrita Mukherjee, and Bahadur Singh\nKagome materials are well-known for supporting many-body instabilities, yet discerning their origins remains a challenge. In the superconducting kagome metal CsTi3Bi5, the presence of sublattice-pure high-order van Hove singularities, a multiorbital Fermi surface, and the absence of phonon-driven charge density wave instabilities suggest that the nematic order is primarily driven by electronic interactions, rather than by translation symmetry breaking.\n\n[Phys. Rev. B 111, 045135] Published Thu Jan 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.045135",
-          "publishedOn": "2025-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "High-order van Hove singularities and nematic instability in the kagome superconductor ${\\mathrm{CsTi}}_{3}{\\mathrm{Bi}}_{5}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.28.012803",
-          "author": "T. Uesugi, Y. Ishi, Y. Kuriyama, Y. Mori, C. Jolly, D. J. Kelliher, J.-B. Lagrange, A. P. Letchford, S. Machida, D. W. Posthuma de Boer, C. T. Rogers, E. Yamakawa, and M. Topp-Mugglestone",
-          "description": "Author(s): T. Uesugi, Y. Ishi, Y. Kuriyama, Y. Mori, C. Jolly, D. J. Kelliher, J.-B. Lagrange, A. P. Letchford, S. Machida, D. W. Posthuma de Boer, C. T. Rogers, E. Yamakawa, and M. Topp-Mugglestone\nBeam stacking experiments in an FFA to reduce space charge effect.\n\n[Phys. Rev. Accel. Beams 28, 012803] Published Thu Jan 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.28.012803",
-          "publishedOn": "2025-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Beam stacking experiment at a fixed field alternating gradient accelerator",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011007",
-          "author": "Noah Schnitzer, Berit H. Goodge, Gregory Powers, Jaewook Kim, Sang-Wook Cheong, Ismail El Baggari, and Lena F. Kourkoutis",
-          "description": "Author(s): Noah Schnitzer, Berit H. Goodge, Gregory Powers, Jaewook Kim, Sang-Wook Cheong, Ismail El Baggari, and Lena F. Kourkoutis\nA cryogenic microscope reveals the atomic-scale processes that disrupt the charge-ordered state in a material as the temperature rises.\n\n[Phys. Rev. X 15, 011007] Published Wed Jan 15, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.15.011007",
-          "publishedOn": "2025-01-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Atomic-Scale Tracking of Topological Defect Motion and Incommensurate Charge Order Melting",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.028401",
-          "author": "Zhuda Yang, Junhao Liang, and Changsong Zhou",
-          "description": "Author(s): Zhuda Yang, Junhao Liang, and Changsong Zhou\nA new model reveals that bursts of neural activity known as critical avalanches underlie the brain’s ability to respond consistently to stimuli.\n\n[Phys. Rev. Lett. 134, 028401] Published Wed Jan 15, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.028401",
-          "publishedOn": "2025-01-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Critical Avalanches in Excitation-Inhibition Balanced Networks Reconcile Response Reliability with Sensitivity for Optimal Neural Representation",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.014105",
-          "author": "V. Petkov, A. Zafar, M. Jakhar, and AM Milinda Abeykoon",
-          "description": "Author(s): V. Petkov, A. Zafar, M. Jakhar, and AM Milinda Abeykoon\nCharge density waves may be viewed as ordered quantum fluid of electrons that form a standing wave pattern, causing the electron charge density to become spatially modulated. Concurrently, the crystal lattice distorts, and the participating atoms arrange in a superstructure. Using variable-temperature total x-ray scattering, the authors determine here the unknown superstructure in the archetypal transition-metal dichalcogenides 1T-VSe2. Notably, V atoms are found to form an ordered pattern of triclusters that are uncommon to systems exhibiting charge density wave phenomena.\n\n[Phys. Rev. B 111, 014105] Published Wed Jan 15, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.014105",
-          "publishedOn": "2025-01-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genesis and atomic structure of the charge density wave phase of $1\\mathrm{T}\\text{−}{\\mathrm{VSe}}_{2}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.024412",
-          "author": "M. Mito, M. Ohkuma, T. Tajiri, Y. Kousaka, J. Akimitsu, K. Inoue, and K. Amemiya",
-          "description": "Author(s): M. Mito, M. Ohkuma, T. Tajiri, Y. Kousaka, J. Akimitsu, K. Inoue, and K. Amemiya\nHere, the authors demonstrate by using soft x-ray magnetic circular dichroism spectroscopy that the Dzyaloshinskii-Moriya (DM) interaction in the noncentrosymmetric magnet Fe1−xCoxSi originates from the orbital angular momentum of Fe. The spectroscopy results for x = 0.25 and 0.50 indicate that the ratios of orbital and spin magnetic moments for Fe and Co are almost independent of x. The adjacent arrangement of Fe and Co stabilizes the ferromagnetic state, yet the DM interaction intrinsically originates from the spin-orbit coupling of Fe.\n\n[Phys. Rev. B 111, 024412] Published Wed Jan 15, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.024412",
-          "publishedOn": "2025-01-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Element-selective observation of the orbital angular momentum of Fe and Co in the noncentrosymmetric magnets ${\\mathrm{Fe}}_{1−x}{\\mathrm{Co}}_{x}\\mathrm{Si}$ ($x=0.25$ and 0.50)",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035132",
-          "author": "Hao-Ran Hu, Xiangang Wan, and Wei Chen",
-          "description": "Author(s): Hao-Ran Hu, Xiangang Wan, and Wei Chen\nHere, the authors investigate quasiparticle interference (QPI) effects in metallic altermagnets, induced by both nonmagnetic and magnetic impurities and incorporating the influence of Zeeman splitting and spin-orbit coupling. It is shown that the QPI patterns for various spin polarizations of magnetic impurities and different spin-probe channels can faithfully reveal both the geometric and spin configurations of altermagnetic Fermi surfaces, which can be probed through spin-resolved scanning tunneling spectroscopy.\n\n[Phys. Rev. B 111, 035132] Published Wed Jan 15, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035132",
-          "publishedOn": "2025-01-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quasiparticle interference in altermagnets",
           "imageUrl": null
         }
       ]
