@@ -6,6 +6,106 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011028",
+          "author": "Z. H. Sun, A. Ekström, C. Forssén, G. Hagen, G. R. Jansen, and T. Papenbrock",
+          "description": "Author(s): Z. H. Sun, A. Ekström, C. Forssén, G. Hagen, G. R. Jansen, and T. Papenbrock\nA new computational method could help scientists understand the shapes of deformed nuclei from first principles.\n\n[Phys. Rev. X 15, 011028] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.15.011028",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Multiscale Physics of Atomic Nuclei from First Principles",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.024202",
+          "author": "Chandima Kasun Edirisinghe, Anjali Rathore, Taegeon Lee, Daekwon Lee, An-Hsi Chen, Garrett Baucom, Eitan Hershkovitz, Anuradha Wijesinghe, Pradip Adhikari, Sinchul Yeom, Hong Seok Lee, Hyung-Kook Choi, Hyunsoo Kim, Mina Yoon, Honggyu Kim, Matthew Brahlek, Heesuk Rho, and Joon Sue Lee",
+          "description": "Author(s): Chandima Kasun Edirisinghe, Anjali Rathore, Taegeon Lee, Daekwon Lee, An-Hsi Chen, Garrett Baucom, Eitan Hershkovitz, Anuradha Wijesinghe, Pradip Adhikari, Sinchul Yeom, Hong Seok Lee, Hyung-Kook Choi, Hyunsoo Kim, Mina Yoon, Honggyu Kim, Matthew Brahlek, Heesuk Rho, and Joon Sue Lee\nTin (Sn) stands out as a key quantum material due to its dual phases: α-Sn, with topological properties, and β-Sn, a superconductor. By precise tuning of the buffer layer lattice constant from 6.10 Å to 6.48 Å using molecular beam epitaxy, the authors achieve precise controlled growth of phase-pure Sn films. The experimental results, validated by theory, demonstrate unprecedented phase control over α-Sn and β-Sn. This work establishes a versatile platform for exploring topological phenomena and developing next-generation Sn-based quantum devices, unlocking possibilities in quantum materials and semiconductor technologies.\n\n[Phys. Rev. Materials 9, 024202] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.024202",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Controlling structural phases of Sn through lattice engineering",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.066301",
+          "author": "Wei Wang, Xulong Wang, and Guancong Ma",
+          "description": "Author(s): Wei Wang, Xulong Wang, and Guancong Ma\nOne-dimensional disordered rings with chiral hopping can host Anderson localized modes which exhibit complex energies, a phenomenon previously associated exclusively with extended modes.\n\n[Phys. Rev. Lett. 134, 066301] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.066301",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Anderson Transition at Complex Energies in One-Dimensional Parity-Time-Symmetric Disordered Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.066902",
+          "author": "Daniel Kaplan, Pavel A. Volkov, Ahana Chakraborty, Zekun Zhuang, and Premala Chandra",
+          "description": "Author(s): Daniel Kaplan, Pavel A. Volkov, Ahana Chakraborty, Zekun Zhuang, and Premala Chandra\nA new method can use light to generate incommensurate order, spatial as well as temporal, in insulators of any symmetry.\n\n[Phys. Rev. Lett. 134, 066902] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.066902",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Tunable Spatiotemporal Orders in Driven Insulators",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.067001",
+          "author": "Ethan G. Arnault, John Chiles, Trevyn F. Q. Larson, Chun-Chia Chen, Lingfei Zhao, Kenji Watanabe, Takashi Taniguchi, François Amet, and Gleb Finkelstein",
+          "description": "Author(s): Ethan G. Arnault, John Chiles, Trevyn F. Q. Larson, Chun-Chia Chen, Lingfei Zhao, Kenji Watanabe, Takashi Taniguchi, François Amet, and Gleb Finkelstein\nMultiplet supercurrents mediated by two Cooper pairs have been observed in graphene-based Josephson junctions.\n\n[Phys. Rev. Lett. 134, 067001] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.067001",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Multiplet Supercurrents in a Josephson Circuit",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.024002",
+          "author": "Jan Diekmann and Uwe Thiele",
+          "description": "Author(s): Jan Diekmann and Uwe Thiele\nWe consider the dynamics of compound drops that are formed by two immiscible, partially wetting liquids within a mesoscopic hydrodynamic description based on a gradient dynamics approach in full-curvature and long-wave variants. After discussing existing models we establish conditions between macroscopic and mesoscopic descriptions that ensure consistent Neumann and Young laws. As examples, we then numerically study spreading and sliding compound drops on horizontal and inclined substrates, respectively, as well as coarsening drop ensembles.\n\n[Phys. Rev. Fluids 10, 024002] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.024002",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Mesoscopic hydrodynamic model for spreading, sliding, and coarsening compound drops",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.111.046014",
+          "author": "Jonathan J. Heckman, Cumrun Vafa, Timo Weigand, and Fengjun Xu",
+          "description": "Author(s): Jonathan J. Heckman, Cumrun Vafa, Timo Weigand, and Fengjun Xu\nApplication of fundamental principles of quantum gravity (Swampland Program) to dark energy leads to a single large (mesoscopic) extra dimension, denoted Dark Dimension. Assuming a standard grand unification of forces, the authors make several predictions based on swampland conditions and experimental bounds like the proton lifetime: the proton decay mediating boson is a solitonic string stretched in the dark dimension of mass 1015−1016 GeV, defining an upper GUT scale ≲1016 GeV; a tower of Kaluza-Klein excitations in the 1−10 TeV range, a promising candidate for dark matter; a Higgs mass in the correct range. Excitingly, some of these predictions will soon be within experimental reach.\n\n[Phys. Rev. D 111, 046014] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.111.046014",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Dark dimension and the grand unification of forces",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.075411",
+          "author": "V. G. M. Duarte, P. Ninhos, C. Tserkezis, N. Asger Mortensen, N. M. R. Peres, and A. J. Chaves",
+          "description": "Author(s): V. G. M. Duarte, P. Ninhos, C. Tserkezis, N. Asger Mortensen, N. M. R. Peres, and A. J. Chaves\nExciton polaritons—hybrids of light and matter—unlock fascinating quantum effects, from sensing and efficient lasers to quantum memories. Here, the authors show how placing electrically biased bilayer graphene inside an optical cavity creates a highly tunable playground for strong light-matter interactions. The theoretical analysis highlights how exciton lifetimes and epsilon-near-zero materials play a key role in boosting exciton-photon coupling. This platform’s flexibility allows precise control over both the polariton energy landscape and the strength of light-matter mixing (Rabi splitting), pushing the system into the strong coupling regime.\n\n[Phys. Rev. B 111, 075411] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.075411",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Tunable exciton polaritons in biased bilayer graphene",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.085122",
+          "author": "M. Magnaterra, A. Sandberg, H. Schilling, P. Warzanowski, L. Pätzold, E. Bergamasco, Ch. J. Sahle, B. Detlefs, K. Ruotsalainen, M. Moretti Sala, G. Monaco, P. Becker, Q. Faure, G. S. Thakur, M. Songvilay, C. Felser, P. H. M. van Loosdrecht, J. van den Brink, M. Hermanns, and M. Grüninger",
+          "description": "Author(s): M. Magnaterra, A. Sandberg, H. Schilling, P. Warzanowski, L. Pätzold, E. Bergamasco, Ch. J. Sahle, B. Detlefs, K. Ruotsalainen, M. Moretti Sala, G. Monaco, P. Becker, Q. Faure, G. S. Thakur, M. Songvilay, C. Felser, P. H. M. van Loosdrecht, J. van den Brink, M. Hermanns, and M. Grüninger\nThe trimer compound Ba4NbIr3O12 is found to be a spin-orbit-entangled cluster Mott insulator, with two holes per trimer occupying quasimolecular orbitals. The authors employ here resonant inelastic x-ray scattering (RIXS) and exact diagonalization. The quasimolecular nature yields a characteristic interference pattern in the RIXS intensity, reflecting the character of the wavefunction. Despite a large hopping, strong spin-orbit coupling is decisive for the electronic states. This promises nontrivial magnetic moments in trimers with an odd number of holes.\n\n[Phys. Rev. B 111, 085122] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.085122",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Quasimolecular electronic structure of the trimer iridate ${\\mathrm{Ba}}_{4}{\\mathrm{NbIr}}_{3}{\\mathrm{O}}_{12}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.111.023507",
+          "author": "Cheng Guo, David A. B. Miller, and Shanhui Fan",
+          "description": "Author(s): Cheng Guo, David A. B. Miller, and Shanhui Fan\nThis work develops a theoretical framework for optimizing wave transmission through complex media using unitary control, which allows for simultaneous manipulation of a set of orthogonal waves. They use this theory to optimize the total power transmission and crosstalk through generic multimode scattering media. Their theorems are illustrated through simple examples and first-principles numerical simulations.\n\n[Phys. Rev. A 111, 023507] Published Mon Feb 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.111.023507",
+          "publishedOn": "2025-02-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Unitary control of multiport wave transmission",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.023801",
           "author": "Lei Zhang, Wenhao Luo, Renxi Liu, Mohan Chen, Zhongbo Yan, and Kun Cao",
           "description": "Author(s): Lei Zhang, Wenhao Luo, Renxi Liu, Mohan Chen, Zhongbo Yan, and Kun Cao\nDespite the widespread applications of alumina due to its rich polymorphism, the structures of many transitional aluminas remain unresolved. This work employs the neuroevolution potential (NEP) approach to accurately describe polymorphic aluminas. Its accuracy and generality are validated through molecular dynamics simulations under diverse thermodynamic and structural conditions. A structural search workflow has also been developed based on NEP, which, in conjunction with spectroscopic data and structural stability considerations, supports the energetic preference of the Smrčok model over the Luo model for γ-Al2O3. This methodological framework provides a systematic approach for exploring polymorphic materials with intrinsic defects, such as Ga2O3.\n\n[Phys. Rev. Materials 9, 023801] Published Fri Feb 07, 2025",
@@ -903,106 +1003,6 @@
           "publishedOn": "2025-01-21T10:00:00.000Z",
           "wordCount": null,
           "title": "Switching Spin Filling Sequence in a Bilayer Graphene Quantum Dot through Trigonal Warping",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.037101",
-          "author": "Kay Brandner",
-          "description": "Author(s): Kay Brandner\nFor dynamical systems in the weak-memory regime, a unique local approximation of the original nonlocal dynamics becomes arbitrarily accurate at long times.\n\n[Phys. Rev. Lett. 134, 037101] Published Tue Jan 21, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.037101",
-          "publishedOn": "2025-01-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dynamics of Microscale and Nanoscale Systems in the Weak-Memory Regime",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.013904",
-          "author": "J. Sánchez-Rodríguez and F. Gallaire",
-          "description": "Author(s): J. Sánchez-Rodríguez and F. Gallaire\nArchetypal falling behaviors of impervious objects are classified into four modes: fluttering, tumbling, steady descent, and chaotic motion. We present in this paper an experimental result of stability induced by porosity and permeability. We discover that by drilling different porosity patterns, we can avoid tumbling and chaotic behavior in plates that, due to their inertia and Reynolds values, should tumble while falling according to the regime diagram of impervious plates. Instead, the majority of the plates flutter and a few even descend steadily.\n\n[Phys. Rev. Fluids 10, 013904] Published Tue Jan 21, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.013904",
-          "publishedOn": "2025-01-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Tumbling elimination induced by permeability: An experimental approach",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.014420",
-          "author": "Pierre A. Haas and Steph S. M. H. Höhn",
-          "description": "Author(s): Pierre A. Haas and Steph S. M. H. Höhn\nThis work analyzes the mechanical dynamics driving inversion of the Volvox embryo, a hollow spherical colony of algal cells in which flagella initially point inward. The authors combined ablation experiments and modeling to measure effects of mismatched curvatures and out-of-plane stresses. They expect their framework to be applicable to a broad range of problems in cell sheet folding.\n\n[Phys. Rev. E 111, 014420] Published Tue Jan 21, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.014420",
-          "publishedOn": "2025-01-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Cut it out: Out-of-plane stresses in cell sheet folding of <i>Volvox</i> embryos",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035432",
-          "author": "David de la Fuente Pico, Jesper Levinsen, Emma Laird, Meera M. Parish, and Francesca Maria Marchetti",
-          "description": "Author(s): David de la Fuente Pico, Jesper Levinsen, Emma Laird, Meera M. Parish, and Francesca Maria Marchetti\nIn the very strong light-matter coupling regime, the excitons in a semiconductor are intrinsically modified by the photon modes in a microcavity. A magnetic field can probe and manipulate these changes in exciton-polaritons. Here, the authors develop a microscopic theory for excitons and polaritons under strong magnetic fields in the specific case of transition metal dichalcogenide monolayers. Numerically exact solutions reveal critical deviations from perturbative models and are employed to estimate light and magnetic field effects on the particle interaction strengths.\n\n[Phys. Rev. B 111, 035432] Published Tue Jan 21, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035432",
-          "publishedOn": "2025-01-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Rydberg excitons and polaritons in monolayer transition metal dichalcogenides in a magnetic field",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.025102",
-          "author": "N. P. Dover, O. Tresca, N. Cook, O. C. Ettlinger, R. J. Kingham, C. Maharjan, M. N. Polyanskiy, P. Shkolnikov, I. Pogorelsky, and Z. Najmudin",
-          "description": "Author(s): N. P. Dover, O. Tresca, N. Cook, O. C. Ettlinger, R. J. Kingham, C. Maharjan, M. N. Polyanskiy, P. Shkolnikov, I. Pogorelsky, and Z. Najmudin\nA parametric study of fast electrons penetrating into an overcritical density plasma finds an experimental threshold for the development of the Weibel-like beam-driven filamentation instability and reveals the importance of observed strong collisionless background heating.\n\n[Phys. Rev. Lett. 134, 025102] Published Fri Jan 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.025102",
-          "publishedOn": "2025-01-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Optical Imaging of Laser-Driven Fast Electron Weibel-like Filamentation in Overcritical Density Plasma",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.026306",
-          "author": "Amir Hajibabaei, William J. Baldwin, Gábor Csányi, and Stephen J. Cox",
-          "description": "Author(s): Amir Hajibabaei, William J. Baldwin, Gábor Csányi, and Stephen J. Cox\nSimulations of superionic silver iodide show the importance of probing long time scales for this kind of material and reveal a new intermediate phase primarily characterized by a broken cation distribution that gives a mechanism for its observed memory effect.\n\n[Phys. Rev. Lett. 134, 026306] Published Fri Jan 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.026306",
-          "publishedOn": "2025-01-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Symmetry Breaking in the Superionic Phase of Silver Iodide",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.028201",
-          "author": "Yanbin Wu, Thomas Pähtz, Zixiao Guo, Lu Jing, Zhao Duan, and Zhiguo He",
-          "description": "Author(s): Yanbin Wu, Thomas Pähtz, Zixiao Guo, Lu Jing, Zhao Duan, and Zhiguo He\nMeasurements of grains flowing down an inclined plane have uncovered general principles that may help researchers model rockslides and other granular flows.\n\n[Phys. Rev. Lett. 134, 028201] Published Fri Jan 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.028201",
-          "publishedOn": "2025-01-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Unified Flow Rule of Undeveloped and Fully Developed Dense Granular Flows down Rough Inclines",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.014513",
-          "author": "N. Azari, M. Yakovlev, S. R. Dunsiger, O. P. Uzoh, E. Mun, B. M. Huddart, S. J. Blundell, M. M. Bordelon, S. M. Thomas, J. D. Thompson, P. F. S. Rosa, and J. E. Sonier",
-          "description": "Author(s): N. Azari, M. Yakovlev, S. R. Dunsiger, O. P. Uzoh, E. Mun, B. M. Huddart, S. J. Blundell, M. M. Bordelon, S. M. Thomas, J. D. Thompson, P. F. S. Rosa, and J. E. Sonier\nThe normal state properties often provide vital insights into elucidating the pairing mechanism in a superconductor. Here, the authors report an experimental study of the normal state of the purported spin-triplet superconductor UTe2, in which the superconducting condensate develops from a heavy-electron fluid. The key finding is that localized magnetic moments condense out of a large fraction of the heavy-electron fluid prior to the onset of superconductivity. This suggests that Kondo hybridization of the conduction and localized electrons in UTe2 is probably orbital selective.\n\n[Phys. Rev. B 111, 014513] Published Fri Jan 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.014513",
-          "publishedOn": "2025-01-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Coexistence of Kondo coherence and localized magnetic moments in the normal state of molten salt-flux grown ${\\mathrm{UTe}}_{2}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.L020508",
-          "author": "Akito Daido and Youichi Yanase",
-          "description": "Author(s): Akito Daido and Youichi Yanase\nElectric current is generally prohibited in equilibrium. This prevents a zero-resistance state realized solely under a finite electric current, namely, unidirectional superconductivity. Here, the authors propose a setup to realize unidirectional superconductivity as a nonequilibrium steady state, focusing on the in-plane transport of thin-film superconductors which lack in-plane inversion symmetry. Introducing dissipation with the out-of-plane electric field and current, the system realizes unidirectional superconductivity as well as the superconducting diode effect, enabled by the effective time-reversal symmetry breaking by dissipation.\n\n[Phys. Rev. B 111, L020508] Published Fri Jan 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.L020508",
-          "publishedOn": "2025-01-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Unidirectional superconductivity and superconducting diode effect induced by dissipation",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014035",
-          "author": "B.T. Buijtendorp, A. Endo, W. Jellema, K. Karatsu, K. Kouwenhoven, D. Lamers, A.J. van der Linden, K. Rostem, H.M. Veen, E.J. Wollack, J.J.A. Baselmans, and S. Vollebregt",
-          "description": "Author(s): B.T. Buijtendorp, A. Endo, W. Jellema, K. Karatsu, K. Kouwenhoven, D. Lamers, A.J. van der Linden, K. Rostem, H.M. Veen, E.J. Wollack, J.J.A. Baselmans, and S. Vollebregt\nLow-loss deposited dielectrics are beneficial for improving superconducting circuits used in astronomy. At cryogenic temperature and low electric field, in the microwave band the dielectric loss is known to be dominated by two-level systems, but the origin of loss in the millimeter-submillimeter band is not understood. Here researchers measure the loss of a-SiC:H films from 0.27 to100 THz, using superconducting microstrip resonators and Fourier-transform spectroscopy. The data are explained well by a Maxwell-Helmholtz-Drude dispersion model, suggesting that vibrational modes dominate the loss in this material above 200 GHz.\n\n[Phys. Rev. Applied 23, 014035] Published Fri Jan 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014035",
-          "publishedOn": "2025-01-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Vibrational modes as the origin of dielectric loss at 0.27–100 THz in $a$-$\\mathrm{Si}\\mathrm{C}$:$\\mathrm{H}$",
           "imageUrl": null
         }
       ]
