@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011040",
+          "author": "Carmelo Mordini, Alfredo Ricci Vasquez, Yuto Motohashi, Mose Müller, Maciej Malinowski, Chi Zhang, Karan K. Mehta, Daniel Kienzler, and Jonathan P. Home",
+          "description": "Author(s): Carmelo Mordini, Alfredo Ricci Vasquez, Yuto Motohashi, Mose Müller, Maciej Malinowski, Chi Zhang, Karan K. Mehta, Daniel Kienzler, and Jonathan P. Home\nThe demonstration that ions can be precisely manipulated in a trap containing integrated photonics paves the way for a large-scale trapped-ion quantum processor.\n\n[Phys. Rev. X 15, 011040] Published Mon Feb 24, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.15.011040",
+          "publishedOn": "2025-02-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Multizone Trapped-Ion Qubit Control in an Integrated Photonics QCCD Device",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.086702",
+          "author": "Ludovic D. C. Jaubert, Yasir Iqbal, and Harald O. Jeschke",
+          "description": "Author(s): Ludovic D. C. Jaubert, Yasir Iqbal, and Harald O. Jeschke\nClassical Monte Carlo calculations of the specific heat and energy per spin for the frustrated spinels ZnCr2O4 and MgCr2O4 show evidence of a phase transition around the experimentally observed Néel temperatures in both cubic and tetragonal phases of both spinels.\n\n[Phys. Rev. Lett. 134, 086702] Published Mon Feb 24, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.086702",
+          "publishedOn": "2025-02-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Spin-Peierls Transition in the Frustrated Spinels ${\\mathrm{ZnCr}}_{2}{\\mathrm{O}}_{4}$ and ${\\mathrm{MgCr}}_{2}{\\mathrm{O}}_{4}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.087101",
+          "author": "Jan Meibohm and Sabine H. L. Klapp",
+          "description": "Author(s): Jan Meibohm and Sabine H. L. Klapp\nThe asymptotic relaxation rate of a Brownian particle in a harmonic potential perturbed by quenched Gaussian disorder may either increase or decrease exponentially depending on the properties of the disorder.\n\n[Phys. Rev. Lett. 134, 087101] Published Mon Feb 24, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.087101",
+          "publishedOn": "2025-02-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Exponential Change of Relaxation Rate by Quenched Disorder",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.064428",
+          "author": "Wang Chen, Xiaoying Zhou, Wen-Kai Lou, and Kai Chang",
+          "description": "Author(s): Wang Chen, Xiaoying Zhou, Wen-Kai Lou, and Kai Chang\nAltermagnetism is a magnetic phase characterized by spin-split band structures without spin-orbit coupling (SOC) and rotation symmetry-compensated net magnetization. Here, the authors uncover the magneto-optical properties of a d-wave altermagnet. They demonstrate that the spin-polarized bands manifest in the anisotropic spin-resolved optical conductivity, enabling circular dichroism. In the absence (presence) of SOC, only intraband (both intraband and interband) transitions occur which satisfy the selection rule ∆n=±1 (∆n=±1,±3). This research provides valuable insights into the unique optical properties of altermagnetic materials.\n\n[Phys. Rev. B 111, 064428] Published Mon Feb 24, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.064428",
+          "publishedOn": "2025-02-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Magneto-optical conductivity and circular dichroism in $d$-wave altermagnets",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011039",
           "author": "Jorge Estrada-Álvarez, Juan Salvador-Sánchez, Ana Pérez-Rodríguez, Carlos Sánchez-Sánchez, Vito Clericò, Daniel Vaquero, Kenji Watanabe, Takashi Taniguchi, Enrique Diez, Francisco Domínguez-Adame, Mario Amado, and Elena Díaz",
           "description": "Author(s): Jorge Estrada-Álvarez, Juan Salvador-Sánchez, Ana Pérez-Rodríguez, Carlos Sánchez-Sánchez, Vito Clericò, Daniel Vaquero, Kenji Watanabe, Takashi Taniguchi, Enrique Diez, Francisco Domínguez-Adame, Mario Amado, and Elena Díaz\nAn array of holes in a 2D material enhances an effect that improves the flow of electric currents.\n\n[Phys. Rev. X 15, 011039] Published Fri Feb 21, 2025",
@@ -963,46 +1003,6 @@
           "publishedOn": "2025-01-31T10:00:00.000Z",
           "wordCount": null,
           "title": "Linear response theory for cavity QED materials at arbitrary light-matter coupling strengths",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014079",
-          "author": "Mark P. Zic, Linda Ye, Maya H. Martinez, and Ian R. Fisher",
-          "description": "Author(s): Mark P. Zic, Linda Ye, Maya H. Martinez, and Ian R. Fisher\nElastocaloric cooling holds considerable promise as a compact, quick alternative to standard cryogenic refrigeration, though its practical implementation still requires considerable research on candidate materials and appropriate techniques for applying large, rapid strains at low temperatures. In this study a load-unload approach is used to induce substantial strains in a candidate cryogenic elastocaloric working material, TmVO4, at low temperatures. Employing this technique, the authors observe a giant elastocaloric response, cooling the material by 2.3 K at a bath temperature of 5 K. These results provide a starting point for practical elastocaloric cooling in the subkelvin regime.\n\n[Phys. Rev. Applied 23, 014079] Published Fri Jan 31, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014079",
-          "publishedOn": "2025-01-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Giant elastocaloric cooling at cryogenic temperatures in ${\\mathrm{Tm}\\mathrm{VO}}_{4}$ via a load-unload strain technique",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011017",
-          "author": "Xiaohanwen Lin, Fan Wu, Nicolas Ubrig, Menghan Liao, Fengrui Yao, Ignacio Gutiérrez-Lezama, and Alberto F. Morpurgo",
-          "description": "Author(s): Xiaohanwen Lin, Fan Wu, Nicolas Ubrig, Menghan Liao, Fengrui Yao, Ignacio Gutiérrez-Lezama, and Alberto F. Morpurgo\nAt low temperatures the resistance of a layered magnetic semiconductor shoots up and down in response to an increasing magnetic field.\n\n[Phys. Rev. X 15, 011017] Published Thu Jan 30, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.15.011017",
-          "publishedOn": "2025-01-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Positive Oscillating Magnetoresistance in a van der Waals Antiferromagnetic Semiconductor",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.014203",
-          "author": "Tsai-Jung Liu, Florian M. Arnold, Alireza Ghasemifard, Qing-Long Liu, Dorothea Golze, Agnieszka Kuc, and Thomas Heine",
-          "description": "Author(s): Tsai-Jung Liu, Florian M. Arnold, Alireza Ghasemifard, Qing-Long Liu, Dorothea Golze, Agnieszka Kuc, and Thomas Heine\nThis study explores a unique class of graphene nanoribbons, the gulf-edged zigzag graphene nanoribbons (ZGNR-Gs), created by introducing bite-like patterns along the zigzag edges. The authors demonstrate a strong relationship between geometric structure and electronic properties, including magnetism and topological properties. They present simple rules to predict these properties based on four geometric parameters that fully characterize the structure. Using advanced computational models, they find that these nanoribbons act as semiconductors and exhibit spin-polarized, antiferromagnetically coupled edge states. Their discoveries facilitate the rational design of planar carbon nanostructures for nanoelectronics and potentially for applications in quantum computing.\n\n[Phys. Rev. Materials 9, 014203] Published Thu Jan 30, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.014203",
-          "publishedOn": "2025-01-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Electronic structure and topology in gulf-edged zigzag graphene nanoribbons",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014077",
-          "author": "A.J. Stolk, J.J.B. Biemond, K.L. van der Enden, L. van Dooren, E.J. van Zwet, and R. Hanson",
-          "description": "Author(s): A.J. Stolk, J.J.B. Biemond, K.L. van der Enden, L. van Dooren, E.J. van Zwet, and R. Hanson\nEntanglement generation using the single-photon protocol is of interest for quantum networks, for its reduced sensitivity to photon losses. This protocol requires a stable relative optical phase on the optical link between network nodes. The authors present a phase-synchronization scheme that enables scalable entanglement generation over metropolitan distances, in a robust and extendable infrastructure. Their results show the feasibility of the single-click heralding protocol at long distances, and the approach can also be used with other types of node hardware, for near-term exploration of large-scale quantum networks.\n\n[Phys. Rev. Applied 23, 014077] Published Thu Jan 30, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.014077",
-          "publishedOn": "2025-01-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Extendable optical phase synchronization of remote and independent quantum network nodes over deployed fibers",
           "imageUrl": null
         }
       ]

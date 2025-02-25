@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-24T01:03:06.999Z</id>
+    <id>urn:2025-02-25T01:02:25.376Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T01:03:06.999Z</updated>
+    <updated>2025-02-25T01:02:25.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Multizone Trapped-Ion Qubit Control in an Integrated Photonics QCCD Device]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011040</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevX.15.011040"/>
+        <updated>2025-02-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Carmelo Mordini, Alfredo Ricci Vasquez, Yuto Motohashi, Mose Müller, Maciej Malinowski, Chi Zhang, Karan K. Mehta, Daniel Kienzler, and Jonathan P. Home
+The demonstration that ions can be precisely manipulated in a trap containing integrated photonics paves the way for a large-scale trapped-ion quantum processor.
+
+[Phys. Rev. X 15, 011040] Published Mon Feb 24, 2025]]></summary>
+        <author>
+            <name>Carmelo Mordini, Alfredo Ricci Vasquez, Yuto Motohashi, Mose Müller, Maciej Malinowski, Chi Zhang, Karan K. Mehta, Daniel Kienzler, and Jonathan P. Home</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin-Peierls Transition in the Frustrated Spinels ${\mathrm{ZnCr}}_{2}{\mathrm{O}}_{4}$ and ${\mathrm{MgCr}}_{2}{\mathrm{O}}_{4}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.086702</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.086702"/>
+        <updated>2025-02-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ludovic D. C. Jaubert, Yasir Iqbal, and Harald O. Jeschke
+Classical Monte Carlo calculations of the specific heat and energy per spin for the frustrated spinels ZnCr2O4 and MgCr2O4 show evidence of a phase transition around the experimentally observed Néel temperatures in both cubic and tetragonal phases of both spinels.
+
+[Phys. Rev. Lett. 134, 086702] Published Mon Feb 24, 2025]]></summary>
+        <author>
+            <name>Ludovic D. C. Jaubert, Yasir Iqbal, and Harald O. Jeschke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exponential Change of Relaxation Rate by Quenched Disorder]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.087101</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.087101"/>
+        <updated>2025-02-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jan Meibohm and Sabine H. L. Klapp
+The asymptotic relaxation rate of a Brownian particle in a harmonic potential perturbed by quenched Gaussian disorder may either increase or decrease exponentially depending on the properties of the disorder.
+
+[Phys. Rev. Lett. 134, 087101] Published Mon Feb 24, 2025]]></summary>
+        <author>
+            <name>Jan Meibohm and Sabine H. L. Klapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magneto-optical conductivity and circular dichroism in $d$-wave altermagnets]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.064428</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.064428"/>
+        <updated>2025-02-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wang Chen, Xiaoying Zhou, Wen-Kai Lou, and Kai Chang
+Altermagnetism is a magnetic phase characterized by spin-split band structures without spin-orbit coupling (SOC) and rotation symmetry-compensated net magnetization. Here, the authors uncover the magneto-optical properties of a d-wave altermagnet. They demonstrate that the spin-polarized bands manifest in the anisotropic spin-resolved optical conductivity, enabling circular dichroism. In the absence (presence) of SOC, only intraband (both intraband and interband) transitions occur which satisfy the selection rule ∆n=±1 (∆n=±1,±3). This research provides valuable insights into the unique optical properties of altermagnetic materials.
+
+[Phys. Rev. B 111, 064428] Published Mon Feb 24, 2025]]></summary>
+        <author>
+            <name>Wang Chen, Xiaoying Zhou, Wen-Kai Lou, and Kai Chang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Superballistic Conduction in Hydrodynamic Antidot Graphene Superlattices]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011039</id>
@@ -1251,58 +1303,6 @@ The authors develop a linear response theory for materials collectively coupled 
 [Phys. Rev. B 111, 035156] Published Fri Jan 31, 2025]]></summary>
         <author>
             <name>Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giant elastocaloric cooling at cryogenic temperatures in ${\mathrm{Tm}\mathrm{VO}}_{4}$ via a load-unload strain technique]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.014079</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.014079"/>
-        <updated>2025-01-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mark P. Zic, Linda Ye, Maya H. Martinez, and Ian R. Fisher
-Elastocaloric cooling holds considerable promise as a compact, quick alternative to standard cryogenic refrigeration, though its practical implementation still requires considerable research on candidate materials and appropriate techniques for applying large, rapid strains at low temperatures. In this study a load-unload approach is used to induce substantial strains in a candidate cryogenic elastocaloric working material, TmVO4, at low temperatures. Employing this technique, the authors observe a giant elastocaloric response, cooling the material by 2.3 K at a bath temperature of 5 K. These results provide a starting point for practical elastocaloric cooling in the subkelvin regime.
-
-[Phys. Rev. Applied 23, 014079] Published Fri Jan 31, 2025]]></summary>
-        <author>
-            <name>Mark P. Zic, Linda Ye, Maya H. Martinez, and Ian R. Fisher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positive Oscillating Magnetoresistance in a van der Waals Antiferromagnetic Semiconductor]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevX.15.011017</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevX.15.011017"/>
-        <updated>2025-01-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xiaohanwen Lin, Fan Wu, Nicolas Ubrig, Menghan Liao, Fengrui Yao, Ignacio Gutiérrez-Lezama, and Alberto F. Morpurgo
-At low temperatures the resistance of a layered magnetic semiconductor shoots up and down in response to an increasing magnetic field.
-
-[Phys. Rev. X 15, 011017] Published Thu Jan 30, 2025]]></summary>
-        <author>
-            <name>Xiaohanwen Lin, Fan Wu, Nicolas Ubrig, Menghan Liao, Fengrui Yao, Ignacio Gutiérrez-Lezama, and Alberto F. Morpurgo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic structure and topology in gulf-edged zigzag graphene nanoribbons]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.9.014203</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.9.014203"/>
-        <updated>2025-01-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tsai-Jung Liu, Florian M. Arnold, Alireza Ghasemifard, Qing-Long Liu, Dorothea Golze, Agnieszka Kuc, and Thomas Heine
-This study explores a unique class of graphene nanoribbons, the gulf-edged zigzag graphene nanoribbons (ZGNR-Gs), created by introducing bite-like patterns along the zigzag edges. The authors demonstrate a strong relationship between geometric structure and electronic properties, including magnetism and topological properties. They present simple rules to predict these properties based on four geometric parameters that fully characterize the structure. Using advanced computational models, they find that these nanoribbons act as semiconductors and exhibit spin-polarized, antiferromagnetically coupled edge states. Their discoveries facilitate the rational design of planar carbon nanostructures for nanoelectronics and potentially for applications in quantum computing.
-
-[Phys. Rev. Materials 9, 014203] Published Thu Jan 30, 2025]]></summary>
-        <author>
-            <name>Tsai-Jung Liu, Florian M. Arnold, Alireza Ghasemifard, Qing-Long Liu, Dorothea Golze, Agnieszka Kuc, and Thomas Heine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extendable optical phase synchronization of remote and independent quantum network nodes over deployed fibers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.014077</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.014077"/>
-        <updated>2025-01-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A.J. Stolk, J.J.B. Biemond, K.L. van der Enden, L. van Dooren, E.J. van Zwet, and R. Hanson
-Entanglement generation using the single-photon protocol is of interest for quantum networks, for its reduced sensitivity to photon losses. This protocol requires a stable relative optical phase on the optical link between network nodes. The authors present a phase-synchronization scheme that enables scalable entanglement generation over metropolitan distances, in a robust and extendable infrastructure. Their results show the feasibility of the single-click heralding protocol at long distances, and the approach can also be used with other types of node hardware, for near-term exploration of large-scale quantum networks.
-
-[Phys. Rev. Applied 23, 014077] Published Thu Jan 30, 2025]]></summary>
-        <author>
-            <name>A.J. Stolk, J.J.B. Biemond, K.L. van der Enden, L. van Dooren, E.J. van Zwet, and R. Hanson</name>
         </author>
     </entry>
 </feed>
