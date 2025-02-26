@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.083402",
+          "author": "M. Zhao, J. Tao, and I. B. Spielman",
+          "description": "Author(s): M. Zhao, J. Tao, and I. B. Spielman\nResearchers showed that a turbulent Bose-Einstein condensate exhibits the signs of classical turbulence, hinting at possible similarities between classical and quantum fluids.\n\n[Phys. Rev. Lett. 134, 083402] Published Tue Feb 25, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.083402",
+          "publishedOn": "2025-02-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Kolmogorov Scaling in Turbulent 2D Bose-Einstein Condensates",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.084101",
+          "author": "Haruki Takezawa, Han Hsu, Kei Hirose, Fumiya Sakai, Suyu Fu, Hitoshi Gomi, Shiro Miwa, and Naoya Sakamoto",
+          "description": "Author(s): Haruki Takezawa, Han Hsu, Kei Hirose, Fumiya Sakai, Suyu Fu, Hitoshi Gomi, Shiro Miwa, and Naoya Sakamoto\nExperiments show that iron’s crystal lattice expands to incorporate helium.\n\n[Phys. Rev. Lett. 134, 084101] Published Tue Feb 25, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.084101",
+          "publishedOn": "2025-02-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Formation of Iron-Helium Compounds under High Pressure",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.024805",
+          "author": "Jason Stafford, Nwachukwu Uzo, Enrico Piccoli, Camille Petit, and Omar K. Matar",
+          "description": "Author(s): Jason Stafford, Nwachukwu Uzo, Enrico Piccoli, Camille Petit, and Omar K. Matar\nWe examine large-amplitude wave formation on thin films flowing over a rapidly spinning disk with experiments and direct numerical simulations. Our results capture the transition from stationary two-dimensional spiral to fully three-dimensional waves.\n\n[Phys. Rev. Fluids 10, 024805] Published Tue Feb 25, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.024805",
+          "publishedOn": "2025-02-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Thin film flow over a spinning disk: Experiments and direct numerical simulations",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.024410",
+          "author": "Samuel Charlton, Gavin Melaugh, Davide Marenduzzo, Cait MacPhee, and Eleonora Secchi",
+          "description": "Author(s): Samuel Charlton, Gavin Melaugh, Davide Marenduzzo, Cait MacPhee, and Eleonora Secchi\nThis experimental and computational study examines factors that control aggregation dynamics and cluster-cluster assembly of filamentous and nonfilamentous bacteria. Results should be of interest for practical applications, such as bioreactors and water remediation, in which aggregation is a key step in the process.\n\n[Phys. Rev. E 111, 024410] Published Tue Feb 25, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.024410",
+          "publishedOn": "2025-02-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Role of cellular filamentation in bacterial aggregation and cluster-cluster assembly",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.L022104",
+          "author": "Jin Zhang, James A. Warren, and Peter W. Voorhees",
+          "description": "Author(s): Jin Zhang, James A. Warren, and Peter W. Voorhees\nIn the context of the nonequilibrium thermodynamics of phase field models, ensuring that energy decreases during evolution is critical for thermodynamic consistency. Contrary to the common understanding of grand-potential phase field models, the authors show that it is the Helmholtz energy that decreases during evolution rather than the grand potential. This finding is relevant for assuring thermodynamic consistency of phase field models and their computational implementations.\n\n[Phys. Rev. E 111, L022104] Published Tue Feb 25, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.L022104",
+          "publishedOn": "2025-02-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Nonequilibrium thermodynamic foundation of the grand-potential phase field model",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.075160",
+          "author": "Alex Louat, Cephise Cacho, and Matthew D. Watson",
+          "description": "Author(s): Alex Louat, Cephise Cacho, and Matthew D. Watson\nMany layered lanthanide telluride compounds, particularly those in the RTe3 and RTe2 families, exhibit charge density wave (CDW) order. This phenomenon is driven by their nearly square, quasi-two-dimensional tellurium nets, with the CDW commonly attributed to Fermi surface nesting. Here, the authors use micro-angle-resolved photoemission spectroscopy on polar surfaces of cleaved LaTe2 single crystals to investigate the Te square sheet under three different chemical potentials, focusing on the band-filling effect on CDW order.\n\n[Phys. Rev. B 111, 075160] Published Tue Feb 25, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.075160",
+          "publishedOn": "2025-02-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Surface states and the robustness of charge density wave order in ${\\mathrm{LaTe}}_{2}$",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011040",
           "author": "Carmelo Mordini, Alfredo Ricci Vasquez, Yuto Motohashi, Mose Müller, Maciej Malinowski, Chi Zhang, Karan K. Mehta, Daniel Kienzler, and Jonathan P. Home",
           "description": "Author(s): Carmelo Mordini, Alfredo Ricci Vasquez, Yuto Motohashi, Mose Müller, Maciej Malinowski, Chi Zhang, Karan K. Mehta, Daniel Kienzler, and Jonathan P. Home\nThe demonstration that ions can be precisely manipulated in a trap containing integrated photonics paves the way for a large-scale trapped-ion quantum processor.\n\n[Phys. Rev. X 15, 011040] Published Mon Feb 24, 2025",
@@ -943,66 +1003,6 @@
           "publishedOn": "2025-02-03T10:00:00.000Z",
           "wordCount": null,
           "title": "Protocol dependence for avalanches under constant stress in elastoplastic models",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.024301",
-          "author": "Ryota Watanabe, Takanori Ishii, Yuji Hirono, and Hirokazu Maruoka",
-          "description": "Author(s): Ryota Watanabe, Takanori Ishii, Yuji Hirono, and Hirokazu Maruoka\nThis study introduces a method based on neural networks to discover self-similarity in physical systems. Traditional methods employ assumed models, while here the authors are able to identify the self-similarity parameters from data directly and extract the exponents characterizing the scale-transformation symmetries. The method can be put to use with any self-similar physical system, with potential applications in various areas, for example materials science and fluid dynamics.\n\n[Phys. Rev. E 111, 024301] Published Mon Feb 03, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.024301",
-          "publishedOn": "2025-02-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Data-driven discovery of self-similarity using neural networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.025401",
-          "author": "Wout Laeremans, Anne Floor den Ouden, Jef Hooyberghs, and Wouter G. Ellenbroek",
-          "description": "Author(s): Wout Laeremans, Anne Floor den Ouden, Jef Hooyberghs, and Wouter G. Ellenbroek\nPrevious studies on the formation of loops in polymers under tension relied on barrier escape methods to predict looping times. This work revisits the problem, deriving a scaling law for freely jointed chains under tension, and demonstrating that the looping time inversely scales with the equilibrium looping probability.\n\n[Phys. Rev. E 111, 025401] Published Mon Feb 03, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.025401",
-          "publishedOn": "2025-02-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Polymer dynamics under tension: Mean first passage time for looping",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.054101",
-          "author": "Jialun Liu, David Yang, Ana F. Suzana, Steven J. Leake, and Ian K. Robinson",
-          "description": "Author(s): Jialun Liu, David Yang, Ana F. Suzana, Steven J. Leake, and Ian K. Robinson\nWhy do nanomaterials outperform bulk materials? This study reveals how nearly strainfree surfaces in BaTiO₃ nanoparticles enhance domain-wall mobility, driving superior dielectric performance. Using Bragg coherent diffraction imaging, the authors uncover electric field driven domain-wall dynamics. They validate a “side-by-side” domain model and identify a critical threshold of 3 MV/m for irreversible changes. These findings transform our understanding of nanoscale dielectric behavior and pave the path for breakthroughs in nanoelectronics.\n\n[Phys. Rev. B 111, 054101] Published Mon Feb 03, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.054101",
-          "publishedOn": "2025-02-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Electric field driven domain wall dynamics in ${\\mathrm{BaTiO}}_{3}$ nanoparticles",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.075103",
-          "author": "Yaar Vituri, Jiewen Xiao, Keshav Pareek, Tobias Holder, and Erez Berg",
-          "description": "Author(s): Yaar Vituri, Jiewen Xiao, Keshav Pareek, Tobias Holder, and Erez Berg\nHere, the authors identify incommensurate intervalley fluctuations between concentric hole and electron pockets as the primary particle-hole instability in hole-doped ABC-graphene’s half-metallic state. At intermediate densities, these fluctuations lead to a low-temperature superconducting instability with a sign-changing s-wave order parameter as revealed through a generalized RPA analysis. Closer to charge neutrality, the system develops finite-momentum intervalley coherent order, followed by a transition to a valley polarized state.\n\n[Phys. Rev. B 111, 075103] Published Mon Feb 03, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.075103",
-          "publishedOn": "2025-02-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Incommensurate intervalley coherent states in ABC graphene: Collective modes and superconductivity",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.085105",
-          "author": "Jonathan Paras and Antoine Allanore",
-          "description": "Author(s): Jonathan Paras and Antoine Allanore\nThe contribution of electrons to the entropy of metallic elements and their alloys is well established below room temperature. In this work, the authors test the performance of using an irreversible thermodynamic theory that experimentally links the transport electronic entropy to the thermopower and the number of charge carriers, to inform the total entropy of mixing of the system Fe-Ni, at both room temperature and 1273 K.\n\n[Phys. Rev. B 111, 085105] Published Mon Feb 03, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.085105",
-          "publishedOn": "2025-02-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Thermodynamic constraint for the electronic structure of Fe-Ni alloys at room and high temperature",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.035156",
-          "author": "Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco",
-          "description": "Author(s): Juan Román-Roche, Álvaro Gómez-León, Fernando Luis, and David Zueco\nThe authors develop a linear response theory for materials collectively coupled to a cavity that is valid in all regimes of light-matter coupling, including symmetry-broken phases. The response functions for the cavity and the material are obtained in terms of the respective bare responses. The theory is formulated for a general model which encompasses most of the systems typically considered in the field of cavity QED materials. It is then applied to several specific models.\n\n[Phys. Rev. B 111, 035156] Published Fri Jan 31, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.035156",
-          "publishedOn": "2025-01-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Linear response theory for cavity QED materials at arbitrary light-matter coupling strengths",
           "imageUrl": null
         }
       ]
