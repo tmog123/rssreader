@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T01:02:17.960Z</id>
+    <id>urn:2025-02-27T01:02:20.719Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T01:02:17.960Z</updated>
+    <updated>2025-02-27T01:02:20.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dual-Baseline Search for Active-to-Sterile Neutrino Oscillations in NOvA]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.081804</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.081804"/>
+        <updated>2025-02-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. A. Acero et al. (NOvA Collaboration)
+A comparison of neutrinos measured 1 km and 810 km from their source finds no evidence of a putative fourth neutrino flavor.
+
+[Phys. Rev. Lett. 134, 081804] Published Wed Feb 26, 2025]]></summary>
+        <author>
+            <name>M. A. Acero &lt;em&gt;et al.&lt;/em&gt; (NOvA Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic Lyddane-Sachs-Teller Relation]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.086703</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.086703"/>
+        <updated>2025-02-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Viktor Rindert, Vanya Darakchieva, Tapati Sarkar, and Mathias Schubert
+A new formula that connects a material’s magnetic permeability to spin dynamics has been derived and tested 84 years after the debut of its electric counterpart.
+
+[Phys. Rev. Lett. 134, 086703] Published Wed Feb 26, 2025]]></summary>
+        <author>
+            <name>Viktor Rindert, Vanya Darakchieva, Tapati Sarkar, and Mathias Schubert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harmonic Hall characterization of voltage-controlled magnetic anisotropy at ferromagnet/oxide interfaces]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.054438</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.054438"/>
+        <updated>2025-02-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Fettizio and C. O. Avci
+Voltage control of magnetic anisotropy (VCMA) has emerged as an effective solution to reduce power consumption in magnetic memories. This work presents an alternative method to detect and quantify VCMA at a ferromagnet/oxide interface using harmonic Hall voltage detection. An AC voltage is applied simultaneously across the Hall bar and oxide gate using the same source while measuring first and second harmonic Hall voltage responses. This approach also enables measurement of voltage-induced changes in anomalous Hall resistance, interpreted using a spin-dependent screening model.
+
+[Phys. Rev. B 111, 054438] Published Wed Feb 26, 2025]]></summary>
+        <author>
+            <name>M. Fettizio and C. O. Avci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Induced ferroelectricity and enhanced superconductivity through <i>B</i>-site doped $\mathrm{SrT}{\mathrm{i}}_{1−x}{\mathrm{Zr}}_{x}{\mathrm{O}}_{3}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.054522</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.054522"/>
+        <updated>2025-02-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Stephen Zhang, Xianghan Xu, and R. J. Cava
+Quantum criticality has long been linked to enhanced superconductivity in SrTiO3, with fluctuations near a quantum phase transition potentially aiding Cooper pairing. In this study, the authors explore this connection by introducing ferroelectricity into SrTiO3 via slight Zr substitution. A small amount of Zr induces a ferroelectric transition, and electron doping reveals enhanced superconducting Tc. Interestingly, excessive ferroelectric substitution weakens pairing, forming a superconducting dome. These findings suggest a possible role of quantum fluctuations in superconductivity within quantum paraelectrics.
+
+[Phys. Rev. B 111, 054522] Published Wed Feb 26, 2025]]></summary>
+        <author>
+            <name>Stephen Zhang, Xianghan Xu, and R. J. Cava</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kolmogorov Scaling in Turbulent 2D Bose-Einstein Condensates]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.083402</id>
@@ -1251,58 +1303,6 @@ A circuit containing four superconducting devices called Josephson junctions can
 [Phys. Rev. X 15, 011021] Published Tue Feb 04, 2025]]></summary>
         <author>
             <name>L. Banszerus, C. W. Andersson, W. Marshall, T. Lindemann, M. J. Manfra, C. M. Marcus, and S. Vaitiekėnas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph-theoretical proof of nonintegrability in quantum many-body systems: Application to the PXP model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L081101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L081101"/>
-        <updated>2025-02-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): HaRu K. Park and SungBin Lee
-The Yang-Baxter method is a powerful tool for studying integrable systems, but proving whether a system possesses local conserved quantities remains challenging. Shiraishi’s proof of the XYZ model’s nonintegrability with a magnetic field inspired the authors’ demonstration of the PXP model’s nonintegrability, previously only conjectured via level statistics. As the PXP model is a key example of quantum many-body scars exhibiting exotic long-time behavior, the present work highlights that such behavior is unrelated to local conserved quantities and introduces a graph-theoretical approach, suggesting universality in nonintegrability proofs.
-
-[Phys. Rev. B 111, L081101] Published Tue Feb 04, 2025]]></summary>
-        <author>
-            <name>HaRu K. Park and SungBin Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optical manifestations and bounds of topological Euler class]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L081103</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L081103"/>
-        <updated>2025-02-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wojciech J. Jankowski, Arthur S. Morris, Adrien Bouhon, F. Nur Ünal, and Robert-Jan Slager
-The authors demonstrate here that multigap topological phases hosting an Euler invariant relate to quantum-geometric bounds. These bounds constrain optical weights and sizes of adjacent gaps. The results are validated upon recasting them as optical absorption rates and open up a route to determine experimentally the topological Euler class through momentum- and frequency-resolved measurements. Moreover, it is shown that a singular quantum geometry of topological Euler band nodes induces observable features, such as quantized optical conductivities.
-
-[Phys. Rev. B 111, L081103] Published Tue Feb 04, 2025]]></summary>
-        <author>
-            <name>Wojciech J. Jankowski, Arthur S. Morris, Adrien Bouhon, F. Nur Ünal, and Robert-Jan Slager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antiprotons and Elementary Particles over a Solar Cycle: Results from the Alpha Magnetic Spectrometer]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.051002</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.051002"/>
-        <updated>2025-02-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Aguilar et al. (AMS Collaboration)
-The spectrum of cosmic-ray antiprotons has been measured for a full solar cycle, which may allow a better understanding of the sources and transport mechanisms of these high-energy particles.
-
-[Phys. Rev. Lett. 134, 051002] Published Mon Feb 03, 2025]]></summary>
-        <author>
-            <name>M. Aguilar &lt;em&gt;et al.&lt;/em&gt; (AMS Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protocol dependence for avalanches under constant stress in elastoplastic models]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.024101</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.024101"/>
-        <updated>2025-02-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tristan Jocteur, Eric Bertin, Romain Mari, and Kirsten Martens
-Amorphous solids, for example glasses and granular materials, display intermittent plastic deformation events known as avalanches near the yielding transition. It is typically assumed that the characteristics of the avalanches do not depend on the driving protocol (e.g., controlling strain or stress). The two-dimensional simulations of an elastoplastic model presented in this study highlight the complex interplay between the initial elastic state, the driving protocol, and the dynamics of avalanche propagation, thus challenging the assumption of universality of the avalanche statistics.
-
-[Phys. Rev. E 111, 024101] Published Mon Feb 03, 2025]]></summary>
-        <author>
-            <name>Tristan Jocteur, Eric Bertin, Romain Mari, and Kirsten Martens</name>
         </author>
     </entry>
 </feed>
