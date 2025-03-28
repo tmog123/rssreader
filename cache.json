@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011071",
+          "author": "Mehmet T. Uysal, Łukasz Dusanowski, Haitong Xu, Sebastian P. Horvath, Salim Ourari, Robert J. Cava, Nathalie P. de Leon, and Jeff D. Thompson",
+          "description": "Author(s): Mehmet T. Uysal, Łukasz Dusanowski, Haitong Xu, Sebastian P. Horvath, Salim Ourari, Robert J. Cava, Nathalie P. de Leon, and Jeff D. Thompson\nExperiments with erbium ions show that they can be used to create entangled photons in the telecom band—an important step in building quantum repeaters.\n\n[Phys. Rev. X 15, 011071] Published Wed Mar 26, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevX.15.011071",
+          "publishedOn": "2025-03-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Spin-Photon Entanglement of a Single ${\\mathrm{Er}}^{3+}$ Ion in the Telecom Band",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.123804",
+          "author": "Cruz I. Velasco and F. Javier García de Abajo",
+          "description": "Author(s): Cruz I. Velasco and F. Javier García de Abajo\nStimulated Compton scattering uses light beams to compress free-electron pulses, an approach that bypasses the need for nanostructures.\n\n[Phys. Rev. Lett. 134, 123804] Published Wed Mar 26, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.123804",
+          "publishedOn": "2025-03-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Free-Space Optical Modulation of Free Electrons in the Continuous-Wave Regime",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.126503",
+          "author": "J. Maxwell Silvester, Giuseppe Carleo, and Steven R. White",
+          "description": "Author(s): J. Maxwell Silvester, Giuseppe Carleo, and Steven R. White\nHigh-energy contributions to the spectra of approximate ground states are a universal feature of matrix product states.\n\n[Phys. Rev. Lett. 134, 126503] Published Wed Mar 26, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.126503",
+          "publishedOn": "2025-03-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Unusual Energy Spectra of Matrix Product States",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.128303",
+          "author": "R. Sinaasappel, M. Fazelzadeh, T. Hooijschuur, Q. Di, S. Jabbari-Farouji, and A. Deblais",
+          "description": "Author(s): R. Sinaasappel, M. Fazelzadeh, T. Hooijschuur, Q. Di, S. Jabbari-Farouji, and A. Deblais\nT. Tubifex worms display active polymerlike behavior as they navigate complex environments.\n\n[Phys. Rev. Lett. 134, 128303] Published Wed Mar 26, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.128303",
+          "publishedOn": "2025-03-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Locomotion of Active Polymerlike Worms in Porous Media",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.L121202",
+          "author": "Evgeny Moerman, Henrique Miranda, Alejandro Gallo, Andreas Irmler, Tobias Schäfer, Felix Hummel, Manuel Engel, Georg Kresse, Matthias Scheffler, and Andreas Grüneis",
+          "description": "Author(s): Evgeny Moerman, Henrique Miranda, Alejandro Gallo, Andreas Irmler, Tobias Schäfer, Felix Hummel, Manuel Engel, Georg Kresse, Matthias Scheffler, and Andreas Grüneis\nCalculating with controllable accuracy electronic band gaps in materials is a challenge for currently available ab initio methods. Here, the authors present a hybrid approach that combines equation-of-motion coupled-cluster theory with the GW approximation to efficiently estimate band gaps for semiconductors and insulators in the thermodynamic limit. The method significantly reduces the computational cost, while showing that errors in predicted gaps correlate with the reduced single excitation character of many-electron states.\n\n[Phys. Rev. B 111, L121202] Published Wed Mar 26, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.L121202",
+          "publishedOn": "2025-03-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Exploring the accuracy of the equation-of-motion coupled-cluster band gap of solids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.034079",
+          "author": "Jason Saied, Jeffrey Marshall, Namit Anand, and Eleanor G. Rieffel",
+          "description": "Author(s): Jason Saied, Jeffrey Marshall, Namit Anand, and Eleanor G. Rieffel\nFault-tolerant linear optical quantum computation relies on interference between identical photons to generate entanglement. Unfortunately, photons in the lab tend to be partially distinguishable, generating less entanglement and causing unheralded errors. The authors introduce families of distillation schemes that use n-photon interference and postselection to filter out “bad” photons and reduce distinguishability by a factor of n, with resource costs scaling only linearly in n. Along the way, the team also resolves an open problem regarding n-mode Fourier interferometers, namely that the Zero Transmission Law characterizes all suppression if and only if n is a prime power.\n\n[Phys. Rev. Applied 23, 034079] Published Wed Mar 26, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.034079",
+          "publishedOn": "2025-03-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "General protocols for the efficient distillation of indistinguishable photons",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.L031201",
           "author": "Zhicheng Jiang, Zhengtai Liu, Chenqiang Hua, Xiangqi Liu, Yichen Yang, Jianyang Ding, Jiayu Liu, Jishan Liu, Mao Ye, Ji Dai, Massimo Tallarida, Yanfeng Guo, Yunhao Lu, and Dawei Shen",
           "description": "Author(s): Zhicheng Jiang, Zhengtai Liu, Chenqiang Hua, Xiangqi Liu, Yichen Yang, Jianyang Ding, Jiayu Liu, Jishan Liu, Mao Ye, Ji Dai, Massimo Tallarida, Yanfeng Guo, Yunhao Lu, and Dawei Shen\nChiral multifold fermions in topological semimetals host exotic quantum states, but their intuitive spectroscopic studies are often constrained by challenges in achieving high-quality surfaces. In this study, the authors employ high-resolution angle-resolved photoemission spectroscopy (ARPES) in combination with first-principles calculations to uncover multiple chiral Fermi arc surface states in the naturally cleavable topological semimetal PdSbSe. They provide direct spectroscopic evidence of multifold fermions and spin-split bulk bands, firmly establishing PdSbSe as a promising material platform for exploring topological chirality. Furthermore, the identification of high-order Chern numbers and robust surface states provides new insights into chiral electronic structures and paves the way for potential applications in topological quantum devices.\n\n[Phys. Rev. Materials 9, L031201] Published Tue Mar 25, 2025",
@@ -943,66 +1003,6 @@
           "publishedOn": "2025-03-10T10:00:00.000Z",
           "wordCount": null,
           "title": "Fractionalization signatures in the dynamics of quantum spin liquids",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.111.033106",
-          "author": "D. P. Hewatt, M. Ellmeier, C. Kiehl, T. S. Menon, J. W. Pollock, C. A. Regal, and S. Knappe",
-          "description": "Author(s): D. P. Hewatt, M. Ellmeier, C. Kiehl, T. S. Menon, J. W. Pollock, C. A. Regal, and S. Knappe\nThe authors present model as well as experimental results for free-induction-decay magnetometer accuracy in the presence of variable ground-state spin polarization, an important step in quantifying, reducing, or removing significant systematic shifts in finite-magnetic-field sensing. The techniques described in the paper are expected to significantly improve the accuracy of such sensors under limited optical power conditions.\n\n[Phys. Rev. A 111, 033106] Published Mon Mar 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.111.033106",
-          "publishedOn": "2025-03-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Investigating the hyperfine systematic error and relative phase in low-spin-polarization alkali-metal free-induction-decay magnetometers",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010117",
-          "author": "Yajun Wei, Yi Zhong, and Feipeng Pi",
-          "description": "Author(s): Yajun Wei, Yi Zhong, and Feipeng Pi\nWhile there is no difference for easy problem-solving tasks, for more difficult problem-solving tasks, pre-recorded video instruction is significantly less effective than live instruction.\n\n[Phys. Rev. Phys. Educ. Res. 21, 010117] Published Fri Mar 07, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010117",
-          "publishedOn": "2025-03-07T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Ineffectiveness of recorded video instruction for teaching complex content in secondary school physics classrooms",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.091801",
-          "author": "R. Abbasi <em>et al.</em> (IceCube Collaboration)",
-          "description": "Author(s): R. Abbasi et al. (IceCube Collaboration)\nStrong constraints from atmospheric neutrinos are placed on oscillation parameters using the DeepCore subdetector of the IceCube Neutrino Observatory.\n\n[Phys. Rev. Lett. 134, 091801] Published Fri Mar 07, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.091801",
-          "publishedOn": "2025-03-07T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Measurement of Atmospheric Neutrino Oscillation Parameters Using Convolutional Neural Networks with 9.3 Years of Data in IceCube DeepCore",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.093401",
-          "author": "L. Cavicchioli, C. Fort, F. Ancilotto, M. Modugno, F. Minardi, and A. Burchianti",
-          "description": "Author(s): L. Cavicchioli, C. Fort, F. Ancilotto, M. Modugno, F. Minardi, and A. Burchianti\nA single quantum droplet in a two-component bosonic mixture of ultracold atoms breaks up into multiple droplets, a behavior consistent with capillary instability.\n\n[Phys. Rev. Lett. 134, 093401] Published Fri Mar 07, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.093401",
-          "publishedOn": "2025-03-07T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dynamical Formation of Multiple Quantum Droplets in a Bose-Bose Mixture",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.096203",
-          "author": "Dongze Wang and Jun Gao",
-          "description": "Author(s): Dongze Wang and Jun Gao\nThe discovery of a mini aurora above a light-emitting polymer material reveals an electron-ejection process that might be useful in field-emission displays and material fabrication.\n\n[Phys. Rev. Lett. 134, 096203] Published Fri Mar 07, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.096203",
-          "publishedOn": "2025-03-07T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Auroralike Light from a Polymer $p\\text{−}n$ Junction Emitting Free Electrons",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.096903",
-          "author": "Miao-Ling Lin, Jiang-Bin Wu, Xue-Lu Liu, Tao Liu, Rui Mei, Heng Wu, Shan Guan, Jia-Liang Xie, Jun-Wei Luo, Lin-Wang Wang, Andrea C. Ferrari, and Ping-Heng Tan",
-          "description": "Author(s): Miao-Ling Lin, Jiang-Bin Wu, Xue-Lu Liu, Tao Liu, Rui Mei, Heng Wu, Shan Guan, Jia-Liang Xie, Jun-Wei Luo, Lin-Wang Wang, Andrea C. Ferrari, and Ping-Heng Tan\nLayered semiconductor multilayers can serve as photon-phonon cavities to enable wavevector matching between photon and standing waves of a layer-breathing phonon displacement field along the out-of-plane axis, leading to emergence of Raman forbidden layer-breathing modes.\n\n[Phys. Rev. Lett. 134, 096903] Published Fri Mar 07, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.096903",
-          "publishedOn": "2025-03-07T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Raman Forbidden Layer-Breathing Modes in Layered Semiconductor Materials Activated by Phonon and Optical Cavity Effects",
           "imageUrl": null
         }
       ]
