@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.121402",
+          "author": "Davide Gerosa, Viola De Renzis, Federica Tettoni, Matthew Mould, Alberto Vecchio, and Costantino Pacilio",
+          "description": "Author(s): Davide Gerosa, Viola De Renzis, Federica Tettoni, Matthew Mould, Alberto Vecchio, and Costantino Pacilio\nA semisupervised machine-learning approach based on constrained clustering could improve black-hole spin measurements from gravitational waves by 50%, and correct data features like multimodalities and nongaussianities.\n\n[Phys. Rev. Lett. 134, 121402] Published Fri Mar 28, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.121402",
+          "publishedOn": "2025-03-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Which Is Which? Identification of the Two Compact Objects in Gravitational-Wave Binaries",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.030502",
+          "author": "Qifu Wang, Jiaqi Zhang, David Bates, James J. Feng, Pengtao Yue, and Qianhong Wu",
+          "description": "Author(s): Qifu Wang, Jiaqi Zhang, David Bates, James J. Feng, Pengtao Yue, and Qianhong Wu\nRotation-induced traumatic brain injury is a serious health concern. We present a novel experimental and theoretical approach to studying fluid-structure interactions between soft matter and its liquid surroundings under rapid rotational impact. Our theoretical model, developed using the Arbitrary Lagrangian-Eulerian method, has been verified and validated against experimental data. This work establishes a strong foundation for future research into rotation-induced brain concussions, where the transient fluid-structure interaction between the cerebrospinal fluid and the soft brain matter plays a critical role in impact transmission and mitigation.\n\n[Phys. Rev. Fluids 10, 030502] Published Fri Mar 28, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevFluids.10.030502",
+          "publishedOn": "2025-03-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Fluid mechanical study of rotation-induced traumatic brain injury",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevA.111.033532",
+          "author": "Ryan Hamerly, Evan Laksono, Marc Jankowski, Edwin Ng, Noah Flemens, Myoung-Gyun Suh, and Hideo Mabuchi",
+          "description": "Author(s): Ryan Hamerly, Evan Laksono, Marc Jankowski, Edwin Ng, Noah Flemens, Myoung-Gyun Suh, and Hideo Mabuchi\nThe authors propose and analyze a new approach for generating tunable optical frequency combs using a single resonant optical parametric oscillator. The resulting design is a promising source for stable, broadband, widely tunable frequency combs, fully harnessing the strengths of the χ(2) nonlinearity.\n\n[Phys. Rev. A 111, 033532] Published Fri Mar 28, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevA.111.033532",
+          "publishedOn": "2025-03-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hybrid amplitude- and frequency-modulated mode locking of singly resonant optical parametric oscillators",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010126",
           "author": "Zhongzhou Chen and Tong Wan",
           "description": "Author(s): Zhongzhou Chen and Tong Wan\nChatGPT can approach human-level accuracy in grading physics problems, and can be enhanced with multiple trials and explaining the rubric.\n\n[Phys. Rev. Phys. Educ. Res. 21, 010126] Published Thu Mar 27, 2025",
@@ -973,36 +1003,6 @@
           "publishedOn": "2025-03-11T10:00:00.000Z",
           "wordCount": null,
           "title": "Microscopic theory of the Hubbard interaction in low-dimensional optical lattices",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevX.15.011052",
-          "author": "Jing Ding, Hanxiao Xiang, Jiannan Hua, Wenqiang Zhou, Naitian Liu, Le Zhang, Na Xin, Bing Wu, Kenji Watanabe, Takashi Taniguchi, Zdeněk Sofer, Wei Zhu, and Shuigang Xu",
-          "description": "Author(s): Jing Ding, Hanxiao Xiang, Jiannan Hua, Wenqiang Zhou, Naitian Liu, Le Zhang, Na Xin, Bing Wu, Kenji Watanabe, Takashi Taniguchi, Zdeněk Sofer, Wei Zhu, and Shuigang Xu\nMultilayer graphene can host quantum anomalous Hall states with edge currents controllable via an electric field, offering new possibilities for low-power electronics and quantum computing.\n\n[Phys. Rev. X 15, 011052] Published Mon Mar 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevX.15.011052",
-          "publishedOn": "2025-03-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Electric-Field Switchable Chirality in Rhombohedral Graphene Chern Insulators Stabilized by Tungsten Diselenide",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.106501",
-          "author": "Andreas Gleis, Seung-Sup B. Lee, Gabriel Kotliar, and Jan von Delft",
-          "description": "Author(s): Andreas Gleis, Seung-Sup B. Lee, Gabriel Kotliar, and Jan von Delft\nA two-site cellular dynamical mean-field theory calculation suggests that the Kondo-breakdown quantum critical point is a novel disorder-free strange-metal fixed point.\n\n[Phys. Rev. Lett. 134, 106501] Published Mon Mar 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.106501",
-          "publishedOn": "2025-03-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dynamical Scaling and Planckian Dissipation Due to Heavy-Fermion Quantum Criticality",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.106502",
-          "author": "Manato Fujimoto, Daniel E. Parker, Junkai Dong, Eslam Khalaf, Ashvin Vishwanath, and Patrick Ledwith",
-          "description": "Author(s): Manato Fujimoto, Daniel E. Parker, Junkai Dong, Eslam Khalaf, Ashvin Vishwanath, and Patrick Ledwith\nChern bands at zero magnetic field can have wave functions that share essential features with first Landau level, and are promising for realizing non-Abelian topological order.\n\n[Phys. Rev. Lett. 134, 106502] Published Mon Mar 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.106502",
-          "publishedOn": "2025-03-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Higher Vortexability: Zero-Field Realization of Higher Landau Levels",
           "imageUrl": null
         }
       ]
