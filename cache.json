@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.130403",
+          "author": "Laurens Lootens, Clement Delcamp, Dominic Williamson, and Frank Verstraete",
+          "description": "Author(s): Laurens Lootens, Clement Delcamp, Dominic Williamson, and Frank Verstraete\nDualities in one-dimensional quantum lattice models can be written as low depth quantum circuits.\n\n[Phys. Rev. Lett. 134, 130403] Published Fri Apr 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.130403",
+          "publishedOn": "2025-04-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Low-Depth Unitary Quantum Circuits for Dualities in One-Dimensional Quantum Lattice Models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.131602",
+          "author": "Yu Nakayama",
+          "description": "Author(s): Yu Nakayama\nA field theory with a quartic potential has not only one, but eight fixed points that are scale-invariant but not conformally invariant.\n\n[Phys. Rev. Lett. 134, 131602] Published Fri Apr 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.131602",
+          "publishedOn": "2025-04-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Parisi-Sourlas Supertranslation and Scale Invariance without Conformal Symmetry",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.044404",
+          "author": "José Camacho-Mateu, Aniello Lampo, Mario Castro, and José A. Cuesta",
+          "description": "Author(s): José Camacho-Mateu, Aniello Lampo, Mario Castro, and José A. Cuesta\nChallenging the conventional logistic model, this study shows that microbial growth follows a generalized θ-logistic model, accounting for environmental fluctuations. The findings show microbial growth is never sublinear, with significant implications for macroecological patterns and the mechanisms governing microbial ecosystem stability.\n#BiophysicsSpotlight #TimelyTopic #AdvancingField\n\n[Phys. Rev. E 111, 044404] Published Fri Apr 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.044404",
+          "publishedOn": "2025-04-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Microbial populations hardly ever grow logistically and never sublinearly",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.044010",
+          "author": "Renju R. Peroor, Lawrence A. Scafuri, Dmytro A. Bozhko, and Ezio Iacocca",
+          "description": "Author(s): Renju R. Peroor, Lawrence A. Scafuri, Dmytro A. Bozhko, and Ezio Iacocca\nArtificial spin ices (ASI) are geometric arrangements of magnetic nanoparticles that exhibit frustration, which can be reproduced at the macroscale using permanent magnets mounted on hinges. However, the dynamics of macroscopic ASIs are completely different, due to their coupled magnetic and mechanical degrees of freedom. Upon dynamic excitation, a macroscopic system enters a nonlinear regime leading to the emergence of a frequency comb: a spectrum of discrete, equally spaced frequency components. This phenomenon is attributed to a Hopf bifurcation. Perhaps similar nonlinear behaviors could be engineered in nanoscale ASIs by integrating microresonators.\n\n[Phys. Rev. Applied 23, 044010] Published Fri Apr 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.044010",
+          "publishedOn": "2025-04-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Frequency comb in a macroscopic mechanomagnetic artificial spin ice",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.044011",
+          "author": "Federico Grasselli, Giovanni Chesi, Nathan Walk, Hermann Kampermann, Adam Widomski, Maciej Ogrodnik, Michał Karpiński, Chiara Macchiavello, Dagmar Bruß, and Nikolai Wyderka",
+          "description": "Author(s): Federico Grasselli, Giovanni Chesi, Nathan Walk, Hermann Kampermann, Adam Widomski, Maciej Ogrodnik, Michał Karpiński, Chiara Macchiavello, Dagmar Bruß, and Nikolai Wyderka\nQuantum key distribution is a cornerstone of quantum secure communication, yet its real-world implementation remains a challenge. A critical vulnerability arises from basis-dependent detection probabilities, which can be exploited by an adversary. This study presents a rigorous security proof that relaxes the standard assumption of basis-independent detection probabilities, by developing a framework to quantify efficiency mismatches online and adjust the key rate accordingly. The approach ensures positive key rates in honest cases, detects and mitigates adversarial attacks that go unnoticed in conventional analyses, and shows how prior proofs may have been overly pessimistic.\n\n[Phys. Rev. Applied 23, 044011] Published Fri Apr 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.044011",
+          "publishedOn": "2025-04-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Quantum key distribution with basis-dependent detection probability",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.133801",
           "author": "Xu Zheng and Y. D. Chong",
           "description": "Author(s): Xu Zheng and Y. D. Chong\nA rigorous analysis of noise–nonlinearity interplay at exceptional points reveals new challenges for non-Hermitian sensing.\n\n[Phys. Rev. Lett. 134, 133801] Published Thu Apr 03, 2025",
@@ -953,56 +1003,6 @@
           "publishedOn": "2025-03-17T10:00:00.000Z",
           "wordCount": null,
           "title": "Mode-coupling formulation of heat transport in anharmonic materials",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.104420",
-          "author": "T. L. Breeze, B. M. Huddart, A. Hernández-Melián, N. P. Bentley, D. A. Mayoh, G. D. A. Wood, G. Balakrishnan, J. Wilkinson, F. L. Pratt, T. J. Hicken, S. J. Clark, and T. Lancaster",
-          "description": "Author(s): T. L. Breeze, B. M. Huddart, A. Hernández-Melián, N. P. Bentley, D. A. Mayoh, G. D. A. Wood, G. Balakrishnan, J. Wilkinson, F. L. Pratt, T. J. Hicken, S. J. Clark, and T. Lancaster\nNiI2 is a magnetic van der Waals material, noted for its multiferroic behaviour, which has recently been proposed to host a novel form of skyrmion phase in the 2D limit. The authors present here the results of muon spectroscopy (μ+SR) measurements with supporting density functional theory calculations that probe changes in dynamics around two magnetic phase transitions. The measurements reveal an unusual region of temperature-independent fluctuations in the intermediate phase, the onset of which is driven by a change in the material’s structural symmetry.\n\n[Phys. Rev. B 111, 104420] Published Mon Mar 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.104420",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Muon spectroscopy investigation of anomalous dynamic magnetism in ${\\mathrm{NiI}}_{2}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.104421",
-          "author": "Sebastian Sailler, Giacomo Sala, Denise Reustlen, Richard Schlitz, Min-Gu Kang, Pietro Gambardella, Sebastian T. B. Goennenwein, and Michaela Lammel",
-          "description": "Author(s): Sebastian Sailler, Giacomo Sala, Denise Reustlen, Richard Schlitz, Min-Gu Kang, Pietro Gambardella, Sebastian T. B. Goennenwein, and Michaela Lammel\nThe Hanle magnetoresistance (MR) can be utilized to probe the spin and orbital Hall activity of materials, such as Pt and Ti. However, isolating the Hanle MR from the ordinary MR is challenging as they coexist. The authors find here that high-resistance, low-crystallinity samples show a MR dominated by the Hanle MR, while more crystalline, low-resistance samples exhibit the ordinary MR. The Hanle MR’s strong dependence on crystallinity exceeds established scaling relations and is universal for both spin and orbital effects.\n\n[Phys. Rev. B 111, 104421] Published Mon Mar 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.104421",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Competing ordinary and Hanle magnetoresistance in Pt and Ti thin films",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.104422",
-          "author": "Zhong Shen, Xiaoyan Yao, and Shuai Dong",
-          "description": "Author(s): Zhong Shen, Xiaoyan Yao, and Shuai Dong\nTo effectively track and manipulate topological solitons, e.g.., skyrmions, is a key challenge before their application. Here, the authors propose a general strategy to print magnetic skyrmions to electric skyrmions in van der Waals bilayers. Through proximate interactions, there is an isoperiodic bijection between local dipoles and spin moments. This magnetoelectric imprint effect not only extends the strategies to create electric skyrmions, but also provides an approach for all-electrical readout/manipulation of magnetic skyrmions.\n\n[Phys. Rev. B 111, 104422] Published Mon Mar 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.104422",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Magnetoelectric imprint of skyrmions in van der Waals bilayers",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.104424",
-          "author": "Naoto Metoki, Hiroki Yamauchi, Masato Hagihala, Ryuta Watanuki, Seiko Kawamura, Maiko Kofu, Kenji Nakajima, and Masaaki Matsuda",
-          "description": "Author(s): Naoto Metoki, Hiroki Yamauchi, Masato Hagihala, Ryuta Watanuki, Seiko Kawamura, Maiko Kofu, Kenji Nakajima, and Masaaki Matsuda\nNdB4, under geometrical frustration with the Shastry-Sutherland lattice, shows unusual magnetic successive order with an induced magnetic c moment (mc). This induced mc is very small but increases very steeply with decreasing temperature. The f-electron states are clarified here from neutron scattering spectra, reproduced using a model Hamiltonian. The magnetic-quadrupole coupling is revealed to play an essential role. Usually, negligible interactions have a casting vote for the unusual ordered states under geometrical frustration, where strong Heisenberg interactions are canceled out.\n\n[Phys. Rev. B 111, 104424] Published Mon Mar 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.104424",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Magnetic and quadrupole coupling emerging in ${\\mathrm{NdB}}_{4}$ with geometrically frustrated orthogonal antiferromagnetic dimer",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.104506",
-          "author": "Kateryna Zatsarynna, Andrea Nava, Reinhold Egger, and Alex Zazunov",
-          "description": "Author(s): Kateryna Zatsarynna, Andrea Nava, Reinhold Egger, and Alex Zazunov\nThe authors present here a novel Green’s function approach to general quantum transport problems. This formalism is considerably simpler than a full-fledged Keldysh approach. The authors apply their approach to a study of the nonequilibrium dynamics of quantum dot Josephson junctions, exposed to an electromagnetic environment. Following a sudden quench of the average phase difference across the junction, two different types of quantum Mpemba effects are predicted to arise in these experimentally accessible open quantum systems over wide parameter regimes.\n\n[Phys. Rev. B 111, 104506] Published Mon Mar 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.104506",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Green's function approach to Josephson dot dynamics and application to quantum Mpemba effects",
           "imageUrl": null
         }
       ]
