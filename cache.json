@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.141001",
+          "author": "Joseph Bramante, Melissa D. Diamond, and J. Leo Kim",
+          "description": "Author(s): Joseph Bramante, Melissa D. Diamond, and J. Leo Kim\nCompact objects formed from dark matter could be detected by examining the dimming of background light when the dark objects pass across the line of sight with Earth.\n\n[Phys. Rev. Lett. 134, 141001] Published Tue Apr 08, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.141001",
+          "publishedOn": "2025-04-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Dimming Starlight with Dark Compact Objects",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.146001",
+          "author": "Lucas V. Pupim and Mathias S. Scheurer",
+          "description": "Author(s): Lucas V. Pupim and Mathias S. Scheurer\nArranging nonmagnetic atoms on the surface of an unconventional superconductor could induce a novel phenomenon called altermagnetic superconductivity.\n\n[Phys. Rev. Lett. 134, 146001] Published Tue Apr 08, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.146001",
+          "publishedOn": "2025-04-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Adatom Engineering Magnetic Order in Superconductors: Applications to Altermagnetic Superconductivity",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.134411",
+          "author": "Luciano Loris Viteritti, Riccardo Rende, Alberto Parola, Sebastian Goldt, and Federico Becca",
+          "description": "Author(s): Luciano Loris Viteritti, Riccardo Rende, Alberto Parola, Sebastian Goldt, and Federico Becca\nThe authors propose here a variational ansatz based on the Transformer architecture to investigate frustrated quantum magnets. The key idea is based on constructing a map, parametrized with a Transformer, from the space of the physical spin configurations to an abstract space, where the determination of the properties of the system is simplified. This method achieves an exceptionally accurate description of the ground-state properties of the Shastry-Sutherland model, successfully identifying the presence of a gapless quantum spin liquid phase.\n\n[Phys. Rev. B 111, 134411] Published Tue Apr 08, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.134411",
+          "publishedOn": "2025-04-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Transformer wave function for two dimensional frustrated magnets: Emergence of a spin-liquid phase in the Shastry-Sutherland model",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.155113",
+          "author": "Yi-Fan Qu, Martino Stefanini, Tao Shi, Tilman Esslinger, Sarang Gopalakrishnan, Jamir Marino, and Eugene Demler",
+          "description": "Author(s): Yi-Fan Qu, Martino Stefanini, Tao Shi, Tilman Esslinger, Sarang Gopalakrishnan, Jamir Marino, and Eugene Demler\nSimulating dissipative quantum many-body systems presents a significant theoretical challenge. Here, the authors develop an efficient nonperturbative framework that is tailored to dissipative impurity problems, combining a superposition of Gaussian states (SGS) variational ansatz with the quantum trajectory approach. They showcase the method with a model of a spinful impurity subject to two-body losses embedded in a fermionic bath, for which they explore the full crossover from weak to strong dissipation. Their approach captures the emergence of a loss-induced Kondo effect under strong dissipation, and reveals an exotic negative conductance phenomenon at intermediate loss rates.\n\n[Phys. Rev. B 111, 155113] Published Tue Apr 08, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.155113",
+          "publishedOn": "2025-04-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Variational approach to the dynamics of dissipative quantum impurity models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.155408",
+          "author": "Jack N. Engdahl, Harley D. Scammell, Dmitry K. Efimkin, and Oleg P. Sushkov",
+          "description": "Author(s): Jack N. Engdahl, Harley D. Scammell, Dmitry K. Efimkin, and Oleg P. Sushkov\nTwo-dimensional transition metal dichalcogenides have a large direct band gap that shrinks with electron doping, with a sharp reduction at low density. Here, the authors develop the theory of band gap renormalization from many-body screening within the random phase approximation, where they consider full dynamical screening in the imaginary frequency domain. This method is analytically convenient and numerically accurate, with the results reproducing the low density δD∼n1/3 behavior expected from analysis of the self-energy integral, and agreeing well with available experimental data. This technique may be easily extended to other two dimensional semiconductors.\n\n[Phys. Rev. B 111, 155408] Published Tue Apr 08, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.155408",
+          "publishedOn": "2025-04-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Theory of band gap reduction due to conduction electrons in two-dimensional transition metal dichalcogenides: Imaginary frequency formalism",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.L140304",
+          "author": "Katja Klobas, Colin Rylands, and Bruno Bertini",
+          "description": "Author(s): Katja Klobas, Colin Rylands, and Bruno Bertini\nThe authors study here how a system initialized in a non translationally symmetric initial state eventually becomes translationally invariant. They consider the average distance between the time-evolved state, and its translationally symmetric counterpart under the dynamics given by a brickwork circuit with randomly chosen local unitary gates. They find that the timescale for the restoration of translational symmetry coincides with the thermalization time, suggesting that the memory of initial state is not immediately lost, but rather persists until times comparable with the system size.\n\n[Phys. Rev. B 111, L140304] Published Tue Apr 08, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.L140304",
+          "publishedOn": "2025-04-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Translation symmetry restoration under random unitary dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.044019",
+          "author": "Yuriy Serov, Aidar Galimov, Dmitry S. Smirnov, Maxim Rakhlin, Nikita Leppenen, Grigorii Klimko, Sergey Sorokin, Irina Sedova, Daria Berezina, Yuliya Salii, Marina Kulagina, Yuriy Zadiranov, Sergey Troshkov, Tatiana V. Shubina, and Alexey A. Toropov",
+          "description": "Author(s): Yuriy Serov, Aidar Galimov, Dmitry S. Smirnov, Maxim Rakhlin, Nikita Leppenen, Grigorii Klimko, Sergey Sorokin, Irina Sedova, Daria Berezina, Yuliya Salii, Marina Kulagina, Yuriy Zadiranov, Sergey Troshkov, Tatiana V. Shubina, and Alexey A. Toropov\nMeasurement-based quantum computing, vital for scalable photonic quantum technologies, is limited by inefficient generation of high-fidelity cluster states from spin-photon entanglement in semiconductor quantum dots. This work explores the deep connections between quantum dot spin physics and quantum optics, leading to the discovery of strong anisotropy in the entanglement process and identification of optimal entanglement conditions to improve cluster-state fidelity. That insight enables improved cluster-state sources, advancing optical quantum computing and quantum networks.\n\n[Phys. Rev. Applied 23, 044019] Published Tue Apr 08, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.044019",
+          "publishedOn": "2025-04-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hidden anisotropy controls spin-photon entanglement in a charged quantum dot",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.142301",
           "author": "G. Aad <em>et al.</em> (ATLAS Collaboration)",
           "description": "Author(s): G. Aad et al. (ATLAS Collaboration)\nTop quarks and antiquarks have been detected in heavy-ion collisions at the Large Hadron Collider, showing that all six quark flavors were present in the Universe’s first moments.\n\n[Phys. Rev. Lett. 134, 142301] Published Mon Apr 07, 2025",
@@ -933,76 +1003,6 @@
           "publishedOn": "2025-03-18T10:00:00.000Z",
           "wordCount": null,
           "title": "Resonance broadening effects of weak turbulence on Earth's radiation belt electrons",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.111.034613",
-          "author": "Athanasios Stamatopoulos, Paul E. Koehler, Brad DiGiovine, Veronika Mocko, Artem Matyskin, Christiaan Vermeulen, Aaron Couture, Andrew Cooper, Jonathan Morrell, Ellen O'Brien, Dusan Kral, and John Ullmann",
-          "description": "Author(s): Athanasios Stamatopoulos, Paul E. Koehler, Brad DiGiovine, Veronika Mocko, Artem Matyskin, Christiaan Vermeulen, Aaron Couture, Andrew Cooper, Jonathan Morrell, Ellen O'Brien, Dusan Kral, and John Ullmann\nMeasuring how efficiently an isotope captures neutrons of various energies both confirms and refutes some surprising recent results.\n\n[Phys. Rev. C 111, 034613] Published Tue Mar 18, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.034613",
-          "publishedOn": "2025-03-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "First study of $^{88}\\mathrm{Zr}+n$ at DICER at LANSCE at energies up to 500 eV and relevance to explosive environments",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevC.111.L031301",
-          "author": "K. Sharma <em>et al.</em>",
-          "description": "Author(s): K. Sharma et al.\nHow shapes of heavy nuclei evolve as their valence nucleon shells are filled continues to be a nuclear physics research frontier. The authors populated high-spin isomers in very-neutron-rich A≈190 Hf-Ta-W nuclei with the pioneering fragmentation of a 198Pt primary beam at the NSCL. The collective level structure deduced from the subsequent γ decay of stopped isomeric fragments using the A1900 spectrometer and GRETINA array points to a sudden transition from axially prolate shapes in the lighter Ta isotopes to a strong triaxial shape for the 189Ta nucleus (Z=73, N=116; 8 neutrons more than stable 181Ta). The results suggest that the prolate-oblate shape boundary has been reached in this previously inaccessible region of neutron-rich nuclei. They are also an important experimental benchmark for nuclear theory to describe nuclear structure and shape evolution far from stability.\n\n[Phys. Rev. C 111, L031301] Published Tue Mar 18, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.L031301",
-          "publishedOn": "2025-03-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Reaching the prolate-oblate boundary at $N=116$ via first fragmentation of a $^{198}\\mathrm{Pt}$ beam: Sharp transition to triaxiality in $^{189}\\mathrm{Ta}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.115141",
-          "author": "Zhehao Zhang, Utkarsh Agrawal, and Sagar Vijay",
-          "description": "Author(s): Zhehao Zhang, Utkarsh Agrawal, and Sagar Vijay\nLong-range quantum entanglement can be distilled from certain symmetry-protected topological (STP) states of matter. Here, the authors investigate whether SPT states, subject to decoherence, can still be used for the transmission of coherent quantum information, and link this capability to quantum order in the resulting mixed quantum many-body states. This connection reveals new sources of decoherence which permit the use of SPT states as a resource for information transmission, offering new perspectives on entanglement distillation and on the resilience of mixed-state symmetry-protected order.\n\n[Phys. Rev. B 111, 115141] Published Tue Mar 18, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.115141",
-          "publishedOn": "2025-03-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quantum communication and mixed-state order in decohered symmetry-protected topological states",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.28.031002",
-          "author": "M. G. Signorelli and G. H. Hoffstaetter",
-          "description": "Author(s): M. G. Signorelli and G. H. Hoffstaetter\nWe present a novel method to minimize radiative depolarization in electron storage rings. Groups of vertical orbit bumps are constructed that achieve simultaneous polarization, orbit, and optics control, motivating the name “Best Adjustment Groups for ELectron Spin” (BAGELS). Applied in simulations of the 18 GeV Electron Storage Ring of the Electron-Ion Collider, BAGELS increases the asymptotic polarization by nearly 2x in the 1 interaction point case and over 3x in the 2-IP case. BAGELS is also used to construct knobs for global coupling correction and for generating a vertical beam size match at the IP, with minimal impacts on the polarization, orbit, and optics.\n\n[Phys. Rev. Accel. Beams 28, 031002] Published Tue Mar 18, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevAccelBeams.28.031002",
-          "publishedOn": "2025-03-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "BAGELS for simultaneous polarization, orbit, and optics control in electron storage rings",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevResearch.7.013279",
-          "author": "Kristian Blom, Dmitrii E. Makarov, and Aljaž Godec",
-          "description": "Author(s): Kristian Blom, Dmitrii E. Makarov, and Aljaž Godec\nThe Bennati-Dragulescu-Yakovenko asset-exchange model is studied in the presence of probabilistic cheaters that can falsely claim they are bankrupt. It is shown how the presence of such (hidden) cheaters can be inferred from the variance of the overall wealth distribution and that there exists a critical cheating probability at which the money owned by a small pool of cheaters undergoes a second-order discontinuity.\n\n[Phys. Rev. Research 7, 013279] Published Mon Mar 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevResearch.7.013279",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Hallmarks of deception in asset-exchange models",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.035402",
-          "author": "Jingxuan Ding, Md Towhidur Rahman, Chengjie Mao, Jennifer L. Niedziela, Dipanshu Bansal, Andrew F. May, Douglas L. Abernathy, Yang Ren, Alexandra Zevalkink, and Olivier Delaire",
-          "description": "Author(s): Jingxuan Ding, Md Towhidur Rahman, Chengjie Mao, Jennifer L. Niedziela, Dipanshu Bansal, Andrew F. May, Douglas L. Abernathy, Yang Ren, Alexandra Zevalkink, and Olivier Delaire\nThis work explores the atomic dynamics in layered chalcogenides (Ag,Cu)Cr(S,Se)2 across magnetic and superionic transitions. Combining neutron and x-ray scattering with first-principles simulations, the authors find low-energy vibration modes (phonons) with very strong anharmonicity, reflecting the weak bonding of the intercalated Cu or Ag ions vibrating in shallow potential energy wells. Upon warming, the Cu or Ag ions easily hop between two sublattices and the associated phonon modes break down into a quasielastic response. Because the Cr-Se crystalline framework remains robust, however, the long-wavelength transverse and longitudinal acoustic phonons do persist in the superionic phase. This work also examines the coupling between lattice dynamics and antiferromagnetic ordering in AgCrS2, and finds that magnetic quasielastic scattering in the paramagnetic phase is well separated from nuclear quasielastic associated with fast ionic diffusion. This work offers insights to guide the design of thermoelectric and electrolyte materials.\n\n[Phys. Rev. Materials 9, 035402] Published Mon Mar 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevMaterials.9.035402",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Atomic dynamics in $M\\mathrm{Cr}{X}_{2}$ $(M=\\mathrm{Ag},\\mathrm{Cu};X=\\mathrm{S},\\mathrm{Se})$ across magnetic and superionic transitions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.112701",
-          "author": "M. Williams <em>et al.</em>",
-          "description": "Author(s): M. Williams et al.\nThe first measurement of a weak r-process reaction on a radioactive nucleus was made possible by novel solid helium targets.\n\n[Phys. Rev. Lett. 134, 112701] Published Mon Mar 17, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.112701",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "First Measurement of a Weak $r$-Process Reaction on a Radioactive Nucleus",
           "imageUrl": null
         }
       ]
