@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010141",
+          "author": "Kristin Kellar and Paula Heron",
+          "description": "Author(s): Kristin Kellar and Paula Heron\nThis study builds on previous research to distinguish between students’ errors caused by conceptual misunderstandings and those driven by intuitive reasoning, using Frederick’s Cognitive Reflection Test to support dual-process theories of student reasoning.\n\n[Phys. Rev. Phys. Educ. Res. 21, 010141] Published Mon Apr 21, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010141",
+          "publishedOn": "2025-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Distinguishing between students’ conceptual understanding and reasoning approaches: An application of dual-process theories",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.044315",
+          "author": "Riccardo Aldrigo, Roberto Menichetti, and Raffaello Potestio",
+          "description": "Author(s): Riccardo Aldrigo, Roberto Menichetti, and Raffaello Potestio\nUnderstanding the complex behavior of biological neural networks is hampered by their large size and intricate nature. To tackle such systems, simplified and computationally manageable models are often employed that aim at capturing specific aspects of neural activity, one notable example being the Hopfield model. This study uses an information-theoretic method, mapping entropy optimization workflow, in the Hopfield model to identify and characterize subsets of constituent neurons that provide significant information about the entire system’s behavior, given only the time series of the neural network states.\n#WellStructured #Interdisciplinary\n\n[Phys. Rev. E 111, 044315] Published Mon Apr 21, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.044315",
+          "publishedOn": "2025-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Low-resolution descriptions of model neural activity reveal hidden features and underlying system properties",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.L161302",
+          "author": "Zu-En Su, Dan Cogan, Ido Schwartz, Ayal Beck, and David Gershoni",
+          "description": "Author(s): Zu-En Su, Dan Cogan, Ido Schwartz, Ayal Beck, and David Gershoni\nQuantum dots host short- and long-lived bright and dark excitons (DEs). The long-lived DEs form coherent integer-spin qubits that can be written, controlled, read, and reset using single picosecond optical pulses. These qubits enable the deterministic generation of multi-entangled photon clusters, crucial for quantum communication. With nondegenerate eigenstates, DEs exhibit a natural precession in their coherent superposition, which can challenge qubit control. The authors present here experimental and theoretical methods to reduce and eliminate this precession, while discovering the polarization of this optically inactive qubit.\n\n[Phys. Rev. B 111, L161302] Published Mon Apr 21, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.L161302",
+          "publishedOn": "2025-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Eliminating the confined dark-exciton qubit precession using an externally applied magnetic field",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.044044",
+          "author": "S. Mirzaei-Ghormish and Ryan M. Camacho",
+          "description": "Author(s): S. Mirzaei-Ghormish and Ryan M. Camacho\nOptical binding, the light-induced self-organization of particles, is essential in levitated optomechanics, nanomaterials, and quantum optics. Conventional models are limited to linear optical interactions, though, and lack tunable mechanisms for trap stabilization or reconfiguration that do not involve moving the optical fields themselves. This work develops a theory of nonlinear optical binding that produces surprising equilibrium configurations, tunable trap periodicities, and enhanced stability at subwavelength separations, with no beam shaping or external fields. These results may provide a concrete pathway for power-controlled particle assembly and programmable optical matter.\n\n[Phys. Rev. Applied 23, 044044] Published Mon Apr 21, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevApplied.23.044044",
+          "publishedOn": "2025-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Nonlinear optical binding",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.151006",
           "author": "Xiran Bai, M. J. Jewell, J. Echevers, K. van Bibber, A. Droster, Maryam H. Esmat, Sumita Ghosh, Eleanor Graham, H. Jackson, Claire Laffan, S. K. Lamoreaux, A. F. Leder, K. W. Lehnert, S. M. Lewis, R. H. Maruyama, R. D. Nath, N. M. Rapidis, E. P. Ruddy, M. Silva-Feaver, M. Simanovskaia, Sukhman Singh, D. H. Speller, Sabrina Zacarias, and Yuqi Zhu (HAYSTAC Collaboration)",
           "description": "Author(s): Xiran Bai, M. J. Jewell, J. Echevers, K. van Bibber, A. Droster, Maryam H. Esmat, Sumita Ghosh, Eleanor Graham, H. Jackson, Claire Laffan, S. K. Lamoreaux, A. F. Leder, K. W. Lehnert, S. M. Lewis, R. H. Maruyama, R. D. Nath, N. M. Rapidis, E. P. Ruddy, M. Silva-Feaver, M. Simanovskaia, Sukhman Singh, D. H. Speller, Sabrina Zacarias, and Yuqi Zhu (HAYSTAC Collaboration)\nThe HAYSTAC squeezed-state receiver is used to exclude axion-dark-matter parameter space down to benchmark models over a range of about 2 μeV in axion mass.\n\n[Phys. Rev. Lett. 134, 151006] Published Fri Apr 18, 2025",
@@ -963,46 +1003,6 @@
           "publishedOn": "2025-03-31T10:00:00.000Z",
           "wordCount": null,
           "title": "Observation of Nonaxisymmetric Standard Magnetorotational Instability Induced by a Free-Shear Layer",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.136701",
-          "author": "Yue Chen, Haoran Chen, Xi Shen, Weizhao Chen, Yi Liu, Yizheng Wu, and Zhe Yuan",
-          "description": "Author(s): Yue Chen, Haoran Chen, Xi Shen, Weizhao Chen, Yi Liu, Yizheng Wu, and Zhe Yuan\nA strong thickness-dependent Gilbert damping oscillation in ultrathin Fe films suggests an effective way of tuning bands by doping or gating.\n\n[Phys. Rev. Lett. 134, 136701] Published Mon Mar 31, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.136701",
-          "publishedOn": "2025-03-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Orbital-Excitation-Dominated Magnetization Dissipation and Quantum Oscillation of Gilbert Damping in Fe Films",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.137401",
-          "author": "Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri",
-          "description": "Author(s): Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri\nA new study of complex systems supports a growing trend that focuses more on analyzing a system’s collective behavior rather than on trying to uncover the underlying interaction mechanisms.\n\n[Phys. Rev. Lett. 134, 137401] Published Mon Mar 31, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.137401",
-          "publishedOn": "2025-03-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Synergistic Signatures of Group Mechanisms in Higher-Order Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevD.111.L061903",
-          "author": "Silvia Nagy, Javier Peraza, and Giorgio Pizzolo",
-          "description": "Author(s): Silvia Nagy, Javier Peraza, and Giorgio Pizzolo\nIn recent years, surprising connections between soft theorems for scattering amplitudes with one or more low-energy particles and asymptotic symmetries have emerged. Here, the authors extend the phase space of Yang-Mills theory by introducing an auxiliary (generalized Stückelberg) field, which allows them to formulate asymptotic symmetries of large gauge transformations (gauge transformations that do not vanish at infinity or the boundary), as well as the corresponding soft theorems to all orders in the low-energy expansion. Remarkably, the procedure works independently of gauge and coordinate choices, and of several usual assumptions.\n\n[Phys. Rev. D 111, L061903] Published Mon Mar 31, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevD.111.L061903",
-          "publishedOn": "2025-03-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "General hierarchy of charges at null infinity via the Todd polynomials",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.115161",
-          "author": "Rui Wen and Andrew C. Potter",
-          "description": "Author(s): Rui Wen and Andrew C. Potter\nClassifying gapless phases of matter remains a fundamental challenge in condensed matter theory. The authors pioneer here a systematic classification of 1+1D bosonic gapless symmetry-protected topological phases via the Symmetry Topological Field Theory (SymTFT) framework. They derive, from physical considerations, the algebra of symmetry operators in a 1+1D bosonic gSPT and show that it precisely matches the structure of condensable algebras in the SymTFT. This study marks the first systematic classification of gapless quantum phases in the SymTFT paradigm.\n\n[Phys. Rev. B 111, 115161] Published Mon Mar 31, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.115161",
-          "publishedOn": "2025-03-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Classification of $1+1\\mathrm{D}$ gapless symmetry protected phases via topological holography",
           "imageUrl": null
         }
       ]
