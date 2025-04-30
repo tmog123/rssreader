@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T01:08:03.888Z</id>
+    <id>urn:2025-04-30T01:08:30.825Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T01:08:03.888Z</updated>
+    <updated>2025-04-30T01:08:30.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Current-Driven Collective Control of Helical Spin Texture in van der Waals Antiferromagnet]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.176701</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.176701"/>
+        <updated>2025-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kai-Xuan Zhang, Suik Cheon, Hyuncheol Kim, Pyeongjae Park, Yeochan An, Suhan Son, Jingyuan Cui, Jihoon Keum, Joonyoung Choi, Younjung Jo, Hwiin Ju, Jong-Seok Lee, Youjin Lee, Maxim Avdeev, Armin Kleibert, Hyun-Woo Lee, and Je-Geun Park
+The demonstration that helical spin arrangements can be manipulated using electric currents holds promise for spin-based electronics.
+
+[Phys. Rev. Lett. 134, 176701] Published Tue Apr 29, 2025]]></summary>
+        <author>
+            <name>Kai-Xuan Zhang, Suik Cheon, Hyuncheol Kim, Pyeongjae Park, Yeochan An, Suhan Son, Jingyuan Cui, Jihoon Keum, Joonyoung Choi, Younjung Jo, Hwiin Ju, Jong-Seok Lee, Youjin Lee, Maxim Avdeev, Armin Kleibert, Hyun-Woo Lee, and Je-Geun Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonanalytic Landau functionals shaping the finite-size scaling of fluctuations and response functions in and out of equilibrium]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.044142</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.044142"/>
+        <updated>2025-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Krzysztof Ptaszyński and Massimiliano Esposito
+Landau theory describes phase transitions in terms of a free energy that is a functional of an order parameter. A common assumption is that this functional is analytic, but it can be expanded to include nonanalytic terms. Here the authors show for two specific examples that such terms can control the scaling of quantities such as the fluctuations of the order parameter at the critical point.
+#UniversalBehavior #ClassicalProblem
+
+[Phys. Rev. E 111, 044142] Published Tue Apr 29, 2025]]></summary>
+        <author>
+            <name>Krzysztof Ptaszyński and Massimiliano Esposito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified theoretical framework for wide neural network learning dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.045310</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.045310"/>
+        <updated>2025-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yehonatan Avidan, Qianyi Li, and Haim Sompolinsky
+Drawing upon methods from out-of-equilibrium statistical mechanics, the authors develop an exact analytical theory of learning dynamics in wide deep neural networks, unifying two previously disparate approaches: the Neural Tangent Kernel and the Neural Network Gaussian Process. They arrive at a novel time-dependent kernel, the Neural Dynamical Kernel. They identify two distinct learning phases, one characterized by deterministic minimization of the training error, followed by stochastic exploration of the solution subspace, ultimately converging to Gibbs equilibrium. The results reveal the mechanisms that enable neural networks to maintain robust performance despite noise.
+#LandmarkContribution #MachineLearningSpotlight
+
+[Phys. Rev. E 111, 045310] Published Tue Apr 29, 2025]]></summary>
+        <author>
+            <name>Yehonatan Avidan, Qianyi Li, and Haim Sompolinsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implications of the cosmic calibration tension beyond ${H}_{0}$ and the synergy between early- and late-time new physics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.111.083552</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.111.083552"/>
+        <updated>2025-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Vivian Poulin, Tristan L. Smith, Rodrigo Calderón, and Théo Simon
+The cosmic calibration tension is a statistically significant mismatch between the BAO and SN1a distance ladders, possibly indicating deviations from the ΛCDM framework. Resolving the tension demands new physics and a broader approach — either focused on a targeted modification of the pre-recombination expansion history, or to a wider change affecting multiple cosmic epochs.
+
+[Phys. Rev. D 111, 083552] Published Tue Apr 29, 2025]]></summary>
+        <author>
+            <name>Vivian Poulin, Tristan L. Smith, Rodrigo Calderón, and Théo Simon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What makes digital learning effective? Evaluation of a digital learning module about positron emission tomography]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010143</id>
@@ -1256,58 +1310,6 @@ The authors present an insightful study on the quench dynamics in weakly interac
 [Phys. Rev. A 111, 043304] Published Wed Apr 09, 2025]]></summary>
         <author>
             <name>Shion Yamashika, Pasquale Calabrese, and Filiberto Ares</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penning-trap mass measurement of $^{3}\mathrm{He}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.111.L040801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.111.L040801"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): O. Bezrodnova, S. Sasidharan, W. Quint, S. Sturm, and K. Blaum
-The authors experimentally determine the atomic mass of 3He to 12-parts-per-trillion relative precision from the measurement of the cyclotron frequency ratio of 3He+ and 12C4+ in a Penning trap. The result resolves discrepancies in the reported masses of light atomic nuclei from previous experiments.
-
-[Phys. Rev. A 111, L040801] Published Wed Apr 09, 2025]]></summary>
-        <author>
-            <name>O. Bezrodnova, S. Sasidharan, W. Quint, S. Sturm, and K. Blaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dimming Starlight with Dark Compact Objects]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.141001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.141001"/>
-        <updated>2025-04-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Joseph Bramante, Melissa D. Diamond, and J. Leo Kim
-Compact objects formed from dark matter could be detected by examining the dimming of background light when the dark objects pass across the line of sight with Earth.
-
-[Phys. Rev. Lett. 134, 141001] Published Tue Apr 08, 2025]]></summary>
-        <author>
-            <name>Joseph Bramante, Melissa D. Diamond, and J. Leo Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adatom Engineering Magnetic Order in Superconductors: Applications to Altermagnetic Superconductivity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.146001</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.146001"/>
-        <updated>2025-04-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Lucas V. Pupim and Mathias S. Scheurer
-Arranging nonmagnetic atoms on the surface of an unconventional superconductor could induce a novel phenomenon called altermagnetic superconductivity.
-
-[Phys. Rev. Lett. 134, 146001] Published Tue Apr 08, 2025]]></summary>
-        <author>
-            <name>Lucas V. Pupim and Mathias S. Scheurer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformer wave function for two dimensional frustrated magnets: Emergence of a spin-liquid phase in the Shastry-Sutherland model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.134411</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.134411"/>
-        <updated>2025-04-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Luciano Loris Viteritti, Riccardo Rende, Alberto Parola, Sebastian Goldt, and Federico Becca
-The authors propose here a variational ansatz based on the Transformer architecture to investigate frustrated quantum magnets. The key idea is based on constructing a map, parametrized with a Transformer, from the space of the physical spin configurations to an abstract space, where the determination of the properties of the system is simplified. This method achieves an exceptionally accurate description of the ground-state properties of the Shastry-Sutherland model, successfully identifying the presence of a gapless quantum spin liquid phase.
-
-[Phys. Rev. B 111, 134411] Published Tue Apr 08, 2025]]></summary>
-        <author>
-            <name>Luciano Loris Viteritti, Riccardo Rende, Alberto Parola, Sebastian Goldt, and Federico Becca</name>
         </author>
     </entry>
 </feed>

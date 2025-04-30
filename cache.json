@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.176701",
+          "author": "Kai-Xuan Zhang, Suik Cheon, Hyuncheol Kim, Pyeongjae Park, Yeochan An, Suhan Son, Jingyuan Cui, Jihoon Keum, Joonyoung Choi, Younjung Jo, Hwiin Ju, Jong-Seok Lee, Youjin Lee, Maxim Avdeev, Armin Kleibert, Hyun-Woo Lee, and Je-Geun Park",
+          "description": "Author(s): Kai-Xuan Zhang, Suik Cheon, Hyuncheol Kim, Pyeongjae Park, Yeochan An, Suhan Son, Jingyuan Cui, Jihoon Keum, Joonyoung Choi, Younjung Jo, Hwiin Ju, Jong-Seok Lee, Youjin Lee, Maxim Avdeev, Armin Kleibert, Hyun-Woo Lee, and Je-Geun Park\nThe demonstration that helical spin arrangements can be manipulated using electric currents holds promise for spin-based electronics.\n\n[Phys. Rev. Lett. 134, 176701] Published Tue Apr 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.176701",
+          "publishedOn": "2025-04-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Current-Driven Collective Control of Helical Spin Texture in van der Waals Antiferromagnet",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.044142",
+          "author": "Krzysztof Ptaszyński and Massimiliano Esposito",
+          "description": "Author(s): Krzysztof Ptaszyński and Massimiliano Esposito\nLandau theory describes phase transitions in terms of a free energy that is a functional of an order parameter. A common assumption is that this functional is analytic, but it can be expanded to include nonanalytic terms. Here the authors show for two specific examples that such terms can control the scaling of quantities such as the fluctuations of the order parameter at the critical point.\n#UniversalBehavior #ClassicalProblem\n\n[Phys. Rev. E 111, 044142] Published Tue Apr 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.044142",
+          "publishedOn": "2025-04-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Nonanalytic Landau functionals shaping the finite-size scaling of fluctuations and response functions in and out of equilibrium",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.045310",
+          "author": "Yehonatan Avidan, Qianyi Li, and Haim Sompolinsky",
+          "description": "Author(s): Yehonatan Avidan, Qianyi Li, and Haim Sompolinsky\nDrawing upon methods from out-of-equilibrium statistical mechanics, the authors develop an exact analytical theory of learning dynamics in wide deep neural networks, unifying two previously disparate approaches: the Neural Tangent Kernel and the Neural Network Gaussian Process. They arrive at a novel time-dependent kernel, the Neural Dynamical Kernel. They identify two distinct learning phases, one characterized by deterministic minimization of the training error, followed by stochastic exploration of the solution subspace, ultimately converging to Gibbs equilibrium. The results reveal the mechanisms that enable neural networks to maintain robust performance despite noise.\n#LandmarkContribution #MachineLearningSpotlight\n\n[Phys. Rev. E 111, 045310] Published Tue Apr 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.045310",
+          "publishedOn": "2025-04-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Unified theoretical framework for wide neural network learning dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/PhysRevD.111.083552",
+          "author": "Vivian Poulin, Tristan L. Smith, Rodrigo Calderón, and Théo Simon",
+          "description": "Author(s): Vivian Poulin, Tristan L. Smith, Rodrigo Calderón, and Théo Simon\nThe cosmic calibration tension is a statistically significant mismatch between the BAO and SN1a distance ladders, possibly indicating deviations from the ΛCDM framework. Resolving the tension demands new physics and a broader approach — either focused on a targeted modification of the pre-recombination expansion history, or to a wider change affecting multiple cosmic epochs.\n\n[Phys. Rev. D 111, 083552] Published Tue Apr 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/PhysRevD.111.083552",
+          "publishedOn": "2025-04-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Implications of the cosmic calibration tension beyond ${H}_{0}$ and the synergy between early- and late-time new physics",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010143",
           "author": "Panagiota Chatzidaki, Urban Eriksson, Sarah Zoechling, Sascha Schmeling, and Tobias Fredlund",
           "description": "Author(s): Panagiota Chatzidaki, Urban Eriksson, Sarah Zoechling, Sascha Schmeling, and Tobias Fredlund\nThe article provides evidence-based recommendations in the form of a set of effective design principles that can be used as tools for evaluating and designing digital learning modules.\n\n[Phys. Rev. Phys. Educ. Res. 21, 010143] Published Mon Apr 28, 2025",
@@ -963,46 +1003,6 @@
           "publishedOn": "2025-04-09T10:00:00.000Z",
           "wordCount": null,
           "title": "Quenching from superfluid to free bosons in two dimensions: Entanglement, symmetries, and the quantum Mpemba effect",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevA.111.L040801",
-          "author": "O. Bezrodnova, S. Sasidharan, W. Quint, S. Sturm, and K. Blaum",
-          "description": "Author(s): O. Bezrodnova, S. Sasidharan, W. Quint, S. Sturm, and K. Blaum\nThe authors experimentally determine the atomic mass of 3He to 12-parts-per-trillion relative precision from the measurement of the cyclotron frequency ratio of 3He+ and 12C4+ in a Penning trap. The result resolves discrepancies in the reported masses of light atomic nuclei from previous experiments.\n\n[Phys. Rev. A 111, L040801] Published Wed Apr 09, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevA.111.L040801",
-          "publishedOn": "2025-04-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Penning-trap mass measurement of $^{3}\\mathrm{He}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.141001",
-          "author": "Joseph Bramante, Melissa D. Diamond, and J. Leo Kim",
-          "description": "Author(s): Joseph Bramante, Melissa D. Diamond, and J. Leo Kim\nCompact objects formed from dark matter could be detected by examining the dimming of background light when the dark objects pass across the line of sight with Earth.\n\n[Phys. Rev. Lett. 134, 141001] Published Tue Apr 08, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.141001",
-          "publishedOn": "2025-04-08T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dimming Starlight with Dark Compact Objects",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.146001",
-          "author": "Lucas V. Pupim and Mathias S. Scheurer",
-          "description": "Author(s): Lucas V. Pupim and Mathias S. Scheurer\nArranging nonmagnetic atoms on the surface of an unconventional superconductor could induce a novel phenomenon called altermagnetic superconductivity.\n\n[Phys. Rev. Lett. 134, 146001] Published Tue Apr 08, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.146001",
-          "publishedOn": "2025-04-08T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Adatom Engineering Magnetic Order in Superconductors: Applications to Altermagnetic Superconductivity",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevB.111.134411",
-          "author": "Luciano Loris Viteritti, Riccardo Rende, Alberto Parola, Sebastian Goldt, and Federico Becca",
-          "description": "Author(s): Luciano Loris Viteritti, Riccardo Rende, Alberto Parola, Sebastian Goldt, and Federico Becca\nThe authors propose here a variational ansatz based on the Transformer architecture to investigate frustrated quantum magnets. The key idea is based on constructing a map, parametrized with a Transformer, from the space of the physical spin configurations to an abstract space, where the determination of the properties of the system is simplified. This method achieves an exceptionally accurate description of the ground-state properties of the Shastry-Sutherland model, successfully identifying the presence of a gapless quantum spin liquid phase.\n\n[Phys. Rev. B 111, 134411] Published Tue Apr 08, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevB.111.134411",
-          "publishedOn": "2025-04-08T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Transformer wave function for two dimensional frustrated magnets: Emergence of a spin-liquid phase in the Shastry-Sutherland model",
           "imageUrl": null
         }
       ]
