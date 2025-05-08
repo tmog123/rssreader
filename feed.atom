@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T01:09:34.927Z</id>
+    <id>urn:2025-05-08T01:10:05.678Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T01:09:34.927Z</updated>
+    <updated>2025-05-08T01:10:05.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Acoustic response of molecular adsorption and sound propagation in nanoporous materials]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.9.056001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.9.056001"/>
+        <updated>2025-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Loriane Didier, Alan Sam, Rodolfo Venegas, and Benoit Coasne
+Molecular simulation and statistical mechanics are used to unravel the microscopic mechanisms through which fluid adsorption impacts sound propagation and attenuation in nanoporous materials. By considering different fluids, temperatures, and fluid-solid interaction strengths, the authors first derive a simple model that predicts the decay in the sound velocity upon increasing the fluid mass density. They also show that sound attenuation increases with the amount of fluid adsorbed and with the solid-fluid interaction strength due to phonon scattering at the fluid-solid interface. The authors establish that all data can be quantitatively rationalized by considering the change in the phonon lifetime through an additional relaxation time arising from the interaction between fluid molecules and the atoms of the nanoporous solid.
+
+[Phys. Rev. Materials 9, 056001] Published Wed May 07, 2025]]></summary>
+        <author>
+            <name>Loriane Didier, Alan Sam, Rodolfo Venegas, and Benoit Coasne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$X$-Point Target Radiator Regime in Tokamak Divertor Plasmas]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.185102</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.185102"/>
+        <updated>2025-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): K. Lee, C. Theiler, M. Carpita, O. Février, A. Perek, M. Zurita, D. Brida, R. Ducker, G. Durr-Legoupil-Nicoud, B. P. Duval, S. Gorno, D. Hamm, D. S. Oliveira, F. Pastore, M. Pedrini, H. Reimerdes, L. Simons, E. Tonello, K. Verhaegh, Y. Wang, and C. Wüthrich (the TCV Team and the EUROfusion Tokamak Exploitation Team)
+Fusion reactor experiments in Switzerland have demonstrated a new way to remove unwanted heat from a magnetically confined plasma.
+
+[Phys. Rev. Lett. 134, 185102] Published Wed May 07, 2025]]></summary>
+        <author>
+            <name>K. Lee, C. Theiler, M. Carpita, O. Février, A. Perek, M. Zurita, D. Brida, R. Ducker, G. Durr-Legoupil-Nicoud, B. P. Duval, S. Gorno, D. Hamm, D. S. Oliveira, F. Pastore, M. Pedrini, H. Reimerdes, L. Simons, E. Tonello, K. Verhaegh, Y. Wang, and C. Wüthrich (the TCV Team and the EUROfusion Tokamak Exploitation Team)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active-Hydraulic Flows Solve the Six-Vertex Model (and Vice Versa)]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.188302</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.188302"/>
+        <updated>2025-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Camille Jorge and Denis Bartolo
+Researchers demonstrate an active-fluid system whose behaviors map directly to predictions of the six-vertex model—an exactly solvable model that was originally developed to explain the behavior of ice.
+
+[Phys. Rev. Lett. 134, 188302] Published Wed May 07, 2025]]></summary>
+        <author>
+            <name>Camille Jorge and Denis Bartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Causality constraints on radiative transfer]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.111.103011</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.111.103011"/>
+        <updated>2025-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): L. Gavassino
+The author discusses causality constraints on radiative transfers in hydrodynamics. Causality imposes stringent constraints on the transport coefficients. The author proposes a relativistic hydrodynamical model of radiative transfer, proving that it is causal and covariantly stable, whence it is shown that the transport coefficients are within the so called hydrohedron bounds.
+
+[Phys. Rev. D 111, 103011] Published Wed May 07, 2025]]></summary>
+        <author>
+            <name>L. Gavassino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Physics demonstrations, science show, or hands-on practical work? Exploring students’ intrinsic motivation]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010146</id>
@@ -1256,58 +1308,6 @@ The interplay between drives and dissipation in quantum many-body systems can le
 [Phys. Rev. B 111, 165131] Published Thu Apr 17, 2025]]></summary>
         <author>
             <name>Zhi-Xing Lin, Bastien Lapierre, Per Moosavi, and Shinsei Ryu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moiré optical phonons coupled to heavy electrons in magic-angle twisted bilayer graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.155126</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.155126"/>
-        <updated>2025-04-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hao Shi, Wangqian Miao, and Xi Dai
-The authors propose here a projection scheme to simplify electron-phonon coupling in magic-angle twisted bilayer graphene, highlighting the coupling with low-energy heavy electrons. Several active moiré phonons that strongly couple to the flat band are identified. These modes exhibit unique envelope functions at the moiré scale and preserve monolayer oscillations at the atomic scale. Further incorporating them into an extended Holstein model will facilitate studies of correlated insulating and superconducting phases.
-
-[Phys. Rev. B 111, 155126] Published Wed Apr 16, 2025]]></summary>
-        <author>
-            <name>Hao Shi, Wangqian Miao, and Xi Dai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron-magnon coupling mediated magnetotransport in antiferromagnetic van der Waals heterostructures]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L140407</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L140407"/>
-        <updated>2025-04-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sujan Maity, Soumik Das, Mainak Palit, Koushik Dey, Bikash Das, Tanima Kundu, Rahul Paramanik, Binoy Krishna De, Hemant Singh Kunwar, and Subhadeep Datta
-Magnons — wavelike spin excitations in magnets — transfer energy and information without moving charge, like ripples on water. Here, the authors find that in FePS3, an antiferromagnetic insulator, magnons interact with the electrons of few-layer graphene when in a heterostructure, enabling spin waves to convert into electrical signals. In FePS3, magnons soften below 40 K, reducing stiffness with cooling, while few-layer graphene exhibits negative magnetoresistance at low fields (±0.2 T) up to 100 K, transitioning to positive beyond this point. This experiment also proposes a “magnon capacitor”, where spin waves regulate charge transport by influencing carrier dynamics at the interface. With possible applications in energy-efficient computing, this breakthrough advances next-generation spintronic technologies.
-
-[Phys. Rev. B 111, L140407] Published Wed Apr 16, 2025]]></summary>
-        <author>
-            <name>Sujan Maity, Soumik Das, Mainak Palit, Koushik Dey, Bikash Das, Tanima Kundu, Rahul Paramanik, Binoy Krishna De, Hemant Singh Kunwar, and Subhadeep Datta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orbital pumping by magnetization dynamics in ferromagnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L140409</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L140409"/>
-        <updated>2025-04-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Dongwook Go, Kazuya Ando, Armando Pezo, Stefan Blügel, Aurélien Manchon, and Yuriy Mokrousov
-The authors theoretically predict here that magnetization dynamics in ferromagnets can pump orbital angular momentum, establishing it as the Onsager reciprocal process of orbital torque, where orbital angular momentum drives magnetization dynamics. This orbital pumping mechanism enables the generation of orbital angular momentum through ferromagnetic resonance via an rf field, incoherent magnons from laser heating, and other means. First-principles calculations reveal that orbital pumping in ferromagnetic Ni is significantly stronger than in Fe, aligning with recent experimental observations.
-
-[Phys. Rev. B 111, L140409] Published Wed Apr 16, 2025]]></summary>
-        <author>
-            <name>Dongwook Go, Kazuya Ando, Armando Pezo, Stefan Blügel, Aurélien Manchon, and Yuriy Mokrousov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tunable anomalous Hall effect by selective mirror symmetry breaking in the kagome magnet $\mathrm{GdM}{\mathrm{n}}_{6}\mathrm{G}{\mathrm{e}}_{6}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L161114</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L161114"/>
-        <updated>2025-04-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zicheng Tao, Tianye Yu, Jianyang Ding, Zhicheng Jiang, Zhenhai Yu, Wei Xia, Xia Wang, Xuerong Liu, Yulin Chen, Dawei Shen, Yan Sun, and Yanfeng Guo
-The authors report here that an external magnetic field can selectively break the mirror symmetries along different crystallographic directions in the kagome magnet GdMn6Ge6, which can thereby realize distinct Berry curvatures and tunable large anomalous Hall conductivities. The results set an explicit example demonstrating that the strong correlation between mirror symmetry and Berry curvature can generate a significant intrinsic anomalous Hall effect, as well as tunable topological properties in a single magnetic topological phase.
-
-[Phys. Rev. B 111, L161114] Published Wed Apr 16, 2025]]></summary>
-        <author>
-            <name>Zicheng Tao, Tianye Yu, Jianyang Ding, Zhicheng Jiang, Zhenhai Yu, Wei Xia, Xia Wang, Xuerong Liu, Yulin Chen, Dawei Shen, Yan Sun, and Yanfeng Guo</name>
         </author>
     </entry>
 </feed>
