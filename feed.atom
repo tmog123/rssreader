@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-09T01:09:23.210Z</id>
+    <id>urn:2025-05-10T01:06:45.819Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T01:09:23.210Z</updated>
+    <updated>2025-05-10T01:06:45.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sequence-dependent biomolecular phase separation driven by short-range interaction: From material properties to coarsening dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.054403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.054403"/>
+        <updated>2025-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jun-Qi Li, Zeng-Shuai Yan, Yu-Qiang Ma, and Hong-Ming Ding
+Liquid-liquid phase separation of biomacromolecules often focuses on nonspecific interactions, but the role of short ranged, specific interactions in biomolecular condensates is unclear. This study introduces a new parameter, linking sequence-specific interactions to key material or structural properties of condensates, such as radius of gyration, viscosity, or surface tension.
+#BiophysicsSpotlight #SoftMatterSpotlight #TimelyTopic
+
+[Phys. Rev. E 111, 054403] Published Thu May 08, 2025]]></summary>
+        <author>
+            <name>Jun-Qi Li, Zeng-Shuai Yan, Yu-Qiang Ma, and Hong-Ming Ding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Percolative supercurrent in superconductor–ferromagnetic insulator bilayers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.174509</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.174509"/>
+        <updated>2025-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Maiani, A. C. C. Drachmann, L. Galletti, C. Schrade, Y. Liu, R. Seoane Souto, and S. Vaitiekėnas
+The competing interplay between superconductivity and magnetism can lead to the emergence of intriguing phases of matter. Here, researchers explore thin layers of superconducting aluminum and magnetic-insulator europium sulfide, revealing that supercurrents survive even as spin splitting overcome the paramagnetic limit. The supercurrent weaves through the material, following paths shaped by magnetic textures. These results open new directions for understanding superconductivity in complex magnetic landscapes and for designing next-generation quantum devices.
+
+[Phys. Rev. B 111, 174509] Published Thu May 08, 2025]]></summary>
+        <author>
+            <name>A. Maiani, A. C. C. Drachmann, L. Galletti, C. Schrade, Y. Liu, R. Seoane Souto, and S. Vaitiekėnas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subharmonic spin correlations and spectral pairing in Floquet time crystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.184308</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.184308"/>
+        <updated>2025-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexander-Georg Penner, Harald Schmid, Leonid I. Glazman, and Felix von Oppen
+The authors show here that the temporal spin correlations in a Floquet time crystal are asymptotically related to the statistics of eigenvalue repulsion of the defining Floquet operator. The eigenvalue statistics are found to be log-normal, which implies that apart from initial transients, the boundary spin correlations can be described analytically and are characterized by two parameters only. The relation between spectral statistics and temporal spin correlations opens new perspectives on time crystals.
+
+[Phys. Rev. B 111, 184308] Published Thu May 08, 2025]]></summary>
+        <author>
+            <name>Alexander-Georg Penner, Harald Schmid, Leonid I. Glazman, and Felix von Oppen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulsed dual-axis alkali-metal–noble-gas comagnetometer]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.111.053103</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.111.053103"/>
+        <updated>2025-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. Wang, J. Lee, H. Loughlin, M. Hedges, and M. V. Romalis
+The authors designed, demonstrated, and modeled a new variation of alkali-metal-noble-gas comagnetometer using pulsed optical pumping. They demonstrate that the comagnetometer has dual-axis sensitivity, avoids pump laser light shifts by measuring in the dark, and suppresses perturbation from pump and probe beam pointing fluctuations.
+
+[Phys. Rev. A 111, 053103] Published Thu May 08, 2025]]></summary>
+        <author>
+            <name>J. Wang, J. Lee, H. Loughlin, M. Hedges, and M. V. Romalis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acoustic response of molecular adsorption and sound propagation in nanoporous materials]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.9.056001</id>
@@ -1255,59 +1308,6 @@ Human respiration releases a droplet laden air cloud that can carry pathogens an
 [Phys. Rev. Fluids 10, 043102] Published Thu Apr 17, 2025]]></summary>
         <author>
             <name>Livia Grandoni, Loïc Méès, Nathalie Grosjean, Giovanni Leuzzi, Paolo Monti, Armando Pelliccioni, and Pietro Salizzoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigation into evolution mechanisms of Lamb vectors in compressible flow]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevFluids.10.044701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevFluids.10.044701"/>
-        <updated>2025-04-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Fanrong Xue, Shufan Zou, Ming Zhao, and Wei Liu
-The full-life cycle evolution of the Lamb vector is investigated thoroughly. Numerical validation confirms its asymptotic behavior near no-slip boundaries and formation mechanisms within viscous sublayers of supersonic flat plate flows. Using Stokes-Helmholtz decomposition, the spatiotemporal evolution equation reveals competition between advection, stretching/tilting of generalized Lamb vectors’ transverse components, and viscosity. Defining a weakly nonlinear mid-field wake region fills gaps in its full-life cycle, with this region’s behavior and physics examined.
-
-[Phys. Rev. Fluids 10, 044701] Published Thu Apr 17, 2025]]></summary>
-        <author>
-            <name>Fanrong Xue, Shufan Zou, Ming Zhao, and Wei Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical mechanics of multiplectoneme phases in DNA]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.044408</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.044408"/>
-        <updated>2025-04-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Midas Segers, Enrico Skoruppa, Helmut Schiessel, and Enrico Carlon
-Stretched supercoiled DNA undergoes a buckling transition, forming intertwined looped domains called plectonemes. Supercoiling of DNA is important for a number of biological processes, such as the regulation of gene expression. This paper reports a detailed study of the statistical mechanics of stretched supercoiled DNA that allows for multiple plectonemic domains. The authors study this phenomenon in the context of magnetic tweezers, a common tool for experimental studies. They develop a simple two-phase model that can provide an understanding of experimental findings.
-#SoftMatterSpotlight #ClassicalProblem #WellStructured
-
-[Phys. Rev. E 111, 044408] Published Thu Apr 17, 2025]]></summary>
-        <author>
-            <name>Midas Segers, Enrico Skoruppa, Helmut Schiessel, and Enrico Carlon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can plasma physics establish a significant bound on long-range dark matter interactions?]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.111.L071701</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.111.L071701"/>
-        <updated>2025-04-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): K. Schoeffler, N. Shukla, and L. O. Silva
-The distribution of dark matter around a pair of colliding galaxy clusters appears unaffected by a putative dark-sector version of electromagnetism.
-
-[Phys. Rev. D 111, L071701] Published Thu Apr 17, 2025]]></summary>
-        <author>
-            <name>K. Schoeffler, N. Shukla, and L. O. Silva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiral instabilities in driven-dissipative quantum liquids]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.165131</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.165131"/>
-        <updated>2025-04-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zhi-Xing Lin, Bastien Lapierre, Per Moosavi, and Shinsei Ryu
-The interplay between drives and dissipation in quantum many-body systems can lead to a plethora of nonequilibrium phenomena, yet such setups remain particularly challenging to study. Here, the authors explore analytically the dynamics of periodically driven Tomonaga-Luttinger liquids —paradigmatic interacting quantum matter— coupled to thermal baths. While in the detailed-balance regime, dissipation suppresses parametric resonances partially, the researchers find that chiral dissipation leads to a novel nonreciprocal phase, reminiscent of the non-Hermitian skin effect.
-
-[Phys. Rev. B 111, 165131] Published Thu Apr 17, 2025]]></summary>
-        <author>
-            <name>Zhi-Xing Lin, Bastien Lapierre, Per Moosavi, and Shinsei Ryu</name>
         </author>
     </entry>
 </feed>
