@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T01:12:17.340Z</id>
+    <id>urn:2025-05-13T01:10:45.664Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T01:12:17.340Z</updated>
+    <updated>2025-05-13T01:10:45.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hadronic vacuum polarization for the muon $g−2$ from lattice QCD: Complete short and intermediate windows]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevD.111.094508</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevD.111.094508"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexei Bazavov, David A. Clarke, Christine T. H. Davies, Carleton DeTar, Aida X. El-Khadra, Elvira Gámiz, Steven Gottlieb, Anthony V. Grebe, Leon Hostetler, William I. Jay, Hwancheol Jeong, Andreas S. Kronfeld, Shaun Lahert, Jack Laiho, G. Peter Lepage, Michael Lynch, Andrew T. Lytle, Craig McNeile, Ethan T. Neil, Curtis T. Peterson, James N. Simone, Jacob W. Sitison, Ruth S. Van de Water, and Alejandro Vaquero (Fermilab Lattice, HPQCD, and MILC Collaborations)
+The authors present the results for the hadronic vacuum polarization contribution to the muon g−2 from the short- and intermediate-distance windows using seven physical mass (2+1+1)-flavor ensembles with five different lattice spacings. Separating into different windows allows for better control of systematic errors when taking the continuum and infinite volume limits, leading to some of the most precise results to date.
+
+[Phys. Rev. D 111, 094508] Published Mon May 12, 2025]]></summary>
+        <author>
+            <name>Alexei Bazavov, David A. Clarke, Christine T. H. Davies, Carleton DeTar, Aida X. El-Khadra, Elvira Gámiz, Steven Gottlieb, Anthony V. Grebe, Leon Hostetler, William I. Jay, Hwancheol Jeong, Andreas S. Kronfeld, Shaun Lahert, Jack Laiho, G. Peter Lepage, Michael Lynch, Andrew T. Lytle, Craig McNeile, Ethan T. Neil, Curtis T. Peterson, James N. Simone, Jacob W. Sitison, Ruth S. Van de Water, and Alejandro Vaquero (Fermilab Lattice, HPQCD, and MILC Collaborations)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric and conventional contributions of superconducting diode effect: Application to flat-band systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.174513</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.174513"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jin-Xin Hu, Shuai A. Chen, and K. T. Law
+The authors investigate here the conventional and quantum geometric origins of superconducting nonreciprocity and explore their implications for flat-band superconductors. They show that, while the conventional effect stems from an asymmetric Fermi surface, the quantum metric dipole generates a band-geometric contribution to the superconducting diode effect—even in systems with symmetric single-particle band dispersion.
+
+[Phys. Rev. B 111, 174513] Published Mon May 12, 2025]]></summary>
+        <author>
+            <name>Jin-Xin Hu, Shuai A. Chen, and K. T. Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum master equation for many-body systems based on the Lieb-Robinson bound]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.184311</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.184311"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Koki Shiraishi, Masaya Nakagawa, Takashi Mori, and Masahito Ueda
+The authors derive here a local quantum master equation for many-body open quantum systems on the basis of the Lieb-Robinson bound, which places a fundamental upper bound on the propagation speed of correlations of observables. This approach clarifies the conditions under which local quantum master equations are valid and provides a microscopic justification for their use in strongly interacting systems. Numerical simulations on a one-dimensional fermionic chain demonstrate the accuracy of the derived equation.
+
+[Phys. Rev. B 111, 184311] Published Mon May 12, 2025]]></summary>
+        <author>
+            <name>Koki Shiraishi, Masaya Nakagawa, Takashi Mori, and Masahito Ueda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient optimization and conceptual barriers in variational finite projected entangled pair states]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.195120</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.195120"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Daniel Alcalde Puente, Erik Lennart Weerda, Konrad Schröder, and Matteo Rizzi
+The authors investigate here a sampling-based optimization scheme for finite projected entangled pair states (PEPS), uncovering an entanglement phase transition in random PEPS that corresponds to a computational complexity shift in tensor network contractions, and extend the complexity analysis to physically relevant states. The method is applied to challenging systems, including a chiral spin liquid and Rydberg atom arrays with long-range interactions, demonstrating its ability to model state-of-the-art cold atom experiments.
+
+[Phys. Rev. B 111, 195120] Published Mon May 12, 2025]]></summary>
+        <author>
+            <name>Daniel Alcalde Puente, Erik Lennart Weerda, Konrad Schröder, and Matteo Rizzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fabry-Pérot resonance modes in a ${\mathrm{MoS}}_{2}$-based vertical stacking cavity for light-matter coupling and topological phase singularity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.205414</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.205414"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Zhonglin Li, Yingying Wang, Xianglin Li, Bo Zhong, Wenjun Liu, and Zexiang Shen
+The authors study here the angle-resolved reflectance of resonance modes in a vertical Fabry-Pérot cavity, constructed using multilayer PMMA-MoS2 hybrid structures. It is found that monolayer MoS2 contributes to the absorption in this system, further leading to formation of multiple perfect absorption and topological phase singularities in parameter space. The generation, evolution, and annihilation of these singularities could be controlled by the cavity parameters. This work provides a flexible platform for advancing studies in topological photonics.
+
+[Phys. Rev. B 111, 205414] Published Mon May 12, 2025]]></summary>
+        <author>
+            <name>Zhonglin Li, Yingying Wang, Xianglin Li, Bo Zhong, Wenjun Liu, and Zexiang Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strong-to-weak spontaneous symmetry breaking meets average symmetry-protected topological order]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L201108</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L201108"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yuchen Guo and Shuo Yang
+The authors uncover here a new quantum phase — the double average symmetry-protected topological (ASPT) phase — that arises uniquely in open quantum systems, where symmetry breaking and topological order coexist. Using the imaginary-time Lindbladian formalism, they establish a rich phase diagram featuring distinct gapless phases and topological triple points. This work highlights how environmental interactions can lead to novel quantum phenomena with no analog in closed systems.
+
+[Phys. Rev. B 111, L201108] Published Mon May 12, 2025]]></summary>
+        <author>
+            <name>Yuchen Guo and Shuo Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macroscopic QED and noise currents in time-varying media]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevA.111.053511</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevA.111.053511"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. A. R. Horsley and R. K. Baker
+The authors extend the macroscopic quantum electrodynamics to time-varying, dispersive media, focusing on materials with time-dependent Drude responses. They demonstrate that modifying reservoir dynamics better captures the physics of time-varying materials, particularly temporal correlations in the noise. 
+
+[Phys. Rev. A 111, 053511] Published Mon May 12, 2025]]></summary>
+        <author>
+            <name>S. A. R. Horsley and R. K. Baker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adaptation of Wallace's approach to the specific heat of elemental solids with significant intrinsic anharmonicity, particularly the light actinide metals]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.9.053801</id>
@@ -1217,98 +1308,6 @@ A novel technique is introduced that extracts interparticle forces directly from
 [Phys. Rev. Research 7, 023075] Published Tue Apr 22, 2025]]></summary>
         <author>
             <name>Ella M. King, Megan C. Engel, Caroline Martin, Alp M. Sunol, Qian-Ze Zhu, Sam S. Schoenholz, Vinothan N. Manoharan, and Michael P. Brenner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovering Dark Matter with the MUonE Experiment]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.161801</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.161801"/>
-        <updated>2025-04-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Gordan Krnjaic, Duncan Rocha, and Isaac R. Wang
-The planned MUonE experiment could—in addition to studying the muon’s magnetic moment—search for dark matter particles.
-
-[Phys. Rev. Lett. 134, 161801] Published Tue Apr 22, 2025]]></summary>
-        <author>
-            <name>Gordan Krnjaic, Duncan Rocha, and Isaac R. Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic field suppression of tomographic electron transport]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.155434</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.155434"/>
-        <updated>2025-04-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Habib Rostami, Nitay Ben-Shachar, Sergej Moroz, and Johannes Hofmann
-The authors describe here magnetic field effects on two-dimensional electron gases in a “tomographic” regime, a predicted transport regime between ballistic and hydrodynamic transport expected to be generic in high mobility devices. They show that tomographic scaling features in the transverse conductivity, which describes the conductance in finite geometries, are rapidly suppressed by a magnetic field. This suppression could both serve as a “smoking-gun” signature of the tomographic transport regime and be used to switch between hydrodynamic and tomographic transport.
-
-[Phys. Rev. B 111, 155434] Published Tue Apr 22, 2025]]></summary>
-        <author>
-            <name>Habib Rostami, Nitay Ben-Shachar, Sergej Moroz, and Johannes Hofmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic excitations in ${\mathrm{Nd}}_{n+1}{\mathrm{Ni}}_{n}{\mathrm{O}}_{3n+1}$ Ruddlesden-Popper nickelates observed via resonant inelastic x-ray scattering]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.165145</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.165145"/>
-        <updated>2025-04-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sophia F. R. TenHuisen, Grace A. Pan, Qi Song, Denitsa R. Baykusheva, Dan Ferenc Segedin, Berit H. Goodge, Hanjong Paik, Jonathan Pelliciari, Valentina Bisogni, Yanhong Gu, Stefano Agrestini, Abhishek Nag, Mirian García-Fernández, Ke-Jin Zhou, Lena F. Kourkoutis, Charles M. Brooks, Julia A. Mundy, Mark P. M. Dean, and Matteo Mitrano
-The authors present here a resonant inelastic x-ray scattering study of magnetic and electronic excitations in the layered Ruddlesden-Popper nickelates Ndn+1NinO3n+1. As the number of layers increases, holes are doped into ligand sites and magnetic excitations soften modestly–an effect attributed to competing influences of hole doping and enhanced interlayer exchange. These findings highlight structural tuning as an effective route to manipulate electronic and magnetic properties, establishing a promising platform for unconventional superconductivity.
-
-[Phys. Rev. B 111, 165145] Published Tue Apr 22, 2025]]></summary>
-        <author>
-            <name>Sophia F. R. TenHuisen, Grace A. Pan, Qi Song, Denitsa R. Baykusheva, Dan Ferenc Segedin, Berit H. Goodge, Hanjong Paik, Jonathan Pelliciari, Valentina Bisogni, Yanhong Gu, Stefano Agrestini, Abhishek Nag, Mirian García-Fernández, Ke-Jin Zhou, Lena F. Kourkoutis, Charles M. Brooks, Julia A. Mundy, Mark P. M. Dean, and Matteo Mitrano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distinguishing between students’ conceptual understanding and reasoning approaches: An application of dual-process theories]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010141</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevPhysEducRes.21.010141"/>
-        <updated>2025-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kristin Kellar and Paula Heron
-This study builds on previous research to distinguish between students’ errors caused by conceptual misunderstandings and those driven by intuitive reasoning, using Frederick’s Cognitive Reflection Test to support dual-process theories of student reasoning.
-
-[Phys. Rev. Phys. Educ. Res. 21, 010141] Published Mon Apr 21, 2025]]></summary>
-        <author>
-            <name>Kristin Kellar and Paula Heron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-resolution descriptions of model neural activity reveal hidden features and underlying system properties]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.044315</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.044315"/>
-        <updated>2025-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Riccardo Aldrigo, Roberto Menichetti, and Raffaello Potestio
-Understanding the complex behavior of biological neural networks is hampered by their large size and intricate nature. To tackle such systems, simplified and computationally manageable models are often employed that aim at capturing specific aspects of neural activity, one notable example being the Hopfield model. This study uses an information-theoretic method, mapping entropy optimization workflow, in the Hopfield model to identify and characterize subsets of constituent neurons that provide significant information about the entire system’s behavior, given only the time series of the neural network states.
-#WellStructured #Interdisciplinary
-
-[Phys. Rev. E 111, 044315] Published Mon Apr 21, 2025]]></summary>
-        <author>
-            <name>Riccardo Aldrigo, Roberto Menichetti, and Raffaello Potestio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eliminating the confined dark-exciton qubit precession using an externally applied magnetic field]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L161302</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L161302"/>
-        <updated>2025-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zu-En Su, Dan Cogan, Ido Schwartz, Ayal Beck, and David Gershoni
-Quantum dots host short- and long-lived bright and dark excitons (DEs). The long-lived DEs form coherent integer-spin qubits that can be written, controlled, read, and reset using single picosecond optical pulses. These qubits enable the deterministic generation of multi-entangled photon clusters, crucial for quantum communication. With nondegenerate eigenstates, DEs exhibit a natural precession in their coherent superposition, which can challenge qubit control. The authors present here experimental and theoretical methods to reduce and eliminate this precession, while discovering the polarization of this optically inactive qubit.
-
-[Phys. Rev. B 111, L161302] Published Mon Apr 21, 2025]]></summary>
-        <author>
-            <name>Zu-En Su, Dan Cogan, Ido Schwartz, Ayal Beck, and David Gershoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlinear optical binding]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevApplied.23.044044</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevApplied.23.044044"/>
-        <updated>2025-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. Mirzaei-Ghormish and Ryan M. Camacho
-Optical binding, the light-induced self-organization of particles, is essential in levitated optomechanics, nanomaterials, and quantum optics. Conventional models are limited to linear optical interactions, though, and lack tunable mechanisms for trap stabilization or reconfiguration that do not involve moving the optical fields themselves. This work develops a theory of nonlinear optical binding that produces surprising equilibrium configurations, tunable trap periodicities, and enhanced stability at subwavelength separations, with no beam shaping or external fields. These results may provide a concrete pathway for power-controlled particle assembly and programmable optical matter.
-
-[Phys. Rev. Applied 23, 044044] Published Mon Apr 21, 2025]]></summary>
-        <author>
-            <name>S. Mirzaei-Ghormish and Ryan M. Camacho</name>
         </author>
     </entry>
 </feed>
