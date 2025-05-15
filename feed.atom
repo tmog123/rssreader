@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-14T01:09:36.975Z</id>
+    <id>urn:2025-05-15T01:07:10.355Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T01:09:36.975Z</updated>
+    <updated>2025-05-15T01:07:10.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cold Dark Matter Based on an Analogy with Superconductivity]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.191004</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.191004"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Guanming Liang (梁冠铭) and Robert R. Caldwell
+Drawing on an analogy with superconductivity, theorists have proposed a dark matter candidate that could have left observable signatures in the cosmic microwave background.
+
+[Phys. Rev. Lett. 134, 191004] Published Wed May 14, 2025]]></summary>
+        <author>
+            <name>Guanming Liang (梁冠铭) and Robert R. Caldwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonreciprocal Control of the Speed of Light Using Cavity Magnonics]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.196904</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.196904"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jiguang Yao, Chenyang Lu, Xiaolong Fan, Desheng Xue, Greg E. Bridges, and C.-M. Hu
+Researchers have demonstrated the direction-dependent slowdown of microwave pulses, with potential applications in signal processing and quantum computing.
+
+[Phys. Rev. Lett. 134, 196904] Published Wed May 14, 2025]]></summary>
+        <author>
+            <name>Jiguang Yao, Chenyang Lu, Xiaolong Fan, Desheng Xue, Greg E. Bridges, and C.-M. Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replicators in Game-of-Life-like automata]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.054306</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.054306"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. D. Brown and K. Sneppen
+This manuscript presents 3-Life, an extension of the Game of Life which considers three states, two alive and one dead. The authors find robust complex behaviors, such as emerging self-replication patterns, at smaller spatial and temporal scales than in the two-state Game of Life. They suggest a potential connection between this three-state cellular automaton and early life processes.
+#LandmarkContribution #Interdisciplinary
+
+[Phys. Rev. E 111, 054306] Published Wed May 14, 2025]]></summary>
+        <author>
+            <name>F. D. Brown and K. Sneppen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlined Krylov construction and classification of ergodic Floquet systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.L052202</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.L052202"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Nikita Kolganov and Dmitrii A. Trunin
+The Krylov construction is a powerful tool for the study of quantum dynamics, but it is difficult to apply to periodically driven systems. The authors find a more efficient way to use it for such systems, and also suggest a classification of chaotic and integrable dynamics that they illustrate with examples such as the kicked top and the kicked Ising chain.
+#AdvancingField #TechnicalAdvancement
+
+[Phys. Rev. E 111, L052202] Published Wed May 14, 2025]]></summary>
+        <author>
+            <name>Nikita Kolganov and Dmitrii A. Trunin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capturing the dynamics of the phase transition of skyrmions with a nonstationary machine learning approach]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.184415</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.184415"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Long Xiong, Neng-Ji Zhou, Shi-Qian Hu, Lei-Lei Nian, and Bo Zheng
+The authors propose here a nonstationary machine learning approach specifically designed for analyzing dynamic phase transitions. By employing a subsampling technique in the short-time regime, this method overcomes the difficulty of critical slowing down. It demonstrates high effectiveness and generalization in determining critical points, and static and dynamic critical exponents in the depinning transition of skyrmions.
+
+[Phys. Rev. B 111, 184415] Published Wed May 14, 2025]]></summary>
+        <author>
+            <name>Long Xiong, Neng-Ji Zhou, Shi-Qian Hu, Lei-Lei Nian, and Bo Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transition metal–hydrogen complexes in ${\text{SnO}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.195208</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.195208"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. Herklotz, I. Chaplygin, E. V. Lavrov, V. V. Melnikov, Z. Galazka, and L. Vines
+The authors investigate here transition metal–hydrogen complexes in SnO2 using infrared spectroscopy, SIMS, and first-principles calculations. They identify distinct OH vibrational modes linked to Fe and Cr substitutional centers, and observe a new electronic transition tentatively assigned to Ir. These findings clarify how hydrogen interacts with dopants in SnO2, offering insights into defect structures that influence conductivity, catalytic activity, and optical properties, critical for optimizing this material in sensing, electronics, and energy applications.
+
+[Phys. Rev. B 111, 195208] Published Wed May 14, 2025]]></summary>
+        <author>
+            <name>F. Herklotz, I. Chaplygin, E. V. Lavrov, V. V. Melnikov, Z. Galazka, and L. Vines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disorder-order interface propagating over the ferromagnetic ground state in the transverse field Ising chain]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.205118</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.205118"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Vanja Marić, Florent Ferro, and Maurizio Fagotti
+When matter in different phases is brought into contact, an interface with unexpected properties can emerge. In the transverse-field Ising chain, the authors investigate the interface formed by joining a disordered state with a ferromagnetically ordered one. They show that, within this emergent region, order parameters and entanglement asymmetries of subsystems exhibit universal behavior. Correlations extend across the entire region, and the Wigner–Yanase skew information of large subsystems reveals macroscopic multipartite entanglement.
+
+[Phys. Rev. B 111, 205118] Published Wed May 14, 2025]]></summary>
+        <author>
+            <name>Vanja Marić, Florent Ferro, and Maurizio Fagotti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No-Go Theorems for Universal Entanglement Purification]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.190803</id>
@@ -1217,97 +1310,6 @@ Hilbert space fragmentation provides a novel route to ergodicity breaking in iso
 [Phys. Rev. B 111, 144313] Published Thu Apr 24, 2025]]></summary>
         <author>
             <name>Fan Yang, Hadi Yarloo, Hua-Chen Zhang, Klaus Mølmer, and Anne E. B. Nielsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exact correlation functions at finite temperatures in a Tomonaga-Luttinger liquid with an open end]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.155439</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.155439"/>
-        <updated>2025-04-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Naira Grigoryan and Piotr Chudzinski
-The authors derive here exact analytic expressions for correlations in Tomonaga-Luttinger liquids with a boundary at finite temperature and discuss two distinct regimes: Coulomb and Hund metals. The difference between Coulomb and Hund is in the value of K. It is found that only the Hund metal has a peak in the single-particle density of states on its edge. Peak splitting due to coupling with plasmon polaritons is also studied. This shows how boundaries and external environmental coupling can shape the local density of states.
-
-[Phys. Rev. B 111, 155439] Published Thu Apr 24, 2025]]></summary>
-        <author>
-            <name>Naira Grigoryan and Piotr Chudzinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of electronic and phononic higher-order band topology in group III-V monolayers]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.165205</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.165205"/>
-        <updated>2025-04-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xijian Zhu, Kanghan Zackery Ye, Fangyang Zhan, Xianyong Ding, Da-Shuai Ma, and Rui Wang
-The authors reveal here that III-V monolayers of XY (X=B, Al, Ga, In; Y=N, P, As, Sb), with planar and low-buckled honeycomb structures, exhibit both electronic and phononic higher-order band topology. The explicit existence of hallmark corner states with quantized fractional charge is presented clearly. Moreover, they point out that the variation of atomic masses in III-V monolayers can induce phonon band inversion, leading to different quantized fractional charges.
-
-[Phys. Rev. B 111, 165205] Published Thu Apr 24, 2025]]></summary>
-        <author>
-            <name>Xijian Zhu, Kanghan Zackery Ye, Fangyang Zhan, Xianyong Ding, Da-Shuai Ma, and Rui Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonadiabatic-coupling-mediated argon dimer dissociation by slow and low-charge-state ion collisions]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevA.111.042824</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevA.111.042824"/>
-        <updated>2025-04-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yu Zhang, Jiarong Wang, Xiaoqing Hu, Baihui Ren, Tianming Meng, Pufang Ma, Yueying Qi, Yong Wu, Jianguo Wang, Yaming Zou, Bingsheng Tu, Amine Cassimi, and Baoren Wei
-The authors report the experimental observation of a nonlocal decay process, i.e., nonadiabatic-coupling-mediated charge transfer, in argon dimers. They observe new kinetic energy release structures and attribute them to the population of a one-site, double-charge-excited state of the argon dimer.
-
-[Phys. Rev. A 111, 042824] Published Thu Apr 24, 2025]]></summary>
-        <author>
-            <name>Yu Zhang, Jiarong Wang, Xiaoqing Hu, Baihui Ren, Tianming Meng, Pufang Ma, Yueying Qi, Yong Wu, Jianguo Wang, Yaming Zou, Bingsheng Tu, Amine Cassimi, and Baoren Wei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fully Nonlinear Gravitational Wave Simulations from Past to Future Null Infinity]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.161401</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.161401"/>
-        <updated>2025-04-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jörg Frauendiener, Chris Stevens, and Sebenele Thwala
-For the first time, a gravitational wave impinging onto a static black hole has been numerically simulated by including nonlinearity and with a computational domain from past to future null-infinity.
-
-[Phys. Rev. Lett. 134, 161401] Published Wed Apr 23, 2025]]></summary>
-        <author>
-            <name>Jörg Frauendiener, Chris Stevens, and Sebenele Thwala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$B→ρℓ\overline{ν}$ Resonance Form Factors from $B→ππℓ\overline{ν}$ in Lattice QCD]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.161901</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.161901"/>
-        <updated>2025-04-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Luka Leskovec, Stefan Meinel, Marcus Petschlies, John Negele, Srijit Paul, and Andrew Pochinsky
-The first lattice QCD investigation of the weak decay B→ππℓν¯ that takes the resonant nature of ρ meson into account might help elucidate the exclusive-inclusive discrepancy in the experimental measurement of |Vub|.
-
-[Phys. Rev. Lett. 134, 161901] Published Wed Apr 23, 2025]]></summary>
-        <author>
-            <name>Luka Leskovec, Stefan Meinel, Marcus Petschlies, John Negele, Srijit Paul, and Andrew Pochinsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Measurement of $A=4$ Hypernuclei and Antihypernuclei at the LHC]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.162301</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.162301"/>
-        <updated>2025-04-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): S. Acharya et al. (ALICE Collaboration)
-Experiments at the Large Hadron Collider have revealed a previously unseen nucleus known as antihyperhelium-4.
-
-[Phys. Rev. Lett. 134, 162301] Published Wed Apr 23, 2025]]></summary>
-        <author>
-            <name>S. Acharya &lt;em&gt;et al.&lt;/em&gt; (ALICE Collaboration)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interacting mesons as degrees of freedom in a chiral model]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevD.111.074029</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevD.111.074029"/>
-        <updated>2025-04-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Rajesh Kumar, Joaquin Grefa, Konstantin Maslov, Yuhan Wang, Arvind Kumar, Ralf Rapp, Claudia Ratti, and Veronica Dexheimer
-Quantum chromodynamics (QCD) at non-zero temperature and density is a vastly complex and rich system, and mapping out its phase structure has consequences for physics at scales from the collisions of heavy ions to the interior of neutron stars. The authors extend a mean-field approximation to thermal QCD by including explicit interactions that break chiral symmetry, demonstrating improved agreement with comparable calculations on the lattice.
-
-[Phys. Rev. D 111, 074029] Published Wed Apr 23, 2025]]></summary>
-        <author>
-            <name>Rajesh Kumar, Joaquin Grefa, Konstantin Maslov, Yuhan Wang, Arvind Kumar, Ralf Rapp, Claudia Ratti, and Veronica Dexheimer</name>
         </author>
     </entry>
 </feed>
