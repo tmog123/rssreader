@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-22T01:10:13.438Z</id>
+    <id>urn:2025-05-23T01:10:13.586Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-22T01:10:13.438Z</updated>
+    <updated>2025-05-23T01:10:13.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamical phase transition in the growth of programmable polymorphic materials]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevMaterials.9.053403</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevMaterials.9.053403"/>
+        <updated>2025-05-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fan Chen and William M. Jacobs
+In conventional materials design problems, the possibility of assembling alternative crystal structures from a single set of subunits is disadvantageous. By contrast, multicomponent systems with programmable interactions can in principle be designed to assemble into multiple distinct crystal structures on purpose, opening up the possibility of selecting a specific encoded polymorph on demand by growing the crystal from an initial seed. Here the authors describe the conditions under which seeded polymorphic self-assembly is dynamically stable, and they identify a nonequilibrium phase transition that fundamentally limits the number of unique polymorphs that can be encoded in this way.
+
+[Phys. Rev. Materials 9, 053403] Published Thu May 22, 2025]]></summary>
+        <author>
+            <name>Fan Chen and William M. Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Measurement of Near-Threshold and Subthreshold $J/ψ$ Photoproduction off Nuclei]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.201903</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.201903"/>
+        <updated>2025-05-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. R. Pybus et al.
+The internal structure of protons bound in nuclei has been probed by studying short-lived particles created when high-energy photons strike nuclei.
+
+[Phys. Rev. Lett. 134, 201903] Published Thu May 22, 2025]]></summary>
+        <author>
+            <name>J. R. Pybus &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding and controlling dipolar Moiré pattern in ferroelectric perovskite oxide nanolayers]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.L180103</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.L180103"/>
+        <updated>2025-05-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sergey Prosandeev, Charles Paillard, and L. Bellaiche
+Twisted atomic bilayers of ferroelectrics show unprecedented moiré patterns hosting interpenetrating arrays of dipolar vortices and antivortices. Monte Carlo simulations confirm the critical role of the flexoelectric coupling in mediating the emergence of these polar nanotextures in response to the shear strain gradient created by the twisting angle. The authors reveal here that these polar nano-objects, of high relevance to ultra-dense memory and computing applications, can be manipulated by electric fields, in a manner reminiscent of the Berezinskii-Kosterlitz-Thouless phase transition.
+
+[Phys. Rev. B 111, L180103] Published Thu May 22, 2025]]></summary>
+        <author>
+            <name>Sergey Prosandeev, Charles Paillard, and L. Bellaiche</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modular Variable Laser Cooling for Efficient Entropy Extraction]]></title>
         <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.203603</id>
@@ -1270,45 +1309,6 @@ Two independent teams have searched for axions using x-ray observations of entir
 [Phys. Rev. Lett. 134, 171003] Published Thu May 01, 2025]]></summary>
         <author>
             <name>Orion Ning and Benjamin R. Safdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NuSTAR Bounds on Radiatively Decaying Particles from M82]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.171004</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.171004"/>
-        <updated>2025-05-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Francisco R. Candón, Damiano F. G. Fiorillo, Giuseppe Lucente, Edoardo Vitagliano, and Julia K. Vogel
-Two independent teams have searched for axions using x-ray observations of entire galaxies, setting some of the strictest constraints to date on the properties of these dark matter candidates.
-
-[Phys. Rev. Lett. 134, 171004] Published Thu May 01, 2025]]></summary>
-        <author>
-            <name>Francisco R. Candón, Damiano F. G. Fiorillo, Giuseppe Lucente, Edoardo Vitagliano, and Julia K. Vogel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Majorana modes in quantum dots coupled via a floating superconducting island]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.174501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.174501"/>
-        <updated>2025-05-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Rubén Seoane Souto, Virgil V. Baran, Maximilian Nitsch, Lorenzo Maffi, Jens Paaske, Martin Leijnse, and Michele Burrello
-The authors investigate here Majorana modes in quantum dots, coupled via a floating superconducting island with charging energy. They identify Majorana sweet spots away from charge-degeneracy points. This finding opens routes for engineering interacting topological devices based on hybrid quantum dot–superconductor platforms that can reveal unique Majorana properties, including electron teleportation and topological Kondo effect.
-
-[Phys. Rev. B 111, 174501] Published Thu May 01, 2025]]></summary>
-        <author>
-            <name>Rubén Seoane Souto, Virgil V. Baran, Maximilian Nitsch, Lorenzo Maffi, Jens Paaske, Martin Leijnse, and Michele Burrello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topological phase transitions in superconductors with chiral symmetry]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.184501</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.184501"/>
-        <updated>2025-05-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kristian Løvås Svalland, Maria Teresa Mercaldo, and Mario Cuoco
-This study explores topological transitions in one-dimensional superconductors supporting multiple Majorana bound states, protected by chiral symmetry. It introduces the concept of “marginal topological superconductors” — gapless systems where minimal, chirality-preserving perturbations can induce a topological phase. These systems are significant because they allow for the easy creation and manipulation of Majorana states with small parameter changes, making them promising candidates for topological quantum devices requiring precise control of Majorana bound states at the edges.
-
-[Phys. Rev. B 111, 184501] Published Thu May 01, 2025]]></summary>
-        <author>
-            <name>Kristian Løvås Svalland, Maria Teresa Mercaldo, and Mario Cuoco</name>
         </author>
     </entry>
 </feed>
