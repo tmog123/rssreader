@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-24T01:12:53.885Z</id>
+    <id>urn:2025-06-25T01:13:19.436Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T01:12:53.886Z</updated>
+    <updated>2025-06-25T01:13:19.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First Constraints on General Neutrino Interactions Based on KATRIN Data]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.251801</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.251801"/>
+        <updated>2025-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Aker et al. (KATRIN Collaboration)
+The KATRIN experiment places competitive constraints on the general neutrino interaction couplings using a fraction of the dataset from their second measurement campaign.
+
+[Phys. Rev. Lett. 134, 251801] Published Mon Jun 23, 2025]]></summary>
+        <author>
+            <name>M. Aker &lt;em&gt;et al.&lt;/em&gt; (KATRIN Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological Landau Theory]]></title>
+        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.256001</id>
+        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.256001"/>
+        <updated>2025-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Canon Sun and Joseph Maciejko
+Contrary to conventional wisdom, so-called order parameters that distinguish symmetry-governed phases of matter can have topological structure.
+
+[Phys. Rev. Lett. 134, 256001] Published Mon Jun 23, 2025]]></summary>
+        <author>
+            <name>Canon Sun and Joseph Maciejko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal CW polarization-tomography of photon pairs from the biexciton radiative cascade: Theory and experiment]]></title>
+        <id>http://link.aps.org/doi/10.1103/4z82-v82w</id>
+        <link href="http://link.aps.org/doi/10.1103/4z82-v82w"/>
+        <updated>2025-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Noam Tur, Ismail Nassar, Ido Schwartz, Joseph Avron, Dan Dalacu, Philip J. Poole, and David Gershoni
+The authors investigate here temporal correlations in the polarization states of photon pairs emitted during the biexciton-exciton radiative cascade from a single semiconductor quantum dot, excited by a continuous-wave light source. The system is modeled using a Lindbladian framework coupled to two Markovian baths—one representing the excitation source and the other the emitted radiation. The model consolidates previous approaches that separately addressed the system’s incoherent and coherent dynamics. It accurately describes a series of polarization-sensitive, time-resolved two-photon correlation measurements.
+
+[Phys. Rev. B 111, 235304] Published Mon Jun 23, 2025]]></summary>
+        <author>
+            <name>Noam Tur, Ismail Nassar, Ido Schwartz, Joseph Avron, Dan Dalacu, Philip J. Poole, and David Gershoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oscillate and renormalize: Fast phonons reshape the Kondo effect in flat-band systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/xxyt-4bql</id>
+        <link href="http://link.aps.org/doi/10.1103/xxyt-4bql"/>
+        <updated>2025-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Liam L. H. Lau, Andreas Gleis, Daniel Kaplan, Premala Chandra, and Piers Coleman
+This paper revisits an age-old question: when are phonons important in strongly correlated materials? As you will see, the answer lies in in the frequency of the phonons compared to the electrons; slow phonons cannot respond to valence fluctuations and are irrelevant, whereas fast phonons always change the charge dynamics, irrespective of the strength of the coupling. This result may be particularly relevant for 2D moiré systems such as twisted bilayer graphene (TBG), where phonons are fast compared to the moiré energy scales.
+
+[Phys. Rev. B 111, 245149] Published Mon Jun 23, 2025]]></summary>
+        <author>
+            <name>Liam L. H. Lau, Andreas Gleis, Daniel Kaplan, Premala Chandra, and Piers Coleman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entangled States from Sparsely Coupled Spins for Metrology with Neutral Atoms]]></title>
         <id>http://link.aps.org/doi/10.1103/h6sr-yxgw</id>
@@ -1260,60 +1312,6 @@ New physics may explain discrepant values for the ionization energy of a metasta
 [Phys. Rev. Lett. 134, 223001] Published Mon Jun 02, 2025]]></summary>
         <author>
             <name>Gloria Clausen and Frédéric Merkt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Markovian Effects in Quantum Rate Calculations of Hydrogen Diffusion with Electronic Friction]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevLett.134.226201</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevLett.134.226201"/>
-        <updated>2025-06-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): George Trenins and Mariana Rossi
-Including non-Markovian electronic frictional memory effects in simulations of molecular diffusion on surfaces alters rate constants and tunneling crossover temperatures and explains the convergence between the Markovian simulations and experimental observations.
-
-[Phys. Rev. Lett. 134, 226201] Published Mon Jun 02, 2025]]></summary>
-        <author>
-            <name>George Trenins and Mariana Rossi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transport properties of the motor protein UNC-104 are robust and independent of changes in its cargo binding]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.064404</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.064404"/>
-        <updated>2025-06-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Amir Shee, Vidur Sabharwal, Sandhya P. Koushika, Amitabha Nandi, and Debasish Chaudhuri
-Combining fluorescent microscopy with theory, this study examines the distribution of cargo-bound UNC-104, a motor protein in C. elegans neurons. Results show that ubiquitin-like knockdowns enhance cargo binding, but do not alter the axonal distribution or transport properties of the motor protein.
-#BiophysicsSpotlight #TheoryExperiment
-
-[Phys. Rev. E 111, 064404] Published Mon Jun 02, 2025]]></summary>
-        <author>
-            <name>Amir Shee, Vidur Sabharwal, Sandhya P. Koushika, Amitabha Nandi, and Debasish Chaudhuri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlinear continuum description of the <i>E. coli</i> cell wall under high turgor pressure]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevE.111.064405</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevE.111.064405"/>
-        <updated>2025-06-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Octavio Albarrán, Renata Garcés, Giacomo Po, Christoph F. Schmidt, and Jeff D. Eldredge
-Bacterial cell walls maintain integrity under high turgor pressure through a covalently linked peptidoglycan network. This study models the E. coli cell wall using a hyperelastic framework, suggesting that strain hardening underlies pressure-dependent stiffness and providing insights for further quantitative studies.
-#BiophysicsSpotlight #Interdisciplinary
-
-[Phys. Rev. E 111, 064405] Published Mon Jun 02, 2025]]></summary>
-        <author>
-            <name>Octavio Albarrán, Renata Garcés, Giacomo Po, Christoph F. Schmidt, and Jeff D. Eldredge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractionalization as an alternate to charge ordering in electronic insulators]]></title>
-        <id>http://link.aps.org/doi/10.1103/PhysRevB.111.235108</id>
-        <link href="http://link.aps.org/doi/10.1103/PhysRevB.111.235108"/>
-        <updated>2025-06-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Seth Musser, Meng Cheng, and T. Senthil
-Who ordered anyons? Though exotic, anyons can be required by a system’s fractional symmetry response. For example, in gapped systems with U(1) and unbroken translation symmetry, fractional lattice filling leads to anyons via the LSM constraint. The authors analyze here this setting and, for a given filling, determine the minimal number of required anyons. They prove this minimal topological order is unique and dub it a “quantum charge liquid” (QCL). The authors conclude by discussing the phenomenology of QCLs.
-
-[Phys. Rev. B 111, 235108] Published Mon Jun 02, 2025]]></summary>
-        <author>
-            <name>Seth Musser, Meng Cheng, and T. Senthil</name>
         </author>
     </entry>
 </feed>
