@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/x2ph-yp2v",
+          "author": "Christina M. Tonauer, Eva-Maria Köck, Raphael Henn, Christoph Kappacher, Christian W. Huck, and Thomas Loerting",
+          "description": "Author(s): Christina M. Tonauer, Eva-Maria Köck, Raphael Henn, Christoph Kappacher, Christian W. Huck, and Thomas Loerting\nInfrared spectroscopy performed on high-pressure ice phases demonstrates a possible technique for studying ice on other planets or moons.\n\n[Phys. Rev. Lett. 135, 018002] Published Wed Jul 02, 2025",
+          "link": "http://link.aps.org/doi/10.1103/x2ph-yp2v",
+          "publishedOn": "2025-07-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Near-Infrared Spectroscopic Sensing of Hydrogen Order in Ice XIII",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/pvn5-twfj",
+          "author": "Yves-Marie Ducimetière and François Gallaire",
+          "description": "Author(s): Yves-Marie Ducimetière and François Gallaire\nSome fluid flows are difficult to describe mathematically because their response to an external perturbation cannot be reduced to a small number of eigenmodes. The authors propose a method to approach these systems that is based on a few singular modes that are sufficient to reconstruct the response to leading order. The method is shown to greatly reduce the numerical cost compared to existing approaches.\n#AdvancingField #TechnicalAdvancement\n\n[Phys. Rev. E 112, 015101] Published Wed Jul 02, 2025",
+          "link": "http://link.aps.org/doi/10.1103/pvn5-twfj",
+          "publishedOn": "2025-07-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Nonmodal amplitude equations",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/l53j-32cp",
+          "author": "Jin Lei",
+          "description": "Author(s): Jin Lei\nNuclear breakup reactions provide crucial insights into nuclear structure, but modeling them accurately has been hampered by numerical instabilities. This work solves a long-standing computational problem in the Ichimura-Austern-Vincent model by introducing a hybrid technique that achieves stable, accurate calculations. Validated through calculations for the deuteron and 6Li, the method significantly outperforms traditional approaches. This advance enables reliable theoretical predictions of breakup processes, providing the nuclear physics community with an improved tool for interpreting experiments at modern facilities.\n\n[Phys. Rev. C 112, 014609] Published Wed Jul 02, 2025",
+          "link": "http://link.aps.org/doi/10.1103/l53j-32cp",
+          "publishedOn": "2025-07-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Numerical assessment of convergence in the post-form Ichimura-Austern-Vincent model",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/mg84-y5vj",
+          "author": "T. F. Q. Larson, L. Zhao, E. G. Arnault, M. T. Wei, A. Seredinski, H. Li, K. Watanabe, T. Taniguchi, F. Amet, and G. Finkelstein",
+          "description": "Author(s): T. F. Q. Larson, L. Zhao, E. G. Arnault, M. T. Wei, A. Seredinski, H. Li, K. Watanabe, T. Taniguchi, F. Amet, and G. Finkelstein\nIn the inverse Josephson effect, a junction exposed to microwaves develops quantized voltage steps (“Shapiro steps”). Coexisting steps at ±hf/2e lead to spontaneous time-reversal symmetry breaking as the phase ratchets in one direction. The authors study here switching between these states, which varies dramatically with small parameter changes. Unexpectedly, switching slows at high temperatures, showing noise-induced stabilization. This rare experimental observation, involving dynamic states and broken symmetry, highlights opportunities in stochastic physics and quantum thermodynamics using driven-dissipative systems.\n\n[Phys. Rev. B 112, 014502] Published Wed Jul 02, 2025",
+          "link": "http://link.aps.org/doi/10.1103/mg84-y5vj",
+          "publishedOn": "2025-07-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Noise-induced stabilization of dynamical states with broken time-reversal symmetry",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/yky5-qcrk",
+          "author": "Shobhna Misra, Reshma Peremadathil Pradeep, Yaoxuan Feng, Urs Grob, Andrada Oana Mandru, Christian L. Degen, Hans J. Hug, and Alexander Eichler",
+          "description": "Author(s): Shobhna Misra, Reshma Peremadathil Pradeep, Yaoxuan Feng, Urs Grob, Andrada Oana Mandru, Christian L. Degen, Hans J. Hug, and Alexander Eichler\nMagnetic force microscopy has many important applications in industry and academic research. One of the main challenges in such applications is to distinguish magnetic information from electrostatic and topographical signals. In this work, the authors experimentally demonstrate a method for in situ differential imaging using a switchable magnetic tip. The technique allows one to perform pixel-by-pixel differential magnetic force microscopy, and is ideally suited for sensing with ultracoherent silicon nitride membranes.\n\n[Phys. Rev. Applied 24, L011003] Published Wed Jul 02, 2025",
+          "link": "http://link.aps.org/doi/10.1103/yky5-qcrk",
+          "publishedOn": "2025-07-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Differential magnetic force microscopy with a switchable tip",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/1cwz-m1c3",
           "author": "E. Adams <em>et al.</em> (PICO Collaboration)",
           "description": "Author(s): E. Adams et al. (PICO Collaboration)\nUsing a bubble chamber, world-leading constraints are placed on the absorption of hypothetical fermionic dark matter, including the first limits on spin-dependent absorptive interactions.\n\n[Phys. Rev. Lett. 135, 011001] Published Tue Jul 01, 2025",
@@ -953,56 +1003,6 @@
           "publishedOn": "2025-06-10T10:00:00.000Z",
           "wordCount": null,
           "title": "Orthogonality point and intersublattice exchange in ${\\mathrm{Dy}}_{2}{\\mathrm{Fe}}_{17}$ determined in strong magnetic fields",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/6gbq-d7jk",
-          "author": "Jiayi Hu, Ruidan Zhong, Peter Czajka, Tong Gao, R. J. Cava, and N. P. Ong",
-          "description": "Author(s): Jiayi Hu, Ruidan Zhong, Peter Czajka, Tong Gao, R. J. Cava, and N. P. Ong\nIn this Letter, the authors have completed a detailed investigation of the thermal conductivity of the magnetic insulator BaCo2(AsO4)2 (BCAO) and uncovered two striking features. First, below 10 K, the thermal conductivity exhibits an unusual one-parameter scaling behavior throughout the magnetically disordered regime, corresponding to the range where the zigzag state is suppressed. The authors demonstrate that the intricate behavior of the thermal conductivity in the field-temperature (H-T) plane collapses to a simple scaling function. Secondly, just above the Neel temperature, they observe a giant magnetic-field enhancement of the thermal conductivity, which is closely related to the scaling behavior. From the data, the authors infer that phonons and spins constitute a strongly coupled system in zero field. An in-plane magnetic field steadily weakens this coupling to yield the one-parameter scaling.\n\n[Phys. Rev. Materials 9, L061401] Published Tue Jun 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/6gbq-d7jk",
-          "publishedOn": "2025-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Scaling behavior and giant field enhancement of the thermal conductivity in the honeycomb antiferromagnet ${\\mathrm{BaCo}}_{2}{({\\mathrm{AsO}}_{4})}_{2}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.233002",
-          "author": "Alexander Wilzewski <em>et al.</em>",
-          "description": "Author(s): Alexander Wilzewski et al.\nA hypothetical fifth force could be detected by its effect on the optical transition frequencies of an element’s different isotopes.\n\n[Phys. Rev. Lett. 134, 233002] Published Tue Jun 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.233002",
-          "publishedOn": "2025-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Nonlinear Calcium King Plot Constrains New Bosons and Nuclear Properties",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevLett.134.238101",
-          "author": "Zhongjie Ma, Miao Jiang, Aile Sun, Shengzhu Yi, Jidan Yang, Mingjun Huang, Satoshi Aya, and Qi-Huo Wei",
-          "description": "Author(s): Zhongjie Ma, Miao Jiang, Aile Sun, Shengzhu Yi, Jidan Yang, Mingjun Huang, Satoshi Aya, and Qi-Huo Wei\nA double splay nematic phase is observed experimentally for the first time in the ferroelectric liquid crystal RM734 under cationic polymer coated planar confinement.\n\n[Phys. Rev. Lett. 134, 238101] Published Tue Jun 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.238101",
-          "publishedOn": "2025-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Double Splay Nematic Order in Confined Polar Fluids",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.064409",
-          "author": "Jigyasa Watwani, Sakshi Pahujani, V. Jemseena, Vishal Vasan, and K. Vijay Kumar",
-          "description": "Author(s): Jigyasa Watwani, Sakshi Pahujani, V. Jemseena, Vishal Vasan, and K. Vijay Kumar\nMechanochemical patterns in the actomyosin cortex are known to drive many cellular processes. However, the role of boundary geometry in regulating these patterns remains largely unexplored. This study uses a hydrodynamic model to show how domain curvature and active stress shape distinct spatial patterns in the cortex, consistent with experimental observations in geometrically confined cells.\n#Interdisciplinary #TheoryExperiment\n\n[Phys. Rev. E 111, 064409] Published Tue Jun 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.064409",
-          "publishedOn": "2025-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Influence of boundary geometry on active patterns",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PhysRevE.111.065408",
-          "author": "Peter Lunkenheimer, Daniel Reuter, Arthur Schulz, Martin Wolf, and Alois Loidl",
-          "description": "Author(s): Peter Lunkenheimer, Daniel Reuter, Arthur Schulz, Martin Wolf, and Alois Loidl\nInvestigating water’s controversial glass transition and a possible fragile-strong transition (FST) within its supercooled state is hampered by the inevitable crystallization in a temperature range termed “no-man’s land” (NML). Supercooled water is particularly important because many peculiarities of liquid water may be traced back to the proposed FST. Moreover, glassy water seems to be prevalent in outer space. In this study, the authors explore the NML by extreme broadband dielectric measurements applied to pure water and solutions with a small salt content, quenched to avoid crystallization. They report strong hints of FST in water and address the controversy about its different glass-transition temperatures.\n#AdvancingField #WellStructured #OpenDebate\n\n[Phys. Rev. E 111, 065408] Published Tue Jun 10, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PhysRevE.111.065408",
-          "publishedOn": "2025-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Exploring water's no-man's land",
           "imageUrl": null
         }
       ]
