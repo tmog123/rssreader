@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-12T01:11:46.363Z</id>
+    <id>urn:2025-08-13T01:13:15.052Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T01:11:46.363Z</updated>
+    <updated>2025-08-13T01:13:15.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solution evaluation strategies used by first-year physics students]]></title>
+        <id>http://link.aps.org/doi/10.1103/rsh8-1ftk</id>
+        <link href="http://link.aps.org/doi/10.1103/rsh8-1ftk"/>
+        <updated>2025-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Abolaji R. Akinyemi, Michael E. Loverude, and John R. Thompson
+Evaluating introductory physics student solution checking, the authors find that mostly students do not use evaluation strategies, but when they do, they use three primary strategies.
+
+[Phys. Rev. Phys. Educ. Res. 21, 020114] Published Mon Aug 11, 2025]]></summary>
+        <author>
+            <name>Abolaji R. Akinyemi, Michael E. Loverude, and John R. Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectroscopic visualization of hard quasi-one-dimensional superconductivity induced in nanowires deposited on a quasi-two-dimensional indium film]]></title>
+        <id>http://link.aps.org/doi/10.1103/nfdl-qxmw</id>
+        <link href="http://link.aps.org/doi/10.1103/nfdl-qxmw"/>
+        <updated>2025-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ambikesh Gupta, Pranab Kumar Nag, Shai Kiriati, Samuel D. Escribano, Man Suk Song, Hadas Shtrikman, Yuval Oreg, Nurit Avraham, and Haim Beidenkopf
+Superconductivity is typically induced in semiconductors through high-quality epitaxial interfaces. However, the authors demonstrate here that a robust superconducting state can be spectroscopically observed in semiconducting nanowires simply by mechanically placing them on an indium substrate. A hard superconducting gap is detected on the nanowire’s top facets, up to 100 nanometers from the physical contact with indium. The induced superconductivity exhibits an anisotropic critical field, characteristic of a one-dimensional superconducting state.
+
+[Phys. Rev. B 112, 064513] Published Mon Aug 11, 2025]]></summary>
+        <author>
+            <name>Ambikesh Gupta, Pranab Kumar Nag, Shai Kiriati, Samuel D. Escribano, Man Suk Song, Hadas Shtrikman, Yuval Oreg, Nurit Avraham, and Haim Beidenkopf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear magnetic resonance far off the Larmor frequency: Nonsecular resonances in ${\mathrm{CaF}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/h2sn-wvzm</id>
+        <link href="http://link.aps.org/doi/10.1103/h2sn-wvzm"/>
+        <updated>2025-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Michael Jurkutat, Kajum Safiullin, Pooja Singh, Stephan L. Grage, Jürgen Haase, Boris V. Fine, and Benno Meier
+The canonical treatment of spins in high-field magnetic resonance considers the Zeeman transition that occurs at the Larmor frequency, and includes only secular spin-spin interaction terms, which are those terms that commute with the Zeeman interaction. Here, the authors show that nonsecular terms give rise to resonances far off the Larmor frequency even at high field, provided that the applied B1 field is sufficiently strong.
+
+[Phys. Rev. B 112, L060302] Published Mon Aug 11, 2025]]></summary>
+        <author>
+            <name>Michael Jurkutat, Kajum Safiullin, Pooja Singh, Stephan L. Grage, Jürgen Haase, Boris V. Fine, and Benno Meier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strain-tunable microwave-resonance technique for quantum materials]]></title>
+        <id>http://link.aps.org/doi/10.1103/x9gz-dhmr</id>
+        <link href="http://link.aps.org/doi/10.1103/x9gz-dhmr"/>
+        <updated>2025-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Suguru Hosoi, Kohei Matsuura, Masaaki Shimozawa, Koichi Izawa, Shigeru Kasahara, and Takasada Shibauchi
+Strain control of quantum materials offers exciting opportunities, but progress has been limited by a lack of probes for accessing microscopic electronic properties under strain. This study presents a strain-tunable microwave cavity that integrates a piezoactuator-based device with a high-dielectric rutile resonator, enabling precise measurements of low-energy quasiparticle excitations under tunable strain. Applying this technique to an iron-based superconductor allows direct observation of strain-controlled superconductivity via microwave spectroscopy. This powerful probe for quantum materials might also serve as a platform for future applications, such as quantum hybrid systems.
+
+[Phys. Rev. Applied 24, 024025] Published Mon Aug 11, 2025]]></summary>
+        <author>
+            <name>Suguru Hosoi, Kohei Matsuura, Masaaki Shimozawa, Koichi Izawa, Shigeru Kasahara, and Takasada Shibauchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI-Enabled Parallel Assembly of Thousands of Defect-Free Neutral Atom Arrays]]></title>
         <id>http://link.aps.org/doi/10.1103/2ym8-vs82</id>
@@ -1258,59 +1310,6 @@ The material with the highest-temperature superconductivity at ambient pressure 
 [Phys. Rev. Lett. 135, 046501] Published Tue Jul 22, 2025]]></summary>
         <author>
             <name>M. Horio, M. Miyamoto, Y. Mino, S. Ishida, B. Thiagarajan, C. M. Polley, C. H. Lee, T. Nishio, H. Eisaki, and I. Matsuda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Possible Spin-Triplet Excitonic Insulator in the Ultraquantum Limit of ${\mathrm{HfTe}}_{5}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/bj2n-4k2w</id>
-        <link href="http://link.aps.org/doi/10.1103/bj2n-4k2w"/>
-        <updated>2025-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jinyu Liu, Varsha Subramanyan, Robert Welser, Timothy McSorley, Triet Ho, David Graf, Michael T. Pettes, Avadh Saxena, Laurel E. Winter, Shi-Zeng Lin, and Luis A. Jauregui
-Precise quantum transport measurements reveal a spin-triplet excitonic insulator phase in the ultra-quantum limit of HfTe5, a three-dimensional topological material.
-
-[Phys. Rev. Lett. 135, 046601] Published Tue Jul 22, 2025]]></summary>
-        <author>
-            <name>Jinyu Liu, Varsha Subramanyan, Robert Welser, Timothy McSorley, Triet Ho, David Graf, Michael T. Pettes, Avadh Saxena, Laurel E. Winter, Shi-Zeng Lin, and Luis A. Jauregui</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Markovian Dynamics Method for Solving Non-Markovian Dynamics of Stochastic Gene Expression]]></title>
-        <id>http://link.aps.org/doi/10.1103/tksw-5gb6</id>
-        <link href="http://link.aps.org/doi/10.1103/tksw-5gb6"/>
-        <updated>2025-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Youming Li and Chen Jia
-A two-stage model of gene expression, accounting for an arbitrary distribution of protein degradation times, explains why nonexponentially degraded proteins have smaller mRNA-protein correlation than exponentially degraded proteins.
-
-[Phys. Rev. Lett. 135, 048401] Published Tue Jul 22, 2025]]></summary>
-        <author>
-            <name>Youming Li and Chen Jia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turbulent dynamo in the shell model and the Kazantsev-Kraichnan approach]]></title>
-        <id>http://link.aps.org/doi/10.1103/vf15-z9hf</id>
-        <link href="http://link.aps.org/doi/10.1103/vf15-z9hf"/>
-        <updated>2025-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): I. Abushzada, E. Yushkov, P. Frick, and D. Sokoloff
-By combining two approaches, the shell magnetohydrodynamic model and the Kazantsev-Kraichnan formulation, the authors advance the theory of the turbulent kinetic dynamo, obtaining results of interest for plasma physics, hydrodynamics, astrophysics, and turbulence theory.
-#TechnicalAdvancement #WellStructured
-
-[Phys. Rev. E 112, 015104] Published Tue Jul 22, 2025]]></summary>
-        <author>
-            <name>I. Abushzada, E. Yushkov, P. Frick, and D. Sokoloff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model-independent parametrization of $B→ππℓν$ decays]]></title>
-        <id>http://link.aps.org/doi/10.1103/8pm6-9xzq</id>
-        <link href="http://link.aps.org/doi/10.1103/8pm6-9xzq"/>
-        <updated>2025-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Florian Herren, Bastian Kubis, and Raynette van Tonder
-The authors introduce a sophisticated model-independent parametrization of the form factors governing semileptonic B decays with two pions in the final state, including the resonant contributions via a rho or omega meson. They use a series expansion with unitarity bounds. The parametrization will help the extraction of the CKM matrix element |Vub| from measurements of these semileptonic decays.
-
-[Phys. Rev. D 112, 014037] Published Tue Jul 22, 2025]]></summary>
-        <author>
-            <name>Florian Herren, Bastian Kubis, and Raynette van Tonder</name>
         </author>
     </entry>
 </feed>
