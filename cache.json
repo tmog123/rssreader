@@ -6,6 +6,96 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/6fmx-bsnl",
+          "author": "Paul Tschisgale, Holger Maus, Fabian Kieser, Ben Kroehs, Stefan Petersen, and Peter Wulff",
+          "description": "Author(s): Paul Tschisgale, Holger Maus, Fabian Kieser, Ben Kroehs, Stefan Petersen, and Peter Wulff\nChatGPT 4o outperformed humans on problem solving on German Physics Olympiad problems.\n\n[Phys. Rev. Phys. Educ. Res. 21, 020115] Published Wed Aug 13, 2025",
+          "link": "http://link.aps.org/doi/10.1103/6fmx-bsnl",
+          "publishedOn": "2025-08-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Evaluating GPT- and reasoning-based large language models on Physics Olympiad problems: Surpassing human performance and implications for educational assessment",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/4tdp-mhs9",
+          "author": "M. Alfonso-Moro, V. Guisset, P. David, J. Coraux, and N. Rougemaille",
+          "description": "Author(s): M. Alfonso-Moro, V. Guisset, P. David, J. Coraux, and N. Rougemaille\nFullerene monolayers on Cu(111) exhibit various types of corrugation patterns that can be conviniently imaged by scanning tunneling microscopy. Here, the authors perform a statistical analysis of the molecule–molecule correlations that develop in C60 islands presenting a disordered, stripelike corrugation pattern. Comparing their observations with numerical predictions, they conclude that C60 molecular patterns are described well by a frustrated Ising spin Hamiltonian, and they can distinguish islands presenting a corrugation pattern typical of an equilibrated configuration from those being seemingly nonequilibrated.\n\n[Phys. Rev. B 112, 054431] Published Wed Aug 13, 2025",
+          "link": "http://link.aps.org/doi/10.1103/4tdp-mhs9",
+          "publishedOn": "2025-08-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Describing stripelike corrugation patterns in ${\\mathrm{C}}_{60}$ monolayers grown on Cu(111) using a frustrated spin Hamiltonian",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/9t67-dl2v",
+          "author": "G. M. Ferguson, Run Xiao, Anthony R. Richardella, Austin Kaczmarek, Nitin Samarth, and Katja C. Nowack",
+          "description": "Author(s): G. M. Ferguson, Run Xiao, Anthony R. Richardella, Austin Kaczmarek, Nitin Samarth, and Katja C. Nowack\nMagnetic topological insulators (MTIs) host topologically protected edge states, yet their contribution to electronic transport remains unclear. Using scanning magnetic imaging, the authors study here the current density in an MTI at large bias, where the quantization of the conductivity tensor breaks down. In this regime, they observe enhanced current density at the sample edges coexisting with a uniform bulk current density. The authors propose a model combining the local potential distribution and chemical potential dependent magnetization that reproduces this observed behavior.\n\n[Phys. Rev. B 112, 075414] Published Wed Aug 13, 2025",
+          "link": "http://link.aps.org/doi/10.1103/9t67-dl2v",
+          "publishedOn": "2025-08-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Local potential distribution generates edge currents in a magnetic topological insulator",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/jvd7-v9h9",
+          "author": "Federico Aiace Gorelli, Philip Dalladay-Simpson, Gaston Garbarino, Mohamed Mezouar, Julien Haines, and Mario Santoro",
+          "description": "Author(s): Federico Aiace Gorelli, Philip Dalladay-Simpson, Gaston Garbarino, Mohamed Mezouar, Julien Haines, and Mario Santoro\nNew evidence supports the idea that solid oxygen switches under pressure to an exotic entangled state.\n\n[Phys. Rev. Lett. 135, 076101] Published Tue Aug 12, 2025",
+          "link": "http://link.aps.org/doi/10.1103/jvd7-v9h9",
+          "publishedOn": "2025-08-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Structural Evidence for the Spin Collapse in High Pressure Solid Oxygen",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/76xj-j9qr",
+          "author": "T. W. J. Metzger, P. Fischer, T. Kikkawa, E. Saitoh, A. V. Kimel, and D. Bossini",
+          "description": "Author(s): T. W. J. Metzger, P. Fischer, T. Kikkawa, E. Saitoh, A. V. Kimel, and D. Bossini\nAn experimental approach that combines high external magnetic fields with symmetry analysis is able to separate spin and charge contributions in terahertz emission spectroscopy of antiferromagnets.\n\n[Phys. Rev. Lett. 135, 076702] Published Tue Aug 12, 2025",
+          "link": "http://link.aps.org/doi/10.1103/76xj-j9qr",
+          "publishedOn": "2025-08-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Separating Terahertz Spin and Charge Contributions from Ultrathin Antiferromagnetic Heterostructures",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/9wj9-nmr8",
+          "author": "Aaron B. Buhendwa, Deniz A. Bezgin, Petr Karnakov, Nikolaus A. Adams, and Petros Koumoutsakos",
+          "description": "Author(s): Aaron B. Buhendwa, Deniz A. Bezgin, Petr Karnakov, Nikolaus A. Adams, and Petros Koumoutsakos\nWe present a method for the simultaneous inference of flow fields and obstacle shapes from sparse measurements in steady-state compressible flows. Such inverse problems are highly ill-posed and require strong regularization. We address this by combining the Optimizing a Discrete Loss (ODIL) technique with JAX-Fluids. ODIL minimizes the discrete residual of the governing equations, preserving both the accuracy and convergence properties of the underlying numerical methods. The employed conservative finite-volume scheme, including shock-capturing reconstruction and a sharp-interface immersed boundary method, is crucial for effective regularization and therefore accurate flow field inference.\n\n[Phys. Rev. Fluids 10, 084902] Published Tue Aug 12, 2025",
+          "link": "http://link.aps.org/doi/10.1103/9wj9-nmr8",
+          "publishedOn": "2025-08-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Data-driven shape inference in three-dimensional steady-state supersonic flows: Optimizing a discrete loss with JAX-Fluids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/t3m2-8295",
+          "author": "Gunnar G. Peng and Ory Schnitzer",
+          "description": "Author(s): Gunnar G. Peng and Ory Schnitzer\nThe Quincke effect is a striking symmetry-breaking phenomenon in which a particle undergoes spontaneous rotation when subjected to a sufficiently strong electric field. This study, focused on Quincke rotation of a two-dimensional circular (non-deformable) drop, numerically demonstrates the emergence of bistability as the drop viscosity is reduced relative to that of the surrounding fluid — consistent with experimental observations. It is found that capturing this transition entails resolving the formation of charge-density blowup singularities driven by surface convection.\n\n[Phys. Rev. Fluids 10, L081701] Published Tue Aug 12, 2025",
+          "link": "http://link.aps.org/doi/10.1103/t3m2-8295",
+          "publishedOn": "2025-08-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Bistability and charge-density blowup in the onset of drop Quincke rotation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/j4ky-tn1j",
+          "author": "Xiang-Xiang Sun, Hoai Le, Ulf-G. Meißner, and Andreas Nogga",
+          "description": "Author(s): Xiang-Xiang Sun, Hoai Le, Ulf-G. Meißner, and Andreas Nogga\nFirst principles calculations of nuclear binding and excitation energies have been a dramatic success of the recent era of nuclear structure calculations. Much more challenging have been long-range observables such as radii, in part because the standard harmonic oscillator basis functions fall off too quickly. This work repairs the radial densities by introducing the known exponential tail, leading to much better agreement. As both binding energies and radii are key inputs in constraining theory, this approach may help address a long-standing gap in our fundamental models.\n\n[Phys. Rev. C 112, 024317] Published Tue Aug 12, 2025",
+          "link": "http://link.aps.org/doi/10.1103/j4ky-tn1j",
+          "publishedOn": "2025-08-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Radii of light nuclei from the Jacobi no-core shell model",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/w2y5-rl8s",
+          "author": "Wooil Yang, Sabyasachi Tiwari, Feliciano Giustino, and Young-Woo Son",
+          "description": "Author(s): Wooil Yang, Sabyasachi Tiwari, Feliciano Giustino, and Young-Woo Son\nThere is growing interest in first-principles approaches that unify electronic structure, lattice dynamics, and electron-phonon coupling beyond the reach of standard density functional theory. Here, the authors present a framework that combines density functional perturbation theory with self-consistent Hubbard interactions. Using transparent conducting oxides as an example, they show that this approach accurately describes electron-phonon interactions and related transport and optical properties, achieving excellent agreement with experiments, while remaining computationally efficient for precise and realistic predictions across a broad range of materials.\n\n[Phys. Rev. B 112, 075203] Published Tue Aug 12, 2025",
+          "link": "http://link.aps.org/doi/10.1103/w2y5-rl8s",
+          "publishedOn": "2025-08-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "First-principles electron-phonon interactions with self-consistent Hubbard interaction: Application to transparent conducting oxides",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/rsh8-1ftk",
           "author": "Abolaji R. Akinyemi, Michael E. Loverude, and John R. Thompson",
           "description": "Author(s): Abolaji R. Akinyemi, Michael E. Loverude, and John R. Thompson\nEvaluating introductory physics student solution checking, the authors find that mostly students do not use evaluation strategies, but when they do, they use three primary strategies.\n\n[Phys. Rev. Phys. Educ. Res. 21, 020114] Published Mon Aug 11, 2025",
@@ -913,96 +1003,6 @@
           "publishedOn": "2025-07-24T10:00:00.000Z",
           "wordCount": null,
           "title": "Antisymmetric chiral currents at zero magnetic field in some two-dimensional superconductors",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/k8s3-dgfs",
-          "author": "Hui Yang and Ya-Hui Zhang",
-          "description": "Author(s): Hui Yang and Ya-Hui Zhang\nBased on the random phase approximation, the authors identify here a chiral p-ip superconducting phase in rhombohedral tetralayer graphene. By tuning the displacement field at fixed carrier density, a topological phase transition from a topological superconductor to a trivial superconductor is observed, signaled by a gap closing at the critical point. Near the boundary between the superconducting and Fermi liquid phases, a superconducting state featuring Bogoliubov Fermi surfaces is found. Furthermore, by evaluating the free energy in the superconducting phase, the authors find that an incommensurate Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state is energetically favored at low temperatures.\n\n[Phys. Rev. B 112, L020506] Published Thu Jul 24, 2025",
-          "link": "http://link.aps.org/doi/10.1103/k8s3-dgfs",
-          "publishedOn": "2025-07-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Topological incommensurate Fulde-Ferrell-Larkin-Ovchinnikov superconductor and Bogoliubov Fermi surface in rhombohedral tetralayer graphene",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/6gp4-76td",
-          "author": "E. C. I. Paterson, J. Bourhill, M. E. Tobar, and M. Goryachev",
-          "description": "Author(s): E. C. I. Paterson, J. Bourhill, M. E. Tobar, and M. Goryachev\nThe authors study how a twist in geometrical boundary conditions of a resonator results in helicity of the corresponding electromagnetic field. This work introduces a new source of helicity that can be used for both engineering and sensing of electromagnetic fields. \n\n[Phys. Rev. A 112, 013530] Published Thu Jul 24, 2025",
-          "link": "http://link.aps.org/doi/10.1103/6gp4-76td",
-          "publishedOn": "2025-07-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Electromagnetic helicity in twisted cavity resonators",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/PRXQuantum.6.030312",
-          "author": "Simon Neves, Laura dos Santos Martins, Verena Yacoub, Pascal Lefebvre, Ivan Šupić, Damian Markham, and Eleni Diamanti",
-          "description": "Author(s): Simon Neves, Laura dos Santos Martins, Verena Yacoub, Pascal Lefebvre, Ivan Šupić, Damian Markham, and Eleni Diamanti\nA framework for the certification of quantum information transmission that works under minimal assumptions about the communication channel and takes into account practical information loss is proposed and experimentally verified.\n\n[PRX Quantum 6, 030312] Published Wed Jul 23, 2025",
-          "link": "http://link.aps.org/doi/10.1103/PRXQuantum.6.030312",
-          "publishedOn": "2025-07-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell’s Theorem",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/8mnc-x42q",
-          "author": "Timothy G. Backert, Fabian Brauneis, Matija Čufar, Joachim Brand, Hans-Werner Hammer, and Artem G. Volosniev",
-          "description": "Author(s): Timothy G. Backert, Fabian Brauneis, Matija Čufar, Joachim Brand, Hans-Werner Hammer, and Artem G. Volosniev\nThe problem of strongly attractive fermionic systems in one dimension can be tackled by semianalytical methods.\n\n[Phys. Rev. Lett. 135, 040401] Published Wed Jul 23, 2025",
-          "link": "http://link.aps.org/doi/10.1103/8mnc-x42q",
-          "publishedOn": "2025-07-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Effective Theory for Strongly Attractive One-Dimensional Fermions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/n9sq-8cxw",
-          "author": "Shu-Tong Zhou, Meng Cheng, Tibor Rakovszky, Curt von Keyserlingk, and Tyler D. Ellison",
-          "description": "Author(s): Shu-Tong Zhou, Meng Cheng, Tibor Rakovszky, Curt von Keyserlingk, and Tyler D. Ellison\nThe three-dimensional fermionic toric code shows topological order and long-range entanglement at low but nonzero temperatures due to the anomalous 2-form symmetry of the system.\n\n[Phys. Rev. Lett. 135, 040402] Published Wed Jul 23, 2025",
-          "link": "http://link.aps.org/doi/10.1103/n9sq-8cxw",
-          "publishedOn": "2025-07-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Finite-Temperature Quantum Topological Order in Three Dimensions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/rt4w-v9r8",
-          "author": "Lei Fu, Yuqing Hu, Ning Tang, Junxi Duan, Xionghui Jia, Huaiyuan Yang, Zhuoxian Li, Xiangyan Han, Guoping Li, Jianming Lu, Lun Dai, Weikun Ge, Yugui Yao, and Bo Shen",
-          "description": "Author(s): Lei Fu, Yuqing Hu, Ning Tang, Junxi Duan, Xionghui Jia, Huaiyuan Yang, Zhuoxian Li, Xiangyan Han, Guoping Li, Jianming Lu, Lun Dai, Weikun Ge, Yugui Yao, and Bo Shen\nMultiple spectroscopic measurements, including photoluminescence, Raman, and reflectance contrast spectroscopy in deep-UV regime on monolayer and few-layer hexagonal boron nitride confirm an indirect bandgap in the material.\n\n[Phys. Rev. Lett. 135, 046903] Published Wed Jul 23, 2025",
-          "link": "http://link.aps.org/doi/10.1103/rt4w-v9r8",
-          "publishedOn": "2025-07-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Indirect Band Nature of Atomically Thin Hexagonal Boron Nitride Identified by Resonant Excitation in the Deep Ultraviolet Regime",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qrk2-cym5",
-          "author": "Yuanche Liu, Antonela Matijašić, Julian Miczajka, Yingxuan Xu, Yongqun Xu, and Yang Zhang",
-          "description": "Author(s): Yuanche Liu, Antonela Matijašić, Julian Miczajka, Yingxuan Xu, Yongqun Xu, and Yang Zhang\nModern techniques for calculation of scattering amplitudes have revolutionized precision predictions in perturbative gauge theories, resulting in closed-form expressions for multi-leg and multi-loop amplitudes that can be applied to understanding high energy jet production at hadron colliders. Through an impressive calculation, the authors demonstrate that these modern techniques remain sufficiently powerful to extend the state-of-the-art to five-point, three-loop Feynman integrals that contribute to multi-jet production rates at next-to-next-to-next-to-next-to-leading order in perturbation theory.\n\n[Phys. Rev. D 112, 016021] Published Wed Jul 23, 2025",
-          "link": "http://link.aps.org/doi/10.1103/qrk2-cym5",
-          "publishedOn": "2025-07-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Analytic computation of three-loop five-point Feynman integrals",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/bwpv-z3xh",
-          "author": "Simon Zacharias Lahme, Dominik Dorsel, Heidrun Heinke, Pascal Klein, Andreas Müller, Christoph Stampfer, and Sebastian Staacks",
-          "description": "Author(s): Simon Zacharias Lahme, Dominik Dorsel, Heidrun Heinke, Pascal Klein, Andreas Müller, Christoph Stampfer, and Sebastian Staacks\nAfter implementing nine smartphone based researchers found students to have better affective outcomes and increased agency as compared to those who went through programming tasks.\n\n[Phys. Rev. Phys. Educ. Res. 21, 020110] Published Tue Jul 22, 2025",
-          "link": "http://link.aps.org/doi/10.1103/bwpv-z3xh",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Recitation tasks revamped? Students’ perceptions of smartphone-based experimental and programming tasks in introductory mechanics",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/p4c3-t34b",
-          "author": "M. Horio, M. Miyamoto, Y. Mino, S. Ishida, B. Thiagarajan, C. M. Polley, C. H. Lee, T. Nishio, H. Eisaki, and I. Matsuda",
-          "description": "Author(s): M. Horio, M. Miyamoto, Y. Mino, S. Ishida, B. Thiagarajan, C. M. Polley, C. H. Lee, T. Nishio, H. Eisaki, and I. Matsuda\nThe material with the highest-temperature superconductivity at ambient pressure has received less attention than its easier-to-prepare relatives—until now.\n\n[Phys. Rev. Lett. 135, 046501] Published Tue Jul 22, 2025",
-          "link": "http://link.aps.org/doi/10.1103/p4c3-t34b",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Enhanced Superconducting Gap in the Outer ${\\mathrm{CuO}}_{2}$ Plane of the Trilayer Cuprate $(\\mathrm{Hg},\\text{ }\\mathrm{Re}){\\mathrm{Ba}}_{2}{\\mathrm{Ca}}_{2}{\\mathrm{Cu}}_{3}{\\mathrm{O}}_{8+δ}$",
           "imageUrl": null
         }
       ]
