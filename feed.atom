@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-30T01:03:20.282Z</id>
+    <id>urn:2025-08-31T01:10:58.977Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T01:03:20.282Z</updated>
+    <updated>2025-08-31T01:10:58.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamical logical qubits in the Bacon-Shor code]]></title>
+        <id>http://link.aps.org/doi/10.1103/nfxv-3dp7</id>
+        <link href="http://link.aps.org/doi/10.1103/nfxv-3dp7"/>
+        <updated>2025-08-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Sohaib Alam and Eleanor Rieffel
+Floquet error-correcting codes usually involve non-trivial geometries and encode a small number of logical qubits, but here the authors introduce a Floquet code construction based on the simple Bacon-Shor code, defined on a square lattice, encoding many more logical qubits than previously thought. This opens a new door for dynamical code design.
+
+[Phys. Rev. A 112, 022436] Published Fri Aug 29, 2025]]></summary>
+        <author>
+            <name>M. Sohaib Alam and Eleanor Rieffel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Longitudinal Short-Distance Constraints on Hadronic Light-by-Light Scattering and Tensor-Meson Contributions to the Muon $g−2$]]></title>
         <id>http://link.aps.org/doi/10.1103/dxwr-gpsl</id>
@@ -1295,19 +1308,6 @@ A calculation using thermal effective theory proves new universal behaviors of R
 [Phys. Rev. Lett. 135, 061603] Published Tue Aug 05, 2025]]></summary>
         <author>
             <name>Yuya Kusuki, Hirosi Ooguri, and Sridip Pal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryogenic Optical Lattice Clock with $1.7×{10}^{−20}$ Blackbody Radiation Stark Uncertainty]]></title>
-        <id>http://link.aps.org/doi/10.1103/4tky-jmsm</id>
-        <link href="http://link.aps.org/doi/10.1103/4tky-jmsm"/>
-        <updated>2025-08-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Youssef S. Hassan, Kyle Beloy, Jacob L. Siegel, Takumi Kobayashi, Eric Swiler, Tanner Grogan, Roger C. Brown, Tristan Rojo, Tobias Bothwell, Benjamin D. Hunt, Adam Halaoui, and Andrew D. Ludlow
-A new experimental design eliminates the top source of clock uncertainty.
-
-[Phys. Rev. Lett. 135, 063402] Published Tue Aug 05, 2025]]></summary>
-        <author>
-            <name>Youssef S. Hassan, Kyle Beloy, Jacob L. Siegel, Takumi Kobayashi, Eric Swiler, Tanner Grogan, Roger C. Brown, Tristan Rojo, Tobias Bothwell, Benjamin D. Hunt, Adam Halaoui, and Andrew D. Ludlow</name>
         </author>
     </entry>
 </feed>
