@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-04T01:03:10.866Z</id>
+    <id>urn:2025-09-05T01:04:48.357Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-04T01:03:10.866Z</updated>
+    <updated>2025-09-05T01:04:48.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[String-Breaking Mechanism in a Lattice Schwinger Model Simulator]]></title>
+        <id>http://link.aps.org/doi/10.1103/mwy1-v9hk</id>
+        <link href="http://link.aps.org/doi/10.1103/mwy1-v9hk"/>
+        <updated>2025-09-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ying Liu, Wei-Yong Zhang, Zi-Hang Zhu, Ming-Gen He, Zhen-Sheng Yuan, and Jian-Wei Pan
+An optical-lattice experiment offers a platform for observing dynamics of particle–antiparticle pair creation in quantum field theories.
+
+[Phys. Rev. Lett. 135, 101902] Published Wed Sep 03, 2025]]></summary>
+        <author>
+            <name>Ying Liu, Wei-Yong Zhang, Zi-Hang Zhu, Ming-Gen He, Zhen-Sheng Yuan, and Jian-Wei Pan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanadium dioxide radiative thermal transistor achieves hundredfold amplification of far-field heat current]]></title>
+        <id>http://link.aps.org/doi/10.1103/j53s-hdgg</id>
+        <link href="http://link.aps.org/doi/10.1103/j53s-hdgg"/>
+        <updated>2025-09-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): I. Alonzo-Zapata, C. Champeaux, F. Enguehard, J. Ordonez-Miranda, and F. Dumas-Bouchiat
+Phase-change materials such as VO2 offer exciting possibilities for thermal information processing and energy conversion, thanks to their tunable thermal properties that enable control of far-field radiative heat flow. This study presents a VO2-based radiative thermal transistor that yields 100× amplification of far-field heat current. Along the way, the authors uncover how the phase-transition behavior, shaped by VO2’s microstructure and intrinsic properties, directly influences radiative heat transfer. This work could enable the development of thermal logic circuits, smarter heat management, and innovative thermal devices with enhanced performance.
+
+[Phys. Rev. Applied 24, L031001] Published Wed Sep 03, 2025]]></summary>
+        <author>
+            <name>I. Alonzo-Zapata, C. Champeaux, F. Enguehard, J. Ordonez-Miranda, and F. Dumas-Bouchiat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topological Order in Symmetric Blockade Structures]]></title>
         <id>http://link.aps.org/doi/10.1103/dtlf-2q82</id>
@@ -1282,33 +1308,6 @@ An electron on a ballistic trajectory can be detected with trillionth-of-a-secon
 [Phys. Rev. Lett. 135, 067002] Published Thu Aug 07, 2025]]></summary>
         <author>
             <name>J. D. Fletcher, W. Park, P. See, J. P. Griffiths, G. A. C. Jones, I. Farrer, D. A. Ritchie, H.-S. Sim, and M. Kataoka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curvature effects in the reaction-diffusion system governing frontal polymerization]]></title>
-        <id>http://link.aps.org/doi/10.1103/2j5b-fj6d</id>
-        <link href="http://link.aps.org/doi/10.1103/2j5b-fj6d"/>
-        <updated>2025-08-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Minjiang Zhu, Derrick M. Sanders, Yun Seong Kim, Rohan Shah, Mohammad Tanver Hossain, Randy H. Ewoldt, Sameh H. Tawfick, and Philippe H. Geubelle
-This work demonstrates that concave polymerization fronts exhibit higher temperatures and faster propagation speeds, while convex fronts slow down and can quench beyond a critical curvature. These numerical estimates, validated experimentally, establish how front geometry governs reaction kinetics and curing efficiency in thermoset polymers.
-#TheoryExperiment #SoftMatterSpotlight
-
-[Phys. Rev. E 112, 025410] Published Thu Aug 07, 2025]]></summary>
-        <author>
-            <name>Minjiang Zhu, Derrick M. Sanders, Yun Seong Kim, Rohan Shah, Mohammad Tanver Hossain, Randy H. Ewoldt, Sameh H. Tawfick, and Philippe H. Geubelle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspiral-merger-ringdown waveforms with gravitational self-force results within the effective-one-body formalism]]></title>
-        <id>http://link.aps.org/doi/10.1103/6qc3-xn17</id>
-        <link href="http://link.aps.org/doi/10.1103/6qc3-xn17"/>
-        <updated>2025-08-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Benjamin Leather, Alessandra Buonanno, and Maarten van de Meent
-Self-force theory, while initially adapted for the extreme mass-ratio case of the gravitational two-body problem, has in fact applications in wider contexts. Here, the approach is incorporated into effective one-body theory to develop a waveform model for the entire non-spinning binary coalescence process: inspiral, plunge, merger, and ringdown. Where the approaches can be compared, the model is found to be highly competitive in relation to existing waveform models and numerical relativity.
-
-[Phys. Rev. D 112, 044012] Published Thu Aug 07, 2025]]></summary>
-        <author>
-            <name>Benjamin Leather, Alessandra Buonanno, and Maarten van de Meent</name>
         </author>
     </entry>
 </feed>
