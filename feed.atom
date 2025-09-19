@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-18T01:03:16.136Z</id>
+    <id>urn:2025-09-19T01:05:54.572Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-18T01:03:16.136Z</updated>
+    <updated>2025-09-19T01:05:54.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ultrahigh-Energy Neutrinos from Primordial Black Holes]]></title>
+        <id>http://link.aps.org/doi/10.1103/vnm4-7wdc</id>
+        <link href="http://link.aps.org/doi/10.1103/vnm4-7wdc"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alexandra P. Klipfel and David I. Kaiser
+Black holes born in the early Universe could account for the recently observed ultrahigh-energy astrophysical neutrinos.
+
+[Phys. Rev. Lett. 135, 121003] Published Thu Sep 18, 2025]]></summary>
+        <author>
+            <name>Alexandra P. Klipfel and David I. Kaiser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear wave reconstruction and prediction by a shipborne radar with a dynamic averaging algorithm]]></title>
+        <id>http://link.aps.org/doi/10.1103/jsd9-4kx1</id>
+        <link href="http://link.aps.org/doi/10.1103/jsd9-4kx1"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jinyu Yao, Xinshu Zhang, Huawei Zhou, Xingyu Song, and Alessandro Toffoli
+We develop a nonlinear wave reconstruction and prediction model with a dynamic averaging algorithm, in which shipborne radar images are used for data assimilation to improve the accuracy of wave reconstruction and prediction. Waves around the ship can be accurately predicted for the next few minutes under various sea states. Compared with the linear and second- order models, the new model includes the third-order nonlinear effects; thus, it significantly improves the prediction accuracy of extreme waves under rough sea states, providing effective safety guarantees for ship navigation and operations.
+
+[Phys. Rev. Fluids 10, 094801] Published Thu Sep 18, 2025]]></summary>
+        <author>
+            <name>Jinyu Yao, Xinshu Zhang, Huawei Zhou, Xingyu Song, and Alessandro Toffoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inverse Bauschinger effect in active ultrastable glasses]]></title>
+        <id>http://link.aps.org/doi/10.1103/4ws8-1s7j</id>
+        <link href="http://link.aps.org/doi/10.1103/4ws8-1s7j"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rashmi Priya and Smarajit Karmakar
+Ultrastable glasses can exhibit a transient reversible memory effect when subjected to both a local driving force via run-and-tumble active particles and global shear. The authors simulate such a system and find that it exhibits an enhanced anisotropic response, with lower or higher yield strength in the direction opposite to the original loading, depending on the deformation history.
+#LandmarkContribution #SoftMatterSpotlight
+
+[Phys. Rev. E 112, 035414] Published Thu Sep 18, 2025]]></summary>
+        <author>
+            <name>Rashmi Priya and Smarajit Karmakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction and synthesis of ${\mathrm{Mg}}_{4}{\mathrm{Pt}}_{3}{\mathrm{H}}_{6}$: A superconducting complex transition metal hydride stabilized at ambient pressure]]></title>
+        <id>http://link.aps.org/doi/10.1103/hkx1-lytx</id>
+        <link href="http://link.aps.org/doi/10.1103/hkx1-lytx"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wencheng Lu, Michael J. Hutcheon, Mads F. Hansen, Kapildeb Dolui, Shubham Sinha, Mihir R. Sahoo, Chris J. Pickard, Christoph Heil, Anna Pakhomova, Mohamed Mezouar, Dominik Daisenberger, Stella Chariton, Vitali Prakapenka, Matthew N. Julian, Rohit P. Prasankumar, and Timothy A. Strobel
+Ternary transition-metal complex hydrides—traditionally regarded as hydrogen storage materials—provide a broad chemical space stabilized at low pressures. Here, a previously unknown complex hydride, Mg4Pt3H6, is synthesized under moderate pressures, based on high-throughput calculations. Structural analysis confirms the structure, and electrical transport measurements indicate ambient-pressure superconductivity with Tc ≈ 2.9 K, in agreement with predictions. These findings establish an emerging family of ambient-stable hydride superconductors, enriching ternary hydride chemistry and offering guidance for the design of hydrogen-rich superconductors.
+
+[Phys. Rev. B 112, 094513] Published Thu Sep 18, 2025]]></summary>
+        <author>
+            <name>Wencheng Lu, Michael J. Hutcheon, Mads F. Hansen, Kapildeb Dolui, Shubham Sinha, Mihir R. Sahoo, Chris J. Pickard, Christoph Heil, Anna Pakhomova, Mohamed Mezouar, Dominik Daisenberger, Stella Chariton, Vitali Prakapenka, Matthew N. Julian, Rohit P. Prasankumar, and Timothy A. Strobel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Negative exchange interaction in Si quantum dot arrays via valley-phase induced ${\mathbb{Z}}_{2}$ gauge field]]></title>
+        <id>http://link.aps.org/doi/10.1103/x2jk-714n</id>
+        <link href="http://link.aps.org/doi/10.1103/x2jk-714n"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Benjamin D. Woods
+The exchange interaction in two-electron systems is usually constrained to be non-negative, which inhibits the construction of various dynamically corrected exchange-based gates in semiconductor spin qubits. The authors show here that negative exchange can be realized in two-electron Si quantum dot arrays due to the presence of the valley degree of freedom. Specifically, the authors find that valley phase difference between dots produce a nontrivial ℤ2 gauge field in the low-energy theory, which in turn leads to a negative exchange interaction.
+
+[Phys. Rev. B 112, 125420] Published Thu Sep 18, 2025]]></summary>
+        <author>
+            <name>Benjamin D. Woods</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlocal transport from nonlinear valley responses]]></title>
+        <id>http://link.aps.org/doi/10.1103/pjmx-rmnt</id>
+        <link href="http://link.aps.org/doi/10.1103/pjmx-rmnt"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jin Cao, Hui Wang, Shen Lai, Cong Xiao, and Shengyuan A. Yang
+Reciprocity of valley responses breaks down in nonlinear regime, challenging conventional wisdom. While the linear valley Hall effect and its inverse process have equal response coefficients per Onsager’s principle, nonlinear regimes reveal distinct symmetries and mechanisms. This study unveils a novel framework for nonlocal transport, introducing unique scaling laws as experimental signatures. These breakthroughs deepen nonlinear valleytronics, paving the way for innovative device applications and future explorations.
+
+[Phys. Rev. B 112, L121404] Published Thu Sep 18, 2025]]></summary>
+        <author>
+            <name>Jin Cao, Hui Wang, Shen Lai, Cong Xiao, and Shengyuan A. Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bounding the sample fluctuation for pure-state certification with local random measurement]]></title>
+        <id>http://link.aps.org/doi/10.1103/8zth-7n97</id>
+        <link href="http://link.aps.org/doi/10.1103/8zth-7n97"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Langxuan Chen and Pengfei Zhang
+The authors derive lower bounds on sample complexity for quantum state certification, related to the size of measurement operators. These bounds assess protocol efficiency and show that local Haar measurement protocols cannot be efficient for all states.
+
+[Phys. Rev. A 112, 032217] Published Thu Sep 18, 2025]]></summary>
+        <author>
+            <name>Langxuan Chen and Pengfei Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Combined Annual Modulation Dark Matter Search with COSINE-100 and ANAIS-112]]></title>
         <id>http://link.aps.org/doi/10.1103/9j7w-qp1c</id>
@@ -1220,97 +1312,6 @@ The authors create a spatially bounded supersonic region in a two-dimensional at
 [Phys. Rev. A 112, L031301] Published Tue Sep 02, 2025]]></summary>
         <author>
             <name>Hikaru Tamura, Sergei Khlebnikov, Cheng-An Chen, and Chen-Lung Hung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamical logical qubits in the Bacon-Shor code]]></title>
-        <id>http://link.aps.org/doi/10.1103/nfxv-3dp7</id>
-        <link href="http://link.aps.org/doi/10.1103/nfxv-3dp7"/>
-        <updated>2025-08-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): M. Sohaib Alam and Eleanor Rieffel
-Floquet error-correcting codes usually involve non-trivial geometries and encode a small number of logical qubits, but here the authors introduce a Floquet code construction based on the simple Bacon-Shor code, defined on a square lattice, encoding many more logical qubits than previously thought. This opens a new door for dynamical code design.
-
-[Phys. Rev. A 112, 022436] Published Fri Aug 29, 2025]]></summary>
-        <author>
-            <name>M. Sohaib Alam and Eleanor Rieffel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longitudinal Short-Distance Constraints on Hadronic Light-by-Light Scattering and Tensor-Meson Contributions to the Muon $g−2$]]></title>
-        <id>http://link.aps.org/doi/10.1103/dxwr-gpsl</id>
-        <link href="http://link.aps.org/doi/10.1103/dxwr-gpsl"/>
-        <updated>2025-08-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jonas Mager, Luigi Cappiello, Josef Leutgeb, and Anton Rebhan
-A holographic-QCD-based ansatz suggests that the contribution from a tower of tensor mesons could explain why the values of muon g−2 from the dispersive analysis and lattice QCD differ.
-
-[Phys. Rev. Lett. 135, 091901] Published Thu Aug 28, 2025]]></summary>
-        <author>
-            <name>Jonas Mager, Luigi Cappiello, Josef Leutgeb, and Anton Rebhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding the Ultranarrow ${^{3}P}_{2}→{^{3}P}_{0}$ Electric Quadrupole Transition in ${\mathrm{Ni}}^{12+}$ Ion for an Optical Clock]]></title>
-        <id>http://link.aps.org/doi/10.1103/flwf-c2m1</id>
-        <link href="http://link.aps.org/doi/10.1103/flwf-c2m1"/>
-        <updated>2025-08-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Charles Cheung, Sergey G. Porsev, Dmytro Filin, Marianna S. Safronova, Malte Wehrheim, Lukas J. Spieß, Shuying Chen, Alexander Wilzewski, José R. Crespo López-Urrutia, and Piet O. Schmidt
-A novel hybrid approach calculates the frequency of a strongly forbidden clock transition in a highly charged ion.
-
-[Phys. Rev. Lett. 135, 093002] Published Thu Aug 28, 2025]]></summary>
-        <author>
-            <name>Charles Cheung, Sergey G. Porsev, Dmytro Filin, Marianna S. Safronova, Malte Wehrheim, Lukas J. Spieß, Shuying Chen, Alexander Wilzewski, José R. Crespo López-Urrutia, and Piet O. Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electrical Control of Ultrafast Magnetic Speeds in Graphene Spin Field-Effect Junctions]]></title>
-        <id>http://link.aps.org/doi/10.1103/7ldk-csp9</id>
-        <link href="http://link.aps.org/doi/10.1103/7ldk-csp9"/>
-        <updated>2025-08-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): David Muradas-Belinchón, Suchetana Mukhopadhyay, Francesco Foggetti, Surya N. Panda, Olof Karis, Peter M. Oppeneer, Anjan Barman, and M. Venkata Kamalakar
-Graphene spin field-effect junctions for electric-field control of ultrafast spin dynamics tune magnetic speeds in spintronic devices.
-
-[Phys. Rev. Lett. 135, 097001] Published Thu Aug 28, 2025]]></summary>
-        <author>
-            <name>David Muradas-Belinchón, Suchetana Mukhopadhyay, Francesco Foggetti, Surya N. Panda, Olof Karis, Peter M. Oppeneer, Anjan Barman, and M. Venkata Kamalakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flow-Driven Stretch Fluctuations Govern the Nonlinear Viscoelasticity of Elongating Associative Polymer Networks]]></title>
-        <id>http://link.aps.org/doi/10.1103/kgrd-8gkb</id>
-        <link href="http://link.aps.org/doi/10.1103/kgrd-8gkb"/>
-        <updated>2025-08-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Songyue Liu and Thomas C. O’Connor
-Associative polymer networks exhibit broad stretch fluctuations under elongational flow, leading to a rate-dependent viscosity.
-
-[Phys. Rev. Lett. 135, 098101] Published Thu Aug 28, 2025]]></summary>
-        <author>
-            <name>Songyue Liu and Thomas C. O’Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topography of Fermi arcs in $t\text{−}{\mathrm{PtBi}}_{2}$ using high-resolution angle-resolved photoemission spectroscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/n5pz-j2sl</id>
-        <link href="http://link.aps.org/doi/10.1103/n5pz-j2sl"/>
-        <updated>2025-08-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Evan O'Leary, Zhuoqi Li, Lin-Lin Wang, Benjamin Schrunk, Andrew Eaton, Paul C. Canfield, and Adam Kaminski
-Topological semimetals are considered important for future developments of ultralow-power fast electronics that utilize spin rather than charge for storing and processing information. Weyl semimetals are important member of this family, as they host Fermi arcs, along which the spin of electrons is locked to their momenta. In most previously studied materials, the Fermi arcs are in very close proximity to other features of the band structure (e.g., NbAs), which makes it difficult to study these objects. Here, the authors find that in t-PtBi2, the arcs are well separated from other features, which allows a conclusive demonstration that they are indeed disconnected contours in the momentum space, spanning two Weyl points of opposing polarity. Since the Fermi arcs in PtBi2 are the main feature in the Fermi surface, it is likely that it would be easier to harness their unusual spin properties.
-
-[Phys. Rev. B 112, 085154] Published Thu Aug 28, 2025]]></summary>
-        <author>
-            <name>Evan O'Leary, Zhuoqi Li, Lin-Lin Wang, Benjamin Schrunk, Andrew Eaton, Paul C. Canfield, and Adam Kaminski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple magnetic transitions, anomalous Hall effect, and tunable surface states in $\mathrm{Mn}{({\mathrm{Bi}}_{1−x}{\mathrm{Sb}}_{x})}_{4}{\mathrm{Te}}_{7}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/7swz-xkrt</id>
-        <link href="http://link.aps.org/doi/10.1103/7swz-xkrt"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chandan De, Keisuke Fukutani, Junho Seo, Roland Stania, Koichiro Yaji, Kenta Kuroda, Kenya Shimada, Jun Sung Kim, Han Woong Yeom, and Sang-Wook Cheong
-Mn(Bi1−xSbx)4Te7 is a layered magnetic topological material that hosts multiple magnetic ground states and tunable surface Dirac states. This system is particularly suited for studying the interplay between magnetism and topology, relevant to quantum anomalous Hall phases. Here, the authors investigate the evolution of surface electronic structure using high-resolution angle-resolved photoemission spectroscopy (ARPES) on high-quality single crystals. They find that Sb doping drives a transition from gapless to gapped Dirac surface states, revealing how subtle chemical tuning controls topological and magnetic properties in this material family.
-
-[Phys. Rev. B 112, 085151] Published Wed Aug 27, 2025]]></summary>
-        <author>
-            <name>Chandan De, Keisuke Fukutani, Junho Seo, Roland Stania, Koichiro Yaji, Kenta Kuroda, Kenya Shimada, Jun Sung Kim, Han Woong Yeom, and Sang-Wook Cheong</name>
         </author>
     </entry>
 </feed>
