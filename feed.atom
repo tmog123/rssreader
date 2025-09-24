@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-23T01:04:04.726Z</id>
+    <id>urn:2025-09-24T01:04:48.783Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T01:04:04.726Z</updated>
+    <updated>2025-09-24T01:04:48.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First Law of Binary Black Hole Scattering]]></title>
+        <id>http://link.aps.org/doi/10.1103/s85p-gh7b</id>
+        <link href="http://link.aps.org/doi/10.1103/s85p-gh7b"/>
+        <updated>2025-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Riccardo Gonzo, Jack Lewis, and Adam Pound
+A derivation of the first law of binary black hole scattering includes dissipative effects.
+
+[Phys. Rev. Lett. 135, 131401] Published Tue Sep 23, 2025]]></summary>
+        <author>
+            <name>Riccardo Gonzo, Jack Lewis, and Adam Pound</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unraveling Dicke Superradiant Decay with Separable Coherent Spin States]]></title>
+        <id>http://link.aps.org/doi/10.1103/xcxr-sm9c</id>
+        <link href="http://link.aps.org/doi/10.1103/xcxr-sm9c"/>
+        <updated>2025-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): P. Rosario, L. O. R. Solak, A. Cidrim, R. Bachelard, and J. Schachenmayer
+Scientists have shown that entanglement plays no role in a form of collective light emission called Dicke superradiance, settling a long-standing debate.
+
+[Phys. Rev. Lett. 135, 133602] Published Tue Sep 23, 2025]]></summary>
+        <author>
+            <name>P. Rosario, L. O. R. Solak, A. Cidrim, R. Bachelard, and J. Schachenmayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum phase transitions between symmetry-enriched fracton phases]]></title>
+        <id>http://link.aps.org/doi/10.1103/fsr8-xd4n</id>
+        <link href="http://link.aps.org/doi/10.1103/fsr8-xd4n"/>
+        <updated>2025-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Julian Boesl, Yu-Jie Liu, Wen-Tao Xu, Frank Pollmann, and Michael Knap
+Fracton order is a novel type of quantum order in three dimensions with excitations of subdimensional mobility. Here, the authors propose a scheme to study different fractionalization patterns under global symmetries for such states: by tuning paths of exact isometric tensor networks, they uncover direct phase transitions of the X-cube model into phases where its excitations transform nontrivially under an anti-unitary symmetry. Their approach allows for sequential or holographic preparation schemes along the entire path, promising attainable implementation of 3D phase transitions on current quantum devices.
+
+[Phys. Rev. B 112, 125152] Published Tue Sep 23, 2025]]></summary>
+        <author>
+            <name>Julian Boesl, Yu-Jie Liu, Wen-Tao Xu, Frank Pollmann, and Michael Knap</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fracton models from product codes]]></title>
         <id>http://link.aps.org/doi/10.1103/f48m-rlh3</id>
@@ -1273,45 +1312,6 @@ New predictions from linearized quantum gravity show that delocalized sources an
 [Phys. Rev. X 15, 031063] Published Thu Sep 04, 2025]]></summary>
         <author>
             <name>Lin-Qing Chen and Flaminia Giacomini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Abelian Fractional Chern Insulators and Competing States in Flat Moiré Bands]]></title>
-        <id>http://link.aps.org/doi/10.1103/43nq-ntqm</id>
-        <link href="http://link.aps.org/doi/10.1103/43nq-ntqm"/>
-        <updated>2025-09-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hui Liu, Zhao Liu, and Emil J. Bergholtz
-By tuning the coupling strength between twisted bilayers in a moiré material, transitioning the flat band from the regime of the lowest Landau level to the second Landau level, phase transitions occur between gapless composite Fermi liquids, charge density waves, and genuine Moore-Read states.
-
-[Phys. Rev. Lett. 135, 106604] Published Thu Sep 04, 2025]]></summary>
-        <author>
-            <name>Hui Liu, Zhao Liu, and Emil J. Bergholtz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hydrodynamics of Cooperation and Self-Interest in a Two-Population Occupation Model]]></title>
-        <id>http://link.aps.org/doi/10.1103/3bj7-jc92</id>
-        <link href="http://link.aps.org/doi/10.1103/3bj7-jc92"/>
-        <updated>2025-09-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jérôme Garnier-Brun, Ruben Zakine, and Michael Benzaquen
-Socioeconomic systems, where individualistic and altruistic agents coexist and interact, can be analytically characterized through state-of-the-art tools from active matter at the hydrodynamics scale.
-
-[Phys. Rev. Lett. 135, 107402] Published Thu Sep 04, 2025]]></summary>
-        <author>
-            <name>Jérôme Garnier-Brun, Ruben Zakine, and Michael Benzaquen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deciphering Complexity in Human Brain Organoids via a Novel Hurst Exponent Estimation]]></title>
-        <id>http://link.aps.org/doi/10.1103/kl6z-ctdd</id>
-        <link href="http://link.aps.org/doi/10.1103/kl6z-ctdd"/>
-        <updated>2025-09-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mariana Sacrini Ayres Ferraz, Alysson R. Muotri, and Alexandre Hiroaki Kihara
-A method that estimates the Hurst exponent directly from a binary spike train series suggests that the coefficient of variation of the exponent, rather than the exponent itself, more accurately reflects neural complexity during organoid maturation.
-
-[Phys. Rev. Lett. 135, 108402] Published Thu Sep 04, 2025]]></summary>
-        <author>
-            <name>Mariana Sacrini Ayres Ferraz, Alysson R. Muotri, and Alexandre Hiroaki Kihara</name>
         </author>
     </entry>
 </feed>
