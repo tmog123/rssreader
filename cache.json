@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/j7b8-pb77",
+          "author": "Hong-Ye Hu, Muzhou Ma, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, and Susanne F. Yelin",
+          "description": "Author(s): Hong-Ye Hu, Muzhou Ma, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, and Susanne F. Yelin\nA novel Hamiltonian learning algorithm achieves Heisenberg-limited precision without prior structural assumptions, treating the quantum system as a black box and revealing a fundamental trade-off between evolution time and controllability.\n\n[PRX Quantum 6, 040315] Published Wed Oct 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/j7b8-pb77",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Ansatz-Free Hamiltonian Learning with Heisenberg-Limited Scaling",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/ydxb-1tfx",
+          "author": "Hao Chen, Dan Mao, Andrea Kouta Dagnino, Glenn Wagner, Mark H. Fischer, Juraj Hasik, Eun-Ah Kim, and Titus Neupert",
+          "description": "Author(s): Hao Chen, Dan Mao, Andrea Kouta Dagnino, Glenn Wagner, Mark H. Fischer, Juraj Hasik, Eun-Ah Kim, and Titus Neupert\nSpinless fermions on a honeycomb lattice with cluster-charging interactions are analyzed using exact diagonalization and high-order perturbation theory. The model features a kinetic-energy-driven sequence: a classical liquid freezes into charge order and subsequently transforms into a fractional Chern insulator as kinematic constraints are gradually lifted.\n\n[Phys. Rev. Research 7, L042021] Published Wed Oct 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/ydxb-1tfx",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "How quantum fluctuations freeze a classical liquid and then melt it into a topological one",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/lh6x-7rc3",
+          "author": "Armando Angrisani, Alexander Schmidhuber, Manuel S. Rudolph, M. Cerezo, Zoë Holmes, and Hsin-Yuan Huang",
+          "description": "Author(s): Armando Angrisani, Alexander Schmidhuber, Manuel S. Rudolph, M. Cerezo, Zoë Holmes, and Hsin-Yuan Huang\nEstimation of observables of quantum circuits exhibiting chaotic and locally scrambling behavior is classically tractable across all geometries.\n\n[Phys. Rev. Lett. 135, 170602] Published Wed Oct 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/lh6x-7rc3",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Classically Estimating Observables of Noiseless Quantum Circuits",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/xd97-c6d7",
+          "author": "Ralf Schützhold",
+          "description": "Author(s): Ralf Schützhold\nA proposed scheme for emitting gravitons in a verifiable earth-bound experiment may serve as a probe for quantum gravity.\n\n[Phys. Rev. Lett. 135, 171501] Published Wed Oct 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/xd97-c6d7",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Stimulated Emission or Absorption of Gravitons by Light",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/dqm7-p5vp",
+          "author": "James D. Shemilt, Alice B. Thompson, Alex Horsley, Carl A. Whitfield, and Oliver E. Jensen",
+          "description": "Author(s): James D. Shemilt, Alice B. Thompson, Alex Horsley, Carl A. Whitfield, and Oliver E. Jensen\nThe surface-tension-driven instability of a liquid film coating a vertical tube can lead to the formation of liquid collars that drift downwards under gravity. This scenario is relevant to the flow of mucus in lung airways. Using thin-film theory, we investigate the formation and motion of collars when the liquid film is viscoplastic. In the limit of weak gravity relative to capillary effects, we quantify the reduction in steady collar speed due to viscoplasticity, and identify conditions under which viscoplastic collars translate steadily, whilst steady motion does not occur in the Newtonian case.\n\n[Phys. Rev. Fluids 10, 103301] Published Wed Oct 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/dqm7-p5vp",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Viscoplasticity can stabilize liquid collar motion on vertical cylinders",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/4dm4-kc4g",
+          "author": "Ahmed A. Elgohary and Sameh A. Eisa",
+          "description": "Author(s): Ahmed A. Elgohary and Sameh A. Eisa\nA new study suggests that a simple feedback mechanism enables the steady hovering of flapping insects and hummingbirds.\n\n[Phys. Rev. E 112, 044412] Published Wed Oct 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/4dm4-kc4g",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hovering flight in flapping insects and hummingbirds: A natural real-time and stable extremum-seeking feedback system",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/7l9s-g21j",
+          "author": "Dongjun Li, Colin Weller, Patrick Bourg, Michael LaHaye, Nicolás Yunes, and Huan Yang",
+          "description": "Author(s): Dongjun Li, Colin Weller, Patrick Bourg, Michael LaHaye, Nicolás Yunes, and Huan Yang\nExtreme-mass-ratio binaries are important sources of gravitational waves (GW) for space-based GW detectors such as LISA. Employing the newly developed modified Teukolsky formalism, the present paper develops a systematic method for computing scalar radiation from binary inspirals into supermassive black holes in a scalar cloud environment.\n\n[Phys. Rev. D 112, 084057] Published Wed Oct 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/7l9s-g21j",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Extreme mass-ratio inspiral within an ultralight scalar cloud: Scalar radiation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/lkwg-4dbt",
+          "author": "Arman Sauliere, Beatrice Magni, Guglielmo Lami, Xhek Turkeshi, and Jacopo De Nardis",
+          "description": "Author(s): Arman Sauliere, Beatrice Magni, Guglielmo Lami, Xhek Turkeshi, and Jacopo De Nardis\nThe authors uncover here a universal functional form governing anticoncentration, which quantifies how broadly the output probabilities of a random quantum circuit are distributed, across architectures, depths, and even finite system sizes. Using analytical models and extensive simulations, they show that these distributions are characterized by just two parameters. Their results highlight finite-size and finite-depth effects and provide a practical framework for benchmarking quantum devices, enabling validation of much larger systems than previously possible.\n\n[Phys. Rev. B 112, 134312] Published Wed Oct 22, 2025",
+          "link": "http://link.aps.org/doi/10.1103/lkwg-4dbt",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Universality in the anticoncentration of chaotic quantum circuits",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/1wc9-xgdj",
           "author": "Maria Al Dehaybes, Johan Deprez, Paul van Kampen, and Mieke De Cock",
           "description": "Author(s): Maria Al Dehaybes, Johan Deprez, Paul van Kampen, and Mieke De Cock\nThe APOS theory (action, process, object, schema) from mathematics education research illuminates the interplay of mathematics and physics in the context of the 2D heat equation.\n\n[Phys. Rev. Phys. Educ. Res. 21, 020132] Published Tue Oct 21, 2025",
@@ -923,86 +1003,6 @@
           "publishedOn": "2025-10-02T10:00:00.000Z",
           "wordCount": null,
           "title": "Drops Can Perpetually Bounce over a Vibrating Wettable Solid",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/chxj-fgq7",
-          "author": "Sergei M. Kopeikin",
-          "description": "Author(s): Sergei M. Kopeikin\nThis paper elaborates an approach to the problem of rotating self-gravitating fluids in Newtonian theory. The foundations laid in this paper should have wide applications in the modeling of planets, stars and other astrophysical bodies, both in isolated equilibrium and under the influence of external tidal forces.\n\n[Phys. Rev. D 112, 076002] Published Thu Oct 02, 2025",
-          "link": "http://link.aps.org/doi/10.1103/chxj-fgq7",
-          "publishedOn": "2025-10-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Lie group theory of multipole moments and shape of stationary rotating fluid bodies",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ssfn-sz4c",
-          "author": "A. Tcakaev, V. B. Zabolotnyy, R. J. Green, L. T. Corredor, M. Valvidares, P. Gargiani, E. Weschke, L. C. Folkers, T. R. F. Peixoto, F. Reinert, M. W. Haverkort, A. Isaeva, and V. Hinkov",
-          "description": "Author(s): A. Tcakaev, V. B. Zabolotnyy, R. J. Green, L. T. Corredor, M. Valvidares, P. Gargiani, E. Weschke, L. C. Folkers, T. R. F. Peixoto, F. Reinert, M. W. Haverkort, A. Isaeva, and V. Hinkov\nHow similar are the surface and bulk in a magnetic topological insulator? The authors combine here surface- and bulk-sensitive x-ray experimental techniques (XAS, XMCD, XMLD) with a novel Fourier-based method to remove complicated backgrounds, and ab initio multiplet ligand field theory (MLFT) modeling of the spectra. This combination shows that MnBi6Te10 exhibits nearly identical surface and bulk electronic and magnetic properties, with a single parameter set reproducing all the spectra. The introduced framework delivers background-resilient quantification of core-level spectra in layered magnets and provides constraints for models of exchange gaps in topological surface states.\n\n[Phys. Rev. B 112, 144406] Published Thu Oct 02, 2025",
-          "link": "http://link.aps.org/doi/10.1103/ssfn-sz4c",
-          "publishedOn": "2025-10-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Consistent surface and bulk magnetic properties of ${\\mathrm{MnBi}}_{6}{\\mathrm{Te}}_{10}$ observed by x-ray absorption spectroscopy",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qtwf-f99d",
-          "author": "Hai Hoang Thi Thanh, Damien Jamon, Chloé Landreau, James Hainsworth, Adriana Morana, Laure Bsawmaii, Emmanuel Marin, Sophie Neveu, Florent Bourquard, Patrick Ganster, Nicolas Moulin, and François Royer",
-          "description": "Author(s): Hai Hoang Thi Thanh, Damien Jamon, Chloé Landreau, James Hainsworth, Adriana Morana, Laure Bsawmaii, Emmanuel Marin, Sophie Neveu, Florent Bourquard, Patrick Ganster, Nicolas Moulin, and François Royer\nThe authors report here an in situ method for probing the temperature during hyperthermia experiment, through the real-time monitoring of optical properties of magnetic nanoparticles. A setup allows inducing magnetic hyperthermia using an alternating magnetic field while simultaneously measuring the magneto-induced birefringence and optical absorption. As the temperature increases, the birefringence and absorption of magnetic nanoparticles decrease and vice versa. These findings offer a noninvasive and nondestructive method for probing temperature, and in particular provide a way to measure local temperature.\n\n[Phys. Rev. B 112, 155107] Published Thu Oct 02, 2025",
-          "link": "http://link.aps.org/doi/10.1103/qtwf-f99d",
-          "publishedOn": "2025-10-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Noninvasive temperature measurement of magnetic hyperthermia investigated through optical properties",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/p1cm-9z8n",
-          "author": "Yahui Li, Pablo Sala, Frank Pollmann, Sanjay Moudgalya, and Olexei Motrunich",
-          "description": "Author(s): Yahui Li, Pablo Sala, Frank Pollmann, Sanjay Moudgalya, and Olexei Motrunich\nWhile symmetric systems are ubiquitously studied in physics, imperfections inevitably occur. This work introduces a general framework to study how symmetry-breaking impurities influence the relaxation dynamics of quantum many-body systems. The authors analytically show that the remnants of the original symmetries can persist for long times, leading to slow relaxation in correlation functions with a larger power-law decay exponent or long prethermal plateaus. The methods apply to both conventional symmetries, such as charge conservation, and unconventional ones like Hilbert space fragmentation.\n\n[Phys. Rev. B 112, 155108] Published Thu Oct 02, 2025",
-          "link": "http://link.aps.org/doi/10.1103/p1cm-9z8n",
-          "publishedOn": "2025-10-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dynamics in the presence of local symmetry-breaking impurities",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/k64w-cvsh",
-          "author": "Felix I. Frontini, Christopher J. S. Heath, Bo Yuan, Corey M. Thompson, John Greedan, Adam J. Hauser, F. Y. Yang, Mark P. M. Dean, Mary H. Upton, Diego M. Casa, and Young-June Kim",
-          "description": "Author(s): Felix I. Frontini, Christopher J. S. Heath, Bo Yuan, Corey M. Thompson, John Greedan, Adam J. Hauser, F. Y. Yang, Mark P. M. Dean, Mary H. Upton, Diego M. Casa, and Young-June Kim\nThe interplay of spin-orbit coupling and electronic correlation in multiorbital crystalline systems has a profound impact on their magnetic and electronic properties. Unfortunately, these energy scales are similar in 5d systems and are difficult to disentangle even with knowledge of the electronic energy levels. Here, the authors remove this ambiguity by comparing L2 and L3 edge resonant inelastic x-ray scattering measurements of 5d2 double perovskites and using dipole selection rules to determine the energy scales of spin-orbit and Hund’s coupling.\n\n[Phys. Rev. B 112, 165103] Published Thu Oct 02, 2025",
-          "link": "http://link.aps.org/doi/10.1103/k64w-cvsh",
-          "publishedOn": "2025-10-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Resonant inelastic x-ray scattering investigation of Hund's and spin-orbit coupling in $5{d}^{2}$ double perovskites",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3lrt-ygwp",
-          "author": "Jacob Ngaha, Scott Parkins, and Howard J. Carmichael",
-          "description": "Author(s): Jacob Ngaha, Scott Parkins, and Howard J. Carmichael\nTwo-photon transitions in ladder systems have been well-studied for decades, but the field is experiencing a resurgence due to interest in quantum dots and artificial atoms. Here, the authors study the experimentally relevant case of atoms with a three-level ladder structure driven by a coherent field close to two-photon resonance.\n\n[Phys. Rev. A 112, 043701] Published Thu Oct 02, 2025",
-          "link": "http://link.aps.org/doi/10.1103/3lrt-ygwp",
-          "publishedOn": "2025-10-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Two-photon resonance fluorescence in a three-level ladder-type atom",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/y29y-f63h",
-          "author": "A. McCay, A. McIlvenny, A. Macchi, L. Romagnani, P. Martin, O. Cavanagh, D. P. Molloy, L. Lancia, T. Dzelzainis, H. Ahmed, J. Sarma, S. Kar, D. Margarone, and M. Borghesi",
-          "description": "Author(s): A. McCay, A. McIlvenny, A. Macchi, L. Romagnani, P. Martin, O. Cavanagh, D. P. Molloy, L. Lancia, T. Dzelzainis, H. Ahmed, J. Sarma, S. Kar, D. Margarone, and M. Borghesi\nResearchers have shown experimentally that ultraintense lasers can drive high-amplitude surface plasma waves without the need for intricate structures.\n\n[Phys. Rev. Lett. 135, 145001] Published Wed Oct 01, 2025",
-          "link": "http://link.aps.org/doi/10.1103/y29y-f63h",
-          "publishedOn": "2025-10-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Surface Wave Electron Acceleration from Flat Foils at Parallel Laser Incidence",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ksdx-mnd7",
-          "author": "F. Matias, N. E. Koval, P. de Vera, R. Garcia-Molina, I. Abril, J. M. B. Shorto, H. Yoriyaz, J. J. N. Pereira, T. F. Silva, M. H. Tabacniks, M. Vos, and P. L. Grande",
-          "description": "Author(s): F. Matias, N. E. Koval, P. de Vera, R. Garcia-Molina, I. Abril, J. M. B. Shorto, H. Yoriyaz, J. J. N. Pereira, T. F. Silva, M. H. Tabacniks, M. Vos, and P. L. Grande\nA modified DFT method for computing stopping power data across different phases of water shows that liquid water and amorphous ice are indistinguishable in their ability to slow down protons across the relevant energy ranges of medical interest\n\n[Phys. Rev. Lett. 135, 148003] Published Wed Oct 01, 2025",
-          "link": "http://link.aps.org/doi/10.1103/ksdx-mnd7",
-          "publishedOn": "2025-10-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Stopping Cross Sections for Protons Across Different Phases of Water",
           "imageUrl": null
         }
       ]
