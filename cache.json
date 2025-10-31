@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/wbbs-s8fs",
+          "author": "Stewart Morawetz and Anatoli Polkovnikov",
+          "description": "Author(s): Stewart Morawetz and Anatoli Polkovnikov\nA novel Hamiltonian-independent method for counterdiabatic driving is developed; showing its efficacy depends on high-frequency response and enabling applications in quantum annealing and experiments.\n\n[PRX Quantum 6, 040320] Published Wed Oct 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/wbbs-s8fs",
+          "publishedOn": "2025-10-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Universal Counterdiabatic Driving in Krylov Space",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/lbg7-5h8b",
           "author": "Jeffrey G. Ulbrandt, Xiaozhi Zhang, and Randall L. Headrick",
           "description": "Author(s): Jeffrey G. Ulbrandt, Xiaozhi Zhang, and Randall L. Headrick\nUnderstanding atomistic transport mechanisms during pulsed laser deposition (PLD) remains a central challenge for the synthesis of complex oxide thin films. This study combines time-resolved X-ray scattering and kinetic Monte Carlo simulations to reveal the dynamics of a two-stage relaxation process following each laser pulse. Fast nonthermal transport is followed by slower detachment-limited ripening of transient islands, showing how local coordination-dependent energy barriers govern interlayer mass transport. These findings provide new insight into PLD growth dynamics and demonstrate how the specular and diffuse scattering captures both vertical and lateral surface evolution on submonolayer length and time scales.\n\n[Phys. Rev. Materials 9, 103405] Published Wed Oct 29, 2025",
@@ -16,13 +26,43 @@
           "imageUrl": null
         },
         {
+          "id": "http://link.aps.org/doi/10.1103/pqhl-nbtk",
+          "author": "Jernej Rudi Finžgar, Simone Notarnicola, Madelyn Cain, Mikhail D. Lukin, and Dries Sels",
+          "description": "Author(s): Jernej Rudi Finžgar, Simone Notarnicola, Madelyn Cain, Mikhail D. Lukin, and Dries Sels\nTheorists have proposed a universal recipe for trying to quickly prepare a system in a desired ground state without exciting it.\n\n[Phys. Rev. Lett. 135, 180602] Published Wed Oct 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/pqhl-nbtk",
+          "publishedOn": "2025-10-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Counterdiabatic Driving with Performance Guarantees",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/l47r-plxq",
+          "author": "Kristof Moors, Christian Wagner, Helmut Soltner, Felix Lüpke, F. Stefan Tautz, and Bert Voigtländer",
+          "description": "Author(s): Kristof Moors, Christian Wagner, Helmut Soltner, Felix Lüpke, F. Stefan Tautz, and Bert Voigtländer\nCriteria are identified that can discriminate between ballistic and resistive edge channels in multiterminal transport.\n\n[Phys. Rev. Lett. 135, 186301] Published Wed Oct 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/l47r-plxq",
+          "publishedOn": "2025-10-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Distributed Current Injection into a One-Dimensional Ballistic Edge Channel",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/zm39-dstj",
           "author": "Daniele Guerci, Ahmed Abouelkomsan, and Liang Fu",
-          "description": "Author(s): Daniele Guerci, Ahmed Abouelkomsan, and Liang Fu\nWe show that interacting electrons in a flat Chern band can form, in addition to fractional Chern insulators, a chiral $f$-wave topological superconductor that hosts neutral Majorana fermion edge modes. Superconductivity emerges from an interaction-induced metallic state that exhibits anomalous Hall…\n[Phys. Rev. Lett. 135, 186601] Published Wed Oct 29, 2025",
+          "description": "Author(s): Daniele Guerci, Ahmed Abouelkomsan, and Liang Fu\nInteracting electrons in a flat Chern band can form a chiral f-wave topological superconductor that hosts neutral Majorana fermion edge modes, in addition to fractional Chern insulators.\n\n[Phys. Rev. Lett. 135, 186601] Published Wed Oct 29, 2025",
           "link": "http://link.aps.org/doi/10.1103/zm39-dstj",
           "publishedOn": "2025-10-29T10:00:00.000Z",
           "wordCount": null,
           "title": "From Fractionalization to Chiral Topological Superconductivity in a Flat Chern Band",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/9v3n-fnjd",
+          "author": "Yu Jun Loo and Silas Alben",
+          "description": "Author(s): Yu Jun Loo and Silas Alben\nWe present a numerical method for thin plates falling in inviscid fluid that incorporates leading-edge vortex shedding. Including leading-edge vortex shedding restores physical dynamics to inviscid vortex sheet simulations, enabling large-amplitude fluttering and tumbling.\n\n[Phys. Rev. Fluids 10, 104701] Published Wed Oct 29, 2025",
+          "link": "http://link.aps.org/doi/10.1103/9v3n-fnjd",
+          "publishedOn": "2025-10-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Falling plates with leading-edge vortex shedding",
           "imageUrl": null
         },
         {
@@ -963,46 +1003,6 @@
           "publishedOn": "2025-10-14T10:00:00.000Z",
           "wordCount": null,
           "title": "Doping-induced nematic and stripe orders within the charge density wave state of ${\\mathrm{TiSe}}_{2}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/xn86-676c",
-          "author": "James P. McInerney, Othman Oudghiri-Idrissi, Carson L. Willey, Serife Tol, Xiaoming Mao, and Abigail Juhl",
-          "description": "Author(s): James P. McInerney, Othman Oudghiri-Idrissi, Carson L. Willey, Serife Tol, Xiaoming Mao, and Abigail Juhl\nTopological mechanical metamaterials offer platforms to control the propagation of mechanical waves, but are challenging to integrate into physical systems, because of their complex fabrication requirements. This study uses theoretical arguments and numerical simulations to design a self-supporting topological mechanical metamaterial that can isolate vibrations from sensitive payloads. Improving the ability to isolate vibration, however, comes at the cost of the ability to support an external load. The architecture described here shows promise for integrating topological mechanical metamaterials into engineered solutions to vibration isolation and impact mitigation.\n\n[Phys. Rev. Applied 24, 044037] Published Tue Oct 14, 2025",
-          "link": "http://link.aps.org/doi/10.1103/xn86-676c",
-          "publishedOn": "2025-10-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Topological polarization of kagome tubes and applications toward vibration isolation",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/jykb-d8f1",
-          "author": "Nikhil Bachhawat and Vladimir Litvinenko",
-          "description": "Author(s): Nikhil Bachhawat and Vladimir Litvinenko\nSymplectic maps are essential in finding analytically tractable solutions to the three-dimensional Maxwell-Vlasov equations in the relativistic, space-charge dominated regime. However, start-to-end symplectic tracking codes are not readily available, especially for photo-injectors. In this paper, we present a symplectification algorithm that transforms mechanical into canonical coordinates, while accounting for external EM fields and self-field space charge forces. Demonstrated on the 113 MHz SRF photo-injector at BNL’s Coherent electron Cooling (CeC) experiment, this algorithm is broadly applicable and enables further analytical evaluation of microscopic instabilities.\n\n[Phys. Rev. Accel. Beams 28, 104602] Published Tue Oct 14, 2025",
-          "link": "http://link.aps.org/doi/10.1103/jykb-d8f1",
-          "publishedOn": "2025-10-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Extracting symplectic maps for space-charge dominated beams",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/5v11-cwv2",
-          "author": "O. N. Prudnikov, V. I. Yudin, A. V. Taichenachev, L. Zhou, and M. S. Zhan",
-          "description": "Author(s): O. N. Prudnikov, V. I. Yudin, A. V. Taichenachev, L. Zhou, and M. S. Zhan\nDespite their prevalence in cold-atom physics, magneto-optical traps are still modeled semiclassically, with the exception of some numerical works on quantum models performed decades ago. Here, the authors present a quantum theory of the magneto-optical trap from first principles, providing a significant step towards a complete theoretical understanding of laser cooling and trapping of atoms.\n\n[Phys. Rev. A 112, 043112] Published Tue Oct 14, 2025",
-          "link": "http://link.aps.org/doi/10.1103/5v11-cwv2",
-          "publishedOn": "2025-10-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quantum theory of a magneto-optical trap",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/rkdq-5skq",
-          "author": "Eleanor Weckwerth, Andrew J. Howard, Chuan Cheng, Ian Gabalski, Aaron M. Ghrist, Salma A. Mohideen, Chii-Dong Lin, Chi-Hong Yuen, and Philip H. Bucksbaum",
-          "description": "Author(s): Eleanor Weckwerth, Andrew J. Howard, Chuan Cheng, Ian Gabalski, Aaron M. Ghrist, Salma A. Mohideen, Chii-Dong Lin, Chi-Hong Yuen, and Philip H. Bucksbaum\nThe authors present a combined experimental and theoretical study of strong-field-induced electronic coherences in argon and molecular nitrogen ions as a step towards strong-field coherent control in molecular chemistry. They find that nonsequential double ionization in the low-intensity region of the focal volume can reduce the visibility of coherence generated by two-pulse sequential ionization, and quantify the importance of pulse shape and spectral characteristics for isolating the desired coherence signals.\n\n[Phys. Rev. A 112, 043113] Published Tue Oct 14, 2025",
-          "link": "http://link.aps.org/doi/10.1103/rkdq-5skq",
-          "publishedOn": "2025-10-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Optical interference effect in strong-field electronic coherence spectroscopy",
           "imageUrl": null
         }
       ]
