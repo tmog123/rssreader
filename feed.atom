@@ -1,10 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-03T01:12:32.690Z</id>
+    <id>urn:2025-11-04T01:09:23.217Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T01:12:32.690Z</updated>
+    <updated>2025-11-04T01:09:23.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Polynomial-Time Classical Algorithm for Noisy Quantum Circuits]]></title>
+        <id>http://link.aps.org/doi/10.1103/xct1-7kf2</id>
+        <link href="http://link.aps.org/doi/10.1103/xct1-7kf2"/>
+        <updated>2025-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Thomas Schuster, Chao Yin, Xun Gao, and Norman Y. Yao
+A new classical algorithm shows that noise restricts non-error-corrected quantum computational power more generally than previously recognized.
+
+[Phys. Rev. X 15, 041018] Published Mon Nov 03, 2025]]></summary>
+        <author>
+            <name>Thomas Schuster, Chao Yin, Xun Gao, and Norman Y. Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding decoherence in molecular spin qudits]]></title>
+        <id>http://link.aps.org/doi/10.1103/16rd-tv1q</id>
+        <link href="http://link.aps.org/doi/10.1103/16rd-tv1q"/>
+        <updated>2025-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Leonardo Ratini, Giacomo Sansone, Elena Garlatti, Francesco Petiziol, Stefano Carretta, and Paolo Santini
+The primary source of error in molecular spin qudits under spin-echo control at low-temperature is pure dephasing, caused by their interactions with surrounding nuclear spins. This work demonstrates that coherence is preserved over time if and only if the expectation values of local spin operators on the involved eigenstates are identical. The analytic result is corroborated by numerical simulations performed using the cluster correlation expansion method to model the non-Markovian dynamics of these systems, providing a strategy to engineer robust qudits for quantum technologies.
+
+[Phys. Rev. Research 7, 043125] Published Mon Nov 03, 2025]]></summary>
+        <author>
+            <name>Leonardo Ratini, Giacomo Sansone, Elena Garlatti, Francesco Petiziol, Stefano Carretta, and Paolo Santini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovery of Universal Phonon Thermal Hall Effect in Crystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/r572-5dfm</id>
+        <link href="http://link.aps.org/doi/10.1103/r572-5dfm"/>
+        <updated>2025-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): X. B. Jin, X. Zhang, W. B. Wan, H. R. Wang, Y. H. Jiao, and S. Y. Li
+Observation of the thermal Hall effect in nonmagnetic insulators and semiconductors characterized by a universal scaling behavior of the thermal Hall coefficient and the longitudinal thermal conductivity might point towards an intrinsic effect purely driven by phonons.
+
+[Phys. Rev. Lett. 135, 196302] Published Mon Nov 03, 2025]]></summary>
+        <author>
+            <name>X. B. Jin, X. Zhang, W. B. Wan, H. R. Wang, Y. H. Jiao, and S. Y. Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moiré-Induced Magnetoelectricity in Twisted Bilayer ${\mathrm{NiI}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/p6n8-n1rx</id>
+        <link href="http://link.aps.org/doi/10.1103/p6n8-n1rx"/>
+        <updated>2025-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Haiyan Zhu, Hongyu Yu, Weiqin Zhu, Guoliang Yu, Changsong Xu, and Hongjun Xiang
+Twist-induced structural distortions induce ferroelectricity and polar magnetic topologies in bilayer NiI2.
+
+[Phys. Rev. Lett. 135, 196701] Published Mon Nov 03, 2025]]></summary>
+        <author>
+            <name>Haiyan Zhu, Hongyu Yu, Weiqin Zhu, Guoliang Yu, Changsong Xu, and Hongjun Xiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric dynamics of signal propagation predict trainability of transformers]]></title>
+        <id>http://link.aps.org/doi/10.1103/gjsm-l642</id>
+        <link href="http://link.aps.org/doi/10.1103/gjsm-l642"/>
+        <updated>2025-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Aditya Cowsik, Tamra Nebabu, Xiaoliang Qi, and Surya Ganguli
+In the context of machine learning, a novel permutation-symmetric ansatz allows the authors to extend earlier results from the multilayer perceptron to a transformer architecture. The study of the correlations inside the model and between the model weights and data should lead to a deeper understanding of the structure of trained transformers.
+#MachineLearningSpotlight #WellStructured #AdvancingField
+
+[Phys. Rev. E 112, 055301] Published Mon Nov 03, 2025]]></summary>
+        <author>
+            <name>Aditya Cowsik, Tamra Nebabu, Xiaoliang Qi, and Surya Ganguli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weak phonon coupling to nematic quantum critical mode in ${\mathrm{BaFe}}_{2}{({\mathrm{As}}_{1−x}{\mathrm{P}}_{x})}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/dpd1-mbhw</id>
+        <link href="http://link.aps.org/doi/10.1103/dpd1-mbhw"/>
+        <updated>2025-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. Wu, D. Ishikawa, A. Q. R. Baron, A. Alatas, A. H. Said, Jiayu Guo, Y. He, X. Chen, Y. Song, J. G. Analytis, Dung-Hai Lee, and R. J. Birgeneau
+Despite intense focus on quantum critical behavior, microscopic information on the evolution of spin and nematic correlations remains scarce. Using high-resolution inelastic scattering, the authors investigate here in-plane transverse acoustic phonons in BaFe2(As1−xPx)2 near its nematic quantum critical point. The authors observe a weak coupling between the critical nematic fluctuations and the lattice near the critical regime. Together with theory, this result suggests the nature of nematicity evolves from spin-driven with strong lattice coupling in the underdoped regime to orbital-driven with weak coupling near the critical point.
+
+[Phys. Rev. B 112, 174302] Published Mon Nov 03, 2025]]></summary>
+        <author>
+            <name>S. Wu, D. Ishikawa, A. Q. R. Baron, A. Alatas, A. H. Said, Jiayu Guo, Y. He, X. Chen, Y. Song, J. G. Analytis, Dung-Hai Lee, and R. J. Birgeneau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lattice dynamics of the infinite-layer nickelate ${\mathrm{LaNiO}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/rk6x-2f3r</id>
+        <link href="http://link.aps.org/doi/10.1103/rk6x-2f3r"/>
+        <updated>2025-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shohei Hayashida, Vignesh Sundaramurthy, Wenfeng Wu, Pascal Puphal, Thomas Keller, Björn Fåk, Masahiko Isobe, Bernhard Keimer, Karsten Held, Liang Si, and Matthias Hepting
+Infinite-layer nickelates have recently emerged as a new family of unconventional superconductors, yet their lattice dynamics remained inaccessible to previous studies on powder and thin film samples. Here, the authors i investigate phonons in bulk crystals of the infinite-layer nickelate LaNiO2 using time-of-flight inelastic neutron scattering and density functional perturbation theory. These findings provide a quantitative benchmark for the lattice dynamics of LaNiO2 and lay the groundwork for exploring possible links between phonons and electronic properties in this material family.
+
+[Phys. Rev. B 112, 205104] Published Mon Nov 03, 2025]]></summary>
+        <author>
+            <name>Shohei Hayashida, Vignesh Sundaramurthy, Wenfeng Wu, Pascal Puphal, Thomas Keller, Björn Fåk, Masahiko Isobe, Bernhard Keimer, Karsten Held, Liang Si, and Matthias Hepting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tunable Josephson voltage source for quantum circuits]]></title>
+        <id>http://link.aps.org/doi/10.1103/3xvr-ryh1</id>
+        <link href="http://link.aps.org/doi/10.1103/3xvr-ryh1"/>
+        <updated>2025-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J.-L. Smirr, P. Manset, and Ç.Ö. Girit
+A tunable voltage source with ultralow noise would move the frontier in experimental quantum electronics. The authors have developed a cryogenic superconducting voltage source that provides the same metrological precision as a Josephson voltage standard, while being widely and continuously tunable. They demonstrate how the source can be coupled to quantum circuits, and that it has extremely low noise over a huge voltage range. This tunable Josephson voltage source opens possibilities for observing fresh physical phenomena, and has applications in quantum information and mesoscopic physics.
+
+[Phys. Rev. Applied 24, 054003] Published Mon Nov 03, 2025]]></summary>
+        <author>
+            <name>J.-L. Smirr, P. Manset, and Ç.Ö. Girit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emergent Dynamics of Active Elastic Microbeams]]></title>
         <id>http://link.aps.org/doi/10.1103/rjk2-q2wh</id>
@@ -1210,110 +1315,6 @@ The authors generalize here three-dimensional ℤ2 stabilizer models—the X-cub
 [Phys. Rev. B 112, 155136] Published Thu Oct 16, 2025]]></summary>
         <author>
             <name>Chanbeen Lee, Yaozong Hu, Gil Young Cho, and Haruki Watanabe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formation of a simple cubic antiferromagnet through charge ordering in a double Dirac material]]></title>
-        <id>http://link.aps.org/doi/10.1103/5cdt-yhnx</id>
-        <link href="http://link.aps.org/doi/10.1103/5cdt-yhnx"/>
-        <updated>2025-10-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tanya Berry, Vincent C. Morano, Thomas Halloran, Xin Zhang, Tyler J. Slade, Aashish Sapkota, Sergey L. Bud'ko, Weiwei Xie, Dominic H. Ryan, Zhijun Xu, Yang Zhao, Jeffrey W. Lynn, Tom Fennell, Paul C. Canfield, Collin L. Broholm, and Tyrel M. McQueen
-How do charge and magnetic order conspire to reduce symmetry in rare earth magnets? At high-temperatures, the Eu2+ and Eu3+ ions in mixed-valent EuPd3S4 are randomly distributed on a body-centered-cubic lattice. Here, the authors find a charge ordering transition in which each valence occupies one of the two constituent simple cubic sublattices. The Néel transition emerging from this charge ordered state at lower temperatures realizes an important yet uncommon variety of rare-earth antiferromagnetism.
-
-[Phys. Rev. B 112, 155139] Published Thu Oct 16, 2025]]></summary>
-        <author>
-            <name>Tanya Berry, Vincent C. Morano, Thomas Halloran, Xin Zhang, Tyler J. Slade, Aashish Sapkota, Sergey L. Bud'ko, Weiwei Xie, Dominic H. Ryan, Zhijun Xu, Yang Zhao, Jeffrey W. Lynn, Tom Fennell, Paul C. Canfield, Collin L. Broholm, and Tyrel M. McQueen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entangled Dual-Comb Spectroscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/plh2-cr8s</id>
-        <link href="http://link.aps.org/doi/10.1103/plh2-cr8s"/>
-        <updated>2025-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Abdulkarim Hariri, Shuai Liu, Haowei Shi, Quntao Zhuang, Xudong Fan, and Zheshen Zhang
-Entangled dual-comb spectroscopy combines a classical comb with an entangled quantum comb to suppress photon noise, achieving faster, more precise measurements than classical methods and enabling advanced sensing and metrology applications.
-
-[Phys. Rev. X 15, 041009] Published Wed Oct 15, 2025]]></summary>
-        <author>
-            <name>Abdulkarim Hariri, Shuai Liu, Haowei Shi, Quntao Zhuang, Xudong Fan, and Zheshen Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multimode Cavity QED Ising Spin Glass]]></title>
-        <id>http://link.aps.org/doi/10.1103/x19r-pzyb</id>
-        <link href="http://link.aps.org/doi/10.1103/x19r-pzyb"/>
-        <updated>2025-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Brendan P. Marsh, David Atri Schuller, Yunpeng Ji, Henry S. Hunt, Giulia Z. Socolof, Deven P. Bowman, Jonathan Keeling, and Benjamin L. Lev
-Ultracold atoms in a multimode cavity form an equilibrium spin glass.
-
-[Phys. Rev. Lett. 135, 160403] Published Wed Oct 15, 2025]]></summary>
-        <author>
-            <name>Brendan P. Marsh, David Atri Schuller, Yunpeng Ji, Henry S. Hunt, Giulia Z. Socolof, Deven P. Bowman, Jonathan Keeling, and Benjamin L. Lev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Femtosecond and Attosecond Phase-Space Correlations in Few-Particle Photoelectron Pulses]]></title>
-        <id>http://link.aps.org/doi/10.1103/lylq-m63c</id>
-        <link href="http://link.aps.org/doi/10.1103/lylq-m63c"/>
-        <updated>2025-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Rudolf Haindl, Valerio Di Giulio, Armin Feist, and Claus Ropers
-Electrostatic repulsion between electrons usually impairs the performance of electron microscopes. Now it can be turned into an advantage.
-
-[Phys. Rev. Lett. 135, 165002] Published Wed Oct 15, 2025]]></summary>
-        <author>
-            <name>Rudolf Haindl, Valerio Di Giulio, Armin Feist, and Claus Ropers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Identifying Electronic Doorway States in Secondary Electron Emission from Layered Materials]]></title>
-        <id>http://link.aps.org/doi/10.1103/qls7-tr4v</id>
-        <link href="http://link.aps.org/doi/10.1103/qls7-tr4v"/>
-        <updated>2025-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Niggas, M. Hao, P. Richter, F. Simperl, F. Blödorn, M. Cap, J. Kero, D. Hofmann, A. Bellissimo, J. Burgdörfer, T. Seyller, R. A. Wilhelm, F. Libisch, and W. S. M. Werner
-Experiments coupled with DFT calculations uncover signatures of resonances that act as doorway states for low-energy electron emission in layered materials.
-
-[Phys. Rev. Lett. 135, 166401] Published Wed Oct 15, 2025]]></summary>
-        <author>
-            <name>A. Niggas, M. Hao, P. Richter, F. Simperl, F. Blödorn, M. Cap, J. Kero, D. Hofmann, A. Bellissimo, J. Burgdörfer, T. Seyller, R. A. Wilhelm, F. Libisch, and W. S. M. Werner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phase Matching of High Harmonic Generation in Twisted van der Waals Crystals]]></title>
-        <id>http://link.aps.org/doi/10.1103/kskc-qlb3</id>
-        <link href="http://link.aps.org/doi/10.1103/kskc-qlb3"/>
-        <updated>2025-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chenjun Ma, Chen Huang, Yilong You, Huazhan Liu, Zhitong Ding, Mingchao Ding, Chang Liu, Jin Zhang, Guixin Li, Zhipei Sun, Shiwei Wu, Chaojie Ma, Enge Wang, Hao Hong, and Kaihui Liu
-A strategy for phase matching high-harmonic generation with arbitrary harmonic orders in crystals enables the development of ultrashort-wavelength and ultrafast-pulse laser sources in tabletop systems.
-
-[Phys. Rev. Lett. 135, 166902] Published Wed Oct 15, 2025]]></summary>
-        <author>
-            <name>Chenjun Ma, Chen Huang, Yilong You, Huazhan Liu, Zhitong Ding, Mingchao Ding, Chang Liu, Jin Zhang, Guixin Li, Zhipei Sun, Shiwei Wu, Chaojie Ma, Enge Wang, Hao Hong, and Kaihui Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toward scale-separated weak-field spherical dynamos]]></title>
-        <id>http://link.aps.org/doi/10.1103/9r2f-t4wk</id>
-        <link href="http://link.aps.org/doi/10.1103/9r2f-t4wk"/>
-        <updated>2025-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): R. J. Teed and E. Dormy
-Recent numerical experiments of dynamo action relevant to the generation of the geomagnetic field have produced different regime branches identified within bifurcation diagrams. In this work, we identify a variety of dynamo states on the weak-field branch beyond the known dipolar solutions. Some solutions exhibit clear scale separation between small-scale flow and large-scale magnetic field, despite the large ratio of viscosity to magnetic diffusion. Numerical solutions in this regime have not been observed before and they offer a first connection with earlier theoretical work based on mean-field theory.
-
-[Phys. Rev. Fluids 10, 103702] Published Wed Oct 15, 2025]]></summary>
-        <author>
-            <name>R. J. Teed and E. Dormy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three-dimensional topological orbital Hall effect caused by magnetic hopfions]]></title>
-        <id>http://link.aps.org/doi/10.1103/sc9g-l9by</id>
-        <link href="http://link.aps.org/doi/10.1103/sc9g-l9by"/>
-        <updated>2025-10-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Börge Göbel and Samir Lounis
-Hopfions are three-dimensional topological spin textures characterized by an integer topological invariant known as the Hopf index. The authors reveal here that magnetic hopfions give rise to a unique orbital Hall effect, producing transverse currents of orbital angular momentum in three dimensions. This response provides a clear electronic hallmark of hopfions, allowing them to be distinguished from related textures such as skyrmions. The three-dimensional transport behavior of hopfions originates from their noncollinear emergent field and underlying topology.
-
-[Phys. Rev. B 112, 134426] Published Wed Oct 15, 2025]]></summary>
-        <author>
-            <name>Börge Göbel and Samir Lounis</name>
         </author>
     </entry>
 </feed>
