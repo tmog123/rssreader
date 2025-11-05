@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/xkqs-grnd",
+          "author": "Oscar W. Kennedy, Jared H. Cole, and Connor D. Shelly",
+          "description": "Author(s): Oscar W. Kennedy, Jared H. Cole, and Connor D. Shelly\nResistance optimization guided by a new theoretical model of qubit resistance leads to improved tuning of Josephson junctions used in the manufacture of superconducting qubits and quantum processors.\n\n[Phys. Rev. Lett. 135, 196202] Published Tue Nov 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/xkqs-grnd",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Josephson Junction Tuning Described by Depinning Physics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/wh5t-12fn",
+          "author": "E. Kirstein, H. Park, I. Martin, J. F. Mitchell, N. J. Ghimire, and S. A. Crooker",
+          "description": "Author(s): E. Kirstein, H. Park, I. Martin, J. F. Mitchell, N. J. Ghimire, and S. A. Crooker\nResearchers use a magneto-optical technique to image and manipulate magnetic domains in a chiral antiferromagnet, opening new routes for spin-based electronics.\n\n[Phys. Rev. Lett. 135, 196702] Published Tue Nov 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/wh5t-12fn",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Topological Magneto-optics in the Noncoplanar Antiferromagnet ${\\mathrm{Co}}_{1/3}{\\mathrm{NbS}}_{2}$: Imaging and Writing Chiral Magnetic Domains",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/nccj-mw1y",
+          "author": "S. Isayama, S. Matsukiyo, T. Sano, and S. H. Chen",
+          "description": "Author(s): S. Isayama, S. Matsukiyo, T. Sano, and S. H. Chen\nThis study addresses particle acceleration up to relativistic energies via a nonlinear evolution of a large-amplitude Alfvén wave. A multistage process is observed in numerical particle-in-cell simulations. The results provide insights into coherent wave-particle interactions in collisionless plasmas with potential implications for the understanding of high-energy cosmic-ray generation in astrophysical environments such as pulsar magnetospheres, accretion disks, and relativistic jets.\n#AdvancingField\n\n[Phys. Rev. E 112, 055201] Published Tue Nov 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/nccj-mw1y",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Relativistic multistage resonant and trailing-field acceleration induced by large-amplitude Alfvén waves in a strong magnetic field",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/42dk-54hl",
+          "author": "Evan P. Willmarth, Weiwei Jin, Dong Wang, Amit Datye, Udo D. Schwarz, Mark D. Shattuck, and Corey S. O'Hern",
+          "description": "Author(s): Evan P. Willmarth, Weiwei Jin, Dong Wang, Amit Datye, Udo D. Schwarz, Mark D. Shattuck, and Corey S. O'Hern\nThis manuscript investigates the mechanical response, i.e. non-affine displacement, of jammed disk packings subject to athermal, quasistatic shear. The authors identify that isolated effective quadrupoles emerge upon shearing and that these are correlated with the breaking of interparticle contacts. They interpret the numerical results in terms of Eshelby-like triangle defects.\n#SoftMatterSpotlight #AdvancingField\n\n[Phys. Rev. E 112, 055402] Published Tue Nov 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/42dk-54hl",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Particle-scale origin of quadrupolar nonaffine displacement fields in granular solids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/n28s-ggzc",
+          "author": "Xun Liu and Mi Jiang",
+          "description": "Author(s): Xun Liu and Mi Jiang\nThe multilayer cuprates host the highest superconducting transition temperature while their underlying physical mechanism remains unclear. By employing large-scale dynamical cluster quantum Monte Carlo simulations, the authors show here that the trilayer Hubbard model, with a realistic doping distribution within three layers, exhibits a higher Tc than the single-layer model. This work also provides strong numerical evidence on the possibility of d-wave superconductivity solely hosted in the inner layer.\n\n[Phys. Rev. B 112, L201103] Published Tue Nov 04, 2025",
+          "link": "http://link.aps.org/doi/10.1103/n28s-ggzc",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Enhanced superconductivity via layer differentiation in the trilayer Hubbard model",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/xct1-7kf2",
           "author": "Thomas Schuster, Chao Yin, Xun Gao, and Norman Y. Yao",
           "description": "Author(s): Thomas Schuster, Chao Yin, Xun Gao, and Norman Y. Yao\nA new classical algorithm shows that noise restricts non-error-corrected quantum computational power more generally than previously recognized.\n\n[Phys. Rev. X 15, 041018] Published Mon Nov 03, 2025",
@@ -953,56 +1003,6 @@
           "publishedOn": "2025-10-16T10:00:00.000Z",
           "wordCount": null,
           "title": "Landscape of quantum information science and engineering education: From physics foundations to interdisciplinary frontiers",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/gkkt-yysp",
-          "author": "Ginestra Bianconi",
-          "description": "Author(s): Ginestra Bianconi\nThis study establishes a conceptual and mathematical connection between the Perona-Malik anisotropic diffusion algorithm and the entropic quantum gravity framework based on geometric quantum relative entropy. The proposal lies at the interface of machine learning, information theory, and quantum gravity.\n#TimelyTopic #Interdisciplinary #MachineLearningSpotlight\n\n[Phys. Rev. E 112, L043301] Published Thu Oct 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/gkkt-yysp",
-          "publishedOn": "2025-10-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Beyond holography: The entropic quantum gravity foundations of anisotropic diffusion",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/prxt-x26h",
-          "author": "Qu Cao and Fan Zhu",
-          "description": "Author(s): Qu Cao and Fan Zhu\nCalculating higher-loop scattering amplitudes in pure Yang-Mills theory is a long-standing challenge. By using a novel geometric framework for scattering amplitudes, the authors develop a recursive method based on “cut equations” to compute all-loop integrands in pure Yang-Mills theory in the limit of large number of colors (planar limit). They explicitly provide the results for the two-loop five-point integrand.\n\n[Phys. Rev. D 112, 085012] Published Thu Oct 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/prxt-x26h",
-          "publishedOn": "2025-10-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "All-loop planar integrands in Yang-Mills theory from recursion",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/bl5n-m7sy",
-          "author": "Chenyang Lu, Bentley Turner, Jiguang Yao, Lihua Zhong, Mun Kim, Ying Yang, and Can-Ming Hu",
-          "description": "Author(s): Chenyang Lu, Bentley Turner, Jiguang Yao, Lihua Zhong, Mun Kim, Ying Yang, and Can-Ming Hu\nLong-range signal propagation is essential for modern communication and quantum technologies, yet it induces travelling wave mediated indirect coupling between distant resonators. This effect is often obscured in steady-state transmission due to interference. Here, the authors demonstrate this information concealment and reveal the hidden coupling in a meter-separated cavity magnon–polariton system. The coupling is observed in time-domain transient measurements, independently confirmed by frequency-domain steady-state absorption. The underlying mechanism is further validated using coupled LRC circuits, providing a unified understanding across platforms.\n\n[Phys. Rev. B 112, 134309] Published Thu Oct 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/bl5n-m7sy",
-          "publishedOn": "2025-10-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Temporal evolution of indirectly coupled resonators in open systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/sn9r-3cx2",
-          "author": "Han Liu, Chang Liu, Yanming Ma, and Changfeng Chen",
-          "description": "Author(s): Han Liu, Chang Liu, Yanming Ma, and Changfeng Chen\nNear room temperature superconductivity in superhydrides is an exemplary case of theory-driven discovery of novel physics. There are, however, crucial discrepancies, ranging from subtle to prominent, between theory and experiment. Taking H3S as a model system, the authors show here that deviatoric stress, prevalent in high-pressure experiments yet unrecognized in prevailing theories, have a major impact on key structural and superconducting properties, reconciling theoretical and experimental results. These findings highlight significant influence of deviatoric stress on material behaviors under extreme compression.\n\n[Phys. Rev. B 112, 134518] Published Thu Oct 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/sn9r-3cx2",
-          "publishedOn": "2025-10-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Impact of deviatoric stress on the stability and superconductivity of ${\\mathrm{H}}_{3}\\mathrm{S}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qctl-hwvh",
-          "author": "Chanbeen Lee, Yaozong Hu, Gil Young Cho, and Haruki Watanabe",
-          "description": "Author(s): Chanbeen Lee, Yaozong Hu, Gil Young Cho, and Haruki Watanabe\nThe authors generalize here three-dimensional ℤ2 stabilizer models—the X-cube, toric code, and Haah’s code—to their ℤN counterparts, revealing size-dependent ground-state degeneracy and novel excitations. They demonstrate that the generalized X-cube hosts quasi-fractons that remain immobile under local operations but become mobile via global ones. In the toric code, both closed-loop and open-string excitations emerge, while Haah’s code features new fracton tripole and monopole excitations. These findings uncover unconventional topological orders and broaden the understanding of fracton phases beyond the conventional ℤ2 framework.\n\n[Phys. Rev. B 112, 155136] Published Thu Oct 16, 2025",
-          "link": "http://link.aps.org/doi/10.1103/qctl-hwvh",
-          "publishedOn": "2025-10-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "${\\mathbb{Z}}_{N}$ generalizations of three-dimensional stabilizer codes",
           "imageUrl": null
         }
       ]
