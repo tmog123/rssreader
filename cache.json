@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/gpcy-lnc2",
+          "author": "Wentian Zheng, Ke Bian, Jiyu Xu, Xiakun Chen, Shichen Zhang, Rainer Stöhr, Andrej Denisenko, Jörg Wrachtrup, Sheng Meng, and Ying Jiang",
+          "description": "Author(s): Wentian Zheng, Ke Bian, Jiyu Xu, Xiakun Chen, Shichen Zhang, Rainer Stöhr, Andrej Denisenko, Jörg Wrachtrup, Sheng Meng, and Ying Jiang\nA scheme combining a scanning probe microscope with a quantum sensor can locally trigger water dissociation and observe the elementary steps of such a reaction.\n\n[Phys. Rev. Lett. 135, 208001] Published Mon Nov 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/gpcy-lnc2",
+          "publishedOn": "2025-11-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Probing Interfacial Water Dissociation at the Nanoscale with a Quantum Sensor",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/hh42-b48p",
+          "author": "Fabian H. Kreten, Ludger Santen, and Reza Shaebani",
+          "description": "Author(s): Fabian H. Kreten, Ludger Santen, and Reza Shaebani\nInferring tree structure is a problem of practical relevance across diverse domains, from biological transport networks to engineered systems. The results presented here lend themselves to potential applications in noninvasive structural inference, particularly in scenarios where direct observation is challenging.\n#WellStructured #ClearMotivation\n\n[Phys. Rev. E 112, 054306] Published Mon Nov 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/hh42-b48p",
+          "publishedOn": "2025-11-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Inferring tree structure with hidden traps from first-passage times",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/b64t-dcvz",
+          "author": "Qi Jia, Sreejith Nair, Yifei Yang, Seung Gyo Jeong, Seungjun Lee, Denis Tonini, Shuang Liang, Yu-Chia Chen, Onri Jay Benally, Brahmdutta Dixit, Tony Low, Bharat Jalan, and Jian-Ping Wang",
+          "description": "Author(s): Qi Jia, Sreejith Nair, Yifei Yang, Seung Gyo Jeong, Seungjun Lee, Denis Tonini, Shuang Liang, Yu-Chia Chen, Onri Jay Benally, Brahmdutta Dixit, Tony Low, Bharat Jalan, and Jian-Ping Wang\nThe authors identify here a previously overlooked artifact in second harmonic Hall measurements: the antisymmetric planar Hall effect (APHE). Using rutile RuO2 as a model system, they show that APHE mixes with the cos(2φ) term and leads to up to 20% overestimation of the out-of-plane damping-like torque. A corrected analytical model is presented to accurately evaluate z-spin torque components in low-symmetry spin–orbit materials.\n\n[Phys. Rev. B 112, 174409] Published Mon Nov 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/b64t-dcvz",
+          "publishedOn": "2025-11-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Correction of out-of-plane spin torque extracted from second harmonic Hall measurements: Role of antisymmetric planar Hall effects",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/8m75-r8rm",
+          "author": "Manabu Sato, Shingo Kobayashi, Motoaki Hirayama, and Akira Furusaki",
+          "description": "Author(s): Manabu Sato, Shingo Kobayashi, Motoaki Hirayama, and Akira Furusaki\nThe Euler class is a ℤ-valued topological invariant characterizing two real bands protected by C2z𝒯 symmetry. The authors investigate here the relationship between the Euler class and rotation symmetry in spinless insulators with additional C4z or C6z symmetry. They derive general formulas relating the Euler class to rotation eigenvalues and two types of representation-protected invariants. They further construct tight-binding models and present numerical calculations of the Wilson loop spectra and topological surface states to support their analysis.\n\n[Phys. Rev. B 112, 195108] Published Mon Nov 10, 2025",
+          "link": "http://link.aps.org/doi/10.1103/8m75-r8rm",
+          "publishedOn": "2025-11-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Three-dimensional spinless Euler insulators with rotational symmetry",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/6v93-whwq",
           "author": "Y. A. Yang, Maya Miklos, Yee Ming Tso, Stella Kraus, Joonseok Hur, and Jun Ye",
           "description": "Author(s): Y. A. Yang, Maya Miklos, Yee Ming Tso, Stella Kraus, Joonseok Hur, and Jun Ye\nAn entanglement-enhanced optical clock achieves unprecedented precision of 10−18 with 2dB quantum noise squeezing.\n\n[Phys. Rev. Lett. 135, 193202] Published Fri Nov 07, 2025",
@@ -378,7 +418,7 @@
         {
           "id": "http://link.aps.org/doi/10.1103/rk6x-2f3r",
           "author": "Shohei Hayashida, Vignesh Sundaramurthy, Wenfeng Wu, Pascal Puphal, Thomas Keller, Björn Fåk, Masahiko Isobe, Bernhard Keimer, Karsten Held, Liang Si, and Matthias Hepting",
-          "description": "Author(s): Shohei Hayashida, Vignesh Sundaramurthy, Wenfeng Wu, Pascal Puphal, Thomas Keller, Björn Fåk, Masahiko Isobe, Bernhard Keimer, Karsten Held, Liang Si, and Matthias Hepting\nInfinite-layer nickelates have recently emerged as a new family of unconventional superconductors, yet their lattice dynamics remained inaccessible to previous studies on powder and thin film samples. Here, the authors i investigate phonons in bulk crystals of the infinite-layer nickelate LaNiO2 using time-of-flight inelastic neutron scattering and density functional perturbation theory. These findings provide a quantitative benchmark for the lattice dynamics of LaNiO2 and lay the groundwork for exploring possible links between phonons and electronic properties in this material family.\n\n[Phys. Rev. B 112, 205104] Published Mon Nov 03, 2025",
+          "description": "Author(s): Shohei Hayashida, Vignesh Sundaramurthy, Wenfeng Wu, Pascal Puphal, Thomas Keller, Björn Fåk, Masahiko Isobe, Bernhard Keimer, Karsten Held, Liang Si, and Matthias Hepting\nInfinite-layer nickelates have recently emerged as a new family of unconventional superconductors, yet their lattice dynamics remained inaccessible to previous studies on powder and thin film samples. Here, the authors investigate phonons in bulk crystals of the infinite-layer nickelate LaNiO2 using time-of-flight inelastic neutron scattering and density functional perturbation theory. These findings provide a quantitative benchmark for the lattice dynamics of LaNiO2 and lay the groundwork for exploring possible links between phonons and electronic properties in this material family.\n\n[Phys. Rev. B 112, 205104] Published Mon Nov 03, 2025",
           "link": "http://link.aps.org/doi/10.1103/rk6x-2f3r",
           "publishedOn": "2025-11-03T10:00:00.000Z",
           "wordCount": null,
@@ -598,7 +638,7 @@
         {
           "id": "http://link.aps.org/doi/10.1103/bd4p-zrmy",
           "author": "Igor A. Shvets, Sergey V. Eremeev, Vladimir A. Golyashov, Niranjan Kumar, Andrey S. Tarasov, Konstantin A. Kokh, and Oleg E. Tereshchenko",
-          "description": "Author(s): Igor A. Shvets, Sergey V. Eremeev, Vladimir A. Golyashov, Niranjan Kumar, Andrey S. Tarasov, Konstantin A. Kokh, and Oleg E. Tereshchenko\nThe authors successfully prepare here a high-quality side surface of the layered topological insulator Bi2Te3. Using DFT calculations, they clearly demonstrate the reason behind the significant anisotropy of the Dirac state and its relationship with the projection of the bulk states onto the chosen crystallographic plane. Surface spectrum calculations enable them to determine the orientation of the facets on the prepared side surface, which is found to be (101¯), the spectrum of which aligns perfectly with the ARPES measurements.\n\n[Phys. Rev. B 112, 155166] Published Wed Oct 29, 2025",
+          "description": "Author(s): Igor A. Shvets, Sergey V. Eremeev, Vladimir A. Golyashov, Niranjan Kumar, Andrey S. Tarasov, Konstantin A. Kokh, and Oleg E. Tereshchenko\nThe authors successfully prepare here a high-quality side surface of the layered topological insulator Bi_{2}Te_{3}. Using DFT calculations, they clearly demonstrate the reason behind the significant anisotropy of the Dirac state and its relationship with the projection of the bulk states onto the chosen crystallographic plane. Surface spectrum calculations enable them to determine the orientation of the facets on the prepared side surface, which is found to be (101¯), the spectrum of which aligns perfectly with the ARPES measurements.\n\n[Phys. Rev. B 112, 155166] Published Wed Oct 29, 2025",
           "link": "http://link.aps.org/doi/10.1103/bd4p-zrmy",
           "publishedOn": "2025-10-29T10:00:00.000Z",
           "wordCount": null,
@@ -963,46 +1003,6 @@
           "publishedOn": "2025-10-22T10:00:00.000Z",
           "wordCount": null,
           "title": "How quantum fluctuations freeze a classical liquid and then melt it into a topological one",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/lh6x-7rc3",
-          "author": "Armando Angrisani, Alexander Schmidhuber, Manuel S. Rudolph, M. Cerezo, Zoë Holmes, and Hsin-Yuan Huang",
-          "description": "Author(s): Armando Angrisani, Alexander Schmidhuber, Manuel S. Rudolph, M. Cerezo, Zoë Holmes, and Hsin-Yuan Huang\nEstimation of observables of quantum circuits exhibiting chaotic and locally scrambling behavior is classically tractable across all geometries.\n\n[Phys. Rev. Lett. 135, 170602] Published Wed Oct 22, 2025",
-          "link": "http://link.aps.org/doi/10.1103/lh6x-7rc3",
-          "publishedOn": "2025-10-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Classically Estimating Observables of Noiseless Quantum Circuits",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/xd97-c6d7",
-          "author": "Ralf Schützhold",
-          "description": "Author(s): Ralf Schützhold\nA proposed scheme for emitting gravitons in a verifiable earth-bound experiment may serve as a probe for quantum gravity.\n\n[Phys. Rev. Lett. 135, 171501] Published Wed Oct 22, 2025",
-          "link": "http://link.aps.org/doi/10.1103/xd97-c6d7",
-          "publishedOn": "2025-10-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Stimulated Emission or Absorption of Gravitons by Light",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/dqm7-p5vp",
-          "author": "James D. Shemilt, Alice B. Thompson, Alex Horsley, Carl A. Whitfield, and Oliver E. Jensen",
-          "description": "Author(s): James D. Shemilt, Alice B. Thompson, Alex Horsley, Carl A. Whitfield, and Oliver E. Jensen\nThe surface-tension-driven instability of a liquid film coating a vertical tube can lead to the formation of liquid collars that drift downwards under gravity. This scenario is relevant to the flow of mucus in lung airways. Using thin-film theory, we investigate the formation and motion of collars when the liquid film is viscoplastic. In the limit of weak gravity relative to capillary effects, we quantify the reduction in steady collar speed due to viscoplasticity, and identify conditions under which viscoplastic collars translate steadily, whilst steady motion does not occur in the Newtonian case.\n\n[Phys. Rev. Fluids 10, 103301] Published Wed Oct 22, 2025",
-          "link": "http://link.aps.org/doi/10.1103/dqm7-p5vp",
-          "publishedOn": "2025-10-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Viscoplasticity can stabilize liquid collar motion on vertical cylinders",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/4dm4-kc4g",
-          "author": "Ahmed A. Elgohary and Sameh A. Eisa",
-          "description": "Author(s): Ahmed A. Elgohary and Sameh A. Eisa\nA new study suggests that a simple feedback mechanism enables the steady hovering of flapping insects and hummingbirds.\n\n[Phys. Rev. E 112, 044412] Published Wed Oct 22, 2025",
-          "link": "http://link.aps.org/doi/10.1103/4dm4-kc4g",
-          "publishedOn": "2025-10-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Hovering flight in flapping insects and hummingbirds: A natural real-time and stable extremum-seeking feedback system",
           "imageUrl": null
         }
       ]

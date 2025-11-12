@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-11T01:11:10.992Z</id>
+    <id>urn:2025-11-12T01:10:19.329Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-11T01:11:10.992Z</updated>
+    <updated>2025-11-12T01:10:19.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Probing Interfacial Water Dissociation at the Nanoscale with a Quantum Sensor]]></title>
+        <id>http://link.aps.org/doi/10.1103/gpcy-lnc2</id>
+        <link href="http://link.aps.org/doi/10.1103/gpcy-lnc2"/>
+        <updated>2025-11-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wentian Zheng, Ke Bian, Jiyu Xu, Xiakun Chen, Shichen Zhang, Rainer Stöhr, Andrej Denisenko, Jörg Wrachtrup, Sheng Meng, and Ying Jiang
+A scheme combining a scanning probe microscope with a quantum sensor can locally trigger water dissociation and observe the elementary steps of such a reaction.
+
+[Phys. Rev. Lett. 135, 208001] Published Mon Nov 10, 2025]]></summary>
+        <author>
+            <name>Wentian Zheng, Ke Bian, Jiyu Xu, Xiakun Chen, Shichen Zhang, Rainer Stöhr, Andrej Denisenko, Jörg Wrachtrup, Sheng Meng, and Ying Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inferring tree structure with hidden traps from first-passage times]]></title>
+        <id>http://link.aps.org/doi/10.1103/hh42-b48p</id>
+        <link href="http://link.aps.org/doi/10.1103/hh42-b48p"/>
+        <updated>2025-11-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Fabian H. Kreten, Ludger Santen, and Reza Shaebani
+Inferring tree structure is a problem of practical relevance across diverse domains, from biological transport networks to engineered systems. The results presented here lend themselves to potential applications in noninvasive structural inference, particularly in scenarios where direct observation is challenging.
+#WellStructured #ClearMotivation
+
+[Phys. Rev. E 112, 054306] Published Mon Nov 10, 2025]]></summary>
+        <author>
+            <name>Fabian H. Kreten, Ludger Santen, and Reza Shaebani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Correction of out-of-plane spin torque extracted from second harmonic Hall measurements: Role of antisymmetric planar Hall effects]]></title>
+        <id>http://link.aps.org/doi/10.1103/b64t-dcvz</id>
+        <link href="http://link.aps.org/doi/10.1103/b64t-dcvz"/>
+        <updated>2025-11-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Qi Jia, Sreejith Nair, Yifei Yang, Seung Gyo Jeong, Seungjun Lee, Denis Tonini, Shuang Liang, Yu-Chia Chen, Onri Jay Benally, Brahmdutta Dixit, Tony Low, Bharat Jalan, and Jian-Ping Wang
+The authors identify here a previously overlooked artifact in second harmonic Hall measurements: the antisymmetric planar Hall effect (APHE). Using rutile RuO2 as a model system, they show that APHE mixes with the cos(2φ) term and leads to up to 20% overestimation of the out-of-plane damping-like torque. A corrected analytical model is presented to accurately evaluate z-spin torque components in low-symmetry spin–orbit materials.
+
+[Phys. Rev. B 112, 174409] Published Mon Nov 10, 2025]]></summary>
+        <author>
+            <name>Qi Jia, Sreejith Nair, Yifei Yang, Seung Gyo Jeong, Seungjun Lee, Denis Tonini, Shuang Liang, Yu-Chia Chen, Onri Jay Benally, Brahmdutta Dixit, Tony Low, Bharat Jalan, and Jian-Ping Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three-dimensional spinless Euler insulators with rotational symmetry]]></title>
+        <id>http://link.aps.org/doi/10.1103/8m75-r8rm</id>
+        <link href="http://link.aps.org/doi/10.1103/8m75-r8rm"/>
+        <updated>2025-11-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Manabu Sato, Shingo Kobayashi, Motoaki Hirayama, and Akira Furusaki
+The Euler class is a ℤ-valued topological invariant characterizing two real bands protected by C2z𝒯 symmetry. The authors investigate here the relationship between the Euler class and rotation symmetry in spinless insulators with additional C4z or C6z symmetry. They derive general formulas relating the Euler class to rotation eigenvalues and two types of representation-protected invariants. They further construct tight-binding models and present numerical calculations of the Wilson loop spectra and topological surface states to support their analysis.
+
+[Phys. Rev. B 112, 195108] Published Mon Nov 10, 2025]]></summary>
+        <author>
+            <name>Manabu Sato, Shingo Kobayashi, Motoaki Hirayama, and Akira Furusaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clock Precision beyond the Standard Quantum Limit at ${10}^{−18}$ Level]]></title>
         <id>http://link.aps.org/doi/10.1103/6v93-whwq</id>
@@ -497,7 +550,7 @@ Despite intense focus on quantum critical behavior, microscopic information on t
         <link href="http://link.aps.org/doi/10.1103/rk6x-2f3r"/>
         <updated>2025-11-03T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Shohei Hayashida, Vignesh Sundaramurthy, Wenfeng Wu, Pascal Puphal, Thomas Keller, Björn Fåk, Masahiko Isobe, Bernhard Keimer, Karsten Held, Liang Si, and Matthias Hepting
-Infinite-layer nickelates have recently emerged as a new family of unconventional superconductors, yet their lattice dynamics remained inaccessible to previous studies on powder and thin film samples. Here, the authors i investigate phonons in bulk crystals of the infinite-layer nickelate LaNiO2 using time-of-flight inelastic neutron scattering and density functional perturbation theory. These findings provide a quantitative benchmark for the lattice dynamics of LaNiO2 and lay the groundwork for exploring possible links between phonons and electronic properties in this material family.
+Infinite-layer nickelates have recently emerged as a new family of unconventional superconductors, yet their lattice dynamics remained inaccessible to previous studies on powder and thin film samples. Here, the authors investigate phonons in bulk crystals of the infinite-layer nickelate LaNiO2 using time-of-flight inelastic neutron scattering and density functional perturbation theory. These findings provide a quantitative benchmark for the lattice dynamics of LaNiO2 and lay the groundwork for exploring possible links between phonons and electronic properties in this material family.
 
 [Phys. Rev. B 112, 205104] Published Mon Nov 03, 2025]]></summary>
         <author>
@@ -785,7 +838,7 @@ In microfocused Brillouin light scattering (μ-BLS), light focusing accelerates 
         <link href="http://link.aps.org/doi/10.1103/bd4p-zrmy"/>
         <updated>2025-10-29T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Igor A. Shvets, Sergey V. Eremeev, Vladimir A. Golyashov, Niranjan Kumar, Andrey S. Tarasov, Konstantin A. Kokh, and Oleg E. Tereshchenko
-The authors successfully prepare here a high-quality side surface of the layered topological insulator Bi2Te3. Using DFT calculations, they clearly demonstrate the reason behind the significant anisotropy of the Dirac state and its relationship with the projection of the bulk states onto the chosen crystallographic plane. Surface spectrum calculations enable them to determine the orientation of the facets on the prepared side surface, which is found to be (101¯), the spectrum of which aligns perfectly with the ARPES measurements.
+The authors successfully prepare here a high-quality side surface of the layered topological insulator Bi_{2}Te_{3}. Using DFT calculations, they clearly demonstrate the reason behind the significant anisotropy of the Dirac state and its relationship with the projection of the bulk states onto the chosen crystallographic plane. Surface spectrum calculations enable them to determine the orientation of the facets on the prepared side surface, which is found to be (101¯), the spectrum of which aligns perfectly with the ARPES measurements.
 
 [Phys. Rev. B 112, 155166] Published Wed Oct 29, 2025]]></summary>
         <author>
@@ -1261,58 +1314,6 @@ Spinless fermions on a honeycomb lattice with cluster-charging interactions are 
 [Phys. Rev. Research 7, L042021] Published Wed Oct 22, 2025]]></summary>
         <author>
             <name>Hao Chen, Dan Mao, Andrea Kouta Dagnino, Glenn Wagner, Mark H. Fischer, Juraj Hasik, Eun-Ah Kim, and Titus Neupert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classically Estimating Observables of Noiseless Quantum Circuits]]></title>
-        <id>http://link.aps.org/doi/10.1103/lh6x-7rc3</id>
-        <link href="http://link.aps.org/doi/10.1103/lh6x-7rc3"/>
-        <updated>2025-10-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Armando Angrisani, Alexander Schmidhuber, Manuel S. Rudolph, M. Cerezo, Zoë Holmes, and Hsin-Yuan Huang
-Estimation of observables of quantum circuits exhibiting chaotic and locally scrambling behavior is classically tractable across all geometries.
-
-[Phys. Rev. Lett. 135, 170602] Published Wed Oct 22, 2025]]></summary>
-        <author>
-            <name>Armando Angrisani, Alexander Schmidhuber, Manuel S. Rudolph, M. Cerezo, Zoë Holmes, and Hsin-Yuan Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stimulated Emission or Absorption of Gravitons by Light]]></title>
-        <id>http://link.aps.org/doi/10.1103/xd97-c6d7</id>
-        <link href="http://link.aps.org/doi/10.1103/xd97-c6d7"/>
-        <updated>2025-10-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ralf Schützhold
-A proposed scheme for emitting gravitons in a verifiable earth-bound experiment may serve as a probe for quantum gravity.
-
-[Phys. Rev. Lett. 135, 171501] Published Wed Oct 22, 2025]]></summary>
-        <author>
-            <name>Ralf Schützhold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viscoplasticity can stabilize liquid collar motion on vertical cylinders]]></title>
-        <id>http://link.aps.org/doi/10.1103/dqm7-p5vp</id>
-        <link href="http://link.aps.org/doi/10.1103/dqm7-p5vp"/>
-        <updated>2025-10-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): James D. Shemilt, Alice B. Thompson, Alex Horsley, Carl A. Whitfield, and Oliver E. Jensen
-The surface-tension-driven instability of a liquid film coating a vertical tube can lead to the formation of liquid collars that drift downwards under gravity. This scenario is relevant to the flow of mucus in lung airways. Using thin-film theory, we investigate the formation and motion of collars when the liquid film is viscoplastic. In the limit of weak gravity relative to capillary effects, we quantify the reduction in steady collar speed due to viscoplasticity, and identify conditions under which viscoplastic collars translate steadily, whilst steady motion does not occur in the Newtonian case.
-
-[Phys. Rev. Fluids 10, 103301] Published Wed Oct 22, 2025]]></summary>
-        <author>
-            <name>James D. Shemilt, Alice B. Thompson, Alex Horsley, Carl A. Whitfield, and Oliver E. Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hovering flight in flapping insects and hummingbirds: A natural real-time and stable extremum-seeking feedback system]]></title>
-        <id>http://link.aps.org/doi/10.1103/4dm4-kc4g</id>
-        <link href="http://link.aps.org/doi/10.1103/4dm4-kc4g"/>
-        <updated>2025-10-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ahmed A. Elgohary and Sameh A. Eisa
-A new study suggests that a simple feedback mechanism enables the steady hovering of flapping insects and hummingbirds.
-
-[Phys. Rev. E 112, 044412] Published Wed Oct 22, 2025]]></summary>
-        <author>
-            <name>Ahmed A. Elgohary and Sameh A. Eisa</name>
         </author>
     </entry>
 </feed>
