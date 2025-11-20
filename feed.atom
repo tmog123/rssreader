@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-19T01:10:06.709Z</id>
+    <id>urn:2025-11-20T01:08:45.614Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T01:10:06.709Z</updated>
+    <updated>2025-11-20T01:08:45.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vibronic coupling limits the use of high-lying electronic states in complex molecules for laser cooling]]></title>
+        <id>http://link.aps.org/doi/10.1103/kw2m-hp1p</id>
+        <link href="http://link.aps.org/doi/10.1103/kw2m-hp1p"/>
+        <updated>2025-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Haowen Zhou, Paweł Wójcik, Guo-Zhu Zhu, Guanming Lao, Taras Khvorost, Justin R. Caram, Wesley C. Campbell, Anastassia N. Alexandrova, Anna I. Krylov, and Eric R. Hudson
+In complex molecules, nonadiabatic coupling can easily mix higher electronic states with the dense vibrational excitations of the lower electronic states, creating additional decay channels that are unfavored for optical cycling. Therefore, only the lowest excited state should be considered when designing laser-cooling schemes for complex molecules.
+
+[Phys. Rev. Research 7, 043180] Published Wed Nov 19, 2025]]></summary>
+        <author>
+            <name>Haowen Zhou, Paweł Wójcik, Guo-Zhu Zhu, Guanming Lao, Taras Khvorost, Justin R. Caram, Wesley C. Campbell, Anastassia N. Alexandrova, Anna I. Krylov, and Eric R. Hudson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme-Temperature Single-Particle Heat Engine]]></title>
+        <id>http://link.aps.org/doi/10.1103/2g1j-6x95</id>
+        <link href="http://link.aps.org/doi/10.1103/2g1j-6x95"/>
+        <updated>2025-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Message, F. Cerisola, J. D. Pritchett, K. O’Flynn, Y. Ren, M. Rashid, J. Anders, and J. Millen
+A levitated bead is driven to behave like a heat engine, revealing strong fluctuations that seemingly defy thermodynamic principles.
+
+[Phys. Rev. Lett. 135, 217101] Published Wed Nov 19, 2025]]></summary>
+        <author>
+            <name>M. Message, F. Cerisola, J. D. Pritchett, K. O’Flynn, Y. Ren, M. Rashid, J. Anders, and J. Millen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sextets in four-terminal Josephson junctions]]></title>
+        <id>http://link.aps.org/doi/10.1103/phvj-vfnx</id>
+        <link href="http://link.aps.org/doi/10.1103/phvj-vfnx"/>
+        <updated>2025-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Miriam Rike Ebert, David Christian Ohnmacht, Wolfgang Belzig, and Juan Carlos Cuevas
+The authors show here how correlated processes involving the simultaneous tunneling of three Cooper pairs, known as sextets, can be revealed in the current-phase relation of four-terminal Josephson junctions. They also show how they are connected to the hybridization of Andreev bound states in these devices, and they argue that sextets were already indirectly observed in recent experiments in hybrid superconductor-semiconductor heterostructures.
+
+[Phys. Rev. B 112, 195430] Published Wed Nov 19, 2025]]></summary>
+        <author>
+            <name>Miriam Rike Ebert, David Christian Ohnmacht, Wolfgang Belzig, and Juan Carlos Cuevas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher Chern bands in helical homotrilayer transition metal dichalcogenides]]></title>
+        <id>http://link.aps.org/doi/10.1103/6jf2-7mst</id>
+        <link href="http://link.aps.org/doi/10.1103/6jf2-7mst"/>
+        <updated>2025-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jungho Daniel Choi, Nicolás Morales-Durán, Yves H. Kwan, Andrew J. Millis, Nicolas Regnault, and Daniele Guerci
+Band topology, as encoded by the Chern number calculated from the quantum geometry (wavefunction overlap) of electronic states, is implicated in many interesting electronic behaviors. Many examples of bands with Chern number C=±1 are known. The authors show here, using a single-particle model with parameters appropriate for MoTe2, that helically twisted transition metal dichalcogenide homotrilayers may exhibit a highest-energy band with Chern number 2 that is tunable via displacement field and persists beyond the single-particle approximation.
+
+[Phys. Rev. B 112, 205122] Published Wed Nov 19, 2025]]></summary>
+        <author>
+            <name>Jungho Daniel Choi, Nicolás Morales-Durán, Yves H. Kwan, Andrew J. Millis, Nicolas Regnault, and Daniele Guerci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital quantum simulation of the Kitaev quantum spin liquid]]></title>
+        <id>http://link.aps.org/doi/10.1103/ybft-6cb4</id>
+        <link href="http://link.aps.org/doi/10.1103/ybft-6cb4"/>
+        <updated>2025-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Seongjun Park and Eun-Gook Moon
+The authors present here a digital quantum simulation protocol that prepares and manipulates the ground and excited states of the Kitaev quantum spin liquid. The protocol is based on a two-step unitary decomposition that separates the fermionic rotations within a fixed gauge sector from operations that change the gauge field. Implemented on a superconducting quantum processor, it successfully prepares the ground state and controls the excitations of the Kitaev model.
+
+[Phys. Rev. B 112, 205123] Published Wed Nov 19, 2025]]></summary>
+        <author>
+            <name>Seongjun Park and Eun-Gook Moon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation of polarization-entangled photon pairs from two interacting quantum emitters]]></title>
+        <id>http://link.aps.org/doi/10.1103/ch7l-8ftw</id>
+        <link href="http://link.aps.org/doi/10.1103/ch7l-8ftw"/>
+        <updated>2025-11-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Adrián Juan-Delgado, Geza Giedke, Javier Aizpurua, and Ruben Esteban
+The authors rigorously show that interacting quantum emitters can be used to generate polarization-entangled photon pairs. It is sufficient that the emitters exhibit two-level system behavior and that their transition dipole moments are oriented perpendicular to each other, which could be achieved with, e.g., organic molecules, trapped ions, quantum dots, and diamond-color centers.
+
+[Phys. Rev. A 112, 052434] Published Wed Nov 19, 2025]]></summary>
+        <author>
+            <name>Adrián Juan-Delgado, Geza Giedke, Javier Aizpurua, and Ruben Esteban</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Search for Light Dark Matter with 259 Days of Data in PandaX-4T]]></title>
         <id>http://link.aps.org/doi/10.1103/rtnh-jn8s</id>
@@ -29,6 +107,32 @@ An optical technique reveals the spatial extent of a molecule’s wave function 
 [Phys. Rev. Lett. 135, 213202] Published Tue Nov 18, 2025]]></summary>
         <author>
             <name>Zhengjun Ye, Haomai Hou, Linqian Zeng, Lianrong Zhou, Zhejun Jiang, Menghang Shi, Chenxu Lu, Shengzhe Pan, Ruolin Gong, Peifen Lu, Hongcheng Ni, Wenbin Zhang, Feng He, and Jian Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental Realization of Synthetic $π$-Flux Photonic Crystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/s4vq-hyck</id>
+        <link href="http://link.aps.org/doi/10.1103/s4vq-hyck"/>
+        <updated>2025-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Renwen Huang, Haotian Li, Shiyin Jia, Junzheng Hu, Shiqi Li, Jing Li, Biye Xie, Minghui Lu, Peng Zhan, Yanfeng Chen, and Zhenlin Wang
+An experimental demonstration of π-flux photonic crystals, a fundamental theoretical construct, reveals Mobius and nonsymmorphic topological phases.
+
+[Phys. Rev. Lett. 135, 216603] Published Tue Nov 18, 2025]]></summary>
+        <author>
+            <name>Renwen Huang, Haotian Li, Shiyin Jia, Junzheng Hu, Shiqi Li, Jing Li, Biye Xie, Minghui Lu, Peng Zhan, Yanfeng Chen, and Zhenlin Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot-Phonon-Induced Distortion of Diamond Defects on Ultrafast Timescales]]></title>
+        <id>http://link.aps.org/doi/10.1103/mvdf-bdrx</id>
+        <link href="http://link.aps.org/doi/10.1103/mvdf-bdrx"/>
+        <updated>2025-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Terng Junn Keat, Jiahui Zhao, Jack M. Woolley, Partha Malakar, Gregory M. Greetham, Xuxu Wu, Jonathan P. Goss, Robin J. Cruddace, Christopher B. Hartland, Matthew W. Dale, Vasilios G. Stavros, Mark E. Newton, and James Lloyd-Hughes
+Vibrational excitation of a defect in diamond creates a transient hot ground state, challenging the long-standing assumption of rigid lattice behavior during defect relaxation.
+
+[Phys. Rev. Lett. 135, 216902] Published Tue Nov 18, 2025]]></summary>
+        <author>
+            <name>Terng Junn Keat, Jiahui Zhao, Jack M. Woolley, Partha Malakar, Gregory M. Greetham, Xuxu Wu, Jonathan P. Goss, Robin J. Cruddace, Christopher B. Hartland, Matthew W. Dale, Vasilios G. Stavros, Mark E. Newton, and James Lloyd-Hughes</name>
         </author>
     </entry>
     <entry>
@@ -1208,110 +1312,6 @@ A simulation study of polar active polymers with a fixed end shows how the choic
 [Phys. Rev. E 112, 045431] Published Thu Oct 30, 2025]]></summary>
         <author>
             <name>Song Wu, Jia-Xiang Li, and Yu-Qiang Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two- and three-photon absorption in silicon for above-band-gap photon energies]]></title>
-        <id>http://link.aps.org/doi/10.1103/45lq-rvvy</id>
-        <link href="http://link.aps.org/doi/10.1103/45lq-rvvy"/>
-        <updated>2025-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Martin Aagaard, Simon Peter Slot Jessen, John Lundsgaard Hansen, Rosana Martinez Turtos, Peter Balling, and Brian Julsgaard
-Silicon is one of the most well-studied materials, leaving a sense that there are no new surprises to be found. However, here the authors provide new insight into nonlinear optical absorption in silicon at above-bandgap photon energies. They demonstrate that three-photon absorption dominates indirect two-photon absorption for photon energies below the direct two-photon-absorption edge at 1.7 eV, a result at variance with previously held assumptions. The authors provide nonlinear absorption coefficients for photon energies from 1.14–2.07 eV.
-
-[Phys. Rev. B 112, 155210] Published Thu Oct 30, 2025]]></summary>
-        <author>
-            <name>Martin Aagaard, Simon Peter Slot Jessen, John Lundsgaard Hansen, Rosana Martinez Turtos, Peter Balling, and Brian Julsgaard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlinear quantum electrodynamics of epsilon-near-zero nanostructures]]></title>
-        <id>http://link.aps.org/doi/10.1103/9yyx-s3m9</id>
-        <link href="http://link.aps.org/doi/10.1103/9yyx-s3m9"/>
-        <updated>2025-10-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Luca Dal Negro, Riccardo Franchi, and Marco Ornigotti
-The authors demonstrate here the nonlinear optical response of epsilon-near-zero (ENZ) nanostructures at the single-photon level using fully nonperturbative quantum theory of open systems with indium tin oxide materials and Kerr-type nonlinearity. Closed-form analytical results obtained for spherical nanoparticles are numerically validated and extended to geometries that can be fabricated using state-of-the-art electron-beam lithography, establishing a rigorous benchmark for understanding quantum nonlinear effects in ENZ nanostructures with optical losses. These results are important to emerging quantum technology, including on-chip single-photon nondemolition detection, sensing, and spectroscopy.
-
-[Phys. Rev. B 112, 165433] Published Thu Oct 30, 2025]]></summary>
-        <author>
-            <name>Luca Dal Negro, Riccardo Franchi, and Marco Ornigotti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal Counterdiabatic Driving in Krylov Space]]></title>
-        <id>http://link.aps.org/doi/10.1103/wbbs-s8fs</id>
-        <link href="http://link.aps.org/doi/10.1103/wbbs-s8fs"/>
-        <updated>2025-10-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Stewart Morawetz and Anatoli Polkovnikov
-A novel Hamiltonian-independent method for counterdiabatic driving is developed; showing its efficacy depends on high-frequency response and enabling applications in quantum annealing and experiments.
-
-[PRX Quantum 6, 040320] Published Wed Oct 29, 2025]]></summary>
-        <author>
-            <name>Stewart Morawetz and Anatoli Polkovnikov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detachment-limited interlayer transport processes during $\mathrm{SrTi}{\mathrm{O}}_{3}$ pulsed laser epitaxy]]></title>
-        <id>http://link.aps.org/doi/10.1103/lbg7-5h8b</id>
-        <link href="http://link.aps.org/doi/10.1103/lbg7-5h8b"/>
-        <updated>2025-10-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jeffrey G. Ulbrandt, Xiaozhi Zhang, and Randall L. Headrick
-Understanding atomistic transport mechanisms during pulsed laser deposition (PLD) remains a central challenge for the synthesis of complex oxide thin films. This study combines time-resolved X-ray scattering and kinetic Monte Carlo simulations to reveal the dynamics of a two-stage relaxation process following each laser pulse. Fast nonthermal transport is followed by slower detachment-limited ripening of transient islands, showing how local coordination-dependent energy barriers govern interlayer mass transport. These findings provide new insight into PLD growth dynamics and demonstrate how the specular and diffuse scattering captures both vertical and lateral surface evolution on submonolayer length and time scales.
-
-[Phys. Rev. Materials 9, 103405] Published Wed Oct 29, 2025]]></summary>
-        <author>
-            <name>Jeffrey G. Ulbrandt, Xiaozhi Zhang, and Randall L. Headrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Counterdiabatic Driving with Performance Guarantees]]></title>
-        <id>http://link.aps.org/doi/10.1103/pqhl-nbtk</id>
-        <link href="http://link.aps.org/doi/10.1103/pqhl-nbtk"/>
-        <updated>2025-10-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jernej Rudi Finžgar, Simone Notarnicola, Madelyn Cain, Mikhail D. Lukin, and Dries Sels
-Theorists have proposed a universal recipe for trying to quickly prepare a system in a desired ground state without exciting it.
-
-[Phys. Rev. Lett. 135, 180602] Published Wed Oct 29, 2025]]></summary>
-        <author>
-            <name>Jernej Rudi Finžgar, Simone Notarnicola, Madelyn Cain, Mikhail D. Lukin, and Dries Sels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Current Injection into a One-Dimensional Ballistic Edge Channel]]></title>
-        <id>http://link.aps.org/doi/10.1103/l47r-plxq</id>
-        <link href="http://link.aps.org/doi/10.1103/l47r-plxq"/>
-        <updated>2025-10-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kristof Moors, Christian Wagner, Helmut Soltner, Felix Lüpke, F. Stefan Tautz, and Bert Voigtländer
-Criteria are identified that can discriminate between ballistic and resistive edge channels in multiterminal transport.
-
-[Phys. Rev. Lett. 135, 186301] Published Wed Oct 29, 2025]]></summary>
-        <author>
-            <name>Kristof Moors, Christian Wagner, Helmut Soltner, Felix Lüpke, F. Stefan Tautz, and Bert Voigtländer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Fractionalization to Chiral Topological Superconductivity in a Flat Chern Band]]></title>
-        <id>http://link.aps.org/doi/10.1103/zm39-dstj</id>
-        <link href="http://link.aps.org/doi/10.1103/zm39-dstj"/>
-        <updated>2025-10-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Daniele Guerci, Ahmed Abouelkomsan, and Liang Fu
-Interacting electrons in a flat Chern band can form a chiral f-wave topological superconductor that hosts neutral Majorana fermion edge modes, in addition to fractional Chern insulators.
-
-[Phys. Rev. Lett. 135, 186601] Published Wed Oct 29, 2025]]></summary>
-        <author>
-            <name>Daniele Guerci, Ahmed Abouelkomsan, and Liang Fu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling plates with leading-edge vortex shedding]]></title>
-        <id>http://link.aps.org/doi/10.1103/9v3n-fnjd</id>
-        <link href="http://link.aps.org/doi/10.1103/9v3n-fnjd"/>
-        <updated>2025-10-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yu Jun Loo and Silas Alben
-We present a numerical method for thin plates falling in inviscid fluid that incorporates leading-edge vortex shedding. Including leading-edge vortex shedding restores physical dynamics to inviscid vortex sheet simulations, enabling large-amplitude fluttering and tumbling.
-
-[Phys. Rev. Fluids 10, 104701] Published Wed Oct 29, 2025]]></summary>
-        <author>
-            <name>Yu Jun Loo and Silas Alben</name>
         </author>
     </entry>
 </feed>
