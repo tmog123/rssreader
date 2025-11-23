@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-22T01:06:57.765Z</id>
+    <id>urn:2025-11-23T01:19:23.335Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T01:06:57.765Z</updated>
+    <updated>2025-11-23T01:19:23.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -55,6 +55,19 @@ Why is the first Shapiro step often missing in Josephson junction experiments—
 [Phys. Rev. B 112, 184518] Published Fri Nov 21, 2025]]></summary>
         <author>
             <name>Xingjun Wu, Haitian Su, Chuanchang Zeng, Ji-Yin Wang, Shili Yan, Dong Pan, Jianhua Zhao, Po Zhang, and H. Q. Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient $GW$ band structure calculations using Gaussian basis functions and application to atomically thin transition-metal dichalcogenides]]></title>
+        <id>http://link.aps.org/doi/10.1103/v4zv-1pf9</id>
+        <link href="http://link.aps.org/doi/10.1103/v4zv-1pf9"/>
+        <updated>2025-11-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Rémi Pasquier, María Camarasa-Gómez, Anna-Sophia Hehn, Daniel Hernangómez-Pérez, and Jan Wilhelm
+The GW approximation is the state-of-the-art Green’s function method for calculating electronic band structures beyond density functional theory. The authors present here an atomic-orbital GW algorithm that enables efficient band-structure calculations for two-dimensional materials on a laptop. Implemented as an open-source module in the CP2K program, the method is orders of magnitude faster than conventional plane wave approaches, while retaining high accuracy.
+
+[Phys. Rev. B 112, 205130] Published Fri Nov 21, 2025]]></summary>
+        <author>
+            <name>Rémi Pasquier, María Camarasa-Gómez, Anna-Sophia Hehn, Daniel Hernangómez-Pérez, and Jan Wilhelm</name>
         </author>
     </entry>
     <entry>
@@ -1297,19 +1310,6 @@ Observation of the thermal Hall effect in nonmagnetic insulators and semiconduct
 [Phys. Rev. Lett. 135, 196302] Published Mon Nov 03, 2025]]></summary>
         <author>
             <name>X. B. Jin, X. Zhang, W. B. Wan, H. R. Wang, Y. H. Jiao, and S. Y. Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moiré-Induced Magnetoelectricity in Twisted Bilayer ${\mathrm{NiI}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/p6n8-n1rx</id>
-        <link href="http://link.aps.org/doi/10.1103/p6n8-n1rx"/>
-        <updated>2025-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Haiyan Zhu, Hongyu Yu, Weiqin Zhu, Guoliang Yu, Changsong Xu, and Hongjun Xiang
-Twist-induced structural distortions induce ferroelectricity and polar magnetic topologies in bilayer NiI2.
-
-[Phys. Rev. Lett. 135, 196701] Published Mon Nov 03, 2025]]></summary>
-        <author>
-            <name>Haiyan Zhu, Hongyu Yu, Weiqin Zhu, Guoliang Yu, Changsong Xu, and Hongjun Xiang</name>
         </author>
     </entry>
 </feed>

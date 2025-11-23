@@ -46,6 +46,16 @@
           "imageUrl": null
         },
         {
+          "id": "http://link.aps.org/doi/10.1103/v4zv-1pf9",
+          "author": "Rémi Pasquier, María Camarasa-Gómez, Anna-Sophia Hehn, Daniel Hernangómez-Pérez, and Jan Wilhelm",
+          "description": "Author(s): Rémi Pasquier, María Camarasa-Gómez, Anna-Sophia Hehn, Daniel Hernangómez-Pérez, and Jan Wilhelm\nThe GW approximation is the state-of-the-art Green’s function method for calculating electronic band structures beyond density functional theory. The authors present here an atomic-orbital GW algorithm that enables efficient band-structure calculations for two-dimensional materials on a laptop. Implemented as an open-source module in the CP2K program, the method is orders of magnitude faster than conventional plane wave approaches, while retaining high accuracy.\n\n[Phys. Rev. B 112, 205130] Published Fri Nov 21, 2025",
+          "link": "http://link.aps.org/doi/10.1103/v4zv-1pf9",
+          "publishedOn": "2025-11-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Efficient $GW$ band structure calculations using Gaussian basis functions and application to atomically thin transition-metal dichalcogenides",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/j138-v9gr",
           "author": "Guodong Weng and Johannes Slotboom",
           "description": "Author(s): Guodong Weng and Johannes Slotboom\nIn clinical magnetic resonance spectroscopy (MRS), the signal-to-noise ratio per unit time (SNRt) dictates how efficiently one can acquire diagnostic-quality spectra. The common assumption is that stronger magnets always improve SNRt, without fully accounting for constraints on the specific absorption rate (SAR). This study analyzes how SNRt scales with magnetic field strength under realistic SAR limits. Surprisingly, for a given pulse sequence there exists an optimal field that maximizes SNRt. This insight should improve clinical MRS by prioritizing the “just right” field strength and SAR-aware pulse timing to achieve truly time-efficient spectroscopy.\n\n[Phys. Rev. Applied 24, 054066] Published Fri Nov 21, 2025",
@@ -993,16 +1003,6 @@
           "publishedOn": "2025-11-03T10:00:00.000Z",
           "wordCount": null,
           "title": "Discovery of Universal Phonon Thermal Hall Effect in Crystals",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/p6n8-n1rx",
-          "author": "Haiyan Zhu, Hongyu Yu, Weiqin Zhu, Guoliang Yu, Changsong Xu, and Hongjun Xiang",
-          "description": "Author(s): Haiyan Zhu, Hongyu Yu, Weiqin Zhu, Guoliang Yu, Changsong Xu, and Hongjun Xiang\nTwist-induced structural distortions induce ferroelectricity and polar magnetic topologies in bilayer NiI2.\n\n[Phys. Rev. Lett. 135, 196701] Published Mon Nov 03, 2025",
-          "link": "http://link.aps.org/doi/10.1103/p6n8-n1rx",
-          "publishedOn": "2025-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Moiré-Induced Magnetoelectricity in Twisted Bilayer ${\\mathrm{NiI}}_{2}$",
           "imageUrl": null
         }
       ]
