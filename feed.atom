@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-24T01:14:53.414Z</id>
+    <id>urn:2025-11-25T01:10:04.889Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T01:14:53.414Z</updated>
+    <updated>2025-11-25T01:10:04.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Extreme Violations of Leggett-Garg Inequalities for a System Evolving under Superposition of Unitaries]]></title>
+        <id>http://link.aps.org/doi/10.1103/vydp-9qqq</id>
+        <link href="http://link.aps.org/doi/10.1103/vydp-9qqq"/>
+        <updated>2025-11-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Arijit Chatterjee, H. S. Karthik, T. S. Mahesh, and A. R. Usha Devi
+Extending the superposition principle to the time domain gives rise to enhanced correlations that exceed a theoretical quantum limit—a result that could inspire new forms of quantum control.
+
+[Phys. Rev. Lett. 135, 220202] Published Mon Nov 24, 2025]]></summary>
+        <author>
+            <name>Arijit Chatterjee, H. S. Karthik, T. S. Mahesh, and A. R. Usha Devi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transfer entropy for finite data]]></title>
+        <id>http://link.aps.org/doi/10.1103/tcss-5hn3</id>
+        <link href="http://link.aps.org/doi/10.1103/tcss-5hn3"/>
+        <updated>2025-11-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Alec Kirkley
+The author provides a principled solution to correct the widely used transfer entropy measure for finite data and applies their measure to a range of real and synthetic datasets. The work shows that this corrected measure may change conclusions for some applications.
+#AdvancingField #ClearMotivation
+
+[Phys. Rev. E 112, L052304] Published Mon Nov 24, 2025]]></summary>
+        <author>
+            <name>Alec Kirkley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irreversible process of the atomic reconstruction phenomenon induced by uniaxial stress in MnP]]></title>
+        <id>http://link.aps.org/doi/10.1103/5sjv-4njg</id>
+        <link href="http://link.aps.org/doi/10.1103/5sjv-4njg"/>
+        <updated>2025-11-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hiromu Tamatsukuri, Tatsuya Kozawa, Setsuo Mitsuda, Masayoshi Fujihala, Katsuki Kinjo, Kazuhiro Nawa, Hung-Cheng Wu, Taku J. Sato, and Shin-ichiro Yano
+The authors present here a process of a unusual “atomic reconstruction” phenomenon. Applying a uniaxial stress along the a axis (σa) to a single domain structure of MnP generates crystal domains corresponding to structures in which the original structure is rotated by ±123.1° around the b axis. Additionally, the authors find applying further σa leads to “pseudopolycrysallization” around the b axis, although the ingot is not crushed macroscopically.
+
+[Phys. Rev. B 112, 184115] Published Mon Nov 24, 2025]]></summary>
+        <author>
+            <name>Hiromu Tamatsukuri, Tatsuya Kozawa, Setsuo Mitsuda, Masayoshi Fujihala, Katsuki Kinjo, Kazuhiro Nawa, Hung-Cheng Wu, Taku J. Sato, and Shin-ichiro Yano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Majorana zero modes in a heterogeneous structure of topological and trivial domains in ${\mathrm{FeSe}}_{1−x}{\mathrm{Te}}_{x}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/191p-qs2g</id>
+        <link href="http://link.aps.org/doi/10.1103/191p-qs2g"/>
+        <updated>2025-11-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Prashant Gupta, Jasmin Bedow, Eric Mascot, and Dirk K. Morr
+One of the most puzzling observations in the putative topological superconductor FeSe1−xTex is that not all vortices possess Majorana zero modes (MZMs). The authors propose here that this phenomenon arises from a heterogeneous mixture of strong topological and trivial superconducting domains, with only vortices in the former exhibiting MZMs. A unique spectroscopic signature separates topological and trivial vortices: a domain wall harboring a Majorana edge mode, which, when a vortex crosses from a trivial to a topological domain, is transferred to the vortex as an MZM.
+
+[Phys. Rev. B 112, L180505] Published Mon Nov 24, 2025]]></summary>
+        <author>
+            <name>Prashant Gupta, Jasmin Bedow, Eric Mascot, and Dirk K. Morr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Room temperature magnetic vortices in the van der Waals magnet ${\mathrm{Fe}}_{5}{\mathrm{GeTe}}_{2}$]]></title>
         <id>http://link.aps.org/doi/10.1103/v5zf-5z78</id>
@@ -1258,58 +1311,6 @@ This manuscript investigates the mechanical response, i.e. non-affine displaceme
 [Phys. Rev. E 112, 055402] Published Tue Nov 04, 2025]]></summary>
         <author>
             <name>Evan P. Willmarth, Weiwei Jin, Dong Wang, Amit Datye, Udo D. Schwarz, Mark D. Shattuck, and Corey S. O'Hern</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced superconductivity via layer differentiation in the trilayer Hubbard model]]></title>
-        <id>http://link.aps.org/doi/10.1103/n28s-ggzc</id>
-        <link href="http://link.aps.org/doi/10.1103/n28s-ggzc"/>
-        <updated>2025-11-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xun Liu and Mi Jiang
-The multilayer cuprates host the highest superconducting transition temperature while their underlying physical mechanism remains unclear. By employing large-scale dynamical cluster quantum Monte Carlo simulations, the authors show here that the trilayer Hubbard model, with a realistic doping distribution within three layers, exhibits a higher Tc than the single-layer model. This work also provides strong numerical evidence on the possibility of d-wave superconductivity solely hosted in the inner layer.
-
-[Phys. Rev. B 112, L201103] Published Tue Nov 04, 2025]]></summary>
-        <author>
-            <name>Xun Liu and Mi Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Polynomial-Time Classical Algorithm for Noisy Quantum Circuits]]></title>
-        <id>http://link.aps.org/doi/10.1103/xct1-7kf2</id>
-        <link href="http://link.aps.org/doi/10.1103/xct1-7kf2"/>
-        <updated>2025-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Thomas Schuster, Chao Yin, Xun Gao, and Norman Y. Yao
-A new classical algorithm shows that noise restricts non-error-corrected quantum computational power more generally than previously recognized.
-
-[Phys. Rev. X 15, 041018] Published Mon Nov 03, 2025]]></summary>
-        <author>
-            <name>Thomas Schuster, Chao Yin, Xun Gao, and Norman Y. Yao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding decoherence in molecular spin qudits]]></title>
-        <id>http://link.aps.org/doi/10.1103/16rd-tv1q</id>
-        <link href="http://link.aps.org/doi/10.1103/16rd-tv1q"/>
-        <updated>2025-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Leonardo Ratini, Giacomo Sansone, Elena Garlatti, Francesco Petiziol, Stefano Carretta, and Paolo Santini
-The primary source of error in molecular spin qudits under spin-echo control at low-temperature is pure dephasing, caused by their interactions with surrounding nuclear spins. This work demonstrates that coherence is preserved over time if and only if the expectation values of local spin operators on the involved eigenstates are identical. The analytic result is corroborated by numerical simulations performed using the cluster correlation expansion method to model the non-Markovian dynamics of these systems, providing a strategy to engineer robust qudits for quantum technologies.
-
-[Phys. Rev. Research 7, 043125] Published Mon Nov 03, 2025]]></summary>
-        <author>
-            <name>Leonardo Ratini, Giacomo Sansone, Elena Garlatti, Francesco Petiziol, Stefano Carretta, and Paolo Santini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovery of Universal Phonon Thermal Hall Effect in Crystals]]></title>
-        <id>http://link.aps.org/doi/10.1103/r572-5dfm</id>
-        <link href="http://link.aps.org/doi/10.1103/r572-5dfm"/>
-        <updated>2025-11-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): X. B. Jin, X. Zhang, W. B. Wan, H. R. Wang, Y. H. Jiao, and S. Y. Li
-Observation of the thermal Hall effect in nonmagnetic insulators and semiconductors characterized by a universal scaling behavior of the thermal Hall coefficient and the longitudinal thermal conductivity might point towards an intrinsic effect purely driven by phonons.
-
-[Phys. Rev. Lett. 135, 196302] Published Mon Nov 03, 2025]]></summary>
-        <author>
-            <name>X. B. Jin, X. Zhang, W. B. Wan, H. R. Wang, Y. H. Jiao, and S. Y. Li</name>
         </author>
     </entry>
 </feed>
