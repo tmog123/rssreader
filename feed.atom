@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-18T01:11:09.907Z</id>
+    <id>urn:2025-12-19T01:14:51.965Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T01:11:09.907Z</updated>
+    <updated>2025-12-19T01:14:51.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stochastic Heating in the Sub-Alfvénic Solar Wind]]></title>
+        <id>http://link.aps.org/doi/10.1103/rxd8-22m9</id>
+        <link href="http://link.aps.org/doi/10.1103/rxd8-22m9"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Trevor A. Bowen, Tamar Ervin, Alfred Mallet, Benjamin D. G. Chandran, Nikos Sioulas, Philip A. Isenberg, Stuart D. Bale, Jonathan Squire, Kristopher G. Klein, and Oreste Pezzi
+Analysis of Parker Solar Probe data identifies stochastic magnetic moment breaking by intermittent structures in imbalanced turbulence as a viable heating mechanism in the sub-Alfvenic solar wind.
+
+[Phys. Rev. Lett. 135, 255201] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Trevor A. Bowen, Tamar Ervin, Alfred Mallet, Benjamin D. G. Chandran, Nikos Sioulas, Philip A. Isenberg, Stuart D. Bale, Jonathan Squire, Kristopher G. Klein, and Oreste Pezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bragg Coherent Modulation Imaging of Highly Strained Nanocrystals]]></title>
+        <id>http://link.aps.org/doi/10.1103/8vrs-hjqm</id>
+        <link href="http://link.aps.org/doi/10.1103/8vrs-hjqm"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jiangtao Zhao, Ewen Bellec, Marie-Ingrid Richard, Linus Pithan, Ivan A. Vartanyants, Fucai Zhang, Tobias Schülli, and Steven J. Leake
+Researchers have demonstrated a technique for measuring lattice distortions that are too big for conventional methods to handle.
+
+[Phys. Rev. Lett. 135, 256101] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Jiangtao Zhao, Ewen Bellec, Marie-Ingrid Richard, Linus Pithan, Ivan A. Vartanyants, Fucai Zhang, Tobias Schülli, and Steven J. Leake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thermodynamic Geometric Constraint on the Spectrum of Markov Rate Matrices]]></title>
+        <id>http://link.aps.org/doi/10.1103/z4t2-18cx</id>
+        <link href="http://link.aps.org/doi/10.1103/z4t2-18cx"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Guo-Hua Xu, Artemy Kolchinsky, Jean-Charles Delvenne, and Sosuke Ito
+A thermodynamic constraint is placed on the spectrum of Markov rate matrices, allowing for a better understanding of the dynamics of biochemical clocks.
+
+[Phys. Rev. Lett. 135, 257102] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Guo-Hua Xu, Artemy Kolchinsky, Jean-Charles Delvenne, and Sosuke Ito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring black hole spins with x-ray reflection spectroscopy: A GRMHD outlook]]></title>
+        <id>http://link.aps.org/doi/10.1103/4sth-rnwv</id>
+        <link href="http://link.aps.org/doi/10.1103/4sth-rnwv"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Swarnim Shashank, Askar B. Abdikamalov, Honghui Liu, Abdurakhmon Nosirov, Cosimo Bambi, Indu K. Dihingia, and Yosuke Mizuno
+The authors use accretion-disk general relativistic magnetohydrodynamic simulations to simulate NuSTAR spectra and assess the ability of widely used X-ray reflection models to recover black hole spins. They demonstrate that only high spins are likely to be correctly predicted, and discuss limitations of lamppost models.
+
+[Phys. Rev. D 112, 123030] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Swarnim Shashank, Askar B. Abdikamalov, Honghui Liu, Abdurakhmon Nosirov, Cosimo Bambi, Indu K. Dihingia, and Yosuke Mizuno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tunable quantum criticality and pseudocriticality across the fixed-point annihilation in the anisotropic spin-boson model]]></title>
+        <id>http://link.aps.org/doi/10.1103/mtq7-n96c</id>
+        <link href="http://link.aps.org/doi/10.1103/mtq7-n96c"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Manuel Weber
+The author demonstrates here that a single spin coupled to competing environments is a surprisingly simple model to realize a variety of exotic quantum criticality, such as (i) a non-Landau continuous order-to-order transition, (ii) a symmetry-enhanced first-order transition, and (iii) pseudocriticality. These phenomena result from a fixed-point annihilation within the critical manifold and can be gradually tuned into each other. In contrast to higher-dimensional systems, the spin-boson model allows for numerical simulations with unprecedented precision and detailed comparisons with analytical predictions.
+
+[Phys. Rev. B 112, 235153] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Manuel Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint control of coherent transmission, reflection, and absorption]]></title>
+        <id>http://link.aps.org/doi/10.1103/nw8t-326d</id>
+        <link href="http://link.aps.org/doi/10.1103/nw8t-326d"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shiyu Li, Dongha Kim, Shanhui Fan, and Cheng Guo
+The authors present here a comprehensive theory for joint coherent control, addressing the challenge of simultaneously manipulating multiple wave properties. Using transmission, reflection, and absorption as illustrative examples, they show that the numerical range provides the underlying mathematical structure governing achievable responses and reveal non-Abelian effects arising from noncommutativity. They further provide a constructive algorithm to realize arbitrary admissible responses. Broadly applicable across wave types and physical observables, this theory underpins applications requiring precise control over multiple wave characteristics.
+
+[Phys. Rev. B 112, 245421] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Shiyu Li, Dongha Kim, Shanhui Fan, and Cheng Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microscopic evidence of a field-induced critical spin-liquid state in a frustrated metal]]></title>
+        <id>http://link.aps.org/doi/10.1103/zljj-gglb</id>
+        <link href="http://link.aps.org/doi/10.1103/zljj-gglb"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): I. Ishant, Z. Guguchia, V. Fritsch, O. Stockert, and M. Majumder
+Here, the authors use the transverse-field muon spin relaxation/rotation technique to microscopically map how a magnetic field (applied along the crystallographic c axis) reshapes the quantum phases of the long-known frustrated kagome metal CePdAl. They reveal a field-induced spin-liquid state with quantum critical fluctuations—exceptionally rare in metallic frustrated systems. This powerful probe uncovers critical spin-liquid behavior with antiferromagnetic spin fluctuations, hidden to bulk and neutron measurements, establishing CePdAl as a benchmark for metallic frustration.
+
+[Phys. Rev. B 112, L220409] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>I. Ishant, Z. Guguchia, V. Fritsch, O. Stockert, and M. Majumder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-correlation scheme for quantum optical coherence tomography based on Michelson interferometer]]></title>
+        <id>http://link.aps.org/doi/10.1103/246p-64hd</id>
+        <link href="http://link.aps.org/doi/10.1103/246p-64hd"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Anna Romanova, Vadim Rodimin, and Konstantin Katamadze
+Optical coherence tomography is widely used in biomedical imaging and materials science, but dispersion in the sample can strongly reduce both resolution and penetration depth. Quantum optical coherence tomography (QOCT) can cancel this dispersion and double the axial resolution, yet existing implementations rely on dim sources and interference signals that are difficult to filter and stabilize. This work demonstrates a robust cross-correlation QOCT scheme based on a Michelson interferometer fed by a bright collinear entangled-photon source, which suppresses parasitic terms, improves the signal-to-noise ratio by a factor of four over standard QOCT, and preserves dispersion cancellation.
+
+[Phys. Rev. Applied 24, 064048] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Anna Romanova, Vadim Rodimin, and Konstantin Katamadze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum diatomic chain: A supersolid structure in a three-component Bose mixture]]></title>
+        <id>http://link.aps.org/doi/10.1103/vyjv-bfgm</id>
+        <link href="http://link.aps.org/doi/10.1103/vyjv-bfgm"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Francesco Ancilotto
+The author theoretically studies the formation and properties of a supersolid structure in a three-component ultracold Bose gas mixture composed of 23Na, 39K, and 41K atoms at zero temperature. An extended linear chain structure, made by periodic repetition of the basic building block represented by a “dimer” unit consisting of two weakly bound quantum droplets, is identified.
+
+[Phys. Rev. A 112, 063317] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Francesco Ancilotto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coherent phase control of orbital-angular-momentum light-induced torque in a double-tripod atom-light coupling scheme]]></title>
+        <id>http://link.aps.org/doi/10.1103/nbx8-l3v4</id>
+        <link href="http://link.aps.org/doi/10.1103/nbx8-l3v4"/>
+        <updated>2025-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hamid R. Hamedi, Viačeslav Kudriašov, Mažena Mackoit Sinkevičienė, and Julius Ruseckas
+The manuscript proposes a method of controlling optical torque using the phase difference between different light fields. This could enable the manipulation of atomic currents in ring-shaped optical geometries.
+
+[Phys. Rev. A 112, 063720] Published Thu Dec 18, 2025]]></summary>
+        <author>
+            <name>Hamid R. Hamedi, Viačeslav Kudriašov, Mažena Mackoit Sinkevičienė, and Julius Ruseckas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kolmogorov-Arnold Networks Meet Science]]></title>
         <id>http://link.aps.org/doi/10.1103/4t7t-v19l</id>
@@ -76,7 +206,7 @@ Rhombohedral multilayer graphene coupled with a patterned kagome superlattice pr
         <link href="http://link.aps.org/doi/10.1103/d3tx-3tg8"/>
         <updated>2025-12-17T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Marcel Mittenbühler, Lukas Sturm, Malte Schlosser, and Gerhard Birkl
-Cutting-edge methods for spatiotemporal control of laser beams drive deliver impact in many disciplines, from quantum technology and advanced manufacturing to photonics and biology. Innovation requires light fields exhibiting scalable two-dimensional (2D) parallelization, full inividual control, and fast reaction to changing external parameters with low latency. The authors present a model-based control system fulfilling those requirements: reactive, real-time 2D multibeam laser patterning and scanning with strict intensity matching. A timely case study generates large-scale 2D architectures of random-access quantum memories of atomic qubits.
+Cutting-edge methods for spatiotemporal control of laser beams deliver impact in many disciplines, from quantum technology and advanced manufacturing to photonics and biology. Innovation requires light fields exhibiting scalable two-dimensional (2D) parallelization, full inividual control, and fast reaction to changing external parameters with low latency. The authors present a model-based control system fulfilling those requirements: reactive, real-time 2D multibeam laser patterning and scanning with strict intensity matching. A timely case study generates large-scale 2D architectures of random-access quantum memories of atomic qubits.
 
 [Phys. Rev. Applied 24, 064046] Published Wed Dec 17, 2025]]></summary>
         <author>
@@ -1177,136 +1307,6 @@ Altermagnets are collinear magnets exhibiting momentum-dependent spin splitting 
 [Phys. Rev. B 112, L220404] Published Tue Dec 02, 2025]]></summary>
         <author>
             <name>Arsen Herasymchuk, Karl Bergson Hallberg, Erik Wegner Hodt, Jacob Linder, E. V. Gorbar, and Pavlo Sukhachov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Depletion region width of a ferroelectric heterostructure interface by surface potential measurements under illumination]]></title>
-        <id>http://link.aps.org/doi/10.1103/8ctp-3531</id>
-        <link href="http://link.aps.org/doi/10.1103/8ctp-3531"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. Bagard, C. Hu, X. Henning, T. Fix, M. Lenertz, A. Dinia, S. Colis, and M. V. Rastei
-A method for measuring the depletion region width at oxide heterostructure interfaces is developed. It is demonstrated on bismuth ferrite–chromite thin films that exhibit p-type behavior and form a p–n-like junction when grown on a Nb-doped strontium titanate substrate. Using surface photovoltage measurements with Kelvin probe force microscopy under illumination on films of different thicknesses, a maximum SPV response is identified, revealing the depletion region width. This width also enables estimation of the acceptor concentration in the film, providing a non-destructive approach to probing ferroelectric heterostructures.
-
-[Phys. Rev. Materials 9, 123801] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>A. Bagard, C. Hu, X. Henning, T. Fix, M. Lenertz, A. Dinia, S. Colis, and M. V. Rastei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergence of a boundary-sensitive phase in hyperbolic Ising models]]></title>
-        <id>http://link.aps.org/doi/10.1103/f4sj-rwvj</id>
-        <link href="http://link.aps.org/doi/10.1103/f4sj-rwvj"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xingzhi Wang, Zohar Nussinov, and Gerardo Ortiz
-The introduction of spatial curvature leads to novel phases lying beyond the conventional Landau and topological order paradigms. In Ising models on hyperbolic lattices, the authors identify a boundary-sensitive bulk ordered phase that emerges between the ferromagnetic and paramagnetic regimes as the temperature increases. Using a symmetry-restricted corner transfer matrix renormalization group approach, they map here the complete phase diagram with transitions linked by a boundary-transforming Kramers–Wannier duality. Cayley tree limit calculations expose a sharp holographic correspondence between boundary and bulk correlation functions.
-
-[Phys. Rev. B 112, 214102] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>Xingzhi Wang, Zohar Nussinov, and Gerardo Ortiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiral electronic excitations and strong electron-phonon coupling to Weyl fermions in the kagome semimetal ${\mathrm{Co}}_{3}{\mathrm{Sn}}_{2}{\mathrm{S}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/wkzr-vfgn</id>
-        <link href="http://link.aps.org/doi/10.1103/wkzr-vfgn"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ge He, Malhar Kute, Zhongchen Xu, Leander Peis, Ramona Stumberger, Andreas Baum, Daniel Jost, Emily Been, Brian Moritz, Jun Shen, Youguo Shi, Thomas P. Devereaux, and Rudi Hackl
-Near a Weyl point, spin-momentum locking forces opposite spin orientations above and below the node. When a Weyl point lies near the Fermi surface, electrons can scatter across it only by flipping spin, thereby breaking time-reversal symmetry. This process appears exclusively in the antisymmetric A2g Raman channel. The authors observe here enhanced A2g intensity below the ferromagnetic transition of Co3Sn2S2, providing strong evidence for Weyl points. Furthermore, the calculated resonant A2g response shows qualitative agreement with experiment.
-
-[Phys. Rev. B 112, 214404] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>Ge He, Malhar Kute, Zhongchen Xu, Leander Peis, Ramona Stumberger, Andreas Baum, Daniel Jost, Emily Been, Brian Moritz, Jun Shen, Youguo Shi, Thomas P. Devereaux, and Rudi Hackl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quadrupole conserving dynamics in the noncommutative plane]]></title>
-        <id>http://link.aps.org/doi/10.1103/6d5w-ntsc</id>
-        <link href="http://link.aps.org/doi/10.1103/6d5w-ntsc"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Isabella Zane and Andrew Lucas
-Quadrupole conserving dynamics in the noncommutative plane is shown to realize unconventional “fracton hydrodynamics”. Invariant Hamiltonians correspond to the areas of shapes, meaning that all interactions are at least three body. In fact, hydrodynamics breaks down due to relevant nonlinearities, as predicted analytically and confirmed numerically.
-
-[Phys. Rev. B 112, 224301] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>Isabella Zane and Andrew Lucas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exciton formation dynamics in (Ga,In)As quantum wells]]></title>
-        <id>http://link.aps.org/doi/10.1103/jb2l-zrc3</id>
-        <link href="http://link.aps.org/doi/10.1103/jb2l-zrc3"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): D. Anders, F. Dobener, C. Fuchs, K. Volz, S. Chatterjee, and M. Stein
-The authors introduce here a differential terahertz probing technique that disentangles exciton and plasma dynamics in (Ga,In)As quantum wells. By exploiting field-induced exciton ionization, this method isolates bound and unbound carrier responses even at high excitation densities. It reveals two intrinsic exciton formation timescales—a fast component around 10 ps and a slower one near 250 ps—resolving long-standing ambiguities in exciton formation dynamics and establishing a versatile framework for probing ultrafast many-body interactions in semiconductor quantum structures.
-
-[Phys. Rev. B 112, 235301] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>D. Anders, F. Dobener, C. Fuchs, K. Volz, S. Chatterjee, and M. Stein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Influence of local strain on the optical probing of a ${\mathrm{Ni}}^{2+}$ spin in a charged self-assembled epitaxial quantum dot]]></title>
-        <id>http://link.aps.org/doi/10.1103/swfy-f7w8</id>
-        <link href="http://link.aps.org/doi/10.1103/swfy-f7w8"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): K. E. Połczyńska, S. Karouaz, W. Pacuski, and L. Besombes
-This study uncovers how local strain reshapes the spin landscape of a single Ni2+ ion (S=1) embedded in a charged semiconductor quantum dot. It reveals how strain anisotropy, spin–carrier exchange, and subtle symmetry breaking create rich optical signatures – offering new pathways to probe, model, and control individual spins for quantum technologies.
-
-[Phys. Rev. B 112, 245301] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>K. E. Połczyńska, S. Karouaz, W. Pacuski, and L. Besombes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimentally probing non-Hermitian spectral transition and eigenstate skewness]]></title>
-        <id>http://link.aps.org/doi/10.1103/xxp9-ng7c</id>
-        <link href="http://link.aps.org/doi/10.1103/xxp9-ng7c"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jia-Xin Zhong, Jeewoo Kim, Kai Chen, Jing Lu, Kun Ding, and Yun Jing
-Probing complex-valued spectra and biorthogonal eigenstates in non-Hermitian systems remains experimentally challenging. The authors present here a Green’s function based method that directly measures these fundamental quantities in two-dimensional acoustic lattices. By capturing the full response matrix, they demonstrate eigenstate skewness and geometry-dependent spectral transitions. This universal method overcomes the limits of conventional pump‑probe or complex‑frequency techniques, providing a robust route for exploring exotic non‑Hermitian phenomena across wave‑based platforms.
-
-[Phys. Rev. B 112, L220301] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>Jia-Xin Zhong, Jeewoo Kim, Kai Chen, Jing Lu, Kun Ding, and Yun Jing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quadrature for the generalized hydrodynamics equation and absence of shocks in the Lieb-Liniger model]]></title>
-        <id>http://link.aps.org/doi/10.1103/5w4p-bxnt</id>
-        <link href="http://link.aps.org/doi/10.1103/5w4p-bxnt"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Friedrich Hübner and Benjamin Doyon
-The authors develop here a new quadrature to solve the hydrodynamic equations of integrable models (called generalized hydrodynamics). Using this, the authors analytically prove the absence of shock formation in the Lieb-Liniger model, which had previously been conjectured based on experimental and numerical results. In addition, the quadrature also provides a new efficient algorithm to solve the generalized hydrodynamics equation, and new explicit formulas for the evolution of correlation functions.
-
-[Phys. Rev. B 112, L241101] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>Friedrich Hübner and Benjamin Doyon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edge dependence of the supercurrent in the quantum Hall regime]]></title>
-        <id>http://link.aps.org/doi/10.1103/m3lt-6cnc</id>
-        <link href="http://link.aps.org/doi/10.1103/m3lt-6cnc"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Seong Jang, Geon-Hyoung Park, Kenji Watanabe, Takashi Taniguchi, and Gil-Ho Lee
-The authors show here that the supercurrent in graphene Josephson junctions under quantum Hall conditions is strictly mediated by physical edges. By comparing native, etched, edge-free, and gate-defined geometries, they find that the Josephson coupling disappears without edges and reemerges only when edge conduction is restored. This demonstrates that the supercurrent originates from Andreev bound states formed by paired upstream and downstream modes along the edges, highlighting edge engineering as a key strategy for realizing hybrid topological superconductivity in quantum Hall systems.
-
-[Phys. Rev. B 112, L241401] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>Seong Jang, Geon-Hyoung Park, Kenji Watanabe, Takashi Taniguchi, and Gil-Ho Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reconfigurable Smith-Purcell emission enabled by a chirped metagrating]]></title>
-        <id>http://link.aps.org/doi/10.1103/kfl8-2n2k</id>
-        <link href="http://link.aps.org/doi/10.1103/kfl8-2n2k"/>
-        <updated>2025-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xiang Xiong, Yuxiang Chen, Zheyu Fang, Ru-Wen Peng, and Mu Wang
-Smith-Purcell radiation (SPR) is a powerful light-generation mechanism, but the devices are limited by static grating geometries. The authors introduce a reconfigurable SPR modulation on a two-dimensional chirped metallic metagrating without changing the nanostructure. By shifting the electron beam, the system delivers tunable emission angles, switchable focal spots, dual-focus functionality, and dual-wavelength output. Angle-resolved cathodoluminescence experiments reveal precise control of SPR dispersion. This work demonstrates a versatile free-electron photonic platform, paving the way for actively tunable, multifunctional light sources for integrated photonic applications.
-
-[Phys. Rev. Applied 24, 064004] Published Mon Dec 01, 2025]]></summary>
-        <author>
-            <name>Xiang Xiong, Yuxiang Chen, Zheyu Fang, Ru-Wen Peng, and Mu Wang</name>
         </author>
     </entry>
 </feed>
