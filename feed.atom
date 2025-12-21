@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-20T01:10:31.569Z</id>
+    <id>urn:2025-12-21T01:19:32.367Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T01:10:31.569Z</updated>
+    <updated>2025-12-21T01:19:32.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Closed-Loop Control of Active Nematic Flows]]></title>
+        <id>http://link.aps.org/doi/10.1103/4hrx-6rdq</id>
+        <link href="http://link.aps.org/doi/10.1103/4hrx-6rdq"/>
+        <updated>2025-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Katsu Nishiyama, John Berezney, Michael M. Norton, Akshit Aggarwal, Saptorshi Ghosh, Zahra Zarei, Michael F. Hagan, Seth Fraden, and Zvonimir Dogic
+A feedback-controlled, light-responsive system regulates the chaotic motion of active fluids, maintaining steady flow speeds despite disturbances and enabling precise control over their dynamic behavior.
+
+[Phys. Rev. X 15, 041053] Published Fri Dec 19, 2025]]></summary>
+        <author>
+            <name>Katsu Nishiyama, John Berezney, Michael M. Norton, Akshit Aggarwal, Saptorshi Ghosh, Zahra Zarei, Michael F. Hagan, Seth Fraden, and Zvonimir Dogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demonstration of Discrete-Time Quantum Walks and Observation of Topological Edge States in a Superconducting Qutrit Chain]]></title>
+        <id>http://link.aps.org/doi/10.1103/5lm1-2kpk</id>
+        <link href="http://link.aps.org/doi/10.1103/5lm1-2kpk"/>
+        <updated>2025-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kun Zhou, Jian-Wen Xu, Qi-Ping Su, Yu Zhang, Xiang-Min Yu, Zhuang Ma, Han-Yu Zhang, Hong-Yi Shi, Wen Zheng, Shuyi Pan, Yihao Kang, Zhiguo Huang, Chui-Ping Yang, Shao-Xiong Li, and Yang Yu
+A qutrit-based realization of a discrete-time quantum walk overcomes the scalability challenge and demonstrates the generation of topological edge states.
+
+[Phys. Rev. Lett. 135, 250601] Published Fri Dec 19, 2025]]></summary>
+        <author>
+            <name>Kun Zhou, Jian-Wen Xu, Qi-Ping Su, Yu Zhang, Xiang-Min Yu, Zhuang Ma, Han-Yu Zhang, Hong-Yi Shi, Wen Zheng, Shuyi Pan, Yihao Kang, Zhiguo Huang, Chui-Ping Yang, Shao-Xiong Li, and Yang Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diffuse gamma-ray and neutrino emission from the Milky Way and the local knee in the cosmic ray spectrum]]></title>
+        <id>http://link.aps.org/doi/10.1103/qbqq-4jvg</id>
+        <link href="http://link.aps.org/doi/10.1103/qbqq-4jvg"/>
+        <updated>2025-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): C. Prévotat, Zh. Zhu, S. Koldobskiy, A. Neronov, D. Semikoz, and M. Ahlers
+As cosmic rays propagate through the Galaxy, they produce gamma rays and contribute to the gamma-ray background. The authors compute the expected gamma-ray background based on the observed cosmic ray flux. They show an overproduction of gamma-ray above 100 TeV, which they suggest is due to the rarity of 1 PeV cosmic-ray sources. Their work helps constrain the sources of high energy cosmic rays.
+
+[Phys. Rev. D 112, 123033] Published Fri Dec 19, 2025]]></summary>
+        <author>
+            <name>C. Prévotat, Zh. Zhu, S. Koldobskiy, A. Neronov, D. Semikoz, and M. Ahlers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesoscopic fluctuations and multifractality at and across measurement-induced phase transitions]]></title>
+        <id>http://link.aps.org/doi/10.1103/2k3q-h6lz</id>
+        <link href="http://link.aps.org/doi/10.1103/2k3q-h6lz"/>
+        <updated>2025-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Igor Poboiko, Igor V. Gornyi, and Alexander D. Mirlin
+Monitored quantum systems is a rich field bridging quantum information, statistical physics, and condensed matter. Here, combining analytical theory and numerical simulations, the authors identify scaling behavior and universality in “mesoscopic” fluctuations of the key quantum information observables across measurement-induced transitions. They reveal scale-invariant fluctuations and multifractality, uncovering new parallels to Anderson localization and Kardar-Parisi-Zhang physics. The findings crucially advance the understanding of quantum measurement effects beyond averaged observables and lay the groundwork for mesoscopic theory of monitored systems.
+
+[Phys. Rev. B 112, L220202] Published Fri Dec 19, 2025]]></summary>
+        <author>
+            <name>Igor Poboiko, Igor V. Gornyi, and Alexander D. Mirlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On-chip magnon-polaron generation in mode-matched cavity magnomechanics]]></title>
+        <id>http://link.aps.org/doi/10.1103/l84d-4tgb</id>
+        <link href="http://link.aps.org/doi/10.1103/l84d-4tgb"/>
+        <updated>2025-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Daiki Hatanaka, Motoki Asano, Megumi Kurosu, Yoshitaka Taniyasu, Hajime Okamoto, and Hiroshi Yamaguchi
+Magnon polarons are essential for coherent control in acoustic and spintronic devices, but conventional structures based on magnetic thin films on thick piezoelectric substrates suffer from weak magnon-phonon coupling, due to poor spatial mode overlap. The authors overcome this limitation by employing a mode-matched planar magnomechanical system, with a thin piezoelectric film and a micrometer-thick magnetic layer. This configuration enables deeply distributed magnon modes and enhances magnetoelastic interactions with microwave phonons. As a result, the team observes clear formation of magnon polarons, manifested as pronounced avoided crossings in the spectra.
+
+[Phys. Rev. Applied 24, 064053] Published Fri Dec 19, 2025]]></summary>
+        <author>
+            <name>Daiki Hatanaka, Motoki Asano, Megumi Kurosu, Yoshitaka Taniyasu, Hajime Okamoto, and Hiroshi Yamaguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective interactions in quasi-one-dimensional dipolar quantum gases]]></title>
+        <id>http://link.aps.org/doi/10.1103/kv6g-12l6</id>
+        <link href="http://link.aps.org/doi/10.1103/kv6g-12l6"/>
+        <updated>2025-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Michał Zdziennicki, Mateusz Ślusarczyk, Krzysztof Pawłowski, and Krzysztof Jachymski
+The authors theoretically study ultracold dipolar atoms in an elongated external trap and their mapping onto a strictly one-dimensional system. They show that a full three-dimensional treatment is necessary to capture the subtle influence of long-range dipole-dipole interactions, especially at short interatomic distances where coupling to excited transverse modes becomes significant.
+
+[Phys. Rev. A 112, 063318] Published Fri Dec 19, 2025]]></summary>
+        <author>
+            <name>Michał Zdziennicki, Mateusz Ślusarczyk, Krzysztof Pawłowski, and Krzysztof Jachymski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stochastic Heating in the Sub-Alfvénic Solar Wind]]></title>
         <id>http://link.aps.org/doi/10.1103/rxd8-22m9</id>
@@ -1228,85 +1306,6 @@ A single-atom interferometer confirms Niels Bohr’s resolution of a seemingly p
 [Phys. Rev. Lett. 135, 230202] Published Tue Dec 02, 2025]]></summary>
         <author>
             <name>Yu-Chen Zhang, Hao-Wen Cheng, Zhao-Qiu Zengxu, Zhan Wu, Rui Lin, Yu-Cheng Duan, Jun Rui, Ming-Cheng Chen, Chao-Yang Lu, and Jian-Wei Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramanujan’s $1/π$ Series and Conformal Field Theories]]></title>
-        <id>http://link.aps.org/doi/10.1103/c38g-fd2v</id>
-        <link href="http://link.aps.org/doi/10.1103/c38g-fd2v"/>
-        <updated>2025-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Faizan Bhat and Aninda Sinha
-Ramanujan’s infinite series for 1/π leads to new expansions in logarithmic conformal field theories that converge faster than the standard conformal block decomposition.
-
-[Phys. Rev. Lett. 135, 231602] Published Tue Dec 02, 2025]]></summary>
-        <author>
-            <name>Faizan Bhat and Aninda Sinha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probing Valence Electron and Hydrogen Dynamics Using Charge-Pair Imaging with Ultrafast Electron Diffraction]]></title>
-        <id>http://link.aps.org/doi/10.1103/kny2-gf5x</id>
-        <link href="http://link.aps.org/doi/10.1103/kny2-gf5x"/>
-        <updated>2025-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Tianyu Wang, Hui Jiang, Ming Zhang, Xiao Zou, Pengfei Zhu, Feng He, Zheng Li, and Dao Xiang
-Ultrafast electron diffraction can capture the motion of electrons and nuclei during light-induced reactions with high spatial and temporal resolution.
-
-[Phys. Rev. Lett. 135, 233002] Published Tue Dec 02, 2025]]></summary>
-        <author>
-            <name>Tianyu Wang, Hui Jiang, Ming Zhang, Xiao Zou, Pengfei Zhu, Feng He, Zheng Li, and Dao Xiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Molecular Anyons in the Fractional Quantum Hall Effect]]></title>
-        <id>http://link.aps.org/doi/10.1103/scl5-8pv6</id>
-        <link href="http://link.aps.org/doi/10.1103/scl5-8pv6"/>
-        <updated>2025-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Mytraya Gattu and J. K. Jain
-The quasiparticles associated with a phenomenon called the fractional quantum Hall effect can bind together into stable clusters.
-
-[Phys. Rev. Lett. 135, 236601] Published Tue Dec 02, 2025]]></summary>
-        <author>
-            <name>Mytraya Gattu and J. K. Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlocal dielectric response of aqueous electrolytes and decay behavior of ionic correlations]]></title>
-        <id>http://link.aps.org/doi/10.1103/5qgc-rfvv</id>
-        <link href="http://link.aps.org/doi/10.1103/5qgc-rfvv"/>
-        <updated>2025-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ming Chen, Guang Feng, Roland Kjellander, and Alexei A. Kornyshev
-By combining nonlocal electrostatics, dressed ion theory, and advanced molecular dynamics simulations, this study provides a comprehensive framework for understanding ionic correlations and solvation effects in dense electrolytes. It has implications across soft matter, electrochemistry, and energy storage applications.
-#WellStructured #TechnicalAdvancement #ClassicProblem
-
-[Phys. Rev. E 112, 065407] Published Tue Dec 02, 2025]]></summary>
-        <author>
-            <name>Ming Chen, Guang Feng, Roland Kjellander, and Alexei A. Kornyshev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics of anyon clusters in fractional quantum Hall fluids]]></title>
-        <id>http://link.aps.org/doi/10.1103/vgz6-z98r</id>
-        <link href="http://link.aps.org/doi/10.1103/vgz6-z98r"/>
-        <updated>2025-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Qianhui Xu, Guangyue Ji, Yuzhu Wang, Ha Quang Trung, and Bo Yang
-The authors explore here the interesting “chemistry” of anyons – collective excitations emerging from a large amount of correlated electrons – in strongly interacting fractional quantum Hall fluids. Anyons can form clusters (“molecules”) because of the effective anyon-anyon interaction induced by tunable electron-electron interactions. Laughlin anyons form hydrogen molecule like bound states with short-range electron interactions, potentially explaining the mystery of the observed 2e/3 effective charge at extremely low temperatures. In the non-Abelian Moore–Read phase, fusion channel dependent effective interactions lift the “1/ψ” degeneracy, enabling the possible energetic control of non-Abelian anyons. The authors also propose STM as a useful experimental tool for detecting the fingerprint of various configurations of anyon clusters.
-
-[Phys. Rev. B 112, 235112] Published Tue Dec 02, 2025]]></summary>
-        <author>
-            <name>Qianhui Xu, Guangyue Ji, Yuzhu Wang, Ha Quang Trung, and Bo Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electric and spin current vortices in altermagnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/3sw6-y8vf</id>
-        <link href="http://link.aps.org/doi/10.1103/3sw6-y8vf"/>
-        <updated>2025-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Arsen Herasymchuk, Karl Bergson Hallberg, Erik Wegner Hodt, Jacob Linder, E. V. Gorbar, and Pavlo Sukhachov
-Altermagnets are collinear magnets exhibiting momentum-dependent spin splitting and vanishing net magnetization. Using semiclassical Boltzmann and lattice Keldysh approaches, the authors demonstrate here that altermagnets support swirling electric and spin currents. The patterns of these currents are controlled by the relative orientation of altermagnetic nodal planes and sample boundaries. Unlike previous proposals considering the hydrodynamic transport regime, swirling currents appear even in the Ohmic regime and rely exclusively on altermagnetic spin splitting, with no swirls found in ferromagnets.
-
-[Phys. Rev. B 112, L220404] Published Tue Dec 02, 2025]]></summary>
-        <author>
-            <name>Arsen Herasymchuk, Karl Bergson Hallberg, Erik Wegner Hodt, Jacob Linder, E. V. Gorbar, and Pavlo Sukhachov</name>
         </author>
     </entry>
 </feed>
