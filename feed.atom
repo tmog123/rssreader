@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-26T01:14:38.944Z</id>
+    <id>urn:2025-12-27T01:12:39.586Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T01:14:38.944Z</updated>
+    <updated>2025-12-27T01:12:39.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Experiments on rapidly rotating convection: The role of the Prandtl number]]></title>
+        <id>http://link.aps.org/doi/10.1103/n66p-zhpw</id>
+        <link href="http://link.aps.org/doi/10.1103/n66p-zhpw"/>
+        <updated>2025-12-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hannah M. Clercx and Rudie P. J. Kunnen
+We measure the efficiency of convective heat transfer (Nusselt number) by turbulent convection in a rapidly rotating Rayleigh-Bénard convection experiment. Series of measurements are done at two constant values of the Rayleigh number. Using water at different mean temperatures, we change the Prandtl number. Raising the Prandtl number leads to a reduction of the Nusselt number with a significantly stronger dependence than without rotation. We hypothesize that this dependence is caused by the changing ratio of the thermal and kinetic boundary layer thicknesses.
+
+[Phys. Rev. Fluids 10, 123503] Published Fri Dec 26, 2025]]></summary>
+        <author>
+            <name>Hannah M. Clercx and Rudie P. J. Kunnen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transverse Polarization Gradient Entangling Gates for Trapped-Ion Quantum Computation]]></title>
         <id>http://link.aps.org/doi/10.1103/w5l6-wmrl</id>
@@ -1292,19 +1305,6 @@ The authors demonstrate here that strain-gradient engineering in bent MoSi2N4 na
 [Phys. Rev. B 112, 245407] Published Fri Dec 05, 2025]]></summary>
         <author>
             <name>Helong Chen, Meng Ge, Yang Xiao, Degao Xu, Jianing Tan, and Gang Ouyang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Short-range spin freezing in the double trillium lattice spin-liquid candidate ${\mathrm{KSrFe}}_{2}{({\mathrm{PO}}_{4})}_{3}$ revealed via $^{31}\mathrm{P}$ NMR]]></title>
-        <id>http://link.aps.org/doi/10.1103/k3lw-2567</id>
-        <link href="http://link.aps.org/doi/10.1103/k3lw-2567"/>
-        <updated>2025-12-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sebin J. Sebastian, Q.-P. Ding, A. A. Tsirlin, R. Nath, and Y. Furukawa
-The authors investigate here the double-trillium lattice antiferromagnet KSrFe2(PO4)3 using 31P NMR, thermodynamic measurements, and first-principles calculations to elucidate its unconventional ground state. Below the characteristic temperature T* ~ 3.5 K, the results reveal a short-range spin freezing state with persistent antiferromagnetic fluctuations, contradicting earlier proposals of a gapless spin-liquid state. A nearly field-independent NMR linewidth, strong enhancement of 1/T2 below T*, and sizeable antiferromagnetic exchange interactions collectively position KSrFe2(PO4)3 as a rare three-dimensional frustrated magnet hosting intertwined static and dynamic correlations.
-
-[Phys. Rev. B 112, L220406] Published Fri Dec 05, 2025]]></summary>
-        <author>
-            <name>Sebin J. Sebastian, Q.-P. Ding, A. A. Tsirlin, R. Nath, and Y. Furukawa</name>
         </author>
     </entry>
 </feed>
