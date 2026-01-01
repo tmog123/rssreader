@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/hbtb-8hds",
+          "author": "Erik S. Samuelsen and Yuli V. Nazarov",
+          "description": "Author(s): Erik S. Samuelsen and Yuli V. Nazarov\nThe authors propose here a novel way to realize Andreev molecules from hybridization of excited singlet bound states in different Josephson junctions connected to a shared electromagnetic environment. They uncover relevant parameter regimes where molecular states arise by numerically obtaining the low-frequency mutual inductance as an important signature. This work also demonstrates the experimental feasibility by explicitly showing how a resonant oscillator mode can be exploited to enhance hybridization and for readout of the molecular states.\n\n[Phys. Rev. B 112, 214523] Published Wed Dec 31, 2025",
+          "link": "http://link.aps.org/doi/10.1103/hbtb-8hds",
+          "publishedOn": "2025-12-31T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Formation of Andreev molecules at long distance using an embedding circuit",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/n66p-zhpw",
           "author": "Hannah M. Clercx and Rudie P. J. Kunnen",
           "description": "Author(s): Hannah M. Clercx and Rudie P. J. Kunnen\nWe measure the efficiency of convective heat transfer (Nusselt number) by turbulent convection in a rapidly rotating Rayleigh-Bénard convection experiment. Series of measurements are done at two constant values of the Rayleigh number. Using water at different mean temperatures, we change the Prandtl number. Raising the Prandtl number leads to a reduction of the Nusselt number with a significantly stronger dependence than without rotation. We hypothesize that this dependence is caused by the changing ratio of the thermal and kinetic boundary layer thicknesses.\n\n[Phys. Rev. Fluids 10, 123503] Published Fri Dec 26, 2025",
@@ -993,16 +1003,6 @@
           "publishedOn": "2025-12-05T10:00:00.000Z",
           "wordCount": null,
           "title": "Fermi-surface driven frustrations in charge ordered kagome metal ${\\mathrm{LuNb}}_{6}{\\mathrm{Sn}}_{6}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/z4m4-z59l",
-          "author": "Helong Chen, Meng Ge, Yang Xiao, Degao Xu, Jianing Tan, and Gang Ouyang",
-          "description": "Author(s): Helong Chen, Meng Ge, Yang Xiao, Degao Xu, Jianing Tan, and Gang Ouyang\nThe authors demonstrate here that strain-gradient engineering in bent MoSi2N4 nanoribbons induces not only self-doping and a nonzero Berry curvature dipole, but also achieves an outstanding flexoelectric power conversion efficiency of 9.05%, the highest among 2D flexophotovoltaic systems. Under circularly polarized light, the bent MoSi2N4 photodetector generates a self-powered spin photocurrent. These results advance the fundamental understanding of mechanical-electronic coupling in 2D materials and highlight the potential of MoSi2N4 for high-efficiency solar cells, optoelectronics, and spintronic applications.\n\n[Phys. Rev. B 112, 245407] Published Fri Dec 05, 2025",
-          "link": "http://link.aps.org/doi/10.1103/z4m4-z59l",
-          "publishedOn": "2025-12-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Strain gradient engineered flexophotovoltaics and spin polarization in bent ${\\mathrm{MoSi}}_{2}{\\mathrm{N}}_{4}$ nanoribbons",
           "imageUrl": null
         }
       ]
