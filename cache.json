@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/lrh6-7np9",
+          "author": "Mário G. Silveirinha",
+          "description": "Author(s): Mário G. Silveirinha\nUnidirectional lossless closed channels are fundamentally incompatible with thermal equilibrium. Challenging the widespread belief that dissipation alone restores thermodynamic consistency, this work shows that even dissipative nonreciprocal systems can exhibit unphysical thermal sinks and sources. A modal analysis reveals the competing roles of dissipative eigenmodes and their gain-conjugate partners, which together govern fluctuation-induced fields. Thermodynamic consistency is recovered only by accounting for nonlocality, revealing a deep connection between topology, bulk-edge correspondence, and equilibrium in passive systems.\n\n[Phys. Rev. B 113, 035103] Published Fri Jan 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/lrh6-7np9",
+          "publishedOn": "2026-01-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Thermodynamic paradox and non-Hermitian topological singularities",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/t2b9-3vby",
+          "author": "Victoria Quirós-Cordero, Esteban Rojas-Gatjens, Martin Gomez-Dominguez, Hao Li, Carlo A. R. Perini, Natalie Stingelin, Juan-Pablo Correa-Baena, Eric R. Bittner, Ajay Ram Srimath Kandada, and Carlos Silva-Acuña",
+          "description": "Author(s): Victoria Quirós-Cordero, Esteban Rojas-Gatjens, Martin Gomez-Dominguez, Hao Li, Carlo A. R. Perini, Natalie Stingelin, Juan-Pablo Correa-Baena, Eric R. Bittner, Ajay Ram Srimath Kandada, and Carlos Silva-Acuña\nHere, the authors use advanced nonlinear spectroscopy to directly observe how excitons and polaritons interact in a strongly coupled semiconductor microcavity. Their measurements reveal ultrafast energy flow into polariton states and uncover clear signatures of multiparticle Coulomb interactions that link reservoir and polariton modes. These previously hidden correlation pathways shape polariton behavior far beyond mean-field expectations, offering fresh insight into the fundamental processes that enable polariton condensation and other collective quantum phenomena.\n\n[Phys. Rev. B 113, L041102] Published Fri Jan 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/t2b9-3vby",
+          "publishedOn": "2026-01-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Resolving exciton and polariton multiparticle correlations in an optical microcavity in the strong-coupling regime",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/nwry-xjsb",
+          "author": "Hendrik Hegels, Thomas Stolz, Gerhard Rempe, and Stephan Dürr",
+          "description": "Author(s): Hendrik Hegels, Thomas Stolz, Gerhard Rempe, and Stephan Dürr\nThe authors outline a proposal that uses multiple atoms coupled to an optical mode in a cavity to generate Schroedinger cat states of optical photons. They show that cat states with mean photon numbers around 30 could even be feasible with existing technology.\n\n[Phys. Rev. A 113, 013708] Published Fri Jan 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/nwry-xjsb",
+          "publishedOn": "2026-01-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Optimizing decoherence in the generation of optical Schrödinger cat states",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/hbtb-8hds",
           "author": "Erik S. Samuelsen and Yuli V. Nazarov",
           "description": "Author(s): Erik S. Samuelsen and Yuli V. Nazarov\nThe authors propose here a novel way to realize Andreev molecules from hybridization of excited singlet bound states in different Josephson junctions connected to a shared electromagnetic environment. They uncover relevant parameter regimes where molecular states arise by numerically obtaining the low-frequency mutual inductance as an important signature. This work also demonstrates the experimental feasibility by explicitly showing how a resonant oscillator mode can be exploited to enhance hybridization and for readout of the molecular states.\n\n[Phys. Rev. B 112, 214523] Published Wed Dec 31, 2025",
@@ -943,66 +973,6 @@
           "publishedOn": "2025-12-08T10:00:00.000Z",
           "wordCount": null,
           "title": "Interference in phase space and phase-only reconstruction",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/dcl4-znfd",
-          "author": "Junfa Lin, Jianfeng Guo, Huan Wang, Xiaoyan Wang, Sheng Xu, Xiangyu Zeng, Yu Zhang, Zhihai Cheng, and Tian-Long Xia",
-          "description": "Author(s): Junfa Lin, Jianfeng Guo, Huan Wang, Xiaoyan Wang, Sheng Xu, Xiangyu Zeng, Yu Zhang, Zhihai Cheng, and Tian-Long Xia\nNovel Hall phenomena are observed in centrosymmetric Mn5Ge3 ferromagnet. Contrary to the typical behavior observed in most ferromagnets, the large anomalous Hall effect is strongly suppressed at low temperatures, giving way to a dominant ordinary Hall effect that is well described by a two-band model. This unique temperature dependence suggests a competition between intrinsic and skew-scattering mechanisms. Furthermore, this work identifies two distinct origins of the topological Hall effect: one arising from non-collinear spin textures and the other from skyrmion bubbles. These findings offer new insights into both the anomalous and topological Hall effects.\n\n[Phys. Rev. Materials 9, 124403] Published Fri Dec 05, 2025",
-          "link": "http://link.aps.org/doi/10.1103/dcl4-znfd",
-          "publishedOn": "2025-12-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Concurrence of large anomalous Hall and topological Hall effects in ferromagnet ${\\mathrm{Mn}}_{5}{\\mathrm{Ge}}_{3}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ltqy-d53p",
-          "author": "Pier Giuseppe Ledda, Hemanshul Garg, Vitus Østergaard-Clausen, Lucas Krumenacker Rudzki, Ahmad Madary, and Matteo Pezzulla",
-          "description": "Author(s): Pier Giuseppe Ledda, Hemanshul Garg, Vitus Østergaard-Clausen, Lucas Krumenacker Rudzki, Ahmad Madary, and Matteo Pezzulla\nA phenomenon reminiscent of a common experience with an umbrella inspires the development of a potential microfluidics component.\n\n[Phys. Rev. Lett. 135, 234002] Published Fri Dec 05, 2025",
-          "link": "http://link.aps.org/doi/10.1103/ltqy-d53p",
-          "publishedOn": "2025-12-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fluid-Induced Snap-Through Instability of Spherical Shells",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qyqb-9c57",
-          "author": "Iain McKenzie, Victoria L. Karner, Ruohong Li, W. Andrew MacFarlane, Gerald D. Morris, Michael F. Thees, John O. Ticknor, and James A. Forrest",
-          "description": "Author(s): Iain McKenzie, Victoria L. Karner, Ruohong Li, W. Andrew MacFarlane, Gerald D. Morris, Michael F. Thees, John O. Ticknor, and James A. Forrest\nSpecific preparation and thermal history lock oligomeric glasses into distinct regions of the potential energy landscape, giving rise to fundamentally different dynamics.\n\n[Phys. Rev. Lett. 135, 238101] Published Fri Dec 05, 2025",
-          "link": "http://link.aps.org/doi/10.1103/qyqb-9c57",
-          "publishedOn": "2025-12-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dynamics from the Surface to the Bulk in Ultrastable and Liquid-Cooled Oligomeric Glasses",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/4xnv-h9dc",
-          "author": "Marc Barthelemy",
-          "description": "Author(s): Marc Barthelemy\nThis study presents a novel model for spatial networks generated from intersecting lines. It is based on a principle of growth present in various real systems such as transportation networks, fungal hyphae, and vascular structures.\n#ClearMotivation #Interdisciplinary\n\n[Phys. Rev. E 112, 064304] Published Fri Dec 05, 2025",
-          "link": "http://link.aps.org/doi/10.1103/4xnv-h9dc",
-          "publishedOn": "2025-12-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "From lines to networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/9461-gltv",
-          "author": "Yiwei Bao, Ruo-Yu Liu, Gwenael Giacinti, Hai-Ming Zhang, and Yang Chen",
-          "description": "Author(s): Yiwei Bao, Ruo-Yu Liu, Gwenael Giacinti, Hai-Ming Zhang, and Yang Chen\nGeV gamma-ray emission is frequently observed both at large angular separation from pulsars and are not always centered around these pulsars. Using GPU-acceleration monte-carlo simulations, the authors provide a compelling explanation that the propogation of 100 GeV electrons that produce these gamma-rays in the turbulent interstellar magnetic field both leads to off-center peaks and wide separation, e.g., a gamma-ray mirage. These mirages can help constrain the properties of the interstellar magnetic field.\n\n[Phys. Rev. D 112, 123017] Published Fri Dec 05, 2025",
-          "link": "http://link.aps.org/doi/10.1103/9461-gltv",
-          "publishedOn": "2025-12-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Mirage sources and large TeV halo-pulsar offsets: Exploring the parameter space",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/6yk1-19mn",
-          "author": "F. Z. Yang, X. Huang, Hengxin Tan, A. Kundu, S. Kim, M. Thinel, J. Ingham, A. Rajapitamahuni, Y. Q. Cai, C. Nelson, E. Vescovo, W. R. Meier, D. Mandrus, B. R. Ortiz, A. N. Pasupathy, Binghai Yan, and H. Miao",
-          "description": "Author(s): F. Z. Yang, X. Huang, Hengxin Tan, A. Kundu, S. Kim, M. Thinel, J. Ingham, A. Rajapitamahuni, Y. Q. Cai, C. Nelson, E. Vescovo, W. R. Meier, D. Mandrus, B. R. Ortiz, A. N. Pasupathy, Binghai Yan, and H. Miao\nElectron scattering near the Fermi surface strongly reshapes lattice dynamics in quantum materials (see image). By combining real- and momentum-space measurements and first-principle calculations, the authors uncover charge density wave formation in the kagome metal LuNb6Sn6. The Fermi surface topology generates frustrated charge correlations near 𝐐H that evade ordering, enabled by the complete softening of a flat phonon over wide momenta.\n\n[Phys. Rev. B 112, 245113] Published Fri Dec 05, 2025",
-          "link": "http://link.aps.org/doi/10.1103/6yk1-19mn",
-          "publishedOn": "2025-12-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fermi-surface driven frustrations in charge ordered kagome metal ${\\mathrm{LuNb}}_{6}{\\mathrm{Sn}}_{6}$",
           "imageUrl": null
         }
       ]
