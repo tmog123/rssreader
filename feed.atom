@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-10T01:14:50.089Z</id>
+    <id>urn:2026-01-11T01:23:36.076Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T01:14:50.089Z</updated>
+    <updated>2026-01-11T01:23:36.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Multiscale geometrical and topological learning in the analysis of soft matter collective dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/dht2-w1gz</id>
+        <link href="http://link.aps.org/doi/10.1103/dht2-w1gz"/>
+        <updated>2026-01-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Tetiana Orlova, Amaranta Membrillo Solis, Hayley R. O. Sohn, Tristan Madeleine, Giampaolo D'Alessandro, Ivan I. Smalyukh, Malgosia Kaczmarek, and Jacek Brodzki
+Understanding the fundamental principles of dynamic many-body systems from their temporally and spatially varying pattern images provides valuable insights into living and abiotic matter. Using liquid-crystalline skyrmion arrays as a model system, the authors apply geometric and topological data analysis to uncover their multiscale structure, motion, and shape changes of individual structures. Their approach relies on the Ψ function, a new topological descriptor that distinguishes pure translational dynamics from transformations in soliton geometry or spatial reorganization. This general framework connects image-based analysis with the underlying physical or biological processes. It can be applied to cellular organization, active matter, nanomaterials, and complex self-assembled systems.
+
+[Phys. Rev. Materials 10, 015602] Published Fri Jan 09, 2026]]></summary>
+        <author>
+            <name>Tetiana Orlova, Amaranta Membrillo Solis, Hayley R. O. Sohn, Tristan Madeleine, Giampaolo D'Alessandro, Ivan I. Smalyukh, Malgosia Kaczmarek, and Jacek Brodzki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smaller Grains Are Not Stronger: Microcrystalline Metals at Ultrahigh Strain Rates]]></title>
+        <id>http://link.aps.org/doi/10.1103/yp9h-sr2m</id>
+        <link href="http://link.aps.org/doi/10.1103/yp9h-sr2m"/>
+        <updated>2026-01-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Laura Wu, Yuan Yao, Luyan Li, Qi Tang, and Mostafa Hassani
+A textbook rule for the relationship between the structure and strength of a material breaks down for high-speed deformations, like those caused by strong impacts.
+
+[Phys. Rev. Lett. 136, 016104] Published Fri Jan 09, 2026]]></summary>
+        <author>
+            <name>Laura Wu, Yuan Yao, Luyan Li, Qi Tang, and Mostafa Hassani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultrafast modification of coherent phonons during the photoinduced insulator-to-metal phase transition in neodymium nickelate]]></title>
+        <id>http://link.aps.org/doi/10.1103/yg97-vfmn</id>
+        <link href="http://link.aps.org/doi/10.1103/yg97-vfmn"/>
+        <updated>2026-01-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Oleg Dogadov, Grace A. Pan, Andrea Villa, Dan Ferenc Segedin, Premysl Marsik, Charles M. Brooks, Hanjong Paik, Qi Song, Valeria Russo, Carlo S. Casari, Julia A. Mundy, Giulio Cerullo, and Stefano Dal Conte
+Due to the high interest in the insulator-metal transition (IMT) in rare-earth nickelates for potential applications, a deep understanding of the role of different degrees of freedom is required. Here, the authors perform transient reflectivity measurements to study the photoinduced IMT in NdNiO3. They show that the ultrafast reflectivity change is concomitant with the suppression of the coherent phonons of the insulating phase, revealing a strong connection between the electronic changes and rapid lattice modifications across the IMT.
+
+[Phys. Rev. B 113, 014304] Published Fri Jan 09, 2026]]></summary>
+        <author>
+            <name>Oleg Dogadov, Grace A. Pan, Andrea Villa, Dan Ferenc Segedin, Premysl Marsik, Charles M. Brooks, Hanjong Paik, Qi Song, Valeria Russo, Carlo S. Casari, Julia A. Mundy, Giulio Cerullo, and Stefano Dal Conte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Control of valence-electron motion in Xe cations using the stimulated-Raman-adiabatic-passage technique]]></title>
+        <id>http://link.aps.org/doi/10.1103/2k75-h2pm</id>
+        <link href="http://link.aps.org/doi/10.1103/2k75-h2pm"/>
+        <updated>2026-01-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Miguel A. Alarcón, Karl Hauser, and Nikolay V. Golubev
+The authors theoretically investigate the possibilities of using the stimulated Raman adiabatic passage (STIRAP) and its variants to control a coherent superposition of quantum states. They present a generalization of the so-called fractional STIRAP, demonstrating precise control over the mixing ratio of quantum states in the wave packet.
+
+[Phys. Rev. A 113, 013112] Published Fri Jan 09, 2026]]></summary>
+        <author>
+            <name>Miguel A. Alarcón, Karl Hauser, and Nikolay V. Golubev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Precision Measurement of Neutrino Oscillation Parameters with 10 Years of Data from the NOvA Experiment]]></title>
         <id>http://link.aps.org/doi/10.1103/x53y-2b86</id>
@@ -1254,58 +1306,6 @@ Higher-spin materials can host exotic quantum phases with no counterparts in fam
 [Phys. Rev. B 112, 214434] Published Mon Dec 15, 2025]]></summary>
         <author>
             <name>Zhiling Wei, Zhengzhong Du, Xiaodong Cao, Wen-Long You, and Yi Lu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cat states carrying long-range correlations in the many-body localized phase]]></title>
-        <id>http://link.aps.org/doi/10.1103/gtfr-nblw</id>
-        <link href="http://link.aps.org/doi/10.1103/gtfr-nblw"/>
-        <updated>2025-12-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nicolas Laflorencie, Jeanne Colbois, and Fabien Alet
-The many-body localization (MBL) problem continues to reveal its rich physical content. Herey, the authors investigate long-range correlations in the random-field Heisenberg chain and find rare, system-spanning “cat states” hidden in the high-energy many-body spectrum. These states are identified as nearly degenerate resonant pairs, well captured by an analytical ansatz. Remarkably, such atypical eigenstates persist even at very strong disorder, a regime in which conventional diagnostics suggest robust localization. These results offer fresh insight into the MBL problem and reopen fundamental questions about the mechanisms that might destabilize the MBL phase.
-
-[Phys. Rev. B 112, 224207] Published Mon Dec 15, 2025]]></summary>
-        <author>
-            <name>Nicolas Laflorencie, Jeanne Colbois, and Fabien Alet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum oscillations reveal sixfold fermions in cubic $β\text{−}{\mathrm{PtBi}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/n27x-jxjx</id>
-        <link href="http://link.aps.org/doi/10.1103/n27x-jxjx"/>
-        <updated>2025-12-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): E. F. Bavaro, J. Castro, V. Vildosola, J. I. Facio, and V. F. Correa
-High-resolution de Haas–-van Alphen measurements on cubic β-PtBi2, combined with fully relativistic density functional calculations, reveal quantum oscillations arising from a symmetry-enforced sixfold band touching at the Brillouin zone corner. Three small electron pockets derived from this degeneracy, lying ~25 meV below the Fermi level, are identified through their low oscillation frequencies and angular dependence. These results provide bulk evidence for sixfold fermions in β-PtBi2, bridging ARPES observations and theory and establishing a robust platform for multifold quasiparticles.
-
-[Phys. Rev. B 112, 245136] Published Mon Dec 15, 2025]]></summary>
-        <author>
-            <name>E. F. Bavaro, J. Castro, V. Vildosola, J. I. Facio, and V. F. Correa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First-principles calculations of thermal transport at metal/silicon interfaces: Evidence of interfacial electron-phonon coupling]]></title>
-        <id>http://link.aps.org/doi/10.1103/94kx-5l8h</id>
-        <link href="http://link.aps.org/doi/10.1103/94kx-5l8h"/>
-        <updated>2025-12-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Michael De San Féliciano, Christophe Adessi, Julien El Hajj, Nicolas Horny, François Detcheverry, Manuel Cobian, and Samy Merabia
-Thermal transport at metal/semiconductor interfaces is important for management of microelectronic devices. At these interfaces, heat transfer is generally described in terms of phonon transmission and a coupling between metal’s electrons and phonons in the semiconductor is believed to have a negligible impact. Here, the authors show that the interface electron-phonon coupling may amount to one third of the total thermal boundary conductance. First-principle calculations reveal that the controlling parameter is the metal’s Debye frequency, and high Debye frequency favors electron-phonon coupling at the interface.
-
-[Phys. Rev. B 112, 245303] Published Mon Dec 15, 2025]]></summary>
-        <author>
-            <name>Michael De San Féliciano, Christophe Adessi, Julien El Hajj, Nicolas Horny, François Detcheverry, Manuel Cobian, and Samy Merabia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lattice thermal transport beyond the quasiparticle approximation: Nontrivial spectral competition between three- and four-phonon interactions]]></title>
-        <id>http://link.aps.org/doi/10.1103/r3sd-ftgb</id>
-        <link href="http://link.aps.org/doi/10.1103/r3sd-ftgb"/>
-        <updated>2025-12-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Yi Xia
-The authors develop here a first-principles framework beyond the quasiparticle approximation (BQPA) incorporating three- and four-phonon interactions. By applying this to MgO, PbTe, and AgCl, they reveal a nontrivial spectral competition where three-phonon softening is counteracted by four-phonon hardening. This cancellation brings BQPA thermal conductivity predictions into unexpectedly close agreement with standard quasiparticle results, highlighting the necessity of treating both full spectral functions and higher-order anharmonicity on equal footing for accurate modeling.
-
-[Phys. Rev. B 112, L241201] Published Mon Dec 15, 2025]]></summary>
-        <author>
-            <name>Yi Xia</name>
         </author>
     </entry>
 </feed>
