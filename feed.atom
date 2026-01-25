@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-24T01:15:02.658Z</id>
+    <id>urn:2026-01-25T01:24:50.212Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T01:15:02.658Z</updated>
+    <updated>2026-01-25T01:24:50.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Combinatorial Design of Floppy Modes and Frustrated Loops in Metamaterials]]></title>
+        <id>http://link.aps.org/doi/10.1103/nqgr-tfb1</id>
+        <link href="http://link.aps.org/doi/10.1103/nqgr-tfb1"/>
+        <updated>2026-01-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wenfeng Liu, Tomer A. Sigalov, Corentin Coulais, and Yair Shokef
+A mechanical network of flexible links can be designed to solve a problem in matrix algebra.
+
+[Phys. Rev. Lett. 136, 038202] Published Fri Jan 23, 2026]]></summary>
+        <author>
+            <name>Wenfeng Liu, Tomer A. Sigalov, Corentin Coulais, and Yair Shokef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Versatile system for photoconductance decay measurement across a wide range of semiconductor materials]]></title>
+        <id>http://link.aps.org/doi/10.1103/pdrr-tpcm</id>
+        <link href="http://link.aps.org/doi/10.1103/pdrr-tpcm"/>
+        <updated>2026-01-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): András Bojtor, Dávid Krisztián, Gábor Paráda, Ferenc Korsós, Sándor Kollarics, Gábor Csősz, Bence G. Márkus, László Forró, and Ferenc Simon
+Time-resolved photoconductivity (PCD) sits at the heart of semiconductor characterization, yet many implementations probe only a narrow slice of the system’s properties—typically using a single microwave frequency paired with a single excitation wavelength. This work presents a versatile, contactless microwave PCD instrument that combines a broadband coplanar-waveguide sensor with flexible readout electronics, enabling an extensive detection range, temperature-dependent studies, and multiphoton excitation. This platform is equally relevant for industrial silicon wafers and emerging quantum materials, from perovskites to wide-band-gap power semiconductors and topological systems.
+
+[Phys. Rev. Applied 25, 014055] Published Fri Jan 23, 2026]]></summary>
+        <author>
+            <name>András Bojtor, Dávid Krisztián, Gábor Paráda, Ferenc Korsós, Sándor Kollarics, Gábor Csősz, Bence G. Márkus, László Forró, and Ferenc Simon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast conversion from <i>W</i> to Greenberger-Horne-Zeilinger States via inverse engineering]]></title>
+        <id>http://link.aps.org/doi/10.1103/h4jz-rrn6</id>
+        <link href="http://link.aps.org/doi/10.1103/h4jz-rrn6"/>
+        <updated>2026-01-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hui Zhou, Qilong Hu, Yuquan Chen, Tianyun Wang, Fangzhou Jin, Yunlan Ji, Jianpei Geng, and Xinhua Peng
+Controlled conversion between distinct classes of multipartite entangled states is crucial for quantum technologies, but direct interconversion is impossible, due to the states’ inequivalence under local operations. More sophisticated dynamical protocols are required; unfortunately, conventional adiabatic methods face a trade-off between fidelity and speed. This study employs inverse engineering to design accelerated adiabatic passages in a spin-chain system, enabling rapid W-to-GHZ conversion, as experimentally verified on an NMR quantum processor. The work highlights the potential of inverse engineering for efficient quantum state manipulation in many-body systems.
+
+[Phys. Rev. Applied 25, 014056] Published Fri Jan 23, 2026]]></summary>
+        <author>
+            <name>Hui Zhou, Qilong Hu, Yuquan Chen, Tianyun Wang, Fangzhou Jin, Yunlan Ji, Jianpei Geng, and Xinhua Peng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigating roles of triple excitations for high-precision determination of clock properties of alkaline-earth-metal singly charged ions]]></title>
+        <id>http://link.aps.org/doi/10.1103/zh99-b1m3</id>
+        <link href="http://link.aps.org/doi/10.1103/zh99-b1m3"/>
+        <updated>2026-01-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Chakraborty, Vaibhav Katyal, and B. K. Sahoo
+The authors employ relativistic coupled-cluster theory to calculate the electric dipole polarizabilities, electric quadrupole moments, atomic lifetimes, and hyperfine structure constants of clock states in singly charged calcium, strontium, and barium ions. By incorporating triple excitations, the authors achieve sub-one-percent accuracy across several spectroscopic properties, providing a rigorous comparison with experimental data and previous calculations.
+
+[Phys. Rev. A 113, L011101] Published Fri Jan 23, 2026]]></summary>
+        <author>
+            <name>A. Chakraborty, Vaibhav Katyal, and B. K. Sahoo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evidence for the Collective Nature of Radial Flow in $\mathrm{Pb}+\mathrm{Pb}$ Collisions with the ATLAS Detector]]></title>
         <id>http://link.aps.org/doi/10.1103/ldcn-r2lq</id>
@@ -1258,58 +1310,6 @@ Charged, micron-sized helium droplets can be trapped for minutes in an electrost
 [Phys. Rev. Lett. 136, 013201] Published Mon Jan 05, 2026]]></summary>
         <author>
             <name>Matthias Veternik, Tobias Waldhütter, Lutz Schweikhard, Paul Scheier, and Elisabeth Gruber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large Spontaneous Nonreciprocal Charge Transport in a Zero-Magnetization Antiferromagnet]]></title>
-        <id>http://link.aps.org/doi/10.1103/13pd-tlzp</id>
-        <link href="http://link.aps.org/doi/10.1103/13pd-tlzp"/>
-        <updated>2026-01-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kenta Sudo, Yuki Yanagi, Mitsuru Akaki, Hiroshi Tanida, and Motoi Kimata
-An antiferromagnet with a zigzag magnetic structure exhibits a diode effect that has potential applications in spintronics.
-
-[Phys. Rev. Lett. 136, 016503] Published Mon Jan 05, 2026]]></summary>
-        <author>
-            <name>Kenta Sudo, Yuki Yanagi, Mitsuru Akaki, Hiroshi Tanida, and Motoi Kimata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odd-Chern-Number Quantum Anomalous Hall Effect at Even Filling in Moire Rhombohedral Heptalayer Graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/gm64-vxdm</id>
-        <link href="http://link.aps.org/doi/10.1103/gm64-vxdm"/>
-        <updated>2026-01-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Qianling Liu, Zhiyu Wang, Xiangyan Han, Zhuoxian Li, Bohao Li, Sicheng Zhou, Lihong Hu, Zhuangzhuang Qu, Chunrui Han, Kenji Watanabe, Takashi Taniguchi, Zheng Vitto Han, Bingbing Tong, Guangtong Liu, Li Lu, Fengcheng Wu, and Jianming Lu
-The quantum anomalous Hall effect at even filling has been observed in rhombohedral heptalayer graphene moiré superlattices – previous observations were for odd-integer filling factors.
-
-[Phys. Rev. Lett. 136, 016602] Published Mon Jan 05, 2026]]></summary>
-        <author>
-            <name>Qianling Liu, Zhiyu Wang, Xiangyan Han, Zhuoxian Li, Bohao Li, Sicheng Zhou, Lihong Hu, Zhuangzhuang Qu, Chunrui Han, Kenji Watanabe, Takashi Taniguchi, Zheng Vitto Han, Bingbing Tong, Guangtong Liu, Li Lu, Fengcheng Wu, and Jianming Lu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extreme vertical drafts as drivers of Lagrangian dispersion in stably stratified turbulent flows]]></title>
-        <id>http://link.aps.org/doi/10.1103/vg9c-vmby</id>
-        <link href="http://link.aps.org/doi/10.1103/vg9c-vmby"/>
-        <updated>2026-01-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Christian Reartes, Pablo D. Mininni, and Raffaele Marino
-In stably stratified turbulence, vertical transport is typically suppressed by buoyancy; however, intense vertical drafts can intermittently develop. Using direct numerical simulations and a Lagrangian approach based on particle pair dispersion, we show that these extreme events play a crucial role in vertical mixing, leading to strong departures from classical dispersion behavior. Our results demonstrate that a small fraction of particles experiencing extreme vertical drafts contributes disproportionately to vertical transport and mixing, highlighting the central role of large-scale intermittency in stratified turbulent flows.
-
-[Phys. Rev. Fluids 11, 014501] Published Mon Jan 05, 2026]]></summary>
-        <author>
-            <name>Christian Reartes, Pablo D. Mininni, and Raffaele Marino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular momentum of vortex-core Majorana zero modes]]></title>
-        <id>http://link.aps.org/doi/10.1103/fg3f-3stw</id>
-        <link href="http://link.aps.org/doi/10.1103/fg3f-3stw"/>
-        <updated>2026-01-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Giulia Venditti, Christophe Berthod, and Louk Rademaker
-When putting a d+id superconductor on the surface of a three-dimensional topological insulator, the Majorana zero modes (MZMs) appearing inside vortices can have a nontrivial angular momentum. Here, the authors show the emergence of distinct Majorana “flavors”, beyond Chern-based classifications. They also assess the stability and topological protection of these MZMs, as well as possible experimental signatures.
-
-[Phys. Rev. B 113, 014502] Published Mon Jan 05, 2026]]></summary>
-        <author>
-            <name>Giulia Venditti, Christophe Berthod, and Louk Rademaker</name>
         </author>
     </entry>
 </feed>
