@@ -6,6 +6,116 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/5rjw-ygrn",
+          "author": "Jonah Nagura, Mykyta Onizhuk, and Giulia Galli",
+          "description": "Author(s): Jonah Nagura, Mykyta Onizhuk, and Giulia Galli\nNV centers in diamond are promising quantum sensors, but when placed only nanometers below the host surface they are disturbed by every microscopic detail of the surface and they quickly lose their coherence properties. First principles atomistic modeling combined with spin dynamics simulations show that the culprit is not just the type of spins living at the surface, but how they move: surface noise is dynamical. Termination chemistry and facet orientation do matter, but surface-electron relaxation and hopping dominate the coherence of shallow NVs.\n\n[Phys. Rev. Materials 10, 024603] Published Thu Feb 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/5rjw-ygrn",
+          "publishedOn": "2026-02-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Understanding surface-induced decoherence of NV centers in diamond",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/3smm-xtbc",
+          "author": "Jun Guo, Guoqiang Xu, Mengqi Liu, Xue Zhou, Guangming Tao, and Cheng-Wei Qiu",
+          "description": "Author(s): Jun Guo, Guoqiang Xu, Mengqi Liu, Xue Zhou, Guangming Tao, and Cheng-Wei Qiu\nA synthetic pseudomagnetic field induces Landau-level-like quantization in heat diffusion, leading to a macroscopic quantum thermal Hall-like resistance plateau in a fundamentally dissipative system.\n\n[Phys. Rev. Lett. 136, 056306] Published Thu Feb 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/3smm-xtbc",
+          "publishedOn": "2026-02-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Pseudo-Landau Thermal Diffusion",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/4q99-rv67",
+          "author": "J. Dobaczewski, A. E. Stuchbery, G. Danneaux, A. Nagpal, P. L. Sassarini, and H. Wibowo",
+          "description": "Author(s): J. Dobaczewski, A. E. Stuchbery, G. Danneaux, A. Nagpal, P. L. Sassarini, and H. Wibowo\nNuclear moments are fundamental nuclear characteristics such as whether an individual nuclear state is deformed, or whether the nucleus carries its angular momentum as a collective whole or as individual nucleons with contributions from both their orbital motion and their intrinsic spin. However, calculations of nuclear moments have long been carried out mostly for certain classes of nuclei rather than seamlessly across an entire region. The authors report comprehensive calculations of spectroscopic magnetic dipole and electric quadrupole moments in odd-N, even-Z nuclei with their code HFODD. The calculations cover gadolinium to osmium nuclei, ranging from near-spherical to well-deformed nuclei, within nuclear density functional theory with the Skyrme functional UNEDEF1. Comparison with experimental data for 82 states without parameter adjustment demonstrates that the study captures the main features of magnetic dipole and electric quadrupole moments. The holistic approach to an entire region of the nuclear chart provides valuable insight into the evolution of the underlying nuclear structure and will help guide future fine-tuning of the functionals.\n\n[Phys. Rev. C 113, 024306] Published Thu Feb 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/4q99-rv67",
+          "publishedOn": "2026-02-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Electromagnetic moments of ground and excited states calculated in heavy odd-$N$ open-shell nuclei",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/x9m5-yp3c",
+          "author": "Pratyay Mukherjee and Ritwik Mondal",
+          "description": "Author(s): Pratyay Mukherjee and Ritwik Mondal\nAchieving fast and deterministic control of antiferromagnetic order remains a central challenge for next-generation spintronic devices. Here, the authors show that circularly polarized terahertz magnetic field pulses can deterministically switch antiferromagnetic order via field-derivative torque. By exploiting the time derivative of the applied field, their work significantly reduces switching thresholds and establishes a promising route toward ultrafast antiferromagnetic spintronics. The results reveal how tailoring pulse shape and damping can be used to optimize switching efficiency on sub-picosecond timescales.\n\n[Phys. Rev. B 113, 054407] Published Thu Feb 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/x9m5-yp3c",
+          "publishedOn": "2026-02-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Ultrafast switching of antiferromagnetic order by field-derivative torque",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/yxf3-jtx5",
+          "author": "Siddharth Singh, Eugene Y. Huang, Jinlun Hu, Figen Yilmaz, Martijn F. S. Zwanenburg, Piranavan Kumaravadivel, Siyu Wang, Taryn V. Stefanski, and Christian Kraglund Andersen",
+          "description": "Author(s): Siddharth Singh, Eugene Y. Huang, Jinlun Hu, Figen Yilmaz, Martijn F. S. Zwanenburg, Piranavan Kumaravadivel, Siyu Wang, Taryn V. Stefanski, and Christian Kraglund Andersen\nThe scalability of high-fidelity superconducting two-qubit gates is being held back by the struggle to balance high gate speed with low crosstalk and minimal calibration complexity. This study uses a transmon coupler, driven by analytically derived microwave pulses, between two fluxonium qubits to implement a fast conditional phase gate. Careful pulse shaping can suppress unwanted excitations sufficiently to allow gate times below 60 ns. This insight into optimized control pulses for frequency-selective two-qubit gates offers a robust pathway to tomorrow’s lower-error, easier-to-calibrate superconducting quantum processors.\n\n[Phys. Rev. Applied 25, 024020] Published Thu Feb 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/yxf3-jtx5",
+          "publishedOn": "2026-02-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Fast microwave-driven two-qubit gates between fluxonium qubits with a transmon coupler",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/4vhj-s1fq",
+          "author": "Thomas Gozlinski, Qili Li, Rolf Heid, Oleg Kurnosikov, Alexander Haas, Ryohei Nemoto, Toyo Kazu Yamada, Jörg Schmalian, and Wulf Wulfhekel",
+          "description": "Author(s): Thomas Gozlinski, Qili Li, Rolf Heid, Oleg Kurnosikov, Alexander Haas, Ryohei Nemoto, Toyo Kazu Yamada, Jörg Schmalian, and Wulf Wulfhekel\nBy exploiting defects in a superconductor, scientists have observed the switching of a material’s two superconducting states into one.\n\n[Phys. Rev. Lett. 136, 056401] Published Wed Feb 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/4vhj-s1fq",
+          "publishedOn": "2026-02-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Visualization of Defect-Induced Interband Proximity Effect at the Nanoscale",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/dc1q-xzbd",
+          "author": "Takayuki Ishitobi and Kazumasa Hattori",
+          "description": "Author(s): Takayuki Ishitobi and Kazumasa Hattori\nA crystal whose arrangement of atoms lacks chirality can nevertheless host a chiral electronic state.\n\n[Phys. Rev. Lett. 136, 056402] Published Wed Feb 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/dc1q-xzbd",
+          "publishedOn": "2026-02-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Purely Electronic Chirality without Structural Chirality",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/bpz5-2pyw",
+          "author": "Pinchen Xie, Yixiao Chen, Xinyu Xu, Zhi Yao, Weinan E, and Roberto Car",
+          "description": "Author(s): Pinchen Xie, Yixiao Chen, Xinyu Xu, Zhi Yao, Weinan E, and Roberto Car\nThrough a combination of first-principles techniques, neural network models, and metadynamics simulations accurate free energy surfaces of ferroic materials can now be obtained without an a priori ansatz of the polynomial-based energy model.\n\n[Phys. Rev. Lett. 136, 056801] Published Wed Feb 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/bpz5-2pyw",
+          "publishedOn": "2026-02-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "<i>Ab Initio</i> Bulk Free Energy Surface of Proper Ferroelectrics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/b5wj-jw62",
+          "author": "Afif Omar and Adam Ritz",
+          "description": "Author(s): Afif Omar and Adam Ritz\nDespite its strong constraints, the consequences of big bang nucleosynthesis on near-GeV mass dark matter that decays to long-lived light hadrons have received little attention. With minimal model assumptions, the authors establish bounds on the parameter space of mass and branching fractions to hadrons superior to those of other indirect methods.\n\n[Phys. Rev. D 113, 035004] Published Wed Feb 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/b5wj-jw62",
+          "publishedOn": "2026-02-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "BBN constraints on the hadronic annihilation of sub-GeV dark matter",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/396v-pwcr",
+          "author": "Sébastien Joly, Mauro Migliorati, Nicolas Mounet, and Benoît Salvant",
+          "description": "Author(s): Sébastien Joly, Mauro Migliorati, Nicolas Mounet, and Benoît Salvant\nHigh-brightness synchrotrons are increasingly limited by collective effects, particularly transverse impedance and space charge, which lead to beam degradation and losses. The interplay of transverse impedance, space charge, and chromatic effects complicates predictions and makes realistic validation of the CERN Proton Synchrotron (PS) impedance model challenging. We present beam-based measurements performed at the PS and macroparticle tracking simulations that address these issues and quantify the impact of the key mechanisms. This work provides a robust foundation for assessing PS beam stability in present and future operational scenarios.\n\n[Phys. Rev. Accel. Beams 29, 024201] Published Wed Feb 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/396v-pwcr",
+          "publishedOn": "2026-02-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Post long shutdown 2 CERN proton synchrotron transverse impedance model: Description and beam-based validation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/c4ys-j3sk",
+          "author": "Shrohan Mohapatra, Andrew J. Schaffer, P. G. Kevrekidis, R. Carretero-González, and B. P. Anderson",
+          "description": "Author(s): Shrohan Mohapatra, Andrew J. Schaffer, P. G. Kevrekidis, R. Carretero-González, and B. P. Anderson\nThe authors report on a combing technique to remove vortices from a quasi-two-dimensional Bose-Einstein condensate through the application and subsequent removal of a one-dimensional optical lattice. The study includes experimental results on a rubidium BEC and numerical simulations based on the Gross-Pitaevskii equation.\n\n[Phys. Rev. A 113, 023305] Published Wed Feb 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/c4ys-j3sk",
+          "publishedOn": "2026-02-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Vortex comb: Eliminating vortices from Bose-Einstein condensates using optical lattices",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/1zs7-kj4f",
           "author": "Dogan Akpinar",
           "description": "Author(s): Dogan Akpinar\nThe author computed the gravitational amplitude describing the scattering of a graviton oﬀ a massive spinning compact object at the second order expansion in Newton’s constant G (post-Minkowskian expansion), including terms through the quartic order in spin. The spin-induced non-minimal interactions were included in the calculation, thus capturing spin-induced finite-size eﬀects associated with generic compact objects. From the scattering amplitude, the author extracted the scattering phase in momentum space.\n\n[Phys. Rev. D 113, 045003] Published Tue Feb 03, 2026",
@@ -893,116 +1003,6 @@
           "publishedOn": "2026-01-16T10:00:00.000Z",
           "wordCount": null,
           "title": "Rigorous Theory of Coupled Resonators",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/8sjg-ybfw",
-          "author": "Anthony Mannino, Graciele M. Arvelos, Kedarsh Kaushik, Emilio Artacho, Pablo Ordejon, Alexandre R. Rocha, Luana S. Pedroza, and Marivi Fernández-Serra",
-          "description": "Author(s): Anthony Mannino, Graciele M. Arvelos, Kedarsh Kaushik, Emilio Artacho, Pablo Ordejon, Alexandre R. Rocha, Luana S. Pedroza, and Marivi Fernández-Serra\nA first-principles framework involving a charge-separation protocol yields unique capacitance-derived polarizability and dielectric constants in nanocapacitors, reliably separating electrode and dielectric charges.\n\n[Phys. Rev. Lett. 136, 026202] Published Fri Jan 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/8sjg-ybfw",
-          "publishedOn": "2026-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "First-Principles Nanocapacitor Simulations of the Optical Dielectric Constant in Water Ice",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/bgm5-xlpr",
-          "author": "Alexios P. Polychronakos and Stéphane Ouvry",
-          "description": "Author(s): Alexios P. Polychronakos and Stéphane Ouvry\nThe onset of Bose-Einstein condensation in systems with various densities of states is examined. The authors consider, in particular, the behavior of the energy spectrum at low and high energies and resolve a puzzle resulting from different methods of analysis.\n#ClearMotivation #TechnicalAdvancement\n\n[Phys. Rev. E 113, 014122] Published Fri Jan 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/bgm5-xlpr",
-          "publishedOn": "2026-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Role of the density of states in Bose-Einstein condensation",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/fvgh-kswf",
-          "author": "L. Casas <em>et al.</em> (DESI Collaboration)",
-          "description": "Author(s): L. Casas et al. (DESI Collaboration)\nThe new map of the Universe’s expansion history released by the DESI Collaboration offers hints at a breakdown of the standard model of cosmology.\n\n[Phys. Rev. D 113, 023520] Published Fri Jan 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/fvgh-kswf",
-          "publishedOn": "2026-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Validation of the DESI DR2 $\\mathrm{Ly}α$ BAO analysis using synthetic datasets",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ld4p-hl13",
-          "author": "Shuvam Sarkar, Joydipto Bhattacharya, Pramod Bhakuni, Divya Jangra, Pampa Sadhukhan, Rajib Batabyal, Christos D. Malliakas, Marco Bianchi, Davide Curcio, Shubhankar Roy, Arnab Pariari, Sajal Barman, Mohammad Balal, Giovanni Di Santo, Luca Petaccia, Duck Young Chung, Yihao Wang, Vasant G. Sathe, Prabhat Mandal, Mercouri G. Kanatzidis, Philip Hofmann, Aparna Chakrabarti, and Sudipta Roy Barman",
-          "description": "Author(s): Shuvam Sarkar, Joydipto Bhattacharya, Pramod Bhakuni, Divya Jangra, Pampa Sadhukhan, Rajib Batabyal, Christos D. Malliakas, Marco Bianchi, Davide Curcio, Shubhankar Roy, Arnab Pariari, Sajal Barman, Mohammad Balal, Giovanni Di Santo, Luca Petaccia, Duck Young Chung, Yihao Wang, Vasant G. Sathe, Prabhat Mandal, Mercouri G. Kanatzidis, Philip Hofmann, Aparna Chakrabarti, and Sudipta Roy Barman\nThe authors demonstrate here that incommensurate charge density wave (CDW) driven inversion symmetry breaking in YTe3 produces a Kramers nodal line across the Brillouin zone. ARPES agrees well with ab initio band structure calculations when the CDW twin domains are considered. Consequently, symmetry-protected CDW shadow-band crossings with bilayer-split main bands that reach the Fermi level are identified. The noncentrosymmetric crystal structure has been established by x-ray crystallography and Raman spectroscopy. These findings establish YTe3 as a CDW-driven topological nodal-line metal.\n\n[Phys. Rev. B 113, 035129] Published Fri Jan 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/ld4p-hl13",
-          "publishedOn": "2026-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Kramers nodal line in the charge density wave state of ${\\mathrm{YTe}}_{3}$ and the influence of twin domains",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/9sg1-j1bs",
-          "author": "Daria Kývala and Jindřich Kolorenč",
-          "description": "Author(s): Daria Kývala and Jindřich Kolorenč\nThe authors discuss here a theory of the inelastic electron tunneling spectra of a magnetic nanosystem (an atom or a molecule) adsorbed on a solid surface measured in a scanning tunneling microscope. They study scenarios when the tunneling electrons sequentially interact with several magnetic centers or when the magnetic centers are made out of heavy atoms with a strong spin-orbit coupling. They discuss how the exchange interaction between the nanosystem and the tunneling electrons changes when orbital moments enter the picture.\n\n[Phys. Rev. B 113, 035427] Published Fri Jan 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/9sg1-j1bs",
-          "publishedOn": "2026-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Inelastic electron tunneling through adatoms and molecular nanomagnets",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/t774-62jc",
-          "author": "Fenfen Huang, Shenda He, Ke-Qiu Chen, and Li-Ming Tang",
-          "description": "Author(s): Fenfen Huang, Shenda He, Ke-Qiu Chen, and Li-Ming Tang\nTraditional classifications of ferroelastic species cannot distinguish a special ferroelastic species in which the [C2||A] symmetry-related orientation states show a spin-flipping feature in the energy bands. By extending the ferroelastic classification scheme to nonrelativistic magnetic systems, this work introduces a spin point group based classification framework that captures ferroelastic species with spin-ferroelastic coupling. In this framework, clear symmetry criteria and all such kinds of ferroelastic species are provided. These results establish a theoretical framework that will guide our understanding and identification of systems with spin-ferroelastic coupling.\n\n[Phys. Rev. B 113, L020411] Published Fri Jan 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/t774-62jc",
-          "publishedOn": "2026-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Spin-ferroelasticity coupling in nonrelativistic spin-split antiferromagnetic-ferroelastic systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/z3h7-bptq",
-          "author": "Hong-Hao Song, Chen Peng, Rui-Zhen Huang, and Long Zhang",
-          "description": "Author(s): Hong-Hao Song, Chen Peng, Rui-Zhen Huang, and Long Zhang\nDomain walls of topological phases can host exotic gapless states. In the one-dimensional domain wall between Z2 topological orders, the authors uncover here a hidden nonsymmorphic symmetry that enforces an emergent SU(2)1 conformal field theory. The domain wall is either gapless or symmetry breaking, reflecting its symmetry anomaly inherited from the bulk topological order. The gapless domain wall corresponds to a topological quantum critical point, fulfilling a holographic construction of topological phase transitions.\n\n[Phys. Rev. B 113, L041114] Published Fri Jan 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/z3h7-bptq",
-          "publishedOn": "2026-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Emergent symmetry and phase transitions on the domain wall of ${\\mathbb{Z}}_{2}$ topological orders",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/xpxb-d9xd",
-          "author": "Shoumik Chowdhury, Max Hays, Shantanu R. Jha, Kyle Serniak, Terry P. Orlando, Jeffrey A. Grover, and William D. Oliver",
-          "description": "Author(s): Shoumik Chowdhury, Max Hays, Shantanu R. Jha, Kyle Serniak, Terry P. Orlando, Jeffrey A. Grover, and William D. Oliver\nSuperconducting circuits for quantum computation are controlled via microwave signals, which are typically assumed to be too weak to disturb the superconducting material itself. When these microwave drives become sufficiently strong, though, multiple photons can combine to break Cooper pairs of electrons in the device, leading to qubit errors. The authors develop a theoretical framework to predict when this effect occurs, and demonstrate its relevance for emerging qubit designs and readout schemes that rely on strong driving. These results reveal a previously overlooked error mechanism for superconducting qubits, and provide guidance on how to mitigate the effects.\n\n[Phys. Rev. Applied 25, 014042] Published Fri Jan 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/xpxb-d9xd",
-          "publishedOn": "2026-01-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Theory of quasiparticle generation by microwave drives in superconducting qubits",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/8ghn-yrlr",
-          "author": "Feng Wang, Yihong Du, Xueyi Xie, Enrico Calzavarini, and Chao Sun",
-          "description": "Author(s): Feng Wang, Yihong Du, Xueyi Xie, Enrico Calzavarini, and Chao Sun\nIn this work, we experimentally investigate the freezing and ice aging dynamics in saline water under natural convection. We show that the rapid formation of a mushy ice layer is followed by desalination processes that might lead to a slow asymptotic decrease of the ice thickness. Desalination of mushy ice reduces its porosity, which alters the dynamic thermal equilibrium and ice thickness by weakening buoyancy-driven convection within mushy ice. In turn, changes in brine convection and ice thickness further affect the desalination process. The long-term dynamics can be predicted by a one-dimensional model based on appropriate parameterizations of global heat and mass transfer properties.\n\n[Phys. Rev. Fluids 11, 013504] Published Thu Jan 15, 2026",
-          "link": "http://link.aps.org/doi/10.1103/8ghn-yrlr",
-          "publishedOn": "2026-01-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Freezing and ice aging dynamics in saline water under natural convection",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/2m8d-7h3j",
-          "author": "Camille Porceillon, Aurélien Gay, Alfredo Taboada, and Valérie Vidal",
-          "description": "Author(s): Camille Porceillon, Aurélien Gay, Alfredo Taboada, and Valérie Vidal\nFluid ascent through multilayered sediments takes place in many geophysical and industrial processes. In this paper, the authors perform experiments in a two-layer granular column consisting of coarse grains at the bottom and fine grains at the top, in which water is injected from below at a constant flow rate. They report the formation of a regular fluidization pattern at the two-layer interface in the form of dust chimneys, and propose a mechanism based on pressure-drop estimates to predict the wavelength of the fluidization pattern.\n#AdvancingField #WellStructured #ClearMotivation\n\n[Phys. Rev. E 113, 015414] Published Thu Jan 15, 2026",
-          "link": "http://link.aps.org/doi/10.1103/2m8d-7h3j",
-          "publishedOn": "2026-01-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Emergence of periodic chimneys during fluidization at a coarse-fine grains interface",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/hy7w-brsl",
-          "author": "A. Shen, J. Chen, R. Kaji, S. Yamamoto, H. Sasakura, T. Uemura, and S. Adachi",
-          "description": "Author(s): A. Shen, J. Chen, R. Kaji, S. Yamamoto, H. Sasakura, T. Uemura, and S. Adachi\nHere, the authors observe a large nuclear magnetic field, BN, exceeding 1 T in bulk n-AlGaAs via time-resolved Kerr rotation measurements, exhibiting a two-stage formation process comprising a rapid initial rise followed by gradual saturation. Based on experimental results, the authors modify the nuclear spin polarization formation model and conclude that a large BN forms due to the combined effects of increased electron localization sites from aluminum incorporation and the suppression of quadrupole-induced relaxation by a strong magnetic field.\n\n[Phys. Rev. B 113, 035202] Published Thu Jan 15, 2026",
-          "link": "http://link.aps.org/doi/10.1103/hy7w-brsl",
-          "publishedOn": "2026-01-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Slowly generated large nuclear field in bulk $n$-AlGaAs",
           "imageUrl": null
         }
       ]
