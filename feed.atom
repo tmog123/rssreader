@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-14T01:28:54.053Z</id>
+    <id>urn:2026-02-15T01:49:30.529Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-14T01:28:54.053Z</updated>
+    <updated>2026-02-15T01:49:30.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -58,6 +58,19 @@ A chemical reaction involving a flowing fluid leads to a striking visual pattern
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Charged particle scattering in renormalizable pionless effective field theory at next-to-leading order: The $pd, dd$, and $p^{3}\mathrm{He}$ cases]]></title>
+        <id>http://link.aps.org/doi/10.1103/7pp1-tl4f</id>
+        <link href="http://link.aps.org/doi/10.1103/7pp1-tl4f"/>
+        <updated>2026-02-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Matúš Rojik, Martin Schäfer, Mirko Bagnarol, and Nir Barnea
+This work presents an extensive theoretical and numerical study of charged few-nucleon systems (pd, dd, and p-3He bound states and scattering) in the framework of pionless effective field theory (EFT) up to next-to-leading order (NLO). The authors treat the Coulomb interaction nonperturbatively, while NLO interactions, including three-body forces and a four-body force, are treated in perturbation theory. Special attention is given to renormalization issues. Only a mild cutoff dependence is seen, consistent with the expectations of power counting in pionless EFT. The results hold significant promise for ab-initio studies of charged-particle scattering at very low energies, with applications to reactions of astrophysical interest.
+
+[Phys. Rev. C 113, 024001] Published Fri Feb 13, 2026]]></summary>
+        <author>
+            <name>Matúš Rojik, Martin Schäfer, Mirko Bagnarol, and Nir Barnea</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Incommensuration in odd-parity magnets]]></title>
         <id>http://link.aps.org/doi/10.1103/ntsh-ypmc</id>
         <link href="http://link.aps.org/doi/10.1103/ntsh-ypmc"/>
@@ -81,6 +94,32 @@ Here, the authors develop a theoretical framework for integer harmonic generatio
 [Phys. Rev. B 113, 064421] Published Fri Feb 13, 2026]]></summary>
         <author>
             <name>Jiaxuan Chen, Yicheng Song, and Akira Hirose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distinguishing Majorana bound states from accidental zero-energy modes with a microwave cavity]]></title>
+        <id>http://link.aps.org/doi/10.1103/q7l6-ytrr</id>
+        <link href="http://link.aps.org/doi/10.1103/q7l6-ytrr"/>
+        <updated>2026-02-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Sarath Prem, Olesia Dmytruk, and Mircea Trif
+Here, the authors show that the nonlocal nature of Majorana bound states is directly encoded in their microwave response. Introducing the visibility of microwave absorption—a parity-dependent quantity analogous to optical interference contrast—the work reveals that Majorana states exhibit a nonzero visibility only when the cavity couples simultaneously to both wire ends, in stark contrast to trivial zero-energy modes. This nonlocal criterion is robust against disorder and tunnel barriers, and is directly accessible in current experiments.
+
+[Phys. Rev. B 113, 085420] Published Fri Feb 13, 2026]]></summary>
+        <author>
+            <name>Sarath Prem, Olesia Dmytruk, and Mircea Trif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beam intensity limitations in future multibend achromat light sources]]></title>
+        <id>http://link.aps.org/doi/10.1103/5hw4-3ggc</id>
+        <link href="http://link.aps.org/doi/10.1103/5hw4-3ggc"/>
+        <updated>2026-02-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): I. Agapov and S. A. Antipov
+Fourth-generation synchrotron light sources have been an incredible success story and are currently driving groundbreaking research with photons. It turns out that the emittance of fourth-generation 6 GeV machines such as PETRA IV is close to what is theoretically achievable due to beam intensity limitations from space charge and intra-beam scattering. Further significant emittance reduction and brightness increase is only possible by increasing the beam energy in the future generation of light sources.
+
+[Phys. Rev. Accel. Beams 29, 020704] Published Fri Feb 13, 2026]]></summary>
+        <author>
+            <name>I. Agapov and S. A. Antipov</name>
         </author>
     </entry>
     <entry>
@@ -1268,45 +1307,6 @@ Highly overmoded iris-line waveguides offer an attractive solution for the effic
 [Phys. Rev. Accel. Beams 29, 012002] Published Wed Jan 28, 2026]]></summary>
         <author>
             <name>Adham Naji, Pawan Kumar Gupta, and Gennady Stupakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provable and Verifiable Quantum Advantage in Sample Complexity]]></title>
-        <id>http://link.aps.org/doi/10.1103/q55v-wm7y</id>
-        <link href="http://link.aps.org/doi/10.1103/q55v-wm7y"/>
-        <updated>2026-01-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Marcello Benedetti, Harry Buhrman, and Jordi Weggemans
-In a sample-to-sample setting, quantum computation achieves the largest possible separation over classical computation.
-
-[Phys. Rev. Lett. 136, 040601] Published Tue Jan 27, 2026]]></summary>
-        <author>
-            <name>Marcello Benedetti, Harry Buhrman, and Jordi Weggemans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geomagnetic Constraints on Millicharged Dark Matter]]></title>
-        <id>http://link.aps.org/doi/10.1103/8xqd-dbrz</id>
-        <link href="http://link.aps.org/doi/10.1103/8xqd-dbrz"/>
-        <updated>2026-01-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ariel Arza, Yuanlin Gong, Jing Shu, Lei Wu, Qiang Yuan, and Bin Zhu
-Dark matter having a small electric charge would presumably generate a magnetic-field variation on Earth’s surface, but observations find no such signal.
-
-[Phys. Rev. Lett. 136, 041001] Published Tue Jan 27, 2026]]></summary>
-        <author>
-            <name>Ariel Arza, Yuanlin Gong, Jing Shu, Lei Wu, Qiang Yuan, and Bin Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermopower Probe of Fractional Quantum Hall States in Monolayer Graphene]]></title>
-        <id>http://link.aps.org/doi/10.1103/8nkb-k8m8</id>
-        <link href="http://link.aps.org/doi/10.1103/8nkb-k8m8"/>
-        <updated>2026-01-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nishat Sultana, Robert W. Rienstra, Kenji Watanabe, Takashi Taniguchi, Joseph A. Stroscio, D. E. Feldman, and Fereshte Ghahari
-Thermopower is more sensitive than resistivity in detecting certain fractional quantum Hall states in monolayer graphene.
-
-[Phys. Rev. Lett. 136, 046502] Published Tue Jan 27, 2026]]></summary>
-        <author>
-            <name>Nishat Sultana, Robert W. Rienstra, Kenji Watanabe, Takashi Taniguchi, Joseph A. Stroscio, D. E. Feldman, and Fereshte Ghahari</name>
         </author>
     </entry>
 </feed>

@@ -46,6 +46,16 @@
           "imageUrl": null
         },
         {
+          "id": "http://link.aps.org/doi/10.1103/7pp1-tl4f",
+          "author": "Matúš Rojik, Martin Schäfer, Mirko Bagnarol, and Nir Barnea",
+          "description": "Author(s): Matúš Rojik, Martin Schäfer, Mirko Bagnarol, and Nir Barnea\nThis work presents an extensive theoretical and numerical study of charged few-nucleon systems (pd, dd, and p-3He bound states and scattering) in the framework of pionless effective field theory (EFT) up to next-to-leading order (NLO). The authors treat the Coulomb interaction nonperturbatively, while NLO interactions, including three-body forces and a four-body force, are treated in perturbation theory. Special attention is given to renormalization issues. Only a mild cutoff dependence is seen, consistent with the expectations of power counting in pionless EFT. The results hold significant promise for ab-initio studies of charged-particle scattering at very low energies, with applications to reactions of astrophysical interest.\n\n[Phys. Rev. C 113, 024001] Published Fri Feb 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/7pp1-tl4f",
+          "publishedOn": "2026-02-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Charged particle scattering in renormalizable pionless effective field theory at next-to-leading order: The $pd, dd$, and $p^{3}\\mathrm{He}$ cases",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/ntsh-ypmc",
           "author": "Changhee Lee, Nico A. Hackner, and P. M. R. Brydon",
           "description": "Author(s): Changhee Lee, Nico A. Hackner, and P. M. R. Brydon\nOdd-parity magnets present a novel magnetic state which may turn out to be important in spintronics applications. Here, the authors use symmetry analysis to show that at sufficiently high temperatures odd-parity magnets are generically unstable to the formation of an incommensurate magnetic state. This places severe constraints on the phase diagram of odd-parity magnets. In particular, their phase cannot be reached from the nonmagnetic state in a single phase transition.\n\n[Phys. Rev. B 113, 064420] Published Fri Feb 13, 2026",
@@ -63,6 +73,26 @@
           "publishedOn": "2026-02-13T10:00:00.000Z",
           "wordCount": null,
           "title": "Analysis of nonlinear harmonics in exchange-dominated spin waves",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/q7l6-ytrr",
+          "author": "Sarath Prem, Olesia Dmytruk, and Mircea Trif",
+          "description": "Author(s): Sarath Prem, Olesia Dmytruk, and Mircea Trif\nHere, the authors show that the nonlocal nature of Majorana bound states is directly encoded in their microwave response. Introducing the visibility of microwave absorption—a parity-dependent quantity analogous to optical interference contrast—the work reveals that Majorana states exhibit a nonzero visibility only when the cavity couples simultaneously to both wire ends, in stark contrast to trivial zero-energy modes. This nonlocal criterion is robust against disorder and tunnel barriers, and is directly accessible in current experiments.\n\n[Phys. Rev. B 113, 085420] Published Fri Feb 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/q7l6-ytrr",
+          "publishedOn": "2026-02-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Distinguishing Majorana bound states from accidental zero-energy modes with a microwave cavity",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/5hw4-3ggc",
+          "author": "I. Agapov and S. A. Antipov",
+          "description": "Author(s): I. Agapov and S. A. Antipov\nFourth-generation synchrotron light sources have been an incredible success story and are currently driving groundbreaking research with photons. It turns out that the emittance of fourth-generation 6 GeV machines such as PETRA IV is close to what is theoretically achievable due to beam intensity limitations from space charge and intra-beam scattering. Further significant emittance reduction and brightness increase is only possible by increasing the beam energy in the future generation of light sources.\n\n[Phys. Rev. Accel. Beams 29, 020704] Published Fri Feb 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/5hw4-3ggc",
+          "publishedOn": "2026-02-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Beam intensity limitations in future multibend achromat light sources",
           "imageUrl": null
         },
         {
@@ -973,36 +1003,6 @@
           "publishedOn": "2026-01-28T10:00:00.000Z",
           "wordCount": null,
           "title": "Full-scatter vector field analysis of an overmoded and periodically loaded cylindrical structure for the transportation of THz radiation",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/q55v-wm7y",
-          "author": "Marcello Benedetti, Harry Buhrman, and Jordi Weggemans",
-          "description": "Author(s): Marcello Benedetti, Harry Buhrman, and Jordi Weggemans\nIn a sample-to-sample setting, quantum computation achieves the largest possible separation over classical computation.\n\n[Phys. Rev. Lett. 136, 040601] Published Tue Jan 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/q55v-wm7y",
-          "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Provable and Verifiable Quantum Advantage in Sample Complexity",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/8xqd-dbrz",
-          "author": "Ariel Arza, Yuanlin Gong, Jing Shu, Lei Wu, Qiang Yuan, and Bin Zhu",
-          "description": "Author(s): Ariel Arza, Yuanlin Gong, Jing Shu, Lei Wu, Qiang Yuan, and Bin Zhu\nDark matter having a small electric charge would presumably generate a magnetic-field variation on Earth’s surface, but observations find no such signal.\n\n[Phys. Rev. Lett. 136, 041001] Published Tue Jan 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/8xqd-dbrz",
-          "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Geomagnetic Constraints on Millicharged Dark Matter",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/8nkb-k8m8",
-          "author": "Nishat Sultana, Robert W. Rienstra, Kenji Watanabe, Takashi Taniguchi, Joseph A. Stroscio, D. E. Feldman, and Fereshte Ghahari",
-          "description": "Author(s): Nishat Sultana, Robert W. Rienstra, Kenji Watanabe, Takashi Taniguchi, Joseph A. Stroscio, D. E. Feldman, and Fereshte Ghahari\nThermopower is more sensitive than resistivity in detecting certain fractional quantum Hall states in monolayer graphene.\n\n[Phys. Rev. Lett. 136, 046502] Published Tue Jan 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/8nkb-k8m8",
-          "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Thermopower Probe of Fractional Quantum Hall States in Monolayer Graphene",
           "imageUrl": null
         }
       ]
