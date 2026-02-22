@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-21T01:27:32.807Z</id>
+    <id>urn:2026-02-22T01:44:50.530Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-21T01:27:32.807Z</updated>
+    <updated>2026-02-22T01:44:50.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,11 +11,24 @@
         <link href="http://link.aps.org/doi/10.1103/6cdq-1nvv"/>
         <updated>2026-02-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): Zhao Wang, Samuel A. Bentley, Jiawei Li, Kirsty Y. Wan, and Alan C. H. Tsang
-In response to changes in illumination, a swimming microorganism reverses the direction of its circular trajectory by tilting its flagella’s plane of motion.
+In response to changes in illumination, a swimming microorganism reverses the direction of its circular trajectory by tilting its flagella’s planes of motion.
 
 [Phys. Rev. Lett. 136, 078301] Published Fri Feb 20, 2026]]></summary>
         <author>
             <name>Zhao Wang, Samuel A. Bentley, Jiawei Li, Kirsty Y. Wan, and Alan C. H. Tsang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of compressibility and geometry on decaying shearless turbulent/nonturbulent mixing]]></title>
+        <id>http://link.aps.org/doi/10.1103/h1xk-6bbt</id>
+        <link href="http://link.aps.org/doi/10.1103/h1xk-6bbt"/>
+        <updated>2026-02-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Eunhye An and Eric Johnsen
+We investigate the effects of compressibility and geometry on turbulent/nonturbulent mixing in the absence of a mean shear. Focusing on initially homogeneous isotropic turbulence adjacent to a quiescent fluid in planar and cylindrical geometries, we theoretically predict the evolution of the mixing region width and turbulent kinetic energy and validate these predictions using direct numerical simulation. Compared to decaying homogeneous isotropic turbulence, we find that the decay rate is enhanced by dilatation due to energy transport to the nonturbulent region and by diverging geometries.
+
+[Phys. Rev. Fluids 11, 024607] Published Fri Feb 20, 2026]]></summary>
+        <author>
+            <name>Eunhye An and Eric Johnsen</name>
         </author>
     </entry>
     <entry>
@@ -29,6 +42,19 @@ The Crab nebula is a calibration source for millimeter telescopes. The authors s
 [Phys. Rev. D 113, 043044] Published Fri Feb 20, 2026]]></summary>
         <author>
             <name>Tylor Adkins &lt;em&gt;et al.&lt;/em&gt; (POLARBEAR Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigating anharmonicities in polarization-orientation Raman spectra of acene crystals with machine learning]]></title>
+        <id>http://link.aps.org/doi/10.1103/t4s2-45t8</id>
+        <link href="http://link.aps.org/doi/10.1103/t4s2-45t8"/>
+        <updated>2026-02-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Paolo Lazzaroni, Shubham Sharma, and Mariana Rossi
+Polarization-orientation Raman experiments on acene crystals show temperature-dependent intensity changes that challenge conventional harmonic approaches. Here, by combining machine-learned interatomic potentials and polarizability models, the authors simulate polarization-orientation Raman spectra of anthracene and naphthalene with full anharmonic vibrational dynamics, revealing the measurable signatures of anharmonic coupling. While some key experimental trends are reproduced, the subtle predicted polarization changes highlight the need for theory-assisted analysis to disentangle real anharmonic deviations in temperature-dependent polarized Raman experiments.
+
+[Phys. Rev. B 113, 054309] Published Fri Feb 20, 2026]]></summary>
+        <author>
+            <name>Paolo Lazzaroni, Shubham Sharma, and Mariana Rossi</name>
         </author>
     </entry>
     <entry>
@@ -68,6 +94,19 @@ One-body reduced density-matrix functional (1RDMF) theory has yielded promising 
 [Phys. Rev. B 113, L081108] Published Fri Feb 20, 2026]]></summary>
         <author>
             <name>Zhengqian Cheng and Chris A. Marianetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runaway electrons during a coil quench in stellarators]]></title>
+        <id>http://link.aps.org/doi/10.1103/v4s5-p4fr</id>
+        <link href="http://link.aps.org/doi/10.1103/v4s5-p4fr"/>
+        <updated>2026-02-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pavel Aleynikov, Per Helander, and Håkan M. Smith
+The stellarator concept for future fusion reactors has a key advantage over the tokamak, being practically immune to large-scale disruptions. The authors show, however, that a rapid shutdown of stellarator coil currents (with fast dissipation of poloidal magnetic flux) can nonetheless drive an avalanche of runaway electrons, even without any interruption of the net toroidal plasma current. The problem is far less serious than in a tokamak, but some runaways are inevitably present in an activated fusion device, so an accidental rapid coil ramp-down could produce a dangerous runaway current. Some form of dedicated intervention is likely necessary.
+
+[Phys. Rev. Applied 25, 024065] Published Fri Feb 20, 2026]]></summary>
+        <author>
+            <name>Pavel Aleynikov, Per Helander, and Håkan M. Smith</name>
         </author>
     </entry>
     <entry>
@@ -1268,45 +1307,6 @@ Air bridges rise above the plane of a circuit and are essential elements for den
 [Phys. Rev. Applied 25, 024007] Published Tue Feb 03, 2026]]></summary>
         <author>
             <name>N. Bruckmoser, L. Koch, I. Tsitsilin, M. Grammer, D. Bunch, L. Richard, J. Schirk, F. Wallner, J. Feigl, C.M.F. Schneider, S. Geprägs, V.P. Bader, M. Althammer, L. Södergren, and S. Filipp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Spin to Pseudospin Symmetry: The Origin of Magic Numbers in Nuclear Structure]]></title>
-        <id>http://link.aps.org/doi/10.1103/8lzc-j1lx</id>
-        <link href="http://link.aps.org/doi/10.1103/8lzc-j1lx"/>
-        <updated>2026-02-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): C. R. Ding, C. C. Wang, J. M. Yao, H. Hergert, H. Z. Liang, and S. K. Bogner
-Calculations show how the mysterious “magic numbers” that stabilize nuclear structures emerge naturally from nuclear forces—once these are described with appropriate spatial resolution.
-
-[Phys. Rev. Lett. 136, 052501] Published Mon Feb 02, 2026]]></summary>
-        <author>
-            <name>C. R. Ding, C. C. Wang, J. M. Yao, H. Hergert, H. Z. Liang, and S. K. Bogner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamical Superconducting Parity Effect in a Coulomb Pb Island]]></title>
-        <id>http://link.aps.org/doi/10.1103/fsgy-61v9</id>
-        <link href="http://link.aps.org/doi/10.1103/fsgy-61v9"/>
-        <updated>2026-02-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wenhao Zhang, Xin Liao, James Jun He, Hui-Nan Xia, Tao Xie, Naoto Nagaosa, Tianyou Zhai, and Ying-Shuang Fu
-Cooper-pair condensation dynamics plays an indispensable role in a new type of superconducting parity effect in a Coulomb blockade system made up of nanosized Pb islands.
-
-[Phys. Rev. Lett. 136, 056201] Published Mon Feb 02, 2026]]></summary>
-        <author>
-            <name>Wenhao Zhang, Xin Liao, James Jun He, Hui-Nan Xia, Tao Xie, Naoto Nagaosa, Tianyou Zhai, and Ying-Shuang Fu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ideal Glass and Ideal Disk Packing in Two Dimensions]]></title>
-        <id>http://link.aps.org/doi/10.1103/vldy-r77w</id>
-        <link href="http://link.aps.org/doi/10.1103/vldy-r77w"/>
-        <updated>2026-02-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Viola M. Bolton-Lum, R. Cameron Dennis, Peter K. Morse, and Eric I. Corwin
-A computational minimization procedure shows how to make an ideal glass, a disordered system of particles with zero configurational entropy and with the mechanical and thermal properties of a crystal.
-
-[Phys. Rev. Lett. 136, 058201] Published Mon Feb 02, 2026]]></summary>
-        <author>
-            <name>Viola M. Bolton-Lum, R. Cameron Dennis, Peter K. Morse, and Eric I. Corwin</name>
         </author>
     </entry>
 </feed>
