@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/13ld-vr3l",
+          "author": "Catherine Quilliet, Alexander V. Butenko, and Eli Sloutskin",
+          "description": "Author(s): Catherine Quilliet, Alexander V. Butenko, and Eli Sloutskin\nAn oil droplet within a watery fluid becomes nonspherical at certain temperatures—reversibly transforming from a hexagon to a six-pointed star.\n\n[Phys. Rev. Lett. 136, 084002] Published Fri Feb 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/13ld-vr3l",
+          "publishedOn": "2026-02-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Lenticular Hexagon-to-Hexagram Shape Transformation: Nano-Origami in Liquid Droplets",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/qrrj-p85y",
+          "author": "Filip Novotný, Marek Talíř, and Emil Varga",
+          "description": "Author(s): Filip Novotný, Marek Talíř, and Emil Varga\nExperiments with superfluid helium in nanofluidic channels show that quasi‑2D quantum turbulence decays with a universal fast transient followed by a slower, geometry‑dependent regime.\n\n[Phys. Rev. Lett. 136, 084003] Published Fri Feb 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/qrrj-p85y",
+          "publishedOn": "2026-02-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Decay of Two-Dimensional Superfluid Turbulence over Pinning Surface",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/k8sv-lp1j",
+          "author": "J. Zhao, A. Mazanik, D. Razmadze, Y. Liu, P. Krogstrup, F. S. Bergeret, and S. Vaitiekėnas",
+          "description": "Author(s): J. Zhao, A. Mazanik, D. Razmadze, Y. Liu, P. Krogstrup, F. S. Bergeret, and S. Vaitiekėnas\nTunneling spectroscopy on hybrid Josephson junctions (made of a ferromagnetic insulator, a semiconductor, and aluminum) reveals spin-split superconductivity.\n\n[Phys. Rev. Lett. 136, 086302] Published Fri Feb 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/k8sv-lp1j",
+          "publishedOn": "2026-02-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Spin-Split Superconductivity in Spin-Orbit Coupled Hybrid Nanowires with Ferromagnetic Barriers",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/nc2l-yynf",
+          "author": "Adam Clay, Kiril Datchev, Wenlan Miao, Adam Wasserman, Kimberly J. Daas, and Kieron Burke",
+          "description": "Author(s): Adam Clay, Kiril Datchev, Wenlan Miao, Adam Wasserman, Kimberly J. Daas, and Kieron Burke\nBy applying a dimensionality and potential-dependent normalization instead of normalizing electron density to the number of electrons in DFT calculations yields better results than the same functional evaluated on the exact density.\n\n[Phys. Rev. Lett. 136, 088002] Published Fri Feb 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/nc2l-yynf",
+          "publishedOn": "2026-02-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Approximate Normalizations for Approximate Density Functionals",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/qq23-l918",
+          "author": "Martin Heinrich, Michael Döllinger, and Rüdiger Schwarze",
+          "description": "Author(s): Martin Heinrich, Michael Döllinger, and Rüdiger Schwarze\nThe atomization of airway mucus during speech is a primary mechanism for airborne disease transmission, yet the multiphase dynamics within the vocal folds remain largely uncharacterized. This study presents a Volume-of-Fluid CFD model to simulate the stretching and rupture of mucus bridges during phonation. Results show that small-scale surface perturbations seed realistic breakup patterns and that the bridge ruptures at a dynamic aspect ratio of approximately 20, far exceeding the quasi-static Rayleigh-Plateau stability limit. Higher transglottal pressures accelerate rupture, linking phonation intensity to aerosol generation.\n\n[Phys. Rev. Fluids 11, 023103] Published Fri Feb 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/qq23-l918",
+          "publishedOn": "2026-02-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "CFD analysis of mucus bridge instability and breakup in the vocal folds",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/qb8l-cj9j",
           "author": "Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, and Pablo San-Jose",
           "description": "Author(s): Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, and Pablo San-Jose\nA fluxoid soliton is a new type of topologically protected state that appears in thin-walled tubular superconductors.\n\n[Phys. Rev. Lett. 136, 086001] Published Thu Feb 26, 2026",
@@ -953,56 +1003,6 @@
           "publishedOn": "2026-02-09T10:00:00.000Z",
           "wordCount": null,
           "title": "Backscattering study of electrons from 0.1 to 3.4 MeV",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/gsm9-rgb7",
-          "author": "A. M. Mukhamedzhanov",
-          "description": "Author(s): A. M. Mukhamedzhanov\nThe 12C(α,γ)16O reaction sets the carbon-to-oxygen ratio after core helium burning and strongly influences late stellar evolution. Because direct measurements near E≈300 keV are not available, this work combines existing experimental constraints in a Bayesian analysis to determine a well-defined range for the astrophysical factors SE1(300 keV) and SE2(300 keV). The resulting S(300 keV) range has important implications for the final outcomes of massive stars, including the formation of heavy black-hole remnants relevant to gravitational-wave observations.\n\n[Phys. Rev. C 113, 025803] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/gsm9-rgb7",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Bayesian framework for the ${S}_{E1}$(300 keV) and ${S}_{E2}$(300 keV) factors for $^{12}\\mathrm{C}(α,γ)^{16}\\mathrm{O}$ from subthreshold and ground-state asymptotic normalization coefficients",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/v5kq-7mn7",
-          "author": "Jacob Hauser, Yimu Bao, Shengqi Sang, Ali Lavasani, Utkarsh Agrawal, and Matthew P. A. Fisher",
-          "description": "Author(s): Jacob Hauser, Yimu Bao, Shengqi Sang, Ali Lavasani, Utkarsh Agrawal, and Matthew P. A. Fisher\nRepeated measurements can help protect information in decohered quantum memories. Here, the authors intrinsically characterize the information dynamics in such systems. In particular, they develop a (d+1)-dimensional statistical mechanics model for information-theoretic quantities characterizing the dynamics of d-dimensional stabilizer codes subject to Pauli errors and noisy measurements. The resulting model is dual to the model previously obtained for the optimal decoding algorithm, with decoding transitions manifesting as thermal phase transitions in both cases.\n\n[Phys. Rev. B 113, 054303] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/v5kq-7mn7",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Information dynamics in decohered quantum memory with repeated syndrome measurements",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qsx1-7zmy",
-          "author": "Nemin Wei, Felix von Oppen, and Leonid I. Glazman",
-          "description": "Author(s): Nemin Wei, Felix von Oppen, and Leonid I. Glazman\nThe authors develop here a theory for momentum-resolved tunneling spectroscopy of van der Waals superconductors using the quantum twisting microscope and demonstrate how it can directly map the anisotropic superconducting gap in magic-angle twisted bilayer graphene.\n\n[Phys. Rev. B 113, 064502] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/qsx1-7zmy",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Tunneling spectroscopy of two-dimensional superconductors with the quantum twisting microscope",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/mb6b-45t1",
-          "author": "Ming Kang, Tianmeng Zhang, Huanan Li, Jing Chen, and Andrea Alù",
-          "description": "Author(s): Ming Kang, Tianmeng Zhang, Huanan Li, Jing Chen, and Andrea Alù\nThe authors uncover here a fundamental link between scattering bounds and the topological features of the radiative phase, associated to a nontrivial winding number, in asymmetric resonators. In the non-Hermitian regime, operating at the derived bound leads to asymmetric resonators that support degenerate coherent perfect absorption (CPA) states that coalesce at an exceptional point (EP), realizing an EP CPA. As a result, this work bridges scattering bounds with critical phenomena in non-Hermitian photonics.\n\n[Phys. Rev. B 113, L081103] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/mb6b-45t1",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Scattering bounds in asymmetric resonators stemming from the topological phase",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/kbf5-6fcl",
-          "author": "B. Ding (丁兵) <em>et al.</em>",
-          "description": "Author(s): B. Ding (丁兵) et al.\nA new experiment shows that isomer depletion can be effectively induced when the highly charged isomeric ions slow down in a solid media.\n\n[Phys. Rev. Lett. 136, 052502] Published Fri Feb 06, 2026",
-          "link": "http://link.aps.org/doi/10.1103/kbf5-6fcl",
-          "publishedOn": "2026-02-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Isomer Depletion of $^{93m}\\mathrm{Mo}$ Triggered by Inelastic Nuclear Scattering Rather than Nuclear Excitation by Electron Capture",
           "imageUrl": null
         }
       ]
