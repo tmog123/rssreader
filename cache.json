@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/s8xh-m9qb",
+          "author": "Andrey O. Leonov and Kaito Nakamura",
+          "description": "Author(s): Andrey O. Leonov and Kaito Nakamura\nThis work introduces a paradigm of magnetic meta-matter in which topological chiral solitons—such as skyrmions and skyrmioniums—serve as distinct “atomic” species. In this framework, matter is defined not by chemical elements but by emergent, topologically protected building blocks. By arranging these solitonic units into ordered compound lattices, the resulting meta-matter can be engineered to exhibit well-defined stoichiometries, symmetry classes, and polymorphs, directly mirroring the principles of conventional materials design. Structural transformations between polymorphs enable reconfigurability at the quasiparticle level, establishing solitonic crystals as a fundamentally new form of designed matter with programmable collective behavior and broad potential for next-generation magnonic and spintronic technologies.\n\n[Phys. Rev. Materials 10, 036001] Published Mon Mar 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/s8xh-m9qb",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Skyrmionium metamatter: A topologically heterogeneous magnetic crystal with emergent hybrid dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/7l2l-g5vn",
+          "author": "Shang Wang, Jun Meng, Sheng Fang, Teng Liu, Kim Christensen, Jürgen Kurths, and Jingfang Fan",
+          "description": "Author(s): Shang Wang, Jun Meng, Sheng Fang, Teng Liu, Kim Christensen, Jürgen Kurths, and Jingfang Fan\nA statistical-physics-based analysis of the full life cycle of atmospheric rivers finds universal signatures of self-organized criticality.\n\n[Phys. Rev. Lett. 136, 094201] Published Mon Mar 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/7l2l-g5vn",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Self-Organized Criticality in Atmospheric Rivers",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/pq5m-32wj",
+          "author": "Song Bao, Junbo Liao, Zhentao Huang, Yanyan Shangguan, Zhen Ma, Bo Zhang, Shufan Cheng, Hao Xu, Zihang Song, Shuai Dong, Maofeng Wu, Ryoichi Kajimoto, Mitsutaka Nakamura, Tom Fennell, Dmitry Khalyavin, and Jinsheng Wen",
+          "description": "Author(s): Song Bao, Junbo Liao, Zhentao Huang, Yanyan Shangguan, Zhen Ma, Bo Zhang, Shufan Cheng, Hao Xu, Zihang Song, Shuai Dong, Maofeng Wu, Ryoichi Kajimoto, Mitsutaka Nakamura, Tom Fennell, Dmitry Khalyavin, and Jinsheng Wen\nNeutron scattering has provided a new and broader view of the twirling collective atomic vibrations in a magnetic crystal.\n\n[Phys. Rev. Lett. 136, 096502] Published Mon Mar 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/pq5m-32wj",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Magnetic Signature of Chiral Phonons Revealed by Neutron Spectroscopy in Ferrimagnetic ${\\mathrm{Fe}}_{1.75}{\\mathrm{Zn}}_{0.25}{\\mathrm{Mo}}_{3}{\\mathrm{O}}_{8}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/7ygl-8db2",
+          "author": "Lorenzo Monacelli and Nicola Marzari",
+          "description": "Author(s): Lorenzo Monacelli and Nicola Marzari\nThis work presents a novel first-principles approach for simulating electrostatic forces in polar materials, a crucial component often lacking in machine-learning interatomic potentials. Long-range electrostatic interactions play a fundamental role and, although machine learning force fields have rapidly improved, their description of the atomic environment is local, thus hampering their applicability to real-world problems. Few methods have been proposed to address this issue, and all of them require extensive retraining of the force field. The approach here overcomes these limitations: it is derived from first principles and eliminates the need for new ab initio simulations on the training set. Furthermore, it can be easily implemented alongside existing and available force fields. The method is released as an open-source package that can be readily employed in simulations. It is highly versatile and user friendly. The authors anticipate that this new approach will have a significant impact on materials simulations.\n\n[Phys. Rev. B 113, 094101] Published Mon Mar 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/7ygl-8db2",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Electrostatic interactions in atomistic and machine-learned potentials for polar materials",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/9ctg-8fp7",
+          "author": "Liangrui Wei and Yang Sun",
+          "description": "Author(s): Liangrui Wei and Yang Sun\nThe Gibbs free energy is one of the most fundamental quantities governing the thermodynamics of materials, particularly under extreme conditions. Here, the authors introduce a framework that incorporates the Gibbs free energy into interatomic potential development. The method is rooted in Hamiltonian thermodynamic integration and is integrated with conventional fitting procedures, providing systematic control over both structural and thermodynamic properties. Applications to nickel and iron oxide systems demonstrate improved thermodynamic accuracy in molecular dynamics simulations at high pressures and temperatures.\n\n[Phys. Rev. B 113, 094103] Published Mon Mar 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/9ctg-8fp7",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Incorporating Gibbs free energy into interatomic potential fitting",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/c57s-skv9",
+          "author": "Ankita Bhattacharya and Annica M. Black-Schaffer",
+          "description": "Author(s): Ankita Bhattacharya and Annica M. Black-Schaffer\nOdd-frequency superconductivity is ubiquitous in multiband systems but is commonly believed to yield a paramagnetic Meissner response and thus be unstable. The authors show here that this paradigm breaks down once quantum geometry is considered. For general two-band superconductors, the authors establish that the geometric interband contribution to the Meissner response from odd-frequency pairing is in fact diamagnetic, thus stabilizing odd-frequency superconductivity. In flat-band systems this geometric contribution can even dominate the Meissner response, which identifies flat-band materials as promising platforms for robust odd-frequency superconductivity.\n\n[Phys. Rev. B 113, 094501] Published Mon Mar 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/c57s-skv9",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Diamagnetic Meissner response of odd-frequency superconducting pairing from quantum geometry",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/dcdc-pxn3",
+          "author": "Alan Sherry, Saptarshi Mandal, and Sthitadhi Roy",
+          "description": "Author(s): Alan Sherry, Saptarshi Mandal, and Sthitadhi Roy\nHow is quantum information distributed in complex many-body systems? Here, using partially projected ensembles, the authors show that the Holevo information in such ensembles uncovers sharp “information phases” invisible to standard entanglement measures. For Haar random states and late-time scrambling dynamics, it exhibits a qualitative change in scaling—from exponential decay to linear growth—separated by nonanalytic transitions as subsystem sizes vary. The decaying regime establishes a measurement-invisible quantum correlated phase, providing a finer probe for understanding scrambling and information structure in chaotic quantum systems beyond conventional entanglement measures.\n\n[Phys. Rev. B 113, 104301] Published Mon Mar 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/dcdc-pxn3",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Information phases of partial projected ensembles generated from random quantum states and scrambling dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/q757-fw25",
+          "author": "Ludovico Tesser, José Balduque, and Janine Splettstoesser",
+          "description": "Author(s): Ludovico Tesser, José Balduque, and Janine Splettstoesser\nThe current noise in quantum conductors not only affects current precision, but also reveals information about the system. Close to equilibrium, this noise fulfils the fluctuation-dissipation theorem. This is more difficult out of equilibrium, especially under temperature bias and time-dependent driving, crucial for quantum heat engines. Here, the authors demonstrate a constraint between the nonequilibrium noise and dissipated or generated power for arbitrary conductors and driving. Unlike the fluctuation-dissipation theorem, the bound found here is most restrictive far from equilibrium, where temperature biases are large.\n\n[Phys. Rev. B 113, 115401] Published Mon Mar 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/q757-fw25",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Fluctuation-dissipation bounds in time-dependently driven conductors",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/13ld-vr3l",
           "author": "Catherine Quilliet, Alexander V. Butenko, and Eli Sloutskin",
           "description": "Author(s): Catherine Quilliet, Alexander V. Butenko, and Eli Sloutskin\nAn oil droplet within a watery fluid becomes nonspherical at certain temperatures—reversibly transforming from a hexagon to a six-pointed star.\n\n[Phys. Rev. Lett. 136, 084002] Published Fri Feb 27, 2026",
@@ -923,86 +1003,6 @@
           "publishedOn": "2026-02-10T10:00:00.000Z",
           "wordCount": null,
           "title": "Strong-coupling superconductivity near Gross-Neveu quantum criticality in Dirac systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/8nh5-l63q",
-          "author": "F. Rathmann, A. Nass, K. O. Eyser, V. Shmakova, E. C. Aschenauer, G. Atoian, A. Cannavo, X. Chu, K. Hock, H. Huang, H. Lovelace, G. Mahler, N. N. Nikolaev, J. Ritter, G. Robert-Demolaize, V. Schoefer, P. Shanmuganathan, E. Shulga, H. Soltner, and Z. Zhang",
-          "description": "Author(s): F. Rathmann, A. Nass, K. O. Eyser, V. Shmakova, E. C. Aschenauer, G. Atoian, A. Cannavo, X. Chu, K. Hock, H. Huang, H. Lovelace, G. Mahler, N. N. Nikolaev, J. Ritter, G. Robert-Demolaize, V. Schoefer, P. Shanmuganathan, E. Shulga, H. Soltner, and Z. Zhang\nAbsolute proton beam polarimetry at the Electron–Ion Collider uses a polarized hydrogen jet target intersecting the hadron beam. At the EIC’s short bunch lengths and high repetition rates, beam-induced RF fields can resonantly depolarize the target atoms and compromise the required 1% polarization precision. We present a frequency-domain analysis of beam harmonics and hydrogen hyperfine transitions and show that a target guide field of about 400mT suppresses all relevant depolarizing resonances, enabling robust proton polarimetry under EIC operating conditions. The schematic illustrates the atomic hydrogen beam, proton bunches, guide field, and symmetric recoil detector geometry.\n\n[Phys. Rev. Accel. Beams 29, 021001] Published Tue Feb 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/8nh5-l63q",
-          "publishedOn": "2026-02-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Eliminating beam-induced depolarizing effects in the hydrogen jet target for high-precision proton beam polarimetry at the electron-ion collider",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/sn37-b9rr",
-          "author": "Silvia Macedonio, Luca Lepori, Alessandro Chiesa, Simone Chicco, Laura Bersani, Marcos Rubin-Osanz, Lukas Bradley Woodcock, Athanasios Mavromagoulos, Giuseppe Allodi, Elena Garlatti, Stergios Piligkos, Augusto Smerzi, and Stefano Carretta",
-          "description": "Author(s): Silvia Macedonio, Luca Lepori, Alessandro Chiesa, Simone Chicco, Laura Bersani, Marcos Rubin-Osanz, Lukas Bradley Woodcock, Athanasios Mavromagoulos, Giuseppe Allodi, Elena Garlatti, Stergios Piligkos, Augusto Smerzi, and Stefano Carretta\nThis work studies generalized Bell inequalities in molecular spin qudits, focusing on qubit-qudit and qudit-qudit systems. Numerical simulations using experimentally measured parameters on an a Yb(trensal) molecule, featuring a nuclear spin qudit coupled to an electronic spin qubit, demonstrate that violations of Bell inequalities can be achieved with realistic control protocols and decoherence times.\n\n[Phys. Rev. Research 8, 013138] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/sn37-b9rr",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular spin qudits to test generalized Bell inequalities",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/cg3f-rggs",
-          "author": "Yu-Chen Li, Tian-Gang Zhou, Shengyu Zhang, Ze Wu, Liqiang Zhao, Haochuan Yin, Xiaoxue An, Hui Zhai, Pengfei Zhang, Xinhua Peng, and Jiangfeng Du",
-          "description": "Author(s): Yu-Chen Li, Tian-Gang Zhou, Shengyu Zhang, Ze Wu, Liqiang Zhao, Haochuan Yin, Xiaoxue An, Hui Zhai, Pengfei Zhang, Xinhua Peng, and Jiangfeng Du\nA combined experimental and theoretical study reveals the emergence of quantum chaos in a complex system, suggesting that it can be described with a universal theoretical framework.\n\n[Phys. Rev. Lett. 136, 060403] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/cg3f-rggs",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Error-Resilient Reversal of Quantum Chaotic Dynamics Enabled by Scramblons",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qrkk-l2ng",
-          "author": "Maosen Wang, Bo Hao, Wenjie Sun, Shengjun Yan, Shengwang Sun, Hongyi Zhang, Zhengbin Gu, and Yuefeng Nie",
-          "description": "Author(s): Maosen Wang, Bo Hao, Wenjie Sun, Shengjun Yan, Shengwang Sun, Hongyi Zhang, Zhengbin Gu, and Yuefeng Nie\nThe doping-dependent phase diagram of the bilayer nickelate film, La3−xSrxNi2O7−δ, when compressively strained features a superconducting dome with an electron-hole crossover.\n\n[Phys. Rev. Lett. 136, 066002] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/qrkk-l2ng",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Superconducting Dome in ${\\mathrm{La}}_{3−x}{\\mathrm{Sr}}_{x}{\\mathrm{Ni}}_{2}{\\mathrm{O}}_{7−δ}$ Thin Films",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/36v9-wtm8",
-          "author": "Rubén Calvo, Carles Martorell, Adrián Roig, and Miguel A. Muñoz",
-          "description": "Author(s): Rubén Calvo, Carles Martorell, Adrián Roig, and Miguel A. Muñoz\nAn analytical and numerical framework, applied to pooled resting-state functional magnetic resonance imaging, shows that collective brain activity is slightly subcritical yet close to criticality.\n\n[Phys. Rev. Lett. 136, 068402] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/36v9-wtm8",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Robust Scaling in Human Brain Dynamics Despite Correlated Inputs and Limited Sampling Distortions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/dtp1-hrzp",
-          "author": "Malcolm Slutzky, Alice Pelosse, Michael van der Naald, and Heinrich M. Jaeger",
-          "description": "Author(s): Malcolm Slutzky, Alice Pelosse, Michael van der Naald, and Heinrich M. Jaeger\nBy performing a systematic series of impact tests, varying parameters such as impact velocity, solvent viscosity, and surface tension, the authors sketch a state diagram for dense suspensions, highlighting fracturing and nonfracturing behaviors across shear jamming, shear thickening, and liquidlike regimes.\n#PedagogicalExposition #ElegantVisuals #SoftMatterSpotlight\n\n[Phys. Rev. E 113, 025410] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/dtp1-hrzp",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fracture and failure of shear-jammed dense suspensions under impact",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/jy8q-mfmm",
-          "author": "Arnaud Tourin, Yamil Abraham, Marie Palla, Arthur Le Ber, Romain Pierrat, Nicolas Benech, Carlos Negreira, and Xiaoping Jia",
-          "description": "Author(s): Arnaud Tourin, Yamil Abraham, Marie Palla, Arthur Le Ber, Romain Pierrat, Nicolas Benech, Carlos Negreira, and Xiaoping Jia\nIn this paper, the authors experimentally study wave propagation in two- and three-dimensional dense granular media and identify an acoustic transparency window, where scattering is substantially reduced, enabling low-frequency waves to propagate almost ballistically. They attribute this phenomenon to spatial correlations in the structural disorder of the medium, and support this interpretation with a theoretical model.\n#TheoryExperiment #SoftMatterSpotlight\n\n[Phys. Rev. E 113, 025411] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/jy8q-mfmm",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Acoustic transparency and absorption in dense granular suspensions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/g3x8-vtr2",
-          "author": "M. Kanafani, X. Fléchard, O. Naviliat-Cuncic, R. Garreau, T. E. Haugen, L. Hayen, S. Leblond, E. Liénard, X. Mougeot, G. Quéméner, A. Rani, J.-C. Thomas, and S. Vanlangendonck",
-          "description": "Author(s): M. Kanafani, X. Fléchard, O. Naviliat-Cuncic, R. Garreau, T. E. Haugen, L. Hayen, S. Leblond, E. Liénard, X. Mougeot, G. Quéméner, A. Rani, J.-C. Thomas, and S. Vanlangendonck\nBenchmarking simulation codes for electron transport and scattering in matter is a crucial step for estimating uncertainties in precision measurements in β decay and other applications. This work reports the measurement and the quantitative analysis of backscattering probabilities of electrons in the energy range 0.1 to 3.4 MeV where experimental data are scarce. Using a setup for precise identification of backscattered events impinging on a YAP:Ce scintillator, the authors achieved meaningful agreement between simulations and experimental data covering a large range of energies and large incident angles. The results should help mitigate the usually large relative uncertainties considered for electron backscattering probabilities. Reaching an improved understanding of the systematic uncertainties at the percent level, compared to the previous 10% level, promises to be of high value to the community engaged in precision β spectroscopy.\n\n[Phys. Rev. C 113, 025501] Published Mon Feb 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/g3x8-vtr2",
-          "publishedOn": "2026-02-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Backscattering study of electrons from 0.1 to 3.4 MeV",
           "imageUrl": null
         }
       ]
