@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/l913-4x5y",
+          "author": "Gerhard H. Fecher, Shogo Yamashita, Esita Pandey, Atsufumi Hirohata, and Claudia Felser",
+          "description": "Author(s): Gerhard H. Fecher, Shogo Yamashita, Esita Pandey, Atsufumi Hirohata, and Claudia Felser\nIn the middle of the last century, Nèel predicted the existence of a special type of ferrimagnet with vanishing magnetization: the L-type ferrimagnet. This fully compensated ferrimagnet differs from antiferromagnets in that its magnetic sublattices have different spin densities. Ab initio calculations reveal that certain Heusler alloys exhibit Nèel’s compensated ferrimagnetism in addition to half-metallic behavior. This means they possess a fully spin-polarized electronic structure, favorable for spintronics. Spin dynamics calculations demonstrate how to stabilize the vanishing magnetization at higher temperatures by altering the stoichiometry of the alloys.\n\n[Phys. Rev. Materials 10, 034403] Published Tue Mar 03, 2026",
+          "link": "http://link.aps.org/doi/10.1103/l913-4x5y",
+          "publishedOn": "2026-03-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Compensated ferrimagnetic Heusler alloys: A search for the forgotten Neel's $L$-type ferrimagnet",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/pyby-dlzq",
+          "author": "Morgan Thinel, Taketo Handa, Christie S. Koay, Daniel G. Chica, Nicholas Olsen, Apoorv Jindal, JeongHeon Choe, Xavier Roy, Xiaoyang Zhu, and Abhay N. Pasupathy",
+          "description": "Author(s): Morgan Thinel, Taketo Handa, Christie S. Koay, Daniel G. Chica, Nicholas Olsen, Apoorv Jindal, JeongHeon Choe, Xavier Roy, Xiaoyang Zhu, and Abhay N. Pasupathy\nA new layered material enabled researchers to document a dramatic change in metallic electron behavior as the material goes from 3D to 2D.\n\n[Phys. Rev. Lett. 136, 096401] Published Tue Mar 03, 2026",
+          "link": "http://link.aps.org/doi/10.1103/pyby-dlzq",
+          "publishedOn": "2026-03-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Anderson Localization in a Two-Dimensional Metal",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/42dq-5xlf",
+          "author": "Takamasa Ando, Shinsei Ryu, and Masataka Watanabe",
+          "description": "Author(s): Takamasa Ando, Shinsei Ryu, and Masataka Watanabe\nThe authors develop here a systematic framework for constructing spontaneous symmetry-breaking (SSB) phases of strong symmetries, a concept specific to mixed quantum states. Starting from the ground-state phase diagram of lattice gauge theory models, the approach yields various mixed-state topological phases and explicit models for the critical points between them, including cases with gapless symmetry-protected topological order. They further clarify that lattice gauge theory ground states can be viewed as purifications of the corresponding mixed SSB states.\n\n[Phys. Rev. B 113, 115106] Published Tue Mar 03, 2026",
+          "link": "http://link.aps.org/doi/10.1103/42dq-5xlf",
+          "publishedOn": "2026-03-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Gauge theory and mixed state criticality",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/rhs6-7mmk",
+          "author": "Jing Wang, Tobias Schneider, Wei Hu, Stefan Schumacher, and Xuekai Ma",
+          "description": "Author(s): Jing Wang, Tobias Schneider, Wei Hu, Stefan Schumacher, and Xuekai Ma\nTopological edge states are highly sought-after in zigzag chains. Here, the authors introduce a zigzag superlattice composed of two sublattices that supports multiple topological edge states. In this configuration, intercell and intracell couplings are imbalanced through eigenstate tunneling or the deformation of higher-order modes. Arranging the superlattices into an arc structure encourages specific bulk states to become more localized at the edge. A similar state transformation can be achieved via repulsive nonlinearity, which also facilitates the coexistence of distinct edge states.\n\n[Phys. Rev. B 113, 115302] Published Tue Mar 03, 2026",
+          "link": "http://link.aps.org/doi/10.1103/rhs6-7mmk",
+          "publishedOn": "2026-03-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Topological edge states in curved zigzag superlattices in nonlinear semiconductor microcavity exciton polaritons",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/b2kz-15c5",
+          "author": "Miha Srdinšek and Xavier Waintal",
+          "description": "Author(s): Miha Srdinšek and Xavier Waintal\nDeep neural networks can fit a vast variety of data but they have limited mathematical structure. A typical large language model offers only the evaluation of the function, its gradient (automatic differentiation), and the ability to sample (autoregressive). Tensor networks offer much more—calculation of sums, scalar products, application of various operators—but are less expressive. Here, the authors take a step toward merging the two approaches to construct a variational ansatz that inherits some of both networks’ properties.\n\n[Phys. Rev. B 113, 125107] Published Tue Mar 03, 2026",
+          "link": "http://link.aps.org/doi/10.1103/b2kz-15c5",
+          "publishedOn": "2026-03-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hybrid between biologically and quantum-inspired many-body states",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/zk45-6lb2",
+          "author": "Wei Luo, Asier Zabalo, Guodong Ren, Gwan-Yeong Jung, Massimiliano Stengel, Rohan Mishra, Jayakanth Ravichandran, and Laurent Bellaiche",
+          "description": "Author(s): Wei Luo, Asier Zabalo, Guodong Ren, Gwan-Yeong Jung, Massimiliano Stengel, Rohan Mishra, Jayakanth Ravichandran, and Laurent Bellaiche\nHere, the authors use first-principles calculations to uncover strain-engineered gyrotropic effects in ferroelectric BaTiS3. They predict a tensile strain induced transition to a chiral P63 phase enabling electric field switchable optical rotation, and a compressive strain driven insulator-to-polar Weyl semimetal transition that activates a nonlinear anomalous Hall effect with sign reversal. These results establish strain as a powerful route to control optical and transport responses in a single material.\n\n[Phys. Rev. B 113, L100101] Published Tue Mar 03, 2026",
+          "link": "http://link.aps.org/doi/10.1103/zk45-6lb2",
+          "publishedOn": "2026-03-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Strain-induced gyrotropic effects in ferroelectric $\\mathrm{BaTi}{\\mathrm{S}}_{3}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/37rx-fzfp",
+          "author": "Emanuele Brusaschi, Marco Liscidini, Matteo Galli, Daniele Bajoni, and Massimo Borghi",
+          "description": "Author(s): Emanuele Brusaschi, Marco Liscidini, Matteo Galli, Daniele Bajoni, and Massimo Borghi\nPulsed squeezed light is a key resource for continuous-variable quantum information processing and photonic quantum technologies, and can be generated efficiently using Si3N4 microresonators. Under strong pulsed pumping, however, nonlinear effects complicate control of such light’s temporal and spectral properties, limiting performance and practical utility. This study in the high-gain regime investigates the impact of pump detuning and pulse duration on key metrics, including output photon flux and various correlations. Its results deepen our understanding of pulsed squeezed light in chip-scale resonators, and provide guidance for optimizing integrated quantum light sources.\n\n[Phys. Rev. Applied 25, 034008] Published Tue Mar 03, 2026",
+          "link": "http://link.aps.org/doi/10.1103/37rx-fzfp",
+          "publishedOn": "2026-03-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Time-resolved characterization of pulsed squeezed light from a strongly driven silicon nitride microresonator",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/4hhn-pjbj",
+          "author": "Ming-Rui Wei, Kun-Peng Wang, Jia-Yi Hou, Yi Chen, Peng Xu, Jun Zhuang, Rui-Jun Guo, Min Liu, Jin Wang, Xiao-Dong He, and Ming-Sheng Zhan",
+          "description": "Author(s): Ming-Rui Wei, Kun-Peng Wang, Jia-Yi Hou, Yi Chen, Peng Xu, Jun Zhuang, Rui-Jun Guo, Min Liu, Jin Wang, Xiao-Dong He, and Ming-Sheng Zhan\nDefect-free mixed-species atom arrays are promising for quantum computing, simulation, and metrology, but their scalability has been hindered. This study overcomes the barriers by expanding the tweezer-array size, improving atom-transfer efficiency, and introducing a powerful rearrangement algorithm. The authors successfully assemble defect-free arrays containing 120 mixed-species atoms with a filling fraction of 98.3% and a 14% defect-free probability—a real leap beyond prior demonstrations. This enhanced approach can be extended to other atomic species and is expected to accelerate progress in quantum error correction, many-body quantum simulations, and precision metrology.\n\n[Phys. Rev. Applied 25, 034009] Published Tue Mar 03, 2026",
+          "link": "http://link.aps.org/doi/10.1103/4hhn-pjbj",
+          "publishedOn": "2026-03-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Enhanced atom-by-atom assembly of defect-free two-dimensional mixed-species atomic arrays",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/s8xh-m9qb",
           "author": "Andrey O. Leonov and Kaito Nakamura",
           "description": "Author(s): Andrey O. Leonov and Kaito Nakamura\nThis work introduces a paradigm of magnetic meta-matter in which topological chiral solitons—such as skyrmions and skyrmioniums—serve as distinct “atomic” species. In this framework, matter is defined not by chemical elements but by emergent, topologically protected building blocks. By arranging these solitonic units into ordered compound lattices, the resulting meta-matter can be engineered to exhibit well-defined stoichiometries, symmetry classes, and polymorphs, directly mirroring the principles of conventional materials design. Structural transformations between polymorphs enable reconfigurability at the quasiparticle level, establishing solitonic crystals as a fundamentally new form of designed matter with programmable collective behavior and broad potential for next-generation magnonic and spintronic technologies.\n\n[Phys. Rev. Materials 10, 036001] Published Mon Mar 02, 2026",
@@ -923,86 +1003,6 @@
           "publishedOn": "2026-02-11T10:00:00.000Z",
           "wordCount": null,
           "title": "Harnessing Floquet dynamics for selective metrology in few-qubit systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3ync-nxm8",
-          "author": "Woncheol Lee, Mark E. Turiansky, Dominic Waldhör, Byounghak Lee, Tibor Grasser, and Chris G. Van de Walle",
-          "description": "Author(s): Woncheol Lee, Mark E. Turiansky, Dominic Waldhör, Byounghak Lee, Tibor Grasser, and Chris G. Van de Walle\nHot carrier induced bond breaking underlies many degradation phenomena in solid-state devices, yet a first-principles description has remained elusive. Here, the authors present a nonadiabatic framework that explicitly identifies resonant bonding and antibonding states in solids and couples them to quantum nuclear dynamics. Applied to Si–H bonds, the approach explains key experimental observations—including the 7 V dissociation threshold, isotope effects, and temperature independence—and directly links microscopic electronic excitations to macroscopic device degradation.\n\n[Phys. Rev. B 113, 075304] Published Wed Feb 11, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3ync-nxm8",
-          "publishedOn": "2026-02-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Resonant states and nuclear dynamics in solid-state systems: The case of silicon-hydrogen bond dissociation",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/715s-xcy8",
-          "author": "Huimin Zhu, Yuhua Ren, Hui Pan, Gaomin Tang, Lei Zhang, and Jian-Sheng Wang",
-          "description": "Author(s): Huimin Zhu, Yuhua Ren, Hui Pan, Gaomin Tang, Lei Zhang, and Jian-Sheng Wang\nThe authors investigate here far-field thermal radiation from a periodically time-modulated SiC film using the Floquet nonequilibrium Green’s function framework. Their results reveal that time modulation significantly enhances far-field emission by coupling near-field evanescent modes to far-field propagating modes. By effectively bridging energy and momentum mismatches through frequency conversion, this work demonstrates that Floquet engineering offers a powerful new pathway for active dynamic control of far-field thermal radiation.\n\n[Phys. Rev. B 113, 085414] Published Wed Feb 11, 2026",
-          "link": "http://link.aps.org/doi/10.1103/715s-xcy8",
-          "publishedOn": "2026-02-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Enhancing far-field thermal radiation by Floquet engineering",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/dzdf-hh4t",
-          "author": "F. Museur, J. Robert, F. Morineau, N. Bujault, V. Simonet, E. Pachoud, A. Hadj-Azzem, C. V. Colin, L. Mangin-Thro, P. Manuel, J. R. Stewart, P. C. W. Holdsworth, and E. Lhotel",
-          "description": "Author(s): F. Museur, J. Robert, F. Morineau, N. Bujault, V. Simonet, E. Pachoud, A. Hadj-Azzem, C. V. Colin, L. Mangin-Thro, P. Manuel, J. R. Stewart, P. C. W. Holdsworth, and E. Lhotel\nHere, the authors reveal how two distinct sublattices interact to produce an unconventional magnetic phase in the pyrochlore Ho2Ru2O7. Using neutron scattering along side thermodynamic probes, they show that Ru moments first establish an easy-plane antiferromagnetic state, which then mediates an unusual low-temperature ferromagnetic ordering of Ho moments. This work reveals two consecutive, symmetry breaking phase transitions and identifies a fragmented ferromagnetic state analogous to kagome ice. Thus, it highlights the subtle interplay between exchange, anisotropy, and frustration on interpenetrating lattices.\n\n[Phys. Rev. B 113, L060406] Published Wed Feb 11, 2026",
-          "link": "http://link.aps.org/doi/10.1103/dzdf-hh4t",
-          "publishedOn": "2026-02-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Ferromagnetic fragmented state in the pyrochlore ${\\mathrm{Ho}}_{2}{\\mathrm{Ru}}_{2}{\\mathrm{O}}_{7}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/cw5h-644b",
-          "author": "Qi Xiao, Gleb Penyazkov, Ruihan Yu, Beichen Huang, Jiatong Li, Juanlang Shi, Yanmei Yu, Yuxiang Mo, and Shiqian Ding",
-          "description": "Author(s): Qi Xiao, Gleb Penyazkov, Ruihan Yu, Beichen Huang, Jiatong Li, Juanlang Shi, Yanmei Yu, Yuxiang Mo, and Shiqian Ding\nLaser spectroscopy of the Th-229 nuclear isomer promises a fresh class of optical clocks, and precision tests of fundamental physics, but progress has been limited by the lack of an intense, narrow-linewidth continuous-wave laser near 148 nm. This work proposes a resonance-enhanced four-wave-mixing scheme to generate coherent continuous-wave light at 148 nm in cadmium vapor, using readily available pump lasers. The approach predicts tens of microwatts of output power with high coherence, potentially enabling coherent driving of the extremely weak nuclear transition, and thus overcoming a key technical bottleneck for nuclear-clock development and vacuum-ultraviolet precision spectroscopy.\n\n[Phys. Rev. Applied 25, 024034] Published Wed Feb 11, 2026",
-          "link": "http://link.aps.org/doi/10.1103/cw5h-644b",
-          "publishedOn": "2026-02-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Proposal for the generation of continuous-wave vacuum-ultraviolet laser light for Th-229 isomer precision spectroscopy",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/v28b-5qmp",
-          "author": "Karan Jakhar, Yifei Guan, and Pedram Hassanzadeh",
-          "description": "Author(s): Karan Jakhar, Yifei Guan, and Pedram Hassanzadeh\nResearchers have used an artificial-intelligence tool to reveal long-sought equations that describe small-scale features in 2D turbulent systems.\n\n[Phys. Rev. Lett. 136, 064201] Published Tue Feb 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/v28b-5qmp",
-          "publishedOn": "2026-02-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Analytical and AI-Discovered Stable, Accurate, and Generalizable Subgrid-Scale Closure for Geophysical Turbulence",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/kf83-1b8s",
-          "author": "Kai Liu, Qi-hang Zhang, Zi-hao Dong, Zhi-xiang Li, Chao Zhang, Shao-jie Fu, Xu-hao Hong, Yan-qing Lu, Yan-feng Chen, Jun Du, Xue-jin Zhang, and Yong-yuan Zhu",
-          "description": "Author(s): Kai Liu, Qi-hang Zhang, Zi-hao Dong, Zhi-xiang Li, Chao Zhang, Shao-jie Fu, Xu-hao Hong, Yan-qing Lu, Yan-feng Chen, Jun Du, Xue-jin Zhang, and Yong-yuan Zhu\nIndependent tuning of cavity lifetime and field confinement enables record-bright, room-temperature chiral single-photon emission, breaking the prevailing Q-V trade-off in quantum emitters.\n\n[Phys. Rev. Lett. 136, 066901] Published Tue Feb 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/kf83-1b8s",
-          "publishedOn": "2026-02-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Bright Chiral Single-Photon Emission Underpinned by Independent Tailoring of $Q$ and $V$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/7bqn-y2d7",
-          "author": "Florian Sammüller and Matthias Schmidt",
-          "description": "Author(s): Florian Sammüller and Matthias Schmidt\nEquilibrium chemical potentials can be determined simultaneously across simulation datasets of inhomogeneous classical fluids by leveraging machine-learned classical density functionals.\n\n[Phys. Rev. Lett. 136, 068202] Published Tue Feb 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/7bqn-y2d7",
-          "publishedOn": "2026-02-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Determining the Chemical Potential via Universal Density Functional Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/x7lc-ztqn",
-          "author": "Veronika C. Stangier, Daniel E. Sheehy, and Jörg Schmalian",
-          "description": "Author(s): Veronika C. Stangier, Daniel E. Sheehy, and Jörg Schmalian\nCan superconductivity arise without well-defined quasiparticles? This work answers with a striking yes. By studying charge-neutral Dirac fermions near Gross–Neveu quantum criticality, the authors show here that strong critical fluctuations and anomalous fermion dimensions can drive superconductivity, even in the absence of a Fermi surface. Using a strong-coupling framework, inspired by the Sachdev-Ye-Kitaev model, they identify symmetry-selective pairing channels and demonstrate that well-defined Dirac quasiparticles do not superconduct while ill-defined ones do, demonstrating a unique route for pairing in Dirac materials.\n\n[Phys. Rev. B 113, 085119] Published Tue Feb 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/x7lc-ztqn",
-          "publishedOn": "2026-02-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Strong-coupling superconductivity near Gross-Neveu quantum criticality in Dirac systems",
           "imageUrl": null
         }
       ]
