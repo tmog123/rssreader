@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/8qzx-xpfz",
+          "author": "Benoît Ferté, Davide Farci, and Xiangyu Cao",
+          "description": "Author(s): Benoît Ferté, Davide Farci, and Xiangyu Cao\nAn analysis of a quantum-to-classical transition reveals two distinct notions of classicality.\n\n[Phys. Rev. Lett. 136, 090404] Published Thu Mar 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/8qzx-xpfz",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Decoherent Histories with(out) Objectivity in a (Broken) Apparatus",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/fp1v-xrr5",
+          "author": "Muhammed Irshad P., Pallavi Bhat, Kandaswamy Subramanian, and Anvar Shukurov",
+          "description": "Author(s): Muhammed Irshad P., Pallavi Bhat, Kandaswamy Subramanian, and Anvar Shukurov\nA coordinate transformation devised for an expanding universe leads to new insights into how a collapsing protogalaxy acquires a large magnetic field.\n\n[Phys. Rev. Lett. 136, 091201] Published Thu Mar 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/fp1v-xrr5",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Turbulent Dynamos in a Collapsing Cloud",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/4p6l-rzck",
+          "author": "Victor P. Pasko, Sebastien Celestin, and Anne Bourdon",
+          "description": "Author(s): Victor P. Pasko, Sebastien Celestin, and Anne Bourdon\nElectrons accelerated to relativistic speeds in a dielectric material can produce bursts of x rays, similar to a phenomenon found in thunderstorms.\n\n[Phys. Rev. Lett. 136, 095301] Published Thu Mar 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/4p6l-rzck",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Relativistic Feedback Discharges in Dielectric Solids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/6grf-b3p7",
+          "author": "Y.-H. Nian, C. Chaffey, P. Sherpa, L. Santillan, K. Nagashima, P. Klavins, V. Taufour, and N. J. Curro",
+          "description": "Author(s): Y.-H. Nian, C. Chaffey, P. Sherpa, L. Santillan, K. Nagashima, P. Klavins, V. Taufour, and N. J. Curro\nHere, the authors report nuclear magnetic resonance Knight shift measurements as a function of pressure in the archetype heavy fermion superconductor CeRhIn5, revealing a suppression of the hyperfine coupling between the nuclear and electron spins. The result can be understood as a change of 4f electron content at the Fermi surface as the system approaches a quantum critical point.\n\n[Phys. Rev. B 113, 115108] Published Thu Mar 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/6grf-b3p7",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Knight shift measurements probing Fermi surface changes under pressure in ${\\mathrm{CeRhIn}}_{5}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/vhwf-qbnc",
+          "author": "Tancredi Salamone, Biel Martinez Diaz, Jing Li, Lukas Cvitkovich, and Yann-Michel Niquet",
+          "description": "Author(s): Tancredi Salamone, Biel Martinez Diaz, Jing Li, Lukas Cvitkovich, and Yann-Michel Niquet\nThe management of valley splittings is one of the main challenges for electron spin qubits in Si/SiGe heterostructures. Here, the authors implement intervalley potentials in a two-band k·p model for the opposite X, Y, and Z valleys of silicon, explicitly accounting for alloy disorder. The approach reproduces tight-binding valley splittings, valley-orbit mixing, and intervalley dipole matrix elements at a much lower computational cost. Through simulation of a realistic Si/SiGe spin qubit device, including electron-phonon interactions, the authors illustrate how this model enables efficient modeling of SiGe heterostructure devices where spin and valley physics are relevant.\n\n[Phys. Rev. B 113, 115304] Published Thu Mar 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/vhwf-qbnc",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Valley physics in the two-band $k·p$ model for SiGe heterostructures and spin qubits",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/3d1t-pr7m",
+          "author": "Ssu-Chih Lin, Paul Steinacker, MengKe Feng, Ajit Dash, Santiago Serrano, Wee Han Lim, Kohei M. Itoh, Fay E. Hudson, Tuomo Tanttu, Andre Saraiva, Arne Laucht, Andrew S. Dzurak, Hsi-Sheng Goan, and Chih Hwan Yang",
+          "description": "Author(s): Ssu-Chih Lin, Paul Steinacker, MengKe Feng, Ajit Dash, Santiago Serrano, Wee Han Lim, Kohei M. Itoh, Fay E. Hudson, Tuomo Tanttu, Andre Saraiva, Arne Laucht, Andrew S. Dzurak, Hsi-Sheng Goan, and Chih Hwan Yang\nSpin shuttling is a promising strategy for scaling silicon-based quantum processors by overcoming the connectivity constraints inherent in quantum dots. This study employs Pauli spin blockade to characterize spin-shuttling coherence at different external magnetic fields, facilitating a systematic investigation of the impact of various operational parameters, which can drive up to a twentyfold variation in error rates. Through targeted optimization, the authors achieve an average shuttling fidelity of 99.8%. Their findings provide critical insights for optimizing high-performance spin shuttling in future large-scale quantum processors.\n\n[Phys. Rev. Applied 25, 034016] Published Thu Mar 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/3d1t-pr7m",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Interplay of Zeeman splitting and tunnel coupling in coherent spin-qubit shuttling",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/53x5-8mb1",
+          "author": "Ayaki Sunaga and Timo Fleig",
+          "description": "Author(s): Ayaki Sunaga and Timo Fleig\nThe authors present a theoretical model for calculating the rotational-coupling effects on diatomic open-shell systems based on the four-component multireference wave function. The calculated splittings could contribute to ongoing experimental efforts to measure the electric dipole moment of the electron, and to probe for nuclear charge-parity violation through the nuclear magnetic quadrupole moment.\n\n[Phys. Rev. A 113, 032809] Published Thu Mar 05, 2026",
+          "link": "http://link.aps.org/doi/10.1103/53x5-8mb1",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Rotational splittings in diatomic molecules of interest to searches for new physics",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/rpc8-zb4l",
           "author": "Bijuan Chen, Yuhao Gu, Dong Wang, Dexi Shao, Wen Deng, Xin Han, Meiling Jin, Jing Song, Yu Zeng, Hirofumi Ishii, Yen-Fa Liao, Dongzhou Zhang, Jianbo Zhang, Youwen Long, Jinlong Zhu, Liuxiang Yang, Hong Xiao, Jia-cai Nie, Youguo Shi, Changqing Jin, Jiangping Hu, Ho-kwang Mao, and Yang Ding",
           "description": "Author(s): Bijuan Chen, Yuhao Gu, Dong Wang, Dexi Shao, Wen Deng, Xin Han, Meiling Jin, Jing Song, Yu Zeng, Hirofumi Ishii, Yen-Fa Liao, Dongzhou Zhang, Jianbo Zhang, Youwen Long, Jinlong Zhu, Liuxiang Yang, Hong Xiao, Jia-cai Nie, Youguo Shi, Changqing Jin, Jiangping Hu, Ho-kwang Mao, and Yang Ding\nCuIr2S4 becomes a bulk superconductor with Tc of 18.2 K under pressure, a new record for spinels, and splits into two distinct superconducting phases that coexist over a broad window.\n\n[Phys. Rev. Lett. 136, 096505] Published Wed Mar 04, 2026",
@@ -933,76 +1003,6 @@
           "publishedOn": "2026-02-12T10:00:00.000Z",
           "wordCount": null,
           "title": "Generalized Lotka-Volterra systems with quenched random interactions and saturating nonlinear response",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/m23x-96cr",
-          "author": "Noga Bashan, Evyatar Tulipman, Steven A. Kivelson, Jörg Schmalian, and Erez Berg",
-          "description": "Author(s): Noga Bashan, Evyatar Tulipman, Steven A. Kivelson, Jörg Schmalian, and Erez Berg\nHere, the authors show that quantum-fluctuating superconducting puddles embedded in a metallic matrix act as dynamical impurities whose inelastic Andreev processes generate strange-metal transport over an extended regime of microscopic parameters. The resulting marginal Fermi liquid window is parametrically wide and continues down to exponentially small temperatures set by a charge-Kondo scale, producing T-linear resistivity and Tln(1/T) corrections to specific heat and thermopower. This mechanism is of relevance to disordered unconventional superconductors with a short coherence length, including cuprate high-Tc materials.\n\n[Phys. Rev. B 113, 075124] Published Thu Feb 12, 2026",
-          "link": "http://link.aps.org/doi/10.1103/m23x-96cr",
-          "publishedOn": "2026-02-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Extended strange metal regime from superconducting puddles",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/67c2-yzjw",
-          "author": "Marios Zacharias, George Volonakis, Laurent Pedesseau, Claudine Katan, Feliciano Giustino, and Jacky Even",
-          "description": "Author(s): Marios Zacharias, George Volonakis, Laurent Pedesseau, Claudine Katan, Feliciano Giustino, and Jacky Even\nHere, the authors establish a first-principles framework for finite-temperature electronic structure calculations in halide perovskites that unifies anharmonic phonons, configurational entropy associated with positional polymorphism, and electron-phonon coupling. By enabling systematic high-throughput calculations of anharmonic phonons in hybrid perovskites, the work shows that polymorphism strongly modifies electron-phonon interactions, band gaps, and effective masses and cannot be neglected. The results yield unprecedented agreement with experiment, redefining realistic modeling of these soft, strongly anharmonic materials and extending naturally to related systems.\n\n[Phys. Rev. B 113, 085118] Published Thu Feb 12, 2026",
-          "link": "http://link.aps.org/doi/10.1103/67c2-yzjw",
-          "publishedOn": "2026-02-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Roadmap for electronic structure, anharmonicity, and electron-phonon calculations in locally disordered inorganic and hybrid halide perovskites",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/hzm9-bnwl",
-          "author": "Leonardo A. Navarro-Labastida, Pierre A. Pantaleón, Francisco Guinea, and Gerardo G. Naumis",
-          "description": "Author(s): Leonardo A. Navarro-Labastida, Pierre A. Pantaleón, Francisco Guinea, and Gerardo G. Naumis\nTwisted bilayer graphene hosts multiple topological phase transitions between magic angles, driven by hybridization between flat and remote bands. By tracking the evolution of charge distribution, Chern number, quantum metric, and orbital magnetic energy as a function of twist angle, the authors uncover here previously unreported phases with Chern number C=±2. These results reveal how band inversions at high-symmetry points control topology in moiré materials.\n\n[Phys. Rev. B 113, 085124] Published Thu Feb 12, 2026",
-          "link": "http://link.aps.org/doi/10.1103/hzm9-bnwl",
-          "publishedOn": "2026-02-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Topological phase diagram of twisted bilayer graphene as a function of the twist angle",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3g6s-qm12",
-          "author": "P. Brand, D. Bonaventura, H. Eick, R. Gebel, F. Goldenbaum, V. Hejny, J. Hetzel, V. Kamerdzhiev, C. Mannweiler, D. Prasuhn, J. Ritman, N. Shurkhno, R. Stassen, H. Stockhorst, S. Vestrick, M. Weide, and A. Khoukaz (<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mover accent=\"true\"><mi mathvariant=\"normal\">P</mi><mo stretchy=\"false\">¯</mo></mover><mi>ANDA</mi></math> Collaboration)",
-          "description": "Author(s): P. Brand, D. Bonaventura, H. Eick, R. Gebel, F. Goldenbaum, V. Hejny, J. Hetzel, V. Kamerdzhiev, C. Mannweiler, D. Prasuhn, J. Ritman, N. Shurkhno, R. Stassen, H. Stockhorst, S. Vestrick, M. Weide, and A. Khoukaz (P¯ANDA Collaboration)\nThe PANDA experiment at the High Energy Storage Ring (HESR) of the Facility for Antiproton and Ion Research (FAIR) in Darmstadt, Germany, will be a unique setup to study the strong interaction in antiproton-proton collisions. The combination of a windowless cluster-jet target and a high intensity antiproton beam, that is cooled by a stochastic cooling is ideal to study, e.g., the line shape of exotic candidates. For first studies, both were installed at the COoler SYnchrotron (COSY) at the Forschungszentrum Jülich, Germany. Detailed studies on the beam quality for different target settings were performed and will be presented.\n\n[Phys. Rev. Accel. Beams 29, 023001] Published Thu Feb 12, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3g6s-qm12",
-          "publishedOn": "2026-02-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Operation of the $\\overline{\\mathrm{P}}\\mathrm{ANDA}$ cluster-jet target with the HESR stochastic cooling at COSY",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/czf3-74sf",
-          "author": "Nikita Leppenen and Alexander N. Poddubny",
-          "description": "Author(s): Nikita Leppenen and Alexander N. Poddubny\nThe authors explore a strongly driven disordered ensemble of emitters coupled to a single photonic mode. They find that long-lived subradiant correlations persist even in the presence of inhomogeneous broadening, which generally destroys correlations.\n\n[Phys. Rev. A 113, 023709] Published Thu Feb 12, 2026",
-          "link": "http://link.aps.org/doi/10.1103/czf3-74sf",
-          "publishedOn": "2026-02-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Persistent subradiant correlations in a disordered ensemble of collectively driven quantum emitters",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/k45s-g74h",
-          "author": "Holger Grosshans, Gizem Ozler, Vyshnavi Veeravalli, and Simon Jantač",
-          "description": "Author(s): Holger Grosshans, Gizem Ozler, Vyshnavi Veeravalli, and Simon Jantač\nA model that predicts charging for different types of small particle collisions enables realistic simulations of electrostatic effects.\n\n[Phys. Rev. X 16, 011023] Published Wed Feb 11, 2026",
-          "link": "http://link.aps.org/doi/10.1103/k45s-g74h",
-          "publishedOn": "2026-02-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Unifying Same- and Different-Material Particle Charging through Stochastic Scaling",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/x2pf-n27q",
-          "author": "Michio Tateno and Omar A. Saleh",
-          "description": "Author(s): Michio Tateno and Omar A. Saleh\nAn experimental model system of DNA nanoparticles shows that the droplet size distribution can be controlled by the droplets’ phase separation ability.\n\n[Phys. Rev. Lett. 136, 068403] Published Wed Feb 11, 2026",
-          "link": "http://link.aps.org/doi/10.1103/x2pf-n27q",
-          "publishedOn": "2026-02-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Diffusive and Enzymatic Modulation of the Dynamic Size Distribution of DNA Droplets",
           "imageUrl": null
         }
       ]
