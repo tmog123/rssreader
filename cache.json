@@ -6,6 +6,16 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/pc8w-hz4t",
+          "author": "Van Dong Pham, Boyang Zheng, Arpit Jain, Chengye Dong, Li-Syuan Lu, Zachary W. Henshaw, William H. Blades, Joshua A. Robinson, Vincent H. Crespi, Achim Trampert, and Roman Engel-Herbert",
+          "description": "Author(s): Van Dong Pham, Boyang Zheng, Arpit Jain, Chengye Dong, Li-Syuan Lu, Zachary W. Henshaw, William H. Blades, Joshua A. Robinson, Vincent H. Crespi, Achim Trampert, and Roman Engel-Herbert\nWhen confined between graphene and the SiC substrate, metals do not always form an ideal epitaxial layer. Cryogenic scanning tunneling microscopy combined with density functional theory reveals how such non-ideal confinement governs the structural and electronic properties of monolayer silver. Instead of forming a uniform layer, competing interactions between silver-SiC bonding and silver-silver interatomic force cause silver to reconstruct, forming a one-dimensional Frenkel-Kontorova domain to partially relieve tensile strain. The reconstruction strongly modulates the electronic density of states and induces a state at ~0.75 eV above the Fermi level, highlighting the key role of substrate-mediated effects at confined interfaces.\n\n[Phys. Rev. Materials 10, 034003] Published Fri Mar 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/pc8w-hz4t",
+          "publishedOn": "2026-03-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Strain-induced reconstruction in two-dimensional silver intercalated between graphene and SiC",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/mmpn-gl8z",
           "author": "Xue-Yan Wang, Cheng-Xue Chen, Zi-Ming Mai, Qiang Zhao, Wen-Long Yang, Fang-Hui Zhu, Mei-Ling Yan, Rui-Fen Dou, Chang-Min Xiong, Haiwen Liu, and Jia-Cai Nie",
           "description": "Author(s): Xue-Yan Wang, Cheng-Xue Chen, Zi-Ming Mai, Qiang Zhao, Wen-Long Yang, Fang-Hui Zhu, Mei-Ling Yan, Rui-Fen Dou, Chang-Min Xiong, Haiwen Liu, and Jia-Cai Nie\nHigh-field magnetotransport measurements of a nickelate superconductor up to 44 T reveal an anisotropic quantum Griffiths singularity, establishing disorder-enhanced quantum fluctuations as an intrinsic mechanism for protecting superconductivity.\n\n[Phys. Rev. Lett. 136, 106002] Published Fri Mar 13, 2026",
@@ -33,6 +43,16 @@
           "publishedOn": "2026-03-13T10:00:00.000Z",
           "wordCount": null,
           "title": "Self-propulsion of floating ice blocks caused by melting in water",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/hsph-48k8",
+          "author": "Ming Li, Youjin Deng, Jesper Lykke Jacobsen, and Jesús Salas",
+          "description": "Author(s): Ming Li, Youjin Deng, Jesper Lykke Jacobsen, and Jesús Salas\nBy high-precision Monte Carlo cluster simulations, the authors obtained the backbone three-point structure constant for the two-dimensional Q-state Potts model. The results are consequential for critical phenomena, percolation, and conformal field theory.\n#AdvancingField #WellStructured\n\n[Phys. Rev. E 113, 034115] Published Fri Mar 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/hsph-48k8",
+          "publishedOn": "2026-03-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Backbone three-point correlation function in the two-dimensional Potts model",
           "imageUrl": null
         },
         {
@@ -983,26 +1003,6 @@
           "publishedOn": "2026-02-20T10:00:00.000Z",
           "wordCount": null,
           "title": "Runaway electrons during a coil quench in stellarators",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/tv12-d5vs",
-          "author": "Sandra Glotzer, Jeong Rae Kim, and Joseph Falson",
-          "description": "Author(s): Sandra Glotzer, Jeong Rae Kim, and Joseph Falson\nRefractory metal compounds are difficult to synthesize due to the extreme thermodynamic windows required, and therefore deconvoluting intrinsic properties from extrinsic effects can be challenging. This work dives into the synthesis and electronic properties of thin films of the refractory metal oxide NbO utilizing ultrahigh growth temperatures. The highlight is the ability to access a “thermally activated epitaxy” growth regime at very high temperatures (T > 1000 °C), which enables reproducible synthesis across a wide range of oxygen partial pressures. Using samples grown in this regime, the authors propose the prototypical electrical properties of NbO, for which a consensus has not yet been made in the literature.\n\n[Phys. Rev. Materials 10, 023402] Published Thu Feb 19, 2026",
-          "link": "http://link.aps.org/doi/10.1103/tv12-d5vs",
-          "publishedOn": "2026-02-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Thermally activated epitaxy of NbO",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/b2s6-b5c1",
-          "author": "Wladimir Zholobenko, Frank Jenko, Kaiyu Zhang, Philipp Ulbl, Konrad Eder, Andreas Stegmeir, Clemente Angioni, and Peter Manz",
-          "description": "Author(s): Wladimir Zholobenko, Frank Jenko, Kaiyu Zhang, Philipp Ulbl, Konrad Eder, Andreas Stegmeir, Clemente Angioni, and Peter Manz\nA global, confinement-time-long, flux-driven turbulence simulation of the tokamak plasma edge region subject to a power ramp reproduces an abrupt turbulence transition.\n\n[Phys. Rev. Lett. 136, 075101] Published Thu Feb 19, 2026",
-          "link": "http://link.aps.org/doi/10.1103/b2s6-b5c1",
-          "publishedOn": "2026-02-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fast Turbulence Phase Transition in a Flux-Driven Global Edge-SOL Simulation of a Tokamak Plasma",
           "imageUrl": null
         }
       ]

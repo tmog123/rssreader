@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-14T01:28:04.440Z</id>
+    <id>urn:2026-03-15T01:54:43.238Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T01:28:04.440Z</updated>
+    <updated>2026-03-15T01:54:43.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Strain-induced reconstruction in two-dimensional silver intercalated between graphene and SiC]]></title>
+        <id>http://link.aps.org/doi/10.1103/pc8w-hz4t</id>
+        <link href="http://link.aps.org/doi/10.1103/pc8w-hz4t"/>
+        <updated>2026-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Van Dong Pham, Boyang Zheng, Arpit Jain, Chengye Dong, Li-Syuan Lu, Zachary W. Henshaw, William H. Blades, Joshua A. Robinson, Vincent H. Crespi, Achim Trampert, and Roman Engel-Herbert
+When confined between graphene and the SiC substrate, metals do not always form an ideal epitaxial layer. Cryogenic scanning tunneling microscopy combined with density functional theory reveals how such non-ideal confinement governs the structural and electronic properties of monolayer silver. Instead of forming a uniform layer, competing interactions between silver-SiC bonding and silver-silver interatomic force cause silver to reconstruct, forming a one-dimensional Frenkel-Kontorova domain to partially relieve tensile strain. The reconstruction strongly modulates the electronic density of states and induces a state at ~0.75 eV above the Fermi level, highlighting the key role of substrate-mediated effects at confined interfaces.
+
+[Phys. Rev. Materials 10, 034003] Published Fri Mar 13, 2026]]></summary>
+        <author>
+            <name>Van Dong Pham, Boyang Zheng, Arpit Jain, Chengye Dong, Li-Syuan Lu, Zachary W. Henshaw, William H. Blades, Joshua A. Robinson, Vincent H. Crespi, Achim Trampert, and Roman Engel-Herbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anisotropic Upper Critical Field beyond the Pauli Limit in a Nickelate Superconductor: Evidence for a Quantum Fluctuation Driven State]]></title>
         <id>http://link.aps.org/doi/10.1103/mmpn-gl8z</id>
@@ -42,6 +55,20 @@ We demonstrate that asymmetric ice blocks floating in water can self‑propel wh
 [Phys. Rev. Fluids 11, 033802] Published Fri Mar 13, 2026]]></summary>
         <author>
             <name>Michael Berhanu, Amit Dawadi, Martin Chaigne, Jérôme Jovet, and Arshad Kudrolli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backbone three-point correlation function in the two-dimensional Potts model]]></title>
+        <id>http://link.aps.org/doi/10.1103/hsph-48k8</id>
+        <link href="http://link.aps.org/doi/10.1103/hsph-48k8"/>
+        <updated>2026-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Ming Li, Youjin Deng, Jesper Lykke Jacobsen, and Jesús Salas
+By high-precision Monte Carlo cluster simulations, the authors obtained the backbone three-point structure constant for the two-dimensional Q-state Potts model. The results are consequential for critical phenomena, percolation, and conformal field theory.
+#AdvancingField #WellStructured
+
+[Phys. Rev. E 113, 034115] Published Fri Mar 13, 2026]]></summary>
+        <author>
+            <name>Ming Li, Youjin Deng, Jesper Lykke Jacobsen, and Jesús Salas</name>
         </author>
     </entry>
     <entry>
@@ -1280,32 +1307,6 @@ The stellarator concept for future fusion reactors has a key advantage over the 
 [Phys. Rev. Applied 25, 024065] Published Fri Feb 20, 2026]]></summary>
         <author>
             <name>Pavel Aleynikov, Per Helander, and Håkan M. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermally activated epitaxy of NbO]]></title>
-        <id>http://link.aps.org/doi/10.1103/tv12-d5vs</id>
-        <link href="http://link.aps.org/doi/10.1103/tv12-d5vs"/>
-        <updated>2026-02-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Sandra Glotzer, Jeong Rae Kim, and Joseph Falson
-Refractory metal compounds are difficult to synthesize due to the extreme thermodynamic windows required, and therefore deconvoluting intrinsic properties from extrinsic effects can be challenging. This work dives into the synthesis and electronic properties of thin films of the refractory metal oxide NbO utilizing ultrahigh growth temperatures. The highlight is the ability to access a “thermally activated epitaxy” growth regime at very high temperatures (T > 1000 °C), which enables reproducible synthesis across a wide range of oxygen partial pressures. Using samples grown in this regime, the authors propose the prototypical electrical properties of NbO, for which a consensus has not yet been made in the literature.
-
-[Phys. Rev. Materials 10, 023402] Published Thu Feb 19, 2026]]></summary>
-        <author>
-            <name>Sandra Glotzer, Jeong Rae Kim, and Joseph Falson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Turbulence Phase Transition in a Flux-Driven Global Edge-SOL Simulation of a Tokamak Plasma]]></title>
-        <id>http://link.aps.org/doi/10.1103/b2s6-b5c1</id>
-        <link href="http://link.aps.org/doi/10.1103/b2s6-b5c1"/>
-        <updated>2026-02-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wladimir Zholobenko, Frank Jenko, Kaiyu Zhang, Philipp Ulbl, Konrad Eder, Andreas Stegmeir, Clemente Angioni, and Peter Manz
-A global, confinement-time-long, flux-driven turbulence simulation of the tokamak plasma edge region subject to a power ramp reproduces an abrupt turbulence transition.
-
-[Phys. Rev. Lett. 136, 075101] Published Thu Feb 19, 2026]]></summary>
-        <author>
-            <name>Wladimir Zholobenko, Frank Jenko, Kaiyu Zhang, Philipp Ulbl, Konrad Eder, Andreas Stegmeir, Clemente Angioni, and Peter Manz</name>
         </author>
     </entry>
 </feed>
