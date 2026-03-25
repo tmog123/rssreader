@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T01:41:53.851Z</id>
+    <id>urn:2026-03-25T01:47:21.367Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T01:41:53.851Z</updated>
+    <updated>2026-03-25T01:47:21.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -19,6 +19,32 @@ Anyons, collective excitations of fractional quantum Hall systems, are shown to 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Charge correlations and magnetoelastic coupling in intercalated transition metal dichalcogenides]]></title>
+        <id>http://link.aps.org/doi/10.1103/gyfq-2c26</id>
+        <link href="http://link.aps.org/doi/10.1103/gyfq-2c26"/>
+        <updated>2026-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): A. Kar et al.
+Intercalating magnetic atoms into layered transition metal dichalcogenides provides a powerful route to engineer intertwined electronic and magnetic states. Using angle-resolved photoemission, X-ray scattering, magnetometry, and first-principles calculations, we uncover the origin of charge correlations in Fe- and Co-intercalated TaS₂ and NbS₂. While Ta-based compounds exhibit only short-range charge fluctuations, Fe₀.₃₅NbS₂ develops long-range charge order concomitant with antiferromagnetism and enhanced by magnetic field. By ruling out Fermi-surface nesting and conventional electron–phonon coupling, we show that this charge order is stabilized by strong magnetoelastic coupling, establishing magnetic intercalation as a route to tune spin-lattice-charge entanglement in van der Waals materials.
+
+[Phys. Rev. Materials 10, 034006] Published Mon Mar 23, 2026]]></summary>
+        <author>
+            <name>A. Kar &lt;em&gt;et al.&lt;/em&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenging Spontaneous Quantum Collapse with the XENONnT Dark Matter Detector]]></title>
+        <id>http://link.aps.org/doi/10.1103/2jm3-4976</id>
+        <link href="http://link.aps.org/doi/10.1103/2jm3-4976"/>
+        <updated>2026-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): E. Aprile et al. (XENON Collaboration)
+The XENONnT detector searches for x rays from dynamical quantum collapse models, improving previous constraints by two orders of magnitude
+
+[Phys. Rev. Lett. 136, 120201] Published Mon Mar 23, 2026]]></summary>
+        <author>
+            <name>E. Aprile &lt;em&gt;et al.&lt;/em&gt; (XENON Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Entanglement Superactivation in Multiphoton Distillation Networks]]></title>
         <id>http://link.aps.org/doi/10.1103/zkd3-4gmx</id>
         <link href="http://link.aps.org/doi/10.1103/zkd3-4gmx"/>
@@ -32,12 +58,26 @@ Recycling biseparable states unlocks entanglement resources to show multipartite
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Precision Spectroscopy of 2S-nS Transitions in Atomic Hydrogen: A Determination of the Proton Charge Radius]]></title>
+        <id>http://link.aps.org/doi/10.1103/lgl2-6cb8</id>
+        <link href="http://link.aps.org/doi/10.1103/lgl2-6cb8"/>
+        <updated>2026-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): R. G. Bullis, W. L. Tavis, M. R. Weiss, J. Orellana Cisneros, A. J. Cheeseman, U. D. Jentschura, and D. C. Yost
+Spectroscopy of atomic hydrogen produces a new high-precision value for the Rydberg constant and the proton charge radius.
+
+[Phys. Rev. Lett. 136, 123001] Published Mon Mar 23, 2026]]></summary>
+        <author>
+            <name>R. G. Bullis, W. L. Tavis, M. R. Weiss, J. Orellana Cisneros, A. J. Cheeseman, U. D. Jentschura, and D. C. Yost</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Loss-Tolerant Detection of Squeezed States in the $2\text{ }\text{ }\mathrm{μ}\mathrm{m}$ Region]]></title>
         <id>http://link.aps.org/doi/10.1103/s61z-fcyp</id>
         <link href="http://link.aps.org/doi/10.1103/s61z-fcyp"/>
         <updated>2026-03-23T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author(s): K. M. Kwan, T. G. McRae, J. Qin, D. W. Gould, S. S. Y. Chua, J. Junker, R. Iden, V. B. Adya, M. J. Yap, B. J. J. Slagmolen, D. E. McClelland, and R. L. Ward
-Squeezed states of light enable quantum-enhanced measurements but are limited by optical loss, particularly at $2\text{ }\text{ }\mathrm{μ}\mathrm{m}$ where photodiode efficiency is low. We report the first loss-tolerant, audio-band squeezed light detection at 1984 nm by using a phase-sensitive ampl…
+Loss-tolerant detection of squeezed light at 2 µm is accomplished by preamplifying the squeezed quadrature before the detection, mitigating the low detection rate, and increasing observed squeezing from 4 dB to 8 dB.
+
 [Phys. Rev. Lett. 136, 123601] Published Mon Mar 23, 2026]]></summary>
         <author>
             <name>K. M. Kwan, T. G. McRae, J. Qin, D. W. Gould, S. S. Y. Chua, J. Junker, R. Iden, V. B. Adya, M. J. Yap, B. J. J. Slagmolen, D. E. McClelland, and R. L. Ward</name>
@@ -1267,45 +1307,6 @@ A new layered material enabled researchers to document a dramatic change in meta
 [Phys. Rev. Lett. 136, 096401] Published Tue Mar 03, 2026]]></summary>
         <author>
             <name>Morgan Thinel, Taketo Handa, Christie S. Koay, Daniel G. Chica, Nicholas Olsen, Apoorv Jindal, JeongHeon Choe, Xavier Roy, Xiaoyang Zhu, and Abhay N. Pasupathy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gauge theory and mixed state criticality]]></title>
-        <id>http://link.aps.org/doi/10.1103/42dq-5xlf</id>
-        <link href="http://link.aps.org/doi/10.1103/42dq-5xlf"/>
-        <updated>2026-03-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Takamasa Ando, Shinsei Ryu, and Masataka Watanabe
-The authors develop here a systematic framework for constructing spontaneous symmetry-breaking (SSB) phases of strong symmetries, a concept specific to mixed quantum states. Starting from the ground-state phase diagram of lattice gauge theory models, the approach yields various mixed-state topological phases and explicit models for the critical points between them, including cases with gapless symmetry-protected topological order. They further clarify that lattice gauge theory ground states can be viewed as purifications of the corresponding mixed SSB states.
-
-[Phys. Rev. B 113, 115106] Published Tue Mar 03, 2026]]></summary>
-        <author>
-            <name>Takamasa Ando, Shinsei Ryu, and Masataka Watanabe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topological edge states in curved zigzag superlattices in nonlinear semiconductor microcavity exciton polaritons]]></title>
-        <id>http://link.aps.org/doi/10.1103/rhs6-7mmk</id>
-        <link href="http://link.aps.org/doi/10.1103/rhs6-7mmk"/>
-        <updated>2026-03-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Jing Wang, Tobias Schneider, Wei Hu, Stefan Schumacher, and Xuekai Ma
-Topological edge states are highly sought-after in zigzag chains. Here, the authors introduce a zigzag superlattice composed of two sublattices that supports multiple topological edge states. In this configuration, intercell and intracell couplings are imbalanced through eigenstate tunneling or the deformation of higher-order modes. Arranging the superlattices into an arc structure encourages specific bulk states to become more localized at the edge. A similar state transformation can be achieved via repulsive nonlinearity, which also facilitates the coexistence of distinct edge states.
-
-[Phys. Rev. B 113, 115302] Published Tue Mar 03, 2026]]></summary>
-        <author>
-            <name>Jing Wang, Tobias Schneider, Wei Hu, Stefan Schumacher, and Xuekai Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid between biologically and quantum-inspired many-body states]]></title>
-        <id>http://link.aps.org/doi/10.1103/b2kz-15c5</id>
-        <link href="http://link.aps.org/doi/10.1103/b2kz-15c5"/>
-        <updated>2026-03-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Miha Srdinšek and Xavier Waintal
-Deep neural networks can fit a vast variety of data but they have limited mathematical structure. A typical large language model offers only the evaluation of the function, its gradient (automatic differentiation), and the ability to sample (autoregressive). Tensor networks offer much more—calculation of sums, scalar products, application of various operators—but are less expressive. Here, the authors take a step toward merging the two approaches to construct a variational ansatz that inherits some of both networks’ properties.
-
-[Phys. Rev. B 113, 125107] Published Tue Mar 03, 2026]]></summary>
-        <author>
-            <name>Miha Srdinšek and Xavier Waintal</name>
         </author>
     </entry>
 </feed>
