@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/nfrg-zsts",
+          "author": "Daniel Riedel, Teodoro Graziosi, Zhuoxian Wang, Chawina De-Eknamkul, Alex Abulnaga, Jonathan Dietz, Andrea Mucchietto, Michael Haas, Madison Sutula, Pierre Barral, Matteo Pompili, Mouktik Raha, Carsten Robens, Jeonghoon Ha, Denis Sukachev, David Levonian, Mihir Bhaskar, Matthew Markham, and Bartholomeus Machielse",
+          "description": "Author(s): Daniel Riedel, Teodoro Graziosi, Zhuoxian Wang, Chawina De-Eknamkul, Alex Abulnaga, Jonathan Dietz, Andrea Mucchietto, Michael Haas, Madison Sutula, Pierre Barral, Matteo Pompili, Mouktik Raha, Carsten Robens, Jeonghoon Ha, Denis Sukachev, David Levonian, Mihir Bhaskar, Matthew Markham, and Bartholomeus Machielse\nA wafer-scale platform integrating high-quality diamond membranes with functionalized silicon substrates enables the parallel fabrication of quantum memory arrays with near-unity yield, paving the way for the mass production of modular quantum interconnects.\n\n[Phys. Rev. X 16, 011063] Published Tue Mar 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/nfrg-zsts",
+          "publishedOn": "2026-03-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Scalable Photonic Quantum Interconnect Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/z2hd-w9sy",
+          "author": "Mariska Hoogkamer, Nathan Rutherford, Daniela Huppenkothen, Benjamin Ricketts, Anna L. Watts, Melissa Mendes, Isak Svensson, Achim Schwenk, Michael Kramer, Kai Hebeler, Tuomo Salmi, and Devarshi Choudhury",
+          "description": "Author(s): Mariska Hoogkamer, Nathan Rutherford, Daniela Huppenkothen, Benjamin Ricketts, Anna L. Watts, Melissa Mendes, Isak Svensson, Achim Schwenk, Michael Kramer, Kai Hebeler, Tuomo Salmi, and Devarshi Choudhury\nNICER observations of x-ray pulsars can put constraints on the mass and radius of neutron stars which constrain the nuclear equation of state. However, modeling the pulse profile as a function of mass and radius is a computationally expensive affair. The authors here demonstrate a modified Bayesian analysis technique which brings down computational costs by using nuclear equation-of-state models.\n\n[Phys. Rev. D 113, 063049] Published Tue Mar 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/z2hd-w9sy",
+          "publishedOn": "2026-03-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Equation-of-state-informed pulse profile modeling",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/gqdy-dvps",
+          "author": "Chenyi Gu, Matthias Heinz, Oriel Kiss, and Thomas Papenbrock",
+          "description": "Author(s): Chenyi Gu, Matthias Heinz, Oriel Kiss, and Thomas Papenbrock\nQuantum computers offer new ways to solve the nuclear many-body problem, but realistic applications remain out of reach. Computations on a position-space lattice are promising as they exploit the short-range nature of nuclear forces. Using a local effective field theory Hamiltonian with two- and three-nucleon forces, this paper analyzes the resources required to compute ground states using adaptive variational algorithms. Demonstrations for the deuteron and helium-3 illustrate how such approaches may scale toward future quantum computations of nuclei.\n\n[Phys. Rev. C 113, 034321] Published Tue Mar 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/gqdy-dvps",
+          "publishedOn": "2026-03-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Toward scalable quantum computations of atomic nuclei",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/5nf2-tjb9",
+          "author": "Takaaki Takenaka, Takayuki Kubo, Imran Mahboob, Kosuke Mizuno, Hitoshi Inoue, Takayuki Saeki, and Shiro Saito",
+          "description": "Author(s): Takaaki Takenaka, Takayuki Kubo, Imran Mahboob, Kosuke Mizuno, Hitoshi Inoue, Takayuki Saeki, and Shiro Saito\nHigh-coherence superconducting quantum technologies demand as little microwave loss as possible, and niobium-based devices are often limited by dissipation associated with surface oxides. Inspired by processing developed for accelerator cavities, the authors employ a strategy to reduce oxide-related loss in a three-dimensional niobium cavity, achieving ultralow dissipation in the single-photon regime at millikelvin temperatures. This improved performance is largely preserved across multiple cooldown cycles, and after hours of air exposure. These results highlight oxide engineering as a practical route to longer-lived niobium-based qubits and resonators.\n\n[Phys. Rev. Applied 25, 034076] Published Tue Mar 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/5nf2-tjb9",
+          "publishedOn": "2026-03-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Three-dimensional niobium coaxial cavity with 0.1-second lifetime",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/fwjg-mx9h",
           "author": "Noah L. Samuelson, Liam A. Cohen, Will Wang, Simon Blanch, Takashi Taniguchi, Kenji Watanabe, Michael P. Zaletel, and Andrea F. Young",
           "description": "Author(s): Noah L. Samuelson, Liam A. Cohen, Will Wang, Simon Blanch, Takashi Taniguchi, Kenji Watanabe, Michael P. Zaletel, and Andrea F. Young\nAnyons, collective excitations of fractional quantum Hall systems, are shown to exhibit unprecedented stability in graphene heterostructures, enabling their practical manipulation for use in fault-tolerant quantum computing.\n\n[Phys. Rev. X 16, 011062] Published Mon Mar 23, 2026",
@@ -963,46 +1003,6 @@
           "publishedOn": "2026-03-04T10:00:00.000Z",
           "wordCount": null,
           "title": "Quantum Oscillations of Nonlinear Electrical Transport in a Topological Dirac Semimetal",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/mvn9-nj5n",
-          "author": "Alexandre Bertin, Hengdi Zhao, Gang Cao, Andrea Piovano, Paul Steffens, Alexandre Ivanov, and Markus Braden",
-          "description": "Author(s): Alexandre Bertin, Hengdi Zhao, Gang Cao, Andrea Piovano, Paul Steffens, Alexandre Ivanov, and Markus Braden\nNa2IrO3 is one of the most studied Kitaev materials, but the microscopic interactions remain controversial leaving the imminent question open, whether Na2IrO3 shows or approaches a quantum spin liquid phase. The authors overcome here the challenges to perform neutron scattering experiments on highly absorbing Na2IrO3 by aligning a large number of thin crystals. These experiments reveal a small gap in the magnetic excitations similar to the sister compound α-RuCl3. However, Na2IrO3 does not exhibit low-energy ferromagnetic excitations reflecting nearest-neighbor Kitaev and Heisenberg interaction terms with opposite signs.\n\n[Phys. Rev. B 113, 094407] Published Wed Mar 04, 2026",
-          "link": "http://link.aps.org/doi/10.1103/mvn9-nj5n",
-          "publishedOn": "2026-03-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Magnetic excitations in the Kitaev material ${\\mathrm{Na}}_{2}{\\mathrm{IrO}}_{3}$ studied by neutron scattering",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/8nz6-xgg5",
-          "author": "Jorge Navarro-Giraldo, Vinicius T. Santana, Oleksii Laguta, Dominik Bloos, Anastasia Bauernfeind, Marc Scheffler, Valentyn Laguta, D. Kurt Gaskill, and Petr Neugebauer",
-          "description": "Author(s): Jorge Navarro-Giraldo, Vinicius T. Santana, Oleksii Laguta, Dominik Bloos, Anastasia Bauernfeind, Marc Scheffler, Valentyn Laguta, D. Kurt Gaskill, and Petr Neugebauer\nWeak localization and antilocalization are characteristic signatures of coherent electronic transport in 2D systems. Here, employing contactless microwave magnetoconductivity experiments with frequencies much larger than the electron decoherence rate, the authors report transitions between weak localization and weak antilocalization in graphene induced by the microwave frequency. These transitions fall outside the predictions of established models, suggesting the existence of novel mechanisms affecting electron coherence at high microwave frequencies.\n\n[Phys. Rev. B 113, 125408] Published Wed Mar 04, 2026",
-          "link": "http://link.aps.org/doi/10.1103/8nz6-xgg5",
-          "publishedOn": "2026-03-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Microwave-induced transitions between weak localization and weak antilocalization in graphene",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/l913-4x5y",
-          "author": "Gerhard H. Fecher, Shogo Yamashita, Esita Pandey, Atsufumi Hirohata, and Claudia Felser",
-          "description": "Author(s): Gerhard H. Fecher, Shogo Yamashita, Esita Pandey, Atsufumi Hirohata, and Claudia Felser\nIn the middle of the last century, Nèel predicted the existence of a special type of ferrimagnet with vanishing magnetization: the L-type ferrimagnet. This fully compensated ferrimagnet differs from antiferromagnets in that its magnetic sublattices have different spin densities. Ab initio calculations reveal that certain Heusler alloys exhibit Nèel’s compensated ferrimagnetism in addition to half-metallic behavior. This means they possess a fully spin-polarized electronic structure, favorable for spintronics. Spin dynamics calculations demonstrate how to stabilize the vanishing magnetization at higher temperatures by altering the stoichiometry of the alloys.\n\n[Phys. Rev. Materials 10, 034403] Published Tue Mar 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/l913-4x5y",
-          "publishedOn": "2026-03-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Compensated ferrimagnetic Heusler alloys: A search for the forgotten Neel's $L$-type ferrimagnet",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/pyby-dlzq",
-          "author": "Morgan Thinel, Taketo Handa, Christie S. Koay, Daniel G. Chica, Nicholas Olsen, Apoorv Jindal, JeongHeon Choe, Xavier Roy, Xiaoyang Zhu, and Abhay N. Pasupathy",
-          "description": "Author(s): Morgan Thinel, Taketo Handa, Christie S. Koay, Daniel G. Chica, Nicholas Olsen, Apoorv Jindal, JeongHeon Choe, Xavier Roy, Xiaoyang Zhu, and Abhay N. Pasupathy\nA new layered material enabled researchers to document a dramatic change in metallic electron behavior as the material goes from 3D to 2D.\n\n[Phys. Rev. Lett. 136, 096401] Published Tue Mar 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/pyby-dlzq",
-          "publishedOn": "2026-03-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Anderson Localization in a Two-Dimensional Metal",
           "imageUrl": null
         }
       ]
