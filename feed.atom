@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-26T01:53:21.901Z</id>
+    <id>urn:2026-03-27T01:53:58.943Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T01:53:21.901Z</updated>
+    <updated>2026-03-27T01:53:58.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Orbital-Dependent Coulomb Drag in Electron-Hole Bilayer Graphene Heterostructures]]></title>
+        <id>http://link.aps.org/doi/10.1103/4v1f-lkh2</id>
+        <link href="http://link.aps.org/doi/10.1103/4v1f-lkh2"/>
+        <updated>2026-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Zuocheng Zhang, Ruishi Qi, Jingxu Xie, Qize Li, Takashi Taniguchi, Kenji Watanabe, Michael F. Crommie, and Feng Wang
+Strong Coulomb drag is observed between Landau levels with nonzero orbital quantum numbers in a graphene heterostructure device consisting of an electron bilayer adjacent to a hole bilayer.
+
+[Phys. Rev. Lett. 136, 126303] Published Wed Mar 25, 2026]]></summary>
+        <author>
+            <name>Zuocheng Zhang, Ruishi Qi, Jingxu Xie, Qize Li, Takashi Taniguchi, Kenji Watanabe, Michael F. Crommie, and Feng Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synergistic Motifs in Gaussian Systems]]></title>
+        <id>http://link.aps.org/doi/10.1103/179y-qp6j</id>
+        <link href="http://link.aps.org/doi/10.1103/179y-qp6j"/>
+        <updated>2026-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Enrico Caprioglio, Pedro A. M. Mediano, and Luc Berthouze
+Using an information theoretic measure of synergy, pairwise interactions alone is shown to give rise to synergistic information, with applications to Ising, oscillatory, and empirical networks.
+
+[Phys. Rev. Lett. 136, 127401] Published Wed Mar 25, 2026]]></summary>
+        <author>
+            <name>Enrico Caprioglio, Pedro A. M. Mediano, and Luc Berthouze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirality tomography: Measuring local helicity from trajectory linking]]></title>
+        <id>http://link.aps.org/doi/10.1103/8z43-zzny</id>
+        <link href="http://link.aps.org/doi/10.1103/8z43-zzny"/>
+        <updated>2026-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. Noseda, B. L. Español, P. D. Mininni, and P. J. Cobelli
+Helicity, the volume integral of the velocity-vorticity scalar product, is a key dynamical invariant encoding flow topology; however, measuring it in turbulence is a significant challenge due to the requirement for high-resolution velocity gradients. We introduce chirality tomography, a Lagrangian method that reconstructs three-dimensional helicity maps from the entanglement of particle trajectories. By establishing a robust proxy between trajectory linking and local helicity, we provide the first spatially resolved maps of chiral structures in fully developed turbulence. The approach bridges trajectory-level topology with fundamental physics, with a practical diagnostic for complex flows.
+
+[Phys. Rev. Fluids 11, 034609] Published Wed Mar 25, 2026]]></summary>
+        <author>
+            <name>M. Noseda, B. L. Español, P. D. Mininni, and P. J. Cobelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precise predictions for joint polarization fractions in $WZ$ production at the LHC]]></title>
+        <id>http://link.aps.org/doi/10.1103/m4j4-t34q</id>
+        <link href="http://link.aps.org/doi/10.1103/m4j4-t34q"/>
+        <updated>2026-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Giovanni Pelliccioli and Rene Poncelet
+Multi-electroweak boson production at the Large Hadron Collider is directly sensitive to the non-Abelian nature of the electroweak force, and new physics may modify the triple gauge coupling from its Standard Model value. The authors achieve next-to-next-to-leading order QCD and next-to-leading order electroweak accuracy in predictions of cross sections for polarized WZ boson production with leptonic decay, pushing the precision boundary to experimentally-realizable processes.
+
+[Phys. Rev. D 113, 053008] Published Wed Mar 25, 2026]]></summary>
+        <author>
+            <name>Giovanni Pelliccioli and Rene Poncelet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable Photonic Quantum Interconnect Platform]]></title>
         <id>http://link.aps.org/doi/10.1103/nfrg-zsts</id>
@@ -1255,58 +1307,6 @@ The management of valley splittings is one of the main challenges for electron s
 [Phys. Rev. B 113, 115304] Published Thu Mar 05, 2026]]></summary>
         <author>
             <name>Tancredi Salamone, Biel Martinez Diaz, Jing Li, Lukas Cvitkovich, and Yann-Michel Niquet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interplay of Zeeman splitting and tunnel coupling in coherent spin-qubit shuttling]]></title>
-        <id>http://link.aps.org/doi/10.1103/3d1t-pr7m</id>
-        <link href="http://link.aps.org/doi/10.1103/3d1t-pr7m"/>
-        <updated>2026-03-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ssu-Chih Lin, Paul Steinacker, MengKe Feng, Ajit Dash, Santiago Serrano, Wee Han Lim, Kohei M. Itoh, Fay E. Hudson, Tuomo Tanttu, Andre Saraiva, Arne Laucht, Andrew S. Dzurak, Hsi-Sheng Goan, and Chih Hwan Yang
-Spin shuttling is a promising strategy for scaling silicon-based quantum processors by overcoming the connectivity constraints inherent in quantum dots. This study employs Pauli spin blockade to characterize spin-shuttling coherence at different external magnetic fields, facilitating a systematic investigation of the impact of various operational parameters, which can drive up to a twentyfold variation in error rates. Through targeted optimization, the authors achieve an average shuttling fidelity of 99.8%. Their findings provide critical insights for optimizing high-performance spin shuttling in future large-scale quantum processors.
-
-[Phys. Rev. Applied 25, 034016] Published Thu Mar 05, 2026]]></summary>
-        <author>
-            <name>Ssu-Chih Lin, Paul Steinacker, MengKe Feng, Ajit Dash, Santiago Serrano, Wee Han Lim, Kohei M. Itoh, Fay E. Hudson, Tuomo Tanttu, Andre Saraiva, Arne Laucht, Andrew S. Dzurak, Hsi-Sheng Goan, and Chih Hwan Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rotational splittings in diatomic molecules of interest to searches for new physics]]></title>
-        <id>http://link.aps.org/doi/10.1103/53x5-8mb1</id>
-        <link href="http://link.aps.org/doi/10.1103/53x5-8mb1"/>
-        <updated>2026-03-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ayaki Sunaga and Timo Fleig
-The authors present a theoretical model for calculating the rotational-coupling effects on diatomic open-shell systems based on the four-component multireference wave function. The calculated splittings could contribute to ongoing experimental efforts to measure the electric dipole moment of the electron, and to probe for nuclear charge-parity violation through the nuclear magnetic quadrupole moment.
-
-[Phys. Rev. A 113, 032809] Published Thu Mar 05, 2026]]></summary>
-        <author>
-            <name>Ayaki Sunaga and Timo Fleig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pressure-Induced 18 K Superconductivity and Two Superconducting Phases in ${\text{CuIr}}_{2}{\mathrm{S}}_{4}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/rpc8-zb4l</id>
-        <link href="http://link.aps.org/doi/10.1103/rpc8-zb4l"/>
-        <updated>2026-03-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Bijuan Chen, Yuhao Gu, Dong Wang, Dexi Shao, Wen Deng, Xin Han, Meiling Jin, Jing Song, Yu Zeng, Hirofumi Ishii, Yen-Fa Liao, Dongzhou Zhang, Jianbo Zhang, Youwen Long, Jinlong Zhu, Liuxiang Yang, Hong Xiao, Jia-cai Nie, Youguo Shi, Changqing Jin, Jiangping Hu, Ho-kwang Mao, and Yang Ding
-CuIr2S4 becomes a bulk superconductor with Tc of 18.2 K under pressure, a new record for spinels, and splits into two distinct superconducting phases that coexist over a broad window.
-
-[Phys. Rev. Lett. 136, 096505] Published Wed Mar 04, 2026]]></summary>
-        <author>
-            <name>Bijuan Chen, Yuhao Gu, Dong Wang, Dexi Shao, Wen Deng, Xin Han, Meiling Jin, Jing Song, Yu Zeng, Hirofumi Ishii, Yen-Fa Liao, Dongzhou Zhang, Jianbo Zhang, Youwen Long, Jinlong Zhu, Liuxiang Yang, Hong Xiao, Jia-cai Nie, Youguo Shi, Changqing Jin, Jiangping Hu, Ho-kwang Mao, and Yang Ding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Oscillations of Nonlinear Electrical Transport in a Topological Dirac Semimetal]]></title>
-        <id>http://link.aps.org/doi/10.1103/bx8j-zk47</id>
-        <link href="http://link.aps.org/doi/10.1103/bx8j-zk47"/>
-        <updated>2026-03-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Vijaysankar Kalappattil, Chuanpu Liu, Zhijie Chen, Vipul Sharma, Kai Liu, Jinke Tang, Steven S.-L. Zhang, and Mingzhong Wu
-Quantum oscillations in nonlinear electrical transport reveal the geometry and spin orientation of the Fermi surface in the Dirac semimetal α-Sn.
-
-[Phys. Rev. Lett. 136, 096603] Published Wed Mar 04, 2026]]></summary>
-        <author>
-            <name>Vijaysankar Kalappattil, Chuanpu Liu, Zhijie Chen, Vipul Sharma, Kai Liu, Jinke Tang, Steven S.-L. Zhang, and Mingzhong Wu</name>
         </author>
     </entry>
 </feed>
