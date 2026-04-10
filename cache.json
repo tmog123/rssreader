@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/ht3d-1kj8",
+          "author": "J. Sourd, D. A. Mayoh, G. Balakrishnan, M. Uhlarz, J. Wosnitza, and S. Zherlitsyn",
+          "description": "Author(s): J. Sourd, D. A. Mayoh, G. Balakrishnan, M. Uhlarz, J. Wosnitza, and S. Zherlitsyn\nThe metallic skyrmion magnet GdRu2Si2 exhibits a fascinating sequence of complex and topological spin textures. Here, the authors focus on the recently discovered high-temperature phase, denoted phase VI. Using ultrasound techniques, they map precise phase boundaries and reveal a strong dependence of phase VI on the field direction. They further present evidence of tetragonal symmetry breaking driven by the magnetic order parameter in this phase.\n\n[Phys. Rev. B 113, 134416] Published Thu Apr 09, 2026",
+          "link": "http://link.aps.org/doi/10.1103/ht3d-1kj8",
+          "publishedOn": "2026-04-09T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Magnetoelastic properties in the high-temperature magnetic phase of the skyrmion compound ${\\mathrm{GdRu}}_{2}{\\mathrm{Si}}_{2}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/w9zg-y11n",
+          "author": "Xinyan Zhang, Ying Liu, Min Zhao, Zihan Li, Xuefang Dai, Xiaoming Zhang, and Guodong Liu",
+          "description": "Author(s): Xinyan Zhang, Ying Liu, Min Zhao, Zihan Li, Xuefang Dai, Xiaoming Zhang, and Guodong Liu\nElectrochemical conversion of NO to NH3 is vital for sustainable ammonia synthesis and environmental remediation, but suffers from sluggish reaction kinetics. The authors identify the topological nodal-line semimetal CaAgAs as a highly efficient and selective catalyst, with a free-energy change ΔG of just 0.22 eV and drumheadlike topological surface states near the Fermi level that provide enhanced surface density of states to facilitate charge transfer. Strain engineering can reduce ΔG to 0.08 eV. Notably, symmetry-breaking transitions that eliminate the topological phase degrade catalytic performance, showing that here topology offers a robust and tunable design principle.\n\n[Phys. Rev. Applied 25, 044023] Published Thu Apr 09, 2026",
+          "link": "http://link.aps.org/doi/10.1103/w9zg-y11n",
+          "publishedOn": "2026-04-09T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Efficient ammonia synthesis from nitric oxide using the topological nodal-line semimetal $\\mathrm{Ca}\\mathrm{Ag}\\mathrm{As}$",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/vrl8-bpmz",
           "author": "Charlotte M. König, Matthew Bohman, Fabian Heiße, Jonathan Morgner, Tim Sailer, Bingsheng Tu, Klaus Blaum, Sven Sturm, Dimitar Bakalov, Hugo D. Nogueira, Jean-Philippe Karr, Ossama Kullie, and Stephan Schiller",
           "description": "Author(s): Charlotte M. König, Matthew Bohman, Fabian Heiße, Jonathan Morgner, Tim Sailer, Bingsheng Tu, Klaus Blaum, Sven Sturm, Dimitar Bakalov, Hugo D. Nogueira, Jean-Philippe Karr, Ossama Kullie, and Stephan Schiller\nPrecise spectroscopy of a simple molecular ion opens a new path toward stringent tests of quantum electrodynamics.\n\n[Phys. Rev. Lett. 136, 143002] Published Wed Apr 08, 2026",
@@ -983,26 +1003,6 @@
           "publishedOn": "2026-03-19T10:00:00.000Z",
           "wordCount": null,
           "title": "Shubnikov–de Haas oscillations in two-dimensional hole gases with competing cyclotron and Zeeman energy",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/rtdd-37y7",
-          "author": "Raffaele Resta",
-          "description": "Author(s): Raffaele Resta\nThe intrinsic Hall effect, both linear and nonlinear, is a perspicuous manifestation of quantum geometry. In the current literature, the formulation is based on Bloch geometry, addressing crystalline systems in a mean-field framework. Nonetheless, the effect is a fundamental geometric response of a generic many-body ground state, not a band structure peculiarity. The author provides here an higher-level quantum-geometrical theory of the quadratic Hall effect, cast in very compact notations, and encompassing the known Bloch formulation as a special case.\n\n[Phys. Rev. B 113, 125136] Published Thu Mar 19, 2026",
-          "link": "http://link.aps.org/doi/10.1103/rtdd-37y7",
-          "publishedOn": "2026-03-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Intrinsic nonlinear Hall effect beyond Bloch geometry",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/stkn-vhrr",
-          "author": "Rashmi Priya and Smarajit Karmakar",
-          "description": "Author(s): Rashmi Priya and Smarajit Karmakar\nThe stress response of a previously sheared amorphous material retains a memory of its prior deformation. This Bauschinger effect manifests as a softening upon shear reversal. Understanding such memory effects provides insights into amorphous rheology. This study reveals that amorphous materials display a previously unrecognized crossover from an inverse to the conventional Bauschinger effect, governed by glass stability, strain history, and shear rate. The resulting phase diagram points to a richer, partially reversible memory landscape. Microscopically, this crossover is rooted in the healing of shear-band networks, establishing local plastic healing as a generic mechanism for memory reversal in disordered solids.\n\n[Phys. Rev. Materials 10, 035604] Published Wed Mar 18, 2026",
-          "link": "http://link.aps.org/doi/10.1103/stkn-vhrr",
-          "publishedOn": "2026-03-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Inverse Bauschinger to Bauschinger crossover under steady shear in amorphous solids",
           "imageUrl": null
         }
       ]
