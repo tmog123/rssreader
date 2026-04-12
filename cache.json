@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/t5wx-z86b",
+          "author": "Hao Wang, Jiayu Yuan, Hongkai Shi, Haojie Li, Xiaoqing Jia, Xiaohui Song, Liyu Shi, Tianyi Wu, Li Yue, Yangmu Li, Kui Jin, Dong Wu, Jianlin Luo, Xinbo Wang, Tao Dong, and Nan-Lin Wang",
+          "description": "Author(s): Hao Wang, Jiayu Yuan, Hongkai Shi, Haojie Li, Xiaoqing Jia, Xiaohui Song, Liyu Shi, Tianyi Wu, Li Yue, Yangmu Li, Kui Jin, Dong Wu, Jianlin Luo, Xinbo Wang, Tao Dong, and Nan-Lin Wang\nA persistent normal-state third-harmonic generation (THG) signal extending up to ten times Tc and a multipeak THG spectrum in the superconducting state reveal an unexpected interplay between disorder, electronic correlations, and superconducting inhomogeneity.\n\n[Phys. Rev. Lett. 136, 146004] Published Fri Apr 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/t5wx-z86b",
+          "publishedOn": "2026-04-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Anomalous Terahertz Nonlinearity in Disordered $s$-Wave Superconductor Close to the Superconductor-Insulator Transition",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/hdh6-r1gy",
+          "author": "Felix Ahrens and Andrea Vinante",
+          "description": "Author(s): Felix Ahrens and Andrea Vinante\nAn isolated magnet’s intrinsic angular momentum induces gyroscopic motion, an observation that could lead to ultrasensitive magnetometers.\n\n[Phys. Rev. Lett. 136, 146703] Published Fri Apr 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/hdh6-r1gy",
+          "publishedOn": "2026-04-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Observation of Gyroscopic Coupling in a Nonspinning Levitated Ferromagnet",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/nvbk-27dx",
+          "author": "Yaozu Tang, Mazhar N. Ali, Gerrit E. W. Bauer, and Yaroslav M. Blanter",
+          "description": "Author(s): Yaozu Tang, Mazhar N. Ali, Gerrit E. W. Bauer, and Yaroslav M. Blanter\nElectrical control of superconductivity is a central goal for next-generation superconducting electronics. Here, the authors demonstrate polarization-tunable supercurrent in an asymmetric ferroelectric Josephson junction: reversing the ferroelectric polarization switches the junction between high- and low-critical-current states, enabling nonvolatile, low-power control of superconducting transport. This study provides an alternative route toward controllable superconducting devices without relying on magnetism, and offers theoretical insights into superconducting memory and logic applications.\n\n[Phys. Rev. B 113, 144503] Published Fri Apr 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/nvbk-27dx",
+          "publishedOn": "2026-04-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Polarization-controlled supercurrent in ferroelectric Josephson junctions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/56px-qsxx",
+          "author": "Benjamin Sappler, Masataka Kawano, Michael P. Zaletel, and Frank Pollmann",
+          "description": "Author(s): Benjamin Sappler, Masataka Kawano, Michael P. Zaletel, and Frank Pollmann\nIsometric tensor network states (isoTNS) generalize the isometric form of the one-dimensional matrix product states (MPS) to tensor networks in two and higher dimensions. Here, the authors introduce an alternative isometric form for isoTNS by incorporating auxiliary tensors to represent the orthogonality hypersurface. The authors demonstrate the viability of the method by performing ground-state search and real-time evolution of the transverse field Ising model on large square lattices of up to 1250 sites.\n\n[Phys. Rev. B 113, 165117] Published Fri Apr 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/56px-qsxx",
+          "publishedOn": "2026-04-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Diagonal isometric form for tensor network states in two dimensions",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/ht3d-1kj8",
           "author": "J. Sourd, D. A. Mayoh, G. Balakrishnan, M. Uhlarz, J. Wosnitza, and S. Zherlitsyn",
           "description": "Author(s): J. Sourd, D. A. Mayoh, G. Balakrishnan, M. Uhlarz, J. Wosnitza, and S. Zherlitsyn\nThe metallic skyrmion magnet GdRu2Si2 exhibits a fascinating sequence of complex and topological spin textures. Here, the authors focus on the recently discovered high-temperature phase, denoted phase VI. Using ultrasound techniques, they map precise phase boundaries and reveal a strong dependence of phase VI on the field direction. They further present evidence of tetragonal symmetry breaking driven by the magnetic order parameter in this phase.\n\n[Phys. Rev. B 113, 134416] Published Thu Apr 09, 2026",
@@ -963,46 +1003,6 @@
           "publishedOn": "2026-03-20T10:00:00.000Z",
           "wordCount": null,
           "title": "Bulk plasmons in elemental metals",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/5yqq-cw73",
-          "author": "Mingyang Zheng, Rebika Makaju, Rasul Gazizulin, Alex Levchenko, Sadhvikas J. Addamane, and Dominique Laroche",
-          "description": "Author(s): Mingyang Zheng, Rebika Makaju, Rasul Gazizulin, Alex Levchenko, Sadhvikas J. Addamane, and Dominique Laroche\nHere, the authors present one-dimensional Coulomb drag measurements in the spin-polarized regime, achieved by applying a large magnetic field along the axis of the quantum wire. The temperature dependence of the drag is well described by a power law beyond a crossover temperature. Despite the presence of both reciprocal and nonreciprocal drag signals, the authors demonstrate a scaling of the power law exponent between the spinful and spin-polarized regimes, in agreement with predictions for clean ballistic quantum wires in the reciprocal regime.\n\n[Phys. Rev. B 113, L121408] Published Fri Mar 20, 2026",
-          "link": "http://link.aps.org/doi/10.1103/5yqq-cw73",
-          "publishedOn": "2026-03-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quasi-one-dimensional Coulomb drag between spin-polarized quantum wires",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/5rg8-52gl",
-          "author": "Miao Chen, Xiu-Hua Zhao, and Yu-Han Ma",
-          "description": "Author(s): Miao Chen, Xiu-Hua Zhao, and Yu-Han Ma\nThe landscape of coercivity helps identify the scaling laws of hysteresis across dynamical regimes.\n\n[Phys. Rev. Lett. 136, 117102] Published Thu Mar 19, 2026",
-          "link": "http://link.aps.org/doi/10.1103/5rg8-52gl",
-          "publishedOn": "2026-03-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Coercivity Landscape Characterizes Dynamic Hysteresis",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3g5b-cq14",
-          "author": "Thomas Donlon, II, Lawrence M. Widrow, and Sukanya Chakrabarti",
-          "description": "Author(s): Thomas Donlon, II, Lawrence M. Widrow, and Sukanya Chakrabarti\nMeasuring the acceleration of stellar remnants called pulsars helps map how mass is distributed in our region of the Galaxy.\n\n[Phys. Rev. D 113, 063033] Published Thu Mar 19, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3g5b-cq14",
-          "publishedOn": "2026-03-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Mean mass density near the Sun from the divergence theorem and pulsar accelerations",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/pc57-schm",
-          "author": "Davide Costa, Lucas E. A. Stehouwer, Davide Degli Esposti, and Giordano Scappucci",
-          "description": "Author(s): Davide Costa, Lucas E. A. Stehouwer, Davide Degli Esposti, and Giordano Scappucci\nEvaluating fundamental properties of two-dimensional hole gases in strained germanium quantum wells is a complex task due to the competition between cyclotron and Zeeman energies. Here, the authors present a self-consistent framework to accurately extract the effective mass, g factor, and quantum lifetime from Shubnikov–de Haas oscillations at a single temperature. By applying this procedure to a low-disorder Ge/SiGe heterostructure, the authors demonstrate a benchmark quantum mobility for holes in group-IV semiconductors, with clean fractional quantum Hall states observed.\n\n[Phys. Rev. B 113, 115418] Published Thu Mar 19, 2026",
-          "link": "http://link.aps.org/doi/10.1103/pc57-schm",
-          "publishedOn": "2026-03-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Shubnikov–de Haas oscillations in two-dimensional hole gases with competing cyclotron and Zeeman energy",
           "imageUrl": null
         }
       ]
