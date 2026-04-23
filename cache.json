@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/4m4m-84p3",
+          "author": "Christopher A. Broderick, Xie Zhang, Mark E. Turiansky, and Chris G. Van de Walle",
+          "description": "Author(s): Christopher A. Broderick, Xie Zhang, Mark E. Turiansky, and Chris G. Van de Walle\nThe emergence of metastable lonsdaleite germanium (2H-Ge) heralds a novel group-IV semiconductor, with the potential to address the longstanding challenge of realizing a direct-gap optical emitter for monolithic integration on Si. In this work, the nature of optical emission from direct-gap 2H-Ge is addressed theoretically. The authors’ first-principles calculations accurately account for measured photoluminescence spectra, and demonstrate that radiative recombination in 2H-Ge is significantly weaker than in a conventional direct-gap semiconductor. Strain-dependent analysis confirms the predicted emergence of an optically bright band gap under uniaxial tension, highlighting that strain engineering presents a promising route to realize 2H-Ge-based emitters for photonics.\n\n[Phys. Rev. Materials 10, 044603] Published Tue Apr 21, 2026",
+          "link": "http://link.aps.org/doi/10.1103/4m4m-84p3",
+          "publishedOn": "2026-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "First-principles theory of direct-gap optical emission in hexagonal Ge and its enhancement via strain engineering",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/gl4g-3sxr",
+          "author": "Cyril André, Cyriaque Amerein, Jonas Miguet, Benoit Scheid, and Stéphane Dorbolo",
+          "description": "Author(s): Cyril André, Cyriaque Amerein, Jonas Miguet, Benoit Scheid, and Stéphane Dorbolo\nAntibubbles are the structural inverse of soap bubbles: they consist of a liquid core enclosed by a thin quasi-spherical gas shell, immersed in a liquid medium. Producing multilayer antibubbles, i.e. antibubbles enclosed by multiple soap/air films, has been a challenge in the past years, as it requires a delicate balance between surface tension and inertia. In this paper, we investigate a method that uses one or more soap films and a soapy liquid droplet to generate multilayer antibubbles. We also identify the optimal parameters for forming single-layer and multilayer antibubbles across three different viscosities.\n\n[Phys. Rev. Fluids 11, 043603] Published Tue Apr 21, 2026",
+          "link": "http://link.aps.org/doi/10.1103/gl4g-3sxr",
+          "publishedOn": "2026-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "From soap-film packed droplets to multilayer antibubbles: Formation and stability",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/br7m-c8bb",
+          "author": "Jing Li, Huilin Lai, Andrew H. Comstock, Aeron McConnell, Bharat Giri, Yu Yun, Tianhao Zhao, Xiao Wang, Yongseong Choi, Xuemei Cheng, Jian Shen, Zhigang Jiang, Dali Sun, Wenbin Wang, and Xiaoshan Xu",
+          "description": "Author(s): Jing Li, Huilin Lai, Andrew H. Comstock, Aeron McConnell, Bharat Giri, Yu Yun, Tianhao Zhao, Xiao Wang, Yongseong Choi, Xuemei Cheng, Jian Shen, Zhigang Jiang, Dali Sun, Wenbin Wang, and Xiaoshan Xu\nHere, the authors demonstrate that the interfacial topological Hall effect enables an electrical readout of topological spin order in insulating magnets with extremely small magnetization. In Pt/hexagonal LuFeO3 heterostructures, the spin topology from noncoplanar canting is imprinted onto Pt via magnetic proximity, producing a large Hall response detectable down to the ultrathin limit of 1.5 unit cells. This approach provides a sensitive probe of otherwise inaccessible magnetic order in ultrathin insulating systems.\n\n[Phys. Rev. B 113, 134436] Published Tue Apr 21, 2026",
+          "link": "http://link.aps.org/doi/10.1103/br7m-c8bb",
+          "publishedOn": "2026-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Electrical readout of topological spin order in ultrathin insulators with small magnetization",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/3g15-d11l",
+          "author": "Si-Li Wu, Zhi-Hui Ren, Peng Zhu, Hao-Chen Zhang, Xue-Tao Di, Chong Wang, Chuan Li, Zhiwei Wang, Cai-Zhen Li, and Zhi-Min Liao",
+          "description": "Author(s): Si-Li Wu, Zhi-Hui Ren, Peng Zhu, Hao-Chen Zhang, Xue-Tao Di, Chong Wang, Chuan Li, Zhiwei Wang, Cai-Zhen Li, and Zhi-Min Liao\nHere, the authors demonstrate a gate-tunable Josephson diode effect (JDE) mediated by topological surface states in high-transparency Nb/BiSbTeSe2/Nb junctions. Temperature-dependent measurements show that the JDE is primarily driven by surface states, with bulk states contributing to the supercurrent but not to the diode effect. Gate tuning further enhances the surface contribution, increasing the diode efficiency from 40% to 50%. These findings establish topological surface states as a promising platform for efficient tunable superconducting diodes.\n\n[Phys. Rev. B 113, 155435] Published Tue Apr 21, 2026",
+          "link": "http://link.aps.org/doi/10.1103/3g15-d11l",
+          "publishedOn": "2026-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Tunable Josephson diode effect mediated by topological surface states in ${\\mathrm{BiSbTeSe}}_{2}$ Josephson junctions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/hq91-75kb",
+          "author": "Sabrina Meyer, Joris Sturm, Christina Schröder, Stephen Hughes, Andreas Knorr, and Lara Greten",
+          "description": "Author(s): Sabrina Meyer, Joris Sturm, Christina Schröder, Stephen Hughes, Andreas Knorr, and Lara Greten\nIn a strong magnetic field, a 2D electron gas is quantized into discrete Landau levels, the quantum version of cyclotron motion. Based on a microscopic theory, the authors propose here scattering with extreme-ultraviolet light as an optical probe of Landau-orbit structure. They isolate spatial Landau-orbit information by normalizing to a zero-magnetic-field reference. This provides access to the probability density distributions of individual Landau-Level wave functions, featuring radial maxima at the quantized Larmor radii.\n\n[Phys. Rev. B 113, 165421] Published Tue Apr 21, 2026",
+          "link": "http://link.aps.org/doi/10.1103/hq91-75kb",
+          "publishedOn": "2026-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Proposal for resolving quantized Landau orbits via elastic XUV scattering",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/q488-97dp",
+          "author": "Tudor D. Stanescu and Sumanta Tewari",
+          "description": "Author(s): Tudor D. Stanescu and Sumanta Tewari\nQuantum capacitance measurements of a hybrid semiconductor-superconductor nanowire coupled to a quantum dot can enable the determination of the shared fermion parity of Majorana zero modes. Here, the authors demonstrate that, in general, the observation of the corresponding parity-dependent quantum capacitance oscillations, as observed in recent experiments, indicates the presence of partially separated Majorana modes or topologically trivial quasi-Majorana modes, and does not represent a unique signature of topologically protected Majorana zero modes.\n\n[Phys. Rev. B 113, 165422] Published Tue Apr 21, 2026",
+          "link": "http://link.aps.org/doi/10.1103/q488-97dp",
+          "publishedOn": "2026-04-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Fermion parity and quantum capacitance oscillation with partially separated Majorana and quasi-Majorana modes",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/578k-kmw6",
           "author": "Mahmudul Hasan, Jingsong Gao, Hao Liang, Yiming Yuan, Zach Eisenhutt, Ming-Shian Tsai, Ming-Chang Chen, Hans Jakob Wörner, Artem Rudenko, and Meng Han",
           "description": "Author(s): Mahmudul Hasan, Jingsong Gao, Hao Liang, Yiming Yuan, Zach Eisenhutt, Ming-Shian Tsai, Ming-Chang Chen, Hans Jakob Wörner, Artem Rudenko, and Meng Han\nAttosecond soft-X-ray pump-probe spectroscopy of xenon and krypton atoms reveals two previously unobserved dynamical features in xenon that are inconsistent with lifetimes inferred from energy-domain measurements.\n\n[Phys. Rev. Lett. 136, 163201] Published Mon Apr 20, 2026",
@@ -943,66 +1003,6 @@
           "publishedOn": "2026-03-31T10:00:00.000Z",
           "wordCount": null,
           "title": "Fractional Quantum Multiferroics from Coupling of Fractional Quantum Ferroelectricity and Altermagnetism",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/s8wh-xgvl",
-          "author": "Michael Müller and Reed Essick",
-          "description": "Author(s): Michael Müller and Reed Essick\nWeak tidal forces alter the gravitational-wave signal from merging neutron stars by just enough that the telltale signature could be detected in large sensitive surveys.\n\n[Phys. Rev. D 113, 064062] Published Tue Mar 31, 2026",
-          "link": "http://link.aps.org/doi/10.1103/s8wh-xgvl",
-          "publishedOn": "2026-03-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Distinguishing between black holes and neutron stars within a population of weak tidal measurements",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/crcr-w98q",
-          "author": "S. A. Andreeva, K. R. Dzhikirba, M. V. Shibalov, A. M. Mumlyakov, I. V. Trofimov, A. V. Shchepetilnikov, O. V. Orlov, V. V. Solovyev, V. M. Kovalev, A. V. Chaplik, M. A. Tarkhov, and I. V. Kukushkin",
-          "description": "Author(s): S. A. Andreeva, K. R. Dzhikirba, M. V. Shibalov, A. M. Mumlyakov, I. V. Trofimov, A. V. Shchepetilnikov, O. V. Orlov, V. V. Solovyev, V. M. Kovalev, A. V. Chaplik, M. A. Tarkhov, and I. V. Kukushkin\nHere, the authors report the first observations of two-dimensional plasma resonance with linear dispersion in superconducting NbN films on dielectric substrates. Plasmons manifest themselves as resonance dips in terahertz transmission of the sample with NbN discs. Those peaks shift to the lower frequency and broaden with increasing temperature, being absent above Tc. Dispersion of these plasmonic excitations showed linear dependence, similar to the provided theoretical prediction calculated for the two-component system consisting of Cooper pairs and normal electrons.\n\n[Phys. Rev. B 113, L100503] Published Tue Mar 31, 2026",
-          "link": "http://link.aps.org/doi/10.1103/crcr-w98q",
-          "publishedOn": "2026-03-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Observation of plasma excitations of superconducting electrons in NbN thin films",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/kfy3-bwgr",
-          "author": "Haonan Xiong, Jiahui Wang, Juan Song, Jize Yang, Zenghui Bao, Yan Li, Zhen-Yu Mi, Hongyi Zhang, Hai-Feng Yu, Yipu Song, and Luming Duan",
-          "description": "Author(s): Haonan Xiong, Jiahui Wang, Juan Song, Jize Yang, Zenghui Bao, Yan Li, Zhen-Yu Mi, Hongyi Zhang, Hai-Feng Yu, Yipu Song, and Luming Duan\nAlthough nonlocal connectivity is essential for universal logical gates and low-overhead quantum error correction, it is largely absent from today’s superconducting platforms, which are restricted to nearest-neighbor coupling. This work demonstrates an on-chip coupler with centimeter-scale interaction length, to provide high-fidelity, low-crosstalk nonlocal qubit coupling and serve as a building block for binary-tree connectivity graphs, reducing the average entangling distance from O(N) to O(ln N). This capability supports the implementation of innovative quantum algorithms on superconducting processors, and strengthens their competitiveness with other hardware platforms.\n\n[Phys. Rev. Applied 25, 034096] Published Tue Mar 31, 2026",
-          "link": "http://link.aps.org/doi/10.1103/kfy3-bwgr",
-          "publishedOn": "2026-03-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Scalable low-overhead superconducting nonlocal coupler for circuit connectivity enhancement",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/nj2d-l6pz",
-          "author": "Rohan Mittal, Tom Zander, Johannes Lang, and Sebastian Diehl",
-          "description": "Author(s): Rohan Mittal, Tom Zander, Johannes Lang, and Sebastian Diehl\nA new nonequilibrium universality class for fermions is identified. It displays an emergent “dark state symmetry” that protects quantum criticality, requiring only a single tuning parameter.\n\n[Phys. Rev. X 16, 011069] Published Mon Mar 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/nj2d-l6pz",
-          "publishedOn": "2026-03-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fermion Quantum Criticality far from Equilibrium",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/g494-rj5k",
-          "author": "F. Rabec, G. Brochier, S. Wattellier, G. Chauveau, Y. Li, S. Nascimbene, J. Dalibard, and J. Beugnon",
-          "description": "Author(s): F. Rabec, G. Brochier, S. Wattellier, G. Chauveau, Y. Li, S. Nascimbene, J. Dalibard, and J. Beugnon\nThe superfluid fraction of a 2D Bose-Einstein condensate is experimentally determined for the first time.\n\n[Phys. Rev. Lett. 136, 133401] Published Mon Mar 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/g494-rj5k",
-          "publishedOn": "2026-03-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Superfluid Fraction of a 2D Bose-Einstein Condensate in a Triangular Lattice",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3pmg-b78n",
-          "author": "Dipranjan Chatterjee, Petr Doležal, Federico Abbruciati, Tobias Biesner, Katharina M. Zoch, Rustem Khasanov, Shams Sohel Islam, Guratinder Kaur, Seulki Roh, Francesco Capitani, Joao Elias F. S. Rodrigues, Gaston Garbarino, Cornelius Krellner, Philippe Mendels, Edwin Kermarrec, Martin Dressel, Björn Wehinger, Andrej Pustogow, Fabrice Bert, and Pascal Puphal",
-          "description": "Author(s): Dipranjan Chatterjee, Petr Doležal, Federico Abbruciati, Tobias Biesner, Katharina M. Zoch, Rustem Khasanov, Shams Sohel Islam, Guratinder Kaur, Seulki Roh, Francesco Capitani, Joao Elias F. S. Rodrigues, Gaston Garbarino, Cornelius Krellner, Philippe Mendels, Edwin Kermarrec, Martin Dressel, Björn Wehinger, Andrej Pustogow, Fabrice Bert, and Pascal Puphal\nHydrostatic pressure drives a magnetically ordered kagome material into a fluctuating ground state that shares key features with quantum spin liquids.\n\n[Phys. Rev. Lett. 136, 136701] Published Mon Mar 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3pmg-b78n",
-          "publishedOn": "2026-03-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Emergence of a Fluctuating Ground State in Y-Kapellasite under Pressure",
           "imageUrl": null
         }
       ]
