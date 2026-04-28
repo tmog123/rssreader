@@ -6,6 +6,56 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/ckrx-wbct",
+          "author": "Jeet Shah, Laura Shou, Jeremy Shuler, and Victor Galitski",
+          "description": "Author(s): Jeet Shah, Laura Shou, Jeremy Shuler, and Victor Galitski\nGeometry-induced quantum phase separation in quantum dimer models demonstrates that domain shape can fundamentally alter macroscopic ground states, challenging traditional assumptions about the thermodynamic limit.\n\n[Phys. Rev. X 16, 021020] Published Mon Apr 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/ckrx-wbct",
+          "publishedOn": "2026-04-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Breakdown of the Thermodynamic Limit in Quantum Spin and Dimer Models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/2qs8-yxmr",
+          "author": "Drew Behrendt, Atanu Samanta, and Andrew M. Rappe",
+          "description": "Author(s): Drew Behrendt, Atanu Samanta, and Andrew M. Rappe\nMultiscale modeling shows that ferroelectric switching in wurtzite ferroelectric aluminum nitride proceeds via 1D single columns of atoms propagating from a slow-moving 2D fractal-like domain wall.\n\n[Phys. Rev. Lett. 136, 176101] Published Mon Apr 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/2qs8-yxmr",
+          "publishedOn": "2026-04-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Ferroelectric Fractals: Switching Mechanism of Wurtzite AlN",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/wj4z-r1vq",
+          "author": "M. Müller, N. A. Althubiti, D. Atanasov, K. Blaum, R. B. Cakirli, T. E. Cocolios, F. Herfurth, S. Kreim, D. Lunney, V. Manea, N. Minkov, D. Neidherr, M. Rosenbusch, L. Schweikhard, A. Welker, F. Wienholtz, and R. N. Wolf",
+          "description": "Author(s): M. Müller, N. A. Althubiti, D. Atanasov, K. Blaum, R. B. Cakirli, T. E. Cocolios, F. Herfurth, S. Kreim, D. Lunney, V. Manea, N. Minkov, D. Neidherr, M. Rosenbusch, L. Schweikhard, A. Welker, F. Wienholtz, and R. N. Wolf\nLocated just beyond the Z=28 proton-shell closure, the odd-N zinc isotopes (Z=30) provide a sensitive testing ground for the evolution of neutron orbitals through their low-lying states. The authors report high-precision Penning-trap mass measurements of the ground and first isomeric state in 75Zn at ISOLTRAP, with both states populated via the decay of 75Cu inside a Penning trap. Earlier work had identified only a single long-lived state in 75Zn and assigned its mass to the ground state. The new measurements show that the previously observed state is instead the first isomeric state, restoring a smooth trend in the two-neutron separation energies and supporting a ground-state spin-parity assignment of Jπ=1/2−. The results of the new high-precision measurements also provide benchmarks for improving theoretical models in this region of rapidly evolving nuclear structure.\n\n[Phys. Rev. C 113, 044321] Published Mon Apr 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/wj4z-r1vq",
+          "publishedOn": "2026-04-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Mass spectrometry of $^{75}\\mathrm{Zn}$ ground and isomeric states from in-trap decay of $^{75}\\mathrm{Cu}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/59tv-8c7d",
+          "author": "J. Foy, Ch. Elster, P. Maris, S. P. Weppner, and S. K. Bogner",
+          "description": "Author(s): J. Foy, Ch. Elster, P. Maris, S. P. Weppner, and S. K. Bogner\nOptical potentials are necessary for modeling scattering and reactions, but are challenging to derive rigorously; practitioners often resort to phenomenology instead. Inspired by other recent work, this paper investigates a key input into optical potentials, the off-shell densities, here computed in the ab-initio no-core shell model. The authors find these densities are well approximated by a handful of separable terms, with the number of needed terms depending only upon the number of protons and neutrons. Such insights will likely influence the future development of both phenomenological and first-principles optical potentials.\n\n[Phys. Rev. C 113, 044323] Published Mon Apr 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/59tv-8c7d",
+          "publishedOn": "2026-04-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Separable character of <i>ab initio</i> no-core shell model one-body densities",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/tgf9-f2st",
+          "author": "M. Catacora-Rios, K. Beyer, P. Giuliani, K. Godbey, R. J. Furnstahl, and F. M. Nunes",
+          "description": "Author(s): M. Catacora-Rios, K. Beyer, P. Giuliani, K. Godbey, R. J. Furnstahl, and F. M. Nunes\nAccurate modeling of nuclear reactions is relevant to understanding the structure and dynamics of atomic nuclei, as well as for nuclear science applications and for understanding how nuclei are created in the universe. The authors generalize the reduced basis method, a physics-based emulator used for elastic scattering, to coupled-channels equations for nuclear reactions. They apply the method to neutron scattering on 48Ca and 208Pb and show that the calculated elastic and inelastic cross sections match those obtained using traditional accurate methods. Because emulators can offer a fast and reliable alternative to the exact solution of several scattering problems in nuclear physics, and because many reactions can be cast as a coupled-channels problem, the new developments will have significant impact on future research.\n\n[Phys. Rev. C 113, 044623] Published Mon Apr 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/tgf9-f2st",
+          "publishedOn": "2026-04-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Wavefunction-based emulation of coupled-channels scattering with nonaffinely parametrized interactions",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/2rr3-lbrn",
           "author": "Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, and Xiang Cheng",
           "description": "Author(s): Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, and Xiang Cheng\nExperimental three-dimensional measurements of the flow field around a free-swimming microalga reveal that microscopic organisms generate unexpected low-Reynolds-number flow phenomena, expanding our understanding of microhydrodynamics with profound biological implications for microbial motility and physiology.\n\n[Phys. Rev. X 16, 021019] Published Fri Apr 24, 2026",
@@ -953,56 +1003,6 @@
           "publishedOn": "2026-04-03T10:00:00.000Z",
           "wordCount": null,
           "title": "Symmetry-Protected Acoustic “Ghost Tunnels”",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/pj3y-qfvb",
-          "author": "Simone Finizio, Tim A. Butcher, Maria Cocconcelli, Elisabeth Müller, Lauren J. Riddiford, Jeffrey A. Brock, Chia-Chun Wei, Li-Shu Wang, Jan-Chi Yang, Shih-Wen Huang, Federico Maspero, Riccardo Bertacco, and Jörg Raabe",
-          "description": "Author(s): Simone Finizio, Tim A. Butcher, Maria Cocconcelli, Elisabeth Müller, Lauren J. Riddiford, Jeffrey A. Brock, Chia-Chun Wei, Li-Shu Wang, Jan-Chi Yang, Shih-Wen Huang, Federico Maspero, Riccardo Bertacco, and Jörg Raabe\nMechanical strain is a powerful handle used to control the physical properties of ferroic materials. To investigate its effect at the nanoscale, the combination of a high-resolution imaging technique such as x-ray ptychography with the means to apply an in situ mechanical strain is necessary. Here, the authors present a setup for the tailored application of in situ mechanical strains to freestanding thin films with a microelectromechanical system actuator and a proof-of-concept experiment on a freestanding multiferroic BiFeO3 lamella.\n\n[Phys. Rev. B 113, 134408] Published Fri Apr 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/pj3y-qfvb",
-          "publishedOn": "2026-04-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "<i>In situ</i> straining of epitaxial freestanding ferroic films by a microelectromechanical device",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3ml4-gr6h",
-          "author": "Zachary J. Krebs, Wyatt A. Behn, Keenan J. Smith, Margaret A. Fortman, Kenji Watanabe, Takashi Taniguchi, Pathak S. Parashar, Michael M. Fogler, and Victor W. Brar",
-          "description": "Author(s): Zachary J. Krebs, Wyatt A. Behn, Keenan J. Smith, Margaret A. Fortman, Kenji Watanabe, Takashi Taniguchi, Pathak S. Parashar, Michael M. Fogler, and Victor W. Brar\nElectrons in graphene follow various spiraling paths when they flow around a circular barrier under the influence of a magnetic field.\n\n[Phys. Rev. Lett. 136, 136301] Published Thu Apr 02, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3ml4-gr6h",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Nanoscale Imaging of Magnetotransport around a Circular $p\\text{−}n$ Junction in Graphene",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/7xlm-s3s5",
-          "author": "Shuai Zhang, Yang Xu, Junhe Zhang, Dihao Sun, Yinan Dong, Matthew Fu, Takashi Taniguchi, Kenji Watanabe, Cory Dean, Monica Allen, Jeffery Allen, F. Javier García de Abajo, Antti J. Moilanen, Lukas Novotny, and D. N. Basov",
-          "description": "Author(s): Shuai Zhang, Yang Xu, Junhe Zhang, Dihao Sun, Yinan Dong, Matthew Fu, Takashi Taniguchi, Kenji Watanabe, Cory Dean, Monica Allen, Jeffery Allen, F. Javier García de Abajo, Antti J. Moilanen, Lukas Novotny, and D. N. Basov\nAn electrically driven nonlinear mechanism based on resonant tunneling, plasmon-polaritonic bistability, unlocks the potential realization of polaritonic on-chip optical memory and switching.\n\n[Phys. Rev. Lett. 136, 136904] Published Thu Apr 02, 2026",
-          "link": "http://link.aps.org/doi/10.1103/7xlm-s3s5",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Electrically Driven Plasmon-Polaritonic Bistability in Dirac Electron Tunneling Transistors",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qqhm-98vn",
-          "author": "Ashley Z. Guo, Sam Wilken, Dov Levine, and Paul M. Chaikin",
-          "description": "Author(s): Ashley Z. Guo, Sam Wilken, Dov Levine, and Paul M. Chaikin\nThe authors consider a two-dimensional nonequilibrium model, where particles interact only through repulsive kicks when they overlap. The system goes through a sequence of phase transitions exhibiting reentrancy, from a disordered phase to a hexagonal crystal and then to a second disordered phase. The driving parameter is the size of the repulsive kicks, which is the mechanism for both ordering and disordering.\n#AdvancingField #Interdisciplinary\n\n[Phys. Rev. E 113, 044108] Published Thu Apr 02, 2026",
-          "link": "http://link.aps.org/doi/10.1103/qqhm-98vn",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Diffusion in nonequilibrium two-dimensional crystals",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/9mfj-2jh2",
-          "author": "Ishriak Ahmed, Md. Saiful Islam, and Imraan A. Faruque",
-          "description": "Author(s): Ishriak Ahmed, Md. Saiful Islam, and Imraan A. Faruque\nThis is a study of swarming in three different biological systems, honey bees, midges, and jackdaws. The authors combine three complementary network identification approaches with anisotropy analysis to identify task-dependent interaction neighborhood size. The work provides a framework for uncovering emergence of collective motion in different biological systems.\n#BiophysicsSpotlight #ClearMotivation #WellStructured\n\n[Phys. Rev. E 113, 044403] Published Thu Apr 02, 2026",
-          "link": "http://link.aps.org/doi/10.1103/9mfj-2jh2",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "From scattered to focused: Task-dependent connectivity in honey bees, with midge swarms and bird flocks",
           "imageUrl": null
         }
       ]
