@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/wmmx-thx3",
+          "author": "Jacob T. Baillie, Eden Tzanetopoulos, Rachel T. Smith, Rémi Beaulac, and Daniel R. Gamelin",
+          "description": "Author(s): Jacob T. Baillie, Eden Tzanetopoulos, Rachel T. Smith, Rémi Beaulac, and Daniel R. Gamelin\nThe layered antiferromagnet CrPS4 offers a compelling platform for exploring strong coupling between optical and magnetic properties in van der Waals magnets. This study provides a new description of excitons and excitonic transitions in CrPS4. The rich fine structure observed at the optical gap by photoluminescence and photoluminescence excitation spectroscopies is shown to be dominated by on-site Cr3+ spin-flip transitions coupled to spin transitions in the surrounding CrPS4 lattice. This coupling generates resolved magnon sidebands reflecting dispersion along the lattice’s linear Cr3+ chains. Rapid exciton diffusion indicates weakly dispersive excitons that are highly susceptible to traps and luminescence activators.\n\n[Phys. Rev. Materials 10, 054001] Published Fri May 01, 2026",
+          "link": "http://link.aps.org/doi/10.1103/wmmx-thx3",
+          "publishedOn": "2026-05-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Impact of magnons, defects, and rapid energy migration on the optical properties of the 2D magnet ${\\mathrm{CrPS}}_{4}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/gbg1-pjgq",
+          "author": "John R. V. Crump, Maxime Gadioux, Harvey S. Reall, and Jorge E. Santos",
+          "description": "Author(s): John R. V. Crump, Maxime Gadioux, Harvey S. Reall, and Jorge E. Santos\nThe violation of the third law of black hole mechanics in higher dimensional vacuum gravity is numerically demonstrated.\n\n[Phys. Rev. Lett. 136, 171405] Published Fri May 01, 2026",
+          "link": "http://link.aps.org/doi/10.1103/gbg1-pjgq",
+          "publishedOn": "2026-05-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Violation of the Third Law of Black Hole Mechanics in Vacuum Gravity",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/q8hg-pwbf",
+          "author": "Hongtao Yan, Chun-Chih Tseng, Anzhuoer Li, Manish Kumar, Kaile Wang, Shizai Chu, Kenji Watanabe, Takashi Taniguchi, Allan H. MacDonald, Matthew Yankowitz, and Keji Lai",
+          "description": "Author(s): Hongtao Yan, Chun-Chih Tseng, Anzhuoer Li, Manish Kumar, Kaile Wang, Shizai Chu, Kenji Watanabe, Takashi Taniguchi, Allan H. MacDonald, Matthew Yankowitz, and Keji Lai\nThe contrasting edge evolution between ν=0, consistent with a canted antiferromagnetic phase, and |ν|≥1 chiral edge channels reveals the microscopic distinction between trivial and topological states.\n\n[Phys. Rev. Lett. 136, 176603] Published Fri May 01, 2026",
+          "link": "http://link.aps.org/doi/10.1103/q8hg-pwbf",
+          "publishedOn": "2026-05-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Microwave Imaging of Edge Conductivity in Graphene at Charge Neutrality and Quantum Hall States",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/wzfr-rllh",
           "author": "Konstantin Lion, Piero Mazzolini, Kingsley Egbo, Toni Markurt, Oliver Bierwagen, Martin Albrecht, and Claudia Draxl",
           "description": "Author(s): Konstantin Lion, Piero Mazzolini, Kingsley Egbo, Toni Markurt, Oliver Bierwagen, Martin Albrecht, and Claudia Draxl\nUnderstanding how atoms arrange on semiconductor surfaces is critical for growing high-quality thin films for electronic devices. Using quantum-mechanical simulations combined with high-resolution electron microscopy, we discover a previously unknown 1 x 2 surface reconstruction of β-Ga2O3(001), a leading candidate for next-generation power electronics. In this structure, gallium and oxygen atoms form edge-sharing tetrahedral units on the surface, exhibiting remarkable stability across a wide range of experimental growth conditions. We also find that indium atoms, used as catalysts during growth, preferentially substitute into the surface in cooperative groupings, offering new guidance for optimizing film deposition.\n\n[Phys. Rev. Materials 10, 043603] Published Thu Apr 30, 2026",
@@ -13,6 +43,16 @@
           "publishedOn": "2026-04-30T10:00:00.000Z",
           "wordCount": null,
           "title": "$β{\\text{-Ga}}_{2}{\\mathrm{O}}_{3}(001)$ surface reconstructions from first principles and experiment",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/fdrg-gw3s",
+          "author": "C. H. Leung <em>et al.</em> (FNAL E906/SeaQuest Collaboration)",
+          "description": "Author(s): C. H. Leung et al. (FNAL E906/SeaQuest Collaboration)\nFinal measurements from the SeaQuest collaboration with improved statistics finds clear signatures of more anti-d quarks compared to anti-u quarks within a proton, including at larger x>0.25 in agreement with theoretical models.\n\n[Phys. Rev. Lett. 136, 171901] Published Thu Apr 30, 2026",
+          "link": "http://link.aps.org/doi/10.1103/fdrg-gw3s",
+          "publishedOn": "2026-04-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Final SeaQuest Results on the Flavor Asymmetry of the Proton Light-Quark Sea with Proton-Induced Drell-Yan Process",
           "imageUrl": null
         },
         {
@@ -963,46 +1003,6 @@
           "publishedOn": "2026-04-13T10:00:00.000Z",
           "wordCount": null,
           "title": "Multiprobe cosmology forecasts from halo-occupation-distribution-based forward modeling of galaxy and void statistics",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/pbv5-nw8c",
-          "author": "R. J. McGuigan and S. P. Jamison",
-          "description": "Author(s): R. J. McGuigan and S. P. Jamison\nWe show that purely linear acceleration of ultra-short electron bunches results in emission of a significant amount of radiation in regimes within reach of current experiments. In cases relevant to plasma acceleration, with fields of 10’s of GV/m, radiation losses are around 100µJ with losses increasing for larger acceleration field strength and shorter bunches. We also predict that acceleration with field strengths accessible to traditional RF accelerating structures results in a measurable radiation pulse of energy of 100’s of nJ. These higher-than-expected losses are due to coherence effects such that the power of the emitted radiation scales with the square of the total charge.\n\n[Phys. Rev. Accel. Beams 29, 041003] Published Mon Apr 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/pbv5-nw8c",
-          "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Coherent radiation of ultrashort electron-bunches from linear acceleration",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3g5j-f935",
-          "author": "Geoffrey Zheng, Jianwei Wang, Mohit Verma, Qian Wang, Thomas K. Langin, and David DeMille",
-          "description": "Author(s): Geoffrey Zheng, Jianwei Wang, Mohit Verma, Qian Wang, Thomas K. Langin, and David DeMille\nThe authors introduce a scheme for laser cooling and magneto-optical trapping of the group-IV atoms, including silicon, germanium, tin, and lead, with a much more challenging structure than the usual alkali-metal and alkaline-earth-metal atoms. They propose an experimental setup for realizing a magneto-optical trap for tin and discuss a wide variety of potential applications.\n\n[Phys. Rev. A 113, 043115] Published Mon Apr 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3g5j-f935",
-          "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Simulated laser cooling and magneto-optical trapping of group-IV atoms",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/t5wx-z86b",
-          "author": "Hao Wang, Jiayu Yuan, Hongkai Shi, Haojie Li, Xiaoqing Jia, Xiaohui Song, Liyu Shi, Tianyi Wu, Li Yue, Yangmu Li, Kui Jin, Dong Wu, Jianlin Luo, Xinbo Wang, Tao Dong, and Nan-Lin Wang",
-          "description": "Author(s): Hao Wang, Jiayu Yuan, Hongkai Shi, Haojie Li, Xiaoqing Jia, Xiaohui Song, Liyu Shi, Tianyi Wu, Li Yue, Yangmu Li, Kui Jin, Dong Wu, Jianlin Luo, Xinbo Wang, Tao Dong, and Nan-Lin Wang\nA persistent normal-state third-harmonic generation (THG) signal extending up to ten times Tc and a multipeak THG spectrum in the superconducting state reveal an unexpected interplay between disorder, electronic correlations, and superconducting inhomogeneity.\n\n[Phys. Rev. Lett. 136, 146004] Published Fri Apr 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/t5wx-z86b",
-          "publishedOn": "2026-04-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Anomalous Terahertz Nonlinearity in Disordered $s$-Wave Superconductor Close to the Superconductor-Insulator Transition",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/hdh6-r1gy",
-          "author": "Felix Ahrens and Andrea Vinante",
-          "description": "Author(s): Felix Ahrens and Andrea Vinante\nAn isolated magnet’s intrinsic angular momentum induces gyroscopic motion, an observation that could lead to ultrasensitive magnetometers.\n\n[Phys. Rev. Lett. 136, 146703] Published Fri Apr 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/hdh6-r1gy",
-          "publishedOn": "2026-04-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Observation of Gyroscopic Coupling in a Nonspinning Levitated Ferromagnet",
           "imageUrl": null
         }
       ]
