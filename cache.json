@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/1bl4-b2f7",
+          "author": "Vladislav D. Kurilovich, Gabrielle Roberts, Leigh S. Martin, Matt McEwen, Alec Eickbusch, Lara Faoro, Lev B. Ioffe, Juan Atalaya, Alexander Bilmes, John Mark Kreikebaum, Andreas Bengtsson, Paul Klimov, Matthew Neeley, Wojciech Mruczkiewicz, Kevin Miao, Igor L. Aleiner, Julian Kelly, Yu Chen, Kevin Satzinger, and Alex Opremcak",
+          "description": "Author(s): Vladislav D. Kurilovich, Gabrielle Roberts, Leigh S. Martin, Matt McEwen, Alec Eickbusch, Lara Faoro, Lev B. Ioffe, Juan Atalaya, Alexander Bilmes, John Mark Kreikebaum, Andreas Bengtsson, Paul Klimov, Matthew Neeley, Wojciech Mruczkiewicz, Kevin Miao, Igor L. Aleiner, Julian Kelly, Yu Chen, Kevin Satzinger, and Alex Opremcak\nIonizing radiation is shown to induce a new type of correlated error in a superconducting quantum processor—phase error bursts—that undermines quantum error correction even with state-of-the-art radiation protection.\n\n[Phys. Rev. X 16, 021025] Published Mon May 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/1bl4-b2f7",
+          "publishedOn": "2026-05-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Correlated Phase Error Bursts in a Gap-Engineered Superconducting Qubit Array",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/n8j9-63mz",
+          "author": "W. K. Yam, S. Gandorfer, F. Fesquet, M. Handschuh, K. E. Honasoge, A. Marx, R. Gross, and K. G. Fedorov",
+          "description": "Author(s): W. K. Yam, S. Gandorfer, F. Fesquet, M. Handschuh, K. E. Honasoge, A. Marx, R. Gross, and K. G. Fedorov\nThe deterministic quantum teleportation of microwave coherent states between two spatially-separated dilution refrigerators connected via a superconducting channel operating at temperatures up to 4 Kelvin demonstrates the experimental feasibility of quantum communication over a thermal microwave network.\n\n[Phys. Rev. Lett. 136, 180801] Published Mon May 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/n8j9-63mz",
+          "publishedOn": "2026-05-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Quantum Teleportation over Thermal Microwave Network",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/3n5l-8l32",
+          "author": "Jaladhar Mahato, Siyang Wang, and Laura J. Kaufman",
+          "description": "Author(s): Jaladhar Mahato, Siyang Wang, and Laura J. Kaufman\nSingle-molecule measurements and a generalized Langevin framework show that subdiffusive, non-Gaussian probe transport near the glass transition arises from progressively softening viscoelastic confinement. This provides direct microscopic evidence of dynamic heterogeneity and suggests a pathway to more fully understand glassy dynamics in polymer glass formers.\n#TheoryExperiment #SoftMatterSpotlight\n\n[Phys. Rev. E 113, 055401] Published Mon May 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/3n5l-8l32",
+          "publishedOn": "2026-05-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Anomalous translational dynamics of molecular probes near the polymer glass transition",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/b9g7-h378",
+          "author": "Giacomo Marco La Montagna, Sumeja Bureković, Ananyo Maitra, and Cesare Nardini",
+          "description": "Author(s): Giacomo Marco La Montagna, Sumeja Bureković, Ananyo Maitra, and Cesare Nardini\nTopological defects in active nematic systems are known to display strikingly different properties, such as self-propulsion, compared to their equilibrium counterparts. Combining analytical results with numerical simulations, the authors show that activity also modifies the shape of defects, which had been previously overlooked in the literature.\n#SoftMatterSpotlight #ClearMotivation\n\n[Phys. Rev. E 113, L053401] Published Mon May 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/b9g7-h378",
+          "publishedOn": "2026-05-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Shape dictates the motion of topological defects in active nematics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/7yn2-22h6",
+          "author": "Ruijie Guo, Hongyu Yu, Liangliang Hong, Shiyou Chen, Xingao Gong, and Hongjun Xiang",
+          "description": "Author(s): Ruijie Guo, Hongyu Yu, Liangliang Hong, Shiyou Chen, Xingao Gong, and Hongjun Xiang\nStandard machine learning interatomic potentials often neglect crucial long-range interactions. Inspired by the Ewald summation method, the authors introduce here a reciprocal-space neural network to capture diverse long-range interactions (including Coulomb and van der Waals interactions), while preserving Euclidean symmetry. This approach significantly enhances the accuracy of the potentials and global properties for complex materials, such as defective gallium nitride and hafnium oxide.\n\n[Phys. Rev. B 113, 174101] Published Mon May 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/7yn2-22h6",
+          "publishedOn": "2026-05-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Capturing long-range interactions with a reciprocal-space neural network",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/nq3l-vbkb",
+          "author": "Xun Chen, Rui Bian, Yuqian Zhao, Haijun Liao, Weiqiang Yu, Yi Cui, and Yuesheng Li",
+          "description": "Author(s): Xun Chen, Rui Bian, Yuqian Zhao, Haijun Liao, Weiqiang Yu, Yi Cui, and Yuesheng Li\nSpin liquids usually emerge in low-spin (S=½ or 1) systems with strong quantum fluctuations. Here, the authors show that GdZnPO—a structurally disorder-free, high-spin (S=7⁄2) frustrated honeycomb antiferromagnet—defies this expectation. Nuclear magnetic resonance (NMR) measurements reveal persistent spin dynamics and spin-liquid behavior down to the lowest accessible temperatures in GdZnPO.\n\n[Phys. Rev. B 113, 174402] Published Mon May 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/nq3l-vbkb",
+          "publishedOn": "2026-05-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Spiral spin liquid resilient to quantization in the frustrated honeycomb antiferromagnet GdZnPO",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/yfqy-6235",
+          "author": "Kunihiro Yananose, Changwon Park, and Young-Woo Son",
+          "description": "Author(s): Kunihiro Yananose, Changwon Park, and Young-Woo Son\nLocalized states are known to form in semiconducting moiré materials, but the bilayer geometry precludes in situ tuning of the interactions between them. Based on large-scale simulations, the authors show here that electrically tuning the polar domains of twisted trilayer hexagonal boron nitrides reconfigures extensive arrays of quantum dots, in which localized states realize ideal quantum harmonic oscillator wavefunctions. This capability stems from the various domain tessellations of trilayer moiré systems, which contrast sharply with the simple triangular pattern of bilayers.\n\n[Phys. Rev. B 113, 205407] Published Mon May 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/yfqy-6235",
+          "publishedOn": "2026-05-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Super moiré domain tessellations, sliding ferroelectricity, and reconfigurable quantum dot arrays in twisted trilayer hexagonal boron nitride",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/wmmx-thx3",
           "author": "Jacob T. Baillie, Eden Tzanetopoulos, Rachel T. Smith, Rémi Beaulac, and Daniel R. Gamelin",
           "description": "Author(s): Jacob T. Baillie, Eden Tzanetopoulos, Rachel T. Smith, Rémi Beaulac, and Daniel R. Gamelin\nThe layered antiferromagnet CrPS4 offers a compelling platform for exploring strong coupling between optical and magnetic properties in van der Waals magnets. This study provides a new description of excitons and excitonic transitions in CrPS4. The rich fine structure observed at the optical gap by photoluminescence and photoluminescence excitation spectroscopies is shown to be dominated by on-site Cr3+ spin-flip transitions coupled to spin transitions in the surrounding CrPS4 lattice. This coupling generates resolved magnon sidebands reflecting dispersion along the lattice’s linear Cr3+ chains. Rapid exciton diffusion indicates weakly dispersive excitons that are highly susceptible to traps and luminescence activators.\n\n[Phys. Rev. Materials 10, 054001] Published Fri May 01, 2026",
@@ -933,76 +1003,6 @@
           "publishedOn": "2026-04-14T10:00:00.000Z",
           "wordCount": null,
           "title": "Milestone toward an electron cyclotron resonance ion plasma accelerator demonstrator",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/618x-hmhg",
-          "author": "Guofei Yang, Hengrui Gui, Boqin Song, Huiqing Ye, Yifan Wan, Guoqing Zeng, Chengwei Wang, Xudong Zhao, Zekai Shi, Michael Smidman, Chenchao Xu, Chao Cao, Tianping Ying, Lin Jiao, and Huiqiu Yuan",
-          "description": "Author(s): Guofei Yang, Hengrui Gui, Boqin Song, Huiqing Ye, Yifan Wan, Guoqing Zeng, Chengwei Wang, Xudong Zhao, Zekai Shi, Michael Smidman, Chenchao Xu, Chao Cao, Tianping Ying, Lin Jiao, and Huiqiu Yuan\nFrustration-induced flat band systems offer a unique pathway to realize Kondo physics. Here, the authors use scanning tunneling spectroscopy and thermodynamic probes to reveal highly tunable Kondo effect in the kagome compound CsCr6Sb6. They show that temperature and in-plane magnetic field tune the competition between Kondo effect and underlying magnetism, establishing this compound as a new paradigm for studying correlated quantum states in 3d electron systems.\n\n[Phys. Rev. B 113, 155128] Published Tue Apr 14, 2026",
-          "link": "http://link.aps.org/doi/10.1103/618x-hmhg",
-          "publishedOn": "2026-04-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Highly tunable Kondo effect with competing magnetism in the kagome lattice compound ${\\mathrm{CsCr}}_{6}{\\mathrm{Sb}}_{6}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/f53n-9ccy",
-          "author": "Hiroshi Imao",
-          "description": "Author(s): Hiroshi Imao\nWe introduce a novel beam-cooling concept for multicharge-state heavy-ion beams based on a new multi-zone stripper configuration in a charge stripper ring, where stochastic charge-state transitions combined with charge-state-dependent closed-orbit shifts turn charge exchange—normally associated with beam heating—into a mechanism for rapid cooling. Numerical simulations show substantial emittance reduction within tens of turns, allowing the scheme to overcome beam heating caused by beam-matter interactions. The concept opens new possibilities for sustaining beam-matter interactions and controlling intense heavy-ion beams in future accelerator facilities.\n\n[Phys. Rev. Accel. Beams 29, L044001] Published Tue Apr 14, 2026",
-          "link": "http://link.aps.org/doi/10.1103/f53n-9ccy",
-          "publishedOn": "2026-04-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Charge-exchange cooling of multicharge-state heavy-ion beams",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/flhb-kjyd",
-          "author": "Jack Binysh, Guido Baardink, Jonas Veenstra, Corentin Coulais, and Anton Souslov",
-          "description": "Author(s): Jack Binysh, Guido Baardink, Jonas Veenstra, Corentin Coulais, and Anton Souslov\nBy combining experiments with robotic metamaterials and theory, this work shows that increasing microscopic activity can counterintuitively cause a solid’s macroscale active response to vanish when active units are too sparse for the active forces to percolate through the structure.\n\n[Phys. Rev. X 16, 021012] Published Mon Apr 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/flhb-kjyd",
-          "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "More is Less in Unpercolated Active Solids",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/bt23-4y1t",
-          "author": "Rishik Perugu, Bryce Kobrin, Michael O. Flynn, and Thomas Scaffidi",
-          "description": "Author(s): Rishik Perugu, Bryce Kobrin, Michael O. Flynn, and Thomas Scaffidi\nOperator growth at finite temperature in quantum chaotic systems relies on coherent spreading in the Krylov basis.\n\n[Phys. Rev. Lett. 136, 150402] Published Mon Apr 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/bt23-4y1t",
-          "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Krylov Winding and Emergent Coherence in Operator Growth Dynamics",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ncq1-yzpd",
-          "author": "Can Zhang, Hua Chen, Ying Su, Fudi Zhou, Lili Zhou, Zhaoteng Dong, Mengya Ren, Lijun Zhang, Yu Zhang, and Yeliang Wang",
-          "description": "Author(s): Can Zhang, Hua Chen, Ying Su, Fudi Zhou, Lili Zhou, Zhaoteng Dong, Mengya Ren, Lijun Zhang, Yu Zhang, and Yeliang Wang\nThe first experimental evidence that a 1D nanostructure induces Kekulé spiral order in graphene.\n\n[Phys. Rev. Lett. 136, 156401] Published Mon Apr 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/ncq1-yzpd",
-          "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Imaging Kekulé Spiral Order in Graphene",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/hhdf-xpwg",
-          "author": "Tiago V. C. Antão, Yitao Sun, Adolfo O. Fumega, and Jose L. Lado",
-          "description": "Author(s): Tiago V. C. Antão, Yitao Sun, Adolfo O. Fumega, and Jose L. Lado\nA quantum-many-body-inspired tensor-network algorithm can compute local topological invariants for systems with hundreds of millions of sites by avoiding an explicit storage of Hamiltonian matrices.\n\n[Phys. Rev. Lett. 136, 156601] Published Mon Apr 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/hhdf-xpwg",
-          "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Tensor Network Method for Real-Space Topology in Quasicrystal Chern Mosaics",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/mydr-vtgc",
-          "author": "Andrés N. Salcedo, Alice Pisani, and Nico Hamaus",
-          "description": "Author(s): Andrés N. Salcedo, Alice Pisani, and Nico Hamaus\nThis paper presents a study of cosmological parameter forecasts based on a combination of cosmic void statistics and galaxy clustering. The DESI 5 year data and results from other imaging surveys are used to demonstrate how void statistics can be used together with traditional galaxy clustering in an efficient manner in cosmological parameter forecasts.\n\n[Phys. Rev. D 113, 083516] Published Mon Apr 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/mydr-vtgc",
-          "publishedOn": "2026-04-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Multiprobe cosmology forecasts from halo-occupation-distribution-based forward modeling of galaxy and void statistics",
           "imageUrl": null
         }
       ]
