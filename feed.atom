@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T02:26:23.408Z</id>
+    <id>urn:2026-05-08T02:33:20.251Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T02:26:23.408Z</updated>
+    <updated>2026-05-08T02:33:20.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,6 +16,19 @@ The observation of ultrahigh-energy radiation from a binary star system suggests
 [Phys. Rev. Lett. 136, 181001] Published Wed May 06, 2026]]></summary>
         <author>
             <name>Zhen Cao &lt;em&gt;et al.&lt;/em&gt; (LHAASO Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolving the Arrhenius Paradox by Isochoric Analysis of Rotational Barriers in Molecular Glasses]]></title>
+        <id>http://link.aps.org/doi/10.1103/jpnz-xfbj</id>
+        <link href="http://link.aps.org/doi/10.1103/jpnz-xfbj"/>
+        <updated>2026-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Marzena Rams-Baron, Alfred Błażytko, Riccardo Casalini, and Marian Paluch
+The long-standing Arrhenius paradox in molecular glasses is resolved by showing that activation energy decreases linearly with temperature as a consequence of density-driven variations of the barrier.
+
+[Phys. Rev. Lett. 136, 188202] Published Wed May 06, 2026]]></summary>
+        <author>
+            <name>Marzena Rams-Baron, Alfred Błażytko, Riccardo Casalini, and Marian Paluch</name>
         </author>
     </entry>
     <entry>
@@ -55,6 +68,19 @@ Traveling-wave parametric amplifiers (TWPAs), essential components of supercondu
 [Phys. Rev. Applied 25, 054016] Published Wed May 06, 2026]]></summary>
         <author>
             <name>M. Malnou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design of a storage ring based on a fixed-field alternating-gradient configuration with an internal target for heavy-ion beams with stochastic charge state conversions]]></title>
+        <id>http://link.aps.org/doi/10.1103/th5l-mq3q</id>
+        <link href="http://link.aps.org/doi/10.1103/th5l-mq3q"/>
+        <updated>2026-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yoshihiro Ishi, Tomonori Uesugi, Yoshiharu Mori, and Katsuhisa Nishio
+Heavy-ion storage rings with internal targets offer highly efficient production of rare events, but are severely limited by stochastic charge-state conversion at each target interaction, which drives rapid transverse emittance growth. We introduce a concept based on a scaling fixed-field alternating-gradient (FFA) lattice with an azimuthally modulated field index k to overcome this fundamental limitation. This approach is found to significantly suppress emittance growth, particularly in the horizontal plane. Six-dimensional beam-tracking simulations incorporating energy loss, scattering, and charge-state conversion are presented, demonstrating effectiveness under realistic conditions.
+
+[Phys. Rev. Accel. Beams 29, 050101] Published Wed May 06, 2026]]></summary>
+        <author>
+            <name>Yoshihiro Ishi, Tomonori Uesugi, Yoshiharu Mori, and Katsuhisa Nishio</name>
         </author>
     </entry>
     <entry>
@@ -1282,32 +1308,6 @@ Disordered quantum spin liquid materials often display both quantum fluctuations
 [Phys. Rev. B 113, 134427] Published Thu Apr 16, 2026]]></summary>
         <author>
             <name>Caitlin S. T. Kengle, S. M. Thomas, R. Movshovich, Shengzhi Zhang, Eun Sang Choi, Minseong Lee, P. F. S. Rosa, and A. O. Scheie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multichannel Kondo effect in one-dimensional superconducting leads]]></title>
-        <id>http://link.aps.org/doi/10.1103/fzw2-xk49</id>
-        <link href="http://link.aps.org/doi/10.1103/fzw2-xk49"/>
-        <updated>2026-04-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pradip Kattel, Abay Zhakenov, and Natan Andrei
-The authors uncover here a rich phase diagram when a quantum spin is placed in an interacting superconducting system, with different phases arising due to the competition of the Kondo and superconducting interactions. Particularly surprising is the appearance of multichannel physics in a gapped superconducting phase. They further show that in each phase, the Hilbert space splits into several towers of excitations. By computing the impurity entropy explicitly in each phase, they show that the excitation towers induce interesting nonmonotonic behavior, which is experimentally accessible.
-
-[Phys. Rev. B 113, 165130] Published Thu Apr 16, 2026]]></summary>
-        <author>
-            <name>Pradip Kattel, Abay Zhakenov, and Natan Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin-spiral instability of the Nagaoka ferromagnet in the crossover between square and triangular lattices]]></title>
-        <id>http://link.aps.org/doi/10.1103/6q8x-rsqt</id>
-        <link href="http://link.aps.org/doi/10.1103/6q8x-rsqt"/>
-        <updated>2026-04-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Darren Pereira and Erich J. Mueller
-The hard-core Fermi-Hubbard model displays a massive spin degeneracy at half-filling: superexchange is forbidden in the hard-core limit, so all spin configurations have the same energy. Introducing a single hole, whose kinetic energy depends on the spin state, leads to magnetic ordering. This ordering is lattice dependent. The authors study here how it evolves as one interpolates between a square and triangular lattice, which can be explored using optical lattices. Using perturbative and variational arguments, they identify a phase transition between a ferromagnet and a spin-spiral state.
-
-[Phys. Rev. B 113, L161114] Published Thu Apr 16, 2026]]></summary>
-        <author>
-            <name>Darren Pereira and Erich J. Mueller</name>
         </author>
     </entry>
 </feed>
