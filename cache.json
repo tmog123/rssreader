@@ -56,6 +56,26 @@
           "imageUrl": null
         },
         {
+          "id": "http://link.aps.org/doi/10.1103/rcln-nkm7",
+          "author": "Peng Yu, Han Fu, William F. Schiela, William Strickland, Bassel Heiba Elfeky, S. M. Farzaneh, Jacob Issokson, Wei Pan, Enrico Rossi, and Javad Shabani",
+          "description": "Author(s): Peng Yu, Han Fu, William F. Schiela, William Strickland, Bassel Heiba Elfeky, S. M. Farzaneh, Jacob Issokson, Wei Pan, Enrico Rossi, and Javad Shabani\nEngineering the geometry of planar Josephson junctions can unlock enhanced functionalities, including an increased superconducting gap and a stronger superconducting diode effect. Here, the authors introduce a novel junction geometry featuring gate-tunable hole arrays embedded within the superconducting leads, enabling control over Andreev reflection. When a top gate depletes the 2DEG in the hole-array region, the superconducting diode effect is significantly enhanced while the overall supercurrent remains largely preserved. Theoretical analysis reveals that this enhancement originates from increased asymmetry in band-dependent transparency across the junction.\n\n[Phys. Rev. B 113, 205411] Published Fri May 08, 2026",
+          "link": "http://link.aps.org/doi/10.1103/rcln-nkm7",
+          "publishedOn": "2026-05-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Enhanced superconducting diode effect in hybrid Josephson junctions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/kk2s-s43l",
+          "author": "H. Tünnermann, Y. Chen, A. Klemps, D. Ilia, M. Cai, N. Ay, B. Beutner, F. Brinker, W. Decking, J. Good, I. Hartl, W. Hillert, Y. Jiang, C. Li, T. Long, C. Mahnke, H. Panuganti, F. Pressacco, and M. Scholz",
+          "description": "Author(s): H. Tünnermann, Y. Chen, A. Klemps, D. Ilia, M. Cai, N. Ay, B. Beutner, F. Brinker, W. Decking, J. Good, I. Hartl, W. Hillert, Y. Jiang, C. Li, T. Long, C. Mahnke, H. Panuganti, F. Pressacco, and M. Scholz\nEmittance minimization in high-brightness photoinjectors is a key challenge for x-ray free-electron lasers. We demonstrate a data- and model-guided framework combining physics-informed laser shaping with inverse emittance modeling. The approach achieves ~20% emittance reduction and enables reliable, stable shaped electron bunches for sustained high-intensity FEL operation at the European XFEL.\n\n[Phys. Rev. Accel. Beams 29, 050701] Published Fri May 08, 2026",
+          "link": "http://link.aps.org/doi/10.1103/kk2s-s43l",
+          "publishedOn": "2026-05-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Data-model-guided framework for systemic emittance minimization in high-brightness photoinjectors",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/pdnh-1yxs",
           "author": "Caroline Nowoczyn, Ludwig Mathey, and Kilian Seibold",
           "description": "Author(s): Caroline Nowoczyn, Ludwig Mathey, and Kilian Seibold\nTying together classical attractor dynamics and dissipative quantum systems, the authors investigate the quantum-to-classical crossover of quasiperiodic attractors, specifically limit tori in coupled Kerr cavities. They identify a universal “quantum melting” process driven by dephasing.\n\n[Phys. Rev. A 113, 052208] Published Fri May 08, 2026",
@@ -63,6 +83,16 @@
           "publishedOn": "2026-05-08T10:00:00.000Z",
           "wordCount": null,
           "title": "Universal quantum melting of quasiperiodic attractors in driven-dissipative cavities",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/ftpc-qq4c",
+          "author": "Alberto Canali, Chun-Kit Wong, Luc Absil, Zhu-Xiong Ye, Marian Kreyer, Emil Kirilov, and Rudolf Grimm",
+          "description": "Author(s): Alberto Canali, Chun-Kit Wong, Luc Absil, Zhu-Xiong Ye, Marian Kreyer, Emil Kirilov, and Rudolf Grimm\nThe authors experimentally study the decay of a dense, ultracold sample of weakly bound DyK dimers stored in an optical dipole trap. They identify trap-light-induced and collisional processes as the two main sources of losses, and demonstrate ways to reduce these losses substantially.\n\n[Phys. Rev. A 113, 053306] Published Fri May 08, 2026",
+          "link": "http://link.aps.org/doi/10.1103/ftpc-qq4c",
+          "publishedOn": "2026-05-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Optically trapped Feshbach molecules of fermionic $^{161}\\mathrm{Dy}$ and $^{40}\\mathrm{K}$: Role of light-induced and collisional losses",
           "imageUrl": null
         },
         {
@@ -973,36 +1003,6 @@
           "publishedOn": "2026-04-20T10:00:00.000Z",
           "wordCount": null,
           "title": "Ray-tracing image simulations of transparent objects with complex shape and inhomogeneous refractive index",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/n2kv-fxf8",
-          "author": "Atul Rathor, Sahanawaj Akhtar, and Arijit Haldar",
-          "description": "Author(s): Atul Rathor, Sahanawaj Akhtar, and Arijit Haldar\nThe authors show here that quasi-two-dimensional magnetic insulators comprising a few layers are fundamentally distinct, at the quantum geometric level, from perfectly flat single-layered 2D magnets. They discover that magnon excitations in such quasi-2D insulators experience in-plane components of a bosonic symplectic Berry curvature, absent in flat 2D magnetic insulators. They call this the “hidden magnon Berry curvature” (HMBC). They propose that HMBC can generate (and be detected via) magnon transport perpendicular to the layers of van der Waals materials in response to thermal or magnetic-field gradients. Their work points toward the possibility of yet-undiscovered hidden quantum geometric transport in layered quasi-2D magnets.\n\n[Phys. Rev. B 113, 144426] Published Mon Apr 20, 2026",
-          "link": "http://link.aps.org/doi/10.1103/n2kv-fxf8",
-          "publishedOn": "2026-04-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Hidden magnon Berry curvature drives vertical magnon transport",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/j85h-qy7z",
-          "author": "Houyin Li (李厚银), Yiqin Yang (杨宜钦), Cheng-Xin Deng (邓程欣), Jin Li (黎锦), Kun Zhang (张坤), Yan Peng (彭研), Rong-Li Wang (王荣丽), Cheng He (何程), and Hai Yang (杨海)",
-          "description": "Author(s): Houyin Li (李厚银), Yiqin Yang (杨宜钦), Cheng-Xin Deng (邓程欣), Jin Li (黎锦), Kun Zhang (张坤), Yan Peng (彭研), Rong-Li Wang (王荣丽), Cheng He (何程), and Hai Yang (杨海)\nHere, the authors reveal distinct layer-dependent higher-order topological corner states in bilayer triangular lattice sonic crystals, enabled by the coupling between valley and layer degrees of freedom. By rotating the scatterers, four distinct bulk topological phases are realized, giving rise to layer-mixed, layer-polarized, and layer-locked corner states, including a semi-localized type-III corner mode. A valley-selective design allows for precise tuning of the localization and frequency of these states, establishing a versatile platform for acoustic multiplexing and sensing.\n\n[Phys. Rev. B 113, 155142] Published Mon Apr 20, 2026",
-          "link": "http://link.aps.org/doi/10.1103/j85h-qy7z",
-          "publishedOn": "2026-04-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Different types of corner states induced by layer degree of freedom in bilayer sonic crystals",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/4hqt-9n6g",
-          "author": "W. Joe Meese and Rafael M. Fernandes",
-          "description": "Author(s): W. Joe Meese and Rafael M. Fernandes\nThe authors resolve here a long-standing paradox in strongly correlated systems. While electronic nematicity is widely observed in quantum materials on macroscopic scales, it also appears unstable to structural disorder on microscopic scales. The resolution stems from the geometry of deformed solids. Nematicity is shown to inherit compatibility constraints from elasticity which ensure that the crystal deforms without cracking. This splits nematic fluctuations universally by their momentum direction into compatible modes responsible for mean-field criticality and elastically suppressed modes susceptible to structural disorder.\n\n[Phys. Rev. B 113, 165136] Published Mon Apr 20, 2026",
-          "link": "http://link.aps.org/doi/10.1103/4hqt-9n6g",
-          "publishedOn": "2026-04-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Theory of electronic nematic criticality constrained by elastic compatibility",
           "imageUrl": null
         }
       ]
