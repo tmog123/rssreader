@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/44fz-2y3x",
+          "author": "Tom Reshef-Israeli and Shulamit Kapon",
+          "description": "Author(s): Tom Reshef-Israeli and Shulamit Kapon\nA novel methodology provides a time-resolved account of collaborative modeling by small groups and offers insights for supporting modeling-rich physics learning.\n\n[Phys. Rev. Phys. Educ. Res. 22, 010141] Published Wed May 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/44fz-2y3x",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Dynamics of collaborative modeling in an ill-structured real-world problem",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/fdvq-9m8m",
+          "author": "Satoshi Yoshida, Jisho Miyazaki, and Mio Murao",
+          "description": "Author(s): Satoshi Yoshida, Jisho Miyazaki, and Mio Murao\nFor isometry channels, quantum protocols based on port-based teleportation outperform classical estimate-and-prepare strategies in terms of both query complexity and program cost, achieving a provable asymptotic advantage.\n\n[Phys. Rev. Lett. 136, 190601] Published Wed May 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/fdvq-9m8m",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Quantum Advantage in Storage and Retrieval of Isometry Channels",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/nxjq-jwgp",
+          "author": "Dominik Koll, Annabel Rolofs, Florian Adolphi, Sebastian Fichter, Maria Hoerhold, Johannes Lachner, Stefan Pavetich, Georg Rugel, Stephen Tims, Frank Wilhelms, Sebastian Zwickel, and Anton Wallner",
+          "description": "Author(s): Dominik Koll, Annabel Rolofs, Florian Adolphi, Sebastian Fichter, Maria Hoerhold, Johannes Lachner, Stefan Pavetich, Georg Rugel, Stephen Tims, Frank Wilhelms, Sebastian Zwickel, and Anton Wallner\nIron-60 buried in Antarctica reveals changes in the local interstellar environment.\n\n[Phys. Rev. Lett. 136, 192701] Published Wed May 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/nxjq-jwgp",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Local Interstellar Cloud Structure Imprinted in Antarctic Ice by Supernova $^{60}\\mathrm{Fe}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/vxsz-nnf3",
+          "author": "Yiyang Zhang, Jinrong Liu, Liujun Xu, Peng Jin, Fabio Marchesoni, and Jiping Huang",
+          "description": "Author(s): Yiyang Zhang, Jinrong Liu, Liujun Xu, Peng Jin, Fabio Marchesoni, and Jiping Huang\nA new metamaterial design eliminates internal distortions that can adversely affect applications in cloaking and sensing.\n\n[Phys. Rev. Lett. 136, 196901] Published Wed May 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/vxsz-nnf3",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Dual-Zero-Scattering in Diffusive Transport",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/78jb-mtnq",
+          "author": "Solmaz Golmohammadi, Mina Zarei, and Jacopo Grilli",
+          "description": "Author(s): Solmaz Golmohammadi, Mina Zarei, and Jacopo Grilli\nAt the intersection of population ecology and statistical physics, this study addresses how two factors, demographic stochasticity and migration, govern the emergence of large-scale synchronization in predator-prey metapopulations. The authors demonstrate that the collective phase dynamics of coupled ecological oscillators can be rigorously mapped onto a theoretical framework analogous to the classic XY model of statistical mechanics.\n#BiophysicsSpotlight #Interdisciplinary\n\n[Phys. Rev. E 113, 054409] Published Wed May 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/78jb-mtnq",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Modeling spatial synchronization of predator-prey oscillations via the $XY$ model under demographic stochasticity and migration",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/gr8x-lf9f",
+          "author": "Andrea Casale, Angelo Esposito, Guido Menichetti, and Valentina Tozzini",
+          "description": "Author(s): Andrea Casale, Angelo Esposito, Guido Menichetti, and Valentina Tozzini\nNew density-functional-theory calculations describe the radioactive decay of tritium bound to graphene, offering a way to model experiments that could open cleaner windows onto neutrino mass.\n\n[Phys. Rev. C 113, 054607] Published Wed May 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/gr8x-lf9f",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "$β$-decay spectrum of tritiated graphene: Combining nuclear quantum mechanics with density functional theory",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/2rtn-qkg9",
+          "author": "Wyatt Gibbons, Teng Zhang, Kevin Barrow, Tyler Lindemann, Jukka I. Väyrynen, and Michael J. Manfra",
+          "description": "Author(s): Wyatt Gibbons, Teng Zhang, Kevin Barrow, Tyler Lindemann, Jukka I. Väyrynen, and Michael J. Manfra\nThe authors present here measurements of a double-loop superconducting quantum interference device (SQUID) with two gate-tunable hybrid InAs/Al Josephson junctions on each branch. This device enables controlled interferometry of three highly non-sinusoidal current-phase relationships (CPRs), revealing a significant superconducting diode effect. Through optimized gate and flux tuning, they achieve a device configuration where more than triple the supercurrent can flow in one direction compared to the other, and they accurately model this behavior with the expected CPR of the full device.\n\n[Phys. Rev. B 113, 174505] Published Wed May 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/2rtn-qkg9",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "High-efficiency superconducting diode effect in a gate-tunable double-loop SQUID",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/f2kd-x628",
+          "author": "Takuma Kuno, Takeru Utsugi, Andrew J. Ramsay, Normann Mertig, Noriyuki Lee, Itaru Yanagi, Toshiyuki Mine, Nobuhiro Kusuno, Hideo Arimoto, Sofie Beyne, Julien Jussot, Stefan Kubicek, Yann Canvel, Clement Godfrin, Bart Raes, Yosuke Shimura, Roger Loo, Sylvain Baudot, Danny Wan, Kristiaan De Greve, Shinichi Saito, Digh Hisamoto, Ryuta Tsuchiya, Tetsuo Kodera, and Hiroyuki Mizuno",
+          "description": "Author(s): Takuma Kuno, Takeru Utsugi, Andrew J. Ramsay, Normann Mertig, Noriyuki Lee, Itaru Yanagi, Toshiyuki Mine, Nobuhiro Kusuno, Hideo Arimoto, Sofie Beyne, Julien Jussot, Stefan Kubicek, Yann Canvel, Clement Godfrin, Bart Raes, Yosuke Shimura, Roger Loo, Sylvain Baudot, Danny Wan, Kristiaan De Greve, Shinichi Saito, Digh Hisamoto, Ryuta Tsuchiya, Tetsuo Kodera, and Hiroyuki Mizuno\nFor dressed qubits, a strong drive is required to decouple the spin from noise, but increasing the drive strength leads to a breakdown of the rotating-wave approximation. Here, the authors demonstrate that simultaneous amplitude and phase modulation of a microwave drive generates an effective circularly polarized field in the rotating frame, canceling unwanted counter-rotating terms. Using a silicon spin qubit, they achieve stable and precise control with enhanced robustness to detuning and drive errors.\n\n[Phys. Rev. B 113, 195303] Published Wed May 13, 2026",
+          "link": "http://link.aps.org/doi/10.1103/f2kd-x628",
+          "publishedOn": "2026-05-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Concatenated continuous driving of silicon qubit by amplitude and phase modulation",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/3743-3h2l",
           "author": "Taito Osaka, Shotaro Matsumura, Masafumi Miyake, Yasuhisa Sano, Ichiro Inoue, Yuichi Inubushi, Kensuke Tono, Kenji Tamasaku, and Makina Yabashi",
           "description": "Author(s): Taito Osaka, Shotaro Matsumura, Masafumi Miyake, Yasuhisa Sano, Ichiro Inoue, Yuichi Inubushi, Kensuke Tono, Kenji Tamasaku, and Makina Yabashi\nAn adapted optical technique reveals the temporal structure of ultrafast x-ray pulses by eliminating background light.\n\n[Phys. Rev. Lett. 136, 195002] Published Tue May 12, 2026",
@@ -923,86 +1003,6 @@
           "publishedOn": "2026-04-24T10:00:00.000Z",
           "wordCount": null,
           "title": "Understanding Mechanisms of Molecular Rare Events from Start to Finish",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/pxn6-qzhz",
-          "author": "Zhen Cao <em>et al.</em> (LHAASO Collaboration)",
-          "description": "Author(s): Zhen Cao et al. (LHAASO Collaboration)\nRecently detected gamma rays are best accounted for by relativistic protons accelerated by a millennia-old supernova.\n\n[Phys. Rev. Lett. 136, 161002] Published Thu Apr 23, 2026",
-          "link": "http://link.aps.org/doi/10.1103/pxn6-qzhz",
-          "publishedOn": "2026-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Evidence of Cosmic-Ray Acceleration up to Sub-PeV Energies in the Supernova Remnant IC 443",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/kb6r-zxwq",
-          "author": "Martin Gutierrez-Amigo, Claudia Felser, Ion Errea, and Maia G. Vergniory",
-          "description": "Author(s): Martin Gutierrez-Amigo, Claudia Felser, Ion Errea, and Maia G. Vergniory\nTheorists have identified a phase that could facilitate the switching of a crystal between its right-handed and left-handed versions.\n\n[Phys. Rev. Lett. 136, 166605] Published Thu Apr 23, 2026",
-          "link": "http://link.aps.org/doi/10.1103/kb6r-zxwq",
-          "publishedOn": "2026-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Emergent Chirality and Enantiomeric Selectivity in Layered ${\\mathrm{NbOX}}_{2}$ Crystals",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/k46f-8m8t",
-          "author": "Xiaoyu Liu, Chong Wang, Haoran Chen, Xiao-Wei Zhang, Ting Cao, and Di Xiao",
-          "description": "Author(s): Xiaoyu Liu, Chong Wang, Haoran Chen, Xiao-Wei Zhang, Ting Cao, and Di Xiao\nThe modern theory of orbital magnetization, derived for noninteracting electrons, applied to strongly correlated states remains valid for Hartree–Fock states, so can be used to interpret magnetization in interacting moiré systems.\n\n[Phys. Rev. Lett. 136, 166606] Published Thu Apr 23, 2026",
-          "link": "http://link.aps.org/doi/10.1103/k46f-8m8t",
-          "publishedOn": "2026-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Orbital Magnetization of Correlated States in Twisted Bilayer Transition Metal Dichalcogenides",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/7f86-mxf2",
-          "author": "James Burridge",
-          "description": "Author(s): James Burridge\nThis paper is a step toward a statistical field theory of language evolution. The author combines tools of statistical physics with tools of statistical inference to create a model in which macroscopic language patterns are rooted in plausible human behaviors.\n#Interdisciplinary #AdvancingField\n\n[Phys. Rev. E 113, 044310] Published Thu Apr 23, 2026",
-          "link": "http://link.aps.org/doi/10.1103/7f86-mxf2",
-          "publishedOn": "2026-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Statistical field theory for dialectology",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3wnw-921f",
-          "author": "Jacqueline Janssen, Frank Jülicher, and Christoph A. Weber",
-          "description": "Author(s): Jacqueline Janssen, Frank Jülicher, and Christoph A. Weber\nThis study extends the classical Ostwald ripening theory to phase-separating systems that continuously receive material from an external reservoir. It considers two transport regimes: diffusion-limited transport through the dilute phase and interface-resistance-limited transport across droplet interfaces, as well as two modes of material input: constant supersaturation and constant supply rate.\n#AdvancingField #ClassicProblem #SoftMatterSpotlight\n\n[Phys. Rev. E 113, 045420] Published Thu Apr 23, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3wnw-921f",
-          "publishedOn": "2026-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Kinetic theory of emulsions with matter supply",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/lg8b-9ykz",
-          "author": "M. Gatti <em>et al.</em>",
-          "description": "Author(s): M. Gatti et al.\nThe authors present the largest (270 million galaxies) galaxy weak-lensing mass map to date from combined analysis of Dark Energy Camera All Data Everywhere (DECADE) and Dark Energy Survey Year-3 data. They further showcase its potential for cosmological applications by detecting cosmic filaments directly from the mass map.\n\n[Phys. Rev. D 113, L081303] Published Thu Apr 23, 2026",
-          "link": "http://link.aps.org/doi/10.1103/lg8b-9ykz",
-          "publishedOn": "2026-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "DECADE+DES Y3 weak lensing mass map: A $13,000\\text{ }\\text{ }{\\mathrm{deg}}^{2}$ view of cosmic structure from 270 million galaxies",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/dbqj-qld5",
-          "author": "Louis Pallegoix, Jaime Travesedo, Alexandre S. May, Léo Balembois, Denis Vion, Patrice Bertet, and Emmanuel Flurin",
-          "description": "Author(s): Louis Pallegoix, Jaime Travesedo, Alexandre S. May, Léo Balembois, Denis Vion, Patrice Bertet, and Emmanuel Flurin\nDetecting single microwave photons is important in, for example, primary thermometry in dilution cryostats, dark-matter detection, and detection of a single spin in a crystal lattice. Such detectors are not commercially available and are challenging to design, due to the very low energies of gigahertz photons. The improved device presented in this study uses a qubit coupled to harmonic oscillators and a drive line to encode the detection event using a four-wave mixing process. This single-photon detector could impact engineering solutions to improve cryostat-wiring thermalization, detection of chemical species at ultralow concentrations, and axion detection.\n\n[Phys. Rev. Applied 25, 044064] Published Thu Apr 23, 2026",
-          "link": "http://link.aps.org/doi/10.1103/dbqj-qld5",
-          "publishedOn": "2026-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Enhancing the sensitivity of single-microwave-photon detection with bandwidth tunability",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/wjfs-cgwc",
-          "author": "Sidharth Duthaluru, Kaiwen Zheng, Erik A. Henriksen, and Kater W. Murch",
-          "description": "Author(s): Sidharth Duthaluru, Kaiwen Zheng, Erik A. Henriksen, and Kater W. Murch\nPrecise control of noble-gas thin films is essential for emerging quantum platforms such as electron-on-neon qubits, but progress has been limited by the lack of real-time diagnostics and reproducible growth control. Here researchers demonstrate in situ monitoring of neon-film growth by tracking the frequency shift of a high-Tc superconducting microwave resonator during neon deposition. This study reveals stochastic film thinning in the vicinity of neon’s triple point, and identifies routes toward controlled film growth, with broad implications for quantum device fabrication and cryogenic materials engineering.\n\n[Phys. Rev. Applied 25, 044065] Published Thu Apr 23, 2026",
-          "link": "http://link.aps.org/doi/10.1103/wjfs-cgwc",
-          "publishedOn": "2026-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Real-time monitoring of growth of neon film for electron-on-neon qubits",
           "imageUrl": null
         }
       ]
