@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/fby6-xjbm",
+          "author": "Samyak Surti, Lucas Daguerre, and Isaac H. Kim",
+          "description": "Author(s): Samyak Surti, Lucas Daguerre, and Isaac H. Kim\nClassical simulation of a large class of logical magic state preparation protocols is made scalable and efficient via propagating errors to the end of the circuit.\n\n[PRX Quantum 7, 020329] Published Thu May 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/fby6-xjbm",
+          "publishedOn": "2026-05-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Efficient Simulation of Logical Magic State Preparation Protocols",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/13q1-pl1s",
+          "author": "Andrew F. May, Christopher M. Pasco, V. O. Garlea, Karolina Gornicka, Matthias D. Frontzek, Xiaoping Wang, Pyeongjae Park, and Andrew D. Christianson",
+          "description": "Author(s): Andrew F. May, Christopher M. Pasco, V. O. Garlea, Karolina Gornicka, Matthias D. Frontzek, Xiaoping Wang, Pyeongjae Park, and Andrew D. Christianson\nChromium-based spinels with a breathing pyrochlore lattice provide a model platform for studying competing magnetic interactions arising from their lattice geometry. The authors report the growth of single crystals of AgInCr₄S₈ and note that the observed properties are sensitive to growth conditions, particularly sulfur overpressure. Single-crystal neutron diffraction confirms A-site ordering and reveals an incommensurate magnetic ground state that can be described by a simple helical structure. As single crystals of breathing pyrochlores are rare, this work establishes AgInCr₄S₈ as a model system for future experimental studies. Consideration of cation size trends in related compounds suggests this system lies near the upper limit of A-site ordering stability.\n\n[Phys. Rev. Materials 10, 054410] Published Thu May 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/13q1-pl1s",
+          "publishedOn": "2026-05-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Magnetism of single crystalline breathing pyrochlore spinel ${\\mathrm{AgInCr}}_{4}{\\mathrm{S}}_{8}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/mh4w-r8qw",
+          "author": "A. Levchuk, P. Dufour, K. Parmar, M. Viret, T. Maroutian, S. Fusil, V. Garcia, and J.-Y. Chauleau",
+          "description": "Author(s): A. Levchuk, P. Dufour, K. Parmar, M. Viret, T. Maroutian, S. Fusil, V. Garcia, and J.-Y. Chauleau\nWhile ferroelectrics have long dominated device applications, their antiferroelectric counterparts remain largely unexplored. However, now, antiferroelectrics are stepping into the spotlight, promising breakthroughs in energy storage, solid-state cooling, and even new computing paradigms. Here, we capture the elusive transition between antipolar and polar states in epitaxial PbZrO3, using operando second-harmonic generation imaging to reveal its spatial complexity. By directly visualizing symmetry breaking and phase coexistence under electric fields, this work opens a new window onto the microscopic dynamics governing antiferroelectric-ferroelectric switching.\n\n[Phys. Rev. Materials 10, L051401] Published Thu May 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/mh4w-r8qw",
+          "publishedOn": "2026-05-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Second harmonic generation imaging of local antiferroelectric-ferroelectric phase transitions in a $\\mathrm{PbZr}{\\mathrm{O}}_{3}$ thin film",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/gmkp-bxf2",
+          "author": "Miguel Gonçalves, Juan Felipe Mendez-Valderrama, Jonah Herzog-Arbeitman, Jiabin Yu, Xiaodong Xu, Di Xiao, B. Andrei Bernevig, and Nicolas Regnault",
+          "description": "Author(s): Miguel Gonçalves, Juan Felipe Mendez-Valderrama, Jonah Herzog-Arbeitman, Jiabin Yu, Xiaodong Xu, Di Xiao, B. Andrei Bernevig, and Nicolas Regnault\nLarge-scale exact diagonalization yields the first direct microscopic computation of spinless and spinful quasiparticle charge gaps in a fractional Chern insulator.\n\n[Phys. Rev. Lett. 136, 196503] Published Thu May 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/gmkp-bxf2",
+          "publishedOn": "2026-05-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Spinless and Spinful Charge Excitations in Moiré Fractional Chern Insulators",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/d2yy-ntns",
+          "author": "Woonghee Cho, Pyeongjae Park, Chaebin Kim, Yeochan An, Kazuki Iida, Ryoichi Kajimoto, Sakib Matin, Romain Sibille, Scott A. Crooker, and Je-Geun Park",
+          "description": "Author(s): Woonghee Cho, Pyeongjae Park, Chaebin Kim, Yeochan An, Kazuki Iida, Ryoichi Kajimoto, Sakib Matin, Romain Sibille, Scott A. Crooker, and Je-Geun Park\nWhile underdoped Co1/3TaS2 shows a topological Hall effect, the overdoped Co0.336TaS2 variant does not. Traditionally, this was attributed to a simple helical spin order. However, using multimodal techniques—including inelastic neutron scattering and optical dichroism—the authors propose here a more complex triple-Q order. In this state, the spin scalar chirality alternates spatially, effectively cancelling the macroscopic Hall response. This study provides a new framework for detecting “hidden” multi-Q spin textures that standard transport measurements might miss.\n\n[Phys. Rev. B 113, 174410] Published Thu May 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/d2yy-ntns",
+          "publishedOn": "2026-05-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "$3Q$ magnetic order with spatially alternating spin scalar chirality in overdoped $\\mathrm{C}{\\mathrm{o}}_{0.336}\\mathrm{Ta}{\\mathrm{S}}_{2}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/wzch-zzwg",
+          "author": "Christian L. H. Rasmussen, Jannik Gondolf, Mats Barkman, Mercè Roig, Daniel F. Agterberg, Andreas Kreisel, and Brian M. Andersen",
+          "description": "Author(s): Christian L. H. Rasmussen, Jannik Gondolf, Mats Barkman, Mercè Roig, Daniel F. Agterberg, Andreas Kreisel, and Brian M. Andersen\nThe authors study here superconductivity in altermagnetic metals using microscopic models, investigating the importance of the sublattice degree of freedom. They demonstrate that the sublattice polarization of the altermagnetic state imprints an anisotropic structure on the superconducting gap with nodes at the Brillouin zone boundary, despite arising from a momentum-independent bare interaction. In the limit of large spin-split bands, nonunitary equal-spin triplet superconductivity is favored by longer-range same-sublattice pairing.\n\n[Phys. Rev. B 113, 174513] Published Thu May 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/wzch-zzwg",
+          "publishedOn": "2026-05-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Inherent momentum-dependent gap structure of altermagnetic superconductors",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/mw7c-8qy4",
+          "author": "Jorge Ruiz-García and Anthony Grbic",
+          "description": "Author(s): Jorge Ruiz-García and Anthony Grbic\nArbitrary control of electromagnetic waves is pivotal to the development of high-performance communications, sensing, and analog computing systems, but complex field transformations imply narrowband performance due to the resonant/frequency-dispersive nature of their realization. This work shows that metamaterials can be engineered to provide unprecedented field control over broad bandwidths of operation while remaining reflectionless. The main advantages of the proposed approach over earlier techniques, such as transformation optics, are discussed. These metamaterials provide a route toward broadband devices that perform complex functionalities, such as spatial signal preprocessing.\n\n[Phys. Rev. Applied 25, 054036] Published Thu May 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/mw7c-8qy4",
+          "publishedOn": "2026-05-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Perfectly matched metamaterials",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/44fz-2y3x",
           "author": "Tom Reshef-Israeli and Shulamit Kapon",
           "description": "Author(s): Tom Reshef-Israeli and Shulamit Kapon\nA novel methodology provides a time-resolved account of collaborative modeling by small groups and offers insights for supporting modeling-rich physics learning.\n\n[Phys. Rev. Phys. Educ. Res. 22, 010141] Published Wed May 13, 2026",
@@ -933,76 +1003,6 @@
           "publishedOn": "2026-04-27T10:00:00.000Z",
           "wordCount": null,
           "title": "Toward a fully automated differential ${\\mathrm{NNLO}}_{\\mathrm{EW}}$ generator for lepton colliders",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/wj4z-r1vq",
-          "author": "M. Müller, N. A. Althubiti, D. Atanasov, K. Blaum, R. B. Cakirli, T. E. Cocolios, F. Herfurth, S. Kreim, D. Lunney, V. Manea, N. Minkov, D. Neidherr, M. Rosenbusch, L. Schweikhard, A. Welker, F. Wienholtz, and R. N. Wolf",
-          "description": "Author(s): M. Müller, N. A. Althubiti, D. Atanasov, K. Blaum, R. B. Cakirli, T. E. Cocolios, F. Herfurth, S. Kreim, D. Lunney, V. Manea, N. Minkov, D. Neidherr, M. Rosenbusch, L. Schweikhard, A. Welker, F. Wienholtz, and R. N. Wolf\nLocated just beyond the Z=28 proton-shell closure, the odd-N zinc isotopes (Z=30) provide a sensitive testing ground for the evolution of neutron orbitals through their low-lying states. The authors report high-precision Penning-trap mass measurements of the ground and first isomeric state in 75Zn at ISOLTRAP, with both states populated via the decay of 75Cu inside a Penning trap. Earlier work had identified only a single long-lived state in 75Zn and assigned its mass to the ground state. The new measurements show that the previously observed state is instead the first isomeric state, restoring a smooth trend in the two-neutron separation energies and supporting a ground-state spin-parity assignment of Jπ=1/2−. The results of the new high-precision measurements also provide benchmarks for improving theoretical models in this region of rapidly evolving nuclear structure.\n\n[Phys. Rev. C 113, 044321] Published Mon Apr 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/wj4z-r1vq",
-          "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Mass spectrometry of $^{75}\\mathrm{Zn}$ ground and isomeric states from in-trap decay of $^{75}\\mathrm{Cu}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/59tv-8c7d",
-          "author": "J. Foy, Ch. Elster, P. Maris, S. P. Weppner, and S. K. Bogner",
-          "description": "Author(s): J. Foy, Ch. Elster, P. Maris, S. P. Weppner, and S. K. Bogner\nOptical potentials are necessary for modeling scattering and reactions, but are challenging to derive rigorously; practitioners often resort to phenomenology instead. Inspired by other recent work, this paper investigates a key input into optical potentials, the off-shell densities, here computed in the ab-initio no-core shell model. The authors find these densities are well approximated by a handful of separable terms, with the number of needed terms depending only upon the number of protons and neutrons. Such insights will likely influence the future development of both phenomenological and first-principles optical potentials.\n\n[Phys. Rev. C 113, 044323] Published Mon Apr 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/59tv-8c7d",
-          "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Separable character of <i>ab initio</i> no-core shell model one-body densities",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/tgf9-f2st",
-          "author": "M. Catacora-Rios, K. Beyer, P. Giuliani, K. Godbey, R. J. Furnstahl, and F. M. Nunes",
-          "description": "Author(s): M. Catacora-Rios, K. Beyer, P. Giuliani, K. Godbey, R. J. Furnstahl, and F. M. Nunes\nAccurate modeling of nuclear reactions is relevant to understanding the structure and dynamics of atomic nuclei, as well as for nuclear science applications and for understanding how nuclei are created in the universe. The authors generalize the reduced basis method, a physics-based emulator used for elastic scattering, to coupled-channels equations for nuclear reactions. They apply the method to neutron scattering on 48Ca and 208Pb and show that the calculated elastic and inelastic cross sections match those obtained using traditional accurate methods. Because emulators can offer a fast and reliable alternative to the exact solution of several scattering problems in nuclear physics, and because many reactions can be cast as a coupled-channels problem, the new developments will have significant impact on future research.\n\n[Phys. Rev. C 113, 044623] Published Mon Apr 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/tgf9-f2st",
-          "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Wavefunction-based emulation of coupled-channels scattering with nonaffinely parametrized interactions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/c58l-h1gh",
-          "author": "Elina Sendonaris, James Williams, Rajveer Nehra, Robert Gray, Ryoto Sekine, Luis Ledezma, and Alireza Marandi",
-          "description": "Author(s): Elina Sendonaris, James Williams, Rajveer Nehra, Robert Gray, Ryoto Sekine, Luis Ledezma, and Alireza Marandi\nSingle-photon detection is central to optical quantum communication and computation. Its speed and integrability into photonic chips are currently limited by the physical processes by which the photon is absorbed. This work shows that a nanophotonic optical parametric amplifier (OPA) can be used as an ultrafast single-photon detector, bypassing these absorption mechanisms in favor of optical amplification. In addition, a path for OPA-based single-photon detectors to reach state-of-the-art performance is discussed. This approach opens the door to integrated ultrafast single-photon detection, to enable ultrafast optical quantum information processing.\n\n[Phys. Rev. Applied 25, 044078] Published Mon Apr 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/c58l-h1gh",
-          "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Ultrafast single-photon detector based on a nanophotonic parametric amplifier",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/2rr3-lbrn",
-          "author": "Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, and Xiang Cheng",
-          "description": "Author(s): Gregorius Pradipta, Wanho Lee, Van Tran, Kyle Welch, Santosh K. Sankar, Yongsam Kim, Satish Kumar, Xin Yong, Jiarong Hong, Sookkyung Lim, and Xiang Cheng\nExperimental three-dimensional measurements of the flow field around a free-swimming microalga reveal that microscopic organisms generate unexpected low-Reynolds-number flow phenomena, expanding our understanding of microhydrodynamics with profound biological implications for microbial motility and physiology.\n\n[Phys. Rev. X 16, 021019] Published Fri Apr 24, 2026",
-          "link": "http://link.aps.org/doi/10.1103/2rr3-lbrn",
-          "publishedOn": "2026-04-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Seeing New Depths: Three-Dimensional Flow of a Free-Swimming Alga",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/n611-h1mh",
-          "author": "Florian Budimaier, Matthias Fasching, Anna Reumann, and Esmeralda Campos",
-          "description": "Author(s): Florian Budimaier, Matthias Fasching, Anna Reumann, and Esmeralda Campos\nTeachers use AI differently in lesson planning according to their needs and experience teaching physics.\n\n[Phys. Rev. Phys. Educ. Res. 22, 010136] Published Fri Apr 24, 2026",
-          "link": "http://link.aps.org/doi/10.1103/n611-h1mh",
-          "publishedOn": "2026-04-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Evaluating middle school physics teachers’ use of AI in lesson planning: A comparative study with three groups from Austria",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/lk32-njx7",
-          "author": "Rik S. Breebaart, Gianmarco Lazzeri, Roberto Covino, and Peter G. Bolhuis",
-          "description": "Author(s): Rik S. Breebaart, Gianmarco Lazzeri, Roberto Covino, and Peter G. Bolhuis\nA novel path sampling strategy combined with deep learning computes the full committor function in complex systems with high free energy barriers.\n\n[Phys. Rev. Lett. 136, 168001] Published Fri Apr 24, 2026",
-          "link": "http://link.aps.org/doi/10.1103/lk32-njx7",
-          "publishedOn": "2026-04-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Understanding Mechanisms of Molecular Rare Events from Start to Finish",
           "imageUrl": null
         }
       ]
