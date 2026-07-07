@@ -6,6 +6,96 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/49zd-8dgw",
+          "author": "Maninder Kaur, Ying Wai Li, Dilina Perera, and David P. Landau",
+          "description": "Author(s): Maninder Kaur, Ying Wai Li, Dilina Perera, and David P. Landau\nThe authors investigate phase transitions in the two-dimensional Ising model with competing nearest- and next-nearest-neighbor interactions, by combining machine learning with simulations and finite-size scaling. The results show that machine learning can decode ordering patterns, extract order-parameter analogs, and reproduce critical behavior in frustrated Ising systems.\n#MachineLearningSpotlight #TimelyTopic\n\n[Phys. Rev. E 114, 014104] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/49zd-8dgw",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Can machine learning truly decode phase transitions? A deep dive into the Ising model with competing interactions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/f3d5-2tb8",
+          "author": "Hayafumi Watanabe",
+          "description": "Author(s): Hayafumi Watanabe\nA study of online language shows that niche terms—like the name of a narrowly popular music group—spread less quickly than mainstream words.\n\n[Phys. Rev. E 114, 014304] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/f3d5-2tb8",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Subexponential growth dynamics in complex systems: A piecewise power-law model for the diffusion of new words and names",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/v5mk-9pb4",
+          "author": "Giorgio Almirante, Theodora Kaskitsi, and Michael Urban",
+          "description": "Author(s): Giorgio Almirante, Theodora Kaskitsi, and Michael Urban\nThis work addresses the important issue of the determination of the superfluid neutron fraction in the inner crust of neutrons stars. Knowing this fraction is important to understand if the inner crust can provide enough angular momentum to drive observed pulsar glitches. The paper presents, for the first time, fully self-consistent Hartree-Fock-Bogoliubov calculations of the flow of superfluid neutrons through the periodic lattice of nuclear clusters, which show that the superfluid fraction can reach 90% and support a sufficient superfluid angular momentum reservoir to drive pulsar glitches.\n\n[Phys. Rev. C 114, 015802] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/v5mk-9pb4",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Superfluid fraction in the crystal phase of the inner crust of neutron stars",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/v8yz-2vp5",
+          "author": "Xuan Zou, Rafael M. Fernandes, and Eduardo Fradkin",
+          "description": "Author(s): Xuan Zou, Rafael M. Fernandes, and Eduardo Fradkin\nMetallic altermagnets offer a new setting for unconventional superconductivity because their Fermi surfaces are spin split despite vanishing net magnetization. Here, the authors show that equal-spin multicomponent p-wave pairing gives rise to multiple superconducting transitions and intertwined superconducting phases driven by subleading normal-state instabilities. They further demonstrate that fluctuations of competing electronic orders fundamentally reshape the superconducting state: nematic fluctuations stabilize nematic superconductivity, whereas spin loop-current fluctuations select chiral phases, revealing routes toward both nematic and topological superconductivity.\n\n[Phys. Rev. B 114, 014504] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/v8yz-2vp5",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Superconducting states and intertwined orders in metallic altermagnets",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/x7l9-hhds",
+          "author": "Jiguang Yao, Ying Yang, Chenyang Lu, Lihua Zhong, Xiaolong Fan, Desheng Xue, and Can-Ming Hu",
+          "description": "Author(s): Jiguang Yao, Ying Yang, Chenyang Lu, Lihua Zhong, Xiaolong Fan, Desheng Xue, and Can-Ming Hu\nHere, the authors show how magnetic nonreciprocity can arise without a structurally chiral device. In a cavity–magnon-polariton system, two linearly polarized independent microwave fields combine into a synthetic chiral field, whose handedness depends on the propagation direction. This behavior is governed by a nontrivial accumulation of coupling phases in a closed loop mediated by traveling photons. Its microscopic origin is traced to polarization-dependent Zeeman coupling, on which a unified framework for structural and synthetic chirality is established.\n\n[Phys. Rev. B 114, 024408] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/x7l9-hhds",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Theory and experiment of chirality-induced magnetic nonreciprocity manifested by the coupling phase",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/v616-4b24",
+          "author": "Wenhan Guo, Zheng Zhou (周正), Tzu-Chieh Wei, and Yin-Chen He",
+          "description": "Author(s): Wenhan Guo, Zheng Zhou (周正), Tzu-Chieh Wei, and Yin-Chen He\nThe fuzzy-sphere regularization has emerged as a powerful route to three-dimensional conformal field theories (CFTs). Here, the authors extend it to the O(N) vector model, a cornerstone of many critical phenomena, constructing microscopic models for both the O(N) Wilson-Fisher and free-scalar CFTs at general N for fuzzy-sphere numerical calculations. Benchmarked for N=2,3,4 against conformal bootstrap and Monte Carlo, the approach yields consistent results and grants direct access to operator spectra, including higher-spin and pseudoscalar operators that may be hard to reach by other methods. It also uncovers an unexpected feature: the fuzzy-sphere ground-state wave functions have large overlap with the trivial product state and small entanglement.\n\n[Phys. Rev. B 114, 065102] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/v616-4b24",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "$O(N)$ free-scalar and Wilson-Fisher conformal field theories on the fuzzy sphere",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/yxdx-92r8",
+          "author": "Kryštof Kolář, Tero T. Heikkilä, and Päivi Törmä",
+          "description": "Author(s): Kryštof Kolář, Tero T. Heikkilä, and Päivi Törmä\nHere, the authors present a startling analytical result concerning the effect of disorder on the superfluid weight in flat-band superconductors. They demonstrate within the uniform pairing assumption that the direct effect of disorder on superfluid weight is mostly negligible. In particular, to lowest order it is given in terms of the difference between the intraband and interband parts of the localization functional of impurity wave functions, which typically vanishes.\n\n[Phys. Rev. B 114, L020503] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/yxdx-92r8",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Superfluid weight in disordered flat-band superconductors as a competition between localization functionals",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/7gsd-21tb",
+          "author": "Emerson Lima Caldas and Diego Paiva Pires",
+          "description": "Author(s): Emerson Lima Caldas and Diego Paiva Pires\nThe Mpemba effect happens when a system initially further from equilibrium relaxes faster than a system closer to equilibrium. The authors study the relaxation of systems whose effective dynamics are described by Davies maps, providing a framework to engineer the quantum Mpemba effect in Markovian open quantum systems.\n\n[Phys. Rev. A 114, 012418] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/7gsd-21tb",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Exponentially accelerated relaxation and quantum Mpemba effect in open quantum systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/rprq-bp61",
+          "author": "Diego Zafra-Bono, Oriol Rubies-Bigorda, and Susanne F. Yelin",
+          "description": "Author(s): Diego Zafra-Bono, Oriol Rubies-Bigorda, and Susanne F. Yelin\nThe authors propose a quantum metrology framework that harnesses the narrow linewidths of subradiant collective states in subwavelength emitter arrays. By introducing spatially varying control detunings to couple dark and bright modes, they show that the resulting sharp features in the transmission spectrum enable the precise detection of both global and local perturbations under realistic experimental imperfections.\n\n[Phys. Rev. A 114, 013704] Published Mon Jul 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/rprq-bp61",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Subradiant collective states for precision sensing via transmission spectra",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/sqvn-3n9g",
           "author": "Kevin Anthony Kaw, Ozan Lacinbala, Deepak Pradeep, Joost M. Bakker, Ewald Janssens, Peter Lievens, and Piero Ferrari",
           "description": "Author(s): Kevin Anthony Kaw, Ozan Lacinbala, Deepak Pradeep, Joost M. Bakker, Ewald Janssens, Peter Lievens, and Piero Ferrari\nA technique combining spectroscopy and computational simulations allows the geometry and spin magnetic moment of iron nanoclusters to be determined more precisely.\n\n[Phys. Rev. Lett. 137, 013002] Published Wed Jul 01, 2026",
@@ -913,96 +1003,6 @@
           "publishedOn": "2026-06-10T10:00:00.000Z",
           "wordCount": null,
           "title": "Magneto-Optical Trapping of a Metal Hydride Molecule",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/zvf5-wln4",
-          "author": "A. Maiti, M. Amato, V. S. Stolyarov, H. Aubin, J. Estève, F. Pistolesi, M. Aprili, and F. Massee",
-          "description": "Author(s): A. Maiti, M. Amato, V. S. Stolyarov, H. Aubin, J. Estève, F. Pistolesi, M. Aprili, and F. Massee\nAtomic-scale measurements show that vibrational excitations can cause electrons to move in bunches.\n\n[Phys. Rev. Lett. 136, 236501] Published Wed Jun 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/zvf5-wln4",
-          "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Evidence for Atomic-Scale Vibron-Mediated Electron Bunching",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/mj91-ntm4",
-          "author": "J. Basset, O. Stanisavljević, J. Gabelli, M. Aprili, and J. Estève",
-          "description": "Author(s): J. Basset, O. Stanisavljević, J. Gabelli, M. Aprili, and J. Estève\nA new mechanism for the detection of individual propagating microwave photons that realizes a microwave analogue of the photoelectric effect could be used for practical applications in quantum information and dark matter search.\n\n[Phys. Rev. Lett. 136, 237001] Published Wed Jun 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/mj91-ntm4",
-          "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fast and Continuous Detection of Single Microwave Photons via Photoassisted Quasiparticle Tunneling to a Superconducting Island",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/tgvb-bh1n",
-          "author": "Parham Poureslami, Ranit Mukherjee, and Sungyon Lee",
-          "description": "Author(s): Parham Poureslami, Ranit Mukherjee, and Sungyon Lee\nParticle-induced viscous fingering (PIVF) occurs when a non-colloidal suspension displaces air inside a Hele-Shaw cell, which leads to the formation of particle clusters, or “plumes” at the advancing interface. Despite extensive studies in the last decade, the coupling between plumes and interfacial deformations remains unexamined. In this paper, we address this coupling by deriving scaling laws that connect the interplay between capillarity, local particle concentrations, and interfacial speed. We also uncover new regimes of PIVF that are unique to rectilinear geometry, in which particle plumes interact and coalesce, resulting in enhanced mixing inside the suspension.\n\n[Phys. Rev. Fluids 11, 064303] Published Wed Jun 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/tgvb-bh1n",
-          "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Pattern formation in rectilinear flows of noncolloidal suspensions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/vm93-prv6",
-          "author": "Christophe De Beule, Gayani N. Pallewela, Mohammed M. Al Ezzi, Liangtao Peng, E. J. Mele, and Shaffique Adam",
-          "description": "Author(s): Christophe De Beule, Gayani N. Pallewela, Mohammed M. Al Ezzi, Liangtao Peng, E. J. Mele, and Shaffique Adam\nAt small twist angles, two-dimensional moiré materials behave more like elastic membranes than rigid crystals, and structural reconstruction becomes increasingly dramatic as the twist angle decreases. Existing treatments rely on numerical simulations that fail due to the enormous atom count in the moiré cell. Here, the authors establish an analytical theory for relaxation in the regime of marginal twists, characterized by a single parameter and enabling accurate predictions in agreement with experiments on twisted bilayer graphene and transition metal dichalcogenides.\n\n[Phys. Rev. B 113, L241402] Published Wed Jun 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/vm93-prv6",
-          "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Theory for lattice relaxation in marginally twisted bilayers",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/4rww-4tsc",
-          "author": "Kohta Kasai, Akihiro Uematsu, Yu Wang, Tao Xu, Chang Liu, Susumu Minami, and Takahiro Shimada",
-          "description": "Author(s): Kohta Kasai, Akihiro Uematsu, Yu Wang, Tao Xu, Chang Liu, Susumu Minami, and Takahiro Shimada\nSkyrmion dislocations exhibit intrinsic core structures possessing large skyrmion deformation and topological phase transitions.\n\n[Phys. Rev. Lett. 136, 236703] Published Tue Jun 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/4rww-4tsc",
-          "publishedOn": "2026-06-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Topological Transition and Emergence of Elasticity of Dislocation in Skyrmion Lattice: Beyond Kittel’s Magnetic-Polar Analogy",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/shj2-hyw8",
-          "author": "Filippo Bigi, Johannes Spies, and Michele Ceriotti",
-          "description": "Author(s): Filippo Bigi, Johannes Spies, and Michele Ceriotti\nMachine learning can reduce the number of time steps needed to accurately predict the progress of a dynamically evolving system.\n\n[Phys. Rev. Lett. 136, 237301] Published Tue Jun 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/shj2-hyw8",
-          "publishedOn": "2026-06-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Learning the Action for Long-Time-Step Simulations of Molecular Dynamics",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ft2b-m8hv",
-          "author": "Lorenzo Gavassino, Áron D. Kovács, and Harvey S. Reall",
-          "description": "Author(s): Lorenzo Gavassino, Áron D. Kovács, and Harvey S. Reall\nThe authors propose a “reduction of order” approach to deal with unphysical degrees of freedom that arise in relativistic viscous hydrodynamics and in gravitational effective field theories, not at the equation of motion level but in the initial data, expressing the data for the unphysical variables in terms of those for the physical ones. They also show that the apparent loss of Lorentz invariance is not an issue if one works only in those frames where the assumptions of the effective field theory are manifestly valid.\n\n[Phys. Rev. D 113, 124022] Published Tue Jun 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/ft2b-m8hv",
-          "publishedOn": "2026-06-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Initial data of effective field theories of relativistic viscous fluids and gravity",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/lcn4-tbcm",
-          "author": "Naoto Shiraishi and Mizuki Yamaguchi",
-          "description": "Author(s): Naoto Shiraishi and Mizuki Yamaguchi\nThe authors prove here a long-anticipated dichotomy for general isotropic nearest-neighbor spin chains, stating that any model falls into one of two extremes – either having an infinite family of local conserved quantities (completely integrable), or admitting no nontrivial local conserved quantity (nonintegrable). This rules out intermediate models with only finitely many local conserved quantities. The authors also provide a simple criterion for deciding which case holds, greatly reducing the work needed to diagnose integrability.\n\n[Phys. Rev. B 113, L241111] Published Tue Jun 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/lcn4-tbcm",
-          "publishedOn": "2026-06-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dichotomy theorem separating complete integrability and nonintegrability of isotropic spin chains",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ctj6-6hg9",
-          "author": "Qinshu Lyu and M. R. Tarbutt",
-          "description": "Author(s): Qinshu Lyu and M. R. Tarbutt\nThis work identifies the mechanisms responsible for trapping and cooling in a blue-detuned magneto-optical trap driven by a pair of closely spaced frequency components of opposite circular polarization. When the Zeeman splitting matches the frequency difference between the two components, there is a state that is dark to the beam propagating in one direction but not to the beam from the opposite direction, generating a radiation pressure force toward the field zero.\n\n[Phys. Rev. Research 8, 023259] Published Mon Jun 08, 2026",
-          "link": "http://link.aps.org/doi/10.1103/ctj6-6hg9",
-          "publishedOn": "2026-06-08T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trapping and cooling mechanisms in blue-detuned magneto-optical traps of molecules",
           "imageUrl": null
         }
       ]
