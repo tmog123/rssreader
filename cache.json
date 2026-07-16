@@ -6,6 +6,86 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/6f6r-51br",
+          "author": "R. Aaij <em>et al.</em> (LHCb Collaboration)",
+          "description": "Author(s): R. Aaij et al. (LHCb Collaboration)\nThe LHCb collaboration has observed time-dependent CP violation in a new hadronic B meson decay.\n\n[Phys. Rev. Lett. 137, 031803] Published Wed Jul 15, 2026",
+          "link": "http://link.aps.org/doi/10.1103/6f6r-51br",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Observation of $CP$ Violation in ${B}^{0}→J/ψρ(770{)}^{0}$ Decays",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/94pm-hp34",
+          "author": "Isak Cecil Onsager Rukan, Jan Gulla, and Johannes Skaar",
+          "description": "Author(s): Isak Cecil Onsager Rukan, Jan Gulla, and Johannes Skaar\nRemoving a mirror while a single photon is in the process of reflecting creates a quantum state of countless photons, theorists say.\n\n[Phys. Rev. Lett. 137, 033601] Published Wed Jul 15, 2026",
+          "link": "http://link.aps.org/doi/10.1103/94pm-hp34",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Truncated Photon",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/jg6l-gzfr",
+          "author": "Ashwat Jain, Wojciech J. Jankowski, M. Mehraeen, and Robert-Jan Slager",
+          "description": "Author(s): Ashwat Jain, Wojciech J. Jankowski, M. Mehraeen, and Robert-Jan Slager\nNonlinear odd viscoelastic effects arise from higher-order quantum geometric tensors in magnetic three-dimensional topological phases in response to distortion fields.\n\n[Phys. Rev. Lett. 137, 036302] Published Wed Jul 15, 2026",
+          "link": "http://link.aps.org/doi/10.1103/jg6l-gzfr",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Nonlinear Odd Viscoelastic Effect",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/dz98-r4dd",
+          "author": "Nishanth Murugan, Donald Koch, and Sarah Hormozi",
+          "description": "Author(s): Nishanth Murugan, Donald Koch, and Sarah Hormozi\nDense non-Brownian suspensions undergo a rheological transition with increasing shear rate, from a Newtonian scaling where stress grows linearly, to a Bagnoldian scaling where it grows quadratically. For suspensions devoid of frictional contacts due to electrostatic repulsive forces keeping the particles apart, our discrete element simulations reveal the shear rate marking the onset of the inertial regime to exhibit a critical behavior as the suspension approaches jamming. Our results show this criticality to be tied to a diverging microstructural length scale, larger than any individual particle, that governs the emergence of inertial effects within the suspension.\n\n[Phys. Rev. Fluids 11, 074302] Published Wed Jul 15, 2026",
+          "link": "http://link.aps.org/doi/10.1103/dz98-r4dd",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Criticality of the viscous to inertial transition near jamming in non-Brownian suspensions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/ykf2-t49g",
+          "author": "Benjamin Wang, Henry Fetsch, and Nathaniel J. Fisch",
+          "description": "Author(s): Benjamin Wang, Henry Fetsch, and Nathaniel J. Fisch\nThe fast ignition paradigm previously developed for inertial confinement fusion is here extended to magnetized linear inertial fusion. The authors’ model showcases fast ignition’s potential to lead to more practical, cost-effective, and engineering-wise viable magnetized linear inertial fusion designs.\n#AdvancingField #ClearMotivation\n\n[Phys. Rev. E 114, 015211] Published Wed Jul 15, 2026",
+          "link": "http://link.aps.org/doi/10.1103/ykf2-t49g",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Long-pulse fast ignition in magnetized liner inertial fusion",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/ccq9-618c",
+          "author": "Ferdinando Formisano, Alessio De Francesco, Francesco Sacchetti, Caterina Petrillo, and Eleonora Guarini",
+          "description": "Author(s): Ferdinando Formisano, Alessio De Francesco, Francesco Sacchetti, Caterina Petrillo, and Eleonora Guarini\nUsing neutron inelastic scattering, the authors investigate the dynamics of liquid hydrogen sulfide, which is similar to water but lacks the hydrogen-bond network. While fast sound is preserved, the secondary weakly dispersive mode typical of hydrogen-bonded liquids is not detected.\n#WellStructured #ClearMotivation #SoftMatterSpotlight\n\n[Phys. Rev. E 114, 015412] Published Wed Jul 15, 2026",
+          "link": "http://link.aps.org/doi/10.1103/ccq9-618c",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "THz dynamics of hydrogen sulfide: Search for collective modes of a non-hydrogen-bonded analog of water",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/7kjw-vfgp",
+          "author": "A. Mankolli <em>et al.</em> (JETSCAPE Collaboration)",
+          "description": "Author(s): A. Mankolli et al. (JETSCAPE Collaboration)\nThe authors present both qualitative and quantitative advances in extracting transport coefficients and other parameters for the quark-gluon plasma formed in heavy ion collisions. The manuscript uses extensive data sets from all four of the original RHIC experiments to calibrate the input to a full 3-dimensional simulation based on relativistic hydrodynamics. The authors consider both a large system (Au+Au) as well as several small systems (d+Au, p+Au and 3He+Au). The success in describing small systems provides strong support for the hydrodynamic paradigm, and also helps resolve a long-standing puzzle between STAR and PHENIX measurements in such systems.\n\n[Phys. Rev. C 114, 014905] Published Wed Jul 15, 2026",
+          "link": "http://link.aps.org/doi/10.1103/7kjw-vfgp",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Longitudinal dynamics of large and small systems from a 3D Bayesian calibration of RHIC top-energy collision data",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/djyg-5jtq",
+          "author": "Timothy J. Harris, Ulrich Schollwöck, Annabelle Bohrdt, and Fabian Grusdt",
+          "description": "Author(s): Timothy J. Harris, Ulrich Schollwöck, Annabelle Bohrdt, and Fabian Grusdt\nHow can particle statistics influence the competition between charge motion and magnetic order in doped antiferromagnets? Here, the authors use large-scale numerical calculations to establish the T=0 phase diagram of the 2D antiferromagnetic bosonic t-J model. They show that mobile bosonic holes stabilize partially filled stripes at low doping, akin to those in high-Tc cuprate superconductors, and drive transitions to polarized ferromagnetic phases via Nagaoka polaron formation. These predictions provide clear targets for future experiments in ultracold-atom quantum simulators.\n\n[Phys. Rev. B 114, L051105] Published Wed Jul 15, 2026",
+          "link": "http://link.aps.org/doi/10.1103/djyg-5jtq",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Kinetic magnetism and stripe order in the antiferromagnetic bosonic $t\\text{−}J$ model",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/g565-3dyn",
           "author": "Daisuke S. Shimamoto, Keiko Shimamoto, Sonia Mahmoudi, and Samuel Poincloux",
           "description": "Author(s): Daisuke S. Shimamoto, Keiko Shimamoto, Sonia Mahmoudi, and Samuel Poincloux\nThe ability of a fabric to be knitted into a textile can be determined on the basis of the topology of its pattern.\n\n[Phys. Rev. X 16, 031006] Published Tue Jul 14, 2026",
@@ -923,86 +1003,6 @@
           "publishedOn": "2026-06-23T10:00:00.000Z",
           "wordCount": null,
           "title": "Anharmonic collective oscillations and gap generation from thermal fluctuations in isotropic classical spin systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/kxnn-w1rk",
-          "author": "Ellen M. Kiens, Nicolas Gauquelin, Arno Annys, Emma van der Minne, Iris C. G. van den Bosch, Matthijs A. van Spronsen, Zezhong Zhang, Annick De Backer, Sandra Van Aert, Jo Verbeeck, Gertjan Koster, Bastian Mei, Frank M. F. de Groot, and Christoph Baeumer",
-          "description": "Author(s): Ellen M. Kiens, Nicolas Gauquelin, Arno Annys, Emma van der Minne, Iris C. G. van den Bosch, Matthijs A. van Spronsen, Zezhong Zhang, Annick De Backer, Sandra Van Aert, Jo Verbeeck, Gertjan Koster, Bastian Mei, Frank M. F. de Groot, and Christoph Baeumer\nInterfacial engineering offers a powerful route to control electronic states in correlated oxides. Here, the authors demonstrate tunable Co 3d orbital occupancy in LaCoO3 heterostructures, spanning partial d5 to d7 configurations via tailored interfaces with LaTiO₃, LaMnO₃, LaNiO₃, and LaAlO₃. Combining X-ray absorption spectroscopy with multiplet calculations reveals interface-dependent charge transfer and spin-state modulation, while atomic-scale microscopy links these effects to strain and structural distortions. Notably, inserting a LaAlO₃ spacer suppresses charge transfer, stabilizing an unexpected low-spin d6 state. These findings highlight how interfacial design governs orbital occupation and spin, providing a versatile platform for tuning functionality in oxide electronics and catalysis.\n\n[Phys. Rev. Materials 10, 066003] Published Mon Jun 22, 2026",
-          "link": "http://link.aps.org/doi/10.1103/kxnn-w1rk",
-          "publishedOn": "2026-06-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Interfacial control of orbital occupancy and spin state in ${\\mathrm{LaCoO}}_{3}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/cw4p-cqh7",
-          "author": "Clifford Cheung, Grant N. Remmen, Francesco Sciotti, and Michele Tarquini",
-          "description": "Author(s): Clifford Cheung, Grant N. Remmen, Francesco Sciotti, and Michele Tarquini\nUsing a “bootstrap” approach, researchers show that a small set of assumptions may naturally lead to a string-theory description of certain high-energy processes.\n\n[Phys. Rev. Lett. 136, 251601] Published Mon Jun 22, 2026",
-          "link": "http://link.aps.org/doi/10.1103/cw4p-cqh7",
-          "publishedOn": "2026-06-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Strings from Almost Nothing",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/btj9-n88g",
-          "author": "Guang Yang and Praveen Kumar",
-          "description": "Author(s): Guang Yang and Praveen Kumar\nThis study investigates the potential of electron–proton scattering at the Electron–Ion Collider to constrain the neutrino–nucleon axial form factor with unprecedented precision. By exploiting a free-proton target, the proposed measurements largely avoid nuclear-model uncertainties and offer a promising avenue for advancing the precision frontier of neutrino interaction physics.\n\n[Phys. Rev. D 113, 116031] Published Mon Jun 22, 2026",
-          "link": "http://link.aps.org/doi/10.1103/btj9-n88g",
-          "publishedOn": "2026-06-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Constraining neutrino-nucleon form factors with charged-current scattering at the Electron-Ion Collider",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/k5s2-x6hq",
-          "author": "Yuanran Zhu, Peter Rosenberg, Zhen Huang, Hardeep Bassi, Chao Yang, and Shiwei Zhang",
-          "description": "Author(s): Yuanran Zhu, Peter Rosenberg, Zhen Huang, Hardeep Bassi, Chao Yang, and Shiwei Zhang\nHere, the authors introduce a Transformer-based framework for learning the electronic self-energy in strongly correlated systems. A distinctive feature of the approach is the use of complementary, readily generated training datasets spanning weak-, intermediate-, and strong-coupling regimes. The dimension-agnostic Transformer architecture enables system-size generalization, allowing self-energy operators learned from small systems to be naturally extended to much larger ones. Applied to the Hubbard model, the framework accurately captures the metal-to-insulator transition.\n\n[Phys. Rev. B 113, 245139] Published Mon Jun 22, 2026",
-          "link": "http://link.aps.org/doi/10.1103/k5s2-x6hq",
-          "publishedOn": "2026-06-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Transformer-based operator learning framework for self-energy in strongly correlated systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qc2z-thq5",
-          "author": "Lulu Cao, Yuting Gong, Xianyang Lu, Yongbing Xu, Ya Zhai, Jing Wu, Roy W. Chantrell, and Richard F. L. Evans",
-          "description": "Author(s): Lulu Cao, Yuting Gong, Xianyang Lu, Yongbing Xu, Ya Zhai, Jing Wu, Roy W. Chantrell, and Richard F. L. Evans\nIn simple metallic magnets, the intrinsic Gilbert damping increases with temperature and diverges near the Curie temperature as a result of spin fluctuations. Here, the authors find surprising and opposite behavior in Py/Nd bilayers, where the Gilbert damping decreases with increasing temperature and can be controlled by varying the thickness of the Nd capping layer. Their findings present a new spintronic spin-pumping effect that can be used to modify the dynamic properties of nanoscale devices for improved switching dynamics.\n\n[Phys. Rev. B 113, L220409] Published Mon Jun 22, 2026",
-          "link": "http://link.aps.org/doi/10.1103/qc2z-thq5",
-          "publishedOn": "2026-06-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Negative temperature coefficient of Gilbert damping in magnetic bilayers",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qd6n-548v",
-          "author": "Jordan M. Thomas, Andrew R. Cameron, Akil Pathiranage, Si Xie, Raju Valivarthi, Panagiotis Spentzouris, Maria Spiropulu, Cristián Peña, and Prem Kumar",
-          "description": "Author(s): Jordan M. Thomas, Andrew R. Cameron, Akil Pathiranage, Si Xie, Raju Valivarthi, Panagiotis Spentzouris, Maria Spiropulu, Cristián Peña, and Prem Kumar\nThe distribution of quantum entanglement and teleportation in real-world environments underlies current efforts in quantum communication and networking, and requires designing devices such that extraneous noise photons do not obscure photon detection. This study analyzes the physics of filtering entangled-photon sources for both high noise rejection and purity, for multiphoton applications in high-noise scenarios. Using these methods, entanglement is successfully distributed through 50 km of optical fiber while coexisting high-power classical Internet signals generate substantial background noise.\n\n[Phys. Rev. Applied 25, 064064] Published Mon Jun 22, 2026",
-          "link": "http://link.aps.org/doi/10.1103/qd6n-548v",
-          "publishedOn": "2026-06-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Optimal filtering and generation of entangled photons for quantum applications in the presence of noise",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/8h3b-brg1",
-          "author": "Daniel Miller, Kyano Levi, Lukas Postler, Alex Steiner, Lennart Bittel, Gregory A. L. White, Yifan Tang, Eric J. Kuehnke, Antonio A. Mele, Sumeet Khatri, Lorenzo Leone, Jose Carrasco, Christian D. Marciniak, Ivan Pogorelov, Milena Guevara-Bertsch, Robert Freund, Rainer Blatt, Philipp Schindler, Thomas Monz, Martin Ringbauer, and Jens Eisert",
-          "description": "Author(s): Daniel Miller, Kyano Levi, Lukas Postler, Alex Steiner, Lennart Bittel, Gregory A. L. White, Yifan Tang, Eric J. Kuehnke, Antonio A. Mele, Sumeet Khatri, Lorenzo Leone, Jose Carrasco, Christian D. Marciniak, Ivan Pogorelov, Milena Guevara-Bertsch, Robert Freund, Rainer Blatt, Philipp Schindler, Thomas Monz, Martin Ringbauer, and Jens Eisert\nThis article shows that Rains’ quantum shadow enumerators, a powerful tool in quantum error correction, admit a direct physical interpretation in terms of outcome statistics of two-copy Bell measurements. This connection enables efficient learning protocols for these quantities and is demonstrated experimentally on a trapped-ion quantum device.\n\n[Phys. Rev. Research 8, 023318] Published Thu Jun 18, 2026",
-          "link": "http://link.aps.org/doi/10.1103/8h3b-brg1",
-          "publishedOn": "2026-06-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Experimental measurement and a physical interpretation of quantum shadow enumerators",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/4k13-sdjh",
-          "author": "Pedro Barrios Hita, Anton Trushechkin, Hermann Kampermann, Michael Epping, and Dagmar Bruß",
-          "description": "Author(s): Pedro Barrios Hita, Anton Trushechkin, Hermann Kampermann, Michael Epping, and Dagmar Bruß\nBy exploiting a physically motivated principle, rather than a mathematical postulate, researchers offer a new perspective on how a real-valued quantum theory can be constructed.\n\n[Phys. Rev. Lett. 136, 240202] Published Thu Jun 18, 2026",
-          "link": "http://link.aps.org/doi/10.1103/4k13-sdjh",
-          "publishedOn": "2026-06-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quantum Mechanics Based on Real Numbers: A Consistent Description",
           "imageUrl": null
         }
       ]
