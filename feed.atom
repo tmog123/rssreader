@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-18T01:56:00.845Z</id>
+    <id>urn:2026-07-19T02:07:11.815Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-18T01:56:00.845Z</updated>
+    <updated>2026-07-19T02:07:11.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When JIMWLK evolution really matters: The example of incoherent diffraction]]></title>
+        <id>http://link.aps.org/doi/10.1103/m4h9-s6y6</id>
+        <link href="http://link.aps.org/doi/10.1103/m4h9-s6y6"/>
+        <updated>2026-07-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): T. Lappi and D. N. Triantafyllopoulos
+The JIMWLK evolution equations describe high-energy scattering and the gluon saturation regime of QCD. As an infinite hierarchy of coupled, non-linear equations, approximations are required to make any phenomenological predictions. One widely-used approximation in which one assumes many quantities are Gaussian-distributed random variables, is known to be accurate for a simple class of initial conditions. The authors explicitly demonstrate that this Gaussian approximation fails to accurately describe full JIMWLK evolution beyond this simplest configuration, which may have significant implications for heavy ion collisions.
+
+[Phys. Rev. D 114, 014036] Published Fri Jul 17, 2026]]></summary>
+        <author>
+            <name>T. Lappi and D. N. Triantafyllopoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferroelastic domain wall motion and collective domain switching in RbSCN]]></title>
+        <id>http://link.aps.org/doi/10.1103/rmsb-fvm3</id>
+        <link href="http://link.aps.org/doi/10.1103/rmsb-fvm3"/>
+        <updated>2026-07-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): V. Soprunyuk, A. Tröster, J. Pils, W. Schranz, I. Rychetsky, A. Klic, and M. A. Carpenter
+Combined low-frequency elastodynamics and resonant ultrasound spectroscopy on RbSCN across its improper ferroelastic phase transition reveal superelastic softening and, uniquely, a discontinuous Young’s modulus jump with frequency-dependent damping at T* Tc, mimicking a first-order transition. Thermal cycling above T* erases ferroelastic domains. A compressible pseudospin model links T* to collective domain switching when the critical pinning stress σc(T) falls below the applied stress, yielding σc(T) in excellent accord with experiment.
+
+[Phys. Rev. B 114, 034113] Published Fri Jul 17, 2026]]></summary>
+        <author>
+            <name>V. Soprunyuk, A. Tröster, J. Pils, W. Schranz, I. Rychetsky, A. Klic, and M. A. Carpenter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Room-temperature two-dimensional ferromagnetism, large magnetic anisotropy, and anomalous Hall effect: From supported to freestanding monolayers $\mathrm{Gd}{M}_{2}$ ($M=\mathrm{Cu}$, Ag, Au)]]></title>
+        <id>http://link.aps.org/doi/10.1103/csml-jn4q</id>
+        <link href="http://link.aps.org/doi/10.1103/csml-jn4q"/>
+        <updated>2026-07-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jia-wan Li, Xunwu Hu, Dao-Xin Yao, and Yusheng Hou
+Here, the authors demonstrate that decoupling rare-earth GdM2 (M=Cu, Ag, and Au) monolayers from metallic substrates transforms low-temperature supported surface alloys into room-temperature ferromagnets. Substrate removal enhances magnetic exchange interactions through charge redistribution, and eliminating structural buckling further modifies the competing exchange interactions. Freestanding GdAu2 exhibits perpendicular magnetic anisotropy and a symmetry-tunable anomalous Hall effect, providing a platform for two-dimensional magnetic and topological spintronics.
+
+[Phys. Rev. B 114, 034419] Published Fri Jul 17, 2026]]></summary>
+        <author>
+            <name>Jia-wan Li, Xunwu Hu, Dao-Xin Yao, and Yusheng Hou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exciton interacting with the phonons of an electronic Wigner crystal]]></title>
+        <id>http://link.aps.org/doi/10.1103/f8k3-1vdl</id>
+        <link href="http://link.aps.org/doi/10.1103/f8k3-1vdl"/>
+        <updated>2026-07-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Jens Havgaard Nyhegn, Esben Rohan Christensen, and Georg M. Bruun
+In monolayer transition metal dichalcogenides, an electronic Wigner crystal imprints a weak umklapp branch in the exciton spectrum. The authors develop here a field-theoretical description of an exciton coupled to the crystal’s gapless phonons and solve it using a self-consistent Born approximation. The interactions create new exciton polarons, with phonon-assisted interband processes playing a key role and substantially weakening the umklapp peak. The authors map out the density dependence and predict when phonons qualitatively modify the optical Wigner-crystal signature.
+
+[Phys. Rev. B 114, 065122] Published Fri Jul 17, 2026]]></summary>
+        <author>
+            <name>Jens Havgaard Nyhegn, Esben Rohan Christensen, and Georg M. Bruun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thermodynamic constraints on perfect equilibrium superconducting diodes]]></title>
+        <id>http://link.aps.org/doi/10.1103/p9rp-wc9d</id>
+        <link href="http://link.aps.org/doi/10.1103/p9rp-wc9d"/>
+        <updated>2026-07-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pavan Hosur
+Why are perfect superconducting diodes so elusive? Here, the author shows that near-perfect diode behavior requires singularities in the equilibrium free energy landscape. This explains why high efficiencies arise more naturally in engineered Josephson devices and predicts that unexpectedly large efficiencies in equilibrium superconductors imply hidden structure in the free energy landscape.
+
+[Phys. Rev. B 114, L020505] Published Fri Jul 17, 2026]]></summary>
+        <author>
+            <name>Pavan Hosur</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Candidate for a Fractional Topological Insulator in Twisted ${\mathrm{MoTe}}_{2}$]]></title>
         <id>http://link.aps.org/doi/10.1103/bvrb-z4hj</id>
@@ -1248,71 +1313,6 @@ The author presents an octant geometric framework that maps higher-order, three-
 [Phys. Rev. A 113, 063530] Published Fri Jun 26, 2026]]></summary>
         <author>
             <name>Claire Cisowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curvature-Induced Magnon Frequency Combs]]></title>
-        <id>http://link.aps.org/doi/10.1103/v6pf-rgv8</id>
-        <link href="http://link.aps.org/doi/10.1103/v6pf-rgv8"/>
-        <updated>2026-06-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hao Zhao, Qianjun Zheng, and Peng Yan
-A tiny bump in a magnetic film exposed to microwaves can engender spin waves with precisely spaced frequencies.
-
-[Phys. Rev. Lett. 136, 256708] Published Thu Jun 25, 2026]]></summary>
-        <author>
-            <name>Hao Zhao, Qianjun Zheng, and Peng Yan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailoring ultrathin magnetic multilayers at terraced topologically insulating interfaces for perpendicularly magnetized domains]]></title>
-        <id>http://link.aps.org/doi/10.1103/hp66-tldh</id>
-        <link href="http://link.aps.org/doi/10.1103/hp66-tldh"/>
-        <updated>2026-06-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Benjamin A. Brereton, Soumyarup Hait, Ahmet Yagmur, Christy J. Kinane, Francesco Maccherozzi, Michele Conroy, Satoshi Sasaki, Thomas A. Moore, Sarnjeet S. Dhesi, Sean Langridge, and Christopher H. Marrows
-Topological insulators are known for their highly efficient spin-to-charge conversion, capable of exerting spin-orbit torques in adjacent magnetic multilayers, yet their usefulness in the manipulation of spin textures remains largely unexplored. This work describes the optimization process of a combined topological insulator-magnetic multilayer heterostructure where, through the minimization of the density of characteristic Bi2Se3 surface terraces and the insertion of a refractory metal buffer layer, conventional magnetic multilayers with full perpendicular magnetic anisotropy can be grown. Labyrinthine, zero-field domains de-pinned from the TI topography are observed, raising the possibility of future, highly efficient electrical control of hosted spin textures.
-
-[Phys. Rev. Materials 10, 064413] Published Wed Jun 24, 2026]]></summary>
-        <author>
-            <name>Benjamin A. Brereton, Soumyarup Hait, Ahmet Yagmur, Christy J. Kinane, Francesco Maccherozzi, Michele Conroy, Satoshi Sasaki, Thomas A. Moore, Sarnjeet S. Dhesi, Sean Langridge, and Christopher H. Marrows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Hole Mergers beyond General Relativity: A Self-Force Approach]]></title>
-        <id>http://link.aps.org/doi/10.1103/7zjr-l5p8</id>
-        <link href="http://link.aps.org/doi/10.1103/7zjr-l5p8"/>
-        <updated>2026-06-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Ayush Roy, Lorenzo Küchler, Adam Pound, and Rodrigo Panosso Macedo
-A modular framework within the self-force formalism that applies to a large class of effective field theories of gravity in order to perform tests of general relativity with binary black hole mergers is critical for tests of general relativity that make use of the upcoming space-based gravitational wave detectors such as LISA.
-
-[Phys. Rev. Lett. 136, 251404] Published Wed Jun 24, 2026]]></summary>
-        <author>
-            <name>Ayush Roy, Lorenzo Küchler, Adam Pound, and Rodrigo Panosso Macedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermodynamics of Black Holes, Far from Equilibrium]]></title>
-        <id>http://link.aps.org/doi/10.1103/3c1r-v8f1</id>
-        <link href="http://link.aps.org/doi/10.1103/3c1r-v8f1"/>
-        <updated>2026-06-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Abhay Ashtekar, Daniel E. Paraizo, and Jonathan Shu
-The first law of black hole mechanics has been extended to dynamical horizons so that the law applies to black holes arbitrarily far from equilibrium, a fundamental result that formally shows the thermodynamic description of black holes extends beyond the typical stationary solutions.
-
-[Phys. Rev. Lett. 136, 251405] Published Wed Jun 24, 2026]]></summary>
-        <author>
-            <name>Abhay Ashtekar, Daniel E. Paraizo, and Jonathan Shu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric Time-Dependent Density Functional Theory]]></title>
-        <id>http://link.aps.org/doi/10.1103/xtjx-r2lm</id>
-        <link href="http://link.aps.org/doi/10.1103/xtjx-r2lm"/>
-        <updated>2026-06-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Éric Cancès, Théo Duez, Jari van Gog, Asbjørn Bækgaard Lauritsen, Mathieu Lewin, and Julien Toulouse
-A geometric reformulation of time-dependent density-functional theory better describes nonequilibrium systems.
-
-[Phys. Rev. Lett. 136, 256401] Published Wed Jun 24, 2026]]></summary>
-        <author>
-            <name>Éric Cancès, Théo Duez, Jari van Gog, Asbjørn Bækgaard Lauritsen, Mathieu Lewin, and Julien Toulouse</name>
         </author>
     </entry>
 </feed>
