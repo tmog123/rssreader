@@ -6,6 +6,36 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/y4xr-dvwt",
+          "author": "Yuuki Yasui and Yoshiaki Sugimoto",
+          "description": "Author(s): Yuuki Yasui and Yoshiaki Sugimoto\nA new atomic force microscope captures the structures of individual molecules and their chemical bonds at record speeds.\n\n[Phys. Rev. Lett. 137, 046202] Published Thu Jul 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/y4xr-dvwt",
+          "publishedOn": "2026-07-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Breaking the Speed Limit of Chemical-Structure Imaging with Enhanced Force Sensitivity",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/31fg-832p",
+          "author": "De-Hua Shi, Xiao-Kun Wang, De-Qi Wen, and Yong-Xin Liu",
+          "description": "Author(s): De-Hua Shi, Xiao-Kun Wang, De-Qi Wen, and Yong-Xin Liu\nWhile investigating radio-frequency gas breakdown, the authors experimentally observed and simulated a novel, time-dependent striated optical emission structure. The study reveals that these striking patterns are driven by differing electron-ion mobilities and locally amplified ionization, which are ultimately suppressed as the electric field becomes screened.\n#AdvancingField\n\n[Phys. Rev. E 114, L013201] Published Thu Jul 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/31fg-832p",
+          "publishedOn": "2026-07-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Transient striations during gas breakdown under radio-frequency excitation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/9k19-c99g",
+          "author": "Junyoung An, Helin Zhang, Qi Ding, Leon Ding, Youngkyu Sung, Roni Winik, Junghyun Kim, Ilan T. Rosen, Kate Azar, Renée DePencier Piñero, Jeffrey M. Gertler, Michael Gingras, Bethany M. Niedzielski, Hannah Stickler, Mollie E. Schwartz, Joel Î-j. Wang, Terry P. Orlando, Simon Gustavsson, Max Hays, Jeffrey A. Grover, Kyle Serniak, and William D. Oliver",
+          "description": "Author(s): Junyoung An, Helin Zhang, Qi Ding, Leon Ding, Youngkyu Sung, Roni Winik, Junghyun Kim, Ilan T. Rosen, Kate Azar, Renée DePencier Piñero, Jeffrey M. Gertler, Michael Gingras, Bethany M. Niedzielski, Hannah Stickler, Mollie E. Schwartz, Joel Î-j. Wang, Terry P. Orlando, Simon Gustavsson, Max Hays, Jeffrey A. Grover, Kyle Serniak, and William D. Oliver\nResidual ZZ crosstalk can be a significant source of coherent error in superconducting quantum processors. In conventional all-transmon systems, canceling this crosstalk typically requires closely spaced qubit frequencies, which can worsen susceptibility to microwave crosstalk and frequency crowding. This study uses a fluxonium coupler between two transmon qubits to cancel static ZZ crosstalk while operating outside that restrictive frequency regime. The authors identify zero-ZZ operating points with qubit-qubit detuning exceeding 400 MHz, and demonstrate CZ gates with fidelities exceeding 99.6%. This fluxonium-mediated architecture could be a path to low-crosstalk processors.\n\n[Phys. Rev. Applied 26, 014076] Published Thu Jul 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/9k19-c99g",
+          "publishedOn": "2026-07-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "$ZZ$-free two-transmon CZ gate mediated by a fluxonium coupler",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/9bp2-42v3",
           "author": "Djamil Lakhdar-Hamina, Xingxin Liu, Richard Barney, Sarah H. Miller, Alaina M. Green, Norbert M. Linke, and Victor Galitski",
           "description": "Author(s): Djamil Lakhdar-Hamina, Xingxin Liu, Richard Barney, Sarah H. Miller, Alaina M. Green, Norbert M. Linke, and Victor Galitski\nBy implementing a quantum neural network using two quantum-computing platforms, researchers have taken steps toward determining whether such systems can reliably fulfill their theoretical promise.\n\n[Phys. Rev. Lett. 137, 040601] Published Wed Jul 22, 2026",
@@ -973,36 +1003,6 @@
           "publishedOn": "2026-07-06T10:00:00.000Z",
           "wordCount": null,
           "title": "Subradiant collective states for precision sensing via transmission spectra",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/sqvn-3n9g",
-          "author": "Kevin Anthony Kaw, Ozan Lacinbala, Deepak Pradeep, Joost M. Bakker, Ewald Janssens, Peter Lievens, and Piero Ferrari",
-          "description": "Author(s): Kevin Anthony Kaw, Ozan Lacinbala, Deepak Pradeep, Joost M. Bakker, Ewald Janssens, Peter Lievens, and Piero Ferrari\nA technique combining spectroscopy and computational simulations allows the geometry and spin magnetic moment of iron nanoclusters to be determined more precisely.\n\n[Phys. Rev. Lett. 137, 013002] Published Wed Jul 01, 2026",
-          "link": "http://link.aps.org/doi/10.1103/sqvn-3n9g",
-          "publishedOn": "2026-07-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Resolving Spin State Discrepancies of Small Cationic Iron Clusters by Far-Infrared Vibrational Spectroscopy",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qlgy-fj7k",
-          "author": "Zengping Su, Wei Li, Jue Li, Haoye Qin, Yongkang Wang, Wenjing Lv, Mengyao Li, Bo Li, and Qinghua Song",
-          "description": "Author(s): Zengping Su, Wei Li, Jue Li, Haoye Qin, Yongkang Wang, Wenjing Lv, Mengyao Li, Bo Li, and Qinghua Song\nTopologically protected, continuous ring of unidirectional guided resonances that locks vortex laser emission into a single direction is constructed by engineering isotropic interband coupling in a bilayer photonic crystal.\n\n[Phys. Rev. Lett. 137, 016201] Published Wed Jul 01, 2026",
-          "link": "http://link.aps.org/doi/10.1103/qlgy-fj7k",
-          "publishedOn": "2026-07-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Continuous Ring of Unidirectional Guided Resonances Induced by Isotropic Interband Coupling",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/zjy7-4jqd",
-          "author": "Herbert Eßl, Matthias Reitner, Evgeny Kozik, and Alessandro Toschi",
-          "description": "Author(s): Herbert Eßl, Matthias Reitner, Evgeny Kozik, and Alessandro Toschi\nFormally disentangling the issue of misleading convergence observed in iterative many-body schemes from the branching of the Luttinger-Ward functional provides a rigorous, model-independent procedure converging to a physical solution.\n\n[Phys. Rev. Lett. 137, 016502] Published Wed Jul 01, 2026",
-          "link": "http://link.aps.org/doi/10.1103/zjy7-4jqd",
-          "publishedOn": "2026-07-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Origin of Misleading Convergence in Self-Consistent Many-Electron Theories: Fundamental Aspects and Practical Implications",
           "imageUrl": null
         }
       ]
