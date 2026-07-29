@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-28T02:00:28.917Z</id>
+    <id>urn:2026-07-29T02:02:48.678Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T02:00:28.917Z</updated>
+    <updated>2026-07-29T02:02:48.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Non-Abelian Electric Field and <i>Zitterbewegung</i> on a Photonic Frequency Chain]]></title>
+        <id>http://link.aps.org/doi/10.1103/qy4y-171h</id>
+        <link href="http://link.aps.org/doi/10.1103/qy4y-171h"/>
+        <updated>2026-07-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Shu Yang (杨树), Bengy Tsz Tsun Wong (黄梓峻), Jinbing Hu (胡金兵), and Yi Yang (杨易)
+A ring of optical fiber can be made to host phenomena that originated in the realm of high-energy physics.
+
+[Phys. Rev. Lett. 137, 056901] Published Mon Jul 27, 2026]]></summary>
+        <author>
+            <name>Shu Yang (杨树), Bengy Tsz Tsun Wong (黄梓峻), Jinbing Hu (胡金兵), and Yi Yang (杨易)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polydisperse polymer fractionation between phases]]></title>
+        <id>http://link.aps.org/doi/10.1103/rhyc-3wmw</id>
+        <link href="http://link.aps.org/doi/10.1103/rhyc-3wmw"/>
+        <updated>2026-07-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): J. Pedro de Souza, William M. Jacobs, and Howard A. Stone
+An exact analytical Flory-Huggins model efficiently predicts polymer fractionation, demonstrating how the subtle tails of molecular weight distributions govern phase coexistence across the composition space.
+#TechnicalAdvancement #SoftMatterSpotlight
+
+[Phys. Rev. E 114, 015421] Published Mon Jul 27, 2026]]></summary>
+        <author>
+            <name>J. Pedro de Souza, William M. Jacobs, and Howard A. Stone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predictive dislocation mobility in high-entropy alloys without driven molecular dynamics: A quantum statistical approach]]></title>
+        <id>http://link.aps.org/doi/10.1103/s8sb-6tdb</id>
+        <link href="http://link.aps.org/doi/10.1103/s8sb-6tdb"/>
+        <updated>2026-07-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): B. Gurrutxaga-Lerma and J. E. Arnold
+Dislocation mobility in concentrated alloys is normally extracted from driven molecular dynamics, one costly simulation per data point. Here the authors obtain it instead from equilibrium lattice dynamics: integrating out the phonons on the Keldysh contour gives a causal memory kernel, whose zero-frequency limit is the dislocation’s phonon drag coefficient. The authors show drag to vary non-monotonically with composition, and that averaging the chemistry discards a positive variance term, so effective medium estimates underpredict drag by about 2 to 8.
+
+[Phys. Rev. B 114, 034116] Published Mon Jul 27, 2026]]></summary>
+        <author>
+            <name>B. Gurrutxaga-Lerma and J. E. Arnold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microscopic quantum description of surface plasmon polaritons: Revealing intrinsic ultrastrong light-matter coupling]]></title>
+        <id>http://link.aps.org/doi/10.1103/2pdp-zwgl</id>
+        <link href="http://link.aps.org/doi/10.1103/2pdp-zwgl"/>
+        <updated>2026-07-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Florian Maurer, Thomas F. Allard, Yanko Todorov, Guillaume Weick, and David Hagenmüller
+Surface plasmon polaritons are a cornerstone of nanophotonics, yet an effective quantum model with a clear microscopic foundation has remained elusive. Here, the authors develop a microscopic quantum theory valid for arbitrary metal-dielectric geometries. In particular, they show that these excitations arise from the nonperturbative coupling of bulk plasmons to the electromagnetic vacuum. Their theory reveals that metal-dielectric interfaces naturally realize ultrastrong light-matter coupling, giving rise to unconventional ground-state quantum fluctuations controlled by geometry and refractive index.
+
+[Phys. Rev. B 114, 055421] Published Mon Jul 27, 2026]]></summary>
+        <author>
+            <name>Florian Maurer, Thomas F. Allard, Yanko Todorov, Guillaume Weick, and David Hagenmüller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spontaneous Nernst coefficient of ferromagnets from the interplay of electron scattering and Berry curvature]]></title>
+        <id>http://link.aps.org/doi/10.1103/jryt-qwsj</id>
+        <link href="http://link.aps.org/doi/10.1103/jryt-qwsj"/>
+        <updated>2026-07-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Vittorio Basso, Adriano Di Pietro, and Alessandro Sola
+The spontaneous Nernst effect in ferromagnetic metals is relevant for thermal-management applications and transverse heat-to-electricity generation, but material optimization is limited by our incomplete understanding of the underlying physics. The authors evaluate the transport coefficients using Boltzmann transport and a rigid two-band model, explicitly treating transverse current density due to Berry curvature as a Fermi-surface property. What they find stands in stark contrast to the ordinary Nernst effect. Their physical insights and proposed recipes for tailoring band structure could lead to improved magnets made from 3d transition metals for thermoelectric applications.
+
+[Phys. Rev. Applied 26, 014085] Published Mon Jul 27, 2026]]></summary>
+        <author>
+            <name>Vittorio Basso, Adriano Di Pietro, and Alessandro Sola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rise of Linear Regge Trajectories]]></title>
         <id>http://link.aps.org/doi/10.1103/byzm-k9lw</id>
@@ -1249,72 +1315,6 @@ Different analyses of gravitational-wave observations are converging on evidence
 [Phys. Rev. Lett. 137, 021403] Published Mon Jul 06, 2026]]></summary>
         <author>
             <name>Sharan Banagiri, Eric Thrane, and Paul D. Lasky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signatures of a Subpopulation of Hierarchical Mergers in the GWTC-4 Gravitational-Wave Dataset]]></title>
-        <id>http://link.aps.org/doi/10.1103/n6p4-ftgq</id>
-        <link href="http://link.aps.org/doi/10.1103/n6p4-ftgq"/>
-        <updated>2026-07-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Cailin Plunkett, Salvatore Vitale, Thomas Callister, and Michael Zevin (Society of Physicists Interested in Non-Aligned Spins (SPINS))
-Different analyses of gravitational-wave observations are converging on evidence for a distinct population of massive black hole binaries produced through repeated mergers.
-
-[Phys. Rev. Lett. 137, 021404] Published Mon Jul 06, 2026]]></summary>
-        <author>
-            <name>Cailin Plunkett, Salvatore Vitale, Thomas Callister, and Michael Zevin (Society of Physicists Interested in Non-Aligned Spins (SPINS))</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can machine learning truly decode phase transitions? A deep dive into the Ising model with competing interactions]]></title>
-        <id>http://link.aps.org/doi/10.1103/49zd-8dgw</id>
-        <link href="http://link.aps.org/doi/10.1103/49zd-8dgw"/>
-        <updated>2026-07-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Maninder Kaur, Ying Wai Li, Dilina Perera, and David P. Landau
-The authors investigate phase transitions in the two-dimensional Ising model with competing nearest- and next-nearest-neighbor interactions, by combining machine learning with simulations and finite-size scaling. The results show that machine learning can decode ordering patterns, extract order-parameter analogs, and reproduce critical behavior in frustrated Ising systems.
-#MachineLearningSpotlight #TimelyTopic
-
-[Phys. Rev. E 114, 014104] Published Mon Jul 06, 2026]]></summary>
-        <author>
-            <name>Maninder Kaur, Ying Wai Li, Dilina Perera, and David P. Landau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subexponential growth dynamics in complex systems: A piecewise power-law model for the diffusion of new words and names]]></title>
-        <id>http://link.aps.org/doi/10.1103/f3d5-2tb8</id>
-        <link href="http://link.aps.org/doi/10.1103/f3d5-2tb8"/>
-        <updated>2026-07-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Hayafumi Watanabe
-A study of online language shows that niche terms—like the name of a narrowly popular music group—spread less quickly than mainstream words.
-
-[Phys. Rev. E 114, 014304] Published Mon Jul 06, 2026]]></summary>
-        <author>
-            <name>Hayafumi Watanabe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superfluid fraction in the crystal phase of the inner crust of neutron stars]]></title>
-        <id>http://link.aps.org/doi/10.1103/v5mk-9pb4</id>
-        <link href="http://link.aps.org/doi/10.1103/v5mk-9pb4"/>
-        <updated>2026-07-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Giorgio Almirante, Theodora Kaskitsi, and Michael Urban
-This work addresses the important issue of the determination of the superfluid neutron fraction in the inner crust of neutrons stars. Knowing this fraction is important to understand if the inner crust can provide enough angular momentum to drive observed pulsar glitches. The paper presents, for the first time, fully self-consistent Hartree-Fock-Bogoliubov calculations of the flow of superfluid neutrons through the periodic lattice of nuclear clusters, which show that the superfluid fraction can reach 90% and support a sufficient superfluid angular momentum reservoir to drive pulsar glitches.
-
-[Phys. Rev. C 114, 015802] Published Mon Jul 06, 2026]]></summary>
-        <author>
-            <name>Giorgio Almirante, Theodora Kaskitsi, and Michael Urban</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superconducting states and intertwined orders in metallic altermagnets]]></title>
-        <id>http://link.aps.org/doi/10.1103/v8yz-2vp5</id>
-        <link href="http://link.aps.org/doi/10.1103/v8yz-2vp5"/>
-        <updated>2026-07-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Xuan Zou, Rafael M. Fernandes, and Eduardo Fradkin
-Metallic altermagnets offer a new setting for unconventional superconductivity because their Fermi surfaces are spin split despite vanishing net magnetization. Here, the authors show that equal-spin multicomponent p-wave pairing gives rise to multiple superconducting transitions and intertwined superconducting phases driven by subleading normal-state instabilities. They further demonstrate that fluctuations of competing electronic orders fundamentally reshape the superconducting state: nematic fluctuations stabilize nematic superconductivity, whereas spin loop-current fluctuations select chiral phases, revealing routes toward both nematic and topological superconductivity.
-
-[Phys. Rev. B 114, 014504] Published Mon Jul 06, 2026]]></summary>
-        <author>
-            <name>Xuan Zou, Rafael M. Fernandes, and Eduardo Fradkin</name>
         </author>
     </entry>
 </feed>
