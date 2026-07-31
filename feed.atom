@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-30T01:52:47.893Z</id>
+    <id>urn:2026-07-31T02:11:55.720Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-30T01:52:47.893Z</updated>
+    <updated>2026-07-31T02:11:55.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Turbulent Nature of the Quasicontinuous Exhaust Regime for Fusion Plasmas]]></title>
+        <id>http://link.aps.org/doi/10.1103/j44y-5dp6</id>
+        <link href="http://link.aps.org/doi/10.1103/j44y-5dp6"/>
+        <updated>2026-07-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kaiyu Zhang, Wladimir Zholobenko, Andreas Stegmeir, Michael Faitsch, Konrad Eder, Christoph Pitzal, Frank Jenko, and ASDEX Upgrade Team
+Supercomputer simulations reveal how turbulence supports a Goldilocks regime for operating a fusion reactor.
+
+[Phys. Rev. Lett. 137, 055102] Published Thu Jul 30, 2026]]></summary>
+        <author>
+            <name>Kaiyu Zhang, Wladimir Zholobenko, Andreas Stegmeir, Michael Faitsch, Konrad Eder, Christoph Pitzal, Frank Jenko, and ASDEX Upgrade Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooper condensation and pair wave functions in systems of strongly correlated electrons]]></title>
+        <id>http://link.aps.org/doi/10.1103/q1dy-gsmh</id>
+        <link href="http://link.aps.org/doi/10.1103/q1dy-gsmh"/>
+        <updated>2026-07-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Hannes Karlsson, Johannes S. Hofmann, and Alexander Wietek
+Here, the authors present a framework for identifying superconducting order directly from the two-particle reduced density matrix, via the Penrose-Onsager criterion. Beyond detecting a condensate, the method reconstructs the Cooper pair wave function and resolves its symmetry without prior assumptions. Applied to the Hubbard model, it characterizes uniform s-wave, finite-momentum FFLO, and fragmented supersolid states — the last revealing an unexpected triplet p-wave component alongside the dominant d wave.
+
+[Phys. Rev. B 114, 055133] Published Thu Jul 30, 2026]]></summary>
+        <author>
+            <name>Hannes Karlsson, Johannes S. Hofmann, and Alexander Wietek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymmetric antibimerons: Statics and dynamics]]></title>
+        <id>http://link.aps.org/doi/10.1103/kdtb-q3ly</id>
+        <link href="http://link.aps.org/doi/10.1103/kdtb-q3ly"/>
+        <updated>2026-07-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pavel A. Vorobyev, Daichi Kurebayashi, and Oleg A. Tretiakov
+Researchers have theoretically predicted the “asymmetric antibimeron” (AAB)—a novel topological spin texture composed of an antivortex and a crescent-shaped vortex found in in-plane magnetized chiral ferromagnets—offering a promising new platform for high-density spintronic memory and logic devices.
+
+[APS Open Sci. 1, 000075] Published Thu Jul 30, 2026]]></summary>
+        <author>
+            <name>Pavel A. Vorobyev, Daichi Kurebayashi, and Oleg A. Tretiakov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Non-Gaussianity from Superselection Rules]]></title>
         <id>http://link.aps.org/doi/10.1103/5fl9-89j4</id>
@@ -1272,46 +1311,6 @@ A proposed gravitational-wave observatory on the Moon might gather more informat
 [Phys. Rev. Lett. 137, 021409] Published Thu Jul 09, 2026]]></summary>
         <author>
             <name>Han Yan and Jan Harms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Percolation and criticality of systems with competing interactions on Bethe lattices: Limitations and potential strengths of cluster schemes]]></title>
-        <id>http://link.aps.org/doi/10.1103/mclp-9db8</id>
-        <link href="http://link.aps.org/doi/10.1103/mclp-9db8"/>
-        <updated>2026-07-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Greivin Alfaro Miranda, Mingyuan Zheng, Patrick Charbonneau, Antonio Coniglio, Leticia F. Cugliandolo, and Marco Tarzia
-Cluster-based algorithms have led to remarkably efficient Monte Carlo sampling schemes that reduce critical slowing down. The authors demonstrate that seeking such cluster schemes for frustrated systems is futile, but they leave open the possibility that alternate approaches could be devised.
-#TechnicalAdvancement #ClearMotivation
-
-[Phys. Rev. E 114, 014114] Published Thu Jul 09, 2026]]></summary>
-        <author>
-            <name>Greivin Alfaro Miranda, Mingyuan Zheng, Patrick Charbonneau, Antonio Coniglio, Leticia F. Cugliandolo, and Marco Tarzia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strongly nonlinear regime of Josephson transmission lines revealed by two-tone spectroscopy]]></title>
-        <id>http://link.aps.org/doi/10.1103/gwdk-44lt</id>
-        <link href="http://link.aps.org/doi/10.1103/gwdk-44lt"/>
-        <updated>2026-07-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): A. S. Averkin, A. A. Kopasov, I. E. Pologov, Aleksey N. Bolgar, Daria A. Kalacheva, Viktor B. Lubsanov, M. V. Fistul, and A. Karpov
-Josephson transmission lines are key elements of superconducting devices for microwave amplification and signal processing. Their response to strong microwave drives, though, remains puzzling. The authors study a strongly nonlinear regime in which the phase-length variation of a probe wave grows, develops pronounced oscillations, and finally saturates as pump power increases. This effect is due to the nonlinear oscillatory renormalization of the Josephson inductance, with propagation losses hiding the oscillations. The results are an important step toward understanding the response of these systems, which are promising for the design of strongly nonlinear superconducting devices.
-
-[Phys. Rev. Applied 26, 014028] Published Thu Jul 09, 2026]]></summary>
-        <author>
-            <name>A. S. Averkin, A. A. Kopasov, I. E. Pologov, Aleksey N. Bolgar, Daria A. Kalacheva, Viktor B. Lubsanov, M. V. Fistul, and A. Karpov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Science with Arrays of Metastable Helium-3 Atoms]]></title>
-        <id>http://link.aps.org/doi/10.1103/hpnb-6ql3</id>
-        <link href="http://link.aps.org/doi/10.1103/hpnb-6ql3"/>
-        <updated>2026-07-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zheyuan Li, Rupsa De, Rishi Sivakumar, William Huie, Hao-Tian Wei, Justin D. Piel, Chris H. Greene, Kaden R. A. Hazzard, Zoe Z. Yan, and Jacob P. Covey
-The small mass of helium-3 is shown to enable advantages in a variety of applications from continuous-variable quantum computing to quantum simulation of materials with tunable hopping between tweezer potentials.
-
-[PRX Quantum 7, 033011] Published Wed Jul 08, 2026]]></summary>
-        <author>
-            <name>Zheyuan Li, Rupsa De, Rishi Sivakumar, William Huie, Hao-Tian Wei, Justin D. Piel, Chris H. Greene, Kaden R. A. Hazzard, Zoe Z. Yan, and Jacob P. Covey</name>
         </author>
     </entry>
 </feed>
