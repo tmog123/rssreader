@@ -6,6 +6,26 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/77mh-hflq",
+          "author": "Lingyu Jia, Changliang Zhu, Qiaozhi Lei, Hua Tong, Jinkui Meng, Chengyan Xu, Xiangying Shen, and Lei Xu",
+          "description": "Author(s): Lingyu Jia, Changliang Zhu, Qiaozhi Lei, Hua Tong, Jinkui Meng, Chengyan Xu, Xiangying Shen, and Lei Xu\nA physics-constrained design framework may aid the search for lightweight but resilient material.\n\n[Phys. Rev. X 16, 031024] Published Fri Jul 31, 2026",
+          "link": "http://link.aps.org/doi/10.1103/77mh-hflq",
+          "publishedOn": "2026-07-31T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Unlocking Emergent Resilience in Amorphous Metamaterials via a Physics-Constrained Energy-Based Framework",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/2lrq-f6bk",
+          "author": "E. Aprile <em>et al.</em> (XENON Collaboration)",
+          "description": "Author(s): E. Aprile et al. (XENON Collaboration)\nWorld-leading bounds are placed on sub-keV axionlike and dark-photon dark matter using ionization-only data from a liquid xenon detector.\n\n[Phys. Rev. Lett. 137, 051003] Published Thu Jul 30, 2026",
+          "link": "http://link.aps.org/doi/10.1103/2lrq-f6bk",
+          "publishedOn": "2026-07-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Light Dark Matter Search with 7.8 Tonne-Year of Ionization-Only Data in XENONnT",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/j44y-5dp6",
           "author": "Kaiyu Zhang, Wladimir Zholobenko, Andreas Stegmeir, Michael Faitsch, Konrad Eder, Christoph Pitzal, Frank Jenko, and ASDEX Upgrade Team",
           "description": "Author(s): Kaiyu Zhang, Wladimir Zholobenko, Andreas Stegmeir, Michael Faitsch, Konrad Eder, Christoph Pitzal, Frank Jenko, and ASDEX Upgrade Team\nSupercomputer simulations reveal how turbulence supports a Goldilocks regime for operating a fusion reactor.\n\n[Phys. Rev. Lett. 137, 055102] Published Thu Jul 30, 2026",
@@ -23,6 +43,26 @@
           "publishedOn": "2026-07-30T10:00:00.000Z",
           "wordCount": null,
           "title": "Cooper condensation and pair wave functions in systems of strongly correlated electrons",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/w648-z6zq",
+          "author": "Andrey A. Voronov, Khrystyna O. Levchenko, Roman Verba, Kristýna Davídková, Carsten Dubs, Michal Urbánek, Qi Wang, Dieter Suess, Claas Abert, and Andrii V. Chumak",
+          "description": "Author(s): Andrey A. Voronov, Khrystyna O. Levchenko, Roman Verba, Kristýna Davídková, Carsten Dubs, Michal Urbánek, Qi Wang, Dieter Suess, Claas Abert, and Andrii V. Chumak\nMagnonics, in which information is processed with spin waves instead of electronic charge, offers a path to energy-efficient computing beyond CMOS, but scaling has been held back because shrinking conventional waveguides sharply slows spin waves and shortens their reach. Using experiment, simulation, and analytical modeling, the authors show that Ga:YIG waveguides as narrow as 145 nm support exchange-dominated spin waves moving at 600 m/s, much faster than in plain YIG, with a group velocity almost independent of waveguide width. This fast, long-lived, geometry-independent transport makes Ga:YIG a compelling platform for nanoscale magnonic logic and hybrid spin-wave–CMOS architectures.\n\n[Phys. Rev. Applied 26, 014103] Published Thu Jul 30, 2026",
+          "link": "http://link.aps.org/doi/10.1103/w648-z6zq",
+          "publishedOn": "2026-07-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Exchange spin-wave propagation in gallium-substituted yttrium iron garnet nanowaveguides",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/v8mq-6nh6",
+          "author": "Wenshu Liang, Tianlong He, Weiwei Li, Yelong Wei, Ye Zou, Qing Luo, and Jingyu Tang",
+          "description": "Author(s): Wenshu Liang, Tianlong He, Weiwei Li, Yelong Wei, Ye Zou, Qing Luo, and Jingyu Tang\nHigh-luminosity electron–positron colliders require ampere-level beam currents, rendering coupled-bunch instabilities driven by RF-cavity accelerating modes a critical concern. For the Super Tau-Charm Facility, we demonstrate that these instabilities can be effectively suppressed over the full 1–3.5 GeV energy range using solely the baseline low-level RF (LLRF) proportional-integral (PI) loop. The combination of a unity proportional gain and half-revolution loop delay produces a notch-filter response that strongly attenuates the most dangerous odd modes. Analytical calculations, particle tracking, and Nyquist analysis collectively confirm the robustness of both beam and loop stability.\n\n[Phys. Rev. Accel. Beams 29, 074902] Published Thu Jul 30, 2026",
+          "link": "http://link.aps.org/doi/10.1103/v8mq-6nh6",
+          "publishedOn": "2026-07-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Beam instability induced by the rf cavity accelerating modes and its suppression in the Super Tau-Charm Facility",
           "imageUrl": null
         },
         {
@@ -963,46 +1003,6 @@
           "publishedOn": "2026-07-10T10:00:00.000Z",
           "wordCount": null,
           "title": "Microscopic NMR evidence for successive antiferroelectric and antiferromagnetic order in the van der Waals magnet ${\\mathrm{CuCrP}}_{2}{\\mathrm{S}}_{6}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/5218-jrqw",
-          "author": "Aurelien David",
-          "description": "Author(s): Aurelien David\n(In,Ga)N quantum wells, the light-emitting layers at the heart of highly efficient GaN LEDs, have enabled the solid-state lighting revolution. Even so, the physics of disorder-induced carrier localization in these layers remains controversial. The authors show that accurate modeling of their disorder effects lead to accurate predictions of their basic optical properties, from emission lineshape to Stokes shift. Contrary to expectations, carrier localization is only partial, and the same physics explains the peculiar properties of red (In,Ga)N LEDs. This study provides a framework for understanding localization effects in III-nitride materials, and for designing tomorrow’s emitters.\n\n[Phys. Rev. Applied 26, 014034] Published Fri Jul 10, 2026",
-          "link": "http://link.aps.org/doi/10.1103/5218-jrqw",
-          "publishedOn": "2026-07-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Optical properties of (In,Ga)N quantum wells: Accurately modeling the effects of disorder",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ghsn-9thc",
-          "author": "Federica Nasr, Emir Karadža, Santos F. Alvarado, Federico Binda, Tobias Goldenberger, Carlo Zucchetti, Myriam H. Aguirre, Paolo Moras, Andrey V. Matetskiy, Polina M. Sheverdyaeva, Paul Noël, and Pietro Gambardella",
-          "description": "Author(s): Federica Nasr, Emir Karadža, Santos F. Alvarado, Federico Binda, Tobias Goldenberger, Carlo Zucchetti, Myriam H. Aguirre, Paolo Moras, Andrey V. Matetskiy, Polina M. Sheverdyaeva, Paul Noël, and Pietro Gambardella\nBismuth is a promising spin current generator owing to its strong spin–orbit coupling, spin-polarized surface states, and large intrinsic spin Hall conductivity predicted by theory. Yet experimental reports of spin–charge interconversion efficiencies remain remarkably inconsistent. The authors compare structural, spectroscopic, and spin–orbit torque measurements of epitaxial and polycrystalline Bi layers in combination with different metal spacers and ferromagnets. The results reveal extensive interdiffusion and dewetting unless Ag overlayers are used to preserve the structural and chemical integrity of Bi, unlocking a giant bulk spin Hall angle exceeding unity and highlighting the potential of Bi for spintronic applications.\n\n[Phys. Rev. Materials 10, 074406] Published Thu Jul 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/ghsn-9thc",
-          "publishedOn": "2026-07-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Charge-to-spin conversion in epitaxial and polycrystalline Bi and Bi/Ag layers",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/d9jf-gxk5",
-          "author": "Lei Zhang, Han Yan, Xian Chen, and Jinhai Zhang",
-          "description": "Author(s): Lei Zhang, Han Yan, Xian Chen, and Jinhai Zhang\nA proposed gravitational-wave observatory on the Moon might gather more information than previously thought, thanks to geology.\n\n[Phys. Rev. Lett. 137, 021408] Published Thu Jul 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/d9jf-gxk5",
-          "publishedOn": "2026-07-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Thick Lunar Crust Amplifies Deci-Hertz Gravitational-Wave Signals",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3tcp-hqf9",
-          "author": "Han Yan and Jan Harms",
-          "description": "Author(s): Han Yan and Jan Harms\nA proposed gravitational-wave observatory on the Moon might gather more information than previously thought, thanks to geology.\n\n[Phys. Rev. Lett. 137, 021409] Published Thu Jul 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3tcp-hqf9",
-          "publishedOn": "2026-07-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Gravitational-Wave Tomography of the Moon: Constraining Lunar Structure with Calibrated Gravitational Waves",
           "imageUrl": null
         }
       ]
