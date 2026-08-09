@@ -6,6 +6,76 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/jlvb-t2xl",
+          "author": "F. Joseph Marcellino, Mingsong Wu, and Rob Thew",
+          "description": "Author(s): F. Joseph Marcellino, Mingsong Wu, and Rob Thew\nTwo research teams have run small-scale demonstrations of voting protocols that could ensure election security using the principles of quantum mechanics.\n\n[Phys. Rev. Lett. 137, 060802] Published Fri Aug 07, 2026",
+          "link": "http://link.aps.org/doi/10.1103/jlvb-t2xl",
+          "publishedOn": "2026-08-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Experimental Quantum Voting Using Photonic Greenberger-Horne-Zeilinger States",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/scjl-5ygh",
+          "author": "Nicolas Laurent-Puig, Matilde Baroni, Federico Centrone, and Eleni Diamanti",
+          "description": "Author(s): Nicolas Laurent-Puig, Matilde Baroni, Federico Centrone, and Eleni Diamanti\nTwo research teams have run small-scale demonstrations of voting protocols that could ensure election security using the principles of quantum mechanics.\n\n[Phys. Rev. Lett. 137, 060803] Published Fri Aug 07, 2026",
+          "link": "http://link.aps.org/doi/10.1103/scjl-5ygh",
+          "publishedOn": "2026-08-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Experimental Quantum Electronic Voting",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/n7gk-922h",
+          "author": "Pedro F. Gil, Weiping Li, Julianne Stratton, Alan A. Kaptanoglu, and Eve V. Stenson",
+          "description": "Author(s): Pedro F. Gil, Weiping Li, Julianne Stratton, Alan A. Kaptanoglu, and Eve V. Stenson\nRecasting fusion coil design as a highly nonconvex equality-constrained optimization problem with an augmented Lagrangian method leads to a class of stellarator coils that exhibit enhanced physics performance and meet essential design requirements.\n\n[Phys. Rev. Lett. 137, 065101] Published Fri Aug 07, 2026",
+          "link": "http://link.aps.org/doi/10.1103/n7gk-922h",
+          "publishedOn": "2026-08-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Stellarator Coils for Future Fusion Reactors via an Augmented Lagrangian Approach",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/1jf8-sx2w",
+          "author": "Mingran Kong and Bartomeu Monserrat",
+          "description": "Author(s): Mingran Kong and Bartomeu Monserrat\nThe electron-phonon interaction governs superconductivity, electrical transport, and the optical response of solids, and is now routinely computed from first principles. These calculations typically assume that lattice vibrations live forever, but in reality anharmonic interactions between phonons give them finite lifetimes. The authors derive here a tractable expression that includes this phonon dephasing into the electron-phonon scattering rate, implement it within standard computational workflows, and apply it to silicon, silicon carbide, and lead telluride, thus opening a long-neglected regime to systematic first-principles study.\n\n[Phys. Rev. B 114, 084303] Published Fri Aug 07, 2026",
+          "link": "http://link.aps.org/doi/10.1103/1jf8-sx2w",
+          "publishedOn": "2026-08-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Anharmonic dephasing in the electron-phonon interaction",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/2bjl-p1vd",
+          "author": "Jiabin Yu, Yi Jiang, Yuanfeng Xu, Dumitru Călugăru, Haoyu Hu, Haojie Guo, Sandra Sajan, Yongsong Wang, Miguel M. Ugeda, Fernando De Juan, and B. Andrei Bernevig",
+          "description": "Author(s): Jiabin Yu, Yi Jiang, Yuanfeng Xu, Dumitru Călugăru, Haoyu Hu, Haojie Guo, Sandra Sajan, Yongsong Wang, Miguel M. Ugeda, Fernando De Juan, and B. Andrei Bernevig\nHere, the authors reveal that monolayer NbSe2 and related transition metal dichalcogenides host obstructed atomic bands near the Fermi level. By constructing ab initio six-, three-, and single-band Wannier models, they identify remarkably compact obstructed Wannier functions and an unusual dominance of next-nearest-neighbor hopping. These results provide a transparent low-energy framework for investigating how quantum geometry shapes charge order, electron–phonon coupling, and superconductivity in NbSe2.\n\n[Phys. Rev. B 114, 125104] Published Fri Aug 07, 2026",
+          "link": "http://link.aps.org/doi/10.1103/2bjl-p1vd",
+          "publishedOn": "2026-08-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Quantum geometry in the ${\\mathrm{NbSe}}_{2}$ family: Obstructed compact Wannier function and perturbation theory",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/zpbf-jj5d",
+          "author": "Mingran Kong and Bartomeu Monserrat",
+          "description": "Author(s): Mingran Kong and Bartomeu Monserrat\nThe electron-phonon interaction governs properties from electrical conductivity to superconductivity, and first-principles calculations of it typically assume that phonons have infinite lifetimes. Here, the authors go beyond this approximation, presenting a theory and first-principles implementation of electrons coupling to finite-lifetime phonons dephased by anharmonic phonon-phonon interactions. In metallic MgB2, this dephasing opens new scattering channels that strongly enhance electron-phonon scattering and suppress the calculated conductivity, improving agreement with experiment and pointing to a broader role for phonon lifetimes in anharmonic metals.\n\n[Phys. Rev. B 114, L080304] Published Fri Aug 07, 2026",
+          "link": "http://link.aps.org/doi/10.1103/zpbf-jj5d",
+          "publishedOn": "2026-08-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Electronic conductivity in anharmonic crystals: Phonon dephasing in the electron-phonon interaction",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/jls4-6s89",
+          "author": "Hironori Sakai, Chihiro Tabata, Koji Kaneko, Yoshifumi Tokiwa, Takafumi Kitazawa, Shinsaku Kambe, Yo Tokunaga, and Yoshinori Haga",
+          "description": "Author(s): Hironori Sakai, Chihiro Tabata, Koji Kaneko, Yoshifumi Tokiwa, Takafumi Kitazawa, Shinsaku Kambe, Yo Tokunaga, and Yoshinori Haga\nHere, the authors combine nuclear magnetic resonance and single-crystal neutron diffraction to constrain a plausible magnetic structure model for the incommensurate antiferromagnetic state of the semiconducting 5f van der Waals magnet α-UTe3. The model captures strong spin anisotropy and spatially modulated ordered moments, suggesting that this unusual order develops near a quantum critical point associated with crystal-field singlet induced magnetism in a layered actinide system with highly anisotropic 5f electrons.\n\n[Phys. Rev. B 114, L080402] Published Fri Aug 07, 2026",
+          "link": "http://link.aps.org/doi/10.1103/jls4-6s89",
+          "publishedOn": "2026-08-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Incommensurate antiferromagnetism with amplitude modulation in the semiconducting $5f$ van der Waals magnet $α\\text{−}{\\mathrm{UTe}}_{3}$",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/bdl1-6bn4",
           "author": "Emadelden Fouad and Ian Bentley",
           "description": "Author(s): Emadelden Fouad and Ian Bentley\nPhysics students express a strong preference for optional rather than mandatory AI integration, largely because they acutely recognize the technology’s tendency to fail at visual-spatial reasoning and circuit analysis.\n\n[Phys. Rev. Phys. Educ. Res. 22, 020114] Published Thu Aug 06, 2026",
@@ -933,76 +1003,6 @@
           "publishedOn": "2026-07-16T10:00:00.000Z",
           "wordCount": null,
           "title": "Search for Sub-GeV Dark Particles in $η→{π}^{0}+\\text{Invisible}$ Decay",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/hhtt-ffgg",
-          "author": "Beom Hyun Kim, Youjin Lee, Junik Hwang, Junghyun Kim, Je-Geun Park, and Seung-Ho Baek",
-          "description": "Author(s): Beom Hyun Kim, Youjin Lee, Junik Hwang, Junghyun Kim, Je-Geun Park, and Seung-Ho Baek\nNuclear magnetic resonance measurements verify the Zhang-Rice triplet ground state in the van der Waals antiferromagnet NiPS3.\n\n[Phys. Rev. Lett. 137, 036505] Published Thu Jul 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/hhtt-ffgg",
-          "publishedOn": "2026-07-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Microscopic Evidence for a Zhang-Rice Triplet State in the van der Waals Antiferromagnet, ${\\mathrm{NiPS}}_{3}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/3v91-5pzf",
-          "author": "Yiming Gong, Kai Wang, and Steven T. Cundiff",
-          "description": "Author(s): Yiming Gong, Kai Wang, and Steven T. Cundiff\nUsing higher-order quantum interference, an “electron lighthouse” is created with the capability of optically steering highly directional 2D beams of photocurrent in semiconductors.\n\n[Phys. Rev. Lett. 137, 036901] Published Thu Jul 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/3v91-5pzf",
-          "publishedOn": "2026-07-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Directional Photocurrent Generated by Quantum Interference Control",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/q2jj-5flv",
-          "author": "Zdzislaw Burda, Mario Kieburg, and Tomasz Maciocha",
-          "description": "Author(s): Zdzislaw Burda, Mario Kieburg, and Tomasz Maciocha\nIn a one-dimensional gas of particles confined by an asymptotically power-law potential, the ordering of the particles changes as they perform Brownian motion. The authors show that the order statistics that describe how the particles are reshuffled are universal and independent of the potential’s exponent, while the timescale of the reshuffling does depend on it.\n#UniversalBehavior #AdvancingField\n\n[Phys. Rev. E 114, 014130] Published Thu Jul 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/q2jj-5flv",
-          "publishedOn": "2026-07-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Universality of order statistics for Brownian reshuffling",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/66j9-cwvx",
-          "author": "Zohreh Davoudi, Christopher Jarzynski, Niklas Mueller, Greeshma Oruganti, Connor Powers, and Nicole Yunger Halpern",
-          "description": "Author(s): Zohreh Davoudi, Christopher Jarzynski, Niklas Mueller, Greeshma Oruganti, Connor Powers, and Nicole Yunger Halpern\nThe authors examine three definitions of internal energy, work, and heat that have been used for quantum systems coupled strongly to the environment. Their study focuses on quenches, processes in which the Hamiltonian changes abruptly. In these processes, the first law of thermodynamics holds for each set of definitions by construction. The authors show that only two sets of definitions obey the second law. They illustrate their findings with a model of two coupled spins.\n#ClearMotivation #AdvancingField\n\n[Phys. Rev. E 114, 014133] Published Thu Jul 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/66j9-cwvx",
-          "publishedOn": "2026-07-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Work and heat exchanged during sudden quenches of strongly coupled quantum systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/k7y2-13x5",
-          "author": "Zheng-bo Cheng, Hong-xiang Sun, Shou-qi Yuan, Zheyu Cheng, and Baile Zhang",
-          "description": "Author(s): Zheng-bo Cheng, Hong-xiang Sun, Shou-qi Yuan, Zheyu Cheng, and Baile Zhang\nFloquet topological systems support boundary states pinned at discrete quasienergies. Here, the authors experimentally realize Floquet edge states with fractional quasienergies π/3 and 2π/3 in an acoustic waveguide array, establishing a new family of fractional Floquet edge states beyond the conventional 0 and π quasienergy paradigm.\n\n[Phys. Rev. B 114, 034207] Published Thu Jul 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/k7y2-13x5",
-          "publishedOn": "2026-07-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Observation of $π/3$ and $2π/3$ modes in an acoustic Floquet system",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/lznp-d5fz",
-          "author": "Fangqiao Ye and Haiping Hu",
-          "description": "Author(s): Fangqiao Ye and Haiping Hu\nHere, the authors theoretically propose an approach to probe Floquet topological phases utilizing the non-Hermitian skin effect of reflected waves. They demonstrate that in periodically driven systems, unique topological signatures are robustly encoded in the reflection signals at the boundaries. This work provides a practical framework for experimentally identifying nonequilibrium topological phenomena without needing bulk measurements.\n\n[Phys. Rev. B 114, 034310] Published Thu Jul 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/lznp-d5fz",
-          "publishedOn": "2026-07-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Probing Floquet topological phases via non-Hermitian skin effect of reflected waves",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/wjny-mvr8",
-          "author": "Misha Yutushui and David F. Mross",
-          "description": "Author(s): Misha Yutushui and David F. Mross\nHere, the authors establish a comprehensive theory for the recently observed “next-generation” even-denominator fractional quantum Hall states and reveal that they are topologically equivalent to Bonderson-Slingerland phases. They present numerical simulations showing significant and systematic microscopic differences between the two families of states: next-generation states are favored in the lowest Landau level, while Bonderson-Slingerland states are favored in the first excited level. Finally, the authors prove that essential universal properties of topological edges are preserved under flux attachment and leverage this result to predict experimental signatures of next-generation even-denominator states.\n\n[Phys. Rev. B 114, 065121] Published Thu Jul 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/wjny-mvr8",
-          "publishedOn": "2026-07-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Theory of next-generation even-denominator states",
           "imageUrl": null
         }
       ]
