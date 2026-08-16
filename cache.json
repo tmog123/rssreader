@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/rwtt-bcw8",
+          "author": "Nicolas Baù, Mitra Dowlatabadi, Tommaso Chiarotti, Massimo Capone, and Antimo Marrazzo",
+          "description": "Author(s): Nicolas Baù, Mitra Dowlatabadi, Tommaso Chiarotti, Massimo Capone, and Antimo Marrazzo\nA Green’s-function framework based on real-space dynamical embedding is presented for first-principles simulations of superconducting proximity effects at interfaces. The method treats normal and anomalous renormalizations on equal footing and addresses the mesoscopic length scales and small energy scales characteristic of the effect without explicitly modeling thick slabs.\n\n[Phys. Rev. Research 8, 033184] Published Fri Aug 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/rwtt-bcw8",
+          "publishedOn": "2026-08-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "First-principles real-space embedding theory of the superconducting proximity effect",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/14kh-nkgl",
+          "author": "Emily S. Costello, John Ellis, Brian D. Fields, Rebecca Surman, and Xilu Wang",
+          "description": "Author(s): Emily S. Costello, John Ellis, Brian D. Fields, Rebecca Surman, and Xilu Wang\nA model that captures how crater-forming impacts redistribute lunar dirt will help researchers read the cosmic timeline found in samples returned from the Moon.\n\n[Phys. Rev. Lett. 137, 071005] Published Fri Aug 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/14kh-nkgl",
+          "publishedOn": "2026-08-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Gardening on the Moon: An Advection-Diffusion Model to Guide the Search for Supernova Debris in the Lunar Regolith",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/2clt-t25r",
+          "author": "M. H. Müser and B. N. J. Persson",
+          "description": "Author(s): M. H. Müser and B. N. J. Persson\nReal surfaces are rough on many length scales, but flash-temperature theories have traditionally assumed single-scale contacts. Müser and Persson derive here an analytical multiscale theory of frictional heating and verify it against numerical simulations. They show that the classical models can fail dramatically for realistic rough surfaces. The work provides a quantitative framework for predicting thermal hotspots in systems ranging from rubber friction to earthquake faults.\n\n[Phys. Rev. B 114, 115407] Published Fri Aug 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/2clt-t25r",
+          "publishedOn": "2026-08-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Flash temperature in sliding contacts",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/rmgr-vjms",
+          "author": "Tim J. Wilson and Hong-Wen Jiang",
+          "description": "Author(s): Tim J. Wilson and Hong-Wen Jiang\nQuantum dot–based spin qubits require ultrafast, high-fidelity charge readout for quantum error correction and real-time feedback. Improving readout sensitivity has often required complex high-impedance resonators or specialized circuits. This work shows that optimizing a gate lever arm directly coupled to an in situ superconducting microwave resonator dramatically enhances readout sensitivity, achieving integration times at the tens of nanoseconds scale without the use of high-impedance devices, and revealing how readout noise evolves across distinct physical regimes. These results show a practical route toward faster, more scalable architectures for fault-tolerant quantum computing.\n\n[Phys. Rev. Applied 26, 024040] Published Fri Aug 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/rmgr-vjms",
+          "publishedOn": "2026-08-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Fast and sensitive readout of a semiconductor quantum dot using an <i>in situ</i> microwave resonator with enhanced gate lever arm",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/4nhs-bkwh",
+          "author": "Dmytro Abraimov <em>et al.</em>",
+          "description": "Author(s): Dmytro Abraimov et al.\nCan high-temperature superconductors take accelerator dipoles past the limits of Nb-Ti and Nb₃Sn? The U.S. Magnet Development Program and industry partners tested C3, a canted-cosine-theta dipole wound with commercial REBCO CORC® wires, reaching 5.99 T in a 65 mm clear aperture at 4.2 K, with no measurable degradation after a thermal cycle. Field quality and energy loss were limited by strong conductor magnetization, yet the results reveal no fundamental showstopper on the path to 8–10 T. Alongside the magnet performance, the authors report fabrication incidents and open questions candidly and invite accelerator physicists to join as early adopters of this emerging technology.\n\n[Phys. Rev. Accel. Beams 29, 083902] Published Fri Aug 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/4nhs-bkwh",
+          "publishedOn": "2026-08-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Fabrication and test of a 6-tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/6xjr-tflh",
+          "author": "Linda Greggio, Tristan Lorriaux, Alexandru Petrescu, Mazyar Mirrahimi, and Audrey Bienfait",
+          "description": "Author(s): Linda Greggio, Tristan Lorriaux, Alexandru Petrescu, Mazyar Mirrahimi, and Audrey Bienfait\nThe authors calculate quantum memory efficiency in a cavity-coupled ensemble of spins by examining absorption and emission efficiency. Based on this they design a method for storage and retrieval that involves modulating the coupling strength between the cavity and the ensemble.\n\n[Phys. Rev. A 114, 022615] Published Fri Aug 14, 2026",
+          "link": "http://link.aps.org/doi/10.1103/6xjr-tflh",
+          "publishedOn": "2026-08-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Optimal absorption and emission of itinerant fields into a spin-ensemble memory",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/5ntb-ggcz",
           "author": "Chao Yin and Andrew Lucas",
           "description": "Author(s): Chao Yin and Andrew Lucas\nUsing the two-dimensional random-bond Ising model as a concrete example, certain gapless ground states under quantum perturbations are shown to have a universal structure exhibiting spontaneous symmetry breaking, generalizing the classical Peierls argument for stability against thermal fluctuations.\n\n[Phys. Rev. Lett. 137, 070405] Published Thu Aug 13, 2026",
@@ -943,66 +1003,6 @@
           "publishedOn": "2026-07-27T10:00:00.000Z",
           "wordCount": null,
           "title": "Polydisperse polymer fractionation between phases",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/s8sb-6tdb",
-          "author": "B. Gurrutxaga-Lerma and J. E. Arnold",
-          "description": "Author(s): B. Gurrutxaga-Lerma and J. E. Arnold\nDislocation mobility in concentrated alloys is normally extracted from driven molecular dynamics, one costly simulation per data point. Here the authors obtain it instead from equilibrium lattice dynamics: integrating out the phonons on the Keldysh contour gives a causal memory kernel, whose zero-frequency limit is the dislocation’s phonon drag coefficient. The authors show drag to vary non-monotonically with composition, and that averaging the chemistry discards a positive variance term, so effective medium estimates underpredict drag by about 2 to 8.\n\n[Phys. Rev. B 114, 034116] Published Mon Jul 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/s8sb-6tdb",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Predictive dislocation mobility in high-entropy alloys without driven molecular dynamics: A quantum statistical approach",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/2pdp-zwgl",
-          "author": "Florian Maurer, Thomas F. Allard, Yanko Todorov, Guillaume Weick, and David Hagenmüller",
-          "description": "Author(s): Florian Maurer, Thomas F. Allard, Yanko Todorov, Guillaume Weick, and David Hagenmüller\nSurface plasmon polaritons are a cornerstone of nanophotonics, yet an effective quantum model with a clear microscopic foundation has remained elusive. Here, the authors develop a microscopic quantum theory valid for arbitrary metal-dielectric geometries. In particular, they show that these excitations arise from the nonperturbative coupling of bulk plasmons to the electromagnetic vacuum. Their theory reveals that metal-dielectric interfaces naturally realize ultrastrong light-matter coupling, giving rise to unconventional ground-state quantum fluctuations controlled by geometry and refractive index.\n\n[Phys. Rev. B 114, 055421] Published Mon Jul 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/2pdp-zwgl",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Microscopic quantum description of surface plasmon polaritons: Revealing intrinsic ultrastrong light-matter coupling",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/jryt-qwsj",
-          "author": "Vittorio Basso, Adriano Di Pietro, and Alessandro Sola",
-          "description": "Author(s): Vittorio Basso, Adriano Di Pietro, and Alessandro Sola\nThe spontaneous Nernst effect in ferromagnetic metals is relevant for thermal-management applications and transverse heat-to-electricity generation, but material optimization is limited by our incomplete understanding of the underlying physics. The authors evaluate the transport coefficients using Boltzmann transport and a rigid two-band model, explicitly treating transverse current density due to Berry curvature as a Fermi-surface property. What they find stands in stark contrast to the ordinary Nernst effect. Their physical insights and proposed recipes for tailoring band structure could lead to improved magnets made from 3d transition metals for thermoelectric applications.\n\n[Phys. Rev. Applied 26, 014085] Published Mon Jul 27, 2026",
-          "link": "http://link.aps.org/doi/10.1103/jryt-qwsj",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Spontaneous Nernst coefficient of ferromagnets from the interplay of electron scattering and Berry curvature",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/byzm-k9lw",
-          "author": "Yu-tin Huang, Sara Ricossa, Francesco Riva, and Jie-Da Tsai",
-          "description": "Author(s): Yu-tin Huang, Sara Ricossa, Francesco Riva, and Jie-Da Tsai\nA bootstrap extremization principle selects the linear Regge spectrum, with the graviton pole uniquely fixing the trajectory in gravitational theories.\n\n[Phys. Rev. Lett. 137, 041603] Published Fri Jul 24, 2026",
-          "link": "http://link.aps.org/doi/10.1103/byzm-k9lw",
-          "publishedOn": "2026-07-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Rise of Linear Regge Trajectories",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/jhgx-c8f1",
-          "author": "Tzu-Chi Hsieh, Cong Xiao, and Yi-Ting Hsu",
-          "description": "Author(s): Tzu-Chi Hsieh, Cong Xiao, and Yi-Ting Hsu\nThe Nernst effect acts as direct probe of Berry curvature to test topological superconductivity in 2D material with spin-orbit coupling.\n\n[Phys. Rev. Lett. 137, 046002] Published Fri Jul 24, 2026",
-          "link": "http://link.aps.org/doi/10.1103/jhgx-c8f1",
-          "publishedOn": "2026-07-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Intrinsic Nernst Effect from Berry Curvature in Superconductors",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/dldv-n4f2",
-          "author": "Xinyue Zhang, Hongming Zhang, Yaofeng Zhu, Hang Zhou, Song Luo, Long Xu, Xin Li, Yuquan Zhou, Yan Liu, Zheng Lv, Yuxin Duan, Zhao Xu, Haodong Cheng, Long Zhang, and Zhanghai Chen",
-          "description": "Author(s): Xinyue Zhang, Hongming Zhang, Yaofeng Zhu, Hang Zhou, Song Luo, Long Xu, Xin Li, Yuquan Zhou, Yan Liu, Zheng Lv, Yuxin Duan, Zhao Xu, Haodong Cheng, Long Zhang, and Zhanghai Chen\nIntegrating a WSe2 monolayer into an optical microcavity generates valley-engineered Landau polaritons, enabling light-mediated valley control of quantum many-body states.\n\n[Phys. Rev. Lett. 137, 046904] Published Fri Jul 24, 2026",
-          "link": "http://link.aps.org/doi/10.1103/dldv-n4f2",
-          "publishedOn": "2026-07-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Valley-Engineered Landau Polaritons in a van der Waals Semiconductor Microcavity",
           "imageUrl": null
         }
       ]
