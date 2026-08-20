@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/zqg5-gzbq",
+          "author": "Hao-Xin Wang, Hanbit Oh, Tobias Helbig, Bai Yang Wang, Jiarui Li, Yijun Yu, Harold Y. Hwang, Hong-Chen Jiang, Yi-Ming Wu, and S. Raghu",
+          "description": "Author(s): Hao-Xin Wang, Hanbit Oh, Tobias Helbig, Bai Yang Wang, Jiarui Li, Yijun Yu, Harold Y. Hwang, Hong-Chen Jiang, Yi-Ming Wu, and S. Raghu\nDensity matrix renormalization group calculations reveal spin-stripe ordering at large Hund’s coupling, demonstrating that Hund’s coupling and inter-layer coupling are key parameters in magnetic order and pairing.\n\n[Phys. Rev. Lett. 137, 086502] Published Tue Aug 18, 2026",
+          "link": "http://link.aps.org/doi/10.1103/zqg5-gzbq",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Spin Stripes and Superconductivity in Bilayer Nickelates",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/xby9-6mtn",
+          "author": "Brandon R. Munn, Christopher Whyte, Eli J. Müller, and James M. Shine",
+          "description": "Author(s): Brandon R. Munn, Christopher Whyte, Eli J. Müller, and James M. Shine\nThe authors present a study of critical phenomena in neural systems. They present evidence that cortical networks display criticality flexibly through arousal tuning. The work points out that arousal should be treated as an experimental control parameter, not as a source of noise.\n#BiophysicsSpotlight #TimelyTopic\n\n[Phys. Rev. E 114, 024403] Published Tue Aug 18, 2026",
+          "link": "http://link.aps.org/doi/10.1103/xby9-6mtn",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Arousal tunes neuronal avalanches across a directed percolation critical point",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/1mth-rs2j",
+          "author": "John L. Spiesberger and Eugene Terray",
+          "description": "Author(s): John L. Spiesberger and Eugene Terray\nA theory inspired by whale tracking suggests that wave interference can make energy travel faster than light.\n\n[Phys. Rev. E 114, 025107] Published Tue Aug 18, 2026",
+          "link": "http://link.aps.org/doi/10.1103/1mth-rs2j",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Supersonic and superluminal energy and speed of information via temporal interference in a dispersionless environment",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/y8ft-m61w",
+          "author": "Lukas Broers, Rong-Yang Sun, and Seiji Yunoki",
+          "description": "Author(s): Lukas Broers, Rong-Yang Sun, and Seiji Yunoki\nPowerful and efficient numerical techniques have been central to theoretical research on quantum mechanical systems for decades. In the era of quantum advantage demonstrations, it is paramount to develop strong benchmarks that truly represent the classical frontier. This study presents a high-performance parallel implementation and large-scale demonstration of quantum dynamics simulated with OR-represented quantum algebra at a huge scale, retaining over a trillion Pauli strings while maintaining strong scaling behavior, using the supercomputer Fugaku. This algorithm enriches the body of classical high-performance methods and challenges current quantum advantage efforts.\n\n[Phys. Rev. Applied 26, 024046] Published Tue Aug 18, 2026",
+          "link": "http://link.aps.org/doi/10.1103/y8ft-m61w",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Scalable simulation of quantum many-body dynamics with <span class=\"sc\">or</span>-represented quantum algebra",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/8yf7-blyh",
+          "author": "Dianpeng Wang, You Xiao, Jiamin Xiong, Chenrui Wang, Zhen Wan, Hongxin Xu, Chaomeng Ding, Jia Huang, Lixing You, and Hao Li",
+          "description": "Author(s): Dianpeng Wang, You Xiao, Jiamin Xiong, Chenrui Wang, Zhen Wan, Hongxin Xu, Chaomeng Ding, Jia Huang, Lixing You, and Hao Li\nSuperconducting nanowire single-photon detectors with high count rates are important for quantum information processing, optical communication, and photon-starved imaging. Their timing performance is limited by excess jitter, though, and the underlying physics is not fully understood. This study identifies stochastic baseline fluctuations caused by the finite memory of ac-coupled readout circuits as an important source of timing jitter at high count rates, and establishes a quantitative framework to predict their impact. Also, under pulsed illumination the timing jitter is found to reach a maximum at about half of the laser’s repetition rate.\n\n[Phys. Rev. Applied 26, 024049] Published Tue Aug 18, 2026",
+          "link": "http://link.aps.org/doi/10.1103/8yf7-blyh",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Timing jitter induced by stochastic baseline fluctuations in high-count-rate superconducting nanowire single-photon detectors",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/3qgq-1zjf",
+          "author": "Mengdi Li, Hugo F. Schouten, and Taco D. Visser",
+          "description": "Author(s): Mengdi Li, Hugo F. Schouten, and Taco D. Visser\nThe authors establish a relation between the conservation of coherence and the conservation of energy. They analyze partially coherent fields in the focal region of a converging lens, and show topological differences between the coherence flux and the energy flux.\n\n[Phys. Rev. A 114, 022211] Published Tue Aug 18, 2026",
+          "link": "http://link.aps.org/doi/10.1103/3qgq-1zjf",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Conservation laws for partially coherent waves",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/z9qg-287y",
           "author": "Julien Barrier, Liangtao Peng, Shuigang Xu, Christophe De Beule, V. I. Fal’ko, K. Watanabe, T. Tanigushi, A. K. Geim, Shaffique Adam, and Alexey I. Berdyugin",
           "description": "Author(s): Julien Barrier, Liangtao Peng, Shuigang Xu, Christophe De Beule, V. I. Fal’ko, K. Watanabe, T. Tanigushi, A. K. Geim, Shaffique Adam, and Alexey I. Berdyugin\nMetallic layers placed near magic-angle graphene suppress Coulomb interactions and reveal that its superconductivity is driven by electronic interactions rather than conventional atomic vibrations.\n\n[Phys. Rev. X 16, 031040] Published Mon Aug 17, 2026",
@@ -943,66 +1003,6 @@
           "publishedOn": "2026-07-30T10:00:00.000Z",
           "wordCount": null,
           "title": "Turbulent Nature of the Quasicontinuous Exhaust Regime for Fusion Plasmas",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/q1dy-gsmh",
-          "author": "Hannes Karlsson, Johannes S. Hofmann, and Alexander Wietek",
-          "description": "Author(s): Hannes Karlsson, Johannes S. Hofmann, and Alexander Wietek\nHere, the authors present a framework for identifying superconducting order directly from the two-particle reduced density matrix, via the Penrose-Onsager criterion. Beyond detecting a condensate, the method reconstructs the Cooper pair wave function and resolves its symmetry without prior assumptions. Applied to the Hubbard model, it characterizes uniform s-wave, finite-momentum FFLO, and fragmented supersolid states — the last revealing an unexpected triplet p-wave component alongside the dominant d wave.\n\n[Phys. Rev. B 114, 055133] Published Thu Jul 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/q1dy-gsmh",
-          "publishedOn": "2026-07-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Cooper condensation and pair wave functions in systems of strongly correlated electrons",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/w648-z6zq",
-          "author": "Andrey A. Voronov, Khrystyna O. Levchenko, Roman Verba, Kristýna Davídková, Carsten Dubs, Michal Urbánek, Qi Wang, Dieter Suess, Claas Abert, and Andrii V. Chumak",
-          "description": "Author(s): Andrey A. Voronov, Khrystyna O. Levchenko, Roman Verba, Kristýna Davídková, Carsten Dubs, Michal Urbánek, Qi Wang, Dieter Suess, Claas Abert, and Andrii V. Chumak\nMagnonics, in which information is processed with spin waves instead of electronic charge, offers a path to energy-efficient computing beyond CMOS, but scaling has been held back because shrinking conventional waveguides sharply slows spin waves and shortens their reach. Using experiment, simulation, and analytical modeling, the authors show that Ga:YIG waveguides as narrow as 145 nm support exchange-dominated spin waves moving at 600 m/s, much faster than in plain YIG, with a group velocity almost independent of waveguide width. This fast, long-lived, geometry-independent transport makes Ga:YIG a compelling platform for nanoscale magnonic logic and hybrid spin-wave–CMOS architectures.\n\n[Phys. Rev. Applied 26, 014103] Published Thu Jul 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/w648-z6zq",
-          "publishedOn": "2026-07-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Exchange spin-wave propagation in gallium-substituted yttrium iron garnet nanowaveguides",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/v8mq-6nh6",
-          "author": "Wenshu Liang, Tianlong He, Weiwei Li, Yelong Wei, Ye Zou, Qing Luo, and Jingyu Tang",
-          "description": "Author(s): Wenshu Liang, Tianlong He, Weiwei Li, Yelong Wei, Ye Zou, Qing Luo, and Jingyu Tang\nHigh-luminosity electron–positron colliders require ampere-level beam currents, rendering coupled-bunch instabilities driven by RF-cavity accelerating modes a critical concern. For the Super Tau-Charm Facility, we demonstrate that these instabilities can be effectively suppressed over the full 1–3.5 GeV energy range using solely the baseline low-level RF (LLRF) proportional-integral (PI) loop. The combination of a unity proportional gain and half-revolution loop delay produces a notch-filter response that strongly attenuates the most dangerous odd modes. Analytical calculations, particle tracking, and Nyquist analysis collectively confirm the robustness of both beam and loop stability.\n\n[Phys. Rev. Accel. Beams 29, 074902] Published Thu Jul 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/v8mq-6nh6",
-          "publishedOn": "2026-07-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Beam instability induced by the rf cavity accelerating modes and its suppression in the Super Tau-Charm Facility",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/kdtb-q3ly",
-          "author": "Pavel A. Vorobyev, Daichi Kurebayashi, and Oleg A. Tretiakov",
-          "description": "Author(s): Pavel A. Vorobyev, Daichi Kurebayashi, and Oleg A. Tretiakov\nResearchers have theoretically predicted the “asymmetric antibimeron” (AAB)—a novel topological spin texture composed of an antivortex and a crescent-shaped vortex found in in-plane magnetized chiral ferromagnets—offering a promising new platform for high-density spintronic memory and logic devices.\n\n[APS Open Sci. 1, 000075] Published Thu Jul 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/kdtb-q3ly",
-          "publishedOn": "2026-07-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Asymmetric antibimerons: Statics and dynamics",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/5fl9-89j4",
-          "author": "Nicolas Moulonguet, Eloi Descamps, José Lorgeré, Astghik Saharyan, Arne Keller, and Pérola Milman",
-          "description": "Author(s): Nicolas Moulonguet, Eloi Descamps, José Lorgeré, Astghik Saharyan, Arne Keller, and Pérola Milman\nStellar rank physically emerges from superselection rules and provides an interpretation to non-Gaussianity in terms of intrinsic multimode entanglement.\n\n[Phys. Rev. Lett. 137, 050203] Published Wed Jul 29, 2026",
-          "link": "http://link.aps.org/doi/10.1103/5fl9-89j4",
-          "publishedOn": "2026-07-29T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Non-Gaussianity from Superselection Rules",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/96rx-zx6l",
-          "author": "E. García-Hemme, R. Benítez-Fernández, S. Duarte-Cano, F. Pérez-Zenteno, S. Algaidy, C. Mata-Alonso, S. de Castro-Romero, R. García-Hernansanz, J. Olea, A. del Prado, E. San Andrés, I. Mártil, and D. Pastor",
-          "description": "Author(s): E. García-Hemme, R. Benítez-Fernández, S. Duarte-Cano, F. Pérez-Zenteno, S. Algaidy, C. Mata-Alonso, S. de Castro-Romero, R. García-Hernansanz, J. Olea, A. del Prado, E. San Andrés, I. Mártil, and D. Pastor\nA new light-trapping architecture could lead to CMOS-compatible night-vision technology.\n\n[Phys. Rev. Lett. 137, 057002] Published Wed Jul 29, 2026",
-          "link": "http://link.aps.org/doi/10.1103/96rx-zx6l",
-          "publishedOn": "2026-07-29T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Breakthrough in Short-Wavelength Infrared Quantum Efficiency in Te-Hyperdoped Silicon Photodetectors via Light-Trapping Strategies",
           "imageUrl": null
         }
       ]
