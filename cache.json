@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/kykd-2nj4",
+          "author": "Seigo Ogawa, Tomoki Miyoshi, Saki Uchida, Kazuaki Matano, Shinji Kawasaki, Yoshihiko Inada, and Guo-qing Zheng",
+          "description": "Author(s): Seigo Ogawa, Tomoki Miyoshi, Saki Uchida, Kazuaki Matano, Shinji Kawasaki, Yoshihiko Inada, and Guo-qing Zheng\nResearchers have made the first definitive measurements of an elusive superconducting state.\n\n[Phys. Rev. Lett. 137, 086003] Published Wed Aug 19, 2026",
+          "link": "http://link.aps.org/doi/10.1103/kykd-2nj4",
+          "publishedOn": "2026-08-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Multiple Phases in ${\\mathrm{K}}_{2}{\\mathrm{Cr}}_{3}{\\mathrm{As}}_{3}$: A Playground for Manipulating Topological Superconductivity",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/yltb-6jkj",
+          "author": "Lars Dingeldein, Aaron Lyons, Pilar Cossio, Michael T. Woodside, and Roberto Covino",
+          "description": "Author(s): Lars Dingeldein, Aaron Lyons, Pilar Cossio, Michael T. Woodside, and Roberto Covino\nA simulation-based inference framework combines physics-based modeling with deep learning to recover the Bayesian posterior of a biomolecular folding model directly from single-molecule force spectroscopy data.\n\n[Phys. Rev. Lett. 137, 088402] Published Wed Aug 19, 2026",
+          "link": "http://link.aps.org/doi/10.1103/yltb-6jkj",
+          "publishedOn": "2026-08-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Quantitative and Predictive Folding Models from Limited Single-Molecule Data Using Simulation-Based Inference",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/fs49-9zrj",
+          "author": "Masaru Hitomi, Takuto Kawakami, and Mikito Koshino",
+          "description": "Author(s): Masaru Hitomi, Takuto Kawakami, and Mikito Koshino\nHere, the authors show how magnetic fields expose the hidden quasiband structure of 30° twisted bilayer graphene, a quasicrystal with 12-fold rotational symmetry but no translational symmetry. Their Landau-level theory reveals quantized orbits of quasiband pockets, unusual spectral patterns, and magneto-optical selection rules enforced by quasicrystalline symmetry, providing a route to quantum magneto-optics in broader quasiperiodic van der Waals materials.\n\n[Phys. Rev. B 114, 105412] Published Wed Aug 19, 2026",
+          "link": "http://link.aps.org/doi/10.1103/fs49-9zrj",
+          "publishedOn": "2026-08-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Landau levels and magneto-optics in ${30}^{∘}$ quasiperiodic twisted bilayer graphene",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/jcfy-vdm8",
+          "author": "Pierre Sellié, J. Arjan Berger, and Pina Romaniello",
+          "description": "Author(s): Pierre Sellié, J. Arjan Berger, and Pina Romaniello\nHere, the authors propose a new first-principles method for describing double-ionization spectroscopies. By coupling the particle-particle two-body Green’s function with the three- electron–one-hole and three-hole–one-electron channels of the four-body Green’s function, the approach captures both quasiparticle and satellite features that can appear, for example, in Auger spectroscopy. The method relies on the multichannel Dyson equation, which couples multiple Green’s functions through a multichannel self-energy. Importantly, approximations to the self-energy can be made static while still reproducing satellite features.\n\n[Phys. Rev. B 114, 125117] Published Wed Aug 19, 2026",
+          "link": "http://link.aps.org/doi/10.1103/jcfy-vdm8",
+          "publishedOn": "2026-08-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Multichannel Dyson equation for double ionization spectroscopies",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/zqg5-gzbq",
           "author": "Hao-Xin Wang, Hanbit Oh, Tobias Helbig, Bai Yang Wang, Jiarui Li, Yijun Yu, Harold Y. Hwang, Hong-Chen Jiang, Yi-Ming Wu, and S. Raghu",
           "description": "Author(s): Hao-Xin Wang, Hanbit Oh, Tobias Helbig, Bai Yang Wang, Jiarui Li, Yijun Yu, Harold Y. Hwang, Hong-Chen Jiang, Yi-Ming Wu, and S. Raghu\nDensity matrix renormalization group calculations reveal spin-stripe ordering at large Hund’s coupling, demonstrating that Hund’s coupling and inter-layer coupling are key parameters in magnetic order and pairing.\n\n[Phys. Rev. Lett. 137, 086502] Published Tue Aug 18, 2026",
@@ -963,46 +1003,6 @@
           "publishedOn": "2026-08-03T10:00:00.000Z",
           "wordCount": null,
           "title": "Lifshitz transitions and isospin polarization in twist-decoupled monolayer-bilayer graphene",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/1jkc-jrq8",
-          "author": "Rémy Monville, Céline Guervilly, Hao Cao, and Jonathan M. Aurnou",
-          "description": "Author(s): Rémy Monville, Céline Guervilly, Hao Cao, and Jonathan M. Aurnou\nMeasuring fluid velocities in rapidly rotating, thermally driven flows is challenging because conventional particle-tracking methods can be impractical, especially in planetary fluid dynamics experiments involving curved boundaries. Researchers address this problem with a new thermal image velocimetry (TIV) formulation, which uses dense optical flow to track evolving free-surface temperature patterns instead of suspended particles. The approach provides accurate velocity measurements while circumventing many of the optical constraints of traditional visualization methods, thus, broadening the experimental toolkit for probing the complex dynamics of rotating convective turbulence.\n\n[APS Open Sci. 1, 000082] Published Mon Aug 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/1jkc-jrq8",
-          "publishedOn": "2026-08-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Thermal image velocimetry for rapidly rotating fluid dynamics",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/77mh-hflq",
-          "author": "Lingyu Jia, Changliang Zhu, Qiaozhi Lei, Hua Tong, Jinkui Meng, Chengyan Xu, Xiangying Shen, and Lei Xu",
-          "description": "Author(s): Lingyu Jia, Changliang Zhu, Qiaozhi Lei, Hua Tong, Jinkui Meng, Chengyan Xu, Xiangying Shen, and Lei Xu\nA physics-constrained design framework may aid the search for lightweight but resilient material.\n\n[Phys. Rev. X 16, 031024] Published Fri Jul 31, 2026",
-          "link": "http://link.aps.org/doi/10.1103/77mh-hflq",
-          "publishedOn": "2026-07-31T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Unlocking Emergent Resilience in Amorphous Metamaterials via a Physics-Constrained Energy-Based Framework",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/2lrq-f6bk",
-          "author": "E. Aprile <em>et al.</em> (XENON Collaboration)",
-          "description": "Author(s): E. Aprile et al. (XENON Collaboration)\nWorld-leading bounds are placed on sub-keV axionlike and dark-photon dark matter using ionization-only data from a liquid xenon detector.\n\n[Phys. Rev. Lett. 137, 051003] Published Thu Jul 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/2lrq-f6bk",
-          "publishedOn": "2026-07-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Light Dark Matter Search with 7.8 Tonne-Year of Ionization-Only Data in XENONnT",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/j44y-5dp6",
-          "author": "Kaiyu Zhang, Wladimir Zholobenko, Andreas Stegmeir, Michael Faitsch, Konrad Eder, Christoph Pitzal, Frank Jenko, and ASDEX Upgrade Team",
-          "description": "Author(s): Kaiyu Zhang, Wladimir Zholobenko, Andreas Stegmeir, Michael Faitsch, Konrad Eder, Christoph Pitzal, Frank Jenko, and ASDEX Upgrade Team\nSupercomputer simulations reveal how turbulence supports a Goldilocks regime for operating a fusion reactor.\n\n[Phys. Rev. Lett. 137, 055102] Published Thu Jul 30, 2026",
-          "link": "http://link.aps.org/doi/10.1103/j44y-5dp6",
-          "publishedOn": "2026-07-30T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Turbulent Nature of the Quasicontinuous Exhaust Regime for Fusion Plasmas",
           "imageUrl": null
         }
       ]
