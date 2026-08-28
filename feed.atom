@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-27T06:46:07.606Z</id>
+    <id>urn:2026-08-28T08:35:01.439Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-27T06:46:07.606Z</updated>
+    <updated>2026-08-28T08:35:01.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Search for Gamma-Ray Spectral Lines from Dark Matter Annihilation with the H.E.S.S. Inner Galaxy Survey]]></title>
+        <id>http://link.aps.org/doi/10.1103/d8tj-55kc</id>
+        <link href="http://link.aps.org/doi/10.1103/d8tj-55kc"/>
+        <updated>2026-08-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): F. Aharonian et al. (H.E.S.S. Collaboration)
+A 500-hour survey of the Galactic Center by the H.E.S.S. telescope array has set the most stringent limits to date on TeV dark matter line annihilation cross sections.
+
+[Phys. Rev. Lett. 137, 091002] Published Thu Aug 27, 2026]]></summary>
+        <author>
+            <name>F. Aharonian &lt;em&gt;et al.&lt;/em&gt; (H.E.S.S. Collaboration)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Three-Point Density Correlations in Two-Dimensional Fermi Liquids]]></title>
+        <id>http://link.aps.org/doi/10.1103/fq7x-srrg</id>
+        <link href="http://link.aps.org/doi/10.1103/fq7x-srrg"/>
+        <updated>2026-08-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Pok Man Tam and Charles L. Kane
+A singular density correlation that is generic to all two-dimensional Fermi liquids offers an independent method for measuring the Landau parameters that characterize the Fermi-liquid phase using quantum-gas microscopy.
+
+[Phys. Rev. Lett. 137, 096504] Published Thu Aug 27, 2026]]></summary>
+        <author>
+            <name>Pok Man Tam and Charles L. Kane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anomalous Dynamical Scaling at Topological Quantum Criticality]]></title>
+        <id>http://link.aps.org/doi/10.1103/mqr4-wnny</id>
+        <link href="http://link.aps.org/doi/10.1103/mqr4-wnny"/>
+        <updated>2026-08-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Menghua Deng, Sheng Yang, Chen Sun, Fuxiang Li, and Xue-Jia Yu
+Driven dynamics at topologically nontrivial quantum critical points leads to anomalous boundary and edge scaling beyond the Kibble–Zurek prediction in several quantum spin chain models.
+
+[Phys. Rev. Lett. 137, 096605] Published Thu Aug 27, 2026]]></summary>
+        <author>
+            <name>Menghua Deng, Sheng Yang, Chen Sun, Fuxiang Li, and Xue-Jia Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noise-Induced Replicator Dynamics in Evolutionary Games]]></title>
+        <id>http://link.aps.org/doi/10.1103/3yby-qq2n</id>
+        <link href="http://link.aps.org/doi/10.1103/3yby-qq2n"/>
+        <updated>2026-08-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Guocheng Wang, Qi Su, Long Wang, and Joshua B. Plotkin
+In evolutionary game theory, the interplay between strategic evolution and environmental stochasticity gives rise to new dynamical regimes, with implications in fluctuating social, ecological, and economic environments.
+
+[Phys. Rev. Lett. 137, 097401] Published Thu Aug 27, 2026]]></summary>
+        <author>
+            <name>Guocheng Wang, Qi Su, Long Wang, and Joshua B. Plotkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Collective Magnetic Excitations in a Photoexcited Electron-Doped Cuprate Superconductor]]></title>
         <id>http://link.aps.org/doi/10.1103/2h9x-8tjk</id>
@@ -1259,58 +1311,6 @@ Most moiré superlattices studied to date are two-dimensional, but a recently di
 [Phys. Rev. B 114, 105407] Published Mon Aug 10, 2026]]></summary>
         <author>
             <name>Takuto Kawakami, Hayato Tateishi, Daiki Yoshida, Xiaohan Yang, Naoto Nakatsuji, Limi Chen, Kohei Aso, Yukiko Yamada-Takamura, Yoshifumi Oshima, Yijin Zhang, Tomoki Machida, Koichiro Kato, and Mikito Koshino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soliton turbulence of a strongly driven one-dimensional Bose gas]]></title>
-        <id>http://link.aps.org/doi/10.1103/vbsx-xyjm</id>
-        <link href="http://link.aps.org/doi/10.1103/vbsx-xyjm"/>
-        <updated>2026-08-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Manon Ballu, Romain Dubessy, Aurélien Perrin, Hélène Perrin, and Anna Minguzzi
-The authors investigate the out-of-equilibrium dynamics of a periodically driven one-dimensional Bose gas in a box trap, demonstrating a transition from a dilute soliton gas to a regime of soliton turbulence with strongly intertwined defects as the drive strength increases. Using an inverse scattering transform analysis, they identify distinct power-law decays in the momentum distribution that characterize each regime and discuss their feasibility for experimental observation.
-
-[Phys. Rev. A 114, 023310] Published Mon Aug 10, 2026]]></summary>
-        <author>
-            <name>Manon Ballu, Romain Dubessy, Aurélien Perrin, Hélène Perrin, and Anna Minguzzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Quantum Voting Using Photonic Greenberger-Horne-Zeilinger States]]></title>
-        <id>http://link.aps.org/doi/10.1103/jlvb-t2xl</id>
-        <link href="http://link.aps.org/doi/10.1103/jlvb-t2xl"/>
-        <updated>2026-08-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): F. Joseph Marcellino, Mingsong Wu, and Rob Thew
-Two research teams have run small-scale demonstrations of voting protocols that could ensure election security using the principles of quantum mechanics.
-
-[Phys. Rev. Lett. 137, 060802] Published Fri Aug 07, 2026]]></summary>
-        <author>
-            <name>F. Joseph Marcellino, Mingsong Wu, and Rob Thew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Quantum Electronic Voting]]></title>
-        <id>http://link.aps.org/doi/10.1103/scjl-5ygh</id>
-        <link href="http://link.aps.org/doi/10.1103/scjl-5ygh"/>
-        <updated>2026-08-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Nicolas Laurent-Puig, Matilde Baroni, Federico Centrone, and Eleni Diamanti
-Two research teams have run small-scale demonstrations of voting protocols that could ensure election security using the principles of quantum mechanics.
-
-[Phys. Rev. Lett. 137, 060803] Published Fri Aug 07, 2026]]></summary>
-        <author>
-            <name>Nicolas Laurent-Puig, Matilde Baroni, Federico Centrone, and Eleni Diamanti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellarator Coils for Future Fusion Reactors via an Augmented Lagrangian Approach]]></title>
-        <id>http://link.aps.org/doi/10.1103/n7gk-922h</id>
-        <link href="http://link.aps.org/doi/10.1103/n7gk-922h"/>
-        <updated>2026-08-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pedro F. Gil, Weiping Li, Julianne Stratton, Alan A. Kaptanoglu, and Eve V. Stenson
-Recasting fusion coil design as a highly nonconvex equality-constrained optimization problem with an augmented Lagrangian method leads to a class of stellarator coils that exhibit enhanced physics performance and meet essential design requirements.
-
-[Phys. Rev. Lett. 137, 065101] Published Fri Aug 07, 2026]]></summary>
-        <author>
-            <name>Pedro F. Gil, Weiping Li, Julianne Stratton, Alan A. Kaptanoglu, and Eve V. Stenson</name>
         </author>
     </entry>
 </feed>
