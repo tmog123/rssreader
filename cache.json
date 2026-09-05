@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/192s-4zm4",
+          "author": "Mehdi Medjkoune, Trevor Lyons, Fatima L. Mota, Jiefu Tian, Kaihua Ji, Louise Littles, Alain Karma, and Nathalie Bergeon",
+          "description": "Author(s): Mehdi Medjkoune, Trevor Lyons, Fatima L. Mota, Jiefu Tian, Kaihua Ji, Louise Littles, Alain Karma, and Nathalie Bergeon\nThe dendritic microstructure that develops during solidification of metallic alloys plays a significant role in defining the characteristics of the material. The shape of dendrite tips directly influences the overall dendritic pattern, but in situ characterization of dendrite tips in bulk systems du…\n[Phys. Rev. Materials 10, 093401] Published Fri Sep 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/192s-4zm4",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Experimental three-dimensional dendrite tip shape characterization by interferometry and phase-field comparison during columnar directional solidification",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/qyb1-7j1p",
+          "author": "Lorenzo Piersante and Anirudh Raju Natarajan",
+          "description": "Author(s): Lorenzo Piersante and Anirudh Raju Natarajan\nMachine-learning interatomic potentials now model complex alloys with near ab initio precision, but two challenges persist. Researchers must generate training data tailored to the physical process of interest, and they need validation metrics that go beyond simple statistical errors. Here the authors introduce a crystal-symmetry-based enumeration scheme for structural phase transformations in multicomponent alloys and a semi-grand-canonical Kendall-τ that quantifies thermodynamic accuracy across composition. These tools yield a general-purpose Mg-Nd potential. Simulations reveal a subtle interplay between chemical ordering and structural rearrangement and elucidate the continuous hcp-to-bcc transition underlying precipitation in this alloy.\n\n[Phys. Rev. Materials 10, 093802] Published Fri Sep 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/qyb1-7j1p",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Machine learning interatomic potentials for solid-state precipitation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/hm32-h8q3",
+          "author": "S. N. Chen, K. Burdonov, W. Yao, J. D. Alvarado-Gómez, C. Argiroffi, J. Béard, S. Bolanõs, R. Bonito, A. Ciardi, I. Cohen, O. Cohen, J. J. Drake, S. Orlando, and J. Fuchs",
+          "description": "Author(s): S. N. Chen, K. Burdonov, W. Yao, J. D. Alvarado-Gómez, C. Argiroffi, J. Béard, S. Bolanõs, R. Bonito, A. Ciardi, I. Cohen, O. Cohen, J. J. Drake, S. Orlando, and J. Fuchs\nUsing high-power lasers to drive highly magnetized plasmas, researchers have probed the stellar processes that control coronal mass ejections.\n\n[Phys. Rev. Lett. 137, 105201] Published Fri Sep 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/hm32-h8q3",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Experimental Evidence for Coronal Mass Ejection Suppression in Strong Stellar Magnetic Fields",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/95x8-3wtb",
+          "author": "Judith Grafenhorst, Sarah Krebber, Kristin Kliemt, Cornelius Krellner, Elena Hassinger, and Ulrike Stockert",
+          "description": "Author(s): Judith Grafenhorst, Sarah Krebber, Kristin Kliemt, Cornelius Krellner, Elena Hassinger, and Ulrike Stockert\nThe electronic properties of materials exhibiting giant thermopower with a thermopower that exceeds 2000 μV/K, such as EuCd2P2, are strongly temperature dependent.\n\n[Phys. Rev. Lett. 137, 106302] Published Fri Sep 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/95x8-3wtb",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Giant Thermopower Changes Related to the Resistivity Maximum and Colossal Magnetoresistance in ${\\mathrm{EuCd}}_{2}{\\mathrm{P}}_{2}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/w6x5-cwbm",
+          "author": "Peisi Huang, Anibal D. Medina, and Carlos E. M. Wagner",
+          "description": "Author(s): Peisi Huang, Anibal D. Medina, and Carlos E. M. Wagner\nThis paper studies dark matter in a spontaneously broken hidden U(1). The initial overabundant dark matter density is generated through the freeze-out mechanism. Because the subsequent first order phase transition becomes supercooled, the vacuum transition generates entropy, diluting the DM density to its current value. The MeV–GeV transition also produces nano-Hz gravitational waves potentially detectable by pulsar timing arrays such as NANOGrav.\n\n[Phys. Rev. D 114, 055004] Published Fri Sep 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/w6x5-cwbm",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Rescuing overabundant dark matter with a strongly first order phase transition in the dark sector",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/928z-jgcx",
+          "author": "Florian Bärtl, Nadia Stegani, Federico Caglieris, Ilya Shipulin, Yongwei Li, Ruidan Zhong, Quanxin Hu, Yu Zheng, Chi-Ming Yim, Sven Luther, Jochen Wosnitza, Rajib Sarkar, Hans-Henning Klauss, Julien Garaud, Albert Samoilenka, Anton Talkachov, Egor Babaev, Hannes Kühne, and Vadim Grinenko",
+          "description": "Author(s): Florian Bärtl, Nadia Stegani, Federico Caglieris, Ilya Shipulin, Yongwei Li, Ruidan Zhong, Quanxin Hu, Yu Zheng, Chi-Ming Yim, Sven Luther, Jochen Wosnitza, Rajib Sarkar, Hans-Henning Klauss, Julien Garaud, Albert Samoilenka, Anton Talkachov, Egor Babaev, Hannes Kühne, and Vadim Grinenko\nFour- or higher-order fermionic condensates can form in non-BCS multicomponent superconductors. Here, the authors present spectroscopic evidence for pairing correlations that appear well above the superconducting critical temperature in the highly overdoped Ba1−xKxFe2As2 system with broken time-reversal symmetry (BTRS). The NMR and μSR findings show that multicomponent superconductivity appears homogeneously throughout the entire sample volume and that the BTRS state is unrelated to conventional spin magnetism.\n\n[Phys. Rev. B 114, 134504] Published Fri Sep 04, 2026",
+          "link": "http://link.aps.org/doi/10.1103/928z-jgcx",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "NMR evidence of pairing fluctuations above ${T}_{c}$ and absence of spin magnetism in the time-reversal symmetry-breaking state of ${\\mathrm{Ba}}_{1−x}{\\mathrm{K}}_{x}{\\mathrm{Fe}}_{2}{\\mathrm{As}}_{2}$",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/gzp7-1nvx",
           "author": "Hongliang Chen, Zi-An Wang, Xingguo Gao, Hang Zhou, Jiaxin Chen, Chang Pan, Lizhu Ren, Qia Shen, Zhenyi Zheng, Dandan Guan, Xiaoxue Liu, Shiyong Wang, Yaoyi Li, Hao Zheng, Canhua Liu, Yumeng Yang, Xuepeng Qiu, Guowei Zhou, Jingsheng Chen, Jinfeng Jia, Ding-Fu Shao, and Liang Liu",
           "description": "Author(s): Hongliang Chen, Zi-An Wang, Xingguo Gao, Hang Zhou, Jiaxin Chen, Chang Pan, Lizhu Ren, Qia Shen, Zhenyi Zheng, Dandan Guan, Xiaoxue Liu, Shiyong Wang, Yaoyi Li, Hao Zheng, Canhua Liu, Yumeng Yang, Xuepeng Qiu, Guowei Zhou, Jingsheng Chen, Jinfeng Jia, Ding-Fu Shao, and Liang Liu\nAn asymmetric platinum interface enables noncollinear spin-orbit filtering, breaking bulk symmetry constraints to generate out-of-plane spin currents for field-free magnetization switching.\n\n[Phys. Rev. X 16, 031060] Published Thu Sep 03, 2026",
@@ -168,7 +228,7 @@
         {
           "id": "http://link.aps.org/doi/10.1103/smf3-dnfd",
           "author": "Abanoub Mikhail, Maxim Mazanov, Ilya Deiry, Mingzhao Song, Ivan Iorsh, and Andrey Bogdanov",
-          "description": "Author(s): Abanoub Mikhail, Maxim Mazanov, Ilya Deiry, Mingzhao Song, Ivan Iorsh, and Andrey Bogdanov\nHere, optical spin angular momentum is extended to nonmonochromatic electromagnetic fields, revealing that specific polychromatic configurations exhibit photonic spin precession governed by a Landau–Lifshitz-like equation. A precessing magnetic dipole realizes source-driven spin dynamics in the near field, while bichromatic two-wave interference additionally produces nutation. A generalized spin-continuity equation shows how sources act on optical spin through torque, establishing a direct link between photonic spin and magnetization dynamics.\n[Phys. Rev. B 114, 154403] Published Wed Sep 02, 2026",
+          "description": "Author(s): Abanoub Mikhail, Maxim Mazanov, Ilya Deiry, Mingzhao Song, Ivan Iorsh, and Andrey Bogdanov\nHere, optical spin angular momentum is extended to nonmonochromatic electromagnetic fields, revealing that specific polychromatic configurations exhibit photonic spin precession governed by a Landau–Lifshitz-like equation. A precessing magnetic dipole realizes source-driven spin dynamics in the near field, while bichromatic two-wave interference additionally produces nutation. A generalized spin-continuity equation shows how sources act on optical spin through torque, establishing a direct link between photonic spin and magnetization dynamics.\n\n[Phys. Rev. B 114, 154403] Published Wed Sep 02, 2026",
           "link": "http://link.aps.org/doi/10.1103/smf3-dnfd",
           "publishedOn": "2026-09-02T10:00:00.000Z",
           "wordCount": null,
@@ -943,66 +1003,6 @@
           "publishedOn": "2026-08-17T10:00:00.000Z",
           "wordCount": null,
           "title": "Towards probing velocity distributions in dense granular fluids: Utilizing fiber Bragg gratings",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/bhr1-lplt",
-          "author": "Jordan R. Sawchuk and David A. Sivak",
-          "description": "Author(s): Jordan R. Sawchuk and David A. Sivak\nGeometric ideas play a role in areas such as stochastic thermodynamics, spectral graph theory, and optimal transport. In this Letter, the authors link a thermodynamic friction metric that governs dissipation in slowly driven systems with two graph-theoretic geometries, the commute-time and resistance distances.\n#TechnicalAdvancement #AdvancingField\n\n[Phys. Rev. E 114, L022105] Published Mon Aug 17, 2026",
-          "link": "http://link.aps.org/doi/10.1103/bhr1-lplt",
-          "publishedOn": "2026-08-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Thermodynamic geometry of friction on graphs: Resistance, commute times, and optimal transport",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/k8dz-pjdx",
-          "author": "R. S. Lester <em>et al.</em>",
-          "description": "Author(s): R. S. Lester et al.\nThe authors demonstrate fusion ignition in a hohlraum modified with diagnostic windows that burn through prior to ignition. This provides a platform for laboratory-astrophysics experiments previously inaccessible. The x-ray flux escaping the holraum during and after ignition is the brightest radiation source available in the laboratory.\n#TechnicalAdvancement #TimelyTopic\n\n[Phys. Rev. E 114, L023201] Published Mon Aug 17, 2026",
-          "link": "http://link.aps.org/doi/10.1103/k8dz-pjdx",
-          "publishedOn": "2026-08-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Demonstration of ignition-driven radiation transport through a THOR hohlraum",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/jvwy-mfxg",
-          "author": "Wei-En Tseng, Oliver Hart, and Rahul Nandkishore",
-          "description": "Author(s): Wei-En Tseng, Oliver Hart, and Rahul Nandkishore\nHere, the authors show that pump-probe spectroscopy provides distinctive signatures of fracton phases through lineon-planon braiding. The restricted mobility of excitations enables an emergent planon bound state and leads to strikingly different long-time responses upon swapping the pump and probe polarizations. These responses reveal braiding statistics, bound-state formation, and the subdimensional mobility of fractionalized excitations, thereby distinguishing fracton phases from conventional topologically ordered spin liquids.\n\n[Phys. Rev. B 114, 105124] Published Mon Aug 17, 2026",
-          "link": "http://link.aps.org/doi/10.1103/jvwy-mfxg",
-          "publishedOn": "2026-08-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fingerprinting fractons with pump-probe spectroscopy",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/mqz8-h38p",
-          "author": "Wen O. Wang, Edwin W. Huang, Brian Moritz, and Thomas P. Devereaux",
-          "description": "Author(s): Wen O. Wang, Edwin W. Huang, Brian Moritz, and Thomas P. Devereaux\nHere, the authors use determinant quantum Monte Carlo simulations to obtain high-resolution single-particle spectra of the doped Hubbard model, uncovering a pronounced electron-hole asymmetry. At low hole doping, proximity to the Mott gap suppresses antinodal coherence and produces Fermi arcs, whereas under electron doping, more coherent quasiparticles and stronger antiferromagnetic correlations generate hot spots. Probe-dependent pseudogap temperatures support a smooth crossover driven by strong correlations rather than a sharp phase transition.\n\n[Phys. Rev. B 114, 105126] Published Mon Aug 17, 2026",
-          "link": "http://link.aps.org/doi/10.1103/mqz8-h38p",
-          "publishedOn": "2026-08-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Probing the pseudogap and beyond: Examining single-particle properties of the hole- and electron-doped Hubbard model",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/dmvx-zg1v",
-          "author": "Kazuki Yamamoto and Kohei Kawabata",
-          "description": "Author(s): Kazuki Yamamoto and Kohei Kawabata\nMotivated by the recent interest in the criticality of open quantum many-body systems, the authors investigate here nonlinear sigma models with complexified couplings as a general framework for nonunitary field theory. Applying the perturbative renormalization group analysis to the tenfold symmetric spaces, the authors demonstrate that fixed points with complex scaling dimensions and critical exponents arise generically, without counterparts in conventional nonlinear sigma models with real couplings. The results elucidate universal aspects of critical phenomena in complexified field theory.\n\n[Phys. Rev. B 114, 115112] Published Mon Aug 17, 2026",
-          "link": "http://link.aps.org/doi/10.1103/dmvx-zg1v",
-          "publishedOn": "2026-08-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Complex nonlinear sigma model",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/bdmq-3139",
-          "author": "Giovanni Vignale, Junren Shi, Di Xiao, and Qian Niu",
-          "description": "Author(s): Giovanni Vignale, Junren Shi, Di Xiao, and Qian Niu\nIf you think that the band theory of orbital magnetization is a closed chapter of condensed matter physics, think again. The original theory was developed for noninteracting electrons. But what if interactions are included? Current density functional theory offers a simple and formally exact way to include interactions. But the reason why this works is more subtle than the authors initially thought.\n\n[Phys. Rev. B 114, 115113] Published Mon Aug 17, 2026",
-          "link": "http://link.aps.org/doi/10.1103/bdmq-3139",
-          "publishedOn": "2026-08-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Ward identities and orbital magnetization in current density functional theory",
           "imageUrl": null
         }
       ]
