@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-09T02:38:07.185Z</id>
+    <id>urn:2026-09-10T02:40:21.309Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T02:38:07.185Z</updated>
+    <updated>2026-09-10T02:40:21.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Moiré-Modulated $\mathrm{Γ}$ Valley in Twisted Bilayer and Twisted Double-Bilayer ${\mathrm{MoTe}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/wnyd-m5sr</id>
+        <link href="http://link.aps.org/doi/10.1103/wnyd-m5sr"/>
+        <updated>2026-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Wanying Chen, Hongyun Zhang, Jinxi Lu, Yu Gu, Qiyun Xu, Fei Wang, Xuanxi Cai, Jiansong Li, Jiayong Xiao, Rui Chen, Kenji Watanabe, Takashi Taniguchi, Jose Avila, Pavel Dudin, Matthew D. Watson, Pu Yu, Shengwei Jiang, Wenhui Duan, Tingxin Li, Chong Wang, and Shuyun Zhou
+Angle-Resolved Photoemission Spectroscopy measurements on twisted bilayer and double-bilayer MoTe₂, combined with theory, reveal remote electronic bands that follow twist-induced lattice relaxation, establishing a direct link between atomic reconstruction and electronic structure in moiré semiconductors.
+
+[Phys. Rev. Lett. 137, 116401] Published Wed Sep 09, 2026]]></summary>
+        <author>
+            <name>Wanying Chen, Hongyun Zhang, Jinxi Lu, Yu Gu, Qiyun Xu, Fei Wang, Xuanxi Cai, Jiansong Li, Jiayong Xiao, Rui Chen, Kenji Watanabe, Takashi Taniguchi, Jose Avila, Pavel Dudin, Matthew D. Watson, Pu Yu, Shengwei Jiang, Wenhui Duan, Tingxin Li, Chong Wang, and Shuyun Zhou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topological Flowscape Reveals State Transitions in Nonreciprocal Living Matter]]></title>
         <id>http://link.aps.org/doi/10.1103/tq6h-f5ws</id>
@@ -1296,19 +1309,6 @@ Experimental studies of multicomponent droplet evaporation reveal distinct stage
 [Phys. Rev. Lett. 137, 084002] Published Thu Aug 20, 2026]]></summary>
         <author>
             <name>Minhyeok Kuk and Hyoungsoo Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heterostructuring as Gateway to Electron Doping of Nickelate Superconductors]]></title>
-        <id>http://link.aps.org/doi/10.1103/qp4p-x6g3</id>
-        <link href="http://link.aps.org/doi/10.1103/qp4p-x6g3"/>
-        <updated>2026-08-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chao Deng, Motoharu Kitatani, Guiwen Jiang, Siqi Guo, Niklas Witt, Ao Zhang, Wenfeng Wu, Mi Jiang, Karsten Held, and Liang Si
-Intercalation-driven self-doping is a general mechanism for engineering high-temperature superconductivity and emergent quantum states in Ruddlesden–Popper phase correlated oxides.
-
-[Phys. Rev. Lett. 137, 086004] Published Thu Aug 20, 2026]]></summary>
-        <author>
-            <name>Chao Deng, Motoharu Kitatani, Guiwen Jiang, Siqi Guo, Niklas Witt, Ao Zhang, Wenfeng Wu, Mi Jiang, Karsten Held, and Liang Si</name>
         </author>
     </entry>
 </feed>
