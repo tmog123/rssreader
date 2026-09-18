@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-17T02:58:41.166Z</id>
+    <id>urn:2026-09-18T02:45:44.752Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T02:58:41.166Z</updated>
+    <updated>2026-09-18T02:45:44.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Sensing of Gravitational Frame Dragging with a Superfluid $^{4}\mathrm{He}$ Gyrometer]]></title>
+        <id>http://link.aps.org/doi/10.1103/q3v9-rjm9</id>
+        <link href="http://link.aps.org/doi/10.1103/q3v9-rjm9"/>
+        <updated>2026-09-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Kai-Isaak Ellers, Marios Christodoulou, K. C. Schwab, and K. Birgitta Whaley
+A proposed lab-based quantum sensor could precisely measure within seconds the warping of spacetime caused by Earth’s rotation.
+
+[Phys. Rev. Lett. 137, 121404] Published Thu Sep 17, 2026]]></summary>
+        <author>
+            <name>Kai-Isaak Ellers, Marios Christodoulou, K. C. Schwab, and K. Birgitta Whaley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crystal fields and the properties of the Kitaev candidate ${\mathrm{Na}}_{3}{\mathrm{Co}}_{2}{\mathrm{SbO}}_{6}$ probed with x-ray absorption spectroscopy]]></title>
+        <id>http://link.aps.org/doi/10.1103/t8x5-t8bg</id>
+        <link href="http://link.aps.org/doi/10.1103/t8x5-t8bg"/>
+        <updated>2026-09-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): M. M. Ferreira-Carvalho, S. H. Chen, Y. C. Ku, S. Rößler, Robert Kluge, Ryan C. Morrow, Javier Herrero-Martín, P. Gargiani, C. Y. Kuo, C. F. Chang, Alexander C. Komarek, Z. Hu, M. W. Haverkort, and L. H. Tjeng
+Here, the authors utilize high-precision inverse-partial-fluorescence-yield x-ray absorption and magnetic circular dichroism, together with full-multiplet cluster calculations, to probe the local electronic structure of the Kitaev candidate Na3Co2SbO6. The measurements reveal a dominant trigonal crystal field together with subtle deviations from trigonal symmetry. Accounting for this lower local symmetry enables a consistent description of both the spectroscopic data and the observed in-plane magnetization anisotropy, highlighting the importance of local distortions for Kitaev physics.
+
+[Phys. Rev. B 114, 175123] Published Thu Sep 17, 2026]]></summary>
+        <author>
+            <name>M. M. Ferreira-Carvalho, S. H. Chen, Y. C. Ku, S. Rößler, Robert Kluge, Ryan C. Morrow, Javier Herrero-Martín, P. Gargiani, C. Y. Kuo, C. F. Chang, Alexander C. Komarek, Z. Hu, M. W. Haverkort, and L. H. Tjeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disentangling bulk and surface electronic structure using targeted cleave planes in ${\mathrm{RuO}}_{2}$]]></title>
+        <id>http://link.aps.org/doi/10.1103/sjrs-3fjz</id>
+        <link href="http://link.aps.org/doi/10.1103/sjrs-3fjz"/>
+        <updated>2026-09-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Maria H. Visscher, Sebastian Buchberger, Bruno Saika, Shu Mo, Lea Richter, Mats Leandersson, Craig Polley, Andrew P. Mackenzie, and Phil D. C. King
+Using focused ion beam designed cleaving planes, the authors prepare different surface orientations of RuO2 for study by angle-resolved photoemission spectroscopy. The high-resolution measurements this enables from two distinct surfaces, combined with electronic structure calculations, make it possible to better distinguish bulk versus surface states. In fact, they reveal that the ARPES spectra are largely dominated by surface, rather than bulk, states, and reveal how these are strongly impacted by spin-orbit coupling, surface stoichiometry, and structure.
+
+[Phys. Rev. B 114, 175125] Published Thu Sep 17, 2026]]></summary>
+        <author>
+            <name>Maria H. Visscher, Sebastian Buchberger, Bruno Saika, Shu Mo, Lea Richter, Mats Leandersson, Craig Polley, Andrew P. Mackenzie, and Phil D. C. King</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strain- and confinement-induced topological phases in noncentrosymmetric wurtzite HgTe]]></title>
         <id>http://link.aps.org/doi/10.1103/5pj7-34v4</id>
@@ -1267,45 +1306,6 @@ Within the self-consistent Hartree-Fock approximation, the orbital magnetization
 [Phys. Rev. Lett. 137, 106703] Published Tue Sep 01, 2026]]></summary>
         <author>
             <name>Jian Kang, Minxuan Wang, and Oskar Vafek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isotropic superconductivity in the room-temperature superconductor ${\mathrm{LaSc}}_{2}{\mathrm{H}}_{24}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/3b4x-77yq</id>
-        <link href="http://link.aps.org/doi/10.1103/3b4x-77yq"/>
-        <updated>2026-09-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Zefang Wang, Wenbo Zhao, Yuan Ma, Hanyu Liu, and Yanming Ma
-Why does LaSc2H24 exhibit superior superconductivity compared with LaH10? Here, the authors indicate that scandium not only distorts the hydrogen cage structure but also creates MgB2-like Sc-H states at the Fermi level. This synergy enhances electron-phonon coupling, unifies strongly coupled H-H states with widely distributed Sc-H states on the Fermi surface, and leads to isotropic single-gap superconductivity with a higher superconductivity.
-
-[Phys. Rev. B 114, 154501] Published Tue Sep 01, 2026]]></summary>
-        <author>
-            <name>Zefang Wang, Wenbo Zhao, Yuan Ma, Hanyu Liu, and Yanming Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metallic crossover through the tilt-free transition in ${\mathrm{La}}_{3}{\mathrm{Ni}}_{2}{\mathrm{O}}_{7}$ at high pressure and temperature]]></title>
-        <id>http://link.aps.org/doi/10.1103/832c-p7qj</id>
-        <link href="http://link.aps.org/doi/10.1103/832c-p7qj"/>
-        <updated>2026-09-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Bastien Michon, Yingpeng Yu, Beatrice D'Alò, Elena Stellino, Gergely Németh, Bosen Wang, Jianping Sun, Jinguang Cheng, Paolo Postorino, Ferenc Borondics, and Francesco Capitani
-Here, the authors map the temperature-pressure evolution of the bilayer nickelate La3Ni2O7 and reveal that the suppression of tilts in oxygen octahedra is accompanied by a pronounced crossover toward a higher-carrier-density metallic state. By establishing the structural phase boundary over a broad temperature-pressure range, their results highlight the intimate interplay between lattice structure and electronic properties in this novel high-Tc superconductor.
-
-[Phys. Rev. B 114, L140102] Published Tue Sep 01, 2026]]></summary>
-        <author>
-            <name>Bastien Michon, Yingpeng Yu, Beatrice D'Alò, Elena Stellino, Gergely Németh, Bosen Wang, Jianping Sun, Jinguang Cheng, Paolo Postorino, Ferenc Borondics, and Francesco Capitani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closed-loop dual-channel atomic beam interferometry beyond the half-fringe limit]]></title>
-        <id>http://link.aps.org/doi/10.1103/x6sk-l92f</id>
-        <link href="http://link.aps.org/doi/10.1103/x6sk-l92f"/>
-        <updated>2026-09-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Wei-Chen Jia (贾伟辰), Yue Xin (辛约), Ke Shen (申可), Zhi-Xin Meng (孟至欣), Xiang-Xiang Lu (路想想), Yi-Cheng Deng (邓意成), Yuan-Xing Liu (刘院省), and Yan-Ying Feng (冯焱颖)
-Atomic interferometers offer extraordinary inertial sensitivity, yet their intrinsically periodic response has long prevented continuous operation over a wide dynamic range. The authors demonstrate a dual-channel closed-loop atomic beam interferometer, enabling simultaneous quantum feedback for rotation and acceleration. By converting periodic matter-wave interference into continuously tracked control parameters, the scheme overcomes the conventional half-fringe limitation while preserving precision. This advance brings practical quantum inertial navigation a significant step closer.
-
-[Phys. Rev. Applied 26, 034003] Published Tue Sep 01, 2026]]></summary>
-        <author>
-            <name>Wei-Chen Jia (贾伟辰), Yue Xin (辛约), Ke Shen (申可), Zhi-Xin Meng (孟至欣), Xiang-Xiang Lu (路想想), Yi-Cheng Deng (邓意成), Yuan-Xing Liu (刘院省), and Yan-Ying Feng (冯焱颖)</name>
         </author>
     </entry>
 </feed>
