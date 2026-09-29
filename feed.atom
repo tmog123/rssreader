@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-28T03:07:22.250Z</id>
+    <id>urn:2026-09-29T03:46:24.050Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-28T03:07:22.250Z</updated>
+    <updated>2026-09-29T03:46:24.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Singular Basins in Multiscale Systems: Tunneling between Stable States]]></title>
+        <id>http://link.aps.org/doi/10.1103/jtkh-9lz5</id>
+        <link href="http://link.aps.org/doi/10.1103/jtkh-9lz5"/>
+        <updated>2026-09-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): S. Yanchuk, S. Wieczorek, H. Jardón-Kojakhmetov, and H. Alkhayuon
+Simplified models of systems with fast and slow dynamics can miss a narrow region of phase space—a “singular funnel”—leading to misleading predictions of the system’s behavior.
+
+[Phys. Rev. Lett. 137, 147202] Published Mon Sep 28, 2026]]></summary>
+        <author>
+            <name>S. Yanchuk, S. Wieczorek, H. Jardón-Kojakhmetov, and H. Alkhayuon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamically robust counterdiabatic topological pumping]]></title>
+        <id>http://link.aps.org/doi/10.1103/jtb9-3drh</id>
+        <link href="http://link.aps.org/doi/10.1103/jtb9-3drh"/>
+        <updated>2026-09-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Joshua Chiel, Christopher Jarzynski, and Jay Sau
+Adiabatic Thouless pumps, which undergird the modern theory of polarization, have potential applications ranging from metrology to adiabatic quantum computing. Here, the authors use counterdiabatic driving to develop a non-adiabatic Thouless pump. Their analytic model, which has only nearest neighbor interactions, exhibits exactly quantized charge pumping that is topologically robust to disorder, and dynamically robust to disorder and noise for sufficiently rapid driving – which the authors demonstrate is a universal feature of counterdiabatic driving. The fast, robust and locally tuned pump cycle also models qubit flips, which may have quantum hardware applications.
+
+[Phys. Rev. B 114, 154308] Published Mon Sep 28, 2026]]></summary>
+        <author>
+            <name>Joshua Chiel, Christopher Jarzynski, and Jay Sau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<i>Ab initio</i> quantum embedding description of magic-angle twisted bilayer graphene at even-integer fillings]]></title>
+        <id>http://link.aps.org/doi/10.1103/mp1d-6nnl</id>
+        <link href="http://link.aps.org/doi/10.1103/mp1d-6nnl"/>
+        <updated>2026-09-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Raehyun Kim, Woochang Kim, Kevin D. Stubbs, Steven G. Louie, and Lin Lin
+The correlated phase diagram of magic-angle twisted bilayer graphene (MATBG) is very sensitive to both material parameters and modeling choices. To limit the impact of these factors, here, the authors propose an embedding workflow for modeling MATBG and other moiré materials that incorporates automatic gauge fixing and is consistent with ab initio density functional theory. Using this workflow, the authors find that in MATBG, the Hartree-Fock ground state at ν=−2 is a fragile semimetal with intervalley coherence.
+
+[Phys. Rev. B 114, 185131] Published Mon Sep 28, 2026]]></summary>
+        <author>
+            <name>Raehyun Kim, Woochang Kim, Kevin D. Stubbs, Steven G. Louie, and Lin Lin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$]]></title>
         <id>http://link.aps.org/doi/10.1103/27s7-2frt</id>
@@ -1268,45 +1307,6 @@ Symbolic regression tools like SISSO can model materials properties as compact a
 [Phys. Rev. Materials 10, 093601] Published Tue Sep 08, 2026]]></summary>
         <author>
             <name>Lucas Foppa and Matthias Scheffler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin Hall effect in van der Waals ferromagnet ${\mathrm{Fe}}_{5}{\mathrm{GeTe}}_{2}$]]></title>
-        <id>http://link.aps.org/doi/10.1103/j2k1-vrvh</id>
-        <link href="http://link.aps.org/doi/10.1103/j2k1-vrvh"/>
-        <updated>2026-09-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): T. Ohta, Y. Samukawa, N. Jiang, Y. Niimi, K. Yamagami, Y. Okada, Y. Otani, and K. Kondou
-We investigate the spin Hall effect (SHE) in a van der Waals (vdW) ferromagnet Fe5GeTe2 (FGT) with a Curie temperature TC of 310 K utilizing the spin-torque ferromagnetic resonance method. The effective spin Hall conductivity is clearly enhanced with decreasing temperature, unlike the anomalous Hall conductivity, reflecting the variation in the band structure accompanied by the complicated magnetic ordering of the FGT. The results provide a deep understanding of the SHE in magnetic materials to open a new route for novel functionalities in vdW materials-based spintronic devices.
-
-[Phys. Rev. Materials 10, 094002] Published Tue Sep 08, 2026]]></summary>
-        <author>
-            <name>T. Ohta, Y. Samukawa, N. Jiang, Y. Niimi, K. Yamagami, Y. Okada, Y. Otani, and K. Kondou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sluggish phase-transition kinetics and extended critical correlations in relaxor ferroelectrics]]></title>
-        <id>http://link.aps.org/doi/10.1103/tnnk-lhcn</id>
-        <link href="http://link.aps.org/doi/10.1103/tnnk-lhcn"/>
-        <updated>2026-09-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Masato Matsuura, Kenji Ohwada, Shinya Tsukada, Akihiko Machida, Tatsuya Kikuchi, and Young-Soo Han
-Why do relaxor ferroelectrics exhibit giant dielectric and piezoelectric responses over such a broad temperature range? By combining rapid-cooling synchrotron x-ray diffraction with neutron scattering, this work shows that phase transitions in PMN-xPT are remarkably sluggish and can even be bypassed by fast cooling. At the same time, the polar nanoregions display scale-free critical correlations in both space and time over the temperature range where the giant response appears. These results suggest that slow phase-transition kinetics sustain an extended critical state, providing a new physical picture for the origin of giant relaxor responses.
-
-[Phys. Rev. Materials 10, L091402] Published Tue Sep 08, 2026]]></summary>
-        <author>
-            <name>Masato Matsuura, Kenji Ohwada, Shinya Tsukada, Akihiko Machida, Tatsuya Kikuchi, and Young-Soo Han</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extensive Spatiotemporal Chaos in Nonreciprocal Flocking]]></title>
-        <id>http://link.aps.org/doi/10.1103/lfwy-bbmv</id>
-        <link href="http://link.aps.org/doi/10.1103/lfwy-bbmv"/>
-        <updated>2026-09-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Chul-Ung Woo, Jae Dong Noh, and Heiko Rieger
-Two intermingled species of active matter can exhibit coherent rotation or disorderly scrambling depending on their mutual interactions.
-
-[Phys. Rev. Lett. 137, 118301] Published Tue Sep 08, 2026]]></summary>
-        <author>
-            <name>Chul-Ung Woo, Jae Dong Noh, and Heiko Rieger</name>
         </author>
     </entry>
 </feed>
