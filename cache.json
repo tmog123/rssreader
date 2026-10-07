@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/qjt6-hj2k",
+          "author": "Sahas Kamat, Jared Dans, Shanta Saha, Daniel F. Agterberg, Johnpierre Paglione, and B. J. Ramshaw",
+          "description": "Author(s): Sahas Kamat, Jared Dans, Shanta Saha, Daniel F. Agterberg, Johnpierre Paglione, and B. J. Ramshaw\nUltrasound measurements in uranium ditelluride (UTe2) reveal precursor superconducting fluctuations up to twice the critical temperature, providing high kinetic inductance in a clean material.\n\n[Phys. Rev. X 16, 041006] Published Tue Oct 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/qjt6-hj2k",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Vanishing Phase Stiffness and Fluctuation-Dominated Superconductivity in ${\\mathrm{UTe}}_{2}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/j38g-7bmf",
+          "author": "Amy Damitz, George Burns, and Yuan-Yu Jau",
+          "description": "Author(s): Amy Damitz, George Burns, and Yuan-Yu Jau\nFor electric field (E-field) sensing applications that require high sensitivity with very small sensing volume or high spatial resolution at low frequencies near dc, conventional electronic approaches suffer from low efficiency (due to small antenna size) and higher intrinsic noise. Using a simple vapor cell, innovative technical schemes, and an unexpected phenomenon reminiscent of magnetoresistance, the authors demonstrate a state-of-the-art quasi-dc atomic E-field sensor using “antenna-less” atoms. This approach is expected to enable electronic diagnostics, communication, proximity detection, charge-signature tracing, bioscience and geoscience research, and more.\n\n[Phys. Rev. Applied 26, 044014] Published Tue Oct 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/j38g-7bmf",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "High-sensitivity vapor-cell quasi-dc atomic electric field sensor",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/d3gl-qntm",
+          "author": "Maxim Tjøtta, Devashish Shah, Kanishk Modi, Marco Valentini, Rubén Seoane Souto, Georgios Katsaros, and Jeroen Danon",
+          "description": "Author(s): Maxim Tjøtta, Devashish Shah, Kanishk Modi, Marco Valentini, Rubén Seoane Souto, Georgios Katsaros, and Jeroen Danon\nExtracting the current-phase relationship (CPR) of superconducting junctions in a noninvasive manner has proven to be difficult in the lab. The authors present an innovative method that overcomes the main limitations of conventional approaches, allowing the full harmonic content of the CPR to be extracted by subjecting the junction to a high-frequency ac drive. This method is demonstrated experimentally and found to be robust against experimental noise.\n\n[Phys. Rev. Applied 26, 044017] Published Tue Oct 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/d3gl-qntm",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Fast-driving spectroscopy of current-phase relationships of individual Josephson elements",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/xk8h-4lrb",
+          "author": "Ji-Bing Yuan, Ya-Ju Song, Shi-Qing Tang, Xin-Wen Wang, and Le-Man Kuang",
+          "description": "Author(s): Ji-Bing Yuan, Ya-Ju Song, Shi-Qing Tang, Xin-Wen Wang, and Le-Man Kuang\nThe authors examine the performance of a single dephasing qubit probing the cutoff frequency of Ohmic-family environments across varying temperatures and coupling strengths. They find that elevated temperatures accelerate decoherence to shorten the optimal measurement time, demonstrating that thermal noise can serve as a resource to improve sensing precision by nearly two orders of magnitude compared to zero-temperature conditions for certain weakly coupled environments.\n\n[Phys. Rev. A 114, 042407] Published Tue Oct 06, 2026",
+          "link": "http://link.aps.org/doi/10.1103/xk8h-4lrb",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Temperature-enhanced quantum sensing for the cutoff frequency of Ohmic-family environments",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/f2pb-rv6w",
           "author": "Alberto Ronca, Antoine Cornet, Jie Shen, Thierry Deschamps, Eloi Pineda, Yuriy Chushkin, Federico Zontone, Mohamed Mezouar, Isabella Gallino, Gaston Garbarino, and Beatrice Ruta",
           "description": "Author(s): Alberto Ronca, Antoine Cornet, Jie Shen, Thierry Deschamps, Eloi Pineda, Yuriy Chushkin, Federico Zontone, Mohamed Mezouar, Isabella Gallino, Gaston Garbarino, and Beatrice Ruta\nUsing high-pressure X-ray diffraction and X-ray photon correlation spectroscopy, the authors uncover a subtle structural crossover near 3 GPa in an Au-based metallic glass, accompanied by dramatic avalanche-like atomic rearrangements. Above this pressure, a second, slower relaxation process emerges, revealing distinct dynamical environments within the glass. The simultaneous structural and dynamical signatures point to the nucleation and coexistence of two amorphous states, providing new insight into the microscopic nature of polyamorphism in metallic glasses.\n\n[Phys. Rev. Materials 10, 105601] Published Mon Oct 05, 2026",
@@ -963,46 +1003,6 @@
           "publishedOn": "2026-09-16T10:00:00.000Z",
           "wordCount": null,
           "title": "Long-Lived Telecom-Heralded Single-Photon Storage in an Absorptive Spin-Rephased Quantum Memory",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/1yn6-5qdw",
-          "author": "Yu-Han Gao, Wen-Xiao Shi, Yuan-Sha Chen, Ji-Rong Sun, Qing-Lin Yang, Xu Yang, Zhuo Deng, Peng-Tao Yang, Zheng Chang, Hong-Mei Feng, Wei He, Xiang-Qun Zhang, and Zhao-Hua Cheng",
-          "description": "Author(s): Yu-Han Gao, Wen-Xiao Shi, Yuan-Sha Chen, Ji-Rong Sun, Qing-Lin Yang, Xu Yang, Zhuo Deng, Peng-Tao Yang, Zheng Chang, Hong-Mei Feng, Wei He, Xiang-Qun Zhang, and Zhao-Hua Cheng\nContrary to expectations, the magnetization dynamics of a ferromagnet can be accelerated by increasing temperature, laser excitation, or magnetic field—a behavior that holds promise for high-speed spintronics.\n\n[Phys. Rev. Lett. 137, 126903] Published Wed Sep 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/1yn6-5qdw",
-          "publishedOn": "2026-09-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Ultrafast Demagnetization Governed by Spin Fluctuations in ${\\mathrm{CaRuO}}_{3}/{\\mathrm{SrTiO}}_{3}$ Superlattice",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/vwfz-mdm2",
-          "author": "Houshuo Jiang",
-          "description": "Author(s): Houshuo Jiang\nFeeding by marine invertebrate larvae depends critically on the low-Reynolds-number fluid mechanics of the feeding currents they generate. However, the relative importance of gravity-driven and drag-driven mechanisms in shaping these feeding currents has remained unresolved. By combining μPIV measurements with an analytical Stokes-flow model, this study demonstrates that feeding currents of eastern oyster (Crassostrea virginica) veligers are gravity-dominated despite their submillimeter size, and quantifies how excess weight, swimming kinematics, and ciliary propulsion together determine larval clearance rates and flow structure.\n\n[Phys. Rev. Fluids 11, 093101] Published Wed Sep 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/vwfz-mdm2",
-          "publishedOn": "2026-09-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Gravity-driven feeding currents in veliger larvae of the eastern oyster",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/xbcw-n8sc",
-          "author": "Giacomo Fiorentini, Nicola Di Palo, Giacomo Inzani, Gian Luca Dolso, Simone Bonetti, Qiuyang Li, Fang Liu, Xiaoyang Zhu, Angelo Giglia, Nicola Mahne, Luca Pasquali, Marco D'Alessandro, Mikhail Malakhov, María Camarasa-Gómez, Juan José Esteve-Paredes, Juan José Palacios, Rocío Borrego-Varillas, Mauro Nisoli, Antonio Picón, Davide Sangalli, and Matteo Lucchini",
-          "description": "Author(s): Giacomo Fiorentini, Nicola Di Palo, Giacomo Inzani, Gian Luca Dolso, Simone Bonetti, Qiuyang Li, Fang Liu, Xiaoyang Zhu, Angelo Giglia, Nicola Mahne, Luca Pasquali, Marco D'Alessandro, Mikhail Malakhov, María Camarasa-Gómez, Juan José Esteve-Paredes, Juan José Palacios, Rocío Borrego-Varillas, Mauro Nisoli, Antonio Picón, Davide Sangalli, and Matteo Lucchini\nHere, the authors determine the extreme-ultraviolet optical constants of monolayer and bilayer MoS2 through a combined experimental and first-principles study. They establish a consistent connection between two-dimensional conductivity and an effective three-dimensional refractive index, demonstrating that the optical response scales linearly with thickness. Unlike in the visible spectral range, they find that the XUV response is dominated by local-field effects, largely suppressing distinct excitonic signatures and providing benchmark data for future XUV and attosecond spectroscopies.\n\n[Phys. Rev. B 114, 185419] Published Wed Sep 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/xbcw-n8sc",
-          "publishedOn": "2026-09-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Extreme-ultraviolet optical response of atomically thin molybdenum disulfide",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/jkmy-8zwr",
-          "author": "Jakob Nicolai Bruhnke and Jan Marcus Dahlström",
-          "description": "Author(s): Jakob Nicolai Bruhnke and Jan Marcus Dahlström\nStandard effective Hamiltonians for light-matter interactions rely on approximations that break down at high laser intensity. The authors show that these limitations can be overcome, in a computationally efficient way, by using quasidegenerate Rayleigh-Schrödinger perturbation theory.\n\n[Phys. Rev. A 114, 033111] Published Wed Sep 16, 2026",
-          "link": "http://link.aps.org/doi/10.1103/jkmy-8zwr",
-          "publishedOn": "2026-09-16T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Reconciliation of effective Hamiltonians for intense light-matter interaction",
           "imageUrl": null
         }
       ]
