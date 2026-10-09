@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-08T04:03:38.740Z</id>
+    <id>urn:2026-10-09T04:08:41.198Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T04:03:38.740Z</updated>
+    <updated>2026-10-09T04:08:41.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,6 +16,19 @@ Researchers develop a hybrid qubit-boson quantum processor framework to simulate
 [Phys. Rev. X 16, 041008] Published Wed Oct 07, 2026]]></summary>
         <author>
             <name>Eleanor Crane, Kevin C. Smith, Teague Tomesh, Alec Eickbusch, John M. Martyn, Stefan Kühn, Lena Funcke, Michael Austin DeMarco, Isaac L. Chuang, Nathan Wiebe, Alexander Schuckert, and Steven M. Girvin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry-enforced topological chiral fermions in amorphous chiral metals]]></title>
+        <id>http://link.aps.org/doi/10.1103/6lzc-3y6q</id>
+        <link href="http://link.aps.org/doi/10.1103/6lzc-3y6q"/>
+        <updated>2026-10-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Justin Schirmann, Adolfo G. Grushin, and Benjamin J. Wieder
+Chiral topological semimetals are phases of matter that host robust band crossings and topologically protected surface states. So far, their interesting properties have been believed to be restricted to the realm of perfect crystals. In this work, the authors show how they can survive strong structural disorder, challenging the view that disorder inevitably destroys this topological state. Using analytical theory, symmetry-group methods, numerical calculations, and a novel amorphous Wilson-loop technique, they demonstrate that Weyl and higher-charge chiral fermions can persist even in amorphous metals. Long-range order in local structural chirality stabilizes these phases. This understanding suggests pathways for engineering such geometry-enforced topological behavior in strongly disordered systems, opening up new possibilities for investigating these phases of matter and exploring their potential applications.
+
+[Phys. Rev. Materials 10, 104201] Published Wed Oct 07, 2026]]></summary>
+        <author>
+            <name>Justin Schirmann, Adolfo G. Grushin, and Benjamin J. Wieder</name>
         </author>
     </entry>
     <entry>
@@ -42,6 +55,32 @@ A novel hybrid acousto-mechanical system demonstrates the highest-to-date coupli
 [Phys. Rev. Lett. 137, 153602] Published Wed Oct 07, 2026]]></summary>
         <author>
             <name>Xun Ji, Huanying Sun, Longhao Wu, Qichun Liu, Yulong Liu, Mika A. Sillanpää, and Tiefu Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discerning Hall and non-Hall transverse currents in linear and nonlinear regimes]]></title>
+        <id>http://link.aps.org/doi/10.1103/8v68-9bkd</id>
+        <link href="http://link.aps.org/doi/10.1103/8v68-9bkd"/>
+        <updated>2026-10-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Yu-Fei Liu, Jinchen Liu, Tiema Qian, Hou Chen Li, Tianye Huang, Jian-Xiang Qiu, Xiaoyu Zeng, Peng Guo, Jian Tang, Thao Dinh, Qiong Ma, Xufan Li, Ni Ni, Anyuan Gao, and Su-Yang Xu
+Rapid advances in nonlinear Hall transport provide new probes of quantum geometry, but transverse signals generally mix Hall and non-Hall contributions that are difficult to disentangle. Here, the authors introduce a unified experimental protocol that exchanges current and voltage directions to identify antisymmetric Hall and symmetric non-Hall responses. Measurements across representative quantum materials validate the method in both linear and nonlinear regimes.
+
+[Phys. Rev. B 114, 235407] Published Wed Oct 07, 2026]]></summary>
+        <author>
+            <name>Yu-Fei Liu, Jinchen Liu, Tiema Qian, Hou Chen Li, Tianye Huang, Jian-Xiang Qiu, Xiaoyu Zeng, Peng Guo, Jian Tang, Thao Dinh, Qiong Ma, Xufan Li, Ni Ni, Anyuan Gao, and Su-Yang Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbiased large-$N$ approach to competing vestigial orders of density-wave and superconducting instabilities]]></title>
+        <id>http://link.aps.org/doi/10.1103/hwcr-65dj</id>
+        <link href="http://link.aps.org/doi/10.1103/hwcr-65dj"/>
+        <updated>2026-10-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Grgur Palle and Rafael M. Fernandes
+Vestigial orders are partially melted versions of ordered states stabilized by fluctuations of the order parameter. Observed in several quantum materials, their theoretical description has often relied on a large-N approximation that suffers from ambiguities due to multiple interfering channels. Here, the authors uncover the structural reasons for the ambiguities and from them derive a large-N prescription that removes the ambiguities, yielding unequivocal physical results. This prescription is then applied to multicomponent density wave and superconducting instabilities, where they find exotic vestigial phases describing spin-quadrupolar, charge-4e superconducting, and altermagnetic orders.
+
+[Phys. Rev. B 114, 245108] Published Wed Oct 07, 2026]]></summary>
+        <author>
+            <name>Grgur Palle and Rafael M. Fernandes</name>
         </author>
     </entry>
     <entry>
@@ -1268,45 +1307,6 @@ Coherent elastic neutrino-nucleus scattering provides crucial information for pr
 [Phys. Rev. D 114, 055032] Published Fri Sep 18, 2026]]></summary>
         <author>
             <name>Gang Li, Chuan-Qiang Song, Feng-Jie Tang, and Jiang-Hao Yu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective description of lensed gravitational waves diffracted by stellar fields]]></title>
-        <id>http://link.aps.org/doi/10.1103/d5fx-xgd2</id>
-        <link href="http://link.aps.org/doi/10.1103/d5fx-xgd2"/>
-        <updated>2026-09-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Miguel Zumalacárregui and Xikai Shan
-Gravitational waves lensed by galaxies and clusters can also be diffracted by the stars and compact remnants embedded within them, leaving frequency-dependent signatures in the observed signal that are computationally expensive to model. This paper introduces Reduced-Order Stochastic Diffraction, an efficient framework for modeling these complex microlensing effects with a computationally inexpensive surrogate model. The method can be readily incorporated into Bayesian GW analyses and adapted to different detectors, sources, and microlens populations. It therefore opens a new avenue for probing stellar populations through gravitational-wave lensing.
-
-[Phys. Rev. D 114, 063038] Published Fri Sep 18, 2026]]></summary>
-        <author>
-            <name>Miguel Zumalacárregui and Xikai Shan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reconfigurable circuit for mode-tunable topological quantum structured light]]></title>
-        <id>http://link.aps.org/doi/10.1103/w3dc-58pw</id>
-        <link href="http://link.aps.org/doi/10.1103/w3dc-58pw"/>
-        <updated>2026-09-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Pedro Ornelas, Tatjana Kleine, André G. de Oliveira, Carmelo Rosales-Guzmán, Andrew Forbes, and Isaac Nape
-Quantum topological structured light offers a promising route to robust information encoding, but its practical realization is limited by the challenge of generating high-quality states in a reconfigurable manner. The authors demonstrate an interferometric approach that generates high-fidelity topological structured light by mapping spatial-mode entanglement onto hybrid spatial-polarization entangled states, with the interferometer implementing a reconfigurable controlled-unitary operation through programmable spatial modulation. This versatile platform for generating high-quality topological quantum states enables adaptable architectures for photonic quantum information processing.
-
-[Phys. Rev. Applied 26, 034043] Published Fri Sep 18, 2026]]></summary>
-        <author>
-            <name>Pedro Ornelas, Tatjana Kleine, André G. de Oliveira, Carmelo Rosales-Guzmán, Andrew Forbes, and Isaac Nape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Sensing of Gravitational Frame Dragging with a Superfluid $^{4}\mathrm{He}$ Gyrometer]]></title>
-        <id>http://link.aps.org/doi/10.1103/q3v9-rjm9</id>
-        <link href="http://link.aps.org/doi/10.1103/q3v9-rjm9"/>
-        <updated>2026-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): Kai-Isaak Ellers, Marios Christodoulou, K. C. Schwab, and K. Birgitta Whaley
-A proposed lab-based quantum sensor could precisely measure within seconds the warping of spacetime caused by Earth’s rotation.
-
-[Phys. Rev. Lett. 137, 121404] Published Thu Sep 17, 2026]]></summary>
-        <author>
-            <name>Kai-Isaak Ellers, Marios Christodoulou, K. C. Schwab, and K. Birgitta Whaley</name>
         </author>
     </entry>
 </feed>
