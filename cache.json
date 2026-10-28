@@ -6,6 +6,46 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/5flw-5xzh",
+          "author": "Bernardo Gouveia, J. Pedro de Souza, Venecia A. Valdez, Joshua W. Shaevitz, Howard A. Stone, and Sabine Petry",
+          "description": "Author(s): Bernardo Gouveia, J. Pedro de Souza, Venecia A. Valdez, Joshua W. Shaevitz, Howard A. Stone, and Sabine Petry\nBy combining experiments and theory, this study establishes condensate-mediated capillary forces as a distinct mechanism for microtubule bundling.\n\n[PRX Life 4, 043006] Published Tue Oct 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/5flw-5xzh",
+          "publishedOn": "2026-10-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Capillary Bundling of Microtubules by Condensates",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/c3dq-blzj",
+          "author": "Cheng-Long Zhou, Jun-Yu Chu, Xiao-Qi Sun, Yong Zhang, Hong-Liang Yi, and Ashutosh Singh",
+          "description": "Author(s): Cheng-Long Zhou, Jun-Yu Chu, Xiao-Qi Sun, Yong Zhang, Hong-Liang Yi, and Ashutosh Singh\nCan electronic band topology leave a fingerprint in thermal radiation? Here, the authors theoretically show that the evolution from a nodal point to a nodal ring shifts spectral heat flux to higher frequencies and reduces the contribution of large-wave-vector photon tunneling channels. Together, these effects broaden the near-field radiation spectrum while suppressing heat transfer. The resulting temperature-sensitive radiative response connects topological electronic states with nanoscale energy modulation and offers a platform for thermal switching, thermal rectification, and thermal stabilization.\n\n[Phys. Rev. B 114, 235130] Published Tue Oct 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/c3dq-blzj",
+          "publishedOn": "2026-10-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Radiative heat transfer in topological nodal-ring semimetals",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/cprf-rwsn",
+          "author": "Khalil Zakeri, Arthur Ernst, and Christopher Hins",
+          "description": "Author(s): Khalil Zakeri, Arthur Ernst, and Christopher Hins\nLong celebrated in graphene, Dirac physics inspires the search for similar phenomena in magnonic systems. Here, the authors experimentally demonstrate that magnons in an epitaxial Co bilayer on Ru(0001) exhibit Dirac properties near the Brillouin zone corner. Remarkably, the substrate does not destroy the essential physics; despite breaking sublattice symmetry and opening a gap, local valley topology remains intact. Beyond opening possibilities for discovering Dirac magnons in other ultrathin 3d magnetic films, these findings hold promise for on-chip magnonic applications.\n\n[Phys. Rev. B 114, L200405] Published Tue Oct 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/cprf-rwsn",
+          "publishedOn": "2026-10-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Observation of gapped Dirac magnons in a Co bilayer grown on Ru(0001)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/dcmn-v4by",
+          "author": "Yutian Wen, V. Ranjan, T. Lorriaux, D. Vion, B. Huard, A. Bienfait, E. Flurin, and P. Bertet",
+          "description": "Author(s): Yutian Wen, V. Ranjan, T. Lorriaux, D. Vion, B. Huard, A. Bienfait, E. Flurin, and P. Bertet\nSpins in solids could provide long-lived memories for superconducting quantum computers, but practical devices need a microwave interface that remains tunable in a magnetic field. This study develops a superconducting resonator with adjustable frequency and bandwidth to address bismuth spins in silicon at a clock transition, where they are less sensitive to magnetic noise. The authors measure quantum coherence lasting nearly half a second and show that tuning the resonator can suppress the spins’ microwave echoes. These capabilities provide building blocks for controlling the storage and retrieval of quantum information in spin-based memories.\n\n[Phys. Rev. Applied 26, 044083] Published Tue Oct 27, 2026",
+          "link": "http://link.aps.org/doi/10.1103/dcmn-v4by",
+          "publishedOn": "2026-10-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Deterministically addressing spins at clock transitions with a frequency- and bandwidth-tunable superconducting resonator",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/lc75-8bf3",
           "author": "Amit Jangid, Ohad Noy Feldheim, and Tamar Friedlander",
           "description": "Author(s): Amit Jangid, Ohad Noy Feldheim, and Tamar Friedlander\nPlants may not have to choose between selfing and outcrossing: a biophysical evolutionary model reveals a persistent mixed-mating state whose composition continues to fluctuate without settling—even in an unchanging environment—and predicts, counterintuitively, that pollen scarcity can favor self-incompatibility.\n\n[PRX Life 4, 043005] Published Mon Oct 26, 2026",
@@ -963,46 +1003,6 @@
           "publishedOn": "2026-10-06T10:00:00.000Z",
           "wordCount": null,
           "title": "High-sensitivity vapor-cell quasi-dc atomic electric field sensor",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/d3gl-qntm",
-          "author": "Maxim Tjøtta, Devashish Shah, Kanishk Modi, Marco Valentini, Rubén Seoane Souto, Georgios Katsaros, and Jeroen Danon",
-          "description": "Author(s): Maxim Tjøtta, Devashish Shah, Kanishk Modi, Marco Valentini, Rubén Seoane Souto, Georgios Katsaros, and Jeroen Danon\nExtracting the current-phase relationship (CPR) of superconducting junctions in a noninvasive manner has proven to be difficult in the lab. The authors present an innovative method that overcomes the main limitations of conventional approaches, allowing the full harmonic content of the CPR to be extracted by subjecting the junction to a high-frequency ac drive. This method is demonstrated experimentally and found to be robust against experimental noise.\n\n[Phys. Rev. Applied 26, 044017] Published Tue Oct 06, 2026",
-          "link": "http://link.aps.org/doi/10.1103/d3gl-qntm",
-          "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Fast-driving spectroscopy of current-phase relationships of individual Josephson elements",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/xk8h-4lrb",
-          "author": "Ji-Bing Yuan, Ya-Ju Song, Shi-Qing Tang, Xin-Wen Wang, and Le-Man Kuang",
-          "description": "Author(s): Ji-Bing Yuan, Ya-Ju Song, Shi-Qing Tang, Xin-Wen Wang, and Le-Man Kuang\nThe authors examine the performance of a single dephasing qubit probing the cutoff frequency of Ohmic-family environments across varying temperatures and coupling strengths. They find that elevated temperatures accelerate decoherence to shorten the optimal measurement time, demonstrating that thermal noise can serve as a resource to improve sensing precision by nearly two orders of magnitude compared to zero-temperature conditions for certain weakly coupled environments.\n\n[Phys. Rev. A 114, 042407] Published Tue Oct 06, 2026",
-          "link": "http://link.aps.org/doi/10.1103/xk8h-4lrb",
-          "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Temperature-enhanced quantum sensing for the cutoff frequency of Ohmic-family environments",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/f2pb-rv6w",
-          "author": "Alberto Ronca, Antoine Cornet, Jie Shen, Thierry Deschamps, Eloi Pineda, Yuriy Chushkin, Federico Zontone, Mohamed Mezouar, Isabella Gallino, Gaston Garbarino, and Beatrice Ruta",
-          "description": "Author(s): Alberto Ronca, Antoine Cornet, Jie Shen, Thierry Deschamps, Eloi Pineda, Yuriy Chushkin, Federico Zontone, Mohamed Mezouar, Isabella Gallino, Gaston Garbarino, and Beatrice Ruta\nUsing high-pressure X-ray diffraction and X-ray photon correlation spectroscopy, the authors uncover a subtle structural crossover near 3 GPa in an Au-based metallic glass, accompanied by dramatic avalanche-like atomic rearrangements. Above this pressure, a second, slower relaxation process emerges, revealing distinct dynamical environments within the glass. The simultaneous structural and dynamical signatures point to the nucleation and coexistence of two amorphous states, providing new insight into the microscopic nature of polyamorphism in metallic glasses.\n\n[Phys. Rev. Materials 10, 105601] Published Mon Oct 05, 2026",
-          "link": "http://link.aps.org/doi/10.1103/f2pb-rv6w",
-          "publishedOn": "2026-10-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Emergence of multiple relaxation processes during low to high density transition in ${\\mathrm{Au}}_{49}{\\mathrm{Cu}}_{26.9}{\\mathrm{Si}}_{16.3}{\\mathrm{Ag}}_{5.5}{\\mathrm{Pd}}_{2.3}$ metallic glass",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/n92m-jvpj",
-          "author": "John M. Mehlhaff, Alexander Y. Chen, Martin Luepker, and Yajie Yuan",
-          "description": "Author(s): John M. Mehlhaff, Alexander Y. Chen, Martin Luepker, and Yajie Yuan\nThe first fully kinetic collisionless model of a rotating plasma accreting into a black hole reveals the role of pair creation and the plasma loading of the jet funnel.\n\n[Phys. Rev. Lett. 137, 155201] Published Mon Oct 05, 2026",
-          "link": "http://link.aps.org/doi/10.1103/n92m-jvpj",
-          "publishedOn": "2026-10-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Collisionless Accretion of Finite-Angular-Momentum Plasma onto a Spinning Black Hole",
           "imageUrl": null
         }
       ]
