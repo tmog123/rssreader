@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/6btt-d5tq",
+          "author": "Jorge Cervantes-Villanueva, Alberto García-Cristóbal, Davide Sangalli, and Alejandro Molina-Sánchez",
+          "description": "Author(s): Jorge Cervantes-Villanueva, Alberto García-Cristóbal, Davide Sangalli, and Alejandro Molina-Sánchez\nUltrashort laser pulses offer a route to controlling quantum coherence in atomically thin semiconductors. Using first-principles simulations, the authors investigate coherent excitonic oscillations in monolayer tungsten disulfide. They reveal how coupling between excitonic states shapes these oscillations and how an additional resonance modifies their dynamics. Building on this microscopic understanding, they propose a sequence of laser pulses that generates and regenerates coherent oscillations on demand. The results connect the microscopic physics of interacting excitons with an optical control scheme, suggesting opportunities for ultrafast optical switching and future devices that use quantum coherence to manipulate and process information in solid-state materials.\n\n[Phys. Rev. Materials 10, 114001] Published Mon Nov 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/6btt-d5tq",
+          "publishedOn": "2026-11-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Coherent ultrafast excitonic oscillations in monolayer ${\\mathrm{WS}}_{2}$",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/pmcz-g3l8",
+          "author": "Henry G. Bell, Chenhang Xu, Arthur McCray, Minyong Han, Yicheng Zhuang, Harold Y. Hwang, Colin Ophus, and Alfred Zong",
+          "description": "Author(s): Henry G. Bell, Chenhang Xu, Arthur McCray, Minyong Han, Yicheng Zhuang, Harold Y. Hwang, Colin Ophus, and Alfred Zong\nThe authors have developed Bend Contour Electron Tomography (BCET), a computational framework that turns conventional electron microscope images into quantitative maps of morphology and strain tensors in ultrathin materials, which are essential for understanding and designing their mechanical, magnetic, and optical properties. Rather than scanning a sample point-by-point, BCET analyzes full-field images by decoding bend contours created as electrons scatter through a deformed crystal. Combining images acquired at different viewing angles then allows the reconstruction of both the membrane shape and its local strain. BCET offers an accessible route to efficiently mapping nanoscale deformation and, ultimately, tracking how ultrathin materials respond dynamically to light, heat, and applied forces.\n\n[Phys. Rev. Materials 10, L110801] Published Mon Nov 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/pmcz-g3l8",
+          "publishedOn": "2026-11-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Bend contour electron tomography (BCET): Quantitative strain and topography mapping",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/5z5g-shly",
+          "author": "Yiqin Chen, Shi-Yi Zhao, Xingjiang Zhu, N. D. Ramesh Bhat, Jacob Cardinal Tremblay, Małgorzata Curyło, Valentina Di Marco, George Hobbs, Wenhua Ling, Rami F. Mandow, Richard N. Manchester, Saurav Mishra, Daniel J. Reardon, Sparrow Roch, Christopher J. Russell, Ryan M. Shannon, Jingbo Wang, Shuangqiang Wang, and Andrew Zic (PPTA Collaboration)",
+          "description": "Author(s): Yiqin Chen, Shi-Yi Zhao, Xingjiang Zhu, N. D. Ramesh Bhat, Jacob Cardinal Tremblay, Małgorzata Curyło, Valentina Di Marco, George Hobbs, Wenhua Ling, Rami F. Mandow, Richard N. Manchester, Saurav Mishra, Daniel J. Reardon, Sparrow Roch, Christopher J. Russell, Ryan M. Shannon, Jingbo Wang, Shuangqiang Wang, and Andrew Zic (PPTA Collaboration)\nResearchers have used radio observations of rapidly spinning neutron stars to search for signals from supermassive black hole pairs at the dawn of galaxy formation.\n\n[Phys. Rev. Lett. 137, 191401] Published Mon Nov 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/5z5g-shly",
+          "publishedOn": "2026-11-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/qjd9-p6dy",
+          "author": "M. Galletti, L. Verra, A. Biagioni, M. Carillo, L. Crincoli, R. Demitra, G. Di Pirro, G. Parise, R. Pompili, F. Stocchi, F. Villa, A. Zigler, and M. Ferrario",
+          "description": "Author(s): M. Galletti, L. Verra, A. Biagioni, M. Carillo, L. Crincoli, R. Demitra, G. Di Pirro, G. Parise, R. Pompili, F. Stocchi, F. Villa, A. Zigler, and M. Ferrario\nThis paper reports an experimental demonstration of beam-driven plasma wakefield acceleration in which the plasma is produced by laser filamentation of low-pressure nitrogen inside a capillary. Results demonstrate that filament-generated plasmas are a viable plasma source offering operational reproducibility.\n#TimelyTopic #TheoryExperiment\n\n[Phys. Rev. E 114, 055201] Published Mon Nov 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/qjd9-p6dy",
+          "publishedOn": "2026-11-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Experimental demonstration of beam-driven wakefield acceleration in laser-plasma filament",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/p947-mlyb",
+          "author": "Burhan Ahmed, Erica Liu, Lothar Maisenbacher, Pengwei Sun, Dana Griffith, Kenneth Nakasone, Ashwin Singh, Yuecheng Zhou, Bianxiao Cui, and Holger Müller",
+          "description": "Author(s): Burhan Ahmed, Erica Liu, Lothar Maisenbacher, Pengwei Sun, Dana Griffith, Kenneth Nakasone, Ashwin Singh, Yuecheng Zhou, Bianxiao Cui, and Holger Müller\nUnderstanding how interconnected neurons exchange information is a key scientific challenge, but existing optical methods are invasive, limiting recording durations. The authors combine microscopy with electrochromic optical recording (ECORE), a label-free technique relying on reversible color changes in a biocompatible medium. They demonstrate the recording of extracellular action potentials from cardiomyocytes with single-cell resolution and a high sensitivity of 6.3 µV. This approach simplifies the optical setup and allows simultaneous imaging, making ECORE accessible to a broader research community.\n\n[Phys. Rev. Applied 26, 054001] Published Mon Nov 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/p947-mlyb",
+          "publishedOn": "2026-11-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Microscopy of bioelectric potentials using electrochromism",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/vjtb-d8kb",
+          "author": "Fernando Meneses, Christopher T.-K. Lew, Anand Sivamalai, Andy Sayers, Brant C. Gibson, Andrew D. Greentree, Lloyd C. L. Hollenberg, and David A. Simpson",
+          "description": "Author(s): Fernando Meneses, Christopher T.-K. Lew, Anand Sivamalai, Andy Sayers, Brant C. Gibson, Andrew D. Greentree, Lloyd C. L. Hollenberg, and David A. Simpson\nRemote magnetic tracking is crucial for navigation in GPS-denied environments, but real-world signals are often too weak, noisy, and complex to model reliably. The authors combine quantum diamond magnetometry with a deep-learning algorithm trained solely on experimental data to track an elevator in an urban setting. They show that full-vector magnetic inputs over short time windows yield robust centimeter-scale accuracy across arbitrary sensor frames despite strong noise, with model training requiring less than an hour. This model-free approach provides a practical route to deploying quantum magnetometry for real-time tracking in complex environments.\n\n[Phys. Rev. Applied 26, 054003] Published Mon Nov 02, 2026",
+          "link": "http://link.aps.org/doi/10.1103/vjtb-d8kb",
+          "publishedOn": "2026-11-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Machine-learning-assisted tracking of magnetic objects using quantum diamond magnetometry",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/zdw9-h75h",
           "author": "C. A. Argüelles, M. DuVernois, P. W. Graham, T. Kovachy, and J. Mitchell",
           "description": "Author(s): C. A. Argüelles, M. DuVernois, P. W. Graham, T. Kovachy, and J. Mitchell\nAtom interferometers promise access to the decihertz gravitational-wave band, below LIGO’s reach and above LISA’s, where compact binaries radiate for hours to days before merger. This paper makes the case for building a kilometer-scale vertical atom interferometer in the Antarctic ice at the South Pole, where seismic noise is among the lowest on Earth, hot-water drilling and heavy-cargo logistics have already been proven by IceCube, and the southern location completes global source triangulation. Beyond early-warning alerts for multimessenger follow-up, such an instrument would enable precision tests of the equivalence principle and searches for wavelike dark matter.\n\n[Phys. Rev. Research 8, 043111] Published Fri Oct 30, 2026",
@@ -943,66 +1003,6 @@
           "publishedOn": "2026-10-13T10:00:00.000Z",
           "wordCount": null,
           "title": "Gyrotropy from extrinsic geometry in twisted materials",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/mqy7-s2db",
-          "author": "Jiaxuan Zhang",
-          "description": "Author(s): Jiaxuan Zhang\nThe author shows that two postulates commonly employed in derivations of the Born rule, additivity and noncontextuality, are not equivalent and thus cannot be unified into a single postulate. Furthermore, additivity is found to be crucial in several alternative derivations of the Born rule, and none of the proposed equivalent assumptions in these works can serve as a substitute for it.\n\n[Phys. Rev. A 114, 042208] Published Tue Oct 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/mqy7-s2db",
-          "publishedOn": "2026-10-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Summing to uncertainty: On the necessity of additivity in deriving the Born rule",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/zp2p-ycjh",
-          "author": "Lihua Wang, Peiran Yin, and Pu Huang",
-          "description": "Author(s): Lihua Wang, Peiran Yin, and Pu Huang\nThe authors propose a new scheme for creating entanglement between the center-of-mass motions of two microspheres that does not require external optical or microwave cavities. By applying a strong, uniform magnetic field, spin waves dominate, and by applying oscillating gradient fields, translational displacements of the spheres change the magnon energies, yielding a coupling between magnons and translational degrees of freedom.\n\n[Phys. Rev. A 114, 042611] Published Tue Oct 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/zp2p-ycjh",
-          "publishedOn": "2026-10-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Magnon-mediated motional entanglement of levitated magnetic microspheres",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/921d-nf7h",
-          "author": "Pradyoth Shandilya, Kartik Srinivasan, Curtis Menyuk, and Grégory Moille",
-          "description": "Author(s): Pradyoth Shandilya, Kartik Srinivasan, Curtis Menyuk, and Grégory Moille\nThe authors demonstrate how locking an on-chip frequency comb to a reference laser induces a mechanism that redistributes energy across the spectrum of comb lines. By tapping into this energy shift, they show how to boost weak high-frequency signals, offering a way to stabilize compact precision microcombs.\n\n[Phys. Rev. A 114, 043515] Published Tue Oct 13, 2026",
-          "link": "http://link.aps.org/doi/10.1103/921d-nf7h",
-          "publishedOn": "2026-10-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Dissipative Kerr soliton self-balancing from Kerr-induced synchronization",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/mtbf-vy62",
-          "author": "Rebecca Raskin, Wim Van Dooren, Hans Van Winckel, and Mieke De Cock",
-          "description": "Author(s): Rebecca Raskin, Wim Van Dooren, Hans Van Winckel, and Mieke De Cock\nUsing in-depth, task-based think-aloud interviews and 3D materials, researchers uncover the specific, often hidden alternative mental models high school students use to explain the Sun’s apparent motion.\n\n[Phys. Rev. Phys. Educ. Res. 22, 020144] Published Fri Oct 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/mtbf-vy62",
-          "publishedOn": "2026-10-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Student understanding of the apparent motion of the Sun: Insights from an in-depth interview study",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/6tn7-klxh",
-          "author": "Soren S. Plueger, Bethany R. Wilcox, Steven J. Pollock, and Gina Passante",
-          "description": "Author(s): Soren S. Plueger, Bethany R. Wilcox, Steven J. Pollock, and Gina Passante\nThrough think-aloud interviews, this study explores how students learn quantum computing, identifying three key cognitive resources they activate and occasionally misapply when reasoning about the CNOT gate.\n\n[Phys. Rev. Phys. Educ. Res. 22, 020145] Published Fri Oct 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/6tn7-klxh",
-          "publishedOn": "2026-10-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Can a controlled-not gate affect the control qubit? Student resources for understanding controlled-not",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/mbn4-fd4v",
-          "author": "J. B. Lestz, R. I. Pinsker, B. Van Compernolle, S. X. Tang, A. Dupuy, A. M. Garofalo, L. McAllister, C. P. Moeller, C. C. Petty, M. Porkolab, M. P. Ross, G. Rutherford, and A. Torrezan",
-          "description": "Author(s): J. B. Lestz, R. I. Pinsker, B. Van Compernolle, S. X. Tang, A. Dupuy, A. M. Garofalo, L. McAllister, C. P. Moeller, C. C. Petty, M. Porkolab, M. P. Ross, G. Rutherford, and A. Torrezan\nHelicon current drive has been observed experimentally for the first time in dedicated DIII-D tokamak experiments, providing a proof-of-principle and an attractive source of efficient current drive in reactor-grade tokamak plasmas.\n\n[Phys. Rev. Lett. 137, 155101] Published Fri Oct 09, 2026",
-          "link": "http://link.aps.org/doi/10.1103/mbn4-fd4v",
-          "publishedOn": "2026-10-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "First Experimental Evidence of Helicon Current Drive",
           "imageUrl": null
         }
       ]
