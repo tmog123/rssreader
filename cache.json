@@ -6,6 +6,66 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/791d-2tx9",
+          "author": "Francisco Vega Reyes, Álvaro Rodríguez-Rivas, Pablo Maynar, and M. Isabel García de Soria",
+          "description": "Author(s): Francisco Vega Reyes, Álvaro Rodríguez-Rivas, Pablo Maynar, and M. Isabel García de Soria\nA memory phenomenon known as the anomalous Kovacs effect has been experimentally observed in a granular system for the first time.\n\n[Phys. Rev. Lett. 137, 208201] Published Tue Nov 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/791d-2tx9",
+          "publishedOn": "2026-11-10T10:00:00.000Z",
+          "wordCount": 2091,
+          "title": "Kovacs Memory Effect in a Thin Granular Layer: Experimental Evidence and Its Physical Origin",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/791d-2tx9.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/vdml-skqc",
+          "author": "Thomas Barois, Mélanie Labiausse, Jean-François Boudet, Juho S. Lintuvuori, and Hamid Kellay",
+          "description": "Author(s): Thomas Barois, Mélanie Labiausse, Jean-François Boudet, Juho S. Lintuvuori, and Hamid Kellay\nCombining experiments and simulations, this paper explores the collective behavior of active granular rotors. It is shown that an effective attractive interaction controlled by rotational activity and particle shape leads to the particles’ self-assembly into chainlike structures.\n#AdvancingField #TheoryExperiment\n\n[Phys. Rev. E 114, 055409] Published Tue Nov 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/vdml-skqc",
+          "publishedOn": "2026-11-10T10:00:00.000Z",
+          "wordCount": 1972,
+          "title": "Mechanical pairing and self-assembled chains of nonconvex granular rotors",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/vdml-skqc.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/mnzq-w1b5",
+          "author": "Isaac Legred, Jacob Golomb, and Katerina Chatziioannou",
+          "description": "Author(s): Isaac Legred, Jacob Golomb, and Katerina Chatziioannou\nStars collapsing directly into black holes might explain the surprising number of merging black holes of about 10 solar masses.\n\n[Phys. Rev. D 114, 103023] Published Tue Nov 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/mnzq-w1b5",
+          "publishedOn": "2026-11-10T10:00:00.000Z",
+          "wordCount": 2177,
+          "title": "Low-mass failed supernovae and the $10{M}_{⊙}$ peak in the merging black hole mass distribution",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRD/key_images/10.1103/mnzq-w1b5.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/hlx7-94t4",
+          "author": "Aleksandrs Zacinskis, Frank T. Ebel, Mathias Pelz, Fabian B. Kugler, Karsten Held, Jan von Delft, Maurits W. Haverkort, and Andreas Gleis",
+          "description": "Author(s): Aleksandrs Zacinskis, Frank T. Ebel, Mathias Pelz, Fabian B. Kugler, Karsten Held, Jan von Delft, Maurits W. Haverkort, and Andreas Gleis\nThe self-energy is notoriously difficult to compute, especially in many-body systems with a discrete spectrum, where the Dyson equation often produces noncausal results. Here, the authors obtain a discrete spectral representation of the self-energy that is causal by construction, preserves sum rules, and requires no artificial broadening. Tested with four different impurity solvers, the approach significantly improves accuracy and enables a fully discrete formulation of dynamical mean-field theory.\n\n[Phys. Rev. B 114, 285111] Published Tue Nov 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/hlx7-94t4",
+          "publishedOn": "2026-11-10T10:00:00.000Z",
+          "wordCount": 2051,
+          "title": "Symmetric estimator for discrete self-energy of discrete many-body systems",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRB/key_images/10.1103/hlx7-94t4.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/k4tb-q2pd",
+          "author": "D. Maiello, R. Di Vora, D. Ahn, G. Carugno, R. Cervantes, B. Giaccone, A. Ortolan, S. Posen, G. Ruoso, G. Sardo Infirri, B. Tennis, S. Tocci, and C. Braggio",
+          "description": "Author(s): D. Maiello, R. Di Vora, D. Ahn, G. Carugno, R. Cervantes, B. Giaccone, A. Ortolan, S. Posen, G. Ruoso, G. Sardo Infirri, B. Tennis, S. Tocci, and C. Braggio\nIn the search for dark matter (DM), cavity-based experiments tune a microwave resonator to the unknown oscillation frequency of wavelike DM. Superconducting cavities would make these experiments far more sensitive, but wide-range tuning is needed. The authors mechanically separate the two halves of a Nb3Sn-coated cavity to realize a tuning range of more than 1 GHz around 8.5 GHz, while the quality factor Q remains above 106. Simulations show that radiative losses stay negligible even for large openings, which makes the method a practical route toward wide-band experiments with high-Q cavities, even in significant magnetic fields.\n\n[Phys. Rev. Applied 26, 054032] Published Tue Nov 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/k4tb-q2pd",
+          "publishedOn": "2026-11-10T10:00:00.000Z",
+          "wordCount": 5146,
+          "title": "${\\mathrm{Nb}}_{3}\\mathrm{Sn}$ superconducting microwave cavity tunable over 1 GHz for dark-matter searches",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAPPLIED/key_images/10.1103/k4tb-q2pd.png"
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/4hnq-5t8d",
+          "author": "Takashi Tanaka",
+          "description": "Author(s): Takashi Tanaka\nComputing the brilliance and coherence of synchrotron radiation requires a complicated numerical process based on the Wigner function representation, which defines the photon flux density in the 4-dimensional phase space. This process can be potentially time-consuming, especially in a multiple-beam-waist configuration. In this case a reliable result could be obtained only with a high computational cost by using Monte Carlo simulation. To overcome this difficulty, a numerical method called “quasi convolution” (QC) has been introduced, with which the computation time can be reduced by 2-4 orders of magnitude without sacrificing numerical accuracy.\n\n[Phys. Rev. Accel. Beams 29, 113402] Published Tue Nov 10, 2026",
+          "link": "http://link.aps.org/doi/10.1103/4hnq-5t8d",
+          "publishedOn": "2026-11-10T10:00:00.000Z",
+          "wordCount": 3240,
+          "title": "Fast computation of Wigner functions of undulator radiation in a multiple-beam-waist configuration",
+          "imageUrl": "https://cdn.journals.aps.org/journals/PRAB/key_images/10.1103/4hnq-5t8d.png"
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/g32f-j6q2",
           "author": "Xiaodong Guo, Xiaokang Li, Benoît Fauqué, Alaska Subedi, Lingxiao Zhao, Zengwei Zhu, and Kamran Behnia",
           "description": "Author(s): Xiaodong Guo, Xiaokang Li, Benoît Fauqué, Alaska Subedi, Lingxiao Zhao, Zengwei Zhu, and Kamran Behnia\nMeasurements on micrometer-scale cadmium samples provide definitive evidence of an unusual charge-transport regime in a 3D metal.\n\n[Phys. Rev. Lett. 137, 206301] Published Mon Nov 09, 2026",
@@ -261,7 +321,7 @@
           "description": "Author(s): Jeremy L. Tanlimco, Eber Nolasco-Martinez, Xiao Chai, S. Nicole Halawani, Eric Zhu, Ivar Martin, and David M. Weld\nUsing sheets of light to corral waves of ultracold atoms, researchers have created an experimental platform for studying the event horizons of black holes.\n\n[Phys. Rev. Lett. 137, 193404] Published Wed Nov 04, 2026",
           "link": "http://link.aps.org/doi/10.1103/44mq-jfp1",
           "publishedOn": "2026-11-04T10:00:00.000Z",
-          "wordCount": 2194,
+          "wordCount": 2198,
           "title": "Matter-Wave Fabry-Pérot Cavity in the Ultrastrong Driving Regime",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/44mq-jfp1.png"
         },
@@ -341,7 +401,7 @@
           "description": "Author(s): Mitsuaki Kawamura, Takuya Nomoto, Niklas Witt, and Ryotaro Arita\nA new formalism yields the quantities that characterize a conventional superconductor without adjustable parameters.\n\n[Phys. Rev. Lett. 137, 196001] Published Tue Nov 03, 2026",
           "link": "http://link.aps.org/doi/10.1103/lrhl-j9bt",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 2119,
+          "wordCount": 2123,
           "title": "First-Principles Calculation of Coherence Length and Penetration Depth Based on Density Functional Theory for Superconductors",
           "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/lrhl-j9bt.png"
         },
@@ -944,66 +1004,6 @@
           "wordCount": 5199,
           "title": "KM3NeT 220 PeV event: A neutrino messenger from the grand unification scale?",
           "imageUrl": "https://cdn.journals.aps.org/journals/APSOS/key_images/10.1103/51px-xpdh.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/b4q5-dkn5",
-          "author": "Cassandra Paul, David J. Webb, and Mary Kate Chessey",
-          "description": "Author(s): Cassandra Paul, David J. Webb, and Mary Kate Chessey\nWhen students leave physics exam problems blank, assigning a grade of zero may unintentionally exacerbate equity gaps; this retrospective study shows that uncompleted test item rates vary significantly by students’ race/ethnicity and first-generation status.\n\n[Phys. Rev. Phys. Educ. Res. 22, 020149] Published Wed Oct 21, 2026",
-          "link": "http://link.aps.org/doi/10.1103/b4q5-dkn5",
-          "publishedOn": "2026-10-21T10:00:00.000Z",
-          "wordCount": 4475,
-          "title": "Missing data on physics exams: Demographic patterns, course-level predictions, and implications for equity",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRPER/key_images/10.1103/b4q5-dkn5.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/pzgn-gqz5",
-          "author": "Alberto Turoldo, Marco Bianchi, Deborah Perco, Andrea Berti, Philip Hofmann, Alessandro Baraldi, and Silvano Lizzit",
-          "description": "Author(s): Alberto Turoldo, Marco Bianchi, Deborah Perco, Andrea Berti, Philip Hofmann, Alessandro Baraldi, and Silvano Lizzit\nThe authors report a comprehensive, multitechnique study of bismuth oxide growth on Au(111) under varying temperatures and oxygen exposures. Combining synchrotron-based spectroscopy, diffraction, and scanning tunneling microscopy, they elucidate the structural evolution during oxidation and annealing. Oxidation produces multiple oxide domains, including a structure consistent with the (201) surface of β-Bi2O3, while annealing drives phase separation and Au redistribution to the oxide surface. These processes induce substantial electronic modifications and lower the work function to 3.4 eV, highlighting the potential of Bi2O3 as a low-work-function interlayer for contact engineering in two-dimensional semiconductor devices.\n\n[Phys. Rev. Materials 10, 104008] Published Wed Oct 21, 2026",
-          "link": "http://link.aps.org/doi/10.1103/pzgn-gqz5",
-          "publishedOn": "2026-10-21T10:00:00.000Z",
-          "wordCount": 7741,
-          "title": "Rise, fall, and rebirth of an oxide: Growth and evolution of bismuth oxide on Au(111)",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRMATERIALS/key_images/10.1103/pzgn-gqz5.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/gbkc-6nlj",
-          "author": "T. G. Myers, L. Soucy, B. A. D. Sukra, B. Sinha, and G. Gabrielse",
-          "description": "Author(s): T. G. Myers, L. Soucy, B. A. D. Sukra, B. Sinha, and G. Gabrielse\nA device that stores a single positron and controls its quantum states could measure its magnetic moment with unprecedented precision, testing a symmetry principle central to quantum field theory.\n\n[Phys. Rev. Lett. 137, 173001] Published Wed Oct 21, 2026",
-          "link": "http://link.aps.org/doi/10.1103/gbkc-6nlj",
-          "publishedOn": "2026-10-21T10:00:00.000Z",
-          "wordCount": 2725,
-          "title": "One-Positron Quantum Cyclotron",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/gbkc-6nlj.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/12rn-rlg8",
-          "author": "N. R. Cooper, Y. Yang, and C. Weitenberg",
-          "description": "Author(s): N. R. Cooper, Y. Yang, and C. Weitenberg\nA new method lets quantum gas microscopes measure not only where atoms are but also how they move.\n\n[Phys. Rev. Lett. 137, 173402] Published Wed Oct 21, 2026",
-          "link": "http://link.aps.org/doi/10.1103/12rn-rlg8",
-          "publishedOn": "2026-10-21T10:00:00.000Z",
-          "wordCount": 4426,
-          "title": "Phase-Space Microscopes for Quantum Gases: Imaging Conjugate Variables and Momentum-Weighted Densities",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/12rn-rlg8.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/dffm-sv4s",
-          "author": "Peter Castellucci, Radha Boya, Lin Ma, Igor L. Chernyavsky, and Oliver E. Jensen",
-          "description": "Author(s): Peter Castellucci, Radha Boya, Lin Ma, Igor L. Chernyavsky, and Oliver E. Jensen\nMotivated by the underground storage of hydrogen and CO₂, we use analytical approximations to study the evolution of a gas current injected into porous, axisymmetric, dome-shaped channels. Unlike flow in flat channels, where injection dominates, flow in bell-shaped channels can remain influenced by buoyancy. In parabolic-shaped channels, slopes steepen with distance from the injection point, leading to distinct stages of spreading with different flow patterns along the channel. These results show how geological curvature can alter gas spreading and suggest that, under suitable conditions, parabolic-shaped aquifers may offer more efficient use of storage volume than flat aquifers.\n\n[Phys. Rev. Fluids 11, 103801] Published Wed Oct 21, 2026",
-          "link": "http://link.aps.org/doi/10.1103/dffm-sv4s",
-          "publishedOn": "2026-10-21T10:00:00.000Z",
-          "wordCount": 6926,
-          "title": "Evolution of a gas current injected into a curved axisymmetric porous channel",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/dffm-sv4s.png"
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/m11g-4rj9",
-          "author": "Aitor Erkoreka, Josu Martinez-Perdiguero, Luka Cmok, Ema Hanžel, Jordan Hobbs, Calum J. Gibb, Richard J. Mandle, Nerea Sebastián, and Alenka Mertelj",
-          "description": "Author(s): Aitor Erkoreka, Josu Martinez-Perdiguero, Luka Cmok, Ema Hanžel, Jordan Hobbs, Calum J. Gibb, Richard J. Mandle, Nerea Sebastián, and Alenka Mertelj\nPretransitional fluctuations show that flexoelectric coupling between polarization and molecular shape drives achiral fluids to spontaneously form chiral heliconical structures through polar biaxial ordering.\n#ElegantVisuals #TheoryExperiment #SoftMatterSpotlight\n\n[Phys. Rev. E 114, 045407] Published Wed Oct 21, 2026",
-          "link": "http://link.aps.org/doi/10.1103/m11g-4rj9",
-          "publishedOn": "2026-10-21T10:00:00.000Z",
-          "wordCount": 4356,
-          "title": "Flexoelectricity-driven softening of bend elasticity leads to spontaneous chiral symmetry breaking in a polar fluid",
-          "imageUrl": "https://cdn.journals.aps.org/journals/PRE/key_images/10.1103/m11g-4rj9.png"
         }
       ]
     }
