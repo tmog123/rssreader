@@ -6,6 +6,136 @@
       "siteUrl": "http://journals.aps.org/",
       "articles": [
         {
+          "id": "http://link.aps.org/doi/10.1103/kcr9-nbjk",
+          "author": "Chiara Cecchini, Jonas El Gammal, Gabriele Franciolini, and Mauro Pieroni",
+          "description": "Author(s): Chiara Cecchini, Jonas El Gammal, Gabriele Franciolini, and Mauro Pieroni\nOne promising test fails to distinguish between signals from supermassive black holes and those from primordial gravitational fluctuations.\n\n[Phys. Rev. Lett. 137, 221401] Published Tue Nov 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/kcr9-nbjk",
+          "publishedOn": "2026-11-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Are Pulsar Timing Array Measurements Sensitive to Gravitational Wave Non-Gaussianities?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/fxpf-vzxx",
+          "author": "Ming-Gen He, Wei-Yong Zhang, Zhen-Sheng Yuan, and Jian-Wei Pan",
+          "description": "Author(s): Ming-Gen He, Wei-Yong Zhang, Zhen-Sheng Yuan, and Jian-Wei Pan\nResearchers demonstrate quantum computing with ultracold atoms in an optical lattice in which information is stored in the atoms’ locations.\n\n[Phys. Rev. Lett. 137, 223402] Published Tue Nov 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/fxpf-vzxx",
+          "publishedOn": "2026-11-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Orbit-Qubit Quantum Processor of Ultracold Atoms",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/zvb7-htlc",
+          "author": "Jörn Stöhler, Stefan Blügel, and Christoph Friedrich",
+          "description": "Author(s): Jörn Stöhler, Stefan Blügel, and Christoph Friedrich\nThe authors describe here an all-electron implementation of the Bethe-Salpeter equation (BSE) within the full-potential linearized augmented-plane-wave (FLAPW) method, using a mixed basis for the Coulomb interaction potentials and an analytical treatment of the Coulomb divergence. Group theory is exploited to block-diagonalize the two-particle Hamiltonian, substantially reducing the computational cost. The parallelized code supports spin-orbit coupling and distributed memory. Calculated optical spectra and exciton binding energies for Si, LiF, and MoS2 agree well with available theoretical and experimental results.\n\n[Phys. Rev. B 114, 285127] Published Tue Nov 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/zvb7-htlc",
+          "publishedOn": "2026-11-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Efficient all-electron Bethe-Salpeter implementation using crystal symmetries",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/f735-gr9z",
+          "author": "Anton A. Markov, Andrey M. Nikishin, Nigel R. Cooper, Nathan Goldman, and Lucila Peralta Gavensky",
+          "description": "Author(s): Anton A. Markov, Andrey M. Nikishin, Nigel R. Cooper, Nathan Goldman, and Lucila Peralta Gavensky\nTopological invariants built from single-particle Green’s functions have been proposed to characterize interacting topological matter, but their meaning in fractionalized phases remains debated. Here, the authors compute these invariants exactly in the bulk of a fractional Chern insulator. They find that the Green’s function invariant remains integer-valued, while the fractional Hall response is carried entirely by a correction signaling the breakdown of Luttinger’s theorem, and they propose a protocol to access these quantities through scanning tunneling spectroscopy.\n\n[Phys. Rev. B 114, 285128] Published Tue Nov 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/f735-gr9z",
+          "publishedOn": "2026-11-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Luttinger's theorem and Green's function topological invariants in a fractional Chern insulator",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/285h-jw21",
+          "author": "Daniel Penkert, Pablo Martínez Cano, Yongho Lee, Miguel Dovale-Álvarez, Li-Wei Wei, Juan José Esteban Delgado, Reid Ferguson, José Alberto Ogalde Ortiz, Daikang Wei, Lea Bischof, Víctor Huarcaya, Germán Fernández Barranco, Isaac M. Álvarez, Ángel de la Torre, Gerhard Heinzel, and Guido Müller",
+          "description": "Author(s): Daniel Penkert, Pablo Martínez Cano, Yongho Lee, Miguel Dovale-Álvarez, Li-Wei Wei, Juan José Esteban Delgado, Reid Ferguson, José Alberto Ogalde Ortiz, Daikang Wei, Lea Bischof, Víctor Huarcaya, Germán Fernández Barranco, Isaac M. Álvarez, Ángel de la Torre, Gerhard Heinzel, and Guido Müller\nThe LISA instrument will search for gravitational waves by measuring picometer-scale changes in optical path length between spacecraft separated by 2.5 million kilometers. How can the precision of its phase-measurement hardware be verified before launch? The authors present Hexagon-2, a redesigned optical testbed that generates three related laser-interference signals to reveal measurement errors. Initial tests using a commercial phasemeter achieve residual noise at or below 2 pm/√Hz, laying the groundwork for end-to-end qualification of LISA’s flight hardware.\n\n[Phys. Rev. Applied 26, 054071] Published Tue Nov 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/285h-jw21",
+          "publishedOn": "2026-11-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hexagon-2: A qualification testbed for the LISA phase-metrology flight hardware",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/pxrf-bf72",
+          "author": "Hyunho Cha and Jungwoo Lee",
+          "description": "Author(s): Hyunho Cha and Jungwoo Lee\nThis work establishes that almost every pure state of a quantum system is uniquely determined by two overlapping reduced density matrices. It has potential applications for quantum state tomography and entanglement certification, where access to global measurements is often limited.\n\n[Phys. Rev. A 114, 052446] Published Tue Nov 24, 2026",
+          "link": "http://link.aps.org/doi/10.1103/pxrf-bf72",
+          "publishedOn": "2026-11-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Optimality of trine states for two-copy discrimination",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/8n3w-h2t1",
+          "author": "Takuya Nomoto, Kohei Shinohara, Hikaru Watanabe, and Ryotaro Arita",
+          "description": "Author(s): Takuya Nomoto, Kohei Shinohara, Hikaru Watanabe, and Ryotaro Arita\nA structure-generation framework based on oriented spin space groups enforces uniform site moments and leverages spin-orbit coupling hierarchies to enable accurate, high-throughput prediction of magnetic ground states.\n\n[Phys. Rev. X 16, 041052] Published Mon Nov 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/8n3w-h2t1",
+          "publishedOn": "2026-11-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Systematic Magnetic Structure Generation Based on Oriented Spin Space Groups: Formulation, Applications, and High-Throughput First-Principles Calculations",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/8ftb-swx9",
+          "author": "Yuhui Li, Sike Zeng, Yutong Yu, Renzheng Xiong, Yu-Jun Zhao, Xiaobing Chen, and Qihang Liu",
+          "description": "Author(s): Yuhui Li, Sike Zeng, Yutong Yu, Renzheng Xiong, Yu-Jun Zhao, Xiaobing Chen, and Qihang Liu\nA symmetry-guided framework based on oriented spin space groups systematically generates reliable candidates of magnetic configurations via the online platform SPINGEN, enabling high-throughput theoretical prediction of magnetic ground states.\n\n[Phys. Rev. X 16, 041053] Published Mon Nov 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/8ftb-swx9",
+          "publishedOn": "2026-11-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Symmetry-Guided Prediction of Magnetic-Ordered Ground States",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/lwp9-xjym",
+          "author": "Kotaro Tanaka, Daemo Kang, Naotaka Yoshikawa, Fumiya Sekiguchi, Hirotaka Terai, Takahiro Morimoto, and Ryo Shimano",
+          "description": "Author(s): Kotaro Tanaka, Daemo Kang, Naotaka Yoshikawa, Fumiya Sekiguchi, Hirotaka Terai, Takahiro Morimoto, and Ryo Shimano\nA terahertz vortex beam imprints its orbital angular momentum onto the Higgs mode of a NbN superconductor to open a route to optically manipulate microscopic quantum states using electromagnetic fields.\n\n[Phys. Rev. Lett. 137, 226001] Published Mon Nov 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/lwp9-xjym",
+          "publishedOn": "2026-11-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Imprinting Macroscopic Orbital Angular Momentum onto the Superconducting Higgs Mode Using a Terahertz Vortex Beam",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/wp4l-h4tr",
+          "author": "Subhajit Kar",
+          "description": "Author(s): Subhajit Kar\nSeismic and geomagnetic evidence suggests that a stably stratified layer may sit at the top of Earth’s liquid core, where it is usually treated as a passive barrier that damps or reflects motions arriving from below. This work shows that the layer can instead act as a frequency filter: vertical confinement traps a discrete set of magnetic-Archimedean-Coriolis modes, and a reduced resonator model predicts which interior disturbances they amplify and which they reject. Numerical solutions of the linearized equations confirm a decadal fundamental period and a response that is far larger for resonant than for detuned forcing.\n\n[Phys. Rev. Fluids 11, 114806] Published Mon Nov 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/wp4l-h4tr",
+          "publishedOn": "2026-11-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Stratified core lid as a spectral selector for trapped MAC modes",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/t6tm-yp51",
+          "author": "Mou Yan, Yu-Liang Tao, Yichong Hu, Zhenxing Cui, Jiong-Hao Wang, Gang Chen, and Yong Xu",
+          "description": "Author(s): Mou Yan, Yu-Liang Tao, Yichong Hu, Zhenxing Cui, Jiong-Hao Wang, Gang Chen, and Yong Xu\nQuasicrystals can host topological phases with no crystalline counterparts. Here, the authors engineer a tight-binding model on the Ammann-Beenker quasicrystalline lattice with eightfold rotational symmetry. The nontrivial phase supports eight zero-energy corner modes, with its bulk topology characterized by rotational-symmetry-based topological invariants. In the trivial phase, two symmetry-protected zero-energy modes appear near the center. Acoustic experiments observe both types of modes, highlighting distinct topological features of the quasicrystalline system.\n\n[Phys. Rev. B 114, 274203] Published Mon Nov 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/t6tm-yp51",
+          "publishedOn": "2026-11-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Observation of topological phases without crystalline counterparts",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/yfq3-6lmq",
+          "author": "Markus Drescher, Laurens Vanderstraeten, Roderich Moessner, and Frank Pollmann",
+          "description": "Author(s): Markus Drescher, Laurens Vanderstraeten, Roderich Moessner, and Frank Pollmann\nQuantum spin liquids are exotic phases of matter that do not form magnetic order, even at zero temperature. Instead, a single spin flip breaks apart into two independent emergent fractionalized particles, leaving a distinctive continuum in neutron-scattering spectra. Here, using GPU-accelerated dynamical matrix-product-state simulations, the authors compute such spectra for a frustrated triangular-lattice antiferromagnet with new levels of accuracy. The results support the existence of two spin-liquid phases, a U(1) Dirac spin liquid and a chiral spin liquid.\n\n[Phys. Rev. B 114, 295119] Published Mon Nov 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/yfq3-6lmq",
+          "publishedOn": "2026-11-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Spectral functions of an extended antiferromagnetic $S=\\frac{1}{2}$ Heisenberg model on the triangular lattice",
+          "imageUrl": null
+        },
+        {
+          "id": "http://link.aps.org/doi/10.1103/hqwc-c7hj",
+          "author": "Atsuo Shitade and Naoto Nagaosa",
+          "description": "Author(s): Atsuo Shitade and Naoto Nagaosa\nIn the spin Hall effect, an electric field drives a transverse flow of spin that accumulates at the edges. Because spin current has no unique definition when spin-orbit coupling is present, the authors calculate here the spin accumulation coefficient instead, taking interband and impurity effects into account for Dirac electrons. As with the anomalous Hall effect, they find three regimes as the electric conductivity varies, including the dirty regime with a new scaling exponent of 0.6.\n\n[Phys. Rev. B 114, L291201] Published Mon Nov 23, 2026",
+          "link": "http://link.aps.org/doi/10.1103/hqwc-c7hj",
+          "publishedOn": "2026-11-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Universal scaling of the spin Hall effect",
+          "imageUrl": null
+        },
+        {
           "id": "http://link.aps.org/doi/10.1103/mksg-nkwr",
           "author": "Sudipta Pattanayak, Alfredo Sciortino, Laurent Blanchoin, Manuel Théry, and Jean-François Joanny",
           "description": "Author(s): Sudipta Pattanayak, Alfredo Sciortino, Laurent Blanchoin, Manuel Théry, and Jean-François Joanny\nTwo noninteracting components undergo phase separation through active, polarity-dependent transport mediated by a third species that acts as a directional pump.\n\n[Phys. Rev. Lett. 137, 218302] Published Fri Nov 20, 2026",
@@ -873,136 +1003,6 @@
           "publishedOn": "2026-11-04T10:00:00.000Z",
           "wordCount": null,
           "title": "Evolving dark sector and the dark dimension scenario",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/ch1m-ppsm",
-          "author": "Masaki Gen, Shun Okumura, Shusaku Imajo, Taro Nakajima, Karel Prokes, Shunsuke Kitou, Yusuke Tokunaga, Yoichi Nii, Koichi Kindo, Yoshimitsu Kohama, Shintaro Ishiwata, and Taka-hisa Arima",
-          "description": "Author(s): Masaki Gen, Shun Okumura, Shusaku Imajo, Taro Nakajima, Karel Prokes, Shunsuke Kitou, Yusuke Tokunaga, Yoichi Nii, Koichi Kindo, Yoshimitsu Kohama, Shintaro Ishiwata, and Taka-hisa Arima\nHere, the authors substantially update the high-field magnetic phase diagram of SrFeO3, which hosts a hedgehog–antihedgehog lattice. Most strikingly, they uncover a first-order metamagnetic transition into the forced ferromagnetic phase, accompanied by negative volume magnetostriction and dramatic elastic softening. These anomalous magnetoelastic responses signal changes in charge degrees of freedom, shedding new light on the role of ligand holes in helical magnetism.\n\n[Phys. Rev. B 114, 264406] Published Wed Nov 04, 2026",
-          "link": "http://link.aps.org/doi/10.1103/ch1m-ppsm",
-          "publishedOn": "2026-11-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Magnetoelastic mapping of the high-field phase diagram in the topological cubic helimagnet ${\\mathrm{SrFeO}}_{3}$",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/znlw-hym7",
-          "author": "Sungyeb Jung, Hongze Li, Yudan Li, Noah Rossignol, Woongchul Choi, Yaguo Wang, Jianshi Zhou, Li Shi, and Feliciano Giustino",
-          "description": "Author(s): Sungyeb Jung, Hongze Li, Yudan Li, Noah Rossignol, Woongchul Choi, Yaguo Wang, Jianshi Zhou, Li Shi, and Feliciano Giustino\nHigh thermal conductivity in materials is typically dominated by either electronic or lattice transport channels. Here, combining theoretical calculations with experimental measurements, the authors report ε-TaN breaks this conventional picture: both electrons and phonons make substantial contributions to heat conduction, resulting in a room-temperature thermal conductivity that lies between those of aluminum and gold. By establishing a clear physical descriptor, these findings introduce a novel strategy for designing next-generation thermal conductors.\n\n[Phys. Rev. B 114, 274301] Published Wed Nov 04, 2026",
-          "link": "http://link.aps.org/doi/10.1103/znlw-hym7",
-          "publishedOn": "2026-11-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Balanced electron and phonon heat transport in metallic $ε$-TaN",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/zxkf-9269",
-          "author": "Philippe Ben-Abdallah",
-          "description": "Author(s): Philippe Ben-Abdallah\nThe author predicts here the spin thermal Hall effect in nonreciprocal photonic many-body systems, where radiative heat transport generates a transverse accumulation of photon spin angular momentum. This effect and its inverse are shown to form an Onsager–Casimir reciprocal pair, establishing a fundamental connection between heat and photon-spin transport. Thermodynamic constraints further reveal universal bounds on spin–heat conversion and introduce a figure of merit for its efficiency, opening new perspectives for spin-controlled thermal radiation and photonic thermal devices.\n\n[Phys. Rev. B 114, 285402] Published Wed Nov 04, 2026",
-          "link": "http://link.aps.org/doi/10.1103/zxkf-9269",
-          "publishedOn": "2026-11-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Radiative spin caloritronics in nonreciprocal many-body systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/fkpn-v567",
-          "author": "Valtýr Kári Daníelsson and Helgi Sigurdsson",
-          "description": "Author(s): Valtýr Kári Daníelsson and Helgi Sigurdsson\nAperiodic tilings lie between crystalline order and disorder, giving rise to unusual wave phenomena. Here, the authors investigate 2D wave transport in the recently discovered Hat monotile based on exciton-polariton lattices, revealing localized, critical, and extended states within its fractal spectrum. Simulations reveal anomalous wave spreading, ranging from superdiffusive to near-subdiffusive transport. The authors propose an optical pump-probe approach to explore these effects experimentally, opening new avenues for studying critical phenomena in reconfigurable polariton lattices.\n\n[Phys. Rev. B 114, 285404] Published Wed Nov 04, 2026",
-          "link": "http://link.aps.org/doi/10.1103/fkpn-v567",
-          "publishedOn": "2026-11-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Critical states and anomalous wave transport in an aperiodic polariton monotile",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/4klk-mgwy",
-          "author": "Ning Ma, Zekang Zhou, Chiara Cocchi, Maurice Bal, Maarten van Delft, Kenji Watanabe, Takashi Taniguchi, Steffen Wiedmann, Jian-Hao Chen, and Mitali Banerjee",
-          "description": "Author(s): Ning Ma, Zekang Zhou, Chiara Cocchi, Maurice Bal, Maarten van Delft, Kenji Watanabe, Takashi Taniguchi, Steffen Wiedmann, Jian-Hao Chen, and Mitali Banerjee\nHere, the authors investigate electrical transport in twisted double bilayer graphene (TDBG) on the antiferromagnetic material CrOCl (COC). At ultrahigh magnetic fields, an enhanced correlated insulating state is observed at half-filling of TDBG, which is attributed to the charge transfer effect between TDBG and COC. The authors further characterize the behavior of the correlated state by systematic temperature- and magnetic-field dependent measurements. Their results highlight the interfacial charge-related effect as a promising approach to manipulating the correlated states in moiré systems.\n\n[Phys. Rev. B 114, L291101] Published Wed Nov 04, 2026",
-          "link": "http://link.aps.org/doi/10.1103/4klk-mgwy",
-          "publishedOn": "2026-11-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Correlated insulating states in twisted double bilayer graphene on CrOCl enhanced by interfacial charge transfer effect",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/qcpr-m6qx",
-          "author": "Pavan Kumar Meena and Tomasz Klimczuk",
-          "description": "Author(s): Pavan Kumar Meena and Tomasz Klimczuk\nThe structurally complex tetragonal sigma (σ) phase provides a unique platform for investigating the interplay between chemical disorder, electronic structure, and superconductivity, particularly in Re-based alloys, in which unconventional superconductivity has been widely discussed. Here, the authors investigate superconductivity in σ-phase Re–X (X = V, Nb, and Ta) alloys, covering 3d, 4d, and 5d transition-metal substitutions, as well as in a derived medium-entropy alloy incorporating multiple transition metals. The narrow stability range of the σ phase highlights the sensitivity of its structural stabilization to chemical composition and valence electron concentration. Magnetization, electrical resistivity, and specific heat measurements establish bulk type-II superconductivity in all compounds. The electronic heat capacity is consistent with a fully gapped, weak-coupling BCS state. These findings highlight σ-phase Re-based alloys as model systems for exploring the roles of structural complexity, chemical disorder, and spin-orbit coupling in superconductivity.\n\n[Phys. Rev. Materials 10, 114802] Published Tue Nov 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/qcpr-m6qx",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Superconductivity in structurally complex $σ$-phase Re-$X$ ($X$ = V, Nb, Ta) and derived medium-entropy alloys",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/lrhl-j9bt",
-          "author": "Mitsuaki Kawamura, Takuya Nomoto, Niklas Witt, and Ryotaro Arita",
-          "description": "Author(s): Mitsuaki Kawamura, Takuya Nomoto, Niklas Witt, and Ryotaro Arita\nA new formalism yields the quantities that characterize a conventional superconductor without adjustable parameters.\n\n[Phys. Rev. Lett. 137, 196001] Published Tue Nov 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/lrhl-j9bt",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "First-Principles Calculation of Coherence Length and Penetration Depth Based on Density Functional Theory for Superconductors",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/1bnr-fhpv",
-          "author": "Pavol Kalinay",
-          "description": "Author(s): Pavol Kalinay\nIn order to describe diffusion of a particle in a thin layer of varying thickness, the author uses a mapping procedure originally derived for one-dimensional channels to obtain an effective two-dimensional equation. The resulting description of diffusion in such a confined geometry can be useful for systems like particles moving in thin films and particle separators.\n#AdvancingField #TechnicalAdvancement\n\n[Phys. Rev. E 114, 054104] Published Tue Nov 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/1bnr-fhpv",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Anisotropic diffusion in a layer of varying thickness",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/2fyb-mpp9",
-          "author": "Wietze D. Huisman, Sebastiaan L. D. ten Haaf, Chun-Xiao Liu, Qingzhen Wang, Alberto Bordin, Florian J. Bennebroek Evertsz', Bart Roovers, Michael Wimmer, and Srijit Goswami",
-          "description": "Author(s): Wietze D. Huisman, Sebastiaan L. D. ten Haaf, Chun-Xiao Liu, Qingzhen Wang, Alberto Bordin, Florian J. Bennebroek Evertsz', Bart Roovers, Michael Wimmer, and Srijit Goswami\nRealizing scalable Kitaev chains requires precise control over superconducting phases, to remove unwanted domain walls from the system. Here, the authors investigate two new control mechanisms for this purpose: tuning the spin state of the quantum dots and adjusting the charge of the Andreev bound state. Both approaches enable phase control without external magnetic flux, offering a potential route toward scalable architectures. The authors study spatially varying spin-orbit coupling as a potential cause of deviations from ideal π phase shifts, revealing important challenges for future device design.\n\n[Phys. Rev. B 114, 305403] Published Tue Nov 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/2fyb-mpp9",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Using Andreev bound states and spin to remove domain walls in a Kitaev chain",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/g3nf-fp61",
-          "author": "Etienne Daum, Benedikt Berlitz, Steffen Deck, Alexey V. Ustinov, and Jürgen Lisenfeld",
-          "description": "Author(s): Etienne Daum, Benedikt Berlitz, Steffen Deck, Alexey V. Ustinov, and Jürgen Lisenfeld\nSuperconducting transmon qubits are a cornerstone of solid-state quantum computing, yet their coherence is limited by dielectric loss in planar capacitors and junction electrodes. Here researchers explore to what extent this can be mitigated in mergemon qubits, which employ larger Josephson junctions that contribute most of the required capacitance. Using qubit spectroscopy to detect individual defects on surfaces and within tunnel junctions, the team compares different mergemon qubit designs and finds that careful balancing of junction and electrode geometries allows for long coherence times that are on par with similarly fabricated transmon qubits.\n\n[Phys. Rev. Applied 26, 054007] Published Tue Nov 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/g3nf-fp61",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Parasitic two-level systems in merged-element transmon qubits",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/d7pg-hjgs",
-          "author": "Makoto Ishihara, Carles Roch i Carceller, Kieran Neil Wilkinson, Casper Ahl Breum, Tobias Gehring, and Jonatan Bohr Brask",
-          "description": "Author(s): Makoto Ishihara, Carles Roch i Carceller, Kieran Neil Wilkinson, Casper Ahl Breum, Tobias Gehring, and Jonatan Bohr Brask\nThe authors present a semi-device-independent protocol for certifying quantum randomness from an uncharacterized measurement device by probing it with a small set of trusted states and lower-bounding the output entropy via semidefinite programming. They experimentally demonstrate the approach using optical homodyne detection of the vacuum probed by coherent states, showing that randomness can be certified in the presence of measurement noise, analog-to-digital converter imperfections, and finite-size effects.\n\n[Phys. Rev. A 114, 052413] Published Tue Nov 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/d7pg-hjgs",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Quantum randomness certification with untrusted measurements and few probe states",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/j2tl-p8y1",
-          "author": "Almila Kura, Bayram Tekin, and M. Ö. Oktel",
-          "description": "Author(s): Almila Kura, Bayram Tekin, and M. Ö. Oktel\nExtending magnetic quantum mechanics to polyhedral geometries, this work investigates both continuum particle dynamics and lattice Hofstadter physics on a cube enclosing a magnetic monopole. The authors uncover localized gap states near the cube’s corners alongside classic magnetic subband structures, highlighting the impact of vertex coordination.\n\n[APS Open Sci. 1, 000198] Published Tue Nov 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/j2tl-p8y1",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Landau levels on the surface of a cube",
-          "imageUrl": null
-        },
-        {
-          "id": "http://link.aps.org/doi/10.1103/nbry-mk8w",
-          "author": "Ke-Jun Xu, Nathan Giles-Donovan, Stefano Agrestini, Jaewon Choi, Mirian Garcia-Fernandez, Kejin Zhou, Junfeng He, Costel R. Rotundu, Young S. Lee, Thomas P. Devereaux, Zhi-Xun Shen, Dung-Hai Lee, Robert J. Birgeneau, and Wei-Sheng Lee",
-          "description": "Author(s): Ke-Jun Xu, Nathan Giles-Donovan, Stefano Agrestini, Jaewon Choi, Mirian Garcia-Fernandez, Kejin Zhou, Junfeng He, Costel R. Rotundu, Young S. Lee, Thomas P. Devereaux, Zhi-Xun Shen, Dung-Hai Lee, Robert J. Birgeneau, and Wei-Sheng Lee\nThis study uncovers a missing link in the charge dynamics of carrier-doped Mott insulators by mapping collective charge excitations in electron-doped cuprates across a broad doping range. The findings establish a unified framework for lattice-plasmon hybridization, offering fresh insight into the correlated electronic landscape of high-temperature superconductors.\n\n[APS Open Sci. 1, 000200] Published Tue Nov 03, 2026",
-          "link": "http://link.aps.org/doi/10.1103/nbry-mk8w",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Anomalous doping evolution of collective charge excitations in an $\\mathrm{n}$-type cuprate",
           "imageUrl": null
         }
       ]
