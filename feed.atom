@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-27T06:15:51.410Z</id>
+    <id>urn:2026-11-28T05:55:11.311Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-27T06:15:51.410Z</updated>
+    <updated>2026-11-28T05:55:11.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,20 @@ Combining analytic theory with three-dimensional simulations, in this Letter the
 [Phys. Rev. E 114, L053203] Published Wed Nov 25, 2026]]></summary>
         <author>
             <name>B. Tripathi, A. E. Fraser, P. W. Terry, E. G. Zweibel, M. J. Pueschel, and A. M. Beloborodov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade]]></title>
+        <id>http://link.aps.org/doi/10.1103/xvmh-mcg7</id>
+        <link href="http://link.aps.org/doi/10.1103/xvmh-mcg7"/>
+        <updated>2026-11-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author(s): Zhen-Ke Dou, Qian Zhao, Feng Wan, Chong Lv, Bing Guo, and Jian-Xing Li
+Relativistic pair-photon fireballs play a central role in high-energy astrophysics, yet generating a polarized overdense fireball in the laboratory remains a daunting challenge. To achieve this, the authors propose a method using currently available lasers that combines nonlinear and linear quantum electrodynamic processes, which dramatically lowers the required laser intensity threshold.
+#AdvancingField #ClearMotivation
+
+[Phys. Rev. E 114, L053204] Published Wed Nov 25, 2026]]></summary>
+        <author>
+            <name>Zhen-Ke Dou, Qian Zhao, Feng Wan, Chong Lv, Bing Guo, and Jian-Xing Li</name>
         </author>
     </entry>
     <entry>
@@ -1297,19 +1311,6 @@ Finite-frequency nonlocal conductivity calculations show that clean 2D Fermi liq
 [Phys. Rev. Lett. 137, 196303] Published Thu Nov 05, 2026]]></summary>
         <author>
             <name>Davis Thuillier and Thomas Scaffidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suppression of heavy-ion fusion by slow quasifission]]></title>
-        <id>http://link.aps.org/doi/10.1103/8x4j-pg8f</id>
-        <link href="http://link.aps.org/doi/10.1103/8x4j-pg8f"/>
-        <updated>2026-11-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author(s): L. T. Bezzina, E. C. Simpson, D. J. Hinde, M. Dasgupta, J. Buete, K. Banerjee, A. C. Berriman, K. J. Cook, D. Y. Jeung, P. McGlynn, C. Simenel, and B. M. A. Swinton-Bland
-Heavy-element synthesis hinges on the formation of a compound nucleus — a fully equilibrated amalgam of the projectile and target nuclei — but quasifission, a fast reseparation process, can prevent this outcome. Using the SOLITAIRE separator to directly count evaporation residues from reactions forming 220Th, this work shows that fusion can be suppressed by more than 50% even when the classic fingerprint of quasifission — a correlation between fragment mass and emission angle — is completely absent. Instead, a subtle broadening of the fission mass distribution is observed that points to slow quasifssion as an explanation for the suppression - a feature whose significance becomes clear only alongside the evaporation residue measurements.
-
-[Phys. Rev. C 114, 054602] Published Thu Nov 05, 2026]]></summary>
-        <author>
-            <name>L. T. Bezzina, E. C. Simpson, D. J. Hinde, M. Dasgupta, J. Buete, K. Banerjee, A. C. Berriman, K. J. Cook, D. Y. Jeung, P. McGlynn, C. Simenel, and B. M. A. Swinton-Bland</name>
         </author>
     </entry>
 </feed>
